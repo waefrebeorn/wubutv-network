@@ -1,0 +1,19 @@
+{
+  "claimed_by": "wubutv-episode-factory",
+  "file": "PREPRO_2026-10-14_0115.md",
+  "numbers": ["#128 O-65", "#129 N-67", "#130 A-20"],
+  "run": "2026-10-14 08:45 EDT Q3",
+  "rule": "FIFO: 0115's #128-#133 are the oldest unshot stages (post #122-127); #81 O-37 and #95 PA-15 stay reserved-unshot",
+  "video_budget": "6 max (3 episodes + up to 3 re-fires)",
+  "numbering": "#128 ORIGINALS = O-65 (ledger max O-64; O-65 free). #129 NEWS = N-67 (ledger max N-66; N-67 free). #130 ARCHIVE = A-20 (ledger max A-18; A-19 never shipped; A-20 free, next after drafted-max).",
+  "beat_gate": {
+    "128": "TITLE-GREP FIRST: no shipped 'THE SLUICE KEEPER' title (0 hits), no shipped canal/sluice/narrowboat beat in ledger. Beat: paddles raised 4-6s, levels equalize 6-7s, one narrowboat passes 7s, verdict boat-past-gate at 9.5s; line 'The water agreed with itself.' at 8s. MOTIF — THE SLACK. TEXT allowlist=none. Exactly TWO people (keeper + pilot, pilot never faces camera).",
+    "129": "TITLE-GREP FIRST: no shipped 'THE TENDER BOX' title (0 hits). Beat: one sealed tender box, seal broken + lid lifted at 6s (one opening), bids fanned illegible, verdict at 9.5s; line 'The box opens at noon.' at 8s. Colonel register. TEXT allowlist=none — auction room is a TEXT MAGNET, bare/unlettered pinned in SUBJECTS + TEXT + NEGATIVE. One mouth opening only, at 8s.",
+    "130": "TITLE-GREP FIRST: no shipped 'THE INDENTURE' title (0 hits). Beat: two wavy-edged parchment halves slid together 4-6s, teeth align, hold 6-8s, verdict at 9.5s; line 'The tear is the signature.' at 8s. Pairs with A-18 'The Split Stick' as the archive half-match diptych (intentional, flagged in the stage). Parchment marks are marks-not-letters (B-714 letterform check). TEXT allowlist=none."
+  },
+  "sources": {
+    "128": "slate/PREPRO_2026-10-14_0115.md #128 O-65 sluice-keeper voice stage (FIFO); fire-time Source/citation-token/LORE strip",
+    "129": "slate/PREPRO_2026-10-14_0115.md #129 N-67 tender-box voice stage (FIFO); fire-time Source/citation-token/LORE strip",
+    "130": "slate/PREPRO_2026-10-14_0115.md #130 A-20 indenture voice stage (FIFO); fire-time Source/citation-token/LORE strip"
+  }
+}

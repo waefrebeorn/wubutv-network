@@ -1,0 +1,12 @@
+{
+  "run": "wubutv-bumper-factory",
+  "date": "2026-10-15",
+  "slot": "19:30 EDT",
+  "numbers": [978, 979, 980],
+  "subjects": [
+    {"number": 978, "provisional": "0215 B-1056", "title": "The Turned Pike"},
+    {"number": 979, "provisional": "0215 B-1057", "title": "The Brake"},
+    {"number": 980, "provisional": "0215 B-1058", "title": "The Pigeon"}
+  ],
+  "beat_gate": "all three titles grep-zero vs shipped table at claim; lineage flags only (B-963 vs 1056 paid-vs-waived; B-660 vs 1057 ride-vs-brake), distinct beats, none struck"
+}
