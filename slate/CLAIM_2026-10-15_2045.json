@@ -1,0 +1,22 @@
+{
+  "attempt": 1,
+  "beat_gates": {
+    "987": "0315 B-1070 'The Brisk Hoist' FIFO: claim-time title grep-zero; beat-gated vs B-485 'The Flag Line' (hoist-pennant-belay-flying vs brisk-raise-flag-held \u2014 distinct object/action/verdict, flagged as lineage), vs B-954 'The Lowered Flag' (raise vs lower), vs B-656 'The Flagpole Rope' (raise vs tie), vs B-232 'The Chain Hoist' (roll-door chain vs flag halyard).",
+    "989": "0315 B-1068 'The Datum' FIFO (bank [READY] line 5804, drafted 03:15 EDT post-strike). Claim-time re-grep: title grep-zero vs shipped table; beat-gated vs B-143 'The Benchmark' (set-disk vs find-touch, distinct verbs) and B-964 'The Chalk Stroke' (quay benchmark vs paper chalk \u2014 lineage, flagged); 'benchmark' beats zero other hits.",
+    "990": "0315 B-1069 'The Taken Number' FIFO (fresh world-expansion, claim-window). Claim-time re-grep: title grep-zero vs shipped table; beat-gated vs shipped ticket family B-146 (hold-up), B-284 (issue blank), B-692 (blow-in/catch/file), B-698 (slide/re-tuck), B-809 (punch/hand) \u2014 pull-from-dispenser-and-hold is a distinct verb+arc, flagged. FLAG: the draft's ticket shows number '47' \u2014 token collision with STRUCK B-814 'The Ticket 47' (21 gate denials, struck 2026-10-14, never fire in any form). Adjudicated distinct: this is a different subject (claim-window take-a-number pull, ticket '47' in hand IS the verdict) vs the struck rack-draft (missing-47 verdict inversion); Q1 drafted it post-strike with its own beat-gate. If the integrity gate denies it, the shape retires per the struck precedent logic and the number frees \u2014 do NOT accumulate a reclaim against a '47'+ticket gate event."
+  },
+  "drafts_file": "slate/fire_b987_20261015_2045_sub.txt (B-987 substitute: 0315 B-1070 + line-staging strengthen + fire-time tilde/posture lock) + PREPRO_2026-10-15_0315.md (FIRE-READY) \u2014 0315 B-1068/B-1069 drafted into slate/fire_b989_20261015_2045.txt + slate/fire_b990_20261015_2045.txt",
+  "note": "B-987 'The Exact Coin' (0215 B-1066) SHAPE RETIRED PERMANENTLY 20:45: the by-number reclaim rendered but was QC-REJECTED (camera reframe, E-129 class), and the named-failure v2 re-fire was PIPELINE-GATE DENIED integrity_check_failed \u2014 the SECOND gate denial on the shape (first: 20:30 v1). Per the two-denial rule the shape retires and is never fired again in any form; the number B-987 freed per the B-814/B-973 precedent and took the next FIFO subject (0315 B-1070). No CLAIM files pending from today; B-854 skipped (standing beat-gate hold); B-974 stays RESERVED (Q1 restage, new shape); B-376 pipeline-DENIED; B-767 Q1 restage. Fire SEQUENTIALLY.",
+  "numbers": [
+    987,
+    989,
+    990
+  ],
+  "run": "2026-10-15 20:45 EDT bumper factory",
+  "scheduled_for_local": "2026-10-15 20:45:00 EDT",
+  "subjects": {
+    "987": "The Brisk Hoist (0315 B-1070 FIFO \u2014 freed number per the B-814/B-973 precedent; 'The Exact Coin' shape RETIRED)",
+    "989": "The Datum (0315 B-1068 FIFO)",
+    "990": "The Taken Number (0315 B-1069 FIFO)"
+  }
+}

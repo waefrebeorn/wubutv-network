@@ -1,7 +1,3 @@
-# Takes and raw intermediates are not backed up.
-takes/
-*.tmp
-*.part
-*.log
-.DS_Store
-Thumbs.db
+__pycache__/
+*.pyc
+*.pyo

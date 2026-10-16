@@ -1,10 +1,5 @@
-# Updated: 2026-10-15 ~19:38 EDT — replacement spawned by tiktok-kickstand-nag per
-# step 2d: the steer on the id in the previous pointer file
-# (browser-task:4aac7eaa-6a73-459d-bd24-0703040fbbba) FAILED with
-# "does not exist in this root session" — the ONLY sanctioned spawn signal.
-# (That task posted B-5 live ~19:31 EDT, so it was alive until very recently;
-# the pointer is now updated to the successor window.)
-# Same leased Chromium profile, so the @waefrebeorn signed-in session carries
-# over. This new session is uploading B-978 "The Turned Pike" now and then
-# HOLDS as the session window for future steers.
-browser-task:588a36ee-5728-4e81-92ed-1e41dd491b5e
+# Updated: 2026-10-15 ~21:06 EDT — replacement spawned by tiktok-kickstand-nag per
+# step 2d: the steer on the previous id (browser-task:f449b3e5-4445-4988-9426-883aedf87552)
+# FAILED with "browser task does not exist in this root session" — the ONLY sanctioned spawn signal.
+# Replacement inherits the same leased Chromium profile, so the @waefrebeorn login carries over.
+browser-task:c54103b7-3c27-4a29-b2da-cae0996a4389
