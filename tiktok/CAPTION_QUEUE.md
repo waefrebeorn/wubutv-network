@@ -65,17 +65,17 @@ oldest row whose bumper has no ledger row in TIKTOK_POSTS.md, then deletes
 | B-978 | The Turned Pike | — consumed 2026-10-15 ~19:44 EDT (posted live) | C |
 | B-21 | The Audience | — consumed 2026-10-16 ~03:44 EDT (posted live; queue row used verbatim) | B |
 | B-22 | The Orb Staff | — consumed 2026-10-16 ~04:05 EDT (posted live; caption used verbatim, tag set rotated C→A — B-1038 used C) | A |
-| B-23 | The Applause Sign | B-23 "The Applause Sign" — the sign lights. the hands comply. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
-| B-24 | The Microphone | B-24 "The Microphone" — the mic is hot. nothing is said. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-23 | The Applause Sign | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | D |
+| B-24 | The Microphone | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | A |
 | B-25 | The Curtain | — consumed 2026-10-16 ~04:41 EDT (posted live; AI-label toggle fixed by session — 9 prior click misses were targeting misses on the tiny custom toggle pill, fixed by visual hover-then-click; AI label ON + Disclose post content OFF confirmed on live post) | B |
-| B-26 | The Storage Unit | B-26 "The Storage Unit" — the unit is locked. the ledger holds the key. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-26 | The Storage Unit | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | C |
 | B-27 | The MEGA Vault | — consumed 2026-10-16 ~06:34 EDT (posted live) | D |
-| B-28 | The Commercial Break | B-28 "The Commercial Break" — commercial break. the station thanks its sponsors. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-28 | The Commercial Break | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | A |
 | B-29 | The Sports Desk | B-29 "The Sports Desk" — the desk reports the score. the score is ∞:0. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | — consumed 2026-10-16 ~07:20 EDT (posted live) |
-| B-30 | The Halftime | B-30 "The Halftime" — halftime. the score remains ∞:0. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
-| B-32 | The Interview | B-32 "The Interview" — the guest is interviewed. the answers are on file. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
-| B-33 | The Phone Call | B-33 "The Phone Call" — the call is placed. the line is held. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
-| B-34 | The Breaking News Sounder | B-34 "The Breaking News Sounder" — breaking news. the sounder sounds once. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-30 | The Halftime | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | C |
+| B-32 | The Interview | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | A |
+| B-33 | The Phone Call | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | B |
+| B-34 | The Breaking News Sounder | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | C |
 | B-35 | The Stapler | B-35 "The Stapler" — the stapler is refilled. the forms are bound. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
 | B-36 | The Traffic Report | B-36 "The Traffic Report" — traffic is reported. the road is clear. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
 | B-37 | The Penny, Part 2 | B-37 "The Penny, Part 2" — the penny returns. part two is filed. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
@@ -215,7 +215,7 @@ oldest row whose bumper has no ledger row in TIKTOK_POSTS.md, then deletes
 | B-1022 | The Cleared Grate | B-1022 "The Cleared Grate" — the grate is cleared. the drain runs true. ~ WuBu ~ #WuBuTV #skit #absurdist #comedy | C |
 | B-1023 | The Tide Table | — consumed 2026-10-16 ~09:18 EDT (posted live) | C |
 | B-1025 | The Change Cup | — consumed 2026-10-16 ~08:30 EDT (posted live) | A |
-| B-1024 | The Laundry Line | B-1024 "The Laundry Line" — the laundry line is strung. the uniforms dry. ~ WuBu ~ #WuBuTV #skit #comedy #deadpan | C |
+| B-1024 | The Laundry Line | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~09:45 EDT) | C |
 | B-1025 | The Change Cup | — superseded 2026-10-16 ~08:30 EDT (bumper posted via the row above) | C |
 | B-1026 | The Opening Time | — consumed 2026-10-16 ~08:03 EDT (posted live, verified with all settings) | C |
 | B-1027 | The Boarding Bell | — consumed 2026-10-16 ~07:30 EDT (posted live; AI-label via hover-then-click, verified on live post) | C |
@@ -229,3 +229,65 @@ oldest row whose bumper has no ledger row in TIKTOK_POSTS.md, then deletes
 | B-1039 | The Drawn Pail | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~04:45 EDT) | C |
 | B-1040 | The Split Log | — consumed (stale row; ledger shows posted per TIKTOK_POSTS.md, marked 2026-10-16 ~04:45 EDT) | C |
 | B-1042 | The Turned Compost | — consumed 2026-10-16 ~03:12 EDT (posted live) | C |
+| B-1041 | The Stacked Stone | B-1041 "The Stacked Stone" — the trail is marked. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1043 | The Washed Mug | B-1043 "The Washed Mug" — the break is over. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1044 | The Watered Fern | B-1044 "The Watered Fern" — the conservatory keeps its green. ~ WuBu ~ #WuBuTV #skit #comedy | C |
+| B-1045 | The Tape Pull | B-1045 "The Tape Pull" — the impression holds. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1046 | The Handling Mark | B-1046 "The Handling Mark" — the net is whole. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1047 | The Inner Wrap | B-1047 "The Inner Wrap" — the harvest is in. ~ WuBu ~ #WuBuTV #skit #comedy | C |
+| B-1048 | The Changed Mantle | B-1048 "The Changed Mantle" — the light is new. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1049 | The Quenched Blade | B-1049 "The Quenched Blade" — the blade is cool. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1050 | The Potted Seedling | B-1050 "The Potted Seedling" — it is planted. ~ WuBu ~ #WuBuTV #skit #comedy | C |
+| B-1051 | The Lifted Skein | B-1051 "The Lifted Skein" — the color holds. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1052 | The Caulked Seam | B-1052 "The Caulked Seam" — the seam is shut. ~ WuBu ~ #WuBuTV #skit #deadpan #comedy | C |
+| B-1053 | The Couched Sheet | B-1053 "The Couched Sheet" — the sheet is laid. ~ WuBu ~ #WuBuTV #skit #comedy | C |
+| B-924 | The Soothing Voice | B-924 "The Soothing Voice" — the soothing voice reads the notice. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-923 | The Thirty-Five Minutes | B-923 "The Thirty-Five Minutes" — the thirty-five minutes are allotted. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-922 | The Landing's Listen | B-922 "The Landing's Listen" — the landing listens. it does not repeat. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-921 | The Column's Answer | B-921 "The Column's Answer" — the column answers. the question is filed. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-920 | The Tower's Door | B-920 "The Tower's Door" — the tower's door is ajar. no one knocks twice. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-919 | The Runner's Edge | B-919 "The Runner's Edge" — the runner's edge is sharp. the track is flat. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-918 | The Rope Across | B-918 "The Rope Across" — the rope is across. crossing is not permitted. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-917 | The Box Label | B-917 "The Box Label" — the label matches the box. the box matches the label. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-916 | The Monitor's Rest | B-916 "The Monitor's Rest" — the monitor rests. the image is not owed. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-915 | The One Leaf | B-915 "The One Leaf" — one leaf. the tree accounts for it. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-914 | The Antenna Clamp | B-914 "The Antenna Clamp" — the clamp holds. the antenna accepts. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-913 | The Locked Third | B-913 "The Locked Third" — the third is locked. the sequence holds. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-912 | The Unfiled Drawer | B-912 "The Unfiled Drawer" — the drawer is unfiled. the office tolerates it. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-911 | The Locked Gate | B-911 "The Locked Gate" — the gate is locked. the grounds are secure. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-910 | The Slate's Second | B-910 "The Slate's Second" — the slate's second is noted. the take begins. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-909 | The Clock's Lunch | B-909 "The Clock's Lunch" — the clock takes lunch at noon. the hours cover. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-908 | The Night Roster | B-908 "The Night Roster" — the night roster is posted. the names are present. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-907 | The First Face | B-907 "The First Face" — the first face is familiar. the file confirms it. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-906 | The Prepared Groove | B-906 "The Prepared Groove" — the groove is prepared. the needle agrees. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-905 | The Call Boy | B-905 "The Call Boy" — the call boy is called. the errand is logged. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-904 | The Lobby Rug | B-904 "The Lobby Rug" — the rug is in the lobby. the lobby is flat. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-903 | The Released Doors | B-903 "The Released Doors" — the doors are released. the hallway breathes. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-902 | The Inverted Mug | B-902 "The Inverted Mug" — the mug is inverted. the spill never happened. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-901 | The Vending Row | B-901 "The Vending Row" — the vending row is stocked. the coins are lined up. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-900 | The Corner Booth | B-900 "The Corner Booth" — the corner booth is reserved. the booth is empty. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-899 | The Lobby Ledger | B-899 "The Lobby Ledger" — the lobby ledger is signed. the visitors are counted. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-898 | The Street Valve | B-898 "The Street Valve" — the street valve is closed. the street is dry. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-897 | The Elevator Count | B-897 "The Elevator Count" — the elevator counts. the floors are accounted. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-896 | The Break Room Mug | B-896 "The Break Room Mug" — the break room mug is washed. the break continues. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-895 | The Transmitter Hum | B-895 "The Transmitter Hum" — the transmitter hums. the air is occupied. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-894 | The Rooftop Signal | B-894 "The Rooftop Signal" — the rooftop signal is sent. the roof confirms. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-893 | The Archive Tag | B-893 "The Archive Tag" — the archive tag is tied. the shelf is indexed. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-892 | The Chalked Bay | B-892 "The Chalked Bay" — the bay is chalked. the marks are official. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-891 | The Loaded Dock | B-891 "The Loaded Dock" — the dock is loaded. the trucks are scheduled. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-890 | The Canvas | B-890 "The Canvas" — the canvas is blank. the painting is implied. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-889 | The Brought-Out | B-889 "The Brought-Out" — the item is brought out. the storeroom notes it. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-888 | The Four Minutes | B-888 "The Four Minutes" — the four minutes pass. the program holds. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-887 | The Oil Spot | B-887 "The Oil Spot" — the oil spot is marked. the floor is warned. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-874 | The Whistle | B-874 "The Whistle" — the whistle blows. the shift moves. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-872 | The Stairwell Door | B-872 "The Stairwell Door" — the stairwell door closes. the echo is filed. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-871 | The Shift Bell | B-871 "The Shift Bell" — the bell rings for the shift. the shift answers. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-869 | The Streetlight | B-869 "The Streetlight" — the streetlight is on. the street is named. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-868 | The Swivel | B-868 "The Swivel" — the swivel turns. the chair agrees. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-867 | The Ticket Window | B-867 "The Ticket Window" — the ticket window is open. the queue is orderly. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-866 | The Loop | B-866 "The Loop" — the loop loops. the cycle is noted. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-865 | The Foil | B-865 "The Foil" — the foil is wrapped. the contents are warm. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |
+| B-864 | The Key Station | B-864 "The Key Station" — the key station issues keys. the keys are numbered. ~ WuBu ~ #WuBuTV #dryhumor #originalseries #weird | B |
+| B-863 | The Floor Button | B-863 "The Floor Button" — the button is pressed. the floor arrives. ~ WuBu ~ #WuBuTV #deadpancomedy #shortfilm #surreal | C |
+| B-862 | The Noticeboard | B-862 "The Noticeboard" — the notice is posted. the board is full. ~ WuBu ~ #WuBuTV #comedy #indiefilm #strange | D |
+| B-861 | The Manifest | B-861 "The Manifest" — the manifest is read. the cargo matches. ~ WuBu ~ #WuBuTV #deadpan #skit #absurdist | A |

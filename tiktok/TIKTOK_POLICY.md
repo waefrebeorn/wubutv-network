@@ -106,6 +106,13 @@ read), and meme-literacy (network-native formats only, never licensed templates)
   median views/post and For You traffic % for decay. If distribution holds
   clean for 7 days, it returns to weekly. Any decay → the governor above
   fires.
+- **2026-10-16 10:16 EDT — THROTTLED BY GOVERNOR:** the first daily check
+  fired the hair-trigger (median views 106 → 1, ~99% drop; see changelog).
+  The 9/hour cadence is SUSPENDED. Park 48–72h (resume ≥ 2026-10-18 09:49 EDT),
+  then 30-minute floor = 2/hour, rebuild over 1–2 weeks. Re-tighten ONLY on
+  replicated review evidence. The line above ("at 9/hour" / "returns to weekly
+  if clean") is frozen until the review certifies 7 consecutive clean days at
+  the new pace.
 - **The backlog truth (unchanged):** the factory makes ~288/day; no
   single-account rate closes a ~920 backlog — it grows regardless. The
   backlog is a buffer, not a debt. At ~216/day the buffer is ~4 days of
@@ -223,3 +230,19 @@ read), and meme-literacy (network-native formats only, never licensed templates)
   suppression), not a target. Hair-trigger park rules armed; performance
   review goes daily for the first 7 days at the new rate, then back to
   weekly if clean.
+- 2026-10-16 (GOVERNOR FIRED — tiktok-performance-review daily run #1, 10:16 EDT):
+  first night at the 9/hour ramp ended in a distribution collapse: median
+  views/post 106 → 1 (~99% drop run-over-run, beating the 40% tripwire);
+  age-matched 5h cohort 106 → ~0.5; all 48 posts from 2026-10-15 23:25 EDT
+  through 2026-10-16 09:34 EDT at 0–9 views; For-You traffic % unobservable
+  (Studio withholds the traffic-source breakdown below 100 views, and none of
+  the 14 newest posts reached it). Separately, a captcha loop at 09:49 EDT
+  fired the §5 hair-trigger park on its own. Governor actions: (1) 48–72h park
+  confirmed on upload_park.txt (resume no earlier than 2026-10-18 09:49 EDT,
+  auto-lift 2026-10-19 09:49 EDT); (2) kickstand nag pacing floor widened
+  6 → 30 min via cron.update (2 posts/hour on resume). Performance review
+  stays DAILY until 7 consecutive clean days at the new pace; no re-tightening
+  without replicated evidence. Cause unproven but the signature matches the
+  documented burst-suppression family — the 9/hour wall fired after ~40 posts
+  of sustained ramp, not instantly, which reads as TikTok's paced response to
+  sustained high volume.

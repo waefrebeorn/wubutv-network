@@ -110,17 +110,12 @@ wubutv-network/
 - Loudness normalized per block at assembly time to the documented target.
 - Spec details: `notes/ASSEMBLY.md`. Block A: `outlet/`.
 
-## Backup / media
+## Backup / GitHub
 
-This repo is code, text, ledgers, slates, docs, and policy — media-free.
-All finished clips live on the public Hugging Face dataset
-**[WaefreBeorn/wubutv-network-media](https://huggingface.co/datasets/WaefreBeorn/wubutv-network-media)**,
-with a labeled `manifest.json` catalog (number, title, tagline, channel,
-sponsor, CDN URL per clip). CDN URL pattern:
+This repo is push-ready. It has no remote yet; to publish:
 
-    https://huggingface.co/datasets/WaefreBeorn/wubutv-network-media/resolve/main/<path>
+    git remote add origin <url>
+    git push -u origin main
 
-## License
-
-Licensed under the **WaefreBeorn Umbrella License v3.0** — see `LICENSE`
-(verbatim from [waefrebeorn/waefrebeorn-umbrella-license](https://github.com/waefrebeorn/waefrebeorn-umbrella-license)).
+Videos are the network's masters and ARE tracked (deliberately — this is
+the backup). Only `takes/` (raw intermediates) is ignored.
