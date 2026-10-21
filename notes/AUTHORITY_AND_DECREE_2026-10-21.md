@@ -70,7 +70,9 @@ with a word. Filings stay PARKED until advertising profit exists.
 - R4 Coherence Contract — published, reachable, verified by HTTP 200.
 - R5 **narrowed** to a FAST-style always-on loop with ad pods (DA-25 A1).
 - R6 coherence score published per block, including bad numbers.
-- A2 trademark packet prepared; **filing awaits the owner's money and signature**.
+- A2 **PARKED by owner ruling 2026-10-21**: no filing until it is paid for out of
+  advertising-revenue profit. Packet is shelf-ready; the gate is realised profit,
+  and the ledger currently shows zero revenue — say so, never imply otherwise.
 - A3 provenance spec issued; every master to carry a `provenance` block
   **before 2027-01-01**.
 - A5 coherence is a retention claim, never a reach claim.

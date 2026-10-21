@@ -1,6 +1,10 @@
 # TRADEMARK FILING PACKET — prepared 2026-10-21 (CEO Director)
 
-**Status: PREPARED, NOT FILED.** Filing costs money and requires the owner's
+**Status: PARKED (owner ruling 2026-10-21).** Nothing files until it is paid for
+out of advertising revenue profit. The packet is complete and stays on the shelf;
+the revenue gate is the only thing that unsticks it.
+
+**Original status line (superseded): PREPARED, NOT FILED.** Filing costs money and requires the owner's
 signature; nothing here is a filing and nothing here is legal advice. This is the
 packet an attorney or the owner can act on in one sitting.
 
@@ -86,7 +90,18 @@ filing, they change.
 - **`SERIAL-<n>` numbering syntax.** Not a mark; it is a format. Formats are
   protected by being first, not by registration.
 
-## The gate (owner action required)
+## The revenue gate (owner ruling, 2026-10-21)
+
+> "i am not filing anything until we pay for it with ad revenue profit so park that"
+
+Filing is therefore **gated on realised ad-revenue profit**, not on readiness. Readiness is done. What has to happen first is a revenue ledger that shows profit from advertising — and today that number is **zero**, which the network must state plainly rather than imply otherwise (DA-25 finding 25).
+
+**What can be done for free, meanwhile (and is done):** the marks are used
+consistently in every master (the corner bug is already a use-in-commerce record),
+first-use evidence is dated and filed here, and the packet is shelf-ready so the
+day profit exists the only remaining steps are signature and payment.
+
+## The original filing gate (owner action required, still accurate)
 
 1. Decide **owner of record**: individual (`WaefreBeorn`) or an entity. This
    decides who can license later, and it cannot be casually changed after filing.
