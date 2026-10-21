@@ -1,0 +1,13 @@
+# Takes and raw intermediates are not backed up.
+takes/
+*.tmp
+*.part
+*.log
+.DS_Store
+Thumbs.db
+*.mp4
+
+# Ephemeral daily posting state — not versioned.
+PAUSE_FLAG
+
+__pycache__/

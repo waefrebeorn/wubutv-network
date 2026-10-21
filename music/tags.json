@@ -1,0 +1,35 @@
+{
+ "_note": "unit id -> {bed, sting}. Era I masters backfill as legacy-none in the manifest; this file starts empty and grows at ship time. See MUSIC_TAGS.md.",
+ "E-220": {
+  "bed": "MV1-BED-LABS",
+  "sting": "MV1-STING-LABS"
+ },
+ "E-221": {
+  "bed": "MV1-BED-ORIGINALS",
+  "sting": "MV1-STING-ORIGINALS"
+ },
+ "E-222": {
+  "bed": "MV1-BED-LABS",
+  "sting": "MV1-STING-LABS"
+ },
+ "AD-334": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-335": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-343": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-344": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "S1-2": {
+  "bed": "serial-1-orig",
+  "sting": "orig"
+ }
+}
