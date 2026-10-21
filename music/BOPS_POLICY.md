@@ -114,8 +114,14 @@ the hook on a phone speaker, not headphones).
 - **0:10 stings** → channel idents and bumper heads; they are *one gesture*, and a
   video part using one must have no dialogue under it.
 - **0:30** → bumper or ad bumper; carries a lift, still no verse-and-chorus sprawl.
-- **1:00** → the standard bed under a 3–4 part story piece; duck it 4 dB under the
-  spoken line and never re-voice anything.
+- **1:00** → the standard bed under a 3–4 part story piece; duck it **6–10 dB** under the
+  spoken line (static bed 15–18 dB under the LINE, attack 10–30 ms), **release 500 ms**.
+  Measured 2026-10-21 (ffmpeg 6.1.1, synthetic 144 BPM two-step bed, 100 ms — one
+  16th — gap between words): a **250 ms release lets the bed rise +4.3 dB in the gap**,
+  500 ms **+2.0 dB**, 1000 ms **+0.9 dB** — so 500 ms halves the pump but does not remove
+  it; if a part's gap is exactly one 16th, use **800–1000 ms**. Evidence:
+  `AIShowResearch/findings/duck_pump_2026-10-21.txt`, test code in
+  `AIShowResearch/templates/duck_pump_*.py`. Never re-voice anything.
 - **1:30** → the banger; also the bed for a 9-part (90 s) assembled piece.
 
 All four lengths stay inside the network's rule: a theme may score card-free or
