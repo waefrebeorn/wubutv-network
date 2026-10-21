@@ -122,6 +122,13 @@ the hook on a phone speaker, not headphones).
   it; if a part's gap is exactly one 16th, use **800–1000 ms**. Evidence:
   `AIShowResearch/findings/duck_pump_2026-10-21.txt`, test code in
   `AIShowResearch/templates/duck_pump_*.py`. Never re-voice anything.
+  **Why a bed at all (measured 2026-10-21):** the evidence is a *small positive association*,
+  not a retention lever — 4,422 Douyin short videos, music in 83.24%, higher dissemination
+  rank with music (Mann–Whitney Z = −7.821, r = 0.118, PLoS One 2026-01-29,
+  doi 10.1371/journal.pone.0341716), while the only preregistered experiment (477 viewers,
+  6 videos with/without music, CHI '26, doi 10.1145/3772318.3791466) found **no** measurable
+  effect on engagement or recall. A mismatched bed is a measured downside (viewers report
+  distraction). So: bed only where it matches the scene's tone, never to buy completion.
 - **1:30** → the banger; also the bed for a 9-part (90 s) assembled piece.
 
 All four lengths stay inside the network's rule: a theme may score card-free or
