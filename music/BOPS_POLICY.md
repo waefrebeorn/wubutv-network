@@ -34,7 +34,7 @@ ever (describe the sound, never the name).
 
 - **happy hardcore / rave** — piano stabs, hoover, 144–160
 - **eurodance** — gated snare, octave brass, key-change lift
-- **UK garage two-step** — shuffled swing over a heartbeat sub
+- **UK garage / speed garage** — shuffled swing over a heartbeat sub; **note the tempo**: classic 2-step is 130–135 BPM and speed garage 128–130, so at our 144 it is honestly *speed-garage-adjacent* and the prompt says that
 - **amapiano house** — log-drum bassline over a four-on-the-floor kick
 - **Italo disco / nu-disco** — arpeggio bass, octave strings
 - **acid house / Chicago house** — 303 squelch, open hats
@@ -77,13 +77,29 @@ those**, on the record, with the arithmetic stated: 18 bars × 4 beats = 72 beat
 at one line per bar and ≤12 syllables a line the ceiling is ~150 words. The 1:00
 and 1:30 lengths must clear the floor and do (272–333 words).
 
+## 4b. Section size limits (measured)
+
+Suno handles **verse blocks of 4–8 lines, choruses of 4–6, bridges of 2–4**; past
+about eight lines it rushes or slurs the delivery. The pack's hook blocks sit at
+5–8 lines and its verses at 4–8, i.e. inside the limit by design. Style-field
+diminishing returns begin around **120 characters**.
+
+## 4c. Model routing + what a season costs (SlopTV benchmark data)
+
+Best per category: **Seedance 2.0** for faces/consistency/text_render/camera (5.00),
+**Seedance 2.5** for multishot/img2video, **Vivix W1** for lipsync/audio, **MiniMax
+H3** for hands, **Sora 2** for style. Measured price floor: **Seedance 2.0 ≈ $0.015/s**
+→ **10 s part = $0.15**, 30 s piece = $0.45, 90 s piece = $1.35, **36-part season =
+$5.40**. Retry multipliers are published too (Seedance 2.5 = 2.0 attempts, FLUX 3 /
+Sora 2 / Kling 3.0 = 1.0), so price per *usable* clip is price × attempts.
+
 ## 5. Suno v6 settings that decide whether the prompt is used at all
 
 | Switch | Setting | Why |
 |---|---|---|
 | Variety | **Off** | at any setting above Off, Suno rewrites the style field and diverges the takes |
 | Style Influence | **~75** | default 50 throws away half of a deliberately written prompt |
-| Weirdness | low | a tight hook fights weirdness |
+| Weirdness | **20%** | Suno's own scale runs Safe→Chaos with 50% "normal"; 20% keeps a tight hook tight (independent v6 tests land here too) |
 | Max Mode | **off for 0:10/0:30**, on for 1:00/1:30 | costs 2× credits; short bangers do not need it |
 | Vocal gender | set explicitly | better than describing gender in prose |
 | Duration | **Custom, stated** | auto trends slower, sparser and longer |
