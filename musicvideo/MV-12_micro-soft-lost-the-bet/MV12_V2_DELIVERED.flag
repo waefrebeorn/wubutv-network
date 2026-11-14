@@ -1,0 +1,9 @@
+MV-12 v2 DELIVERED 2026-11-12 ~05:05 EST (Q1 kinetic rebuild, MV improvement program msg 303)
+House: masters/mv12_micro_soft_lost_the_bet_v2_16x9.mp4 — 92,880,433 B, md5 361396c2d80e273f3be1ab1b97beaf13, 2741f / 114.208s, 1280x720 24fps h264, AAC 48k stereo, SEI crf=18.0, faststart moov@36, audio agreement min corr 0.9986 (5 windows @5/30/60/90/110s: 0.9997/0.9987/0.9986/0.9994/0.9986)
+Chat copy: masters/mv12_micro_soft_lost_the_bet_v2_16x9_50mb.mp4 — 38,129,387 B (36.4 MB), md5 634e3f3e61e00c63b57bd31828954aea, audio md5 == house 11a1ce52a8783ae5008e7ff6d4ac3e7a
+Fix: 99 double-backslash Dim events fixed at source (build_kinetic_mv12.py separator dropped); 0 double-backslash lines in combined + part1 + part2 .ass; 419 events, words JSON byte-identical; Clippy scaled 1.6x (44x84 -> ~70x134, bottom-right (1224,644))
+Stem verdict: "I'm gonna win" NOT sung (stem silent RMS 9-121 across 79.36-80.86; mix passes agree "I can't believe you" smeared 78.60-82.24); "you" 47.28 NOT sung ("Now we all know the joke." p=0.94-0.99). Both stay dropped; kinetic stays 182 words.
+Motion audit PASS: only near-still 13f @38.58s (S20 settle, under 24f bar).
+Parent-verified: gates re-run independently (ALL PASS, identical numbers); md5s match; full-res frame reads at 33.20 ("Steve" an4 middle-left bold yellow + Dim trail), 47.44 + 80.86 (Dim "I" an5 middle-center) — fix confirmed. V1 master untouched (md5 a074f68bbfdc6be7bca0b6afc1adf370).
+Disclosed carry-overs: bridge density 40.5/min vs 66 target + 4 dropped words unchanged; first word of each line mid-fade (fad 120ms) faint at exact line-start frames against bright backgrounds (same as v1).
+Q1 coordinator 19eaf2e1 DONE ~05:00:49 EST. Parent-verified + delivered by WuBu.

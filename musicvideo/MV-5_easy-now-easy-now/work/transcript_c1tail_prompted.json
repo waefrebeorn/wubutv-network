@@ -1,0 +1,67 @@
+{
+ "tag": "c1tail",
+ "t0": 75.0,
+ "segments": [
+  {
+   "start": 75.0,
+   "end": 85.98,
+   "text": "VPNEasy now, easy nowwiadLet it drift, let it drift",
+   "words": [
+    {
+     "word": "VPNEasy",
+     "start": 75.0,
+     "end": 76.1,
+     "prob": 0.001
+    },
+    {
+     "word": " now,",
+     "start": 76.1,
+     "end": 76.14,
+     "prob": 0.001
+    },
+    {
+     "word": " easy",
+     "start": 76.36,
+     "end": 76.94,
+     "prob": 0.0
+    },
+    {
+     "word": " nowwiadLet",
+     "start": 76.94,
+     "end": 76.94,
+     "prob": 0.051
+    },
+    {
+     "word": " it",
+     "start": 76.94,
+     "end": 79.44,
+     "prob": 0.019
+    },
+    {
+     "word": " drift,",
+     "start": 79.44,
+     "end": 79.96,
+     "prob": 0.001
+    },
+    {
+     "word": " let",
+     "start": 80.54,
+     "end": 80.8,
+     "prob": 0.031
+    },
+    {
+     "word": " it",
+     "start": 80.8,
+     "end": 85.98,
+     "prob": 0.83
+    },
+    {
+     "word": " drift",
+     "start": 85.98,
+     "end": 85.98,
+     "prob": 0.905
+    }
+   ]
+  }
+ ]
+}

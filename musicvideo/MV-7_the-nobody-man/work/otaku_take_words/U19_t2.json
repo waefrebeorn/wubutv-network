@@ -1,0 +1,100 @@
+{
+ "track": "work/otaku_qc/U19_t2_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 14,
+ "words": [
+  {
+   "word": "Tiny",
+   "start": 0.0,
+   "end": 0.7,
+   "prob": 0.616
+  },
+  {
+   "word": "winds",
+   "start": 0.7,
+   "end": 1.2,
+   "prob": 0.535
+  },
+  {
+   "word": "in",
+   "start": 1.2,
+   "end": 1.52,
+   "prob": 0.986
+  },
+  {
+   "word": "a",
+   "start": 1.52,
+   "end": 1.64,
+   "prob": 0.994
+  },
+  {
+   "word": "low",
+   "start": 1.64,
+   "end": 1.92,
+   "prob": 0.958
+  },
+  {
+   "word": "-lit",
+   "start": 1.92,
+   "end": 2.2,
+   "prob": 0.828
+  },
+  {
+   "word": "room,",
+   "start": 2.2,
+   "end": 2.62,
+   "prob": 0.997
+  },
+  {
+   "word": "one",
+   "start": 2.76,
+   "end": 2.92,
+   "prob": 0.739
+  },
+  {
+   "word": "more",
+   "start": 2.92,
+   "end": 3.12,
+   "prob": 0.998
+  },
+  {
+   "word": "clip",
+   "start": 3.12,
+   "end": 3.38,
+   "prob": 0.989
+  },
+  {
+   "word": "and",
+   "start": 3.38,
+   "end": 3.64,
+   "prob": 0.932
+  },
+  {
+   "word": "one",
+   "start": 3.64,
+   "end": 3.86,
+   "prob": 0.997
+  },
+  {
+   "word": "more",
+   "start": 3.86,
+   "end": 4.12,
+   "prob": 0.999
+  },
+  {
+   "word": "zoom",
+   "start": 4.12,
+   "end": 4.46,
+   "prob": 0.819
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.46,
+   "text": "Tiny winds in a low-lit room, one more clip and one more zoom"
+  }
+ ]
+}

@@ -1,0 +1,1355 @@
+{
+ "old_lines": 53,
+ "new_lines": 48,
+ "matched_pairs": 46,
+ "dropped_old_lines": [
+  {
+   "old_line": 2,
+   "text": "Listen here, baby.",
+   "span": [
+    7.24,
+    10.44
+   ]
+  },
+  {
+   "old_line": 14,
+   "text": "the wrecks just come.",
+   "span": [
+    61.59,
+    64.89
+   ]
+  },
+  {
+   "old_line": 39,
+   "text": "the wrecks just come.",
+   "span": [
+    190.5,
+    194.68
+   ]
+  },
+  {
+   "old_line": 42,
+   "text": "The wrecks just come.",
+   "span": [
+    205.07,
+    208.24
+   ]
+  },
+  {
+   "old_line": 46,
+   "text": "toll roads, the fast lanes make crashes, wrecks just come.",
+   "span": [
+    224.79,
+    228.47
+   ]
+  },
+  {
+   "old_line": 47,
+   "text": "toll roads, the fast lanes make crashes, the wrecks just come.",
+   "span": [
+    228.47,
+    228.97
+   ]
+  },
+  {
+   "old_line": 48,
+   "text": "toll roads, the fast lanes make crashes, wrecks just come.",
+   "span": [
+    228.97,
+    230.09
+   ]
+  }
+ ],
+ "added_new_lines": [
+  {
+   "new_line": "L42",
+   "text": "Fast lanes may crash it (fast lanes may crash it),",
+   "span": [
+    226.5,
+    229.9
+   ]
+  },
+  {
+   "new_line": "L48",
+   "text": "Toll roads are dumb\u2026",
+   "span": [
+    258.14,
+    260.52
+   ]
+  }
+ ],
+ "totals": {
+  "words_changed": 29,
+  "words_added": 21,
+  "words_dropped": 8,
+  "words_shift_measured": 345,
+  "median_abs_shift": 0.14,
+  "max_abs_shift": 1.47,
+  "shifted_gt_0.5s": 11
+ },
+ "rows": [
+  {
+   "old_line": 1,
+   "new_line": "L01",
+   "old_text": "Yeah.",
+   "new_text": "Yeah\u2026 listen here, baby.",
+   "old_span": [
+    4.32,
+    7.24
+   ],
+   "new_span": [
+    4.44,
+    8.68
+   ],
+   "match": 0.4,
+   "changed": [],
+   "added": [
+    "listen",
+    "here,",
+    "baby."
+   ],
+   "dropped": [],
+   "n_shifted": 1,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.12,
+   "big_shifts": []
+  },
+  {
+   "old_line": 3,
+   "new_line": "L02",
+   "old_text": "Those shiny roads ain't what they seem.",
+   "new_text": "Those shiny roads ain't what they seem.",
+   "old_span": [
+    10.44,
+    20.0
+   ],
+   "new_span": [
+    8.98,
+    13.42
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 7,
+   "median_shift": 0.14,
+   "max_abs_shift": 1.46,
+   "big_shifts": [
+    [
+     "Those",
+     10.44,
+     "Those",
+     8.98,
+     -1.46
+    ]
+   ]
+  },
+  {
+   "old_line": 4,
+   "new_line": "L03",
+   "old_text": "They build the toll roads, baby, make your pay. the roll",
+   "new_text": "They build the toll roads, baby, make you pay to roll,",
+   "old_span": [
+    20.0,
+    23.8
+   ],
+   "new_span": [
+    20.04,
+    23.92
+   ],
+   "match": 0.82,
+   "changed": [
+    [
+     "your",
+     "you"
+    ],
+    [
+     "the",
+     "to"
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.16,
+   "big_shifts": []
+  },
+  {
+   "old_line": 5,
+   "new_line": "L04",
+   "old_text": "old plazas make you stop, then they make you go.",
+   "new_text": "Old plazas make you stop, then they make you go.",
+   "old_span": [
+    23.8,
+    27.21
+   ],
+   "new_span": [
+    23.92,
+    27.36
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 10,
+   "median_shift": 0.11,
+   "max_abs_shift": 0.2,
+   "big_shifts": []
+  },
+  {
+   "old_line": 6,
+   "new_line": "L05",
+   "old_text": "Cars slam the brakes, the back -ends crash and smash.",
+   "new_text": "Cars slam the brakes, the back ends crash and smash,",
+   "old_span": [
+    27.21,
+    31.14
+   ],
+   "new_span": [
+    27.36,
+    30.96
+   ],
+   "match": 0.9,
+   "changed": [
+    [
+     "-ends",
+     "ends"
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.2,
+   "big_shifts": []
+  },
+  {
+   "old_line": 7,
+   "new_line": "L06",
+   "old_text": "NTSB said those booths were the worst on the map.",
+   "new_text": "NTSB said those booths were the worst on the map.",
+   "old_span": [
+    31.14,
+    34.44
+   ],
+   "new_span": [
+    30.96,
+    34.34
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 10,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.21,
+   "big_shifts": []
+  },
+  {
+   "old_line": 8,
+   "new_line": "L07",
+   "old_text": "Now they got the fast lanes, the rich ones fly on by",
+   "new_text": "Now they got the fast lanes, the rich ones fly on by,",
+   "old_span": [
+    34.44,
+    37.72
+   ],
+   "new_span": [
+    34.34,
+    37.82
+   ],
+   "match": 0.87,
+   "changed": [
+    [
+     "fast lanes,",
+     null
+    ],
+    [
+     null,
+     "fast"
+    ],
+    [
+     null,
+     "lanes,"
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 10,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.21,
+   "big_shifts": []
+  },
+  {
+   "old_line": 9,
+   "new_line": "L08",
+   "old_text": "while the rest of us crawl. watching money flash by,",
+   "new_text": "While the rest of us crawl, watching money flash by.",
+   "old_span": [
+    37.72,
+    41.77
+   ],
+   "new_span": [
+    37.82,
+    41.38
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 10,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.24,
+   "big_shifts": []
+  },
+  {
+   "old_line": 10,
+   "new_line": "L09",
+   "old_text": "weaving weave out the speeds, don't match it all.",
+   "new_text": "Weave in, weave out, the speeds don't match at all,",
+   "old_span": [
+    41.77,
+    45.26
+   ],
+   "new_span": [
+    41.38,
+    44.98
+   ],
+   "match": 0.74,
+   "changed": [
+    [
+     "weaving",
+     null
+    ],
+    [
+     null,
+     "Weave"
+    ],
+    [
+     null,
+     "in,"
+    ],
+    [
+     "it",
+     "at"
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 7,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.26,
+   "big_shifts": []
+  },
+  {
+   "old_line": 11,
+   "new_line": "L10",
+   "old_text": "One car's racing, the other ones about to fall.",
+   "new_text": "One car's racing, the other one's about to fall.",
+   "old_span": [
+    45.26,
+    50.72
+   ],
+   "new_span": [
+    44.98,
+    49.42
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.28,
+   "big_shifts": []
+  },
+  {
+   "old_line": 12,
+   "new_line": "L11",
+   "old_text": "Toll roads are dumb, baby. toll roads are dumb.",
+   "new_text": "Toll roads are dumb, baby, toll roads are dumb,",
+   "old_span": [
+    50.72,
+    57.8
+   ],
+   "new_span": [
+    51.14,
+    56.3
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.47,
+   "big_shifts": []
+  },
+  {
+   "old_line": 13,
+   "new_line": "L12",
+   "old_text": "Fast lanes make crashes,",
+   "new_text": "Fast lanes make crashes, the wrecks just come.",
+   "old_span": [
+    57.8,
+    61.59
+   ],
+   "new_span": [
+    57.36,
+    63.78
+   ],
+   "match": 0.67,
+   "changed": [],
+   "added": [
+    "the",
+    "wrecks",
+    "just",
+    "come."
+   ],
+   "dropped": [],
+   "n_shifted": 4,
+   "median_shift": 0.17,
+   "max_abs_shift": 0.44,
+   "big_shifts": []
+  },
+  {
+   "old_line": 15,
+   "new_line": "L13",
+   "old_text": "Pay to go faster to the rest of us slow.",
+   "new_text": "Pay to go faster, the rest of us slow,",
+   "old_span": [
+    64.89,
+    72.16
+   ],
+   "new_span": [
+    64.99,
+    70.6
+   ],
+   "match": 0.95,
+   "changed": [],
+   "added": [],
+   "dropped": [
+    "to"
+   ],
+   "n_shifted": 9,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.24,
+   "big_shifts": []
+  },
+  {
+   "old_line": 16,
+   "new_line": "L14",
+   "old_text": "We've been slamming the danger roads.",
+   "new_text": "Weaving and slamming, the danger grows.",
+   "old_span": [
+    72.16,
+    78.81
+   ],
+   "new_span": [
+    72.12,
+    78.04
+   ],
+   "match": 0.5,
+   "changed": [
+    [
+     "We've",
+     "Weaving"
+    ],
+    [
+     "We've",
+     "and"
+    ],
+    [
+     "been",
+     "Weaving"
+    ],
+    [
+     "been",
+     "and"
+    ],
+    [
+     "roads.",
+     "grows."
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 3,
+   "median_shift": 0.16,
+   "max_abs_shift": 0.39,
+   "big_shifts": []
+  },
+  {
+   "old_line": 17,
+   "new_line": "L15",
+   "old_text": "Toll roads are dumb, baby. toll roads are dumb.",
+   "new_text": "Toll roads are dumb, baby, toll roads are dumb,",
+   "old_span": [
+    78.81,
+    85.75
+   ],
+   "new_span": [
+    78.94,
+    84.48
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.34,
+   "big_shifts": []
+  },
+  {
+   "old_line": 18,
+   "new_line": "L16",
+   "old_text": "Fast lanes make crashes, they just keep coming.",
+   "new_text": "Fast lanes make crashes\u2026 they just keep coming.",
+   "old_span": [
+    85.75,
+    92.97
+   ],
+   "new_span": [
+    85.76,
+    91.52
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.18,
+   "max_abs_shift": 0.3,
+   "big_shifts": []
+  },
+  {
+   "old_line": 19,
+   "new_line": "L17",
+   "old_text": "Express lanes look clean, but the merges get hot.",
+   "new_text": "Express lanes look clean, but the mergers get hot,",
+   "old_span": [
+    92.97,
+    96.67
+   ],
+   "new_span": [
+    91.5,
+    96.48
+   ],
+   "match": 0.89,
+   "changed": [
+    [
+     "merges",
+     "mergers"
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.14,
+   "max_abs_shift": 1.47,
+   "big_shifts": [
+    [
+     "Express",
+     92.97,
+     "Express",
+     91.5,
+     -1.47
+    ]
+   ]
+  },
+  {
+   "old_line": 20,
+   "new_line": "L18",
+   "old_text": "Speed up, cut over. somebody gets caught,",
+   "new_text": "Speed up, cut over, somebody gets caught.",
+   "old_span": [
+    96.67,
+    100.14
+   ],
+   "new_span": [
+    96.48,
+    99.96
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 7,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.51,
+   "big_shifts": [
+    [
+     "somebody",
+     98.11,
+     "somebody",
+     98.62,
+     0.51
+    ]
+   ]
+  },
+  {
+   "old_line": 21,
+   "new_line": "L19",
+   "old_text": "they say the paid side is safer. the free side takes the hit,",
+   "new_text": "They say the paid side is safer, the free side takes the hit,",
+   "old_span": [
+    100.14,
+    103.59
+   ],
+   "new_span": [
+    99.96,
+    103.58
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 13,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.25,
+   "big_shifts": []
+  },
+  {
+   "old_line": 22,
+   "new_line": "L20",
+   "old_text": "crashes just move over. still the same old mess,",
+   "new_text": "Crashes just move over, still the same old mess.",
+   "old_span": [
+    103.59,
+    107.89
+   ],
+   "new_span": [
+    103.78,
+    107.88
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.17,
+   "max_abs_shift": 0.33,
+   "big_shifts": []
+  },
+  {
+   "old_line": 23,
+   "new_line": "L21",
+   "old_text": "lexus lanes they call them. money buys the clear,",
+   "new_text": "Lexus lanes they call them, money buys the clear,",
+   "old_span": [
+    107.89,
+    111.17
+   ],
+   "new_span": [
+    107.88,
+    111.04
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.17,
+   "max_abs_shift": 0.35,
+   "big_shifts": []
+  },
+  {
+   "old_line": 24,
+   "new_line": "L22",
+   "old_text": "poor folks sit in traffic while the rich ones disappear.",
+   "new_text": "Poor folks sit in traffic while the rich ones disappear.",
+   "old_span": [
+    111.17,
+    114.66
+   ],
+   "new_span": [
+    111.04,
+    114.24
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 10,
+   "median_shift": 0.14,
+   "max_abs_shift": 0.24,
+   "big_shifts": []
+  },
+  {
+   "old_line": 25,
+   "new_line": "L23",
+   "old_text": "Stop and go plazas used to kill and electronic helps a bit.",
+   "new_text": "Stop and go plazas used to kill, electronic helps a bit,",
+   "old_span": [
+    114.66,
+    117.78
+   ],
+   "new_span": [
+    114.24,
+    117.66
+   ],
+   "match": 0.96,
+   "changed": [],
+   "added": [],
+   "dropped": [
+    "and"
+   ],
+   "n_shifted": 11,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.42,
+   "big_shifts": []
+  },
+  {
+   "old_line": 26,
+   "new_line": "L24",
+   "old_text": "But the split still creates the chaos that won't quit.",
+   "new_text": "But the split still creates the chaos that won't quit.",
+   "old_span": [
+    117.78,
+    122.8
+   ],
+   "new_span": [
+    117.66,
+    121.82
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 10,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.37,
+   "big_shifts": []
+  },
+  {
+   "old_line": 27,
+   "new_line": "L25",
+   "old_text": "Toll roads are dumb, baby. toll roads are dumb,",
+   "new_text": "Toll roads are dumb, baby, toll roads are dumb,",
+   "old_span": [
+    122.8,
+    128.63
+   ],
+   "new_span": [
+    121.82,
+    128.26
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.21,
+   "max_abs_shift": 0.98,
+   "big_shifts": [
+    [
+     "Toll",
+     122.8,
+     "Toll",
+     121.82,
+     -0.98
+    ]
+   ]
+  },
+  {
+   "old_line": 28,
+   "new_line": "L26",
+   "old_text": "fast lanes make crashes, the wrecks just come.",
+   "new_text": "Fast lanes make crashes, the wrecks just come.",
+   "old_span": [
+    128.63,
+    136.13
+   ],
+   "new_span": [
+    128.26,
+    135.3
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.78,
+   "big_shifts": [
+    [
+     "the",
+     132.9,
+     "the",
+     132.12,
+     -0.78
+    ],
+    [
+     "wrecks",
+     133.51,
+     "wrecks",
+     132.84,
+     -0.67
+    ]
+   ]
+  },
+  {
+   "old_line": 29,
+   "new_line": "L27",
+   "old_text": "Pay to go faster to the rest of us slow.",
+   "new_text": "Pay to go faster, the rest of us slow,",
+   "old_span": [
+    136.13,
+    143.96
+   ],
+   "new_span": [
+    135.3,
+    142.34
+   ],
+   "match": 0.95,
+   "changed": [],
+   "added": [],
+   "dropped": [
+    "to"
+   ],
+   "n_shifted": 9,
+   "median_shift": 0.1,
+   "max_abs_shift": 0.83,
+   "big_shifts": [
+    [
+     "Pay",
+     136.13,
+     "Pay",
+     135.3,
+     -0.83
+    ],
+    [
+     "the",
+     140.09,
+     "the",
+     139.28,
+     -0.81
+    ]
+   ]
+  },
+  {
+   "old_line": 30,
+   "new_line": "L28",
+   "old_text": "We've been slamming the danger roads.",
+   "new_text": "Weaving and slamming, the danger grows.",
+   "old_span": [
+    143.96,
+    150.35
+   ],
+   "new_span": [
+    143.94,
+    149.82
+   ],
+   "match": 0.5,
+   "changed": [
+    [
+     "We've",
+     "Weaving"
+    ],
+    [
+     "We've",
+     "and"
+    ],
+    [
+     "been",
+     "Weaving"
+    ],
+    [
+     "been",
+     "and"
+    ],
+    [
+     "roads.",
+     "grows."
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 3,
+   "median_shift": 0.33,
+   "max_abs_shift": 0.33,
+   "big_shifts": []
+  },
+  {
+   "old_line": 31,
+   "new_line": "L29",
+   "old_text": "Toll roads are dumb, baby. toll roads are dumb.",
+   "new_text": "Toll roads are dumb, baby, toll roads are dumb,",
+   "old_span": [
+    150.35,
+    157.22
+   ],
+   "new_span": [
+    150.48,
+    156.22
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.3,
+   "big_shifts": []
+  },
+  {
+   "old_line": 32,
+   "new_line": "L30",
+   "old_text": "Fast lanes make crashes, they just keep coming.",
+   "new_text": "Fast lanes make crashes\u2026 they just keep coming.",
+   "old_span": [
+    157.22,
+    165.22
+   ],
+   "new_span": [
+    157.42,
+    163.26
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.16,
+   "max_abs_shift": 0.41,
+   "big_shifts": []
+  },
+  {
+   "old_line": 33,
+   "new_line": "L31",
+   "old_text": "They sell your speed for $1 and a dime,",
+   "new_text": "They sell you speed for a dollar and a dime,",
+   "old_span": [
+    165.22,
+    168.94
+   ],
+   "new_span": [
+    165.04,
+    168.84
+   ],
+   "match": 0.74,
+   "changed": [
+    [
+     "$1",
+     null
+    ],
+    [
+     null,
+     "a"
+    ],
+    [
+     null,
+     "dollar"
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 7,
+   "median_shift": 0.11,
+   "max_abs_shift": 0.24,
+   "big_shifts": []
+  },
+  {
+   "old_line": 34,
+   "new_line": "L32",
+   "old_text": "but the road gets meaner every single time.",
+   "new_text": "But the road gets meaner every single time.",
+   "old_span": [
+    168.94,
+    172.74
+   ],
+   "new_span": [
+    168.84,
+    172.6
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.15,
+   "max_abs_shift": 0.22,
+   "big_shifts": []
+  },
+  {
+   "old_line": 35,
+   "new_line": "L33",
+   "old_text": "One lane's flying, the other one's stuck.",
+   "new_text": "One lane's flying, the other one's stuck,",
+   "old_span": [
+    172.74,
+    175.09
+   ],
+   "new_span": [
+    172.6,
+    175.34
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 7,
+   "median_shift": 0.07,
+   "max_abs_shift": 0.15,
+   "big_shifts": []
+  },
+  {
+   "old_line": 36,
+   "new_line": "L34",
+   "old_text": "Somebody's gonna get it when the time ends up.",
+   "new_text": "Somebody's gonna get it when the time ends up.",
+   "old_span": [
+    175.09,
+    180.31
+   ],
+   "new_span": [
+    175.34,
+    179.0
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.17,
+   "max_abs_shift": 0.25,
+   "big_shifts": []
+  },
+  {
+   "old_line": 37,
+   "new_line": "L35",
+   "old_text": "Toll roads are dumb, toll roads are dumb,",
+   "new_text": "Oh, toll roads are dumb\u2026 yeah, toll roads are dumb\u2026",
+   "old_span": [
+    180.31,
+    186.44
+   ],
+   "new_span": [
+    179.0,
+    186.46
+   ],
+   "match": 0.89,
+   "changed": [],
+   "added": [
+    "Oh,",
+    "yeah,"
+   ],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.12,
+   "max_abs_shift": 1.47,
+   "big_shifts": [
+    [
+     "toll",
+     182.91,
+     "toll",
+     184.38,
+     1.47
+    ]
+   ]
+  },
+  {
+   "old_line": 38,
+   "new_line": "L36",
+   "old_text": "fast lanes make crashes,",
+   "new_text": "Fast lanes make crashes\u2026 the wrecks just come\u2026",
+   "old_span": [
+    186.44,
+    190.5
+   ],
+   "new_span": [
+    186.56,
+    193.18
+   ],
+   "match": 0.67,
+   "changed": [],
+   "added": [
+    "the",
+    "wrecks",
+    "just",
+    "come\u2026"
+   ],
+   "dropped": [],
+   "n_shifted": 4,
+   "median_shift": 0.12,
+   "max_abs_shift": 0.13,
+   "big_shifts": []
+  },
+  {
+   "old_line": 40,
+   "new_line": "L37",
+   "old_text": "Toll roads are dumb, baby. toll roads are dumb,",
+   "new_text": "Toll roads are dumb, baby, toll roads are dumb,",
+   "old_span": [
+    194.68,
+    200.97
+   ],
+   "new_span": [
+    194.8,
+    200.18
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 9,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.13,
+   "big_shifts": []
+  },
+  {
+   "old_line": 41,
+   "new_line": "L38",
+   "old_text": "fast lanes make crashes,",
+   "new_text": "Fast lanes make crashes, the wrecks just come.",
+   "old_span": [
+    200.97,
+    205.07
+   ],
+   "new_span": [
+    201.1,
+    207.7
+   ],
+   "match": 0.67,
+   "changed": [],
+   "added": [
+    "the",
+    "wrecks",
+    "just",
+    "come."
+   ],
+   "dropped": [],
+   "n_shifted": 4,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.13,
+   "big_shifts": []
+  },
+  {
+   "old_line": 43,
+   "new_line": "L39",
+   "old_text": "Pay to go faster to the rest of us slow.",
+   "new_text": "Pay to go faster, the rest of us slow,",
+   "old_span": [
+    208.24,
+    215.94
+   ],
+   "new_span": [
+    208.36,
+    214.4
+   ],
+   "match": 0.95,
+   "changed": [],
+   "added": [],
+   "dropped": [
+    "to"
+   ],
+   "n_shifted": 9,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.75,
+   "big_shifts": [
+    [
+     "the",
+     212.47,
+     "the",
+     211.72,
+     -0.75
+    ]
+   ]
+  },
+  {
+   "old_line": 44,
+   "new_line": "L40",
+   "old_text": "We've been slamming the danger roads.",
+   "new_text": "Weaving and slamming, the danger grows.",
+   "old_span": [
+    215.94,
+    222.31
+   ],
+   "new_span": [
+    214.4,
+    221.84
+   ],
+   "match": 0.5,
+   "changed": [
+    [
+     "We've",
+     "Weaving"
+    ],
+    [
+     "We've",
+     "and"
+    ],
+    [
+     "been",
+     "Weaving"
+    ],
+    [
+     "been",
+     "and"
+    ],
+    [
+     "roads.",
+     "grows."
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 3,
+   "median_shift": 0.27,
+   "max_abs_shift": 0.41,
+   "big_shifts": []
+  },
+  {
+   "old_line": 45,
+   "new_line": "L41",
+   "old_text": "Toll roads are dumb,",
+   "new_text": "Toll roads are dumb (toll roads are dumb),",
+   "old_span": [
+    222.31,
+    224.79
+   ],
+   "new_span": [
+    222.58,
+    226.24
+   ],
+   "match": 0.67,
+   "changed": [],
+   "added": [
+    "(toll",
+    "roads",
+    "are",
+    "dumb),"
+   ],
+   "dropped": [],
+   "n_shifted": 4,
+   "median_shift": 0.27,
+   "max_abs_shift": 0.39,
+   "big_shifts": []
+  },
+  {
+   "old_line": 49,
+   "new_line": "L43",
+   "old_text": "Toll roads are dumb, baby.",
+   "new_text": "Toll roads are dumb, baby\u2026",
+   "old_span": [
+    230.09,
+    236.5
+   ],
+   "new_span": [
+    229.96,
+    232.58
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 5,
+   "median_shift": 0.05,
+   "max_abs_shift": 0.39,
+   "big_shifts": []
+  },
+  {
+   "old_line": 50,
+   "new_line": "L44",
+   "old_text": "Toll roads are dumb.",
+   "new_text": "Toll roads are dumb.",
+   "old_span": [
+    236.5,
+    242.18
+   ],
+   "new_span": [
+    236.42,
+    238.76
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 4,
+   "median_shift": 0.2,
+   "max_abs_shift": 0.51,
+   "big_shifts": [
+    [
+     "are",
+     237.57,
+     "are",
+     238.08,
+     0.51
+    ]
+   ]
+  },
+  {
+   "old_line": 51,
+   "new_line": "L45",
+   "old_text": "Yeah, don't pay for the fast lane, honey.",
+   "new_text": "Yeah\u2026 don't pay for the fast lane, honey.",
+   "old_span": [
+    242.18,
+    247.38
+   ],
+   "new_span": [
+    242.22,
+    245.08
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 8,
+   "median_shift": 0.13,
+   "max_abs_shift": 0.3,
+   "big_shifts": []
+  },
+  {
+   "old_line": 52,
+   "new_line": "L46",
+   "old_text": "It ain't worth the crash.",
+   "new_text": "It ain't worth the crash.",
+   "old_span": [
+    247.38,
+    250.96
+   ],
+   "new_span": [
+    247.58,
+    249.42
+   ],
+   "match": 1.0,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "n_shifted": 5,
+   "median_shift": 0.17,
+   "max_abs_shift": 0.2,
+   "big_shifts": []
+  },
+  {
+   "old_line": 53,
+   "new_line": "L47",
+   "old_text": "Toll roads are dumb.",
+   "new_text": "Toll roads are dumb\u2026",
+   "old_span": [
+    250.96,
+    261.1
+   ],
+   "new_span": [
+    251.0,
+    253.0
+   ],
+   "match": 0.67,
+   "changed": [],
+   "added": [],
+   "dropped": [
+    "Toll",
+    "roads",
+    "are",
+    "dumb."
+   ],
+   "n_shifted": 4,
+   "median_shift": 0.18,
+   "max_abs_shift": 0.38,
+   "big_shifts": []
+  }
+ ]
+}

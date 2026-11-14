@@ -1,0 +1,39 @@
+{
+ "stem": "l26",
+ "offset": 183.0,
+ "model": "large-v3-turbo",
+ "n_words": 4,
+ "words": [
+  {
+   "word": "I",
+   "start": 183.0,
+   "end": 183.46,
+   "prob": 0.743
+  },
+  {
+   "word": "am",
+   "start": 183.46,
+   "end": 183.66,
+   "prob": 0.816
+  },
+  {
+   "word": "your",
+   "start": 183.66,
+   "end": 183.9,
+   "prob": 0.951
+  },
+  {
+   "word": "dad",
+   "start": 183.9,
+   "end": 184.32,
+   "prob": 0.885
+  }
+ ],
+ "segments": [
+  {
+   "start": 183.0,
+   "end": 184.32,
+   "text": "I am your dad"
+  }
+ ]
+}

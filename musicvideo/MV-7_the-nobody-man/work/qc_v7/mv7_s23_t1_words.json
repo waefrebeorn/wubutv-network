@@ -1,0 +1,57 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s23_t1_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 7,
+ "words": [
+  {
+   "word": "Yeah,",
+   "start": 0.0,
+   "end": 2.3,
+   "prob": 0.507
+  },
+  {
+   "word": "I",
+   "start": 2.68,
+   "end": 3.1,
+   "prob": 0.993
+  },
+  {
+   "word": "turn",
+   "start": 3.1,
+   "end": 3.9,
+   "prob": 0.853
+  },
+  {
+   "word": "the",
+   "start": 3.9,
+   "end": 4.28,
+   "prob": 0.974
+  },
+  {
+   "word": "small",
+   "start": 4.28,
+   "end": 4.94,
+   "prob": 0.994
+  },
+  {
+   "word": "things",
+   "start": 4.94,
+   "end": 5.8,
+   "prob": 0.983
+  },
+  {
+   "word": "grand",
+   "start": 5.8,
+   "end": 6.6,
+   "prob": 0.979
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.6,
+   "text": "Yeah, I turn the small things grand"
+  }
+ ]
+}

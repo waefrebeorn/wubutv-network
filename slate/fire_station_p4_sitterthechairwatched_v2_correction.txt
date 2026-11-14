@@ -1,0 +1,59 @@
+FIRE VEHICLE — station p481 P4 v2 CORRECTION (kind:image+text, conditioning: previous accepted part cliff)
+Run: 2026-10-29 1245 EDT via media.generate_video
+Output: takes/2026-10-29/station_p4_sitterthechairwatched_thenweleaveitempty_v2_16x9.mp4
+Source: slate/PREPRO_2026-10-28_1615.md, p481 P4 PROMPT block, extracted verbatim + named CAMERA+CLIFF correction below
+Prompt-block md5: 6be95a0b7418a42b965ccee494aa33a2 (verbatim block; correction appended separately)
+Conditioning: ACCEPTED P3 v1 cliff (takes/2026-10-29/station_p481_sitterthechairwatched_p3_cliff.jpg, md5 83a7dbd02e9f5aee94d1bce2b93946c6) — never the rejected P4 v1.
+
+SHOT & CAMERA: medium two-shot, eye level + ONE slow push-in on the
+empty chair between them.
+SUBJECTS: LAURA (FOREST only, plain coat); DISPATCHER (INK + BONE, plain
+coat); the transmission hall (the broadcast light on, the monitor showing
+the seated figure with its head turned toward the EMPTY chair, the
+Dispatcher standing beside the chair un-watched, Laura stopped one step
+short of the doorway un-watched); lamp lit.
+ACTION (beat-labelled):
+  (0.0-1.5s) HOOK FRAME — P3's cliff frame: the transmission hall, the
+    broadcast light on, the monitor showing the seated figure with its
+    head turned toward the empty chair, the Dispatcher standing beside
+    the chair un-watched, Laura stopped one step short of the doorway
+    un-watched: the frame asks whether two free standers leave a chair
+    free. Lands cold: turned head, empty chair, standing man, stopped
+    rescuer, sound off.
+  (1.5-4.0s) STATE — Laura stands stopped one step short of the
+    doorway, mouth closed; the Dispatcher stands beside the chair,
+    mouth closed; the head stays turned toward the empty chair.
+  (4.0-7.0s) TURN — Laura lowers her reaching hand to her side and
+    stays stopped one step short, mouth closed — the refusal, made by
+    not stepping: she does not enter the doorway, and she does not
+    sit. The head stays turned toward the empty chair; neither of
+    them sits.
+  (7.0-9.0s) LINE — LAURA to DISPATCHER (vow; want: him to agree to
+    leave the chair empty so the keeping keeps the chair and not
+    them, since a chair that wants to be empty keeps nobody who
+    refuses to sit): "Then we leave it empty." (5 words)
+  (9.0-10.0s) CLIFF FRAME — the transmission hall, the broadcast light
+    on, the monitor showing the seated figure with its head turned
+    toward the EMPTY chair again, the Dispatcher standing beside it
+    un-watched, Laura stopped one step short of the doorway
+    un-watched, the chair watched.
+    BRIDGE: this frame is the next chain-in-arc's (ARC-1 cycle 2
+    chain 17) first frame — it opens on the keeping returned to the
+    chair and left both people free and unkept, again. Save as
+    station_p481_p4_cliff.jpg.
+LIGHT: one hard hall lamp, from the left, on the monitor's turned
+figure and the empty chair.
+AUDIO: monitor hum alone, then native dialogue as written.
+STYLE: FOREST + INK + bone · flat fills · ink outline on every edge.
+TEXT: NONE on screen.
+NEGATIVE: NO fisheye, NO plastic skin, NO commercial gloss, NO
+on-screen text, NO title cards, NO third primary hue, NO gradients,
+NO crowd, NO second voice event, NO lip movement outside 7-9s.
+WITHHELD FACT: whether the next sitter becomes the watched, or the
+chair watches an empty seat forever. Bridge to the next chain-in-arc:
+the keeping returned, both standers free.
+MESSAGE LANDED: a chair that wants to be empty keeps nobody.
+NEXT QUESTION (named in the cliff): if the chair is kept empty, who
+sits next — and does the keeping want a sitter at all?
+
+CORRECTION — named single-axis CAMERA+CLIFF strengthen (v1 rejected on CLIFF: the drafted push-in carried the camera into a two-face close-up flanking the monitor by 8s, and the empty chair — the bridge subject — left the frame entirely): the camera does NOT move after the opening frame: framing stays LOCKED-OFF WIDE from 0.5s through 9.5s, the empty chair CENTERED between Laura and the Dispatcher in every frame including the 9.5s cliff frame; no push-in, no close-up at any point. Both figures stand beside the chair, un-watched, Laura's hand at her side, the monitor figure's head turned toward the empty chair, the doorway visible behind Laura. Keep exactly one spoken line inside 7-9s from Laura.

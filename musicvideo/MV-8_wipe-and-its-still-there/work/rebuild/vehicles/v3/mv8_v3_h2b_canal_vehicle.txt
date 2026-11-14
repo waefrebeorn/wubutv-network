@@ -1,0 +1,17 @@
+# MV-8 v3 — VOLLEY 4 vehicle: H2-B "World-Hop Reprise" CANAL (CARTOON EVENT, no singing)
+# Scene: H2-B, song 81.08–93.00 (1946–2232f). 11.92s scene; this take covers
+# the night canal half: toilet-seat boats drifting down the chocolate canal
+# under neon rings. Song lines L16 81.66, L17 85.98 stay montage (kinetic
+# layer in post; INS-6 covers them as a cutaway at assembly). This take is
+# pure cartoon event.
+# Anchor: G08.jpg (work/rebuild/stills_v3/G08.jpg, md5 d50a243b60e0fa860f451ff83949c285).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow
+# SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the boats are already drifting and the camera already gliding at
+# frame 0 — never still. Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G08.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow the sole bright accent colour. A night canal in a porcelain palace city, already gliding forward as the clip opens, never still: small white toilet-seat boats drift and bob down a glossy dark chocolate river, golden plunger lanterns glowing along both banks, abstract neon rings and soft glowing blobs floating and pulsing in the dark sky above — abstract shapes only, smooth rings and blobs, never letters, never symbols — warm golden windows flashing past, reflections shimmering and rippling on the water, the camera already gliding low over the river between the boats as they drift onward toward the golden glow at the canal's end. Continuous motion from the very first frame to the last. No people, no text, no logos, no letters, no symbols."

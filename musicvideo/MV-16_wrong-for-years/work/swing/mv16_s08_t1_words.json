@@ -1,0 +1,109 @@
+{
+ "take": "takes/mv16_s08_t1.mp4",
+ "words": [
+  {
+   "w": "I",
+   "start": 0.0,
+   "end": 0.22,
+   "p": 0.878
+  },
+  {
+   "w": "learned",
+   "start": 0.22,
+   "end": 0.62,
+   "p": 0.977
+  },
+  {
+   "w": "it",
+   "start": 0.62,
+   "end": 0.82,
+   "p": 0.998
+  },
+  {
+   "w": "wrong.",
+   "start": 0.82,
+   "end": 1.3,
+   "p": 0.995
+  },
+  {
+   "w": "I",
+   "start": 2.26,
+   "end": 3.0,
+   "p": 0.998
+  },
+  {
+   "w": "learned",
+   "start": 3.0,
+   "end": 3.38,
+   "p": 0.998
+  },
+  {
+   "w": "it",
+   "start": 3.38,
+   "end": 3.58,
+   "p": 0.999
+  },
+  {
+   "w": "young.",
+   "start": 3.58,
+   "end": 4.02,
+   "p": 0.995
+  },
+  {
+   "w": "I",
+   "start": 4.62,
+   "end": 5.36,
+   "p": 0.999
+  },
+  {
+   "w": "learned",
+   "start": 5.36,
+   "end": 5.68,
+   "p": 0.999
+  },
+  {
+   "w": "it",
+   "start": 5.68,
+   "end": 5.9,
+   "p": 0.999
+  },
+  {
+   "w": "loud.",
+   "start": 5.9,
+   "end": 6.38,
+   "p": 0.997
+  },
+  {
+   "w": "And",
+   "start": 8.28,
+   "end": 9.02,
+   "p": 0.938
+  },
+  {
+   "w": "I",
+   "start": 9.02,
+   "end": 9.14,
+   "p": 0.986
+  },
+  {
+   "w": "kept",
+   "start": 9.14,
+   "end": 9.44,
+   "p": 0.995
+  },
+  {
+   "w": "it.",
+   "start": 9.44,
+   "end": 9.68,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.68,
+   "text": "I learned it wrong. I learned it young. I learned it loud. And I kept it.",
+   "avg_logprob": -0.153
+  }
+ ]
+}

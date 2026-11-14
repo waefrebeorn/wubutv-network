@@ -1,0 +1,39 @@
+{
+ "track": "mv7_s09_t1_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 4,
+ "words": [
+  {
+   "word": "Nobody",
+   "start": 0.0,
+   "end": 2.26,
+   "prob": 0.482
+  },
+  {
+   "word": "man,",
+   "start": 2.26,
+   "end": 3.34,
+   "prob": 0.569
+  },
+  {
+   "word": "nobody",
+   "start": 4.44,
+   "end": 6.48,
+   "prob": 0.873
+  },
+  {
+   "word": "man",
+   "start": 6.48,
+   "end": 7.66,
+   "prob": 0.993
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.66,
+   "text": "Nobody man, nobody man"
+  }
+ ]
+}

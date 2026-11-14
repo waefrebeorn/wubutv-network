@@ -1,0 +1,82 @@
+{
+ "track": "work/otaku_qc/U25_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 11,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.82,
+   "prob": 0.81
+  },
+  {
+   "word": "post,",
+   "start": 0.82,
+   "end": 1.22,
+   "prob": 0.928
+  },
+  {
+   "word": "I",
+   "start": 1.7,
+   "end": 1.76,
+   "prob": 0.991
+  },
+  {
+   "word": "fade,",
+   "start": 1.76,
+   "end": 2.12,
+   "prob": 0.994
+  },
+  {
+   "word": "I",
+   "start": 2.58,
+   "end": 2.62,
+   "prob": 0.997
+  },
+  {
+   "word": "post",
+   "start": 2.62,
+   "end": 2.96,
+   "prob": 0.997
+  },
+  {
+   "word": "again,",
+   "start": 2.96,
+   "end": 3.26,
+   "prob": 0.994
+  },
+  {
+   "word": "I'm",
+   "start": 3.7,
+   "end": 3.86,
+   "prob": 0.979
+  },
+  {
+   "word": "the",
+   "start": 3.86,
+   "end": 3.98,
+   "prob": 0.968
+  },
+  {
+   "word": "nobody",
+   "start": 3.98,
+   "end": 4.28,
+   "prob": 0.797
+  },
+  {
+   "word": "man.",
+   "start": 4.28,
+   "end": 4.62,
+   "prob": 0.953
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.62,
+   "text": "I post, I fade, I post again, I'm the nobody man."
+  }
+ ]
+}

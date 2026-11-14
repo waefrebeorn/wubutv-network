@@ -1,0 +1,329 @@
+{
+  "S13": {
+    "take": "mv2_s13_t3.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.52,
+    "take_words": [
+      [
+        "tall",
+        0.0,
+        1.02
+      ],
+      [
+        "roads",
+        1.02,
+        1.98
+      ],
+      [
+        "are",
+        1.98,
+        3.04
+      ],
+      [
+        "dumb",
+        3.04,
+        3.64
+      ]
+    ],
+    "matched": [],
+    "vocal_span": null,
+    "ratio": null
+  },
+  "S23": {
+    "take": "mv2_s23_t2.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.38,
+    "take_words": [
+      [
+        "tall",
+        0.0,
+        2.68
+      ],
+      [
+        "roads",
+        2.68,
+        3.18
+      ],
+      [
+        "are",
+        3.18,
+        4.02
+      ],
+      [
+        "dumb",
+        4.02,
+        4.48
+      ]
+    ],
+    "matched": [],
+    "vocal_span": null,
+    "ratio": null
+  },
+  "S05": {
+    "take": "mv2_s05_t5.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.92,
+    "take_words": [
+      [
+        "towroads",
+        5.28,
+        6.68
+      ],
+      [
+        "are",
+        6.68,
+        6.84
+      ],
+      [
+        "dummed",
+        6.84,
+        10.0
+      ]
+    ],
+    "matched": [],
+    "vocal_span": null,
+    "ratio": null
+  },
+  "S10": {
+    "take": "mv2_s10_t2.mp4",
+    "beat": "speed up cut over somebody gets caught",
+    "song_dur": 3.18,
+    "take_words": [
+      [
+        "speed",
+        3.86,
+        4.56
+      ],
+      [
+        "up",
+        4.56,
+        4.92
+      ],
+      [
+        "cut",
+        5.44,
+        5.74
+      ],
+      [
+        "over",
+        5.74,
+        6.08
+      ],
+      [
+        "somebody",
+        6.36,
+        6.58
+      ],
+      [
+        "gets",
+        6.58,
+        6.78
+      ],
+      [
+        "caught",
+        6.78,
+        7.14
+      ]
+    ],
+    "matched": [
+      [
+        "speed",
+        3.86,
+        4.56
+      ],
+      [
+        "up",
+        4.56,
+        4.92
+      ],
+      [
+        "cut",
+        5.44,
+        5.74
+      ],
+      [
+        "over",
+        5.74,
+        6.08
+      ],
+      [
+        "somebody",
+        6.36,
+        6.58
+      ],
+      [
+        "gets",
+        6.58,
+        6.78
+      ],
+      [
+        "caught",
+        6.78,
+        7.14
+      ]
+    ],
+    "vocal_span": [
+      3.86,
+      7.14
+    ],
+    "ratio": 0.97
+  },
+  "S16": {
+    "take": "mv2_s16_t2.mp4",
+    "beat": "sell you speed for a dollar and a dime",
+    "song_dur": 3.02,
+    "take_words": [
+      [
+        "sell",
+        2.22,
+        2.94
+      ],
+      [
+        "you",
+        2.94,
+        3.12
+      ],
+      [
+        "speed",
+        3.12,
+        3.54
+      ],
+      [
+        "for",
+        3.54,
+        4.3
+      ],
+      [
+        "a",
+        4.3,
+        4.42
+      ],
+      [
+        "dollar",
+        4.42,
+        4.76
+      ],
+      [
+        "and",
+        4.76,
+        4.98
+      ],
+      [
+        "a",
+        4.98,
+        5.06
+      ],
+      [
+        "dime",
+        5.06,
+        5.44
+      ]
+    ],
+    "matched": [
+      [
+        "sell",
+        2.22,
+        2.94
+      ],
+      [
+        "you",
+        2.94,
+        3.12
+      ],
+      [
+        "speed",
+        3.12,
+        3.54
+      ],
+      [
+        "for",
+        3.54,
+        4.3
+      ],
+      [
+        "a",
+        4.3,
+        4.42
+      ],
+      [
+        "dollar",
+        4.42,
+        4.76
+      ],
+      [
+        "and",
+        4.76,
+        4.98
+      ],
+      [
+        "a",
+        4.98,
+        5.06
+      ],
+      [
+        "dime",
+        5.06,
+        5.44
+      ]
+    ],
+    "vocal_span": [
+      2.22,
+      5.44
+    ],
+    "ratio": 0.94
+  },
+  "S08": {
+    "take": "mv2_s08_t3.mp4",
+    "beat": "they just keep coming",
+    "song_dur": 4.62,
+    "take_words": [
+      [
+        "they",
+        0.0,
+        1.96
+      ],
+      [
+        "just",
+        1.96,
+        3.16
+      ],
+      [
+        "keep",
+        3.16,
+        5.52
+      ],
+      [
+        "coming",
+        5.52,
+        7.56
+      ]
+    ],
+    "matched": [
+      [
+        "they",
+        0.0,
+        1.96
+      ],
+      [
+        "just",
+        1.96,
+        3.16
+      ],
+      [
+        "keep",
+        3.16,
+        5.52
+      ],
+      [
+        "coming",
+        5.52,
+        7.56
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      7.56
+    ],
+    "ratio": 0.61
+  }
+}

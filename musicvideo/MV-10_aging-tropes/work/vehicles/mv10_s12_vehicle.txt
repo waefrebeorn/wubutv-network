@@ -1,0 +1,17 @@
+MV-10 S12 — "It Sucks / Pocket Tight" (final chorus tail)
+Song window: 154.48–165.24 (line "Bop-bee-bop, you don't stop" x2 + tail "It sucks / But the pocket / Stays tight (Bop)"). Scene: FC-B. Tag: SINGING.
+Vehicle v1. Fired in volley 5, second.
+One take, slower, closer: the old man, quiet, the wallet in the pocket, the pocket stays tight. Medium close-up, front-on, warm lamp gold light in the hallway, the clock and the water glass behind him.
+Image-conditioned on work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. The hallway at night, deep night blue, warm lamp gold light, the clock on the wall, the water glass glowing on the side table. The old man from the reference image — lean, sharp nose, dark messy hair grey at the temples, deeper lines, grey stubble, navy cardigan, reading glasses on a chain around his neck, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — stands facing camera in medium close-up, mouth clearly visible and unobstructed, one hand resting on his pocket where the wallet sits, slow and quiet.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[3] TEXT:
+From 0.0 to 10.0 seconds he sings clearly and articulately, mouth opening and closing on the words "Bop-bee-bop, you don't stop, bop-bee-bop, you don't stop, it sucks, but the pocket stays tight", facing camera, standing in the hallway the whole time, patting his pocket gently on the words "the pocket stays tight". Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. He stays facing camera for the entire clip, never turns away, never walks off. The camera is steady and locked-off during the singing. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: line verified against analysis/SONG_WORDS.json — the span 154.48–165.24 is an ASR pile-up (all words stamped 154.48, unreliable timing); the sheet line is "Bop-bee-bop, you don't stop" x2 + tail "It sucks / But the pocket / Stays tight (Bop)", last word 164.82. The take sings the sheet line once, in order. Slot 10.76s vs 10s take — ratio in band, assembly trims. Kinetic STACK on "It sucks / But the pocket / Stays tight" in post. The wallet stays IN the pocket — he pats it, never pulls it out (S03b already showed the wallet in hand).

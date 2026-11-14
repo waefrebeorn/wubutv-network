@@ -1,0 +1,140 @@
+{
+ "segment": 1,
+ "start": 17.71,
+ "end": 24.77,
+ "mix": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 17.71,
+    "end": 18.51,
+    "prob": 0.444
+   },
+   {
+    "word": "hits",
+    "start": 18.51,
+    "end": 18.95,
+    "prob": 0.995
+   },
+   {
+    "word": "my",
+    "start": 18.95,
+    "end": 19.31,
+    "prob": 0.997
+   },
+   {
+    "word": "balls",
+    "start": 19.31,
+    "end": 20.21,
+    "prob": 0.987
+   },
+   {
+    "word": "When",
+    "start": 21.27,
+    "end": 22.15,
+    "prob": 0.637
+   },
+   {
+    "word": "I",
+    "start": 22.15,
+    "end": 22.37,
+    "prob": 0.98
+   },
+   {
+    "word": "poop",
+    "start": 22.37,
+    "end": 22.81,
+    "prob": 0.998
+   },
+   {
+    "word": "it",
+    "start": 22.81,
+    "end": 22.97,
+    "prob": 0.729
+   },
+   {
+    "word": "splashes",
+    "start": 22.97,
+    "end": 23.85,
+    "prob": 0.998
+   }
+  ],
+  "text": " Water hits my balls  When I poop it splashes",
+  "wall_s": 18.5,
+  "score": {
+   "expected": 9,
+   "hit": 9,
+   "coverage": 1.0,
+   "non_lyric_words": 0,
+   "n_words": 9
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 17.71,
+    "end": 18.53,
+    "prob": 0.656
+   },
+   {
+    "word": "hits",
+    "start": 18.53,
+    "end": 18.99,
+    "prob": 0.994
+   },
+   {
+    "word": "my",
+    "start": 18.99,
+    "end": 19.33,
+    "prob": 0.994
+   },
+   {
+    "word": "balls",
+    "start": 19.33,
+    "end": 20.19,
+    "prob": 0.986
+   },
+   {
+    "word": "When",
+    "start": 21.29,
+    "end": 22.21,
+    "prob": 0.485
+   },
+   {
+    "word": "I",
+    "start": 22.21,
+    "end": 22.37,
+    "prob": 0.936
+   },
+   {
+    "word": "poop",
+    "start": 22.37,
+    "end": 22.75,
+    "prob": 0.997
+   },
+   {
+    "word": "it",
+    "start": 22.75,
+    "end": 22.99,
+    "prob": 0.76
+   },
+   {
+    "word": "splashes",
+    "start": 22.99,
+    "end": 23.87,
+    "prob": 0.987
+   }
+  ],
+  "text": " Water hits my balls  When I poop it splashes",
+  "wall_s": 18.2,
+  "score": {
+   "expected": 9,
+   "hit": 9,
+   "coverage": 1.0,
+   "non_lyric_words": 0,
+   "n_words": 9
+  }
+ },
+ "winner": "mix"
+}

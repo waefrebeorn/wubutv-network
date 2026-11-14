@@ -1,0 +1,16 @@
+MV-10 S04a — "Bop-Bee-Bop" (chorus hook, first half)
+Song window: 44.72–49.12 (4.40s). Scene: CH1-A. Tag: SINGING/MONTAGE.
+Vehicle v1. Fired in volley 1, FIRST (chorus-hook test).
+Image-conditioned on work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 5 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A dim hallway at night, warm lamp gold light, a mirror on the wall. The old man from the reference image — lean, sharp nose, dark messy hair grey at the temples, deeper lines, grey stubble, navy cardigan, slippers, reading glasses on a chain around his neck, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — stands facing camera in medium close-up, mouth clearly visible and unobstructed.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[3] TEXT:
+From 0.0 to 4.4 seconds he sings clearly and articulately, mouth opening and closing on the words "Bop-bee-bop, you don't stop, gotta pee a lot, and prostate check", doing a slow funk shuffle in place, his reflection shuffling with him in the mirror behind him, the cardigan swinging on the downbeats. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. His mouth remains closed and still before the first word. After the final word the mouth closes and stays closed for the remainder of the clip, a clean held pose. The camera is steady and locked-off during the singing. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: hook scene — chorus-hook test. If this take fails the plan's look (style, identity, mouth), STOP and fix the plan before firing the rest. Line verified against analysis/SONG_WORDS.json: "Bop-bee-bop" 44.72, "you don't stop" 46.14–46.54, "gotta pee a lot" 47.02–47.58, "and prostate check" 48.28–48.88 (ASR hears "price state" — sheet is "prostate check").

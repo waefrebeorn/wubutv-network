@@ -1,0 +1,19 @@
+# MV-8 REBUILD v2 — Volley 2 vehicle: PH-A "Wipe Again" (SINGING, arming montage)
+# Scene: PH-A, song 65.12–67.26 (1563–1614f). 2.125s scene; one 5s take
+# (assembly trims to the 51f span; the five hits 65.25/65.74/66.21/66.70/67.07
+# are the arming beats — pieces land one per hit).
+# Song line: L11 "Wipe, wipe again" 66.48–67.38 (singer doubles "wipe").
+# The "(Phantom)" backing tag ~65.60 is NOT a line — do not stage it as sung.
+# Anchors: F_HERO_TEST_v2.jpg FIRST (identity anchor). Single-anchor call.
+# Duration: exactly 5 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white tunic,
+# full-length white trousers, white boots, bright yellow rubber gloves. The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — armour pieces are
+# already flying toward her and the camera already pushing in. No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, text entry):
+"16:9 widescreen, 1280x720, exactly 5 seconds. Glossy stylised 3D cartoon, soft studio lighting, porcelain palace city golden hour. Medium shot, facing camera: the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, defined cheekbones and jaw, warm determined expression, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves. Armour pieces are already flying toward her as the clip opens — the breastplate, pauldrons, shield and golden plunger landing on her one by one in quick succession, each landing on a beat, the camera already pushing in, never still. From 1.5 to 3.5 seconds she sings clearly and articulately 'Wipe, wipe again', mouth opening and closing on every syllable, visible jaw movement, her mouth clearly visible and unobstructed throughout. After the final word her mouth closes and stays closed, the last armour piece clicking into place. No text, no logos, no extra limbs, no morphing, no children, no other characters."
+
+IMAGE ORDER: [F_HERO_TEST_v2.jpg] then the text above.

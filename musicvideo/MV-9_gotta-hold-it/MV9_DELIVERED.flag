@@ -1,0 +1,14 @@
+MV-9 'Gotta hold it' DELIVERED 2026-11-09 ~14:14 EST
+House master: masters/mv9_gotta_hold_it_16x9.mp4
+  md5 7eee36c4a381c3a86f9c2fa8ea430108, 147,677,665 B
+  h264 1280x720 24fps, exactly 4416f, 184.000s, AAC 48k stereo
+  x264 SEI crf=18.0, faststart moov@36, audio agreement min 0.9974
+Chat copy: masters/mv9_gotta_hold_it_16x9_50mb.mp4
+  md5 4119ea79c08f57b7831f6899b5b960b5, 44,234,154 B
+  bitrate-capped 1750k video, AAC copied untouched (audio md5 identical to house)
+First master md5 e1cc0349b6953f4f409207244a5dc5d7 SUPERSEDED — carried the
+SLAM-bleed kinetic defect ("goty" at 145.99s); fixed in kinetic_ass.py,
+re-encoded, fix verified by eye at 145.99s and 36.50s. Never deliver it.
+Gates: frame-exact 4416f, mouth gate by eye (6 onsets coordinator + 4 parent),
+motion audit PASS (no frozen runs >=1s), kinetic fix verified.
+Assembly coordinator deec5b48; volleys V1-V7: 25 KEEP / 11 REJECT, plan fully fired.

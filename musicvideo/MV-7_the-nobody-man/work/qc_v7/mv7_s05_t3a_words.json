@@ -1,0 +1,51 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s05_t3a_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 6,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 1.22,
+   "prob": 0.743
+  },
+  {
+   "word": "kept",
+   "start": 1.22,
+   "end": 1.52,
+   "prob": 0.98
+  },
+  {
+   "word": "clicking,",
+   "start": 1.52,
+   "end": 2.02,
+   "prob": 0.995
+  },
+  {
+   "word": "kept",
+   "start": 3.08,
+   "end": 3.52,
+   "prob": 0.979
+  },
+  {
+   "word": "sticking",
+   "start": 3.52,
+   "end": 3.96,
+   "prob": 0.997
+  },
+  {
+   "word": "around.",
+   "start": 3.96,
+   "end": 4.94,
+   "prob": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.94,
+   "text": "I kept clicking, kept sticking around."
+  }
+ ]
+}

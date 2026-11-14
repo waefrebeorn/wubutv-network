@@ -1,0 +1,69 @@
+{
+ "track": "work/qc_v7/mv7_s15_t2_tail.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 9,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.34,
+   "prob": 0.442
+  },
+  {
+   "word": "stand,",
+   "start": 0.34,
+   "end": 0.34,
+   "prob": 0.43
+  },
+  {
+   "word": "I",
+   "start": 0.66,
+   "end": 0.72,
+   "prob": 0.999
+  },
+  {
+   "word": "post,",
+   "start": 0.72,
+   "end": 1.14,
+   "prob": 0.975
+  },
+  {
+   "word": "I",
+   "start": 1.5,
+   "end": 1.56,
+   "prob": 0.999
+  },
+  {
+   "word": "fade,",
+   "start": 1.56,
+   "end": 2.0,
+   "prob": 0.994
+  },
+  {
+   "word": "I",
+   "start": 2.32,
+   "end": 2.38,
+   "prob": 0.999
+  },
+  {
+   "word": "post",
+   "start": 2.38,
+   "end": 2.8,
+   "prob": 0.992
+  },
+  {
+   "word": "again.",
+   "start": 2.8,
+   "end": 3.18,
+   "prob": 0.988
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.18,
+   "text": "I stand, I post, I fade, I post again."
+  }
+ ]
+}

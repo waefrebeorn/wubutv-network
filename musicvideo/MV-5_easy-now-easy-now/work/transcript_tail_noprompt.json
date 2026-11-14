@@ -1,0 +1,179 @@
+{
+ "tag": "tail",
+ "t0": 184.0,
+ "segments": [
+  {
+   "start": 184.0,
+   "end": 185.0,
+   "text": "You should know it where you are",
+   "words": [
+    {
+     "word": " You",
+     "start": 184.0,
+     "end": 184.14,
+     "prob": 0.004
+    },
+    {
+     "word": " should",
+     "start": 184.14,
+     "end": 184.38,
+     "prob": 0.009
+    },
+    {
+     "word": " know",
+     "start": 184.38,
+     "end": 184.38,
+     "prob": 0.622
+    },
+    {
+     "word": " it",
+     "start": 184.38,
+     "end": 184.38,
+     "prob": 0.184
+    },
+    {
+     "word": " where",
+     "start": 184.38,
+     "end": 184.38,
+     "prob": 0.0
+    },
+    {
+     "word": " you",
+     "start": 184.38,
+     "end": 184.68,
+     "prob": 0.039
+    },
+    {
+     "word": " are",
+     "start": 184.68,
+     "end": 185.0,
+     "prob": 0.7
+    }
+   ]
+  },
+  {
+   "start": 192.06,
+   "end": 194.72,
+   "text": "You should know it",
+   "words": [
+    {
+     "word": " You",
+     "start": 192.06,
+     "end": 193.1,
+     "prob": 0.054
+    },
+    {
+     "word": " should",
+     "start": 193.1,
+     "end": 194.14,
+     "prob": 0.981
+    },
+    {
+     "word": " know",
+     "start": 194.14,
+     "end": 194.46,
+     "prob": 0.992
+    },
+    {
+     "word": " it",
+     "start": 194.46,
+     "end": 194.72,
+     "prob": 0.931
+    }
+   ]
+  },
+  {
+   "start": 194.72,
+   "end": 197.58,
+   "text": "You should know it",
+   "words": [
+    {
+     "word": " You",
+     "start": 194.72,
+     "end": 195.42,
+     "prob": 0.008
+    },
+    {
+     "word": " should",
+     "start": 195.42,
+     "end": 195.42,
+     "prob": 0.984
+    },
+    {
+     "word": " know",
+     "start": 195.42,
+     "end": 197.14,
+     "prob": 0.995
+    },
+    {
+     "word": " it",
+     "start": 197.14,
+     "end": 197.58,
+     "prob": 0.935
+    }
+   ]
+  },
+  {
+   "start": 197.58,
+   "end": 203.42,
+   "text": "give a morning come",
+   "words": [
+    {
+     "word": " give",
+     "start": 197.58,
+     "end": 198.1,
+     "prob": 0.0
+    },
+    {
+     "word": " a",
+     "start": 198.1,
+     "end": 199.18,
+     "prob": 0.038
+    },
+    {
+     "word": " morning",
+     "start": 199.18,
+     "end": 202.66,
+     "prob": 0.451
+    },
+    {
+     "word": " come",
+     "start": 202.66,
+     "end": 203.42,
+     "prob": 0.333
+    }
+   ]
+  },
+  {
+   "start": 203.42,
+   "end": 205.58,
+   "text": "To the morning come",
+   "words": [
+    {
+     "word": " To",
+     "start": 203.42,
+     "end": 204.24,
+     "prob": 0.187
+    },
+    {
+     "word": " the",
+     "start": 204.24,
+     "end": 204.36,
+     "prob": 0.988
+    },
+    {
+     "word": " morning",
+     "start": 204.36,
+     "end": 204.88,
+     "prob": 0.979
+    },
+    {
+     "word": " come",
+     "start": 204.88,
+     "end": 205.58,
+     "prob": 0.215
+    }
+   ]
+  }
+ ]
+}

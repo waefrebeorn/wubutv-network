@@ -1,0 +1,70 @@
+{
+ "track": "work/rebuild2_qc/R20B_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 5.0,
+ "n_words": 9,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.72,
+   "prob": 0.727
+  },
+  {
+   "word": "got",
+   "start": 0.72,
+   "end": 0.94,
+   "prob": 0.934
+  },
+  {
+   "word": "a",
+   "start": 0.94,
+   "end": 1.12,
+   "prob": 0.996
+  },
+  {
+   "word": "small",
+   "start": 1.12,
+   "end": 1.48,
+   "prob": 0.993
+  },
+  {
+   "word": "flame",
+   "start": 1.48,
+   "end": 1.92,
+   "prob": 0.967
+  },
+  {
+   "word": "I",
+   "start": 1.92,
+   "end": 2.24,
+   "prob": 0.716
+  },
+  {
+   "word": "won't",
+   "start": 2.24,
+   "end": 2.58,
+   "prob": 0.991
+  },
+  {
+   "word": "put",
+   "start": 2.58,
+   "end": 2.78,
+   "prob": 0.997
+  },
+  {
+   "word": "out",
+   "start": 2.78,
+   "end": 3.18,
+   "prob": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.18,
+   "text": "I got a small flame I won't put out"
+  }
+ ]
+}

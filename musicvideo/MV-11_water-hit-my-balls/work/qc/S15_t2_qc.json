@@ -1,0 +1,57 @@
+{
+ "take": "media-generation-mv11-rebuild-s15-t2-0-6ca5dafb-f4f2-43d7-a1dd-3cea01b40f08.mp4",
+ "scene": "S15",
+ "take_no": "2",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Splash!",
+   "start": 2.82,
+   "end": 3.94,
+   "prob": 0.683
+  },
+  {
+   "word": "Balls,",
+   "start": 8.06,
+   "end": 9.18,
+   "prob": 0.893
+  },
+  {
+   "word": "Balls",
+   "start": 9.2,
+   "end": 9.76,
+   "prob": 0.696
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "7bac4bedcc37",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 2.0,
+   "md5": "45bf430965b1",
+   "mean_abs_diff_from_prev": 20.55
+  },
+  {
+   "t": 4.0,
+   "md5": "04d5cdb07096",
+   "mean_abs_diff_from_prev": 18.86
+  },
+  {
+   "t": 6.0,
+   "md5": "0caf77dd2d52",
+   "mean_abs_diff_from_prev": 15.43
+  },
+  {
+   "t": 7.0,
+   "md5": "f36fb6f4aacc",
+   "mean_abs_diff_from_prev": 4.98
+  }
+ ],
+ "frames_distinct": true
+}

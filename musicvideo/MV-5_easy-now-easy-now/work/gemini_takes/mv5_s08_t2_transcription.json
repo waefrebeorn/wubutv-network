@@ -1,0 +1,64 @@
+{
+  "file": "mv5_s08_t2.wav",
+  "kind": "Take",
+  "totalWords": 8,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Easy",
+      "start": 0.5,
+      "end": 1.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now,",
+      "start": 1.1,
+      "end": 1.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "easy",
+      "start": 2.1,
+      "end": 2.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now.",
+      "start": 2.8,
+      "end": 3.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Easy",
+      "start": 5.3,
+      "end": 6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now,",
+      "start": 6,
+      "end": 6.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "easy",
+      "start": 6.5,
+      "end": 7.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now.",
+      "start": 7.2,
+      "end": 8,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.5,
+      "end": 8,
+      "text": "Easy now, easy now. Easy now, easy now."
+    }
+  ]
+}

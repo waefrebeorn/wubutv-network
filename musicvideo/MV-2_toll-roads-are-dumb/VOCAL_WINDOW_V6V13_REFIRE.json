@@ -1,0 +1,71 @@
+{
+  "mv2_r3_t9.mp4": {
+    "take": "mv2_r3_t9.mp4",
+    "sid": "R3",
+    "volley": "13refire",
+    "vocal_span": [
+      0.18,
+      2.48
+    ],
+    "vocal_transitions": 57,
+    "vocal_changed_gt_0_5": 21,
+    "vocal_changed_gt_1_0": 10,
+    "vocal_near_dup_run": 7,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 0.5,
+    "frame_gate": "FAIL",
+    "vocal_mean_diff_raw": 0.49919346978557505,
+    "note": "Parent correction: script rounded vocal_mean_diff to 0.50 and recorded PASS; unrounded raw 0.49919 is below the 0.5 gate, so the gate FAILS by 0.0008. Parent adjudication: strict gate stands, not a candidate (see VOLLEY_PROGRESS volley 13)."
+  },
+  "mv2_r4_t8.mp4": {
+    "take": "mv2_r4_t8.mp4",
+    "sid": "R4",
+    "volley": "13refire",
+    "vocal_span": [
+      0.0,
+      3.18
+    ],
+    "vocal_transitions": 77,
+    "vocal_changed_gt_0_5": 29,
+    "vocal_changed_gt_1_0": 9,
+    "vocal_near_dup_run": 11,
+    "vocal_frozen_run": 3,
+    "vocal_mean_diff": 0.42,
+    "frame_gate": "FAIL",
+    "vocal_mean_diff_raw": 0.41852723665223657
+  },
+  "mv2_r6_t7.mp4": {
+    "take": "mv2_r6_t7.mp4",
+    "sid": "R6",
+    "volley": "13refire",
+    "vocal_span": [
+      0.0,
+      5.02
+    ],
+    "vocal_transitions": 121,
+    "vocal_changed_gt_0_5": 60,
+    "vocal_changed_gt_1_0": 40,
+    "vocal_near_dup_run": 1,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 0.81,
+    "frame_gate": "PASS",
+    "vocal_mean_diff_raw": 0.8128041781450873
+  },
+  "mv2_s23_t9.mp4": {
+    "take": "mv2_s23_t9.mp4",
+    "sid": "S23",
+    "volley": "13refire",
+    "vocal_span": [
+      0.0,
+      4.32
+    ],
+    "vocal_transitions": 104,
+    "vocal_changed_gt_0_5": 96,
+    "vocal_changed_gt_1_0": 83,
+    "vocal_near_dup_run": 1,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 2.19,
+    "frame_gate": "PASS",
+    "vocal_mean_diff_raw": 2.189312232905983
+  }
+}

@@ -1,0 +1,18 @@
+# MV-8 v3 — VOLLEY 3 vehicle: I-A "Inside the Sheet" CHOCORIVER (CARTOON EVENT, no singing)
+# Scene: I-A, song 34.96–45.51 (839–1092f). 10.55s scene; this take covers the
+# chocolate-river half: the river, brown blobs drifting downstream. The
+# fibres half already exists (V2 I-A_v3_fibres KEEP). Song lines L8 Browns
+# 36.90–41.84 — the WORDS live in the kinetic layer in post (CASCADE on the
+# five Browns); the chant is a visualizer pulse, not a mouth. NO singer
+# insert. This take is pure cartoon event.
+# Anchor: G03.jpg (work/rebuild/stills_v3/G03.jpg, md5 d3a929786758f0dc1fd8715f7e86ee5d).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow
+# SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the river is already flowing and the camera already gliding at
+# frame 0 — never still. Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G03.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, soft white fibre hills and warm gold light, glossy chocolate brown river. A slow gliding flight already moving low over a wide glossy chocolate-brown river as the clip opens, never still: the camera already drifting forward above the chocolate water, glossy brown blobs drifting downstream and bobbing, white fibres drifting overhead like snow, glowing golden threads pulsing in a rolling wave across the water, sparkling light dust streaming past the lens, the river winding between soft white fibre hills toward a golden glow on the horizon. Continuous flowing motion from the very first frame to the last. No people, no text, no logos, no letters."

@@ -1,0 +1,302 @@
+{
+  "S08": {
+    "take": "mv2_s08_t8.mp4",
+    "beat": "they just keep coming",
+    "song_dur": 4.62,
+    "take_words": [
+      [
+        "they",
+        1.32,
+        2.28
+      ],
+      [
+        "just",
+        2.28,
+        2.6
+      ],
+      [
+        "keep",
+        2.6,
+        2.96
+      ],
+      [
+        "coming",
+        2.96,
+        3.44
+      ]
+    ],
+    "matched": [
+      [
+        "they",
+        1.32,
+        2.28
+      ],
+      [
+        "just",
+        2.28,
+        2.6
+      ],
+      [
+        "keep",
+        2.6,
+        2.96
+      ],
+      [
+        "coming",
+        2.96,
+        3.44
+      ]
+    ],
+    "vocal_span": [
+      1.32,
+      3.44
+    ],
+    "ratio": 2.18,
+    "second_delivery": []
+  },
+  "R4": {
+    "take": "mv2_r4_t3.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.42,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        1.16
+      ],
+      [
+        "roads",
+        1.16,
+        1.96
+      ],
+      [
+        "are",
+        1.96,
+        3.24
+      ],
+      [
+        "done",
+        3.24,
+        4.58
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        1.16
+      ],
+      [
+        "roads",
+        1.16,
+        1.96
+      ],
+      [
+        "are",
+        1.96,
+        3.24
+      ],
+      [
+        "done",
+        3.24,
+        4.58
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      4.58
+    ],
+    "ratio": 0.53,
+    "second_delivery": []
+  },
+  "R5": {
+    "take": "mv2_r5_t3.mp4",
+    "beat": "fast lanes make crashes",
+    "song_dur": 2.86,
+    "take_words": [
+      [
+        "fast",
+        0.0,
+        0.8
+      ],
+      [
+        "lanes",
+        0.8,
+        1.44
+      ],
+      [
+        "make",
+        1.44,
+        2.16
+      ],
+      [
+        "crashes",
+        2.16,
+        3.24
+      ]
+    ],
+    "matched": [
+      [
+        "fast",
+        0.0,
+        0.8
+      ],
+      [
+        "lanes",
+        0.8,
+        1.44
+      ],
+      [
+        "make",
+        1.44,
+        2.16
+      ],
+      [
+        "crashes",
+        2.16,
+        3.24
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      3.24
+    ],
+    "ratio": 0.88,
+    "second_delivery": []
+  },
+  "R6": {
+    "take": "mv2_r6_t2.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.18,
+    "take_words": [
+      [
+        "toll",
+        2.44,
+        3.84
+      ],
+      [
+        "roads",
+        3.84,
+        4.18
+      ],
+      [
+        "are",
+        4.18,
+        5.18
+      ],
+      [
+        "done",
+        5.18,
+        5.98
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        2.44,
+        3.84
+      ],
+      [
+        "roads",
+        3.84,
+        4.18
+      ],
+      [
+        "are",
+        4.18,
+        5.18
+      ],
+      [
+        "done",
+        5.18,
+        5.98
+      ]
+    ],
+    "vocal_span": [
+      2.44,
+      5.98
+    ],
+    "ratio": 0.62,
+    "second_delivery": []
+  },
+  "R11": {
+    "take": "mv2_r11_t1.mp4",
+    "beat": "yeah",
+    "song_dur": 0.78,
+    "take_words": [
+      [
+        "yeah",
+        0.0,
+        1.96
+      ]
+    ],
+    "matched": [
+      [
+        "yeah",
+        0.0,
+        1.96
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      1.96
+    ],
+    "ratio": 0.4,
+    "second_delivery": []
+  },
+  "R3": {
+    "take": "mv2_r3_t4.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.16,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        0.8
+      ],
+      [
+        "roads",
+        0.8,
+        1.84
+      ],
+      [
+        "are",
+        1.84,
+        2.68
+      ],
+      [
+        "done",
+        2.68,
+        3.26
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        0.8
+      ],
+      [
+        "roads",
+        0.8,
+        1.84
+      ],
+      [
+        "are",
+        1.84,
+        2.68
+      ],
+      [
+        "done",
+        2.68,
+        3.26
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      3.26
+    ],
+    "ratio": 0.66,
+    "second_delivery": []
+  }
+}

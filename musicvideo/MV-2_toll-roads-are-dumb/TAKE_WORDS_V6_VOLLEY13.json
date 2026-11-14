@@ -1,0 +1,268 @@
+{
+  "S16": {
+    "take": "mv2_s16_t8.mp4",
+    "beat": "sell you speed for a dollar and a dime",
+    "song_dur": 3.02,
+    "take_words": null,
+    "matched": null,
+    "vocal_span": null,
+    "span_length": 5.04,
+    "ratio": 0.6,
+    "ratio_raw": 0.5992,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "note": "Recovered from the S16/S22 QC agent's final report; its /tmp working files were lost, so per-word timestamps are NOT recorded here and were not reconstructed. Report records: all 9 words matched in order, sung exactly once, repeat scan empty, measured span 5.04s vs song 3.02s, frame gate PASS (121/122 vocal transitions changed, near-dup run 1, vocal mean diff 1.54). G1/G2/G4 PASS. Nit: pocket square blue, not CADMIUM. GREY HELD at the 0.60 boundary (R6 t1 0.60x precedent)."
+  },
+  "S22": {
+    "take": "mv2_s22_t5.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.2,
+    "take_words": null,
+    "matched": null,
+    "vocal_span": null,
+    "span_length": 5.04,
+    "ratio": 0.44,
+    "ratio_raw": 0.4365,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "note": "Recovered from the S16/S22 QC agent's final report; per-word timestamps lost with its /tmp files, not reconstructed. Report records: 4 words, sung exactly once (t2 repeat-tail defect fixed), 'toll' alone held 2.66s, measured span 5.04s vs song 2.20s, frame gate PASS (121/122 changed, vocal mean diff 2.15). G1/G2/G4 PASS. Nit: blue pocket square. CLEAR MISS. Canonical copy made from the raw media-generation file."
+  },
+  "R4": {
+    "take": "mv2_r4_t8.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.42,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        1.12
+      ],
+      [
+        "roads",
+        1.12,
+        1.98
+      ],
+      [
+        "are",
+        1.98,
+        2.62
+      ],
+      [
+        "done",
+        2.62,
+        3.18
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        1.12
+      ],
+      [
+        "roads",
+        1.12,
+        1.98
+      ],
+      [
+        "are",
+        1.98,
+        2.62
+      ],
+      [
+        "done",
+        2.62,
+        3.18
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      3.18
+    ],
+    "ratio": 0.76,
+    "ratio_raw": 0.761006289308176,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "split_half": null
+  },
+  "R3": {
+    "take": "mv2_r3_t9.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.16,
+    "take_words": [
+      [
+        "the",
+        0.0,
+        0.18
+      ],
+      [
+        "toll",
+        0.18,
+        0.62
+      ],
+      [
+        "roads",
+        0.62,
+        1.76
+      ],
+      [
+        "are",
+        1.76,
+        2.04
+      ],
+      [
+        "done",
+        2.04,
+        2.48
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.18,
+        0.62
+      ],
+      [
+        "roads",
+        0.62,
+        1.76
+      ],
+      [
+        "are",
+        1.76,
+        2.04
+      ],
+      [
+        "done",
+        2.04,
+        2.48
+      ]
+    ],
+    "vocal_span": [
+      0.18,
+      2.48
+    ],
+    "ratio": 0.94,
+    "ratio_raw": 0.9391304347826088,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "split_half": null
+  },
+  "R6": {
+    "take": "mv2_r6_t7.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.18,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        2.14
+      ],
+      [
+        "roads",
+        2.14,
+        2.72
+      ],
+      [
+        "are",
+        2.72,
+        3.96
+      ],
+      [
+        "done",
+        3.96,
+        5.02
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        2.14
+      ],
+      [
+        "roads",
+        2.14,
+        2.72
+      ],
+      [
+        "are",
+        2.72,
+        3.96
+      ],
+      [
+        "done",
+        3.96,
+        5.02
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      5.02
+    ],
+    "ratio": 0.43,
+    "ratio_raw": 0.4342629482071714,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "split_half": null
+  },
+  "S23": {
+    "take": "mv2_s23_t9.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.6,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        1.36
+      ],
+      [
+        "robes",
+        1.36,
+        3.02
+      ],
+      [
+        "are",
+        3.02,
+        3.66
+      ],
+      [
+        "dumb",
+        3.66,
+        4.32
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        1.36
+      ],
+      [
+        "roads",
+        1.36,
+        3.02
+      ],
+      [
+        "are",
+        3.02,
+        3.66
+      ],
+      [
+        "dumb",
+        3.66,
+        4.32
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      4.32
+    ],
+    "ratio": 0.37,
+    "ratio_raw": 0.37037037037037035,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "split_half": null,
+    "note": "Whisper heard 'robes' for 'roads' (near-homophone, in-order 4-word sequence). Proposed new mishear class robes=roads; verdict does not depend on it: normalized span 0.00-4.32 = 4.32s, ratio 0.37x, CLEAR MISS either way (without normalization the line does not fully match)."
+  }
+}

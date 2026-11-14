@@ -1,0 +1,52 @@
+FIRE VEHICLE — station p481 P2 v1 (kind:image+text, conditioning: previous accepted part cliff)
+Run: 2026-10-29 1245 EDT via media.generate_video
+Output: takes/2026-10-29/station_p2_sitterthechairwatched_standupitleftyou_v1_16x9.mp4
+Source: slate/PREPRO_2026-10-28_1615.md, p481 P2 PROMPT block, extracted verbatim
+Prompt-block md5: 480a20b5a22b93c49756bb57ef18ef39
+Spoken line: "Stand up. It left you."
+Conditioning: ACCEPTED P1 v2 cliff (takes/2026-10-29/station_p481_sitterthechairwatched_p1_cliff.jpg, md5 e93feb46d0f77d0fa750aa1f1fb5059e) — never the rejected P1 v1.
+
+SHOT & CAMERA: medium two-shot, eye level + ONE lateral track left,
+from the seated man to the empty doorway.
+SUBJECTS: LAURA (FOREST only, plain coat); DISPATCHER (INK + BONE, plain
+coat); the transmission hall (the broadcast light on, the monitor showing
+the seated figure with its head turned toward the Dispatcher seated in
+the chair, Laura stopped mid-step toward him, hand reaching, the doorway
+empty behind her); lamp lit.
+ACTION (beat-labelled):
+  (0.0-1.5s) HOOK FRAME — P1's cliff frame: the transmission hall, the
+    broadcast light on, the monitor showing the seated figure with its
+    head turned toward the Dispatcher seated in the chair, Laura
+    stopped mid-step toward him, hand reaching, the doorway empty
+    behind her: the frame asks whether a watched sitter stays watched.
+    Lands cold: turned head, seated man, reaching rescuer, empty
+    doorway, sound off.
+  (1.5-4.0s) STATE — Laura stands mid-step toward him, hand reaching,
+    mouth closed; the Dispatcher sits in the chair, mouth closed; the
+    head stays turned toward the Dispatcher.
+  (4.0-7.0s) TURN — Laura steps toward him, hand out to pull him up,
+    mouth closed — the rescue, begun: reach him, and he must stand
+    before the keeping re-takes him. The monitor's head turns AWAY
+    from the seated Dispatcher toward the EMPTY doorway and holds
+    there; the Dispatcher stays seated, now un-watched.
+  (7.0-9.0s) LINE — LAURA to DISPATCHER (warning; want: him to stand
+    while un-watched so the keeping cannot re-take him through the
+    chair, since a head that left a seated man for a doorway has
+    abandoned the sitter, not the seat): "Stand up. It left you."
+    (5 words)
+  (9.0-10.0s) CLIFF FRAME — the transmission hall, the broadcast light
+    on, the monitor showing the seated figure with its head turned
+    toward the EMPTY doorway, the Dispatcher seated in the chair
+    un-watched, Laura mid-step toward him with her hand out. This
+    frame is P3's first frame. Save as station_p481_p2_cliff.jpg.
+LIGHT: one hard hall lamp, from the left, on the monitor's turned
+figure and the empty doorway.
+AUDIO: monitor hum + one step hush, then native dialogue as written.
+STYLE: FOREST + INK + bone · flat fills · ink outline on every edge.
+TEXT: NONE on screen.
+NEGATIVE: NO fisheye, NO plastic skin, NO commercial gloss, NO
+on-screen text, NO title cards, NO third primary hue, NO gradients,
+NO crowd, NO second voice event, NO lip movement outside 7-9s.
+WITHHELD FACT: whether standing while un-watched frees him, or the
+chair re-takes him when he rises. Spent in P3 (he stands and the head
+returns to the empty chair, not to him).

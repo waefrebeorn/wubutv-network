@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv16_s16_t2.mp4",
+ "words": [
+  {
+   "w": "Ten",
+   "start": 0.0,
+   "end": 0.56,
+   "p": 0.404
+  },
+  {
+   "w": "years",
+   "start": 0.56,
+   "end": 1.06,
+   "p": 0.985
+  },
+  {
+   "w": "deep,",
+   "start": 1.06,
+   "end": 1.58,
+   "p": 0.996
+  },
+  {
+   "w": "and",
+   "start": 1.98,
+   "end": 2.86,
+   "p": 0.886
+  },
+  {
+   "w": "I'm",
+   "start": 2.86,
+   "end": 3.26,
+   "p": 0.991
+  },
+  {
+   "w": "not",
+   "start": 3.26,
+   "end": 3.58,
+   "p": 0.999
+  },
+  {
+   "w": "rewriting",
+   "start": 3.58,
+   "end": 4.44,
+   "p": 0.982
+  },
+  {
+   "w": "it",
+   "start": 4.44,
+   "end": 4.82,
+   "p": 0.998
+  },
+  {
+   "w": "now.",
+   "start": 4.82,
+   "end": 5.36,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.36,
+   "text": "Ten years deep, and I'm not rewriting it now.",
+   "avg_logprob": -0.354
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+  "errors_idx_1based": [
+    34,
+    56,
+    60,
+    112,
+    162
+  ],
+  "controls_idx_1based": [
+    11,
+    17,
+    19,
+    26,
+    40,
+    58,
+    63,
+    64,
+    68,
+    73,
+    83,
+    85,
+    88,
+    91,
+    92
+  ],
+  "rule": "controls: |correction| <= 0.05 s, prob >= 0.9, on_peak, first 15 (loop-4 rule); bar: Mann-Whitney one-sided p < 0.05 AND errors median < correct median",
+  "per_stem": {
+    "c11": {
+      "vocals": "../c11_sep/c11_vocals.wav",
+      "env_threshold_0.1xp99_25ms": 0.015057973384553756,
+      "errors": {
+        "values": [
+          0.04908919743923519,
+          0.010331615479132415,
+          0.03353181542321324,
+          0.07059955250382437,
+          0.09205104851118562
+        ],
+        "detail": [
+          {
+            "idx_1based": 34,
+            "word": "pitch",
+            "asr_start": 28.6,
+            "snapped_start": 28.48,
+            "correction_s": -0.12,
+            "env_at_snapped": 0.04908919743923519,
+            "env_at_snapped_over_local_median": 2.374414941114304,
+            "dist_to_nearest_rising_edge_s": 0.14499999999999957
+          },
+          {
+            "idx_1based": 56,
+            "word": "Help",
+            "asr_start": 42.96,
+            "snapped_start": 42.96,
+            "correction_s": 0.0,
+            "env_at_snapped": 0.010331615479132415,
+            "env_at_snapped_over_local_median": 0.27235640547250684,
+            "dist_to_nearest_rising_edge_s": 0.11500000000000199
+          },
+          {
+            "idx_1based": 60,
+            "word": "Trip",
+            "asr_start": 46.44,
+            "snapped_start": 46.352,
+            "correction_s": -0.088,
+            "env_at_snapped": 0.03353181542321324,
+            "env_at_snapped_over_local_median": 0.7370724745657832,
+            "dist_to_nearest_rising_edge_s": -0.6519999999999939
+          },
+          {
+            "idx_1based": 112,
+            "word": "back",
+            "asr_start": 74.08,
+            "snapped_start": 74.032,
+            "correction_s": -0.048,
+            "env_at_snapped": 0.07059955250382437,
+            "env_at_snapped_over_local_median": 1.9592669302779364,
+            "dist_to_nearest_rising_edge_s": 0.3680000000000092
+          },
+          {
+            "idx_1based": 162,
+            "word": "If",
+            "asr_start": 103.44,
+            "snapped_start": 103.296,
+            "correction_s": -0.144,
+            "env_at_snapped": 0.09205104851118562,
+            "env_at_snapped_over_local_median": 1.936336620650521,
+            "dist_to_nearest_rising_edge_s": 1.2789999999999964
+          }
+        ],
+        "median": 0.04908919743923519,
+        "q25": 0.03353181542321324,
+        "q75": 0.07059955250382437,
+        "median_norm": 1.936336620650521,
+        "median_dist_rising_edge_s": 0.14499999999999957,
+        "median_abs_dist_rising_edge_s": 0.3680000000000092
+      },
+      "controls": {
+        "values": [
+          0.01849498785258481,
+          0.08906918957010052,
+          0.00014920113959353666,
+          0.051926368947476494,
+          0.06585900517638353,
+          0.04555399641484726,
+          0.06679912172758681,
+          0.0754141047419898,
+          0.017758613753974965,
+          0.09184807989971137,
+          0.092149910947335,
+          0.10220602504093727,
+          0.0863335073317616,
+          0.07016285230002359,
+          0.08578585564609509
+        ],
+        "detail": [
+          {
+            "idx_1based": 11,
+            "word": "ground",
+            "asr_start": 17.68,
+            "snapped_start": 17.728,
+            "correction_s": 0.048,
+            "env_at_snapped": 0.01849498785258481,
+            "env_at_snapped_over_local_median": 1.3799008353311097,
+            "dist_to_nearest_rising_edge_s": 0.0470000000000006
+          },
+          {
+            "idx_1based": 17,
+            "word": "late",
+            "asr_start": 20.3,
+            "snapped_start": 20.336,
+            "correction_s": 0.036,
+            "env_at_snapped": 0.08906918957010052,
+            "env_at_snapped_over_local_median": 1.686944702851875,
+            "dist_to_nearest_rising_edge_s": -0.7859999999999978
+          },
+          {
+            "idx_1based": 19,
+            "word": "you",
+            "asr_start": 21.46,
+            "snapped_start": 21.504,
+            "correction_s": 0.044,
+            "env_at_snapped": 0.00014920113959353666,
+            "env_at_snapped_over_local_median": 0.1452036942857188,
+            "dist_to_nearest_rising_edge_s": 0.8210000000000015
+          },
+          {
+            "idx_1based": 26,
+            "word": "need",
+            "asr_start": 25.2,
+            "snapped_start": 25.2,
+            "correction_s": 0.0,
+            "env_at_snapped": 0.051926368947476494,
+            "env_at_snapped_over_local_median": 0.8202124010805891,
+            "dist_to_nearest_rising_edge_s": 0.6250000000000036
+          },
+          {
+            "idx_1based": 40,
+            "word": "can",
+            "asr_start": 32.68,
+            "snapped_start": 32.688,
+            "correction_s": 0.008,
+            "env_at_snapped": 0.06585900517638353,
+            "env_at_snapped_over_local_median": 1.0716077958190877,
+            "dist_to_nearest_rising_edge_s": 0.13700000000000045
+          },
+          {
+            "idx_1based": 58,
+            "word": "stay",
+            "asr_start": 43.44,
+            "snapped_start": 43.424,
+            "correction_s": -0.016,
+            "env_at_snapped": 0.04555399641484726,
+            "env_at_snapped_over_local_median": 0.9633035135456305,
+            "dist_to_nearest_rising_edge_s": 0.17600000000000193
+          },
+          {
+            "idx_1based": 63,
+            "word": "don't",
+            "asr_start": 48.2,
+            "snapped_start": 48.16,
+            "correction_s": -0.04,
+            "env_at_snapped": 0.06679912172758681,
+            "env_at_snapped_over_local_median": 1.5825096162244419,
+            "dist_to_nearest_rising_edge_s": -0.4849999999999923
+          },
+          {
+            "idx_1based": 64,
+            "word": "overthink",
+            "asr_start": 48.48,
+            "snapped_start": 48.512,
+            "correction_s": 0.032,
+            "env_at_snapped": 0.0754141047419898,
+            "env_at_snapped_over_local_median": 1.4656023849192774,
+            "dist_to_nearest_rising_edge_s": 0.588000000000001
+          },
+          {
+            "idx_1based": 68,
+            "word": "find",
+            "asr_start": 50.14,
+            "snapped_start": 50.112,
+            "correction_s": -0.028,
+            "env_at_snapped": 0.017758613753974965,
+            "env_at_snapped_over_local_median": 0.3157146545045204,
+            "dist_to_nearest_rising_edge_s": 0.03800000000000381
+          },
+          {
+            "idx_1based": 73,
+            "word": "it",
+            "asr_start": 51.72,
+            "snapped_start": 51.728,
+            "correction_s": 0.008,
+            "env_at_snapped": 0.09184807989971137,
+            "env_at_snapped_over_local_median": 1.2960103927966413,
+            "dist_to_nearest_rising_edge_s": -0.1529999999999987
+          },
+          {
+            "idx_1based": 83,
+            "word": "seconds",
+            "asr_start": 58.6,
+            "snapped_start": 58.56,
+            "correction_s": -0.04,
+            "env_at_snapped": 0.092149910947335,
+            "env_at_snapped_over_local_median": 1.2940897637130022,
+            "dist_to_nearest_rising_edge_s": 0.18999999999999773
+          },
+          {
+            "idx_1based": 85,
+            "word": "saw",
+            "asr_start": 59.4,
+            "snapped_start": 59.408,
+            "correction_s": 0.008,
+            "env_at_snapped": 0.10220602504093727,
+            "env_at_snapped_over_local_median": 2.188065935736184,
+            "dist_to_nearest_rising_edge_s": -0.03300000000000125
+          },
+          {
+            "idx_1based": 88,
+            "word": "at",
+            "asr_start": 62.16,
+            "snapped_start": 62.16,
+            "correction_s": 0.0,
+            "env_at_snapped": 0.0863335073317616,
+            "env_at_snapped_over_local_median": 1.165220374068611,
+            "dist_to_nearest_rising_edge_s": -0.009999999999990905
+          },
+          {
+            "idx_1based": 91,
+            "word": "missing",
+            "asr_start": 63.78,
+            "snapped_start": 63.792,
+            "correction_s": 0.012,
+            "env_at_snapped": 0.07016285230002359,
+            "env_at_snapped_over_local_median": 0.990771082716829,
+            "dist_to_nearest_rising_edge_s": -1.641999999999996
+          },
+          {
+            "idx_1based": 92,
+            "word": "my",
+            "asr_start": 64.26,
+            "snapped_start": 64.272,
+            "correction_s": 0.012,
+            "env_at_snapped": 0.08578585564609509,
+            "env_at_snapped_over_local_median": 1.2160381658106405,
+            "dist_to_nearest_rising_edge_s": 1.2779999999999916
+          }
+        ],
+        "median": 0.07016285230002359,
+        "q25": 0.04874018268116188,
+        "q75": 0.08770134845093105,
+        "median_norm": 1.2160381658106405,
+        "median_dist_rising_edge_s": 0.0470000000000006,
+        "median_abs_dist_rising_edge_s": 0.18999999999999773
+      },
+      "mann_whitney_U": 29.0,
+      "p_one_sided_errors_lt_controls": 0.24864551083591335,
+      "errors_median_lt_controls_median": true,
+      "pass": false
+    },
+    "mdx": {
+      "vocals": "/home/hatch/workspace/wubuwizard-cpu-sep/mdx_vocals_full.wav",
+      "env_threshold_0.1xp99_25ms": 0.01505797657368034,
+      "errors": {
+        "values": [
+          0.049089199439607475,
+          0.010331613157952866,
+          0.03353176694034487,
+          0.07059954742366309,
+          0.09205108683398062
+        ],
+        "detail": [
+          {
+            "idx_1based": 34,
+            "word": "pitch",
+            "asr_start": 28.6,
+            "snapped_start": 28.48,
+            "correction_s": -0.12,
+            "env_at_snapped": 0.049089199439607475,
+            "env_at_snapped_over_local_median": 2.374427897739425,
+            "dist_to_nearest_rising_edge_s": 0.14499999999999957
+          },
+          {
+            "idx_1based": 56,
+            "word": "Help",
+            "asr_start": 42.96,
+            "snapped_start": 42.96,
+            "correction_s": 0.0,
+            "env_at_snapped": 0.010331613157952866,
+            "env_at_snapped_over_local_median": 0.2723559996625513,
+            "dist_to_nearest_rising_edge_s": 0.11500000000000199
+          },
+          {
+            "idx_1based": 60,
+            "word": "Trip",
+            "asr_start": 46.44,
+            "snapped_start": 46.352,
+            "correction_s": -0.088,
+            "env_at_snapped": 0.03353176694034487,
+            "env_at_snapped_over_local_median": 0.7370705681418243,
+            "dist_to_nearest_rising_edge_s": -0.6519999999999939
+          },
+          {
+            "idx_1based": 112,
+            "word": "back",
+            "asr_start": 74.08,
+            "snapped_start": 74.032,
+            "correction_s": -0.048,
+            "env_at_snapped": 0.07059954742366309,
+            "env_at_snapped_over_local_median": 1.9592666140890749,
+            "dist_to_nearest_rising_edge_s": 0.3680000000000092
+          },
+          {
+            "idx_1based": 162,
+            "word": "If",
+            "asr_start": 103.44,
+            "snapped_start": 103.296,
+            "correction_s": -0.144,
+            "env_at_snapped": 0.09205108683398062,
+            "env_at_snapped_over_local_median": 1.9363379029455712,
+            "dist_to_nearest_rising_edge_s": 1.2789999999999964
+          }
+        ],
+        "median": 0.049089199439607475,
+        "q25": 0.03353176694034487,
+        "q75": 0.07059954742366309,
+        "median_norm": 1.9363379029455712,
+        "median_dist_rising_edge_s": 0.14499999999999957,
+        "median_abs_dist_rising_edge_s": 0.3680000000000092
+      },
+      "controls": {
+        "values": [
+          0.01849498785258481,
+          0.08906922205148743,
+          0.0001492007206192801,
+          0.05192642783407601,
+          0.06585906247726059,
+          0.045553969996902303,
+          0.0667991265625055,
+          0.07541406610824386,
+          0.01775864484965321,
+          0.09184810987938057,
+          0.09214992731413718,
+          0.1022060536460655,
+          0.08633344698633089,
+          0.07016283858384091,
+          0.08578586406697324
+        ],
+        "detail": [
+          {
+            "idx_1based": 11,
+            "word": "ground",
+            "asr_start": 17.68,
+            "snapped_start": 17.728,
+            "correction_s": 0.048,
+            "env_at_snapped": 0.01849498785258481,
+            "env_at_snapped_over_local_median": 1.3799018635951532,
+            "dist_to_nearest_rising_edge_s": 0.0470000000000006
+          },
+          {
+            "idx_1based": 17,
+            "word": "late",
+            "asr_start": 20.3,
+            "snapped_start": 20.336,
+            "correction_s": 0.036,
+            "env_at_snapped": 0.08906922205148743,
+            "env_at_snapped_over_local_median": 1.6869456534079441,
+            "dist_to_nearest_rising_edge_s": -0.7859999999999978
+          },
+          {
+            "idx_1based": 19,
+            "word": "you",
+            "asr_start": 21.46,
+            "snapped_start": 21.504,
+            "correction_s": 0.044,
+            "env_at_snapped": 0.0001492007206192801,
+            "env_at_snapped_over_local_median": 0.14520321853618293,
+            "dist_to_nearest_rising_edge_s": 0.8210000000000015
+          },
+          {
+            "idx_1based": 26,
+            "word": "need",
+            "asr_start": 25.2,
+            "snapped_start": 25.2,
+            "correction_s": 0.0,
+            "env_at_snapped": 0.05192642783407601,
+            "env_at_snapped_over_local_median": 0.8202129303038802,
+            "dist_to_nearest_rising_edge_s": 0.6250000000000036
+          },
+          {
+            "idx_1based": 40,
+            "word": "can",
+            "asr_start": 32.68,
+            "snapped_start": 32.688,
+            "correction_s": 0.008,
+            "env_at_snapped": 0.06585906247726059,
+            "env_at_snapped_over_local_median": 1.0716087171489574,
+            "dist_to_nearest_rising_edge_s": 0.13700000000000045
+          },
+          {
+            "idx_1based": 58,
+            "word": "stay",
+            "asr_start": 43.44,
+            "snapped_start": 43.424,
+            "correction_s": -0.016,
+            "env_at_snapped": 0.045553969996902303,
+            "env_at_snapped_over_local_median": 0.9633023142869458,
+            "dist_to_nearest_rising_edge_s": 0.17600000000000193
+          },
+          {
+            "idx_1based": 63,
+            "word": "don't",
+            "asr_start": 48.2,
+            "snapped_start": 48.16,
+            "correction_s": -0.04,
+            "env_at_snapped": 0.0667991265625055,
+            "env_at_snapped_over_local_median": 1.5825095073618618,
+            "dist_to_nearest_rising_edge_s": -0.4849999999999923
+          },
+          {
+            "idx_1based": 64,
+            "word": "overthink",
+            "asr_start": 48.48,
+            "snapped_start": 48.512,
+            "correction_s": 0.032,
+            "env_at_snapped": 0.07541406610824386,
+            "env_at_snapped_over_local_median": 1.4656017348549328,
+            "dist_to_nearest_rising_edge_s": 0.588000000000001
+          },
+          {
+            "idx_1based": 68,
+            "word": "find",
+            "asr_start": 50.14,
+            "snapped_start": 50.112,
+            "correction_s": -0.028,
+            "env_at_snapped": 0.01775864484965321,
+            "env_at_snapped_over_local_median": 0.3157151490357139,
+            "dist_to_nearest_rising_edge_s": 0.03800000000000381
+          },
+          {
+            "idx_1based": 73,
+            "word": "it",
+            "asr_start": 51.72,
+            "snapped_start": 51.728,
+            "correction_s": 0.008,
+            "env_at_snapped": 0.09184810987938057,
+            "env_at_snapped_over_local_median": 1.2960102457892417,
+            "dist_to_nearest_rising_edge_s": -0.1529999999999987
+          },
+          {
+            "idx_1based": 83,
+            "word": "seconds",
+            "asr_start": 58.6,
+            "snapped_start": 58.56,
+            "correction_s": -0.04,
+            "env_at_snapped": 0.09214992731413718,
+            "env_at_snapped_over_local_median": 1.294089256659313,
+            "dist_to_nearest_rising_edge_s": 0.18999999999999773
+          },
+          {
+            "idx_1based": 85,
+            "word": "saw",
+            "asr_start": 59.4,
+            "snapped_start": 59.408,
+            "correction_s": 0.008,
+            "env_at_snapped": 0.1022060536460655,
+            "env_at_snapped_over_local_median": 2.1880682892801175,
+            "dist_to_nearest_rising_edge_s": -0.03300000000000125
+          },
+          {
+            "idx_1based": 88,
+            "word": "at",
+            "asr_start": 62.16,
+            "snapped_start": 62.16,
+            "correction_s": 0.0,
+            "env_at_snapped": 0.08633344698633089,
+            "env_at_snapped_over_local_median": 1.1652196877722298,
+            "dist_to_nearest_rising_edge_s": -0.009999999999990905
+          },
+          {
+            "idx_1based": 91,
+            "word": "missing",
+            "asr_start": 63.78,
+            "snapped_start": 63.792,
+            "correction_s": 0.012,
+            "env_at_snapped": 0.07016283858384091,
+            "env_at_snapped_over_local_median": 0.9907709193715267,
+            "dist_to_nearest_rising_edge_s": -1.641999999999996
+          },
+          {
+            "idx_1based": 92,
+            "word": "my",
+            "asr_start": 64.26,
+            "snapped_start": 64.272,
+            "correction_s": 0.012,
+            "env_at_snapped": 0.08578586406697324,
+            "env_at_snapped_over_local_median": 1.216038142580735,
+            "dist_to_nearest_rising_edge_s": 1.2779999999999916
+          }
+        ],
+        "median": 0.07016283858384091,
+        "q25": 0.048740198915489155,
+        "q75": 0.08770133451890916,
+        "median_norm": 1.216038142580735,
+        "median_dist_rising_edge_s": 0.0470000000000006,
+        "median_abs_dist_rising_edge_s": 0.18999999999999773
+      },
+      "mann_whitney_U": 29.0,
+      "p_one_sided_errors_lt_controls": 0.24864551083591335,
+      "errors_median_lt_controls_median": true,
+      "pass": false
+    }
+  },
+  "judged_on": "c11",
+  "pass": false
+}

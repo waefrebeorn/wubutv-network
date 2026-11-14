@@ -1,0 +1,14 @@
+MV-14 S19 t2 — REROLL (t1 REJECTED G2: burned-in subtitle "Help me stay online." at 0.71s and 1.43s, in-slot). Rides volley 5 — do NOT fire in volley 4 (cap 6/6 spent).
+Slot 43.05–44.58. "Help me stay online" 42.96–44.58 (take-local -0.09–1.53s).
+Tag: SINGING. Setting: the vault. Cast: Editor.
+Gag: he slots the drive home; the whole aisle lights up and stays lit.
+Camera: crash zoom out. Images: vault_lock.
+REROLL AXIS: TEXT — t1 captioned its own line. Root cause: t1's vehicle anti-text clause did NOT name subtitles/captions/on-screen lyrics explicitly (the S16 t1 lesson — S16 t2's explicit clause fixed it; S19's vehicle lacked it). Anti-text clause now NAMES the artifact in entries 1 and 4. Everything else identical to t1.
+
+VIDEO PROMPT (ordered entries):
+1. text: "Wide 16:9, exactly 5 seconds. Flat bold 2D cartoon, thick outlines, bold flat colours. At a hard-drive vault aisle at night: a man in his late 20s, shaved head, thick-rimmed glasses, dark apron over a BLUE AND BLACK striped tee, fingerless gloves, slotting a glowing drive back into a towering shelf, a blank glowing film-frame rectangle at the far end of the aisle. The image is the Editor in the vault aisle, head turned over his shoulder, mouth already moving at the first frame. No subtitles anywhere in the image."
+2. image: work/stills/stack/media-generation-mv14-vault-lock-0-48a154df-ff24-46d4-899e-e40e51564418_1248x704.webp
+3. text: "From the first frame to 1.5 seconds the Editor speaks clearly over his shoulder, his mouth opening and closing on the words 'Help me stay online', clear open mouth shapes on every syllable, visible jaw movement — the line is already underway when the clip starts, so his mouth is moving from the very first frame. He slots the drive home and the whole aisle lights up behind him and stays lit. His other hand never stops working. The words are heard, never written."
+4. text: "After the final word his mouth closes and stays closed for the remainder of the clip. No text, no letters, no words on screen anywhere; NO SUBTITLES, NO CAPTIONS, NO ON-SCREEN LYRICS, no lower-third text; no comic-book captions, no text bursts; all drive labels are blank coloured rectangles; the glowing frame is completely blank inside."
+
+Notes: t1 failed ONLY on the burned-in subtitle (full-res confirmed at 0.71s and 1.43s, in-slot, md5 bfb5f24ca8a4238a483197de8120cd7b) — mouth event, aisle-light gag, clip, identity and motion were all good (ASR "Help me stay online." once 0.0–1.18s, avg_logprob -0.512; warp would have been ~1.37x stretch). "Help" starts 0.09s BEFORE the slot — head-overlap, mouth-already-moving at frame 0. Tee colours stated explicitly (S18 t1 wardrobe lesson). Drive labels blank (S09 precedent).

@@ -1,0 +1,398 @@
+{
+ "segment": 7,
+ "start": 81.52,
+ "end": 107.0,
+ "mix": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 81.52,
+    "end": 82.38,
+    "prob": 0.791
+   },
+   {
+    "word": "hits",
+    "start": 82.38,
+    "end": 82.78,
+    "prob": 0.989
+   },
+   {
+    "word": "my",
+    "start": 82.78,
+    "end": 83.14,
+    "prob": 0.997
+   },
+   {
+    "word": "balls",
+    "start": 83.14,
+    "end": 83.66,
+    "prob": 0.981
+   },
+   {
+    "word": "When",
+    "start": 87.44,
+    "end": 87.74,
+    "prob": 0.307
+   },
+   {
+    "word": "I",
+    "start": 87.74,
+    "end": 88.02,
+    "prob": 0.965
+   },
+   {
+    "word": "poop",
+    "start": 88.02,
+    "end": 88.38,
+    "prob": 0.986
+   },
+   {
+    "word": "it",
+    "start": 88.38,
+    "end": 88.6,
+    "prob": 0.72
+   },
+   {
+    "word": "splashes",
+    "start": 88.6,
+    "end": 89.76,
+    "prob": 0.998
+   },
+   {
+    "word": "Balls,",
+    "start": 89.76,
+    "end": 90.7,
+    "prob": 0.677
+   },
+   {
+    "word": "balls",
+    "start": 90.7,
+    "end": 91.0,
+    "prob": 0.949
+   },
+   {
+    "word": "Water",
+    "start": 91.0,
+    "end": 91.68,
+    "prob": 0.773
+   },
+   {
+    "word": "hits",
+    "start": 91.68,
+    "end": 92.14,
+    "prob": 0.998
+   },
+   {
+    "word": "the",
+    "start": 92.14,
+    "end": 92.38,
+    "prob": 0.0
+   },
+   {
+    "word": "balls",
+    "start": 92.38,
+    "end": 93.0,
+    "prob": 0.883
+   },
+   {
+    "word": "Splash",
+    "start": 94.8,
+    "end": 95.52,
+    "prob": 0.932
+   },
+   {
+    "word": "back",
+    "start": 95.52,
+    "end": 95.84,
+    "prob": 0.944
+   },
+   {
+    "word": "on",
+    "start": 95.84,
+    "end": 96.1,
+    "prob": 0.972
+   },
+   {
+    "word": "the",
+    "start": 96.1,
+    "end": 96.22,
+    "prob": 0.894
+   },
+   {
+    "word": "balls",
+    "start": 96.22,
+    "end": 97.08,
+    "prob": 0.99
+   },
+   {
+    "word": "Balls",
+    "start": 97.08,
+    "end": 98.02,
+    "prob": 0.862
+   },
+   {
+    "word": "Balls",
+    "start": 98.02,
+    "end": 99.02,
+    "prob": 0.505
+   },
+   {
+    "word": "Balls",
+    "start": 99.92,
+    "end": 100.38,
+    "prob": 0.694
+   },
+   {
+    "word": "Balls",
+    "start": 100.38,
+    "end": 100.84,
+    "prob": 0.815
+   }
+  ],
+  "text": " Water hits my balls  When I poop it splashes  Balls, balls  Water hits the balls  Splash back on the balls  Balls  Balls  Balls  Balls  Balls  Balls  Balls",
+  "wall_s": 27.0,
+  "score": {
+   "expected": 28,
+   "hit": 23,
+   "coverage": 0.821,
+   "non_lyric_words": 0,
+   "n_words": 24
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 81.52,
+    "end": 82.4,
+    "prob": 0.396
+   },
+   {
+    "word": "hits",
+    "start": 82.4,
+    "end": 82.78,
+    "prob": 0.941
+   },
+   {
+    "word": "my",
+    "start": 82.78,
+    "end": 83.14,
+    "prob": 0.993
+   },
+   {
+    "word": "balls.",
+    "start": 83.14,
+    "end": 83.78,
+    "prob": 0.986
+   },
+   {
+    "word": "Water",
+    "start": 83.88,
+    "end": 84.22,
+    "prob": 0.861
+   },
+   {
+    "word": "hits",
+    "start": 84.22,
+    "end": 84.62,
+    "prob": 0.991
+   },
+   {
+    "word": "my",
+    "start": 84.62,
+    "end": 84.94,
+    "prob": 0.998
+   },
+   {
+    "word": "balls",
+    "start": 84.94,
+    "end": 85.48,
+    "prob": 0.997
+   },
+   {
+    "word": "Water",
+    "start": 85.48,
+    "end": 86.06,
+    "prob": 0.0
+   },
+   {
+    "word": "hits",
+    "start": 86.06,
+    "end": 86.44,
+    "prob": 0.966
+   },
+   {
+    "word": "my",
+    "start": 86.44,
+    "end": 86.78,
+    "prob": 0.999
+   },
+   {
+    "word": "balls",
+    "start": 86.78,
+    "end": 87.56,
+    "prob": 0.998
+   },
+   {
+    "word": "My",
+    "start": 87.56,
+    "end": 87.94,
+    "prob": 0.224
+   },
+   {
+    "word": "poop",
+    "start": 87.94,
+    "end": 88.34,
+    "prob": 0.521
+   },
+   {
+    "word": "and",
+    "start": 88.34,
+    "end": 88.6,
+    "prob": 0.191
+   },
+   {
+    "word": "splashes",
+    "start": 88.6,
+    "end": 89.48,
+    "prob": 0.769
+   },
+   {
+    "word": "Balls",
+    "start": 89.48,
+    "end": 90.68,
+    "prob": 0.594
+   },
+   {
+    "word": "Balls",
+    "start": 90.68,
+    "end": 91.32,
+    "prob": 0.505
+   },
+   {
+    "word": "Water",
+    "start": 91.32,
+    "end": 91.72,
+    "prob": 0.568
+   },
+   {
+    "word": "hits",
+    "start": 91.72,
+    "end": 92.14,
+    "prob": 0.998
+   },
+   {
+    "word": "my",
+    "start": 92.14,
+    "end": 92.4,
+    "prob": 0.999
+   },
+   {
+    "word": "balls",
+    "start": 92.4,
+    "end": 92.92,
+    "prob": 0.996
+   },
+   {
+    "word": "Why",
+    "start": 92.92,
+    "end": 93.3,
+    "prob": 0.225
+   },
+   {
+    "word": "did",
+    "start": 93.3,
+    "end": 93.56,
+    "prob": 0.321
+   },
+   {
+    "word": "I",
+    "start": 93.56,
+    "end": 93.72,
+    "prob": 0.74
+   },
+   {
+    "word": "hit",
+    "start": 93.72,
+    "end": 94.04,
+    "prob": 0.996
+   },
+   {
+    "word": "my",
+    "start": 94.04,
+    "end": 94.32,
+    "prob": 0.979
+   },
+   {
+    "word": "balls",
+    "start": 94.32,
+    "end": 94.88,
+    "prob": 0.985
+   },
+   {
+    "word": "Splash",
+    "start": 94.88,
+    "end": 95.52,
+    "prob": 0.735
+   },
+   {
+    "word": "back",
+    "start": 95.52,
+    "end": 95.86,
+    "prob": 0.93
+   },
+   {
+    "word": "them",
+    "start": 95.86,
+    "end": 96.1,
+    "prob": 0.025
+   },
+   {
+    "word": "bubbles",
+    "start": 96.1,
+    "end": 96.86,
+    "prob": 0.039
+   },
+   {
+    "word": "Balls",
+    "start": 96.86,
+    "end": 98.06,
+    "prob": 0.693
+   },
+   {
+    "word": "Balls",
+    "start": 98.06,
+    "end": 98.42,
+    "prob": 0.591
+   },
+   {
+    "word": "Balls",
+    "start": 98.42,
+    "end": 99.08,
+    "prob": 0.844
+   },
+   {
+    "word": "Balls",
+    "start": 99.08,
+    "end": 99.44,
+    "prob": 0.946
+   },
+   {
+    "word": "Balls",
+    "start": 99.44,
+    "end": 99.86,
+    "prob": 0.959
+   }
+  ],
+  "text": " Water hits my balls.  Water hits  my balls  Water hits  my balls  My poop  and splashes  Balls  Balls  Water hits  my balls  Why did I hit  my balls  Splash back  them  bubbles  Balls  Balls  Balls  Balls  Balls  Balls  Balls  Balls",
+  "wall_s": 19.7,
+  "score": {
+   "expected": 28,
+   "hit": 24,
+   "coverage": 0.857,
+   "non_lyric_words": 5,
+   "n_words": 37
+  }
+ },
+ "winner": "vocals"
+}

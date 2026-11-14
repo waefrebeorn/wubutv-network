@@ -1,0 +1,15 @@
+import re, hashlib, pathlib
+slate = pathlib.Path("/home/hatch/workspace/wubutv-network/slate")
+def build(v1name, correction, outname):
+    v1 = (slate/v1name).read_text()
+    prompt = correction.strip() + "\n\n" + v1
+    for pat in (r"\(10S-[^)]*\)", r"\(B-\d+[^)]*\)", r"\(AD-\d+[^)]*\)", r"\(E-\d+[^)]*\)"):
+        hits = re.findall(pat, prompt)
+        assert not hits, (outname, pat, hits[:3])
+    p = slate/outname
+    p.write_text(prompt)
+    print(outname, "md5", hashlib.md5(prompt.encode()).hexdigest(), "bytes", len(prompt))
+corr1242 = """CORRECTION — the first take of this draft voiced the directed line EARLY: harmonic voice-grade events at 6.25s (-5.43 dBFS), 6.50s (-4.66 dBFS) and 7.00s (-11.05 dBFS) with the mouth verified OPEN at 6.5s — the directed line "We are out of sorts." landed ~6.2-7.2s, BEFORE the 7.5s cutoff, and the directed 7.5-8.75s window was near-silent. That is a hard voice-timing break. The second break: the set line "THE NIGHT IS SET" was already legible in the galley/tray at 0.5s — the draft's setup is the galley EMPTY at 0.5s with the line appearing only through the 9s set beat. This take: (1) VOICE-TIMING — the directed line's FIRST SOUND lands AT 7.5s or LATER, never before 7.5s; his mouth is closed and motionless from 0.5s through 7.5s, opens ONCE at 8s for the line, and is closed at 8.5s and 9.5s; the utterance is complete by 8.75s; no voice event before 7.5s, ever, no voice event after 8.75s, ever. (2) SETUP — the galley/tray is EMPTY at 0.5s (no set line, no letterforms, empty tray); the set line "THE NIGHT IS SET" appears ONLY through the 9s set beat and sits in the galley at 9.5s. Everything else in the draft below holds verbatim."""
+corr1244 = """CORRECTION — the first take of this draft failed four named axes. (1) VOICE-TIMING — the directed line "Stay in port." voiced ~6.75-7.5s (harmonic events -12.57 to -18.72 dBFS at 6.75/7.0/7.25s, mouth verified OPEN at 7.0s — BEFORE the 7.5s cutoff) and the directed 7.5-8.75s window was silent. Hard voice-timing break. This take: the line's FIRST SOUND lands AT 7.5s or LATER, never before 7.5s; his mouth is closed and motionless from 0.5s through 7.5s, opens ONCE at 8s for the line, closed at 8.5s and 9.5s; the utterance is complete by 8.75s; no voice event before 7.5s, ever, no voice event after 8.75s, ever. (2) SCENE — two plain canvas CONES (not pennants, not flags, not bunting) — both hoisted POINT-UP, unambiguous in endpoint stills; the cones are canvas, unlettered. (3) SUBJECT — the storm officer's hands ONLY (never a face, never a body — hands in plain sleeves) work the halyards; the man stands at the mast CLEAR of the halyards, his hands at his sides except the line beat. (4) HARBOR — EMPTY: no ships, no sea detail, the emptiness is the premise. Everything else in the draft below holds verbatim."""
+build("fire_b1242_20261018_2100_v1.txt", corr1242, "fire_b1242_20261018_2100_v2.txt")
+build("fire_b1244_20261018_2100_v1.txt", corr1244, "fire_b1244_20261018_2100_v2.txt")

@@ -1,0 +1,1717 @@
+{
+ "bars": {
+  "1_hit_identity": {
+   "pass": true,
+   "detail": {
+    "S47": {
+     "max_abs_diff": 0,
+     "centre_err_s": [
+      0.0,
+      -0.0,
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0
+     ]
+    },
+    "S49": {
+     "max_abs_diff": 0,
+     "centre_err_s": [
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0
+     ]
+    },
+    "S50": {
+     "max_abs_diff": 0,
+     "centre_err_s": [
+      0.0,
+      -0.0,
+      0.0,
+      0.0
+     ]
+    },
+    "S52": {
+     "max_abs_diff": 0,
+     "centre_err_s": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ]
+    },
+    "S49MOD": {
+     "max_abs_diff": 0,
+     "centre_err_s": [
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0
+     ]
+    }
+   }
+  },
+  "6_parity": {
+   "alphas_match": {
+    "S47": true,
+    "S49": true,
+    "S50": true,
+    "S52": true
+   },
+   "corr_noguard": {
+    "S47": 1.0,
+    "S49": 1.0,
+    "S50": 1.0,
+    "S52": 1.0
+   },
+   "corr_guard_on": {
+    "S47": 1.0,
+    "S49": 1.0,
+    "S50": 0.971505,
+    "S52": 0.946113
+   },
+   "corr_guard_on_outside_flags": {
+    "S47": 1.0,
+    "S49": 1.0,
+    "S50": 1.0,
+    "S52": 1.0
+   },
+   "pass": true
+  },
+  "7_runtime": {
+   "pass": true,
+   "worst_m7_s": 0.39,
+   "worst_ola_s": 0.066,
+   "bar_s": 10
+  },
+  "4_guard": {
+   "hard_flagged": {
+    "S47": [],
+    "S49": [],
+    "S50": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 0.333,
+      "in_s": [
+       0.025,
+       0.655
+      ],
+      "out_s": [
+       0.025,
+       0.235
+      ],
+      "flag": "hard",
+      "word_idx": 0,
+      "word": "keep"
+     }
+    ],
+    "S52": [
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.243,
+      "in_s": [
+       0.505,
+       0.875
+      ],
+      "out_s": [
+       0.545,
+       0.635
+      ],
+      "flag": "hard",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 4,
+      "kind": "inter",
+      "alpha": 0.254,
+      "in_s": [
+       1.225,
+       1.895
+      ],
+      "out_s": [
+       1.285,
+       1.455
+      ],
+      "flag": "hard",
+      "word_idx": 3,
+      "word": "it"
+     }
+    ],
+    "S49MOD": []
+   },
+   "warn_flagged": {
+    "S47": [],
+    "S49": [],
+    "S50": [],
+    "S52": [],
+    "S49MOD": [
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 0.6,
+      "in_s": [
+       0.885,
+       1.275
+      ],
+      "out_s": [
+       0.865,
+       1.099
+      ],
+      "flag": "warn",
+      "word_idx": 2,
+      "word": "post"
+     }
+    ]
+   },
+   "s49mod_gap_alphas": [
+    1.044,
+    0.871,
+    0.6,
+    0.85
+   ],
+   "s49mod_expected": "gap after post (index 2) alpha 0.60 in WARN band"
+  },
+  "2_timing": {
+   "pass": true,
+   "words3plus_rms_ms": 52.9,
+   "n_words": 14,
+   "bar_ms": 100,
+   "prototype_m7_ms": 69.3,
+   "per_take": {
+    "S47": {
+     "residual_ms": [
+      null,
+      -720.0,
+      0.0,
+      -40.0,
+      -20.0,
+      -60.0,
+      -40.0
+     ],
+     "words3plus_rms": 37.9,
+     "heard": 6,
+     "n": 7
+    },
+    "S49": {
+     "residual_ms": [
+      200.0,
+      80.0,
+      120.0,
+      20.0
+     ],
+     "words3plus_rms": 86.0,
+     "heard": 4,
+     "n": 4
+    },
+    "S50": {
+     "residual_ms": [
+      null,
+      null,
+      -80.0,
+      null
+     ],
+     "words3plus_rms": 80.0,
+     "heard": 1,
+     "n": 4
+    },
+    "S52": {
+     "residual_ms": [
+      -300.0,
+      0.0,
+      60.0,
+      -40.0,
+      -20.0,
+      -40.0,
+      60.0,
+      0.0
+     ],
+     "words3plus_rms": 42.4,
+     "heard": 8,
+     "n": 8
+    }
+   },
+   "note": "C11 guard-on 52.9 vs prototype M7 69.3; delta is ASR jitter inside guarded spans (S50 work -80 vs -140, S52 stay -40 vs -140) plus the S47 word-1 edge artefact; all within the report 60 ms ASR noise floor."
+  },
+  "3_identity": {
+   "pass": true,
+   "heard": 19,
+   "n": 23,
+   "bar": 18,
+   "misses": {
+    "S47": [
+     "this (word 1, edge artefact: ASR dropped it at the clip edge, same family as prototype M7)"
+    ],
+    "S50": [
+     "keep",
+     "the",
+     "alive (words 1,2,4 \u2014 guard-zone: gap1 0.333x HARD-flagged, body truncated by design)"
+    ]
+   },
+   "note": "19/23 vs prototype M7 18/23: S52 word 4 it is now HEARD (-40 ms) \u2014 the truncated-copy fill preserved the word onset where the 0.254x stretch garbled it. All 4 misses are accounted for: 1 edge artefact + 3 guard-zone."
+  },
+  "5_fallback": {
+   "pass": true,
+   "heard": 23,
+   "n": 23,
+   "per_take_residual_ms": {
+    "S47": [
+     -300.0,
+     -300.0,
+     340.0,
+     240.0,
+     200.0,
+     80.0,
+     40.0
+    ],
+    "S49": [
+     160.0,
+     20.0,
+     40.0,
+     -0.0
+    ],
+    "S50": [
+     -300.0,
+     320.0,
+     220.0,
+     120.0
+    ],
+    "S52": [
+     -300.0,
+     -20.0,
+     200.0,
+     20.0,
+     240.0,
+     440.0,
+     440.0,
+     360.0
+    ]
+   },
+   "note": "Identical to prototype M2_OLA256 residuals except S52 word 2 (-20 vs 0 ms): ASR jitter, 20 ms inside the noise floor."
+  },
+  "_summary": {
+   "1_hit_identity": true,
+   "2_timing": true,
+   "3_identity": true,
+   "4_guard": true,
+   "5_fallback": true,
+   "6_parity": true,
+   "7_runtime": true
+  },
+  "_all_pass": true
+ },
+ "per_take": {
+  "S47": {
+   "m7_noguard_runtime_s": 0.317,
+   "m7_noguard": {
+    "take": "S47",
+    "alpha": 1.518,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": false,
+    "out_len": 40318,
+    "out_len_s": 2.52,
+    "runtime_s": 0.307,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     0.0,
+     -0.0,
+     -0.0,
+     -0.0,
+     -0.0
+    ],
+    "gap_alphas": [
+     1.057,
+     1.114,
+     3.222,
+     1.909,
+     3.222,
+     1.909,
+     1.851
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.057,
+      "in_s": [
+       0.025,
+       0.375
+      ],
+      "out_s": [
+       0.025,
+       0.395
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "this"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 1.114,
+      "in_s": [
+       0.425,
+       0.775
+      ],
+      "out_s": [
+       0.445,
+       0.835
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "is"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 3.222,
+      "in_s": [
+       0.825,
+       0.915
+      ],
+      "out_s": [
+       0.885,
+       1.175
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "how"
+     },
+     {
+      "gap": 4,
+      "kind": "inter",
+      "alpha": 1.909,
+      "in_s": [
+       0.965,
+       1.075
+      ],
+      "out_s": [
+       1.225,
+       1.435
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "you"
+     },
+     {
+      "gap": 5,
+      "kind": "inter",
+      "alpha": 3.222,
+      "in_s": [
+       1.125,
+       1.215
+      ],
+      "out_s": [
+       1.485,
+       1.775
+      ],
+      "flag": "none",
+      "word_idx": 4,
+      "word": "do"
+     },
+     {
+      "gap": 6,
+      "kind": "inter",
+      "alpha": 1.909,
+      "in_s": [
+       1.265,
+       1.375
+      ],
+      "out_s": [
+       1.825,
+       2.035
+      ],
+      "flag": "none",
+      "word_idx": 5,
+      "word": "it"
+     },
+     {
+      "gap": 7,
+      "kind": "tail",
+      "alpha": 1.851,
+      "in_s": [
+       1.425,
+       1.66
+      ],
+      "out_s": [
+       2.085,
+       2.52
+      ],
+      "flag": "none",
+      "word_idx": 6,
+      "word": "now"
+     }
+    ]
+   },
+   "m7_runtime_s": 0.39,
+   "m7": {
+    "take": "S47",
+    "alpha": 1.518,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": true,
+    "out_len": 40318,
+    "out_len_s": 2.52,
+    "runtime_s": 0.387,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     0.0,
+     -0.0,
+     -0.0,
+     -0.0,
+     -0.0
+    ],
+    "gap_alphas": [
+     1.057,
+     1.114,
+     3.222,
+     1.909,
+     3.222,
+     1.909,
+     1.851
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.057,
+      "in_s": [
+       0.025,
+       0.375
+      ],
+      "out_s": [
+       0.025,
+       0.395
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "this"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 1.114,
+      "in_s": [
+       0.425,
+       0.775
+      ],
+      "out_s": [
+       0.445,
+       0.835
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "is"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 3.222,
+      "in_s": [
+       0.825,
+       0.915
+      ],
+      "out_s": [
+       0.885,
+       1.175
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "how"
+     },
+     {
+      "gap": 4,
+      "kind": "inter",
+      "alpha": 1.909,
+      "in_s": [
+       0.965,
+       1.075
+      ],
+      "out_s": [
+       1.225,
+       1.435
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "you"
+     },
+     {
+      "gap": 5,
+      "kind": "inter",
+      "alpha": 3.222,
+      "in_s": [
+       1.125,
+       1.215
+      ],
+      "out_s": [
+       1.485,
+       1.775
+      ],
+      "flag": "none",
+      "word_idx": 4,
+      "word": "do"
+     },
+     {
+      "gap": 6,
+      "kind": "inter",
+      "alpha": 1.909,
+      "in_s": [
+       1.265,
+       1.375
+      ],
+      "out_s": [
+       1.825,
+       2.035
+      ],
+      "flag": "none",
+      "word_idx": 5,
+      "word": "it"
+     },
+     {
+      "gap": 7,
+      "kind": "tail",
+      "alpha": 1.851,
+      "in_s": [
+       1.425,
+       1.66
+      ],
+      "out_s": [
+       2.085,
+       2.52
+      ],
+      "flag": "none",
+      "word_idx": 6,
+      "word": "now"
+     }
+    ]
+   },
+   "ola_runtime_s": 0.008
+  },
+  "S49": {
+   "m7_noguard_runtime_s": 0.309,
+   "m7_noguard": {
+    "take": "S49",
+    "alpha": 0.9487,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": false,
+    "out_len": 23680,
+    "out_len_s": 1.48,
+    "runtime_s": 0.303,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     -0.0,
+     -0.0
+    ],
+    "gap_alphas": [
+     1.044,
+     0.871,
+     0.897,
+     0.915
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.044,
+      "in_s": [
+       0.025,
+       0.475
+      ],
+      "out_s": [
+       0.025,
+       0.495
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "clip"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.871,
+      "in_s": [
+       0.525,
+       0.835
+      ],
+      "out_s": [
+       0.545,
+       0.815
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 0.897,
+      "in_s": [
+       0.885,
+       1.275
+      ],
+      "out_s": [
+       0.865,
+       1.215
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "post"
+     },
+     {
+      "gap": 4,
+      "kind": "tail",
+      "alpha": 0.915,
+      "in_s": [
+       1.325,
+       1.56
+      ],
+      "out_s": [
+       1.265,
+       1.48
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "it"
+     }
+    ]
+   },
+   "m7_runtime_s": 0.332,
+   "m7": {
+    "take": "S49",
+    "alpha": 0.9487,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": true,
+    "out_len": 23680,
+    "out_len_s": 1.48,
+    "runtime_s": 0.292,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     -0.0,
+     -0.0
+    ],
+    "gap_alphas": [
+     1.044,
+     0.871,
+     0.897,
+     0.915
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.044,
+      "in_s": [
+       0.025,
+       0.475
+      ],
+      "out_s": [
+       0.025,
+       0.495
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "clip"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.871,
+      "in_s": [
+       0.525,
+       0.835
+      ],
+      "out_s": [
+       0.545,
+       0.815
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 0.897,
+      "in_s": [
+       0.885,
+       1.275
+      ],
+      "out_s": [
+       0.865,
+       1.215
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "post"
+     },
+     {
+      "gap": 4,
+      "kind": "tail",
+      "alpha": 0.915,
+      "in_s": [
+       1.325,
+       1.56
+      ],
+      "out_s": [
+       1.265,
+       1.48
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "it"
+     }
+    ]
+   },
+   "ola_runtime_s": 0.064
+  },
+  "S50": {
+   "m7_noguard_runtime_s": 0.114,
+   "m7_noguard": {
+    "take": "S50",
+    "alpha": 0.8023,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": false,
+    "out_len": 22080,
+    "out_len_s": 1.38,
+    "runtime_s": 0.11,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     0.0,
+     0.0
+    ],
+    "gap_alphas": [
+     0.333,
+     1.118,
+     1.148,
+     1.042
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 0.333,
+      "in_s": [
+       0.025,
+       0.655
+      ],
+      "out_s": [
+       0.025,
+       0.235
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "keep"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 1.118,
+      "in_s": [
+       0.705,
+       0.875
+      ],
+      "out_s": [
+       0.285,
+       0.475
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "the"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 1.148,
+      "in_s": [
+       0.925,
+       1.195
+      ],
+      "out_s": [
+       0.525,
+       0.835
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "work"
+     },
+     {
+      "gap": 4,
+      "kind": "tail",
+      "alpha": 1.042,
+      "in_s": [
+       1.245,
+       1.72
+      ],
+      "out_s": [
+       0.885,
+       1.38
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "alive"
+     }
+    ]
+   },
+   "m7_runtime_s": 0.221,
+   "m7": {
+    "take": "S50",
+    "alpha": 0.8023,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": true,
+    "out_len": 22080,
+    "out_len_s": 1.38,
+    "runtime_s": 0.212,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     0.0,
+     0.0
+    ],
+    "gap_alphas": [
+     0.333,
+     1.118,
+     1.148,
+     1.042
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 0.333,
+      "in_s": [
+       0.025,
+       0.655
+      ],
+      "out_s": [
+       0.025,
+       0.235
+      ],
+      "flag": "hard",
+      "word_idx": 0,
+      "word": "keep"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 1.118,
+      "in_s": [
+       0.705,
+       0.875
+      ],
+      "out_s": [
+       0.285,
+       0.475
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "the"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 1.148,
+      "in_s": [
+       0.925,
+       1.195
+      ],
+      "out_s": [
+       0.525,
+       0.835
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "work"
+     },
+     {
+      "gap": 4,
+      "kind": "tail",
+      "alpha": 1.042,
+      "in_s": [
+       1.245,
+       1.72
+      ],
+      "out_s": [
+       0.885,
+       1.38
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "alive"
+     }
+    ]
+   },
+   "ola_runtime_s": 0.007
+  },
+  "S52": {
+   "m7_noguard_runtime_s": 0.304,
+   "m7_noguard": {
+    "take": "S52",
+    "alpha": 1.0748,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": false,
+    "out_len": 50559,
+    "out_len_s": 3.16,
+    "runtime_s": 0.301,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "gap_alphas": [
+     1.093,
+     0.243,
+     2.2,
+     0.254,
+     2.556,
+     1.308,
+     1.526,
+     1.873
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.093,
+      "in_s": [
+       0.025,
+       0.455
+      ],
+      "out_s": [
+       0.025,
+       0.495
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "clip"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.243,
+      "in_s": [
+       0.505,
+       0.875
+      ],
+      "out_s": [
+       0.545,
+       0.635
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 2.2,
+      "in_s": [
+       0.925,
+       1.175
+      ],
+      "out_s": [
+       0.685,
+       1.235
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "post"
+     },
+     {
+      "gap": 4,
+      "kind": "inter",
+      "alpha": 0.254,
+      "in_s": [
+       1.225,
+       1.895
+      ],
+      "out_s": [
+       1.285,
+       1.455
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "it"
+     },
+     {
+      "gap": 5,
+      "kind": "inter",
+      "alpha": 2.556,
+      "in_s": [
+       1.945,
+       2.035
+      ],
+      "out_s": [
+       1.505,
+       1.735
+      ],
+      "flag": "none",
+      "word_idx": 4,
+      "word": "help"
+     },
+     {
+      "gap": 6,
+      "kind": "inter",
+      "alpha": 1.308,
+      "in_s": [
+       2.085,
+       2.215
+      ],
+      "out_s": [
+       1.785,
+       1.955
+      ],
+      "flag": "none",
+      "word_idx": 5,
+      "word": "me"
+     },
+     {
+      "gap": 7,
+      "kind": "inter",
+      "alpha": 1.526,
+      "in_s": [
+       2.265,
+       2.455
+      ],
+      "out_s": [
+       2.005,
+       2.295
+      ],
+      "flag": "none",
+      "word_idx": 6,
+      "word": "stay"
+     },
+     {
+      "gap": 8,
+      "kind": "tail",
+      "alpha": 1.873,
+      "in_s": [
+       2.505,
+       2.94
+      ],
+      "out_s": [
+       2.345,
+       3.16
+      ],
+      "flag": "none",
+      "word_idx": 7,
+      "word": "online"
+     }
+    ]
+   },
+   "m7_runtime_s": 0.13,
+   "m7": {
+    "take": "S52",
+    "alpha": 1.0748,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": true,
+    "out_len": 50559,
+    "out_len_s": 3.16,
+    "runtime_s": 0.126,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "gap_alphas": [
+     1.093,
+     0.243,
+     2.2,
+     0.254,
+     2.556,
+     1.308,
+     1.526,
+     1.873
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.093,
+      "in_s": [
+       0.025,
+       0.455
+      ],
+      "out_s": [
+       0.025,
+       0.495
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "clip"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.243,
+      "in_s": [
+       0.505,
+       0.875
+      ],
+      "out_s": [
+       0.545,
+       0.635
+      ],
+      "flag": "hard",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 2.2,
+      "in_s": [
+       0.925,
+       1.175
+      ],
+      "out_s": [
+       0.685,
+       1.235
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "post"
+     },
+     {
+      "gap": 4,
+      "kind": "inter",
+      "alpha": 0.254,
+      "in_s": [
+       1.225,
+       1.895
+      ],
+      "out_s": [
+       1.285,
+       1.455
+      ],
+      "flag": "hard",
+      "word_idx": 3,
+      "word": "it"
+     },
+     {
+      "gap": 5,
+      "kind": "inter",
+      "alpha": 2.556,
+      "in_s": [
+       1.945,
+       2.035
+      ],
+      "out_s": [
+       1.505,
+       1.735
+      ],
+      "flag": "none",
+      "word_idx": 4,
+      "word": "help"
+     },
+     {
+      "gap": 6,
+      "kind": "inter",
+      "alpha": 1.308,
+      "in_s": [
+       2.085,
+       2.215
+      ],
+      "out_s": [
+       1.785,
+       1.955
+      ],
+      "flag": "none",
+      "word_idx": 5,
+      "word": "me"
+     },
+     {
+      "gap": 7,
+      "kind": "inter",
+      "alpha": 1.526,
+      "in_s": [
+       2.265,
+       2.455
+      ],
+      "out_s": [
+       2.005,
+       2.295
+      ],
+      "flag": "none",
+      "word_idx": 6,
+      "word": "stay"
+     },
+     {
+      "gap": 8,
+      "kind": "tail",
+      "alpha": 1.873,
+      "in_s": [
+       2.505,
+       2.94
+      ],
+      "out_s": [
+       2.345,
+       3.16
+      ],
+      "flag": "none",
+      "word_idx": 7,
+      "word": "online"
+     }
+    ]
+   },
+   "ola_runtime_s": 0.066
+  },
+  "S49MOD": {
+   "m7_noguard_runtime_s": 0.199,
+   "m7_noguard": {
+    "take": "S49MOD",
+    "alpha": 0.8646,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": false,
+    "out_len": 21580,
+    "out_len_s": 1.349,
+    "runtime_s": 0.195,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     -0.0,
+     -0.0
+    ],
+    "gap_alphas": [
+     1.044,
+     0.871,
+     0.6,
+     0.85
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.044,
+      "in_s": [
+       0.025,
+       0.475
+      ],
+      "out_s": [
+       0.025,
+       0.495
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "clip"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.871,
+      "in_s": [
+       0.525,
+       0.835
+      ],
+      "out_s": [
+       0.545,
+       0.815
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 0.6,
+      "in_s": [
+       0.885,
+       1.275
+      ],
+      "out_s": [
+       0.865,
+       1.099
+      ],
+      "flag": "none",
+      "word_idx": 2,
+      "word": "post"
+     },
+     {
+      "gap": 4,
+      "kind": "tail",
+      "alpha": 0.85,
+      "in_s": [
+       1.325,
+       1.56
+      ],
+      "out_s": [
+       1.149,
+       1.349
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "it"
+     }
+    ]
+   },
+   "m7_runtime_s": 0.109,
+   "m7": {
+    "take": "S49MOD",
+    "alpha": 0.8646,
+    "sr": 16000,
+    "guard_hard": 0.5,
+    "guard_op": 0.7,
+    "guard_on": true,
+    "out_len": 21580,
+    "out_len_s": 1.349,
+    "runtime_s": 0.107,
+    "hit_max_abs_diff": 0,
+    "hit_centre_err_s": [
+     0.0,
+     -0.0,
+     -0.0,
+     -0.0
+    ],
+    "gap_alphas": [
+     1.044,
+     0.871,
+     0.6,
+     0.85
+    ],
+    "gaps": [
+     {
+      "gap": 1,
+      "kind": "inter",
+      "alpha": 1.044,
+      "in_s": [
+       0.025,
+       0.475
+      ],
+      "out_s": [
+       0.025,
+       0.495
+      ],
+      "flag": "none",
+      "word_idx": 0,
+      "word": "clip"
+     },
+     {
+      "gap": 2,
+      "kind": "inter",
+      "alpha": 0.871,
+      "in_s": [
+       0.525,
+       0.835
+      ],
+      "out_s": [
+       0.545,
+       0.815
+      ],
+      "flag": "none",
+      "word_idx": 1,
+      "word": "it"
+     },
+     {
+      "gap": 3,
+      "kind": "inter",
+      "alpha": 0.6,
+      "in_s": [
+       0.885,
+       1.275
+      ],
+      "out_s": [
+       0.865,
+       1.099
+      ],
+      "flag": "warn",
+      "word_idx": 2,
+      "word": "post"
+     },
+     {
+      "gap": 4,
+      "kind": "tail",
+      "alpha": 0.85,
+      "in_s": [
+       1.325,
+       1.56
+      ],
+      "out_s": [
+       1.149,
+       1.349
+      ],
+      "flag": "none",
+      "word_idx": 3,
+      "word": "it"
+     }
+    ]
+   },
+   "ola_runtime_s": 0.004
+  }
+ },
+ "asan": {
+  "rc": 0,
+  "stderr": "m7: in 26560 (1.660s) alpha 1.518 -> out 40318 (2.520s) gaps [1.057, 1.114, 3.222, 1.909, 3.222, 1.909, 1.851] hit_id 0 in 0.72s"
+ },
+ "asr": {
+  "S47_C11_M7": {
+   "asr_words": [
+    " is",
+    " how",
+    " you",
+    " do",
+    " it",
+    " now."
+   ],
+   "onsets_s": [
+    null,
+    -0.3,
+    0.8599999999999999,
+    1.16,
+    1.44,
+    1.74,
+    2.02
+   ],
+   "residual_ms": [
+    null,
+    -720.0,
+    0.0,
+    -40.0,
+    -20.0,
+    -60.0,
+    -40.0
+   ]
+  },
+  "S49_C11_M7": {
+   "asr_words": [
+    " Clip",
+    " it,",
+    " post",
+    " it."
+   ],
+   "onsets_s": [
+    0.20000000000000012,
+    0.6000000000000001,
+    0.96,
+    1.26
+   ],
+   "residual_ms": [
+    200.0,
+    80.0,
+    120.0,
+    20.0
+   ]
+  },
+  "S50_C11_M7": {
+   "asr_words": [
+    " You",
+    " work",
+    " a",
+    " lot."
+   ],
+   "onsets_s": [
+    null,
+    null,
+    0.42,
+    null
+   ],
+   "residual_ms": [
+    null,
+    null,
+    -80.0,
+    null
+   ]
+  },
+  "S52_C11_M7": {
+   "asr_words": [
+    " Clip",
+    " it,",
+    " post",
+    " it,",
+    " help",
+    " me",
+    " stay",
+    " online."
+   ],
+   "onsets_s": [
+    -0.3,
+    0.52,
+    0.72,
+    1.22,
+    1.46,
+    1.72,
+    2.04,
+    2.3200000000000003
+   ],
+   "residual_ms": [
+    -300.0,
+    0.0,
+    60.0,
+    -40.0,
+    -20.0,
+    -40.0,
+    60.0,
+    0.0
+   ]
+  },
+  "S47_C11_OLA256": {
+   "asr_words": [
+    " This",
+    " is",
+    " how",
+    " you",
+    " do",
+    " it",
+    " now."
+   ],
+   "onsets_s": [
+    -0.3,
+    0.12,
+    1.2,
+    1.44,
+    1.66,
+    1.8800000000000001,
+    2.1
+   ],
+   "residual_ms": [
+    -300.0,
+    -300.0,
+    340.0,
+    240.0,
+    200.0,
+    80.0,
+    40.0
+   ]
+  },
+  "S49_C11_OLA256": {
+   "asr_words": [
+    " Clip",
+    " it,",
+    " post",
+    " it."
+   ],
+   "onsets_s": [
+    0.1600000000000001,
+    0.54,
+    0.8799999999999999,
+    1.24
+   ],
+   "residual_ms": [
+    160.0,
+    20.0,
+    40.0,
+    -0.0
+   ]
+  },
+  "S50_C11_OLA256": {
+   "asr_words": [
+    " Keep",
+    " the",
+    " work",
+    " alive."
+   ],
+   "onsets_s": [
+    -0.3,
+    0.5800000000000001,
+    0.72,
+    0.98
+   ],
+   "residual_ms": [
+    -300.0,
+    320.0,
+    220.0,
+    120.0
+   ]
+  },
+  "S52_C11_OLA256": {
+   "asr_words": [
+    " Clip",
+    " it.",
+    " Post",
+    " it.",
+    " Help",
+    " me",
+    " stay",
+    " online."
+   ],
+   "onsets_s": [
+    -0.3,
+    0.5,
+    0.8599999999999999,
+    1.28,
+    1.72,
+    2.2,
+    2.4200000000000004,
+    2.68
+   ],
+   "residual_ms": [
+    -300.0,
+    -20.0,
+    200.0,
+    20.0,
+    240.0,
+    440.0,
+    440.0,
+    360.0
+   ]
+  },
+  "S49MOD_C11_M7": {
+   "asr_words": [
+    " Clip",
+    " it,",
+    " post",
+    " it."
+   ],
+   "onsets_s": [
+    0.1800000000000001,
+    0.6000000000000001,
+    0.9199999999999999,
+    1.14
+   ],
+   "residual_ms": [
+    180.0,
+    80.0,
+    80.0,
+    16.0
+   ]
+  }
+ }
+}

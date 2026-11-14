@@ -1,0 +1,26 @@
+# MV-8 REBUILD v2 — Volley 3 vehicle: O-A "The Return Flight" (JOURNEY)
+# Scene: O-A, song 146.00–163.00 (3504–3912f). 17.00s scene; one 10s take.
+# Instrumental (Outro — no lyric lines). TRUE-PEAK SCENE: loop-the-loop apex
+# MUST land on frame 3826 (159.435s), 13.42s into the scene.
+# Take math: one 10s take stretched to 17s at assembly = 1.7x; the apex must
+# sit at 13.42 / 1.7 = 7.89s into the take — prompt places the loop top
+# "around eight seconds into the clip". QC measures the apex's actual
+# take-time and records it in the ledger so assembly can place it exactly.
+# Anchors: F11.jpg (start, rear flight over palace city) -> F02.jpg
+# (destination, top-down foam vortex). CRADLE SHOT into the vortex.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: already flying fast at frame 0 — camera already swooping, never
+# still. No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. High above a golden porcelain palace city at golden hour, the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, rides a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles and a cream scarf streaming behind. She is already flying fast as the clip opens, the camera already swooping with her, never still. She banks into a great loop-the-loop over the palace rooftops, climbing, rolling over the top of the loop around eight seconds into the clip — the highest point of the flight, the biggest visual in the video — then diving down toward a vast spiralling white foam vortex below, spray and bubbles streaming past. Continuous motion to the last frame. No text, no logos, no children."
+Image 1: F11.jpg
+Text 2: "The dive continues into the top-down foam vortex, sparkling water spiralling, the Champion and her mount plunging toward the centre of the swirl, travelling toward the second image."
+Image 2: F02.jpg
+Text 3: "Ends at the second image: the top-down foam vortex filling the frame, sparkling water and bubbles streaming in a fast spiral, a yellow-gloved hand slamming a golden flush handle, continuous motion to the last frame. No text, no logos, no children, no other characters."

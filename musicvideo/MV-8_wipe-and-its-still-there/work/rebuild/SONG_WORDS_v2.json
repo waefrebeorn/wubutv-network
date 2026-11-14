@@ -1,0 +1,951 @@
+{
+ "track": "track.mp4 md5 8a4834d2e647fffce6782a3461baa936, 187.2s",
+ "method": "faster-whisper medium (Pass A, no prompt, no VAD, beam 5) as base; small+sheet-prompt (Pass B2) and v1 small as witnesses; tiny corroboration for Hook 1 onset. See LYRIC_TIMELINE_v2.md.",
+ "words": [
+  {
+   "word": "Wipe",
+   "start": 7.98,
+   "end": 9.6,
+   "prob": 0.36,
+   "source": "adjudicated(B2+tiny)"
+  },
+  {
+   "word": "and",
+   "start": 9.6,
+   "end": 9.82,
+   "prob": 0.43,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 9.82,
+   "end": 10.28,
+   "prob": 0.84,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 10.28,
+   "end": 10.48,
+   "prob": 0.73,
+   "source": "medium"
+  },
+  {
+   "word": "there,",
+   "start": 10.48,
+   "end": 11.7,
+   "prob": 0.9,
+   "source": "medium"
+  },
+  {
+   "word": "wipe,",
+   "start": 11.7,
+   "end": 13.06,
+   "prob": 0.73,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 13.06,
+   "end": 13.48,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 13.48,
+   "end": 13.72,
+   "prob": 0.86,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 13.72,
+   "end": 13.98,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 13.98,
+   "end": 14.34,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 14.34,
+   "end": 16.12,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "Paper",
+   "start": 16.12,
+   "end": 16.98,
+   "prob": 0.36,
+   "source": "medium"
+  },
+  {
+   "word": "comes",
+   "start": 16.98,
+   "end": 17.68,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "back",
+   "start": 17.68,
+   "end": 18.26,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "dirty,",
+   "start": 18.26,
+   "end": 19.24,
+   "prob": 0.96,
+   "source": "medium"
+  },
+  {
+   "word": "dirty,",
+   "start": 19.24,
+   "end": 19.8,
+   "prob": 0.96,
+   "source": "medium"
+  },
+  {
+   "word": "dirty,",
+   "start": 19.8,
+   "end": 21.22,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "dirty",
+   "start": 21.22,
+   "end": 22.08,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "Brown,",
+   "start": 22.08,
+   "end": 22.68,
+   "prob": 0.41,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 22.68,
+   "end": 23.3,
+   "prob": 0.92,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 23.3,
+   "end": 23.9,
+   "prob": 0.97,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 23.9,
+   "end": 24.34,
+   "prob": 0.95,
+   "source": "medium"
+  },
+  {
+   "word": "brown",
+   "start": 24.34,
+   "end": 24.74,
+   "prob": 0.93,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 24.74,
+   "end": 25.26,
+   "prob": 0.84,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 25.26,
+   "end": 25.48,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 25.48,
+   "end": 25.96,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 25.96,
+   "end": 26.08,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "there,",
+   "start": 26.08,
+   "end": 27.74,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "wipe,",
+   "start": 28.62,
+   "end": 28.9,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 28.96,
+   "end": 29.18,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 29.18,
+   "end": 29.38,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 29.38,
+   "end": 29.98,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "Phantom",
+   "start": 30.98,
+   "end": 32.56,
+   "prob": 0.19,
+   "source": "medium"
+  },
+  {
+   "word": "on",
+   "start": 32.56,
+   "end": 32.92,
+   "prob": 0.78,
+   "source": "medium"
+  },
+  {
+   "word": "residue",
+   "start": 32.92,
+   "end": 33.76,
+   "prob": 0.8,
+   "source": "medium"
+  },
+  {
+   "word": "stays",
+   "start": 33.76,
+   "end": 34.96,
+   "prob": 0.82,
+   "source": "medium"
+  },
+  {
+   "word": "Brown,",
+   "start": 36.9,
+   "end": 38.3,
+   "prob": 0.58,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 38.3,
+   "end": 39.64,
+   "prob": 0.78,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 39.64,
+   "end": 39.9,
+   "prob": 0.97,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 39.9,
+   "end": 40.38,
+   "prob": 0.95,
+   "source": "medium"
+  },
+  {
+   "word": "brown",
+   "start": 40.38,
+   "end": 41.84,
+   "prob": 0.94,
+   "source": "medium"
+  },
+  {
+   "word": "Sitting",
+   "start": 60.46,
+   "end": 61.32,
+   "prob": 0.02,
+   "source": "adjudicated(v1)"
+  },
+  {
+   "word": "on",
+   "start": 61.32,
+   "end": 61.68,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "the",
+   "start": 61.68,
+   "end": 62.02,
+   "prob": 0.92,
+   "source": "medium"
+  },
+  {
+   "word": "toilet,",
+   "start": 62.02,
+   "end": 63.3,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "wipe,",
+   "start": 63.62,
+   "end": 63.76,
+   "prob": 0.0,
+   "source": "medium"
+  },
+  {
+   "word": "once,",
+   "start": 63.94,
+   "end": 64.22,
+   "prob": 0.86,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 64.32,
+   "end": 64.66,
+   "prob": 0.51,
+   "source": "medium"
+  },
+  {
+   "word": "brown",
+   "start": 64.66,
+   "end": 65.0,
+   "prob": 0.89,
+   "source": "medium"
+  },
+  {
+   "word": "Phantom",
+   "start": 65.6,
+   "end": 66.08,
+   "prob": 0.02,
+   "source": "medium"
+  },
+  {
+   "word": "wipe,",
+   "start": 66.48,
+   "end": 66.72,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 66.76,
+   "end": 67.0,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "again",
+   "start": 67.0,
+   "end": 67.38,
+   "prob": 0.71,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 67.38,
+   "end": 67.92,
+   "prob": 0.71,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 67.92,
+   "end": 68.08,
+   "prob": 0.05,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 68.08,
+   "end": 68.36,
+   "prob": 0.55,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 68.36,
+   "end": 68.6,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "there,",
+   "start": 68.6,
+   "end": 69.1,
+   "prob": 0.96,
+   "source": "medium"
+  },
+  {
+   "word": "never",
+   "start": 69.36,
+   "end": 69.54,
+   "prob": 0.97,
+   "source": "medium"
+  },
+  {
+   "word": "clean",
+   "start": 69.54,
+   "end": 70.28,
+   "prob": 0.84,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 70.28,
+   "end": 71.54,
+   "prob": 0.9,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 71.54,
+   "end": 71.98,
+   "prob": 0.89,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 71.98,
+   "end": 72.24,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 72.24,
+   "end": 72.56,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "there,",
+   "start": 72.56,
+   "end": 73.0,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "wipe,",
+   "start": 73.0,
+   "end": 74.06,
+   "prob": 0.31,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 74.06,
+   "end": 74.98,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 74.98,
+   "end": 75.48,
+   "prob": 0.95,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 75.48,
+   "end": 75.82,
+   "prob": 0.97,
+   "source": "medium"
+  },
+  {
+   "word": "it's",
+   "start": 75.82,
+   "end": 76.1,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 76.1,
+   "end": 76.46,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 76.46,
+   "end": 76.98,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "Endless",
+   "start": 76.98,
+   "end": 79.24,
+   "prob": 0.53,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 79.24,
+   "end": 79.58,
+   "prob": 0.26,
+   "source": "medium"
+  },
+  {
+   "word": "forever",
+   "start": 79.58,
+   "end": 81.08,
+   "prob": 0.88,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 81.66,
+   "end": 82.48,
+   "prob": 0.86,
+   "source": "v1-only-corrected"
+  },
+  {
+   "word": "and",
+   "start": 82.48,
+   "end": 83.3,
+   "prob": 0.89,
+   "source": "v1-only-corrected"
+  },
+  {
+   "word": "it's",
+   "start": 83.3,
+   "end": 83.74,
+   "prob": 0.98,
+   "source": "v1-only-corrected"
+  },
+  {
+   "word": "still",
+   "start": 83.74,
+   "end": 83.74,
+   "prob": 0.99,
+   "source": "v1-only-corrected"
+  },
+  {
+   "word": "Wipe",
+   "start": 85.98,
+   "end": 86.84,
+   "prob": 0.44,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 86.84,
+   "end": 87.16,
+   "prob": 0.41,
+   "source": "medium"
+  },
+  {
+   "word": "you're",
+   "start": 87.16,
+   "end": 87.62,
+   "prob": 0.87,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 87.62,
+   "end": 87.94,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 87.94,
+   "end": 88.98,
+   "prob": 0.96,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 95.52,
+   "end": 96.92,
+   "prob": 0.51,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 96.92,
+   "end": 98.32,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "you're",
+   "start": 98.32,
+   "end": 98.94,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 98.94,
+   "end": 99.48,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 99.48,
+   "end": 100.18,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "And",
+   "start": 102.34,
+   "end": 103.4,
+   "prob": 0.03,
+   "source": "medium"
+  },
+  {
+   "word": "from",
+   "start": 103.4,
+   "end": 104.02,
+   "prob": 0.76,
+   "source": "medium"
+  },
+  {
+   "word": "wide",
+   "start": 104.02,
+   "end": 104.3,
+   "prob": 0.19,
+   "source": "medium"
+  },
+  {
+   "word": "one",
+   "start": 104.3,
+   "end": 104.6,
+   "prob": 0.11,
+   "source": "medium"
+  },
+  {
+   "word": "never",
+   "start": 104.6,
+   "end": 105.3,
+   "prob": 0.76,
+   "source": "medium"
+  },
+  {
+   "word": "stops",
+   "start": 105.3,
+   "end": 105.98,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 105.94,
+   "end": 106.36,
+   "prob": 0.43,
+   "source": "v1-only"
+  },
+  {
+   "word": "Wipe",
+   "start": 120.06,
+   "end": 121.12,
+   "prob": 0.0,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 121.12,
+   "end": 121.8,
+   "prob": 0.12,
+   "source": "medium"
+  },
+  {
+   "word": "you're",
+   "start": 121.8,
+   "end": 121.96,
+   "prob": 0.09,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 121.96,
+   "end": 122.28,
+   "prob": 0.95,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 122.28,
+   "end": 123.18,
+   "prob": 0.07,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 124.68,
+   "end": 125.12,
+   "prob": 0.53,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 125.12,
+   "end": 125.46,
+   "prob": 0.96,
+   "source": "medium"
+  },
+  {
+   "word": "you're",
+   "start": 125.46,
+   "end": 125.72,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 125.72,
+   "end": 126.1,
+   "prob": 1.0,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 126.1,
+   "end": 127.18,
+   "prob": 0.96,
+   "source": "medium"
+  },
+  {
+   "word": "Paper",
+   "start": 127.18,
+   "end": 128.76,
+   "prob": 0.01,
+   "source": "medium"
+  },
+  {
+   "word": "comes",
+   "start": 128.76,
+   "end": 129.42,
+   "prob": 0.87,
+   "source": "medium"
+  },
+  {
+   "word": "back",
+   "start": 129.42,
+   "end": 129.98,
+   "prob": 0.97,
+   "source": "medium"
+  },
+  {
+   "word": "dirty",
+   "start": 129.98,
+   "end": 130.53,
+   "prob": 0.95,
+   "source": "medium"
+  },
+  {
+   "word": "Dirty",
+   "start": 132.36,
+   "end": 133.46,
+   "prob": 0.54,
+   "source": "medium"
+  },
+  {
+   "word": "Brown,",
+   "start": 133.46,
+   "end": 134.08,
+   "prob": 0.82,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 134.08,
+   "end": 134.64,
+   "prob": 0.93,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 134.64,
+   "end": 135.2,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "brown,",
+   "start": 135.2,
+   "end": 135.8,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "brown",
+   "start": 135.8,
+   "end": 136.4,
+   "prob": 0.97,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 136.4,
+   "end": 136.8,
+   "prob": 0.02,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 136.8,
+   "end": 136.88,
+   "prob": 0.03,
+   "source": "medium"
+  },
+  {
+   "word": "you're",
+   "start": 136.88,
+   "end": 137.24,
+   "prob": 0.18,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 137.24,
+   "end": 137.52,
+   "prob": 0.93,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 137.52,
+   "end": 138.0,
+   "prob": 0.79,
+   "source": "medium"
+  },
+  {
+   "word": "Still",
+   "start": 138.0,
+   "end": 138.44,
+   "prob": 0.45,
+   "source": "medium"
+  },
+  {
+   "word": "there,",
+   "start": 138.44,
+   "end": 138.9,
+   "prob": 0.95,
+   "source": "medium"
+  },
+  {
+   "word": "still",
+   "start": 138.9,
+   "end": 139.12,
+   "prob": 0.91,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 139.12,
+   "end": 140.14,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "Wipe",
+   "start": 140.14,
+   "end": 140.3,
+   "prob": 0.19,
+   "source": "medium"
+  },
+  {
+   "word": "and",
+   "start": 140.3,
+   "end": 140.72,
+   "prob": 0.9,
+   "source": "medium"
+  },
+  {
+   "word": "you're",
+   "start": 140.72,
+   "end": 141.26,
+   "prob": 0.98,
+   "source": "medium"
+  },
+  {
+   "word": "there",
+   "start": 141.26,
+   "end": 141.96,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "Still",
+   "start": 141.96,
+   "end": 142.36,
+   "prob": 0.94,
+   "source": "medium"
+  },
+  {
+   "word": "there,",
+   "start": 142.36,
+   "end": 143.16,
+   "prob": 0.99,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 143.68,
+   "end": 144.18,
+   "prob": 0.13,
+   "source": "medium"
+  },
+  {
+   "word": "Endless",
+   "start": 144.18,
+   "end": 144.78,
+   "prob": 0.49,
+   "source": "medium"
+  },
+  {
+   "word": "wipe",
+   "start": 144.78,
+   "end": 145.16,
+   "prob": 0.89,
+   "source": "medium"
+  },
+  {
+   "word": "forever",
+   "start": 145.16,
+   "end": 146.02,
+   "prob": 0.0,
+   "source": "medium"
+  }
+ ]
+}

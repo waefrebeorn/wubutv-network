@@ -1,0 +1,34 @@
+{
+  "mv2_s07_q6_t2.mp4": {
+    "take": "mv2_s07_q6_t2.mp4",
+    "sid": "S07t2",
+    "volley": "Q6",
+    "vocal_span": [
+      0.0,
+      7.14
+    ],
+    "vocal_transitions": 172,
+    "vocal_changed_gt_0_5": 86,
+    "vocal_changed_gt_1_0": 79,
+    "vocal_near_dup_run": 1,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 0.86,
+    "frame_gate": "PASS"
+  },
+  "mv2_s04a_q6_t1_warped.mp4": {
+    "take": "mv2_s04a_q6_t1_warped.mp4",
+    "sid": "S04a-warped",
+    "volley": "Q6",
+    "vocal_span": [
+      0.0,
+      8.38
+    ],
+    "vocal_transitions": 202,
+    "vocal_changed_gt_0_5": 111,
+    "vocal_changed_gt_1_0": 70,
+    "vocal_near_dup_run": 6,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 0.91,
+    "frame_gate": "PASS"
+  }
+}

@@ -1,0 +1,238 @@
+{
+ "md5": "a3e659220dd2870ab57c20cad198567e",
+ "size": 111666029,
+ "video codec h264": {
+  "pass": true,
+  "detail": "h264"
+ },
+ "resolution 1280x720": {
+  "pass": true,
+  "detail": "1280x720"
+ },
+ "fps 24": {
+  "pass": true,
+  "detail": "24/1"
+ },
+ "frames exactly 4954": {
+  "pass": true,
+  "detail": "4954"
+ },
+ "duration 206.40s": {
+  "pass": true,
+  "detail": "206.416667"
+ },
+ "audio AAC": {
+  "pass": true,
+  "detail": "aac"
+ },
+ "audio 48k stereo": {
+  "pass": true,
+  "detail": "48000 2ch"
+ },
+ "x264 SEI crf=18.0": {
+  "pass": true,
+  "detail": "x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option"
+ },
+ "faststart moov before mdat": {
+  "pass": true,
+  "detail": "moov@36 mdat@144144"
+ },
+ "audio agreement vs track corr > 0.99 all windows": {
+  "pass": true,
+  "detail": "min=0.9978"
+ },
+ "decoded-PCM md5 == v4 base": {
+  "pass": true,
+  "detail": "new=6b87db537e463b5b10d710f730cda824 base=6b87db537e463b5b10d710f730cda824"
+ },
+ "pcm_md5_new": "6b87db537e463b5b10d710f730cda824",
+ "pcm_md5_base": "6b87db537e463b5b10d710f730cda824",
+ "motion: no NEW frozen runs vs v4": {
+  "pass": true,
+  "detail": "0 runs, all inherited"
+ },
+ "frozen_runs_new": [],
+ "frozen_runs_base": [],
+ "regression: video identical outside caption band (mean < 0.05)": {
+  "pass": true,
+  "detail": "mean=0.0009 max=0.0022"
+ },
+ "regression_mean": 0.0008609515498392284,
+ "regression_max": 0.0021937908604741096,
+ "regression_scenes": [
+  {
+   "scene": "S01",
+   "mean": 0.0005,
+   "max": 0.0013,
+   "frames": 241
+  },
+  {
+   "scene": "S02",
+   "mean": 0.0009,
+   "max": 0.002,
+   "frames": 206
+  },
+  {
+   "scene": "S03",
+   "mean": 0.0004,
+   "max": 0.0013,
+   "frames": 81
+  },
+  {
+   "scene": "S04",
+   "mean": 0.001,
+   "max": 0.0017,
+   "frames": 228
+  },
+  {
+   "scene": "S05",
+   "mean": 0.0006,
+   "max": 0.0014,
+   "frames": 215
+  },
+  {
+   "scene": "S06",
+   "mean": 0.0007,
+   "max": 0.0014,
+   "frames": 175
+  },
+  {
+   "scene": "S07",
+   "mean": 0.0005,
+   "max": 0.0011,
+   "frames": 234
+  },
+  {
+   "scene": "S08",
+   "mean": 0.0009,
+   "max": 0.0016,
+   "frames": 229
+  },
+  {
+   "scene": "S09",
+   "mean": 0.0011,
+   "max": 0.0015,
+   "frames": 234
+  },
+  {
+   "scene": "S10",
+   "mean": 0.0011,
+   "max": 0.002,
+   "frames": 201
+  },
+  {
+   "scene": "S11",
+   "mean": 0.0015,
+   "max": 0.0022,
+   "frames": 207
+  },
+  {
+   "scene": "S12",
+   "mean": 0.0008,
+   "max": 0.0016,
+   "frames": 207
+  },
+  {
+   "scene": "S13",
+   "mean": 0.0011,
+   "max": 0.0021,
+   "frames": 228
+  },
+  {
+   "scene": "S14",
+   "mean": 0.0006,
+   "max": 0.0015,
+   "frames": 98
+  },
+  {
+   "scene": "S15",
+   "mean": 0.0008,
+   "max": 0.0013,
+   "frames": 127
+  },
+  {
+   "scene": "S16",
+   "mean": 0.0007,
+   "max": 0.0015,
+   "frames": 228
+  },
+  {
+   "scene": "S17",
+   "mean": 0.0012,
+   "max": 0.0017,
+   "frames": 233
+  },
+  {
+   "scene": "S18",
+   "mean": 0.0013,
+   "max": 0.0019,
+   "frames": 197
+  },
+  {
+   "scene": "S19a",
+   "mean": 0.0005,
+   "max": 0.0011,
+   "frames": 88
+  },
+  {
+   "scene": "S19b",
+   "mean": 0.0009,
+   "max": 0.001,
+   "frames": 80
+  },
+  {
+   "scene": "S20",
+   "mean": 0.0007,
+   "max": 0.0015,
+   "frames": 56
+  },
+  {
+   "scene": "S21",
+   "mean": 0.001,
+   "max": 0.0017,
+   "frames": 227
+  },
+  {
+   "scene": "S22",
+   "mean": 0.0004,
+   "max": 0.001,
+   "frames": 40
+  },
+  {
+   "scene": "S23",
+   "mean": 0.0006,
+   "max": 0.0013,
+   "frames": 165
+  },
+  {
+   "scene": "S24",
+   "mean": 0.0005,
+   "max": 0.0012,
+   "frames": 162
+  },
+  {
+   "scene": "S25",
+   "mean": 0.001,
+   "max": 0.0015,
+   "frames": 183
+  },
+  {
+   "scene": "S26",
+   "mean": 0.0004,
+   "max": 0.0015,
+   "frames": 62
+  },
+  {
+   "scene": "S27",
+   "mean": 0.0011,
+   "max": 0.0017,
+   "frames": 250
+  },
+  {
+   "scene": "S28",
+   "mean": 0.0002,
+   "max": 0.0003,
+   "frames": 72
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "track": "mv7_s20_t1_tail.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 8,
+ "words": [
+  {
+   "word": "And",
+   "start": 0.0,
+   "end": 0.44,
+   "prob": 0.408
+  },
+  {
+   "word": "I",
+   "start": 0.44,
+   "end": 0.88,
+   "prob": 0.976
+  },
+  {
+   "word": "post,",
+   "start": 0.88,
+   "end": 1.28,
+   "prob": 0.954
+  },
+  {
+   "word": "I",
+   "start": 1.5,
+   "end": 1.54,
+   "prob": 0.998
+  },
+  {
+   "word": "fade,",
+   "start": 1.54,
+   "end": 1.94,
+   "prob": 0.993
+  },
+  {
+   "word": "I",
+   "start": 2.2,
+   "end": 2.24,
+   "prob": 0.998
+  },
+  {
+   "word": "post",
+   "start": 2.24,
+   "end": 2.64,
+   "prob": 0.995
+  },
+  {
+   "word": "again.",
+   "start": 2.64,
+   "end": 2.98,
+   "prob": 0.979
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.98,
+   "text": "And I post, I fade, I post again."
+  }
+ ]
+}

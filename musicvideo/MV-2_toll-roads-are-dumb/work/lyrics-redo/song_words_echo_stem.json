@@ -1,0 +1,237 @@
+{
+ "stem": "echo",
+ "offset": 217.0,
+ "model": "large-v3-turbo",
+ "n_words": 32,
+ "words": [
+  {
+   "word": "And",
+   "start": 217.0,
+   "end": 217.22,
+   "prob": 0.415
+  },
+  {
+   "word": "slamming",
+   "start": 217.22,
+   "end": 218.46,
+   "prob": 0.725
+  },
+  {
+   "word": "the",
+   "start": 218.46,
+   "end": 219.68,
+   "prob": 0.254
+  },
+  {
+   "word": "danger",
+   "start": 219.68,
+   "end": 220.62,
+   "prob": 0.98
+  },
+  {
+   "word": "grows.",
+   "start": 220.62,
+   "end": 221.82,
+   "prob": 0.838
+  },
+  {
+   "word": "Toll",
+   "start": 222.64,
+   "end": 223.4,
+   "prob": 0.723
+  },
+  {
+   "word": "roads",
+   "start": 223.4,
+   "end": 224.02,
+   "prob": 0.925
+  },
+  {
+   "word": "are",
+   "start": 224.02,
+   "end": 224.3,
+   "prob": 0.996
+  },
+  {
+   "word": "dumb.",
+   "start": 224.3,
+   "end": 224.64,
+   "prob": 0.993
+  },
+  {
+   "word": "Toll",
+   "start": 224.88,
+   "end": 225.34,
+   "prob": 0.937
+  },
+  {
+   "word": "roads",
+   "start": 225.34,
+   "end": 225.78,
+   "prob": 0.996
+  },
+  {
+   "word": "are",
+   "start": 225.78,
+   "end": 226.02,
+   "prob": 0.995
+  },
+  {
+   "word": "dumb.",
+   "start": 226.02,
+   "end": 226.24,
+   "prob": 0.999
+  },
+  {
+   "word": "Fast",
+   "start": 226.5,
+   "end": 226.82,
+   "prob": 0.958
+  },
+  {
+   "word": "lanes",
+   "start": 226.82,
+   "end": 227.26,
+   "prob": 0.997
+  },
+  {
+   "word": "may",
+   "start": 227.26,
+   "end": 227.62,
+   "prob": 0.957
+  },
+  {
+   "word": "crash",
+   "start": 227.62,
+   "end": 228.28,
+   "prob": 0.995
+  },
+  {
+   "word": "it.",
+   "start": 228.28,
+   "end": 228.46,
+   "prob": 0.304
+  },
+  {
+   "word": "Fast",
+   "start": 228.68,
+   "end": 228.78,
+   "prob": 0.201
+  },
+  {
+   "word": "lanes",
+   "start": 228.78,
+   "end": 229.08,
+   "prob": 0.999
+  },
+  {
+   "word": "may",
+   "start": 229.08,
+   "end": 229.34,
+   "prob": 0.999
+  },
+  {
+   "word": "crash",
+   "start": 229.34,
+   "end": 229.88,
+   "prob": 0.999
+  },
+  {
+   "word": "it.",
+   "start": 229.88,
+   "end": 229.9,
+   "prob": 0.774
+  },
+  {
+   "word": "Toll",
+   "start": 229.96,
+   "end": 230.58,
+   "prob": 0.966
+  },
+  {
+   "word": "roads",
+   "start": 230.58,
+   "end": 231.04,
+   "prob": 0.999
+  },
+  {
+   "word": "are",
+   "start": 231.04,
+   "end": 231.34,
+   "prob": 0.999
+  },
+  {
+   "word": "dumb,",
+   "start": 231.34,
+   "end": 231.84,
+   "prob": 0.999
+  },
+  {
+   "word": "baby.",
+   "start": 232.18,
+   "end": 232.58,
+   "prob": 0.996
+  },
+  {
+   "word": "Toll",
+   "start": 236.54,
+   "end": 237.3,
+   "prob": 0.997
+  },
+  {
+   "word": "roads",
+   "start": 237.3,
+   "end": 238.06,
+   "prob": 0.999
+  },
+  {
+   "word": "are",
+   "start": 238.06,
+   "end": 238.32,
+   "prob": 1.0
+  },
+  {
+   "word": "dumb.",
+   "start": 238.32,
+   "end": 238.76,
+   "prob": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 217.0,
+   "end": 221.82,
+   "text": "And slamming the danger grows."
+  },
+  {
+   "start": 222.64,
+   "end": 224.64,
+   "text": "Toll roads are dumb."
+  },
+  {
+   "start": 224.88,
+   "end": 226.24,
+   "text": "Toll roads are dumb."
+  },
+  {
+   "start": 226.5,
+   "end": 228.46,
+   "text": "Fast lanes may crash it."
+  },
+  {
+   "start": 228.68,
+   "end": 229.9,
+   "text": "Fast lanes may crash it."
+  },
+  {
+   "start": 229.96,
+   "end": 232.58,
+   "text": "Toll roads are dumb, baby."
+  },
+  {
+   "start": 236.54,
+   "end": 238.76,
+   "text": "Toll roads are dumb."
+  }
+ ]
+}

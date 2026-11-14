@@ -1,0 +1,154 @@
+{
+  "file": "mv5_s21_t3.wav",
+  "kind": "Take",
+  "totalWords": 23,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "If",
+      "start": 0.1,
+      "end": 0.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 0.2,
+      "end": 0.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "sky",
+      "start": 0.4,
+      "end": 0.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "turns",
+      "start": 0.9,
+      "end": 1.3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "gray,",
+      "start": 1.3,
+      "end": 2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "we",
+      "start": 2,
+      "end": 2.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "don't",
+      "start": 2.2,
+      "end": 2.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "fold",
+      "start": 2.5,
+      "end": 3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "in.",
+      "start": 3,
+      "end": 3.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "We",
+      "start": 3.6,
+      "end": 3.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "lean",
+      "start": 3.8,
+      "end": 4.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "right",
+      "start": 4.1,
+      "end": 4.3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "back.",
+      "start": 4.3,
+      "end": 5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Let",
+      "start": 5,
+      "end": 5.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 5.2,
+      "end": 5.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "whole",
+      "start": 5.4,
+      "end": 5.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "thing",
+      "start": 5.9,
+      "end": 6.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "spin.",
+      "start": 6.2,
+      "end": 6.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "You",
+      "start": 6.8,
+      "end": 7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "and",
+      "start": 7,
+      "end": 7.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "me,",
+      "start": 7.2,
+      "end": 7.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "same",
+      "start": 7.6,
+      "end": 8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "pace.",
+      "start": 8,
+      "end": 8.6,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.1,
+      "end": 8.6,
+      "text": "If the sky turns gray, we don't fold in. We lean right back. Let the whole thing spin. You and me, same pace."
+    }
+  ]
+}

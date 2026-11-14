@@ -1,0 +1,82 @@
+{
+  "file": "mv5_s11_t4.wav",
+  "kind": "Take",
+  "totalWords": 11,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Calling",
+      "start": 1.7,
+      "end": 2.3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "mango",
+      "start": 2.3,
+      "end": 3.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "sweet.",
+      "start": 3.2,
+      "end": 3.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Socks",
+      "start": 5.8,
+      "end": 6.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "in",
+      "start": 6.2,
+      "end": 6.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 6.5,
+      "end": 6.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "sand,",
+      "start": 6.7,
+      "end": 7.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "time",
+      "start": 7.5,
+      "end": 8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "with",
+      "start": 8,
+      "end": 8.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "our",
+      "start": 8.4,
+      "end": 8.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "feet.",
+      "start": 8.6,
+      "end": 9.4,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 1.7,
+      "end": 9.4,
+      "text": "Calling mango sweet. Socks in the sand, time with our feet."
+    }
+  ]
+}

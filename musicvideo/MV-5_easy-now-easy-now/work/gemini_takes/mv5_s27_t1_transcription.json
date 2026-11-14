@@ -1,0 +1,40 @@
+{
+  "file": "mv5_s27_t1.wav",
+  "kind": "Take",
+  "totalWords": 4,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Easy",
+      "start": 3.6,
+      "end": 4.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now.",
+      "start": 4.2,
+      "end": 4.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Easy",
+      "start": 3.6,
+      "end": 4.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now.",
+      "start": 4.2,
+      "end": 4.9,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 3.6,
+      "end": 4.9,
+      "text": "Easy now. Easy now."
+    }
+  ]
+}

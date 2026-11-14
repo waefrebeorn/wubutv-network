@@ -1,0 +1,6776 @@
+{
+ "nodes": [
+  {
+   "op": "Conv",
+   "in": [
+    "input",
+    "Conv_684.weight",
+    "Conv_684.bias"
+   ],
+   "out": [
+    "468"
+   ],
+   "in_shapes": [
+    [
+     0,
+     4,
+     3072,
+     256
+    ],
+    [
+     48,
+     4,
+     1,
+     1
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     3072,
+     256
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     1,
+     1
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "468"
+   ],
+   "out": [
+    "469"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     3072,
+     256
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     3072,
+     256
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Transpose",
+   "in": [
+    "469"
+   ],
+   "out": [
+    "470"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     3072,
+     256
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "perm": [
+     0,
+     1,
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "470",
+    "Conv_687.weight",
+    "Conv_687.bias"
+   ],
+   "out": [
+    "471"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48,
+     48,
+     3,
+     3
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "471"
+   ],
+   "out": [
+    "472"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "472",
+    "Conv_690.weight",
+    "Conv_690.bias"
+   ],
+   "out": [
+    "473"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48,
+     48,
+     3,
+     3
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "473"
+   ],
+   "out": [
+    "474"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "474",
+    "Conv_693.weight",
+    "Conv_693.bias"
+   ],
+   "out": [
+    "475"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48,
+     48,
+     3,
+     3
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "475"
+   ],
+   "out": [
+    "476"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "476",
+    "668"
+   ],
+   "out": [
+    "478"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     3072,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "478",
+    "BatchNormalization_460.bnu.weight",
+    "BatchNormalization_460.bnu.bias",
+    "BatchNormalization_460.bnu.running_mean",
+    "BatchNormalization_460.bnu.running_var"
+   ],
+   "out": [
+    "479"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "479"
+   ],
+   "out": [
+    "480"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "480",
+    "669"
+   ],
+   "out": [
+    "482"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ],
+    [
+     384,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "482",
+    "BatchNormalization_464.bnu.weight",
+    "BatchNormalization_464.bnu.bias",
+    "BatchNormalization_464.bnu.running_mean",
+    "BatchNormalization_464.bnu.running_var"
+   ],
+   "out": [
+    "483"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "483"
+   ],
+   "out": [
+    "484"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "476",
+    "484"
+   ],
+   "out": [
+    "485"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "485",
+    "Conv_696.weight",
+    "Conv_696.bias"
+   ],
+   "out": [
+    "486"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     96,
+     48,
+     2,
+     2
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "486"
+   ],
+   "out": [
+    "487"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "487",
+    "Conv_699.weight",
+    "Conv_699.bias"
+   ],
+   "out": [
+    "488"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     96,
+     3,
+     3
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "488"
+   ],
+   "out": [
+    "489"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "489",
+    "Conv_702.weight",
+    "Conv_702.bias"
+   ],
+   "out": [
+    "490"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     96,
+     3,
+     3
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "490"
+   ],
+   "out": [
+    "491"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "491",
+    "Conv_705.weight",
+    "Conv_705.bias"
+   ],
+   "out": [
+    "492"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     96,
+     3,
+     3
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "492"
+   ],
+   "out": [
+    "493"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "493",
+    "670"
+   ],
+   "out": [
+    "495"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     1536,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "495",
+    "BatchNormalization_481.bnu.weight",
+    "BatchNormalization_481.bnu.bias",
+    "BatchNormalization_481.bnu.running_mean",
+    "BatchNormalization_481.bnu.running_var"
+   ],
+   "out": [
+    "496"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "496"
+   ],
+   "out": [
+    "497"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "497",
+    "671"
+   ],
+   "out": [
+    "499"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ],
+    [
+     192,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "499",
+    "BatchNormalization_485.bnu.weight",
+    "BatchNormalization_485.bnu.bias",
+    "BatchNormalization_485.bnu.running_mean",
+    "BatchNormalization_485.bnu.running_var"
+   ],
+   "out": [
+    "500"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "500"
+   ],
+   "out": [
+    "501"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "493",
+    "501"
+   ],
+   "out": [
+    "502"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "502",
+    "Conv_708.weight",
+    "Conv_708.bias"
+   ],
+   "out": [
+    "503"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     144,
+     96,
+     2,
+     2
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "503"
+   ],
+   "out": [
+    "504"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "504",
+    "Conv_711.weight",
+    "Conv_711.bias"
+   ],
+   "out": [
+    "505"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     144,
+     3,
+     3
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "505"
+   ],
+   "out": [
+    "506"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "506",
+    "Conv_714.weight",
+    "Conv_714.bias"
+   ],
+   "out": [
+    "507"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     144,
+     3,
+     3
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "507"
+   ],
+   "out": [
+    "508"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "508",
+    "Conv_717.weight",
+    "Conv_717.bias"
+   ],
+   "out": [
+    "509"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     144,
+     3,
+     3
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "509"
+   ],
+   "out": [
+    "510"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "510",
+    "672"
+   ],
+   "out": [
+    "512"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     768,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "512",
+    "BatchNormalization_502.bnu.weight",
+    "BatchNormalization_502.bnu.bias",
+    "BatchNormalization_502.bnu.running_mean",
+    "BatchNormalization_502.bnu.running_var"
+   ],
+   "out": [
+    "513"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "513"
+   ],
+   "out": [
+    "514"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "514",
+    "673"
+   ],
+   "out": [
+    "516"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ],
+    [
+     96,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "516",
+    "BatchNormalization_506.bnu.weight",
+    "BatchNormalization_506.bnu.bias",
+    "BatchNormalization_506.bnu.running_mean",
+    "BatchNormalization_506.bnu.running_var"
+   ],
+   "out": [
+    "517"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "517"
+   ],
+   "out": [
+    "518"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "510",
+    "518"
+   ],
+   "out": [
+    "519"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "519",
+    "Conv_720.weight",
+    "Conv_720.bias"
+   ],
+   "out": [
+    "520"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     192,
+     144,
+     2,
+     2
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "520"
+   ],
+   "out": [
+    "521"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "521",
+    "Conv_723.weight",
+    "Conv_723.bias"
+   ],
+   "out": [
+    "522"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     192,
+     3,
+     3
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "522"
+   ],
+   "out": [
+    "523"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "523",
+    "Conv_726.weight",
+    "Conv_726.bias"
+   ],
+   "out": [
+    "524"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     192,
+     3,
+     3
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "524"
+   ],
+   "out": [
+    "525"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "525",
+    "Conv_729.weight",
+    "Conv_729.bias"
+   ],
+   "out": [
+    "526"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     192,
+     3,
+     3
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "526"
+   ],
+   "out": [
+    "527"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "527",
+    "674"
+   ],
+   "out": [
+    "529"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     384,
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "529",
+    "BatchNormalization_523.bnu.weight",
+    "BatchNormalization_523.bnu.bias",
+    "BatchNormalization_523.bnu.running_mean",
+    "BatchNormalization_523.bnu.running_var"
+   ],
+   "out": [
+    "530"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "530"
+   ],
+   "out": [
+    "531"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "531",
+    "675"
+   ],
+   "out": [
+    "533"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ],
+    [
+     48,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "533",
+    "BatchNormalization_527.bnu.weight",
+    "BatchNormalization_527.bnu.bias",
+    "BatchNormalization_527.bnu.running_mean",
+    "BatchNormalization_527.bnu.running_var"
+   ],
+   "out": [
+    "534"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "534"
+   ],
+   "out": [
+    "535"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "527",
+    "535"
+   ],
+   "out": [
+    "536"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "536",
+    "Conv_732.weight",
+    "Conv_732.bias"
+   ],
+   "out": [
+    "537"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     240,
+     192,
+     2,
+     2
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "537"
+   ],
+   "out": [
+    "538"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "538",
+    "Conv_735.weight",
+    "Conv_735.bias"
+   ],
+   "out": [
+    "539"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     240,
+     3,
+     3
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "539"
+   ],
+   "out": [
+    "540"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "540",
+    "Conv_738.weight",
+    "Conv_738.bias"
+   ],
+   "out": [
+    "541"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     240,
+     3,
+     3
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "541"
+   ],
+   "out": [
+    "542"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "542",
+    "Conv_741.weight",
+    "Conv_741.bias"
+   ],
+   "out": [
+    "543"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     240,
+     3,
+     3
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "543"
+   ],
+   "out": [
+    "544"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "544",
+    "676"
+   ],
+   "out": [
+    "546"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     192,
+     24
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "546",
+    "BatchNormalization_544.bnu.weight",
+    "BatchNormalization_544.bnu.bias",
+    "BatchNormalization_544.bnu.running_mean",
+    "BatchNormalization_544.bnu.running_var"
+   ],
+   "out": [
+    "547"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "547"
+   ],
+   "out": [
+    "548"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "548",
+    "677"
+   ],
+   "out": [
+    "550"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ],
+    [
+     24,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "550",
+    "BatchNormalization_548.bnu.weight",
+    "BatchNormalization_548.bnu.bias",
+    "BatchNormalization_548.bnu.running_mean",
+    "BatchNormalization_548.bnu.running_var"
+   ],
+   "out": [
+    "551"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "551"
+   ],
+   "out": [
+    "552"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "544",
+    "552"
+   ],
+   "out": [
+    "553"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "553",
+    "Conv_744.weight",
+    "Conv_744.bias"
+   ],
+   "out": [
+    "554"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     288,
+     240,
+     2,
+     2
+    ],
+    [
+     288
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "554"
+   ],
+   "out": [
+    "555"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "555",
+    "Conv_747.weight",
+    "Conv_747.bias"
+   ],
+   "out": [
+    "556"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     288,
+     288,
+     3,
+     3
+    ],
+    [
+     288
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "556"
+   ],
+   "out": [
+    "557"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "557",
+    "Conv_750.weight",
+    "Conv_750.bias"
+   ],
+   "out": [
+    "558"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     288,
+     288,
+     3,
+     3
+    ],
+    [
+     288
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "558"
+   ],
+   "out": [
+    "559"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "559",
+    "Conv_753.weight",
+    "Conv_753.bias"
+   ],
+   "out": [
+    "560"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     288,
+     288,
+     3,
+     3
+    ],
+    [
+     288
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "560"
+   ],
+   "out": [
+    "561"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "561",
+    "678"
+   ],
+   "out": [
+    "563"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     96,
+     12
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     12
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "563",
+    "BatchNormalization_565.bnu.weight",
+    "BatchNormalization_565.bnu.bias",
+    "BatchNormalization_565.bnu.running_mean",
+    "BatchNormalization_565.bnu.running_var"
+   ],
+   "out": [
+    "564"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     12
+    ],
+    [
+     288
+    ],
+    [
+     288
+    ],
+    [
+     288
+    ],
+    [
+     288
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     12
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "564"
+   ],
+   "out": [
+    "565"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     12
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     12
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "565",
+    "679"
+   ],
+   "out": [
+    "567"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     12
+    ],
+    [
+     12,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "567",
+    "BatchNormalization_569.bnu.weight",
+    "BatchNormalization_569.bnu.bias",
+    "BatchNormalization_569.bnu.running_mean",
+    "BatchNormalization_569.bnu.running_var"
+   ],
+   "out": [
+    "568"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     288
+    ],
+    [
+     288
+    ],
+    [
+     288
+    ],
+    [
+     288
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "568"
+   ],
+   "out": [
+    "569"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "561",
+    "569"
+   ],
+   "out": [
+    "570"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "ConvTranspose",
+   "in": [
+    "570",
+    "ConvTranspose_572.weight",
+    "ConvTranspose_572.bias"
+   ],
+   "out": [
+    "571"
+   ],
+   "in_shapes": [
+    [
+     0,
+     288,
+     8,
+     96
+    ],
+    [
+     288,
+     240,
+     2,
+     2
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "571",
+    "BatchNormalization_573.bnu.weight",
+    "BatchNormalization_573.bnu.bias",
+    "BatchNormalization_573.bnu.running_mean",
+    "BatchNormalization_573.bnu.running_var"
+   ],
+   "out": [
+    "572"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "572"
+   ],
+   "out": [
+    "573"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Mul",
+   "in": [
+    "573",
+    "553"
+   ],
+   "out": [
+    "574"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "574",
+    "Conv_756.weight",
+    "Conv_756.bias"
+   ],
+   "out": [
+    "575"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     240,
+     3,
+     3
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "575"
+   ],
+   "out": [
+    "576"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "576",
+    "Conv_759.weight",
+    "Conv_759.bias"
+   ],
+   "out": [
+    "577"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     240,
+     3,
+     3
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "577"
+   ],
+   "out": [
+    "578"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "578",
+    "Conv_762.weight",
+    "Conv_762.bias"
+   ],
+   "out": [
+    "579"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     240,
+     3,
+     3
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "579"
+   ],
+   "out": [
+    "580"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "580",
+    "680"
+   ],
+   "out": [
+    "582"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     192,
+     24
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "582",
+    "BatchNormalization_587.bnu.weight",
+    "BatchNormalization_587.bnu.bias",
+    "BatchNormalization_587.bnu.running_mean",
+    "BatchNormalization_587.bnu.running_var"
+   ],
+   "out": [
+    "583"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "583"
+   ],
+   "out": [
+    "584"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "584",
+    "681"
+   ],
+   "out": [
+    "586"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     24
+    ],
+    [
+     24,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "586",
+    "BatchNormalization_591.bnu.weight",
+    "BatchNormalization_591.bnu.bias",
+    "BatchNormalization_591.bnu.running_mean",
+    "BatchNormalization_591.bnu.running_var"
+   ],
+   "out": [
+    "587"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ],
+    [
+     240
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "587"
+   ],
+   "out": [
+    "588"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "580",
+    "588"
+   ],
+   "out": [
+    "589"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "ConvTranspose",
+   "in": [
+    "589",
+    "ConvTranspose_594.weight",
+    "ConvTranspose_594.bias"
+   ],
+   "out": [
+    "590"
+   ],
+   "in_shapes": [
+    [
+     0,
+     240,
+     16,
+     192
+    ],
+    [
+     240,
+     192,
+     2,
+     2
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "590",
+    "BatchNormalization_595.bnu.weight",
+    "BatchNormalization_595.bnu.bias",
+    "BatchNormalization_595.bnu.running_mean",
+    "BatchNormalization_595.bnu.running_var"
+   ],
+   "out": [
+    "591"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "591"
+   ],
+   "out": [
+    "592"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Mul",
+   "in": [
+    "592",
+    "536"
+   ],
+   "out": [
+    "593"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "593",
+    "Conv_765.weight",
+    "Conv_765.bias"
+   ],
+   "out": [
+    "594"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     192,
+     3,
+     3
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "594"
+   ],
+   "out": [
+    "595"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "595",
+    "Conv_768.weight",
+    "Conv_768.bias"
+   ],
+   "out": [
+    "596"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     192,
+     3,
+     3
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "596"
+   ],
+   "out": [
+    "597"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "597",
+    "Conv_771.weight",
+    "Conv_771.bias"
+   ],
+   "out": [
+    "598"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     192,
+     3,
+     3
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "598"
+   ],
+   "out": [
+    "599"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "599",
+    "682"
+   ],
+   "out": [
+    "601"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     384,
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "601",
+    "BatchNormalization_609.bnu.weight",
+    "BatchNormalization_609.bnu.bias",
+    "BatchNormalization_609.bnu.running_mean",
+    "BatchNormalization_609.bnu.running_var"
+   ],
+   "out": [
+    "602"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "602"
+   ],
+   "out": [
+    "603"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "603",
+    "683"
+   ],
+   "out": [
+    "605"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     48
+    ],
+    [
+     48,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "605",
+    "BatchNormalization_613.bnu.weight",
+    "BatchNormalization_613.bnu.bias",
+    "BatchNormalization_613.bnu.running_mean",
+    "BatchNormalization_613.bnu.running_var"
+   ],
+   "out": [
+    "606"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ],
+    [
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "606"
+   ],
+   "out": [
+    "607"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "599",
+    "607"
+   ],
+   "out": [
+    "608"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "ConvTranspose",
+   "in": [
+    "608",
+    "ConvTranspose_616.weight",
+    "ConvTranspose_616.bias"
+   ],
+   "out": [
+    "609"
+   ],
+   "in_shapes": [
+    [
+     0,
+     192,
+     32,
+     384
+    ],
+    [
+     192,
+     144,
+     2,
+     2
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "609",
+    "BatchNormalization_617.bnu.weight",
+    "BatchNormalization_617.bnu.bias",
+    "BatchNormalization_617.bnu.running_mean",
+    "BatchNormalization_617.bnu.running_var"
+   ],
+   "out": [
+    "610"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "610"
+   ],
+   "out": [
+    "611"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Mul",
+   "in": [
+    "611",
+    "519"
+   ],
+   "out": [
+    "612"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "612",
+    "Conv_774.weight",
+    "Conv_774.bias"
+   ],
+   "out": [
+    "613"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     144,
+     3,
+     3
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "613"
+   ],
+   "out": [
+    "614"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "614",
+    "Conv_777.weight",
+    "Conv_777.bias"
+   ],
+   "out": [
+    "615"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     144,
+     3,
+     3
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "615"
+   ],
+   "out": [
+    "616"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "616",
+    "Conv_780.weight",
+    "Conv_780.bias"
+   ],
+   "out": [
+    "617"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     144,
+     3,
+     3
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "617"
+   ],
+   "out": [
+    "618"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "618",
+    "684"
+   ],
+   "out": [
+    "620"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     768,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "620",
+    "BatchNormalization_631.bnu.weight",
+    "BatchNormalization_631.bnu.bias",
+    "BatchNormalization_631.bnu.running_mean",
+    "BatchNormalization_631.bnu.running_var"
+   ],
+   "out": [
+    "621"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "621"
+   ],
+   "out": [
+    "622"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "622",
+    "685"
+   ],
+   "out": [
+    "624"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     96
+    ],
+    [
+     96,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "624",
+    "BatchNormalization_635.bnu.weight",
+    "BatchNormalization_635.bnu.bias",
+    "BatchNormalization_635.bnu.running_mean",
+    "BatchNormalization_635.bnu.running_var"
+   ],
+   "out": [
+    "625"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ],
+    [
+     144
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "625"
+   ],
+   "out": [
+    "626"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "618",
+    "626"
+   ],
+   "out": [
+    "627"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "ConvTranspose",
+   "in": [
+    "627",
+    "ConvTranspose_638.weight",
+    "ConvTranspose_638.bias"
+   ],
+   "out": [
+    "628"
+   ],
+   "in_shapes": [
+    [
+     0,
+     144,
+     64,
+     768
+    ],
+    [
+     144,
+     96,
+     2,
+     2
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "628",
+    "BatchNormalization_639.bnu.weight",
+    "BatchNormalization_639.bnu.bias",
+    "BatchNormalization_639.bnu.running_mean",
+    "BatchNormalization_639.bnu.running_var"
+   ],
+   "out": [
+    "629"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "629"
+   ],
+   "out": [
+    "630"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Mul",
+   "in": [
+    "630",
+    "502"
+   ],
+   "out": [
+    "631"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "631",
+    "Conv_783.weight",
+    "Conv_783.bias"
+   ],
+   "out": [
+    "632"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     96,
+     3,
+     3
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "632"
+   ],
+   "out": [
+    "633"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "633",
+    "Conv_786.weight",
+    "Conv_786.bias"
+   ],
+   "out": [
+    "634"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     96,
+     3,
+     3
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "634"
+   ],
+   "out": [
+    "635"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "635",
+    "Conv_789.weight",
+    "Conv_789.bias"
+   ],
+   "out": [
+    "636"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     96,
+     3,
+     3
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "636"
+   ],
+   "out": [
+    "637"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "637",
+    "686"
+   ],
+   "out": [
+    "639"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     1536,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "639",
+    "BatchNormalization_653.bnu.weight",
+    "BatchNormalization_653.bnu.bias",
+    "BatchNormalization_653.bnu.running_mean",
+    "BatchNormalization_653.bnu.running_var"
+   ],
+   "out": [
+    "640"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "640"
+   ],
+   "out": [
+    "641"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "641",
+    "687"
+   ],
+   "out": [
+    "643"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     192
+    ],
+    [
+     192,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "643",
+    "BatchNormalization_657.bnu.weight",
+    "BatchNormalization_657.bnu.bias",
+    "BatchNormalization_657.bnu.running_mean",
+    "BatchNormalization_657.bnu.running_var"
+   ],
+   "out": [
+    "644"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ],
+    [
+     96
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "644"
+   ],
+   "out": [
+    "645"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "637",
+    "645"
+   ],
+   "out": [
+    "646"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "ConvTranspose",
+   "in": [
+    "646",
+    "ConvTranspose_660.weight",
+    "ConvTranspose_660.bias"
+   ],
+   "out": [
+    "647"
+   ],
+   "in_shapes": [
+    [
+     0,
+     96,
+     128,
+     1536
+    ],
+    [
+     96,
+     48,
+     2,
+     2
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     2,
+     2
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "647",
+    "BatchNormalization_661.bnu.weight",
+    "BatchNormalization_661.bnu.bias",
+    "BatchNormalization_661.bnu.running_mean",
+    "BatchNormalization_661.bnu.running_var"
+   ],
+   "out": [
+    "648"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "648"
+   ],
+   "out": [
+    "649"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Mul",
+   "in": [
+    "649",
+    "485"
+   ],
+   "out": [
+    "650"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "650",
+    "Conv_792.weight",
+    "Conv_792.bias"
+   ],
+   "out": [
+    "651"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48,
+     48,
+     3,
+     3
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "651"
+   ],
+   "out": [
+    "652"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "652",
+    "Conv_795.weight",
+    "Conv_795.bias"
+   ],
+   "out": [
+    "653"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48,
+     48,
+     3,
+     3
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "653"
+   ],
+   "out": [
+    "654"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "654",
+    "Conv_798.weight",
+    "Conv_798.bias"
+   ],
+   "out": [
+    "655"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48,
+     48,
+     3,
+     3
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     3,
+     3
+    ],
+    "pads": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "655"
+   ],
+   "out": [
+    "656"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "656",
+    "688"
+   ],
+   "out": [
+    "658"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     3072,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "658",
+    "BatchNormalization_675.bnu.weight",
+    "BatchNormalization_675.bnu.bias",
+    "BatchNormalization_675.bnu.running_mean",
+    "BatchNormalization_675.bnu.running_var"
+   ],
+   "out": [
+    "659"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "659"
+   ],
+   "out": [
+    "660"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "MatMul",
+   "in": [
+    "660",
+    "689"
+   ],
+   "out": [
+    "662"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     384
+    ],
+    [
+     384,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "BatchNormalization",
+   "in": [
+    "662",
+    "BatchNormalization_679.bnu.weight",
+    "BatchNormalization_679.bnu.bias",
+    "BatchNormalization_679.bnu.running_mean",
+    "BatchNormalization_679.bnu.running_var"
+   ],
+   "out": [
+    "663"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ],
+    [
+     48
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {
+    "epsilon": null,
+    "momentum": null
+   }
+  },
+  {
+   "op": "Relu",
+   "in": [
+    "663"
+   ],
+   "out": [
+    "664"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Add",
+   "in": [
+    "656",
+    "664"
+   ],
+   "out": [
+    "665"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ],
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "attrs": {}
+  },
+  {
+   "op": "Transpose",
+   "in": [
+    "665"
+   ],
+   "out": [
+    "666"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     256,
+     3072
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     48,
+     3072,
+     256
+    ]
+   ],
+   "attrs": {
+    "perm": [
+     0,
+     1,
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "op": "Conv",
+   "in": [
+    "666",
+    "Conv_output.weight",
+    "Conv_output.bias"
+   ],
+   "out": [
+    "output"
+   ],
+   "in_shapes": [
+    [
+     0,
+     48,
+     3072,
+     256
+    ],
+    [
+     4,
+     48,
+     1,
+     1
+    ],
+    [
+     4
+    ]
+   ],
+   "out_shapes": [
+    [
+     0,
+     4,
+     3072,
+     256
+    ]
+   ],
+   "attrs": {
+    "dilations": [
+     1,
+     1
+    ],
+    "group": 1,
+    "kernel_shape": [
+     1,
+     1
+    ],
+    "pads": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "strides": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

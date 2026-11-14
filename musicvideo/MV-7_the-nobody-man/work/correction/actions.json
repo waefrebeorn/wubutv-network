@@ -1,0 +1,514 @@
+[
+ {
+  "idx": 0,
+  "label": "S01a-occ1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.3147s lag=0.292s residual=0ms",
+  "take": "0.315-2.775",
+  "factor": 0.9268
+ },
+ {
+  "idx": 1,
+  "label": "S01a-occ2",
+  "action": "REWARP",
+  "detail": "end pinned 4.80; factor 0.9490->1.0957 (speed 1.054->0.913)",
+  "take": "3.102-4.800",
+  "factor": 1.095694
+ },
+ {
+  "idx": 2,
+  "label": "S01a-occ3",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.800-6.500",
+  "factor": 1.6235
+ },
+ {
+  "idx": 3,
+  "label": "S01b-A",
+  "action": "SPLIT-SHIFT",
+  "detail": "delta_take=0.0648s (I-occ4 lag)",
+  "take": "2.565-4.915",
+  "factor": 0.6426
+ },
+ {
+  "idx": 103,
+  "label": "S01b-B",
+  "action": "SPLIT-SHIFT",
+  "detail": "delta_take=0.5187s (I-occ5 lag); take-skip at seam 0.454s",
+  "take": "5.369-7.719",
+  "factor": 0.6426
+ },
+ {
+  "idx": 4,
+  "label": "S02-occ1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.4916s lag=0.708s residual=0ms",
+  "take": "0.492-3.532",
+  "factor": 1.4408
+ },
+ {
+  "idx": 5,
+  "label": "S02-occ2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.280-7.140",
+  "factor": 1.5524
+ },
+ {
+  "idx": 6,
+  "label": "GAP-18.74",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "7.140-7.980",
+  "factor": 1.0
+ },
+ {
+  "idx": 7,
+  "label": "S03-V1.1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.8284s lag=0.792s residual=0ms",
+  "take": "0.828-3.988",
+  "factor": 0.9557
+ },
+ {
+  "idx": 8,
+  "label": "S03-V1.2",
+  "action": "SHIFT",
+  "detail": "delta_take=0.6683s lag=0.417s residual=0ms",
+  "take": "4.168-7.408",
+  "factor": 0.6235
+ },
+ {
+  "idx": 9,
+  "label": "S03-V1.3",
+  "action": "SHIFT",
+  "detail": "delta_take=0.2546s lag=0.250s residual=0ms",
+  "take": "7.495-9.735",
+  "factor": 0.9821
+ },
+ {
+  "idx": 10,
+  "label": "S04-V1.4",
+  "action": "SHIFT",
+  "detail": "delta_take=0.4151s lag=0.292s residual=0ms",
+  "take": "0.415-4.115",
+  "factor": 0.7027
+ },
+ {
+  "idx": 11,
+  "label": "S04-V1.5",
+  "action": "REWARP",
+  "detail": "end pinned 7.24; factor 0.8286->0.9071 (speed 1.207->1.102)",
+  "take": "4.682-7.240",
+  "factor": 0.907102
+ },
+ {
+  "idx": 12,
+  "label": "S04-V1.6",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "7.240-9.680",
+  "factor": 0.9344
+ },
+ {
+  "idx": 13,
+  "label": "S05a-PC1.1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.8300s lag=0.417s residual=0ms",
+  "take": "0.830-5.770",
+  "factor": 0.502
+ },
+ {
+  "idx": 14,
+  "label": "S05b-PC1.2",
+  "action": "SHIFT",
+  "detail": "delta_take=0.7390s lag=0.292s residual=0ms",
+  "take": "0.739-6.059",
+  "factor": 0.3947
+ },
+ {
+  "idx": 15,
+  "label": "S06-PC1.3",
+  "action": "REWARP",
+  "detail": "end pinned 5.32; factor 0.8366->0.8521 (speed 1.195->1.174)",
+  "take": "0.274-5.320",
+  "factor": 0.852144
+ },
+ {
+  "idx": 16,
+  "label": "S06-PC1.4",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "5.320-8.600",
+  "factor": 1.0061
+ },
+ {
+  "idx": 17,
+  "label": "GAP-46.20",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "8.600-10.000",
+  "factor": 0.5857
+ },
+ {
+  "idx": 18,
+  "label": "S07-C1.1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.4202s lag=0.500s residual=0ms",
+  "take": "0.420-2.420",
+  "factor": 1.19
+ },
+ {
+  "idx": 19,
+  "label": "S07-C1.2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "2.880-5.020",
+  "factor": 1.1028
+ },
+ {
+  "idx": 20,
+  "label": "S07-C1.3",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "5.020-7.680",
+  "factor": 0.7744
+ },
+ {
+  "idx": 21,
+  "label": "S07-C1.4",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "8.060-9.700",
+  "factor": 1.439
+ },
+ {
+  "idx": 22,
+  "label": "S08-C1.5",
+  "action": "REWARP",
+  "detail": "end pinned 4.18; factor 0.7560->1.0568 (speed 1.323->0.946)",
+  "take": "1.190-4.180",
+  "factor": 1.056816
+ },
+ {
+  "idx": 23,
+  "label": "S08-C1.6",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.180-7.480",
+  "factor": 0.6424
+ },
+ {
+  "idx": 24,
+  "label": "S08-C1.7",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "7.580-8.820",
+  "factor": 1.8226
+ },
+ {
+  "idx": 25,
+  "label": "S09-occ1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.5463s lag=0.625s residual=0ms",
+  "take": "0.546-2.766",
+  "factor": 1.1441
+ },
+ {
+  "idx": 26,
+  "label": "S09-occ2",
+  "action": "SHIFT",
+  "detail": "delta_take=1.0130s lag=0.542s residual=0ms",
+  "take": "4.553-7.433",
+  "factor": 0.5347
+ },
+ {
+  "idx": 27,
+  "label": "S10-occ1",
+  "action": "REWARP",
+  "detail": "end pinned 2.74; factor 0.9781->1.1307 (speed 1.022->0.884)",
+  "take": "0.370-2.740",
+  "factor": 1.130743
+ },
+ {
+  "idx": 28,
+  "label": "S10-occ2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "2.740-5.180",
+  "factor": 1.0984
+ },
+ {
+  "idx": 29,
+  "label": "S10-occ3",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "5.180-7.380",
+  "factor": 1.2182
+ },
+ {
+  "idx": 30,
+  "label": "S11-V2.1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.1805s lag=0.167s residual=0ms",
+  "take": "0.180-3.061",
+  "factor": 0.9236
+ },
+ {
+  "idx": 31,
+  "label": "S11-V2.2",
+  "action": "SHIFT",
+  "detail": "delta_take=0.1803s lag=0.125s residual=0ms",
+  "take": "3.860-6.860",
+  "factor": 0.6933
+ },
+ {
+  "idx": 32,
+  "label": "S11-V2.3",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "7.060-9.080",
+  "factor": 1.1683
+ },
+ {
+  "idx": 33,
+  "label": "S12-V2.4",
+  "action": "SHIFT",
+  "detail": "delta_take=0.3013s lag=0.208s residual=0ms",
+  "take": "0.301-3.541",
+  "factor": 0.6914
+ },
+ {
+  "idx": 34,
+  "label": "S12-V2.5",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.180-6.820",
+  "factor": 0.9394
+ },
+ {
+  "idx": 35,
+  "label": "S12-V2.6",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "7.240-9.520",
+  "factor": 0.9912
+ },
+ {
+  "idx": 36,
+  "label": "S13-PC2.1",
+  "action": "SHIFT-CAPPED",
+  "detail": "delta_take=0.4800s lag=0.417s residual=62ms",
+  "take": "0.480-4.760",
+  "factor": 0.7383
+ },
+ {
+  "idx": 37,
+  "label": "S13-PC2.2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.760-8.820",
+  "factor": 0.5222
+ },
+ {
+  "idx": 38,
+  "label": "S14-PC2.3",
+  "action": "SHIFT",
+  "detail": "delta_take=0.5229s lag=0.542s residual=0ms",
+  "take": "0.523-4.983",
+  "factor": 1.0359
+ },
+ {
+  "idx": 39,
+  "label": "S14-PC2.4",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "5.100-8.020",
+  "factor": 1.2123
+ },
+ {
+  "idx": 40,
+  "label": "S15-C2.1",
+  "action": "REWARP",
+  "detail": "end pinned 3.28; factor 0.7985->0.8440 (speed 1.252->1.185)",
+  "take": "0.744-3.280",
+  "factor": 0.843956
+ },
+ {
+  "idx": 41,
+  "label": "S15-C2.2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "3.280-5.340",
+  "factor": 1.3495
+ },
+ {
+  "idx": 42,
+  "label": "S15-C2.3",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "5.640-8.200",
+  "factor": 0.8125
+ },
+ {
+  "idx": 43,
+  "label": "C2.4-COVER",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "7.500-10.000",
+  "factor": 1.0
+ },
+ {
+  "idx": 44,
+  "label": "S16-C2.5",
+  "action": "SHIFT",
+  "detail": "delta_take=0.6182s lag=0.375s residual=0ms",
+  "take": "0.618-4.838",
+  "factor": 0.6066
+ },
+ {
+  "idx": 45,
+  "label": "S16-C2.6",
+  "action": "COMPANION-SHIFT",
+  "detail": "delta_take=0.6182s with leader idx 44 (seam contiguity)",
+  "take": "4.838-8.078",
+  "factor": 0.7531
+ },
+ {
+  "idx": 46,
+  "label": "S17-C2.7",
+  "action": "REWARP",
+  "detail": "end pinned 4.46; factor 0.6989->0.7566 (speed 1.431->1.322)",
+  "take": "1.209-4.460",
+  "factor": 0.756647
+ },
+ {
+  "idx": 47,
+  "label": "S17-C2.8",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.460-7.360",
+  "factor": 1.0138
+ },
+ {
+  "idx": 48,
+  "label": "S18-plate",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "0.000-10.000",
+  "factor": 0.932
+ },
+ {
+  "idx": 49,
+  "label": "S19-plate",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "0.000-10.000",
+  "factor": 1.082
+ },
+ {
+  "idx": 50,
+  "label": "S20-FC.1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.3856s lag=0.375s residual=0ms",
+  "take": "0.386-2.566",
+  "factor": 0.9725
+ },
+ {
+  "idx": 51,
+  "label": "S20-FC.2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "2.940-5.100",
+  "factor": 1.2593
+ },
+ {
+  "idx": 52,
+  "label": "S20-FC.3",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "5.500-8.120",
+  "factor": 0.8168
+ },
+ {
+  "idx": 53,
+  "label": "FC.4-COVER",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "0.500-3.000",
+  "factor": 1.0
+ },
+ {
+  "idx": 54,
+  "label": "S21-FC.5",
+  "action": "SHIFT",
+  "detail": "delta_take=0.4894s lag=0.333s residual=0ms",
+  "take": "0.489-4.189",
+  "factor": 0.6811
+ },
+ {
+  "idx": 55,
+  "label": "S21-FC.6",
+  "action": "COMPANION-SHIFT",
+  "detail": "delta_take=0.4894s with leader idx 54 (seam contiguity)",
+  "take": "4.189-7.169",
+  "factor": 0.8188
+ },
+ {
+  "idx": 56,
+  "label": "S21-FC.7",
+  "action": "COMPANION-SHIFT",
+  "detail": "delta_take=0.4894s with leader idx 54 (seam contiguity)",
+  "take": "7.169-9.729",
+  "factor": 0.8516
+ },
+ {
+  "idx": 57,
+  "label": "S22-FC.8",
+  "action": "SHIFT",
+  "detail": "delta_take=0.7005s lag=1.000s residual=0ms",
+  "take": "0.701-3.600",
+  "factor": 1.4276
+ },
+ {
+  "idx": 58,
+  "label": "S22-FC.9",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "3.980-7.520",
+  "factor": 1.1299
+ },
+ {
+  "idx": 59,
+  "label": "S23-FC.10",
+  "action": "SHIFT",
+  "detail": "delta_take=0.8025s lag=0.625s residual=0ms",
+  "take": "0.802-7.402",
+  "factor": 0.7788
+ },
+ {
+  "idx": 60,
+  "label": "S24-P1",
+  "action": "SHIFT",
+  "detail": "delta_take=0.5357s lag=0.458s residual=0ms",
+  "take": "0.536-3.996",
+  "factor": 0.8555
+ },
+ {
+  "idx": 61,
+  "label": "S24-P2",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "4.040-7.920",
+  "factor": 1.799
+ },
+ {
+  "idx": 62,
+  "label": "FADE",
+  "action": "NONE",
+  "detail": "reuse original segment file",
+  "take": "6.620-10.000",
+  "factor": 1.1716
+ }
+]

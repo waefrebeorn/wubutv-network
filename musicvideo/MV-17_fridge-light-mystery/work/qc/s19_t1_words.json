@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv17_s19_t1.mp4",
+ "words": [
+  {
+   "w": "I",
+   "start": 0.0,
+   "end": 0.3,
+   "p": 0.909
+  },
+  {
+   "w": "checked,",
+   "start": 0.3,
+   "end": 1.06,
+   "p": 0.982
+  },
+  {
+   "w": "I",
+   "start": 1.68,
+   "end": 2.7,
+   "p": 0.992
+  },
+  {
+   "w": "checked.",
+   "start": 2.7,
+   "end": 3.4,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.4,
+   "text": "I checked, I checked.",
+   "avg_logprob": -0.587
+  }
+ ]
+}

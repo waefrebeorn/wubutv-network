@@ -1,0 +1,203 @@
+{
+ "s07": {
+  "take": "mv5_s07_t2.mp4",
+  "song_slot": 1.34,
+  "line": "One small look from you",
+  "motion": {
+   "frames": 120,
+   "mean_diff": 1.096,
+   "longest_neardup_run": 1,
+   "exact_dup_frames": 0
+  },
+  "rms_per_0.5s": [
+   0.1934,
+   0.1378,
+   0.2263,
+   0.1633,
+   0.1841,
+   0.1225,
+   0.0226,
+   0.0211,
+   0.0296,
+   0.0245,
+   0.0004
+  ],
+  "whisper_text_prompted": "One small look from you",
+  "whisper_words_prompted": [
+   " One",
+   " small",
+   " look",
+   " from",
+   " you"
+  ],
+  "take_line_span": 2.56,
+  "first_word": 0.0,
+  "last_word_end": 2.56,
+  "line_ratio": 0.52,
+  "word_times": [
+   [
+    "One",
+    0.0,
+    0.5
+   ],
+   [
+    "small",
+    0.5,
+    1.24
+   ],
+   [
+    "look",
+    1.24,
+    1.72
+   ],
+   [
+    "from",
+    1.72,
+    2.1
+   ],
+   [
+    "you",
+    2.1,
+    2.56
+   ]
+  ],
+  "vocal_motion": {
+   "vocal_mean_diff": 1.092,
+   "vocal_longest_neardup": 1,
+   "per_second_mean_diff": [
+    1.121,
+    1.239
+   ]
+  },
+  "whisper_text_unprompted": "One small look from you",
+  "whisper_words_unprompted": [
+   [
+    "One",
+    0.0,
+    0.5
+   ],
+   [
+    "small",
+    0.5,
+    1.24
+   ],
+   [
+    "look",
+    1.24,
+    1.72
+   ],
+   [
+    "from",
+    1.72,
+    2.1
+   ],
+   [
+    "you",
+    2.1,
+    2.56
+   ]
+  ],
+  "repeat_bigrams_prompted": []
+ },
+ "s07_t3": {
+  "take": "mv5_s07_t3.mp4",
+  "song_slot": 1.34,
+  "line": "One small look from you",
+  "motion": {
+   "frames": 120,
+   "mean_diff": 7.235,
+   "longest_neardup_run": 0,
+   "exact_dup_frames": 0
+  },
+  "rms_per_0.5s": [
+   0.007,
+   0.026,
+   0.1374,
+   0.1082,
+   0.1375,
+   0.0932,
+   0.1372,
+   0.1162,
+   0.0215,
+   0.0128,
+   0.0003
+  ],
+  "whisper_text_prompted": "One small look from you",
+  "whisper_words_prompted": [
+   " One",
+   " small",
+   " look",
+   " from",
+   " you"
+  ],
+  "take_line_span": 3.64,
+  "first_word": 0.0,
+  "last_word_end": 3.64,
+  "line_ratio": 0.37,
+  "word_times": [
+   [
+    "One",
+    0.0,
+    1.42
+   ],
+   [
+    "small",
+    1.42,
+    2.06
+   ],
+   [
+    "look",
+    2.06,
+    2.58
+   ],
+   [
+    "from",
+    2.58,
+    2.98
+   ],
+   [
+    "you",
+    2.98,
+    3.64
+   ]
+  ],
+  "vocal_motion": {
+   "vocal_mean_diff": 8.558,
+   "vocal_longest_neardup": 0,
+   "per_second_mean_diff": [
+    11.487,
+    9.036,
+    7.178
+   ]
+  },
+  "whisper_text_unprompted": "One small look from you",
+  "whisper_words_unprompted": [
+   [
+    "One",
+    0.0,
+    1.42
+   ],
+   [
+    "small",
+    1.42,
+    2.06
+   ],
+   [
+    "look",
+    2.06,
+    2.58
+   ],
+   [
+    "from",
+    2.58,
+    2.98
+   ],
+   [
+    "you",
+    2.98,
+    3.64
+   ]
+  ],
+  "repeat_bigrams_prompted": []
+ }
+}

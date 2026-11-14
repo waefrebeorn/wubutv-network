@@ -1,0 +1,138 @@
+{
+ "take": "media-generation-mv11-r2-s18-t1-0-6626b8d7-23e3-4037-bb01-d8d1430f30ef.mp4",
+ "scene": "S18",
+ "take_no": "1",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Thank",
+   "start": 6.76,
+   "end": 7.92,
+   "prob": 0.007
+  },
+  {
+   "word": "you",
+   "start": 7.92,
+   "end": 9.08,
+   "prob": 0.9
+  },
+  {
+   "word": "for",
+   "start": 9.08,
+   "end": 9.66,
+   "prob": 0.382
+  },
+  {
+   "word": "watching!",
+   "start": 9.66,
+   "end": 9.86,
+   "prob": 0.784
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "d0ba34fc5d58",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 0.5,
+   "md5": "2cf3f23e8f96",
+   "mean_abs_diff_from_prev": 40.71
+  },
+  {
+   "t": 1.0,
+   "md5": "884c01b2d9c2",
+   "mean_abs_diff_from_prev": 39.41
+  },
+  {
+   "t": 1.5,
+   "md5": "c0856160de07",
+   "mean_abs_diff_from_prev": 41.23
+  },
+  {
+   "t": 2.0,
+   "md5": "7cfa9e4f3f28",
+   "mean_abs_diff_from_prev": 39.72
+  },
+  {
+   "t": 2.5,
+   "md5": "58f67b6c03e4",
+   "mean_abs_diff_from_prev": 37.5
+  },
+  {
+   "t": 3.0,
+   "md5": "a77340ef7d0b",
+   "mean_abs_diff_from_prev": 39.6
+  },
+  {
+   "t": 3.5,
+   "md5": "fb5ba080f473",
+   "mean_abs_diff_from_prev": 41.67
+  },
+  {
+   "t": 4.0,
+   "md5": "378e4dcf8c58",
+   "mean_abs_diff_from_prev": 42.77
+  },
+  {
+   "t": 4.5,
+   "md5": "14731a072009",
+   "mean_abs_diff_from_prev": 42.14
+  },
+  {
+   "t": 5.0,
+   "md5": "e11f808590de",
+   "mean_abs_diff_from_prev": 43.86
+  },
+  {
+   "t": 5.5,
+   "md5": "4990bad56ae0",
+   "mean_abs_diff_from_prev": 43.08
+  },
+  {
+   "t": 6.0,
+   "md5": "904ea741cfc4",
+   "mean_abs_diff_from_prev": 39.45
+  },
+  {
+   "t": 6.5,
+   "md5": "98b98a50d8b9",
+   "mean_abs_diff_from_prev": 38.82
+  },
+  {
+   "t": 7.0,
+   "md5": "40bdc0ea2090",
+   "mean_abs_diff_from_prev": 38.26
+  },
+  {
+   "t": 7.5,
+   "md5": "b9a0fa16d154",
+   "mean_abs_diff_from_prev": 35.39
+  },
+  {
+   "t": 8.0,
+   "md5": "aeccfc6f5e1d",
+   "mean_abs_diff_from_prev": 33.96
+  },
+  {
+   "t": 8.5,
+   "md5": "5d468090e784",
+   "mean_abs_diff_from_prev": 31.96
+  },
+  {
+   "t": 9.0,
+   "md5": "b340ef97ecd3",
+   "mean_abs_diff_from_prev": 27.15
+  },
+  {
+   "t": 9.5,
+   "md5": "732cfbf6dbe9",
+   "mean_abs_diff_from_prev": 22.15
+  }
+ ],
+ "frames_distinct": true
+}

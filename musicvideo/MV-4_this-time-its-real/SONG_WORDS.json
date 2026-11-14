@@ -1,0 +1,2211 @@
+{
+ "track": "track.mp3",
+ "track_md5": "d46af0ef2e5abfca97db16905d20fb7d",
+ "duration": 238.8,
+ "method": "faster-whisper base, word timestamps, mono 16k numpy input; 0-65s and 155-238.8s re-decoded WITHOUT initial_prompt (the prompted full-track pass hallucinated chorus repeats over Verse 1); 63-159s from the prompted pass; cross-checked against the Suno lyric video frames (track.mp4) for line identity and boundaries; mishears normalized to performed words per sheet + video (see merge_words.py for the classes)",
+ "words": [
+  {
+   "word": "They",
+   "start": 0.0,
+   "end": 1.46,
+   "prob": 0.096
+  },
+  {
+   "word": "said",
+   "start": 1.46,
+   "end": 1.9,
+   "prob": 0.966
+  },
+  {
+   "word": "it",
+   "start": 1.9,
+   "end": 2.26,
+   "prob": 0.967
+  },
+  {
+   "word": "was",
+   "start": 2.26,
+   "end": 2.5,
+   "prob": 0.996
+  },
+  {
+   "word": "over",
+   "start": 2.5,
+   "end": 2.86,
+   "prob": 0.985
+  },
+  {
+   "word": "back",
+   "start": 2.86,
+   "end": 3.16,
+   "prob": 0.893
+  },
+  {
+   "word": "in",
+   "start": 3.16,
+   "end": 3.5,
+   "prob": 0.968
+  },
+  {
+   "word": "'03,",
+   "start": 3.5,
+   "end": 4.0,
+   "prob": 0.853,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Then",
+   "start": 4.0,
+   "end": 4.78,
+   "prob": 0.194
+  },
+  {
+   "word": "they",
+   "start": 4.78,
+   "end": 5.02,
+   "prob": 0.986
+  },
+  {
+   "word": "said",
+   "start": 5.02,
+   "end": 5.34,
+   "prob": 0.961
+  },
+  {
+   "word": "it",
+   "start": 5.34,
+   "end": 5.58,
+   "prob": 0.985
+  },
+  {
+   "word": "again",
+   "start": 5.58,
+   "end": 6.1,
+   "prob": 0.993
+  },
+  {
+   "word": "in",
+   "start": 6.1,
+   "end": 6.66,
+   "prob": 0.889
+  },
+  {
+   "word": "2013",
+   "start": 6.66,
+   "end": 7.7,
+   "prob": 0.985
+  },
+  {
+   "word": "Hulu",
+   "start": 7.7,
+   "end": 8.66,
+   "prob": 0.247,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "hit",
+   "start": 8.66,
+   "end": 9.04,
+   "prob": 0.109,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "rewind",
+   "start": 9.28,
+   "end": 9.76,
+   "prob": 0.849
+  },
+  {
+   "word": "and",
+   "start": 9.76,
+   "end": 10.24,
+   "prob": 0.837
+  },
+  {
+   "word": "we",
+   "start": 10.24,
+   "end": 10.5,
+   "prob": 0.995
+  },
+  {
+   "word": "all",
+   "start": 10.5,
+   "end": 10.8,
+   "prob": 0.915
+  },
+  {
+   "word": "leaned",
+   "start": 10.8,
+   "end": 11.28,
+   "prob": 0.439
+  },
+  {
+   "word": "in",
+   "start": 11.28,
+   "end": 11.7,
+   "prob": 0.976
+  },
+  {
+   "word": "Fourteen",
+   "start": 11.7,
+   "end": 12.36,
+   "prob": 0.526
+  },
+  {
+   "word": "seasons",
+   "start": 12.36,
+   "end": 12.84,
+   "prob": 0.992
+  },
+  {
+   "word": "later",
+   "start": 12.84,
+   "end": 13.52,
+   "prob": 0.996
+  },
+  {
+   "word": "we're",
+   "start": 13.52,
+   "end": 14.0,
+   "prob": 0.662
+  },
+  {
+   "word": "still",
+   "start": 14.0,
+   "end": 14.24,
+   "prob": 0.999
+  },
+  {
+   "word": "on",
+   "start": 14.24,
+   "end": 14.72,
+   "prob": 0.997
+  },
+  {
+   "word": "the",
+   "start": 14.72,
+   "end": 14.88,
+   "prob": 0.996
+  },
+  {
+   "word": "screen",
+   "start": 14.88,
+   "end": 15.32,
+   "prob": 0.981
+  },
+  {
+   "word": "Final",
+   "start": 16.0,
+   "end": 16.56,
+   "prob": 0.429
+  },
+  {
+   "word": "ending,",
+   "start": 16.56,
+   "end": 17.1,
+   "prob": 0.997
+  },
+  {
+   "word": "the",
+   "start": 17.1,
+   "end": 17.52,
+   "prob": 0.937
+  },
+  {
+   "word": "last",
+   "start": 17.52,
+   "end": 17.8,
+   "prob": 0.992
+  },
+  {
+   "word": "conclusion",
+   "start": 17.8,
+   "end": 18.66,
+   "prob": 0.994
+  },
+  {
+   "word": "That's",
+   "start": 19.76,
+   "end": 20.64,
+   "prob": 0.937
+  },
+  {
+   "word": "the",
+   "start": 20.64,
+   "end": 20.82,
+   "prob": 0.996
+  },
+  {
+   "word": "label",
+   "start": 20.82,
+   "end": 21.24,
+   "prob": 0.994
+  },
+  {
+   "word": "on",
+   "start": 21.24,
+   "end": 21.64,
+   "prob": 0.977
+  },
+  {
+   "word": "the",
+   "start": 21.64,
+   "end": 21.78,
+   "prob": 0.993
+  },
+  {
+   "word": "last",
+   "start": 21.78,
+   "end": 22.22,
+   "prob": 0.995
+  },
+  {
+   "word": "file",
+   "start": 22.22,
+   "end": 23.34,
+   "prob": 0.969
+  },
+  {
+   "word": "Matt",
+   "start": 23.34,
+   "end": 23.94,
+   "prob": 0.337,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "said",
+   "start": 23.94,
+   "end": 24.52,
+   "prob": 0.986
+  },
+  {
+   "word": "we're",
+   "start": 24.52,
+   "end": 24.94,
+   "prob": 0.896
+  },
+  {
+   "word": "not",
+   "start": 24.94,
+   "end": 25.16,
+   "prob": 0.998
+  },
+  {
+   "word": "done",
+   "start": 25.16,
+   "end": 25.64,
+   "prob": 0.995
+  },
+  {
+   "word": "yet",
+   "start": 25.64,
+   "end": 26.44,
+   "prob": 0.994
+  },
+  {
+   "word": "But",
+   "start": 26.44,
+   "end": 27.18,
+   "prob": 0.479
+  },
+  {
+   "word": "the",
+   "start": 27.18,
+   "end": 27.38,
+   "prob": 0.984
+  },
+  {
+   "word": "streamer",
+   "start": 27.38,
+   "end": 28.02,
+   "prob": 0.926
+  },
+  {
+   "word": "closed",
+   "start": 28.02,
+   "end": 28.46,
+   "prob": 0.393
+  },
+  {
+   "word": "the",
+   "start": 28.46,
+   "end": 29.08,
+   "prob": 0.975
+  },
+  {
+   "word": "door",
+   "start": 29.08,
+   "end": 29.54,
+   "prob": 0.952
+  },
+  {
+   "word": "in",
+   "start": 29.54,
+   "end": 29.92,
+   "prob": 0.813
+  },
+  {
+   "word": "style.",
+   "start": 29.92,
+   "end": 30.54,
+   "prob": 0.782,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 32.36,
+   "end": 33.22,
+   "prob": 0.485
+  },
+  {
+   "word": "finished,",
+   "start": 33.22,
+   "end": 33.52,
+   "prob": 0.551
+  },
+  {
+   "word": "Futurama's",
+   "start": 33.68,
+   "end": 35.08,
+   "prob": 0.95
+  },
+  {
+   "word": "finished",
+   "start": 35.08,
+   "end": 35.42,
+   "prob": 0.954
+  },
+  {
+   "word": "For",
+   "start": 35.42,
+   "end": 35.88,
+   "prob": 0.533
+  },
+  {
+   "word": "real",
+   "start": 35.88,
+   "end": 36.26,
+   "prob": 0.982
+  },
+  {
+   "word": "this",
+   "start": 36.26,
+   "end": 36.48,
+   "prob": 0.924
+  },
+  {
+   "word": "time,",
+   "start": 36.48,
+   "end": 37.04,
+   "prob": 0.999
+  },
+  {
+   "word": "no",
+   "start": 37.26,
+   "end": 37.36,
+   "prob": 0.783
+  },
+  {
+   "word": "more",
+   "start": 37.36,
+   "end": 37.66,
+   "prob": 0.939
+  },
+  {
+   "word": "reruns",
+   "start": 37.66,
+   "end": 38.56,
+   "prob": 0.714
+  },
+  {
+   "word": "in",
+   "start": 38.56,
+   "end": 38.98,
+   "prob": 0.632
+  },
+  {
+   "word": "the",
+   "start": 38.98,
+   "end": 39.18,
+   "prob": 0.968
+  },
+  {
+   "word": "dark",
+   "start": 39.18,
+   "end": 39.72,
+   "prob": 0.938
+  },
+  {
+   "word": "Futurama's",
+   "start": 39.72,
+   "end": 40.72,
+   "prob": 0.924
+  },
+  {
+   "word": "finished,",
+   "start": 40.72,
+   "end": 41.06,
+   "prob": 0.947
+  },
+  {
+   "word": "Futurama's",
+   "start": 41.42,
+   "end": 42.58,
+   "prob": 0.995
+  },
+  {
+   "word": "finished",
+   "start": 42.58,
+   "end": 42.72,
+   "prob": 0.658
+  },
+  {
+   "word": "No",
+   "start": 42.72,
+   "end": 42.98,
+   "prob": 0.164
+  },
+  {
+   "word": "fresh",
+   "start": 42.98,
+   "end": 43.42,
+   "prob": 0.977
+  },
+  {
+   "word": "episodes,",
+   "start": 43.42,
+   "end": 44.28,
+   "prob": 0.959
+  },
+  {
+   "word": "that's",
+   "start": 44.28,
+   "end": 45.56,
+   "prob": 0.813
+  },
+  {
+   "word": "the",
+   "start": 45.56,
+   "end": 45.8,
+   "prob": 0.993
+  },
+  {
+   "word": "hard",
+   "start": 45.8,
+   "end": 46.2,
+   "prob": 0.707
+  },
+  {
+   "word": "part",
+   "start": 46.2,
+   "end": 46.88,
+   "prob": 0.984
+  },
+  {
+   "word": "Good",
+   "start": 46.88,
+   "end": 47.2,
+   "prob": 0.103,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "news",
+   "start": 47.2,
+   "end": 47.62,
+   "prob": 0.733
+  },
+  {
+   "word": "everyone,",
+   "start": 47.62,
+   "end": 48.34,
+   "prob": 0.562
+  },
+  {
+   "word": "the",
+   "start": 48.72,
+   "end": 48.82,
+   "prob": 0.956
+  },
+  {
+   "word": "ride",
+   "start": 48.82,
+   "end": 49.2,
+   "prob": 0.885
+  },
+  {
+   "word": "is",
+   "start": 49.2,
+   "end": 49.76,
+   "prob": 0.994
+  },
+  {
+   "word": "done",
+   "start": 49.76,
+   "end": 50.26,
+   "prob": 0.874
+  },
+  {
+   "word": "Good",
+   "start": 50.26,
+   "end": 50.92,
+   "prob": 0.778,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "news",
+   "start": 50.92,
+   "end": 51.4,
+   "prob": 0.994
+  },
+  {
+   "word": "everyone,",
+   "start": 51.4,
+   "end": 52.12,
+   "prob": 0.985
+  },
+  {
+   "word": "the",
+   "start": 52.52,
+   "end": 52.54,
+   "prob": 0.975
+  },
+  {
+   "word": "ship",
+   "start": 52.54,
+   "end": 52.8,
+   "prob": 0.976
+  },
+  {
+   "word": "won't",
+   "start": 52.8,
+   "end": 53.62,
+   "prob": 0.997
+  },
+  {
+   "word": "run",
+   "start": 53.62,
+   "end": 54.2,
+   "prob": 0.991
+  },
+  {
+   "word": "Futurama's",
+   "start": 54.2,
+   "end": 55.7,
+   "prob": 0.343
+  },
+  {
+   "word": "finished,",
+   "start": 55.7,
+   "end": 56.08,
+   "prob": 0.305
+  },
+  {
+   "word": "Futurama's",
+   "start": 56.3,
+   "end": 57.54,
+   "prob": 0.911
+  },
+  {
+   "word": "finished",
+   "start": 57.54,
+   "end": 57.94,
+   "prob": 0.966
+  },
+  {
+   "word": "For",
+   "start": 57.94,
+   "end": 58.4,
+   "prob": 0.003
+  },
+  {
+   "word": "real",
+   "start": 58.4,
+   "end": 58.78,
+   "prob": 0.988
+  },
+  {
+   "word": "this",
+   "start": 58.78,
+   "end": 59.14,
+   "prob": 0.935
+  },
+  {
+   "word": "time,",
+   "start": 59.14,
+   "end": 59.58,
+   "prob": 0.999
+  },
+  {
+   "word": "no",
+   "start": 59.72,
+   "end": 59.86,
+   "prob": 0.372
+  },
+  {
+   "word": "more",
+   "start": 59.86,
+   "end": 60.12,
+   "prob": 0.919
+  },
+  {
+   "word": "reruns",
+   "start": 60.12,
+   "end": 61.28,
+   "prob": 0.596
+  },
+  {
+   "word": "in",
+   "start": 61.28,
+   "end": 61.64,
+   "prob": 0.928
+  },
+  {
+   "word": "the",
+   "start": 61.64,
+   "end": 61.92,
+   "prob": 0.961
+  },
+  {
+   "word": "dark",
+   "start": 61.92,
+   "end": 63.04,
+   "prob": 0.823
+  },
+  {
+   "word": "Three",
+   "start": 64.82,
+   "end": 65.26,
+   "prob": 0.414
+  },
+  {
+   "word": "more",
+   "start": 65.26,
+   "end": 65.72,
+   "prob": 0.966
+  },
+  {
+   "word": "specials",
+   "start": 65.72,
+   "end": 66.48,
+   "prob": 0.95
+  },
+  {
+   "word": "lined",
+   "start": 66.48,
+   "end": 66.86,
+   "prob": 0.978
+  },
+  {
+   "word": "up",
+   "start": 66.86,
+   "end": 67.1,
+   "prob": 0.988
+  },
+  {
+   "word": "in",
+   "start": 67.1,
+   "end": 67.48,
+   "prob": 0.965
+  },
+  {
+   "word": "27",
+   "start": 67.48,
+   "end": 68.7,
+   "prob": 0.6
+  },
+  {
+   "word": "Christmas",
+   "start": 68.7,
+   "end": 69.56,
+   "prob": 0.947
+  },
+  {
+   "word": "first",
+   "start": 69.56,
+   "end": 69.96,
+   "prob": 0.606
+  },
+  {
+   "word": "and",
+   "start": 69.96,
+   "end": 70.52,
+   "prob": 0.167
+  },
+  {
+   "word": "two",
+   "start": 70.52,
+   "end": 70.86,
+   "prob": 0.897
+  },
+  {
+   "word": "more",
+   "start": 70.86,
+   "end": 71.24,
+   "prob": 0.993
+  },
+  {
+   "word": "after",
+   "start": 71.24,
+   "end": 72.04,
+   "prob": 0.909
+  },
+  {
+   "word": "But",
+   "start": 72.8,
+   "end": 73.24,
+   "prob": 0.74
+  },
+  {
+   "word": "a",
+   "start": 73.24,
+   "end": 73.48,
+   "prob": 0.925
+  },
+  {
+   "word": "whole",
+   "start": 73.48,
+   "end": 73.8,
+   "prob": 0.987
+  },
+  {
+   "word": "new",
+   "start": 73.8,
+   "end": 74.14,
+   "prob": 0.987
+  },
+  {
+   "word": "season",
+   "start": 74.14,
+   "end": 74.74,
+   "prob": 0.99
+  },
+  {
+   "word": "Not",
+   "start": 74.74,
+   "end": 75.14,
+   "prob": 0.096
+  },
+  {
+   "word": "on",
+   "start": 75.14,
+   "end": 75.62,
+   "prob": 0.93
+  },
+  {
+   "word": "the",
+   "start": 75.62,
+   "end": 75.84,
+   "prob": 0.992
+  },
+  {
+   "word": "board",
+   "start": 75.84,
+   "end": 76.28,
+   "prob": 0.972
+  },
+  {
+   "word": "they",
+   "start": 76.28,
+   "end": 76.66,
+   "prob": 0.335
+  },
+  {
+   "word": "sealed",
+   "start": 76.66,
+   "end": 76.96,
+   "prob": 0.975
+  },
+  {
+   "word": "it",
+   "start": 76.96,
+   "end": 77.26,
+   "prob": 0.994
+  },
+  {
+   "word": "up",
+   "start": 77.26,
+   "end": 77.6,
+   "prob": 0.988
+  },
+  {
+   "word": "And",
+   "start": 77.6,
+   "end": 78.08,
+   "prob": 0.229
+  },
+  {
+   "word": "walked",
+   "start": 78.08,
+   "end": 78.34,
+   "prob": 0.978
+  },
+  {
+   "word": "out",
+   "start": 78.34,
+   "end": 78.78,
+   "prob": 0.994
+  },
+  {
+   "word": "after",
+   "start": 78.78,
+   "end": 79.52,
+   "prob": 0.992
+  },
+  {
+   "word": "We",
+   "start": 79.52,
+   "end": 79.92,
+   "prob": 0.755
+  },
+  {
+   "word": "seen",
+   "start": 79.92,
+   "end": 80.36,
+   "prob": 0.344
+  },
+  {
+   "word": "this",
+   "start": 80.36,
+   "end": 80.78,
+   "prob": 0.92
+  },
+  {
+   "word": "loop",
+   "start": 80.78,
+   "end": 81.14,
+   "prob": 0.925
+  },
+  {
+   "word": "from",
+   "start": 81.14,
+   "end": 81.7,
+   "prob": 0.924
+  },
+  {
+   "word": "Fox",
+   "start": 81.7,
+   "end": 82.16,
+   "prob": 0.496
+  },
+  {
+   "word": "to",
+   "start": 82.16,
+   "end": 82.52,
+   "prob": 0.817
+  },
+  {
+   "word": "Cable",
+   "start": 82.52,
+   "end": 83.22,
+   "prob": 0.665
+  },
+  {
+   "word": "The",
+   "start": 83.22,
+   "end": 83.7,
+   "prob": 0.377
+  },
+  {
+   "word": "streaming",
+   "start": 83.7,
+   "end": 84.34,
+   "prob": 0.972
+  },
+  {
+   "word": "gave",
+   "start": 84.34,
+   "end": 84.98,
+   "prob": 0.698
+  },
+  {
+   "word": "it",
+   "start": 84.98,
+   "end": 85.36,
+   "prob": 0.995
+  },
+  {
+   "word": "one",
+   "start": 85.36,
+   "end": 85.68,
+   "prob": 0.98
+  },
+  {
+   "word": "more",
+   "start": 85.68,
+   "end": 86.16,
+   "prob": 0.988
+  },
+  {
+   "word": "round",
+   "start": 86.16,
+   "end": 86.96,
+   "prob": 0.998
+  },
+  {
+   "word": "But",
+   "start": 86.96,
+   "end": 87.86,
+   "prob": 0.21
+  },
+  {
+   "word": "the",
+   "start": 87.86,
+   "end": 88.1,
+   "prob": 0.794
+  },
+  {
+   "word": "songs",
+   "start": 88.1,
+   "end": 88.6,
+   "prob": 0.93
+  },
+  {
+   "word": "about",
+   "start": 88.6,
+   "end": 89.06,
+   "prob": 0.933
+  },
+  {
+   "word": "the",
+   "start": 89.06,
+   "end": 89.3,
+   "prob": 0.976
+  },
+  {
+   "word": "day",
+   "start": 89.3,
+   "end": 89.58,
+   "prob": 0.962
+  },
+  {
+   "word": "they",
+   "start": 89.58,
+   "end": 89.9,
+   "prob": 0.697
+  },
+  {
+   "word": "mean",
+   "start": 89.9,
+   "end": 90.36,
+   "prob": 0.957
+  },
+  {
+   "word": "it",
+   "start": 90.36,
+   "end": 90.74,
+   "prob": 0.92
+  },
+  {
+   "word": "When",
+   "start": 90.74,
+   "end": 90.94,
+   "prob": 0.404
+  },
+  {
+   "word": "the",
+   "start": 90.94,
+   "end": 91.16,
+   "prob": 0.978
+  },
+  {
+   "word": "last",
+   "start": 91.16,
+   "end": 91.58,
+   "prob": 0.988
+  },
+  {
+   "word": "new",
+   "start": 91.58,
+   "end": 92.0,
+   "prob": 0.734
+  },
+  {
+   "word": "line",
+   "start": 92.0,
+   "end": 92.4,
+   "prob": 0.952
+  },
+  {
+   "word": "never",
+   "start": 92.4,
+   "end": 93.06,
+   "prob": 0.952
+  },
+  {
+   "word": "comes",
+   "start": 93.06,
+   "end": 93.76,
+   "prob": 0.986
+  },
+  {
+   "word": "down",
+   "start": 93.76,
+   "end": 95.4,
+   "prob": 0.964
+  },
+  {
+   "word": "Futurama's",
+   "start": 95.4,
+   "end": 96.68,
+   "prob": 0.019,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 96.68,
+   "end": 97.22,
+   "prob": 0.482,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 97.22,
+   "end": 98.48,
+   "prob": 0.335,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 98.48,
+   "end": 99.24,
+   "prob": 0.961,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "For",
+   "start": 99.24,
+   "end": 99.6,
+   "prob": 0.212,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "real",
+   "start": 99.6,
+   "end": 99.96,
+   "prob": 0.835
+  },
+  {
+   "word": "this",
+   "start": 99.96,
+   "end": 100.16,
+   "prob": 0.911
+  },
+  {
+   "word": "time",
+   "start": 100.16,
+   "end": 100.74,
+   "prob": 0.997
+  },
+  {
+   "word": "No",
+   "start": 100.74,
+   "end": 101.04,
+   "prob": 0.641
+  },
+  {
+   "word": "more",
+   "start": 101.04,
+   "end": 101.28,
+   "prob": 0.99
+  },
+  {
+   "word": "reruns",
+   "start": 101.28,
+   "end": 102.26,
+   "prob": 0.56
+  },
+  {
+   "word": "in",
+   "start": 102.26,
+   "end": 102.66,
+   "prob": 0.953
+  },
+  {
+   "word": "the",
+   "start": 102.66,
+   "end": 102.88,
+   "prob": 0.98
+  },
+  {
+   "word": "dark",
+   "start": 102.88,
+   "end": 103.36,
+   "prob": 0.951
+  },
+  {
+   "word": "Futurama's",
+   "start": 103.36,
+   "end": 104.18,
+   "prob": 0.368,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 104.18,
+   "end": 104.84,
+   "prob": 0.989,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 104.84,
+   "end": 106.04,
+   "prob": 0.805,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 106.04,
+   "end": 106.38,
+   "prob": 0.841,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Fresh",
+   "start": 106.62,
+   "end": 107.08,
+   "prob": 0.066
+  },
+  {
+   "word": "episodes",
+   "start": 107.08,
+   "end": 108.18,
+   "prob": 0.969
+  },
+  {
+   "word": "That's",
+   "start": 108.18,
+   "end": 109.26,
+   "prob": 0.956
+  },
+  {
+   "word": "the",
+   "start": 109.26,
+   "end": 109.46,
+   "prob": 0.991
+  },
+  {
+   "word": "hard",
+   "start": 109.46,
+   "end": 109.86,
+   "prob": 0.821
+  },
+  {
+   "word": "part",
+   "start": 109.86,
+   "end": 110.34,
+   "prob": 0.932
+  },
+  {
+   "word": "Good",
+   "start": 110.34,
+   "end": 110.9,
+   "prob": 0.859
+  },
+  {
+   "word": "news",
+   "start": 110.9,
+   "end": 111.34,
+   "prob": 0.972
+  },
+  {
+   "word": "everyone",
+   "start": 111.34,
+   "end": 112.0,
+   "prob": 0.74
+  },
+  {
+   "word": "The",
+   "start": 112.0,
+   "end": 112.46,
+   "prob": 0.354
+  },
+  {
+   "word": "ride",
+   "start": 112.46,
+   "end": 112.84,
+   "prob": 0.521
+  },
+  {
+   "word": "is",
+   "start": 112.84,
+   "end": 113.38,
+   "prob": 0.969
+  },
+  {
+   "word": "done",
+   "start": 113.38,
+   "end": 113.88,
+   "prob": 0.935
+  },
+  {
+   "word": "Good",
+   "start": 113.88,
+   "end": 114.66,
+   "prob": 0.983
+  },
+  {
+   "word": "news",
+   "start": 114.66,
+   "end": 115.12,
+   "prob": 0.994
+  },
+  {
+   "word": "everyone",
+   "start": 115.12,
+   "end": 115.74,
+   "prob": 0.932
+  },
+  {
+   "word": "The",
+   "start": 115.74,
+   "end": 116.18,
+   "prob": 0.064
+  },
+  {
+   "word": "ship",
+   "start": 116.18,
+   "end": 116.5,
+   "prob": 0.819
+  },
+  {
+   "word": "won't",
+   "start": 116.5,
+   "end": 117.22,
+   "prob": 0.688
+  },
+  {
+   "word": "run",
+   "start": 117.22,
+   "end": 117.96,
+   "prob": 0.949
+  },
+  {
+   "word": "Futurama's",
+   "start": 117.96,
+   "end": 119.14,
+   "prob": 0.0,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 119.14,
+   "end": 119.68,
+   "prob": 0.093,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 119.68,
+   "end": 120.96,
+   "prob": 0.029,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 120.96,
+   "end": 121.64,
+   "prob": 0.895,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "For",
+   "start": 121.64,
+   "end": 122.06,
+   "prob": 0.0,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "real",
+   "start": 122.06,
+   "end": 122.42,
+   "prob": 0.619
+  },
+  {
+   "word": "this",
+   "start": 122.42,
+   "end": 122.76,
+   "prob": 0.749
+  },
+  {
+   "word": "time",
+   "start": 122.76,
+   "end": 123.18,
+   "prob": 0.884
+  },
+  {
+   "word": "No",
+   "start": 123.18,
+   "end": 123.52,
+   "prob": 0.01
+  },
+  {
+   "word": "more",
+   "start": 123.52,
+   "end": 123.8,
+   "prob": 0.948
+  },
+  {
+   "word": "reruns",
+   "start": 123.8,
+   "end": 124.86,
+   "prob": 0.49
+  },
+  {
+   "word": "in",
+   "start": 124.86,
+   "end": 125.28,
+   "prob": 0.821
+  },
+  {
+   "word": "the",
+   "start": 125.28,
+   "end": 125.6,
+   "prob": 0.97
+  },
+  {
+   "word": "dark",
+   "start": 125.6,
+   "end": 126.44,
+   "prob": 0.489
+  },
+  {
+   "word": "They",
+   "start": 126.44,
+   "end": 127.28,
+   "prob": 0.947
+  },
+  {
+   "word": "always",
+   "start": 127.28,
+   "end": 127.66,
+   "prob": 0.969
+  },
+  {
+   "word": "joke",
+   "start": 127.66,
+   "end": 128.02,
+   "prob": 0.432
+  },
+  {
+   "word": "before",
+   "start": 128.02,
+   "end": 128.76,
+   "prob": 0.993
+  },
+  {
+   "word": "the",
+   "start": 128.76,
+   "end": 129.34,
+   "prob": 0.879
+  },
+  {
+   "word": "ending",
+   "start": 129.34,
+   "end": 130.18,
+   "prob": 0.685
+  },
+  {
+   "word": "Like",
+   "start": 130.46,
+   "end": 130.92,
+   "prob": 0.844
+  },
+  {
+   "word": "they",
+   "start": 130.92,
+   "end": 131.16,
+   "prob": 0.98
+  },
+  {
+   "word": "can",
+   "start": 131.16,
+   "end": 131.38,
+   "prob": 0.985
+  },
+  {
+   "word": "talk",
+   "start": 131.38,
+   "end": 131.7,
+   "prob": 0.948
+  },
+  {
+   "word": "the",
+   "start": 131.7,
+   "end": 132.12,
+   "prob": 0.834
+  },
+  {
+   "word": "credits",
+   "start": 132.12,
+   "end": 132.84,
+   "prob": 0.504,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "back",
+   "start": 132.84,
+   "end": 133.82,
+   "prob": 0.841
+  },
+  {
+   "word": "No",
+   "start": 133.82,
+   "end": 134.18,
+   "prob": 0.192
+  },
+  {
+   "word": "rise",
+   "start": 134.18,
+   "end": 134.68,
+   "prob": 0.942
+  },
+  {
+   "word": "again",
+   "start": 134.68,
+   "end": 135.18,
+   "prob": 0.995
+  },
+  {
+   "word": "He",
+   "start": 135.3,
+   "end": 135.76,
+   "prob": 0.225
+  },
+  {
+   "word": "keeps",
+   "start": 135.76,
+   "end": 136.34,
+   "prob": 0.998
+  },
+  {
+   "word": "on",
+   "start": 136.34,
+   "end": 136.7,
+   "prob": 0.124
+  },
+  {
+   "word": "saying",
+   "start": 136.7,
+   "end": 137.52,
+   "prob": 0.94
+  },
+  {
+   "word": "But",
+   "start": 137.52,
+   "end": 138.58,
+   "prob": 0.904
+  },
+  {
+   "word": "the",
+   "start": 138.58,
+   "end": 138.82,
+   "prob": 0.99
+  },
+  {
+   "word": "paperwork",
+   "start": 138.82,
+   "end": 139.26,
+   "prob": 0.866
+  },
+  {
+   "word": "says",
+   "start": 139.26,
+   "end": 139.8,
+   "prob": 0.908
+  },
+  {
+   "word": "otherwise",
+   "start": 139.8,
+   "end": 140.56,
+   "prob": 0.985
+  },
+  {
+   "word": "You",
+   "start": 140.56,
+   "end": 141.38,
+   "prob": 0.881
+  },
+  {
+   "word": "can",
+   "start": 141.38,
+   "end": 141.62,
+   "prob": 0.998
+  },
+  {
+   "word": "binge",
+   "start": 141.62,
+   "end": 141.94,
+   "prob": 0.85,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "the",
+   "start": 141.94,
+   "end": 142.34,
+   "prob": 0.529
+  },
+  {
+   "word": "old",
+   "start": 142.34,
+   "end": 142.82,
+   "prob": 0.994
+  },
+  {
+   "word": "ones",
+   "start": 142.82,
+   "end": 143.26,
+   "prob": 0.987
+  },
+  {
+   "word": "on",
+   "start": 143.26,
+   "end": 143.66,
+   "prob": 0.24
+  },
+  {
+   "word": "your",
+   "start": 143.66,
+   "end": 144.08,
+   "prob": 0.984
+  },
+  {
+   "word": "couch",
+   "start": 144.08,
+   "end": 144.64,
+   "prob": 0.996
+  },
+  {
+   "word": "Quote",
+   "start": 144.64,
+   "end": 144.96,
+   "prob": 0.138,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "every",
+   "start": 144.96,
+   "end": 145.32,
+   "prob": 0.805
+  },
+  {
+   "word": "line",
+   "start": 145.32,
+   "end": 145.72,
+   "prob": 0.982
+  },
+  {
+   "word": "like",
+   "start": 145.72,
+   "end": 146.2,
+   "prob": 0.375
+  },
+  {
+   "word": "muscle",
+   "start": 146.2,
+   "end": 146.92,
+   "prob": 0.275,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "memory",
+   "start": 146.92,
+   "end": 147.86,
+   "prob": 0.985,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "But",
+   "start": 148.4,
+   "end": 148.82,
+   "prob": 0.53
+  },
+  {
+   "word": "the",
+   "start": 148.82,
+   "end": 149.08,
+   "prob": 0.985
+  },
+  {
+   "word": "new",
+   "start": 149.08,
+   "end": 149.4,
+   "prob": 0.805
+  },
+  {
+   "word": "one",
+   "start": 149.4,
+   "end": 149.6,
+   "prob": 0.756
+  },
+  {
+   "word": "stopped",
+   "start": 149.6,
+   "end": 150.06,
+   "prob": 0.63
+  },
+  {
+   "word": "at",
+   "start": 150.06,
+   "end": 150.72,
+   "prob": 0.848
+  },
+  {
+   "word": "the",
+   "start": 150.72,
+   "end": 150.92,
+   "prob": 0.985
+  },
+  {
+   "word": "doorstep",
+   "start": 150.92,
+   "end": 151.96,
+   "prob": 0.96
+  },
+  {
+   "word": "And",
+   "start": 151.96,
+   "end": 152.6,
+   "prob": 0.852
+  },
+  {
+   "word": "the",
+   "start": 152.6,
+   "end": 152.82,
+   "prob": 0.995
+  },
+  {
+   "word": "hallway",
+   "start": 152.82,
+   "end": 153.2,
+   "prob": 0.527
+  },
+  {
+   "word": "stays",
+   "start": 153.2,
+   "end": 153.78,
+   "prob": 0.986
+  },
+  {
+   "word": "empty",
+   "start": 153.78,
+   "end": 155.16,
+   "prob": 0.999
+  },
+  {
+   "word": "Futurama's",
+   "start": 158.76,
+   "end": 160.08,
+   "prob": 0.056,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 160.08,
+   "end": 160.62,
+   "prob": 0.241,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 160.62,
+   "end": 161.94,
+   "prob": 0.524,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 161.94,
+   "end": 162.64,
+   "prob": 0.992,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "For",
+   "start": 162.64,
+   "end": 163.0,
+   "prob": 0.593
+  },
+  {
+   "word": "real",
+   "start": 163.0,
+   "end": 163.3,
+   "prob": 0.988
+  },
+  {
+   "word": "this",
+   "start": 163.3,
+   "end": 163.7,
+   "prob": 0.783
+  },
+  {
+   "word": "time,",
+   "start": 163.7,
+   "end": 164.12,
+   "prob": 0.997
+  },
+  {
+   "word": "no",
+   "start": 164.36,
+   "end": 164.42,
+   "prob": 0.921
+  },
+  {
+   "word": "more",
+   "start": 164.42,
+   "end": 164.64,
+   "prob": 0.992
+  },
+  {
+   "word": "reruns",
+   "start": 164.64,
+   "end": 165.58,
+   "prob": 0.616
+  },
+  {
+   "word": "in",
+   "start": 165.58,
+   "end": 166.02,
+   "prob": 0.906
+  },
+  {
+   "word": "the",
+   "start": 166.02,
+   "end": 166.22,
+   "prob": 0.989
+  },
+  {
+   "word": "dark",
+   "start": 166.22,
+   "end": 166.54,
+   "prob": 0.273,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 166.54,
+   "end": 167.46,
+   "prob": 0.357,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 167.46,
+   "end": 168.0,
+   "prob": 0.993,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 168.0,
+   "end": 169.3,
+   "prob": 0.383,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 169.3,
+   "end": 169.72,
+   "prob": 0.985,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "No",
+   "start": 169.72,
+   "end": 169.9,
+   "prob": 0.84
+  },
+  {
+   "word": "fresh",
+   "start": 169.9,
+   "end": 170.34,
+   "prob": 0.958
+  },
+  {
+   "word": "episode,",
+   "start": 170.34,
+   "end": 171.14,
+   "prob": 0.365
+  },
+  {
+   "word": "that's",
+   "start": 171.16,
+   "end": 172.52,
+   "prob": 0.876
+  },
+  {
+   "word": "the",
+   "start": 172.52,
+   "end": 172.74,
+   "prob": 0.956
+  },
+  {
+   "word": "hard",
+   "start": 172.74,
+   "end": 173.16,
+   "prob": 0.376
+  },
+  {
+   "word": "part",
+   "start": 173.16,
+   "end": 173.9,
+   "prob": 0.996
+  },
+  {
+   "word": "Good",
+   "start": 173.9,
+   "end": 174.14,
+   "prob": 0.418
+  },
+  {
+   "word": "news,",
+   "start": 174.14,
+   "end": 174.52,
+   "prob": 0.993
+  },
+  {
+   "word": "everyone,",
+   "start": 174.74,
+   "end": 175.16,
+   "prob": 0.972
+  },
+  {
+   "word": "good",
+   "start": 175.34,
+   "end": 175.5,
+   "prob": 0.955
+  },
+  {
+   "word": "news,",
+   "start": 175.5,
+   "end": 176.22,
+   "prob": 1.0
+  },
+  {
+   "word": "everyone",
+   "start": 176.6,
+   "end": 177.12,
+   "prob": 0.981
+  },
+  {
+   "word": "The",
+   "start": 177.12,
+   "end": 177.54,
+   "prob": 0.471
+  },
+  {
+   "word": "ride",
+   "start": 177.54,
+   "end": 178.06,
+   "prob": 0.639
+  },
+  {
+   "word": "is",
+   "start": 178.06,
+   "end": 178.66,
+   "prob": 0.973
+  },
+  {
+   "word": "done,",
+   "start": 178.66,
+   "end": 178.98,
+   "prob": 0.981
+  },
+  {
+   "word": "the",
+   "start": 179.26,
+   "end": 179.36,
+   "prob": 0.969
+  },
+  {
+   "word": "ride",
+   "start": 179.36,
+   "end": 179.88,
+   "prob": 0.67
+  },
+  {
+   "word": "is",
+   "start": 179.88,
+   "end": 180.3,
+   "prob": 0.998
+  },
+  {
+   "word": "done",
+   "start": 180.3,
+   "end": 181.24,
+   "prob": 0.991
+  },
+  {
+   "word": "Good",
+   "start": 181.24,
+   "end": 181.54,
+   "prob": 0.004
+  },
+  {
+   "word": "news,",
+   "start": 181.54,
+   "end": 181.96,
+   "prob": 0.855
+  },
+  {
+   "word": "everyone,",
+   "start": 182.12,
+   "end": 182.42,
+   "prob": 0.872
+  },
+  {
+   "word": "good",
+   "start": 182.42,
+   "end": 182.86,
+   "prob": 0.288
+  },
+  {
+   "word": "news,",
+   "start": 182.86,
+   "end": 183.72,
+   "prob": 0.996
+  },
+  {
+   "word": "everyone",
+   "start": 184.02,
+   "end": 184.52,
+   "prob": 0.922
+  },
+  {
+   "word": "No",
+   "start": 184.52,
+   "end": 185.5,
+   "prob": 0.434
+  },
+  {
+   "word": "more",
+   "start": 185.5,
+   "end": 185.88,
+   "prob": 0.945
+  },
+  {
+   "word": "coming",
+   "start": 185.88,
+   "end": 186.52,
+   "prob": 0.943
+  },
+  {
+   "word": "on",
+   "start": 186.52,
+   "end": 187.46,
+   "prob": 0.406,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 188.24,
+   "end": 189.56,
+   "prob": 0.035,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 189.56,
+   "end": 190.22,
+   "prob": 0.116,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Futurama's",
+   "start": 190.4,
+   "end": 193.22,
+   "prob": 0.009,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "finished",
+   "start": 193.22,
+   "end": 194.06,
+   "prob": 0.998,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "For",
+   "start": 194.06,
+   "end": 195.76,
+   "prob": 0.169
+  },
+  {
+   "word": "real",
+   "start": 195.76,
+   "end": 197.06,
+   "prob": 0.958
+  },
+  {
+   "word": "this",
+   "start": 197.06,
+   "end": 197.76,
+   "prob": 0.767
+  },
+  {
+   "word": "time,",
+   "start": 197.76,
+   "end": 198.38,
+   "prob": 0.996
+  },
+  {
+   "word": "no",
+   "start": 198.38,
+   "end": 200.08,
+   "prob": 0.9
+  },
+  {
+   "word": "more",
+   "start": 200.08,
+   "end": 201.14,
+   "prob": 0.995
+  },
+  {
+   "word": "coming",
+   "start": 201.14,
+   "end": 202.76,
+   "prob": 0.989
+  },
+  {
+   "word": "on",
+   "start": 202.76,
+   "end": 204.72,
+   "prob": 0.989,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "No",
+   "start": 205.09,
+   "end": 205.66,
+   "prob": 0.969
+  },
+  {
+   "word": "more",
+   "start": 205.66,
+   "end": 206.04,
+   "prob": 0.935
+  },
+  {
+   "word": "coming",
+   "start": 206.04,
+   "end": 206.66,
+   "prob": 0.99
+  },
+  {
+   "word": "on",
+   "start": 206.66,
+   "end": 207.16,
+   "prob": 0.906,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "no",
+   "start": 207.46,
+   "end": 207.98,
+   "prob": 0.983
+  },
+  {
+   "word": "more",
+   "start": 207.98,
+   "end": 209.68,
+   "prob": 0.398
+  },
+  {
+   "word": "coming",
+   "start": 209.68,
+   "end": 210.18,
+   "prob": 0.827
+  },
+  {
+   "word": "on",
+   "start": 210.18,
+   "end": 210.75,
+   "prob": 0.98,
+   "note": "normalized mishear"
+  },
+  {
+   "word": "Good",
+   "start": 211.75,
+   "end": 212.69,
+   "prob": 0.006
+  },
+  {
+   "word": "news,",
+   "start": 212.69,
+   "end": 213.17,
+   "prob": 0.944
+  },
+  {
+   "word": "everyone,",
+   "start": 213.33,
+   "end": 213.89,
+   "prob": 0.962
+  },
+  {
+   "word": "good",
+   "start": 214.17,
+   "end": 214.71,
+   "prob": 0.174
+  },
+  {
+   "word": "news,",
+   "start": 214.71,
+   "end": 215.35,
+   "prob": 0.997
+  },
+  {
+   "word": "everyone",
+   "start": 215.75,
+   "end": 216.73,
+   "prob": 0.977
+  },
+  {
+   "word": "For",
+   "start": 217.75,
+   "end": 218.89,
+   "prob": 0.607
+  },
+  {
+   "word": "real",
+   "start": 218.89,
+   "end": 219.51,
+   "prob": 0.991
+  },
+  {
+   "word": "this",
+   "start": 219.51,
+   "end": 220.01,
+   "prob": 0.954
+  },
+  {
+   "word": "time",
+   "start": 220.01,
+   "end": 220.77,
+   "prob": 0.999
+  },
+  {
+   "word": "For",
+   "start": 220.77,
+   "end": 222.81,
+   "prob": 0.457
+  },
+  {
+   "word": "real",
+   "start": 222.81,
+   "end": 233.63,
+   "prob": 0.914
+  },
+  {
+   "word": "this",
+   "start": 233.63,
+   "end": 237.51,
+   "prob": 0.983
+  },
+  {
+   "word": "time",
+   "start": 237.51,
+   "end": 238.03,
+   "prob": 0.998
+  }
+ ]
+}

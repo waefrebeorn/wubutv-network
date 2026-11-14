@@ -1,0 +1,28 @@
+MV-2 v7 DELIVERED 2026-11-12 (Q6 restage + re-cut; parent-finished after recovery coordinator 2293be03 was cancelled 14:06:51 EST with gates/ledger/flag/report undone — no re-assembly, no re-encode).
+
+House master: masters/mv2_toll_roads_are_dumb_v7_16x9.mp4
+  md5 701fa50b19f6697fb37511dec6f932eb, 82,739,324 B, 6432f decode-counted, 268.010s,
+  h264 1280x720 24fps, AAC 48k stereo, SEI crf=18.0, faststart.
+Chat copy: masters/mv2_toll_roads_are_dumb_v7_16x9_chat.mp4
+  md5 050161faa8ee5941c1abefdad77ac74c, 32,701,938 B, 6432f, audio PCM md5 == house.
+Gates ALL PASS (parent): audio agreement vs track.mp3 min corr 0.9981 (10 windows);
+motion PASS, no new frozen runs (1 inherited 18f run @184.96-185.67s, frame-identical to v6;
+S07 run eliminated by t2); mouths OPEN at all three swap onsets (full-res eye reads);
+captions 396 events, 0 double-backslash lines. v6 untouched (md5 b2d386bf re-verified).
+
+Disclosed:
+- S21 t1 drops the second "to" (song word "to" 211.18-212.60 unmouthed; caption carries it) —
+  same micro-gap class as the v6final take.
+- Kinetic highlight leads the word by ~0.1s (styling, within tolerance).
+- Encode preset medium (v6 used veryfast).
+- Frame-count fix: first v7 silent build was 6448f (fps rounding trap, same as v6's first 6445f);
+  fixed via tpad clone + -frames:v; how v6 landed exactly 6432f remains unexplained.
+- S25 t2 wears a white bowtie + orange-red pocket square, not the bible's BONE shirt +
+  CADMIUM square (pre-existing v2-era take drift; re-cut reuses the same take).
+- Double-revive incident: 7 videos fired vs cap 3 (both detectors fired on ccfb1530's death);
+  collision repaired, md5-verified; q6b alternates on disk (S21 q6b t1 14/14 — the only
+  full S21 in the catalogue).
+- Section boundaries: NO MOVES — v6 cutlist already exact vs measured words; the audit's
+  "early/late" numbers described the prepro grid + timeline estimates, not the cutlist.
+
+Q6 CLOSED. MV-2 lyrics redo chains next, on the v7 base.

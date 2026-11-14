@@ -1,0 +1,5 @@
+# F16_v2 — verdict: PASS (re-fire of F16.jpg; snapshot a1326acd-ab1d-4525-9685-f7d00ff744fb:o33h7x)
+# File: work/rebuild/stills/F16_v2.jpg — 2048x1152 JPG — md5 1f8cd39fcb98b3ca8a616631fd841140
+# (a) Adult face: long mature face, defined cheekbones/jaw, dark-brown braid over shoulder — matches F_HERO_TEST_v2, no round youthful cheeks or big wide eyes. (b) Wardrobe: full layered TP breastplate over long-sleeved white tunic, TP-roll belt, full-length white trousers, white boots, yellow gloves — no bare midriff/thighs (minor nit: small V of skin at the collar only).
+# (c) Scene matches still_notes_C F16: scaffold vs white ornate porcelain palace wall, giant glossy chocolate smear half-wiped white with large TP sheet, fresh brown ribbon curling back at far right edge, spare rolls on scaffold. (d) No text, no logos; palette porcelain white + warm gold + chocolate brown, yellow only in gloves.
+# Replaces F16.jpg for Stage 4 (F16.jpg retained as failed reference — do not use). No children/minors anywhere in frame.

@@ -1,0 +1,2405 @@
+{
+ "clips": [
+  {
+   "label": "FILLER",
+   "take": "mv2_s22_t3.mp4",
+   "out": [
+    0.0,
+    4.44
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "S01",
+   "take": "mv2_s01_t4.mp4",
+   "out": [
+    4.44,
+    14.0729
+   ],
+   "factor": 1.038,
+   "song_words": "Yeah. Listen here, baby. Those shiny roads ain't what they seem.",
+   "mouth_words": "yeah listen here baby those shiny roads ain't what they seem",
+   "matched": 1,
+   "offset_median_frames": "median -3f",
+   "offset_range_frames": "-17..10f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Yeah. Listen here, baby. Those shiny roads ain't what they seem.",
+     "mouth": "yeah listen here baby those shiny roads ain't what they seem"
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s22_t3.mp4",
+   "out": [
+    14.0729,
+    15.4529
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s23_t9.mp4",
+   "out": [
+    15.4529,
+    18.9499
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "S02",
+   "take": "mv2_s02_t4.mp4",
+   "out": [
+    18.9499,
+    27.9521
+   ],
+   "factor": 1.111,
+   "song_words": "They build the toll roads, baby, make your pay. The roll -old plasers make you stop, then they make you go. Cars",
+   "mouth_words": "they build the toll roads you pay the road old plazas make you stop then make you go",
+   "matched": 4,
+   "offset_median_frames": "median 5f",
+   "offset_range_frames": "-2..12f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "They build the toll roads,",
+     "mouth": "they build the toll roads"
+    },
+    {
+     "op": "REPLACE",
+     "song": "baby, make your",
+     "mouth": "you",
+     "song_span": [
+      22.1,
+      22.9
+     ],
+     "mouth_span": [
+      22.77,
+      22.96
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "pay. The",
+     "mouth": "pay the"
+    },
+    {
+     "op": "REPLACE",
+     "song": "roll -old",
+     "mouth": "road old",
+     "song_span": [
+      23.5,
+      24.36
+     ],
+     "mouth_span": [
+      23.49,
+      24.93
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "plasers make you stop, then",
+     "mouth": "plazas make you stop then"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "they",
+     "song_span": [
+      26.18,
+      26.36
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "make you go.",
+     "mouth": "make you go"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Cars",
+     "song_span": [
+      27.34,
+      28.36
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s23_t9.mp4",
+   "out": [
+    27.9521,
+    29.2601
+   ],
+   "factor": 1.0,
+   "song_words": "Cars slam the bricks,",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Cars slam the bricks,",
+     "song_span": [
+      27.34,
+      29.22
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r3_t7.mp4",
+   "out": [
+    29.2601,
+    34.0681
+   ],
+   "factor": 1.0,
+   "song_words": "the back -ends crash and smash. NTSB said those booths were the worst on the map.",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "the back -ends crash and smash. NTSB said those booths were the worst on the map.",
+     "song_span": [
+      29.36,
+      34.32
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r6_t7.mp4",
+   "out": [
+    34.0681,
+    34.96
+   ],
+   "factor": 1.0,
+   "song_words": "map. Now they got",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "map. Now they got",
+     "song_span": [
+      34.02,
+      34.96
+     ]
+    }
+   ]
+  },
+  {
+   "label": "GAP-A",
+   "take": "mv2_s04_t1.mp4",
+   "out": [
+    34.96,
+    41.5313
+   ],
+   "factor": 1.47,
+   "song_words": "the flaselines, the rich ones fly on by while the rest of us crawl. Watchin' money flash by,",
+   "mouth_words": "the fast lanes the rich ones fly on by while the rest of us crawl watching money flash by",
+   "matched": 2,
+   "offset_median_frames": "median 2f",
+   "offset_range_frames": "-8..10f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "the",
+     "mouth": "the"
+    },
+    {
+     "op": "REPLACE",
+     "song": "flaselines,",
+     "mouth": "fast lanes",
+     "song_span": [
+      35.14,
+      35.7
+     ],
+     "mouth_span": [
+      35.11,
+      35.78
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "the rich ones fly on by while the rest of us crawl. Watchin' money flash by,",
+     "mouth": "the rich ones fly on by while the rest of us crawl watching money flash by"
+    }
+   ]
+  },
+  {
+   "label": "S04",
+   "take": "mv2_s04_t5.mp4",
+   "out": [
+    41.5313,
+    50.3537
+   ],
+   "factor": 1.027,
+   "song_words": "weavein' weave out the speeds, don't match it all. One car's racing, the other ones about to fall.",
+   "mouth_words": "weave the speeds don't match at all one car's racing the other one's about to fall",
+   "matched": 4,
+   "offset_median_frames": "median 1f",
+   "offset_range_frames": "-12..6f",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "weavein'",
+     "song_span": [
+      41.9,
+      42.56
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "weave",
+     "mouth": "weave"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "out",
+     "song_span": [
+      42.76,
+      43.14
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "the speeds, don't match",
+     "mouth": "the speeds don't match"
+    },
+    {
+     "op": "REPLACE",
+     "song": "it",
+     "mouth": "at",
+     "song_span": [
+      44.36,
+      44.62
+     ],
+     "mouth_span": [
+      43.96,
+      44.26
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "all. One car's racing, the other",
+     "mouth": "all one car's racing the other"
+    },
+    {
+     "op": "REPLACE",
+     "song": "ones",
+     "mouth": "one's",
+     "song_span": [
+      47.54,
+      48.06
+     ],
+     "mouth_span": [
+      47.8,
+      48.38
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "about to fall.",
+     "mouth": "about to fall"
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r6_t7.mp4",
+   "out": [
+    50.3537,
+    50.8398
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "S05",
+   "take": "mv2_s05_t6.mp4",
+   "out": [
+    50.84,
+    53.1914
+   ],
+   "factor": 1.896,
+   "song_words": "Toe roads are done,",
+   "mouth_words": "tall roads are dumb",
+   "matched": 1,
+   "offset_median_frames": "median 0f",
+   "offset_range_frames": "-4..0f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "tall roads are dumb"
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s26_t2.mp4",
+   "out": [
+    53.1914,
+    57.92
+   ],
+   "factor": 1.0,
+   "song_words": "baby. Toe roads are done.",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby. Toe roads are done.",
+     "song_span": [
+      53.22,
+      56.46
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S06a",
+   "take": "mv2_s06a_t2.mp4",
+   "out": [
+    57.92,
+    65.02
+   ],
+   "factor": 1.12,
+   "song_words": "Fast lanes make crashes, the wrecks just come.",
+   "mouth_words": "fast lanes make crashes the wrecks just come",
+   "matched": 1,
+   "offset_median_frames": "median 11f",
+   "offset_range_frames": "3..18f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Fast lanes make crashes, the wrecks just come.",
+     "mouth": "fast lanes make crashes the wrecks just come"
+    }
+   ]
+  },
+  {
+   "label": "S06b",
+   "take": "mv2_s06b_t1.mp4",
+   "out": [
+    65.02,
+    71.45
+   ],
+   "factor": 1.029,
+   "song_words": "Pay to go faster to the rest of us slow.",
+   "mouth_words": "pay to go faster the rest of us slow",
+   "matched": 2,
+   "offset_median_frames": "median 0f",
+   "offset_range_frames": "-1..5f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Pay to go faster",
+     "mouth": "pay to go faster"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "to",
+     "song_span": [
+      67.48,
+      68.04
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "the rest of us slow.",
+     "mouth": "the rest of us slow"
+    }
+   ]
+  },
+  {
+   "label": "S07",
+   "take": "mv2_s07_t2.mp4",
+   "out": [
+    71.45,
+    81.7665
+   ],
+   "factor": 0.816,
+   "song_words": "We've been slamming the danger roads. Toe roads are done, baby.",
+   "mouth_words": "weaving and slamming danger grows toll roads are done",
+   "matched": 3,
+   "offset_median_frames": "median -6f",
+   "offset_range_frames": "-25..14f",
+   "ops": [
+    {
+     "op": "REPLACE",
+     "song": "We've been",
+     "mouth": "weaving and",
+     "song_span": [
+      72.28,
+      73.24
+     ],
+     "mouth_span": [
+      72.28,
+      74.09
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "slamming",
+     "mouth": "slamming"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "the",
+     "song_span": [
+      74.86,
+      75.9
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "danger",
+     "mouth": "danger"
+    },
+    {
+     "op": "REPLACE",
+     "song": "roads.",
+     "mouth": "grows",
+     "song_span": [
+      76.78,
+      77.68
+     ],
+     "mouth_span": [
+      76.42,
+      77.23
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "toll roads are done"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby.",
+     "song_span": [
+      81.2,
+      81.42
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s26_t2.mp4",
+   "out": [
+    81.7665,
+    84.3378
+   ],
+   "factor": 1.0,
+   "song_words": "Toe roads are done.",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Toe roads are done.",
+     "song_span": [
+      82.28,
+      84.64
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s09_t2_warped.mp4",
+   "out": [
+    84.3378,
+    88.48
+   ],
+   "factor": 1.0,
+   "song_words": "done. Fast lanes make crashes,",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "done. Fast lanes make crashes,",
+     "song_span": [
+      84.0,
+      88.48
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S08",
+   "take": "mv2_s08_t9.mp4",
+   "out": [
+    88.48,
+    93.1
+   ],
+   "factor": 1.056,
+   "song_words": "they just keep comin'.",
+   "mouth_words": "they just keep coming",
+   "matched": 1,
+   "offset_median_frames": "median 18f",
+   "offset_range_frames": "7..27f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "they just keep comin'.",
+     "mouth": "they just keep coming"
+    }
+   ]
+  },
+  {
+   "label": "S09",
+   "take": "mv2_s09_t2_warped.mp4",
+   "out": [
+    93.1,
+    96.8
+   ],
+   "factor": 1.259,
+   "song_words": "Express lanes look clean, but the merges get high.",
+   "mouth_words": "express lanes look clean merges get hot",
+   "matched": 2,
+   "offset_median_frames": "median 4f",
+   "offset_range_frames": "-3..8f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Express lanes look clean,",
+     "mouth": "express lanes look clean"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "but the",
+     "song_span": [
+      95.12,
+      95.48
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "merges get",
+     "mouth": "merges get"
+    },
+    {
+     "op": "REPLACE",
+     "song": "high.",
+     "mouth": "hot",
+     "song_span": [
+      96.14,
+      96.42
+     ],
+     "mouth_span": [
+      96.02,
+      96.42
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S10",
+   "take": "mv2_s10_t6.mp4",
+   "out": [
+    96.8,
+    103.72
+   ],
+   "factor": 1.113,
+   "song_words": "Speed up, cut over. Somebody gets caught, they say the paid side is safer. The free side takes the hit,",
+   "mouth_words": "speed up cut over somebody gets caught",
+   "matched": 1,
+   "offset_median_frames": "median 4f",
+   "offset_range_frames": "0..11f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Speed up, cut over. Somebody gets caught,",
+     "mouth": "speed up cut over somebody gets caught"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "they say the paid side is safer. The free side takes the hit,",
+     "song_span": [
+      100.26,
+      103.6
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S11",
+   "take": "mv2_s11_t2.mp4",
+   "out": [
+    103.72,
+    111.3
+   ],
+   "factor": 0.94,
+   "song_words": "crashes just move over. Still the same old mess, lexus lanes they call them. Money buys the clear,",
+   "mouth_words": "crash is just move over same oldness money buys the clear",
+   "matched": 3,
+   "offset_median_frames": "median 9f",
+   "offset_range_frames": "-19..15f",
+   "ops": [
+    {
+     "op": "REPLACE",
+     "song": "crashes",
+     "mouth": "crash is",
+     "song_span": [
+      103.72,
+      104.14
+     ],
+     "mouth_span": [
+      103.72,
+      104.57
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "just move over.",
+     "mouth": "just move over"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Still the",
+     "song_span": [
+      105.86,
+      106.56
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "same",
+     "mouth": "same"
+    },
+    {
+     "op": "REPLACE",
+     "song": "old mess, lexus lanes they call them.",
+     "mouth": "oldness",
+     "song_span": [
+      106.98,
+      109.52
+     ],
+     "mouth_span": [
+      107.42,
+      108.72
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "Money buys the clear,",
+     "mouth": "money buys the clear"
+    }
+   ]
+  },
+  {
+   "label": "S12",
+   "take": "mv2_s12_t3.mp4",
+   "out": [
+    111.3,
+    120.9959
+   ],
+   "factor": 1.031,
+   "song_words": "poor folks sit in traffic while the rich ones disappear. Stop and go plasers used to kill and electronic helps a bit. But the split still creates the chaos that won't",
+   "mouth_words": "poor folks sit in traffic rich disappear stop and go plazas split creates chaos",
+   "matched": 6,
+   "offset_median_frames": "median 37f",
+   "offset_range_frames": "-2..57f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "poor folks sit in traffic",
+     "mouth": "poor folks sit in traffic"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "while the",
+     "song_span": [
+      112.68,
+      113.1
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "rich",
+     "mouth": "rich"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "ones",
+     "song_span": [
+      113.34,
+      113.62
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "disappear. Stop and go plasers",
+     "mouth": "disappear stop and go plazas"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "used to kill and electronic helps a bit. But the",
+     "song_span": [
+      115.6,
+      118.18
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "split",
+     "mouth": "split"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "still",
+     "song_span": [
+      118.4,
+      118.76
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "creates",
+     "mouth": "creates"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "the",
+     "song_span": [
+      119.26,
+      119.74
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "chaos",
+     "mouth": "chaos"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "that won't",
+     "song_span": [
+      120.22,
+      121.52
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s09_t2_warped.mp4",
+   "out": [
+    120.9959,
+    121.9657
+   ],
+   "factor": 1.0,
+   "song_words": "won't quit.",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "won't quit.",
+     "song_span": [
+      120.92,
+      121.76
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s10_t6.mp4",
+   "out": [
+    121.9657,
+    122.92
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "S13",
+   "take": "mv2_s13_t3.mp4",
+   "out": [
+    122.92,
+    125.1298
+   ],
+   "factor": 2.395,
+   "song_words": "Toe roads are done, baby.",
+   "mouth_words": "tall roads are dumb",
+   "matched": 1,
+   "offset_median_frames": "median 0f",
+   "offset_range_frames": "-2..0f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "tall roads are dumb"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby.",
+     "song_span": [
+      124.92,
+      125.16
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s10_t6.mp4",
+   "out": [
+    125.1298,
+    128.76
+   ],
+   "factor": 1.0,
+   "song_words": "baby. Toe roads are done,",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby. Toe roads are done,",
+     "song_span": [
+      124.92,
+      128.12
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S14",
+   "take": "mv2_s14_t1.mp4",
+   "out": [
+    128.76,
+    136.26
+   ],
+   "factor": 1.145,
+   "song_words": "fast lanes make crashes, the wrecks just come.",
+   "mouth_words": "files lanes make crashes rex just comes",
+   "matched": 2,
+   "offset_median_frames": "median 2f",
+   "offset_range_frames": "-7..11f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "fast lanes make crashes,",
+     "mouth": "files lanes make crashes"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "the",
+     "song_span": [
+      133.02,
+      133.64
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "wrecks just",
+     "mouth": "rex just"
+    },
+    {
+     "op": "REPLACE",
+     "song": "come.",
+     "mouth": "comes",
+     "song_span": [
+      134.6,
+      135.22
+     ],
+     "mouth_span": [
+      134.75,
+      135.22
+     ]
+    }
+   ]
+  },
+  {
+   "label": "R1",
+   "take": "mv2_r1_t3.mp4",
+   "out": [
+    136.26,
+    144.08
+   ],
+   "factor": 0.918,
+   "song_words": "Pay to go faster to the rest of us slow.",
+   "mouth_words": "paid to go faster the rest of us slow",
+   "matched": 2,
+   "offset_median_frames": "median 2f",
+   "offset_range_frames": "-11..4f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Pay to go faster",
+     "mouth": "paid to go faster"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "to",
+     "song_span": [
+      139.2,
+      140.22
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "the rest of us slow.",
+     "mouth": "the rest of us slow"
+    }
+   ]
+  },
+  {
+   "label": "R2",
+   "take": "mv2_r2_t1.mp4",
+   "out": [
+    144.08,
+    150.48
+   ],
+   "factor": 0.829,
+   "song_words": "We've been slamming the danger roads.",
+   "mouth_words": "we've been slamming the danger roads",
+   "matched": 1,
+   "offset_median_frames": "median 7f",
+   "offset_range_frames": "-15..17f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "We've been slamming the danger roads.",
+     "mouth": "we've been slamming the danger roads"
+    }
+   ]
+  },
+  {
+   "label": "R3",
+   "take": "mv2_r3_t4_warped.mp4",
+   "out": [
+    150.48,
+    153.74
+   ],
+   "factor": 1.25,
+   "song_words": "Toe roads are done, baby.",
+   "mouth_words": "tall roads are done",
+   "matched": 1,
+   "offset_median_frames": "median -2f",
+   "offset_range_frames": "-7..1f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "tall roads are done"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby.",
+     "song_span": [
+      152.92,
+      153.16
+     ]
+    }
+   ]
+  },
+  {
+   "label": "R4",
+   "take": "mv2_r4_t2_warped.mp4",
+   "out": [
+    153.74,
+    157.34
+   ],
+   "factor": 1.041,
+   "song_words": "Toe roads are done.",
+   "mouth_words": "tall roads are done",
+   "matched": 1,
+   "offset_median_frames": "median -5f",
+   "offset_range_frames": "-8..-2f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Toe roads are done.",
+     "mouth": "tall roads are done"
+    }
+   ]
+  },
+  {
+   "label": "R5",
+   "take": "mv2_r5_t3.mp4",
+   "out": [
+    157.34,
+    160.2
+   ],
+   "factor": 1.133,
+   "song_words": "Fast lanes make crashes,",
+   "mouth_words": "fast lanes make crashes",
+   "matched": 1,
+   "offset_median_frames": "median 2f",
+   "offset_range_frames": "-2..2f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Fast lanes make crashes,",
+     "mouth": "fast lanes make crashes"
+    }
+   ]
+  },
+  {
+   "label": "S15",
+   "take": "mv2_s15_t2_warped.mp4",
+   "out": [
+    160.2,
+    165.92
+   ],
+   "factor": 0.8,
+   "song_words": "they just keep comin'. They",
+   "mouth_words": "they just keep coming",
+   "matched": 1,
+   "offset_median_frames": "median 0f",
+   "offset_range_frames": "-8..4f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "they just keep comin'.",
+     "mouth": "they just keep coming"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "They",
+     "song_span": [
+      165.34,
+      165.92
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S16",
+   "take": "mv2_s16_t7_warped.mp4",
+   "out": [
+    165.92,
+    169.62
+   ],
+   "factor": 1.245,
+   "song_words": "sell your speed for $1 and a dime, but the",
+   "mouth_words": "sell you speed for a dollar and a dime",
+   "matched": 3,
+   "offset_median_frames": "median 4f",
+   "offset_range_frames": "0..9f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "sell",
+     "mouth": "sell"
+    },
+    {
+     "op": "REPLACE",
+     "song": "your",
+     "mouth": "you",
+     "song_span": [
+      166.16,
+      166.32
+     ],
+     "mouth_span": [
+      166.14,
+      166.37
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "speed for",
+     "mouth": "speed for"
+    },
+    {
+     "op": "MOUTH-ONLY (extra/spill)",
+     "mouth": "a",
+     "mouth_span": [
+      167.25,
+      167.53
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "$1 and a dime,",
+     "mouth": "dollar and a dime"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "but the",
+     "song_span": [
+      169.06,
+      169.62
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S17",
+   "take": "mv2_s17_t2_warped.mp4",
+   "out": [
+    169.62,
+    175.22
+   ],
+   "factor": 1.25,
+   "song_words": "road gets meaner every single time. One lane's flying, the other one's stuck.",
+   "mouth_words": "road gets meaner every time one lane flying other stuck",
+   "matched": 4,
+   "offset_median_frames": "median 2f",
+   "offset_range_frames": "-18..16f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "road gets meaner every",
+     "mouth": "road gets meaner every"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "single",
+     "song_span": [
+      171.54,
+      172.04
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "time. One lane's flying,",
+     "mouth": "time one lane flying"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "the",
+     "song_span": [
+      174.18,
+      174.3
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "other",
+     "mouth": "other"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "one's",
+     "song_span": [
+      174.48,
+      175.1
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "stuck.",
+     "mouth": "stuck"
+    }
+   ]
+  },
+  {
+   "label": "S18",
+   "take": "mv2_s18_t1_warped.mp4",
+   "out": [
+    175.22,
+    184.7693
+   ],
+   "factor": 0.802,
+   "song_words": "Somebody's gonna get it when the time ends up. Toe roads are done, toe",
+   "mouth_words": "somebody's going to get it when timings up oh toll roads are down",
+   "matched": 4,
+   "offset_median_frames": "median -3f",
+   "offset_range_frames": "-11..5f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Somebody's",
+     "mouth": "somebody's"
+    },
+    {
+     "op": "REPLACE",
+     "song": "gonna",
+     "mouth": "going to",
+     "song_span": [
+      176.52,
+      176.72
+     ],
+     "mouth_span": [
+      175.97,
+      176.79
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "get it when",
+     "mouth": "get it when"
+    },
+    {
+     "op": "REPLACE",
+     "song": "the time ends",
+     "mouth": "timings",
+     "song_span": [
+      177.56,
+      178.6
+     ],
+     "mouth_span": [
+      177.69,
+      178.76
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "up.",
+     "mouth": "up"
+    },
+    {
+     "op": "MOUTH-ONLY (extra/spill)",
+     "mouth": "oh",
+     "mouth_span": [
+      179.58,
+      179.98
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "toll roads are down"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "toe",
+     "song_span": [
+      183.04,
+      184.78
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_s10_t6.mp4",
+   "out": [
+    184.7693,
+    185.3527
+   ],
+   "factor": 1.0,
+   "song_words": "toe roads are",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "toe roads are",
+     "song_span": [
+      183.04,
+      185.58
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r5_t3.mp4",
+   "out": [
+    185.3527,
+    186.56
+   ],
+   "factor": 1.0,
+   "song_words": "are done,",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "are done,",
+     "song_span": [
+      185.3,
+      186.46
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S19",
+   "take": "mv2_s19_t2_warped.mp4",
+   "out": [
+    186.56,
+    193.99
+   ],
+   "factor": 0.816,
+   "song_words": "fast lanes make crashes, the wrecks just come.",
+   "mouth_words": "fast lanes make crashes wrecks just come",
+   "matched": 2,
+   "offset_median_frames": "median -4f",
+   "offset_range_frames": "-14..7f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "fast lanes make crashes,",
+     "mouth": "fast lanes make crashes"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "the",
+     "song_span": [
+      190.62,
+      191.6
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "wrecks just come.",
+     "mouth": "wrecks just come"
+    }
+   ]
+  },
+  {
+   "label": "S20",
+   "take": "mv2_s20_t2_warped.mp4",
+   "out": [
+    193.99,
+    197.458
+   ],
+   "factor": 1.25,
+   "song_words": "Toe roads are done, baby.",
+   "mouth_words": "toll roads are done",
+   "matched": 1,
+   "offset_median_frames": "median 3f",
+   "offset_range_frames": "-1..4f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "toll roads are done"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby.",
+     "song_span": [
+      197.14,
+      197.22
+     ]
+    }
+   ]
+  },
+  {
+   "label": "R6",
+   "take": "mv2_r6_t4_warped.mp4",
+   "out": [
+    197.458,
+    203.2824
+   ],
+   "factor": 1.25,
+   "song_words": "Toe roads are done, fast lanes make crashes,",
+   "mouth_words": "roads are done",
+   "matched": 1,
+   "offset_median_frames": "median 2f",
+   "offset_range_frames": "1..3f",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Toe",
+     "song_span": [
+      198.0,
+      198.64
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "roads are done,",
+     "mouth": "roads are done"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "fast lanes make crashes,",
+     "song_span": [
+      201.1,
+      204.24
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r5_t3.mp4",
+   "out": [
+    203.2824,
+    205.2
+   ],
+   "factor": 1.0,
+   "song_words": "crashes,",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "crashes,",
+     "song_span": [
+      203.04,
+      204.24
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S21",
+   "take": "mv2_s21_t2.mp4",
+   "out": [
+    205.2,
+    214.44
+   ],
+   "factor": 0.994,
+   "song_words": "The wrecks just come. Pay to go faster to the rest of us slow.",
+   "mouth_words": "the road gets meaner every single time the wrecks just come pay to go faster to the rest of us slow",
+   "matched": 1,
+   "offset_median_frames": "median 50f",
+   "offset_range_frames": "2..92f",
+   "ops": [
+    {
+     "op": "MOUTH-ONLY (extra/spill)",
+     "mouth": "the road gets meaner every single time",
+     "mouth_span": [
+      205.2,
+      208.38
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "The wrecks just come. Pay to go faster to the rest of us slow.",
+     "mouth": "the wrecks just come pay to go faster to the rest of us slow"
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r5_t3.mp4",
+   "out": [
+    214.44,
+    216.06
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "R8",
+   "take": "mv2_r8_t1.mp4",
+   "out": [
+    216.06,
+    222.13
+   ],
+   "factor": 1.042,
+   "song_words": "We've been slamming the danger roads.",
+   "mouth_words": "we've been slamming the danger roads",
+   "matched": 1,
+   "offset_median_frames": "median 8f",
+   "offset_range_frames": "-3..19f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "We've been slamming the danger roads.",
+     "mouth": "we've been slamming the danger roads"
+    }
+   ]
+  },
+  {
+   "label": "S22",
+   "take": "mv2_s22_t4_warped.mp4",
+   "out": [
+    222.13,
+    230.22
+   ],
+   "factor": 0.8,
+   "song_words": "Toe roads are done, toe roads, the fast lanes make crashes, the wrecks just come.",
+   "mouth_words": "roads are done",
+   "matched": 1,
+   "offset_median_frames": "median -15f",
+   "offset_range_frames": "-26..-1f",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Toe",
+     "song_span": [
+      222.44,
+      223.44
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "roads are done,",
+     "mouth": "roads are done"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "toe roads, the fast lanes make crashes, the wrecks just come.",
+     "song_span": [
+      224.92,
+      230.22
+     ]
+    }
+   ]
+  },
+  {
+   "label": "S23",
+   "take": "mv2_s23_t4_warped.mp4",
+   "out": [
+    230.22,
+    236.8179
+   ],
+   "factor": 1.2125,
+   "song_words": "Toe roads are done, baby. Toe",
+   "mouth_words": "toll roads are done",
+   "matched": 1,
+   "offset_median_frames": "median 6f",
+   "offset_range_frames": "0..7f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Toe roads are done,",
+     "mouth": "toll roads are done"
+    },
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "baby. Toe",
+     "song_span": [
+      232.14,
+      237.4
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r5_t3.mp4",
+   "out": [
+    236.8179,
+    238.8331
+   ],
+   "factor": 1.0,
+   "song_words": "Toe roads are done.",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": [
+    {
+     "op": "SONG-ONLY (mouth skips)",
+     "song": "Toe roads are done.",
+     "song_span": [
+      236.62,
+      238.82
+     ]
+    }
+   ]
+  },
+  {
+   "label": "FILLER",
+   "take": "mv2_r4_t2_warped.mp4",
+   "out": [
+    238.8331,
+    242.3
+   ],
+   "factor": 1.0,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  },
+  {
+   "label": "R11",
+   "take": "mv2_r11_t4.mp4",
+   "out": [
+    242.3,
+    243.24
+   ],
+   "factor": 0.923,
+   "song_words": "Yeah,",
+   "mouth_words": "yeah",
+   "matched": 1,
+   "offset_median_frames": "median 0f",
+   "offset_range_frames": "0..0f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "Yeah,",
+     "mouth": "yeah"
+    }
+   ]
+  },
+  {
+   "label": "S24",
+   "take": "mv2_s24_t1.mp4",
+   "out": [
+    243.24,
+    251.08
+   ],
+   "factor": 1.061,
+   "song_words": "don't pay for the fast lane, honey. It ain't worth the crash.",
+   "mouth_words": "don't pay for the fast lane honey it ain't worth the crash",
+   "matched": 1,
+   "offset_median_frames": "median 15f",
+   "offset_range_frames": "-20..33f",
+   "ops": [
+    {
+     "op": "equal",
+     "song": "don't pay for the fast lane, honey. It ain't worth the crash.",
+     "mouth": "don't pay for the fast lane honey it ain't worth the crash"
+    }
+   ]
+  },
+  {
+   "label": "S25",
+   "take": "mv2_s25_t2.mp4",
+   "out": [
+    251.08,
+    257.82
+   ],
+   "factor": 1.111,
+   "song_words": "Toe roads are done.",
+   "mouth_words": "the toll roads are done",
+   "matched": 1,
+   "offset_median_frames": "median 1f",
+   "offset_range_frames": "-1..6f",
+   "ops": [
+    {
+     "op": "MOUTH-ONLY (extra/spill)",
+     "mouth": "the",
+     "mouth_span": [
+      251.08,
+      251.21
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "Toe roads are done.",
+     "mouth": "toll roads are done"
+    }
+   ]
+  },
+  {
+   "label": "S26",
+   "take": "mv2_s26_t2.mp4",
+   "out": [
+    257.82,
+    260.8
+   ],
+   "factor": 0.906,
+   "song_words": "Toe roads are done.",
+   "mouth_words": "the toll roads are dumb",
+   "matched": 1,
+   "offset_median_frames": "median 0f",
+   "offset_range_frames": "-4..4f",
+   "ops": [
+    {
+     "op": "MOUTH-ONLY (extra/spill)",
+     "mouth": "the",
+     "mouth_span": [
+      257.82,
+      257.97
+     ]
+    },
+    {
+     "op": "equal",
+     "song": "Toe roads are done.",
+     "mouth": "toll roads are dumb"
+    }
+   ]
+  },
+  {
+   "label": "S27-tail",
+   "take": "mv2_s27_t2.mp4",
+   "out": [
+    260.8,
+    268.01
+   ],
+   "factor": 0.977,
+   "song_words": "",
+   "mouth_words": "",
+   "matched": 0,
+   "offset_median_frames": "n/a",
+   "offset_range_frames": "",
+   "ops": []
+  }
+ ],
+ "captions": [
+  {
+   "cue": "Yeah\u2026 listen here, baby.",
+   "interval": [
+    0.0,
+    8.0
+   ],
+   "first_song_word_at": 4.44,
+   "last_song_word_end": 8.3,
+   "caption_leads_first_word_s": 4.44,
+   "caption_outlives_last_word_s": -0.3,
+   "foreign_song_words_in_interval": "Yeah.",
+   "cue_words_with_no_song_word": "yeah\u2026 baby"
+  },
+  {
+   "cue": "Those shiny roads ain't what they seem.",
+   "interval": [
+    8.0,
+    12.5
+   ],
+   "first_song_word_at": 7.96,
+   "last_song_word_end": 12.64,
+   "caption_leads_first_word_s": -0.04,
+   "caption_outlives_last_word_s": -0.14,
+   "foreign_song_words_in_interval": "here, baby.",
+   "cue_words_with_no_song_word": "they seem"
+  },
+  {
+   "cue": "They build the toll roads, baby, make you pay to roll,",
+   "interval": [
+    12.5,
+    23.0
+   ],
+   "first_song_word_at": 12.44,
+   "last_song_word_end": 23.24,
+   "caption_leads_first_word_s": -0.06,
+   "caption_outlives_last_word_s": -0.24,
+   "foreign_song_words_in_interval": "what seem. your",
+   "cue_words_with_no_song_word": "you to roll"
+  },
+  {
+   "cue": "Old plazas make you stop, then they make you go.",
+   "interval": [
+    23.0,
+    28.0
+   ],
+   "first_song_word_at": 22.9,
+   "last_song_word_end": 28.36,
+   "caption_leads_first_word_s": -0.1,
+   "caption_outlives_last_word_s": -0.36,
+   "foreign_song_words_in_interval": "pay. The roll -old Cars",
+   "cue_words_with_no_song_word": "old"
+  },
+  {
+   "cue": "Cars slam the brakes, the back ends crash and smash,",
+   "interval": [
+    28.0,
+    30.5
+   ],
+   "first_song_word_at": 27.34,
+   "last_song_word_end": 30.54,
+   "caption_leads_first_word_s": -0.66,
+   "caption_outlives_last_word_s": -0.04,
+   "foreign_song_words_in_interval": "-ends",
+   "cue_words_with_no_song_word": "ends smash"
+  },
+  {
+   "cue": "NTSB said those booths were the worst on the map.",
+   "interval": [
+    30.5,
+    33.5
+   ],
+   "first_song_word_at": 30.28,
+   "last_song_word_end": 33.86,
+   "caption_leads_first_word_s": -0.22,
+   "caption_outlives_last_word_s": -0.36,
+   "foreign_song_words_in_interval": "and smash.",
+   "cue_words_with_no_song_word": "map"
+  },
+  {
+   "cue": "Now they got the fast lanes, the rich ones fly on by,",
+   "interval": [
+    33.5,
+    38.0
+   ],
+   "first_song_word_at": 33.48,
+   "last_song_word_end": 38.2,
+   "caption_leads_first_word_s": -0.02,
+   "caption_outlives_last_word_s": -0.2,
+   "foreign_song_words_in_interval": "map. flaselines, while",
+   "cue_words_with_no_song_word": "fast lanes"
+  },
+  {
+   "cue": "While the rest of us crawl, watching money flash by.",
+   "interval": [
+    38.0,
+    41.5
+   ],
+   "first_song_word_at": 37.84,
+   "last_song_word_end": 41.3,
+   "caption_leads_first_word_s": -0.16,
+   "caption_outlives_last_word_s": 0.2,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Weave in, weave out, the speeds don't match at all,",
+   "interval": [
+    41.5,
+    44.5
+   ],
+   "first_song_word_at": 41.9,
+   "last_song_word_end": 44.62,
+   "caption_leads_first_word_s": 0.4,
+   "caption_outlives_last_word_s": -0.12,
+   "foreign_song_words_in_interval": "weavein' it",
+   "cue_words_with_no_song_word": "in at all"
+  },
+  {
+   "cue": "One car's racing, the other one's about to fall.",
+   "interval": [
+    44.5,
+    51.5
+   ],
+   "first_song_word_at": 44.36,
+   "last_song_word_end": 51.84,
+   "caption_leads_first_word_s": -0.14,
+   "caption_outlives_last_word_s": -0.34,
+   "foreign_song_words_in_interval": "it all. ones Toe",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Toll roads are dumb, baby, toll roads are dumb,",
+   "interval": [
+    51.5,
+    53.5
+   ],
+   "first_song_word_at": 50.84,
+   "last_song_word_end": 53.48,
+   "caption_leads_first_word_s": -0.66,
+   "caption_outlives_last_word_s": 0.02,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Fast lanes make crashes, the wrecks just come.",
+   "interval": [
+    53.5,
+    63.0
+   ],
+   "first_song_word_at": 54.22,
+   "last_song_word_end": 63.6,
+   "caption_leads_first_word_s": 0.72,
+   "caption_outlives_last_word_s": -0.6,
+   "foreign_song_words_in_interval": "Toe roads are done.",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Pay to go faster, the rest of us slow,",
+   "interval": [
+    63.0,
+    68.0
+   ],
+   "first_song_word_at": 62.88,
+   "last_song_word_end": 68.04,
+   "caption_leads_first_word_s": -0.12,
+   "caption_outlives_last_word_s": -0.04,
+   "foreign_song_words_in_interval": "come.",
+   "cue_words_with_no_song_word": "the rest of us slow"
+  },
+  {
+   "cue": "Weaving and slamming, the danger grows.",
+   "interval": [
+    68.0,
+    78.0
+   ],
+   "first_song_word_at": 67.48,
+   "last_song_word_end": 77.68,
+   "caption_leads_first_word_s": -0.52,
+   "caption_outlives_last_word_s": 0.32,
+   "foreign_song_words_in_interval": "to rest of us slow. We've been roads.",
+   "cue_words_with_no_song_word": "weaving and grows"
+  },
+  {
+   "cue": "Toll roads are dumb, baby, toll roads are dumb,",
+   "interval": [
+    78.0,
+    83.0
+   ],
+   "first_song_word_at": 78.94,
+   "last_song_word_end": 83.12,
+   "caption_leads_first_word_s": 0.94,
+   "caption_outlives_last_word_s": -0.12,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Fast lanes make crashes\u2026 they just keep coming.",
+   "interval": [
+    83.0,
+    91.5
+   ],
+   "first_song_word_at": 82.28,
+   "last_song_word_end": 93.1,
+   "caption_leads_first_word_s": -0.72,
+   "caption_outlives_last_word_s": -1.6,
+   "foreign_song_words_in_interval": "Toe roads are done. crashes,",
+   "cue_words_with_no_song_word": "crashes\u2026"
+  },
+  {
+   "cue": "Express lanes look clean, but the merges get hot,",
+   "interval": [
+    91.5,
+    98.0
+   ],
+   "first_song_word_at": 90.7,
+   "last_song_word_end": 98.24,
+   "caption_leads_first_word_s": -0.8,
+   "caption_outlives_last_word_s": -0.24,
+   "foreign_song_words_in_interval": "comin'. high. Speed up, cut over.",
+   "cue_words_with_no_song_word": "hot"
+  },
+  {
+   "cue": "Speed up, cut over, somebody gets caught.",
+   "interval": [
+    98.0,
+    100.0
+   ],
+   "first_song_word_at": 97.74,
+   "last_song_word_end": 99.98,
+   "caption_leads_first_word_s": -0.26,
+   "caption_outlives_last_word_s": 0.02,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": "speed up cut"
+  },
+  {
+   "cue": "They say the paid side is safer, the free side takes the hit,",
+   "interval": [
+    100.0,
+    103.0
+   ],
+   "first_song_word_at": 100.26,
+   "last_song_word_end": 103.08,
+   "caption_leads_first_word_s": 0.26,
+   "caption_outlives_last_word_s": -0.08,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": "hit"
+  },
+  {
+   "cue": "Crashes just move over, still the same old mess.",
+   "interval": [
+    103.0,
+    108.0
+   ],
+   "first_song_word_at": 102.82,
+   "last_song_word_end": 107.74,
+   "caption_leads_first_word_s": -0.18,
+   "caption_outlives_last_word_s": 0.26,
+   "foreign_song_words_in_interval": "takes hit,",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Lexus lanes they call 'em, money buys the clear,",
+   "interval": [
+    108.0,
+    110.0
+   ],
+   "first_song_word_at": 108.02,
+   "last_song_word_end": 110.14,
+   "caption_leads_first_word_s": 0.02,
+   "caption_outlives_last_word_s": -0.14,
+   "foreign_song_words_in_interval": "them.",
+   "cue_words_with_no_song_word": "em buys the clear"
+  },
+  {
+   "cue": "Poor folks sit in traffic while the rich ones disappear.",
+   "interval": [
+    110.0,
+    113.0
+   ],
+   "first_song_word_at": 109.86,
+   "last_song_word_end": 113.1,
+   "caption_leads_first_word_s": -0.14,
+   "caption_outlives_last_word_s": -0.1,
+   "foreign_song_words_in_interval": "Money buys clear,",
+   "cue_words_with_no_song_word": "rich ones disappear"
+  },
+  {
+   "cue": "Stop-and-go plazas used to kill, electronic helps a bit,",
+   "interval": [
+    113.0,
+    118.0
+   ],
+   "first_song_word_at": 112.98,
+   "last_song_word_end": 118.06,
+   "caption_leads_first_word_s": -0.02,
+   "caption_outlives_last_word_s": -0.06,
+   "foreign_song_words_in_interval": "the rich ones disappear. Stop and go and But",
+   "cue_words_with_no_song_word": "stop-and-go"
+  },
+  {
+   "cue": "But the split still creates the chaos that won't quit.",
+   "interval": [
+    118.0,
+    121.5
+   ],
+   "first_song_word_at": 117.9,
+   "last_song_word_end": 121.52,
+   "caption_leads_first_word_s": -0.1,
+   "caption_outlives_last_word_s": -0.02,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": "quit"
+  },
+  {
+   "cue": "Toll roads are dumb, baby, toll roads are dumb,",
+   "interval": [
+    121.5,
+    128.0
+   ],
+   "first_song_word_at": 120.92,
+   "last_song_word_end": 128.12,
+   "caption_leads_first_word_s": -0.58,
+   "caption_outlives_last_word_s": -0.12,
+   "foreign_song_words_in_interval": "won't quit.",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Fast lanes make crashes, the wrecks just come.",
+   "interval": [
+    128.0,
+    133.0
+   ],
+   "first_song_word_at": 127.66,
+   "last_song_word_end": 132.22,
+   "caption_leads_first_word_s": -0.34,
+   "caption_outlives_last_word_s": 0.78,
+   "foreign_song_words_in_interval": "done,",
+   "cue_words_with_no_song_word": "the wrecks just come"
+  },
+  {
+   "cue": "Pay to go faster, the rest of us slow,",
+   "interval": [
+    133.0,
+    143.0
+   ],
+   "first_song_word_at": 133.02,
+   "last_song_word_end": 142.62,
+   "caption_leads_first_word_s": 0.02,
+   "caption_outlives_last_word_s": 0.38,
+   "foreign_song_words_in_interval": "wrecks just come.",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Weaving and slamming, the danger grows.",
+   "interval": [
+    143.0,
+    148.0
+   ],
+   "first_song_word_at": 144.08,
+   "last_song_word_end": 148.5,
+   "caption_leads_first_word_s": 1.08,
+   "caption_outlives_last_word_s": -0.5,
+   "foreign_song_words_in_interval": "We've been",
+   "cue_words_with_no_song_word": "weaving and grows"
+  },
+  {
+   "cue": "Toll roads are dumb, baby, toll roads are dumb,",
+   "interval": [
+    148.0,
+    153.0
+   ],
+   "first_song_word_at": 147.64,
+   "last_song_word_end": 153.16,
+   "caption_leads_first_word_s": -0.36,
+   "caption_outlives_last_word_s": -0.16,
+   "foreign_song_words_in_interval": "danger",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Fast lanes make crashes\u2026 they just keep coming.",
+   "interval": [
+    153.0,
+    165.5
+   ],
+   "first_song_word_at": 152.92,
+   "last_song_word_end": 165.92,
+   "caption_leads_first_word_s": -0.08,
+   "caption_outlives_last_word_s": -0.42,
+   "foreign_song_words_in_interval": "baby. Toe roads are done. crashes,",
+   "cue_words_with_no_song_word": "crashes\u2026"
+  },
+  {
+   "cue": "They sell you speed for a dollar and a dime,",
+   "interval": [
+    165.5,
+    167.5
+   ],
+   "first_song_word_at": 165.34,
+   "last_song_word_end": 167.64,
+   "caption_leads_first_word_s": -0.16,
+   "caption_outlives_last_word_s": -0.14,
+   "foreign_song_words_in_interval": "your",
+   "cue_words_with_no_song_word": "you a and a dime"
+  },
+  {
+   "cue": "But the road gets meaner every single time.",
+   "interval": [
+    167.5,
+    173.0
+   ],
+   "first_song_word_at": 167.0,
+   "last_song_word_end": 173.44,
+   "caption_leads_first_word_s": -0.5,
+   "caption_outlives_last_word_s": -0.44,
+   "foreign_song_words_in_interval": "$1 and a dime, One lane's",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "One lane's flying, the other one's stuck,",
+   "interval": [
+    173.0,
+    175.0
+   ],
+   "first_song_word_at": 172.98,
+   "last_song_word_end": 175.1,
+   "caption_leads_first_word_s": -0.02,
+   "caption_outlives_last_word_s": -0.1,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": "stuck"
+  },
+  {
+   "cue": "Somebody's going to get it when the timing's up.",
+   "interval": [
+    175.0,
+    178.0
+   ],
+   "first_song_word_at": 174.48,
+   "last_song_word_end": 178.14,
+   "caption_leads_first_word_s": -0.52,
+   "caption_outlives_last_word_s": -0.14,
+   "foreign_song_words_in_interval": "one's stuck. gonna time",
+   "cue_words_with_no_song_word": "going to timing up"
+  },
+  {
+   "cue": "Oh, toll roads are dumb\u2026 yeah, toll roads are dumb\u2026",
+   "interval": [
+    178.0,
+    188.0
+   ],
+   "first_song_word_at": 177.82,
+   "last_song_word_end": 188.12,
+   "caption_leads_first_word_s": -0.18,
+   "caption_outlives_last_word_s": -0.12,
+   "foreign_song_words_in_interval": "time ends up. done, done, fast",
+   "cue_words_with_no_song_word": "oh dumb\u2026 yeah dumb\u2026"
+  },
+  {
+   "cue": "Fast lanes make crashes\u2026 the wrecks just come\u2026",
+   "interval": [
+    188.0,
+    190.0
+   ],
+   "first_song_word_at": 186.56,
+   "last_song_word_end": 189.72,
+   "caption_leads_first_word_s": -1.44,
+   "caption_outlives_last_word_s": 0.28,
+   "foreign_song_words_in_interval": "crashes,",
+   "cue_words_with_no_song_word": "crashes\u2026 the wrecks just come\u2026"
+  },
+  {
+   "cue": "Toll roads are dumb, baby, toll roads are dumb,",
+   "interval": [
+    190.0,
+    198.0
+   ],
+   "first_song_word_at": 190.62,
+   "last_song_word_end": 197.22,
+   "caption_leads_first_word_s": 0.62,
+   "caption_outlives_last_word_s": 0.78,
+   "foreign_song_words_in_interval": "the wrecks just come.",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Fast lanes make crashes, the wrecks just come.",
+   "interval": [
+    198.0,
+    203.0
+   ],
+   "first_song_word_at": 198.0,
+   "last_song_word_end": 203.04,
+   "caption_leads_first_word_s": 0.0,
+   "caption_outlives_last_word_s": -0.04,
+   "foreign_song_words_in_interval": "Toe roads are done,",
+   "cue_words_with_no_song_word": "crashes the wrecks just come"
+  },
+  {
+   "cue": "Pay to go faster, the rest of us slow,",
+   "interval": [
+    203.0,
+    213.0
+   ],
+   "first_song_word_at": 202.64,
+   "last_song_word_end": 213.26,
+   "caption_leads_first_word_s": -0.36,
+   "caption_outlives_last_word_s": -0.26,
+   "foreign_song_words_in_interval": "make crashes, road gets meaner every single time. wrecks just come.",
+   "cue_words_with_no_song_word": "of us slow"
+  },
+  {
+   "cue": "Weaving and slamming, the danger grows.",
+   "interval": [
+    213.0,
+    218.0
+   ],
+   "first_song_word_at": 212.88,
+   "last_song_word_end": 218.32,
+   "caption_leads_first_word_s": -0.12,
+   "caption_outlives_last_word_s": -0.32,
+   "foreign_song_words_in_interval": "rest of us slow. We've been",
+   "cue_words_with_no_song_word": "weaving and the danger grows"
+  },
+  {
+   "cue": "Toll roads are dumb (toll roads are dumb),",
+   "interval": [
+    218.0,
+    225.5
+   ],
+   "first_song_word_at": 217.04,
+   "last_song_word_end": 225.8,
+   "caption_leads_first_word_s": -0.96,
+   "caption_outlives_last_word_s": -0.3,
+   "foreign_song_words_in_interval": "slamming the danger",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Fast lanes make crashes (fast lanes make crashes),",
+   "interval": [
+    225.5,
+    229.5
+   ],
+   "first_song_word_at": 225.3,
+   "last_song_word_end": 230.22,
+   "caption_leads_first_word_s": -0.2,
+   "caption_outlives_last_word_s": -0.72,
+   "foreign_song_words_in_interval": "roads, the the wrecks just come.",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Toll roads are dumb, baby\u2026",
+   "interval": [
+    229.5,
+    233.0
+   ],
+   "first_song_word_at": 229.36,
+   "last_song_word_end": 232.64,
+   "caption_leads_first_word_s": -0.14,
+   "caption_outlives_last_word_s": 0.36,
+   "foreign_song_words_in_interval": "come. baby.",
+   "cue_words_with_no_song_word": "baby\u2026"
+  },
+  {
+   "cue": "Toll roads are dumb.",
+   "interval": [
+    233.0,
+    238.5
+   ],
+   "first_song_word_at": 236.62,
+   "last_song_word_end": 238.82,
+   "caption_leads_first_word_s": 3.62,
+   "caption_outlives_last_word_s": -0.32,
+   "foreign_song_words_in_interval": "",
+   "cue_words_with_no_song_word": ""
+  },
+  {
+   "cue": "Yeah\u2026 don't pay for the fast lane, honey.",
+   "interval": [
+    238.5,
+    243.0
+   ],
+   "first_song_word_at": 238.26,
+   "last_song_word_end": 243.08,
+   "caption_leads_first_word_s": -0.24,
+   "caption_outlives_last_word_s": -0.08,
+   "foreign_song_words_in_interval": "done. Yeah,",
+   "cue_words_with_no_song_word": "yeah\u2026 don't pay for the fast lane honey"
+  },
+  {
+   "cue": "It ain't worth the crash.",
+   "interval": [
+    243.0,
+    248.0
+   ],
+   "first_song_word_at": 242.3,
+   "last_song_word_end": 248.28,
+   "caption_leads_first_word_s": -0.7,
+   "caption_outlives_last_word_s": -0.28,
+   "foreign_song_words_in_interval": "Yeah, don't pay for fast lane, honey.",
+   "cue_words_with_no_song_word": "ain't worth crash"
+  },
+  {
+   "cue": "Toll roads are dumb\u2026",
+   "interval": [
+    248.0,
+    253.0
+   ],
+   "first_song_word_at": 247.5,
+   "last_song_word_end": 253.06,
+   "caption_leads_first_word_s": -0.5,
+   "caption_outlives_last_word_s": -0.06,
+   "foreign_song_words_in_interval": "It ain't worth the crash. done.",
+   "cue_words_with_no_song_word": "dumb\u2026"
+  },
+  {
+   "cue": "Toll roads are dumb\u2026",
+   "interval": [
+    253.0,
+    268.01
+   ],
+   "first_song_word_at": 252.52,
+   "last_song_word_end": 260.8,
+   "caption_leads_first_word_s": -0.48,
+   "caption_outlives_last_word_s": 7.21,
+   "foreign_song_words_in_interval": "done. done.",
+   "cue_words_with_no_song_word": "dumb\u2026"
+  }
+ ],
+ "filler_words": []
+}

@@ -1,0 +1,48 @@
+[Script Info]
+Title: WuBuTV kinetic type (kinetic_ass.py)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bone,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Cadmium,Noto Sans,54,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Dim,Noto Sans,54,&H64DCEEF4,&H64DCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Draw,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:06.84,0:02:09.88,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-153,610,107,610,0,220)\p1}m 0 0 l 1067 0 l 1067 7 l 0 7{\p0}
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(106,576)\fad(120,150)}AUTOMATE
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(359,576)\fad(120,150)}THE
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(471,576)\fad(120,150)}LINE,
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(640,576)\fad(120,150)}WATCH
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(808,576)\fad(120,150)}THE
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(920,576)\fad(120,150)}CASH
+Dialogue: 1,0:02:06.84,0:02:09.88,Dim,,0,0,0,,{\an4\pos(1061,576)\fad(120,150)}FLY,
+Dialogue: 2,0:02:06.84,0:02:07.90,Cadmium,,0,0,0,,{\an4\pos(106,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}AUTOMATE
+Dialogue: 2,0:02:07.78,0:02:08.08,Cadmium,,0,0,0,,{\an4\pos(359,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}THE
+Dialogue: 2,0:02:07.96,0:02:08.72,Cadmium,,0,0,0,,{\an4\pos(471,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}LINE,
+Dialogue: 2,0:02:08.60,0:02:09.12,Cadmium,,0,0,0,,{\an4\pos(640,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}WATCH
+Dialogue: 2,0:02:09.00,0:02:09.28,Cadmium,,0,0,0,,{\an4\pos(808,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}THE
+Dialogue: 2,0:02:09.16,0:02:09.54,Cadmium,,0,0,0,,{\an4\pos(920,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}CASH
+Dialogue: 2,0:02:09.42,0:02:09.88,Cadmium,,0,0,0,,{\an4\pos(1061,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}FLY,
+Dialogue: 0,0:02:09.90,0:02:13.45,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-251,610,9,610,0,220)\p1}m 0 0 l 1263 0 l 1263 7 l 0 7{\p0}
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(8,576)\fad(120,150)}BACON
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(176,576)\fad(120,150)}HEAD
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(317,576)\fad(120,150)}DANCING
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(541,576)\fad(120,150)}WHILE
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(710,576)\fad(120,150)}THE
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(822,576)\fad(120,150)}NUMBERS
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(1047,576)\fad(120,150)}GO
+Dialogue: 1,0:02:09.90,0:02:13.45,Dim,,0,0,0,,{\an4\pos(1131,576)\fad(120,150)}HIGH.
+Dialogue: 2,0:02:09.90,0:02:10.78,Cadmium,,0,0,0,,{\an4\pos(8,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}BACON
+Dialogue: 2,0:02:10.66,0:02:11.32,Cadmium,,0,0,0,,{\an4\pos(176,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}HEAD
+Dialogue: 2,0:02:11.20,0:02:11.62,Cadmium,,0,0,0,,{\an4\pos(317,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}DANCING
+Dialogue: 2,0:02:11.50,0:02:11.86,Cadmium,,0,0,0,,{\an4\pos(541,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}WHILE
+Dialogue: 2,0:02:11.74,0:02:12.02,Cadmium,,0,0,0,,{\an4\pos(710,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}THE
+Dialogue: 2,0:02:11.90,0:02:12.32,Cadmium,,0,0,0,,{\an4\pos(822,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}NUMBERS
+Dialogue: 2,0:02:12.20,0:02:12.66,Cadmium,,0,0,0,,{\an4\pos(1047,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}GO
+Dialogue: 2,0:02:12.54,0:02:13.12,Cadmium,,0,0,0,,{\an4\pos(1131,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}HIGH.

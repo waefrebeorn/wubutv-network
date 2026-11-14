@@ -1,0 +1,70 @@
+{
+ "track": "work/rebuild2_qc/R06B_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 9,
+ "words": [
+  {
+   "word": "Been",
+   "start": 0.0,
+   "end": 1.06,
+   "prob": 0.356
+  },
+  {
+   "word": "here",
+   "start": 1.06,
+   "end": 1.46,
+   "prob": 0.998
+  },
+  {
+   "word": "so",
+   "start": 1.46,
+   "end": 1.8,
+   "prob": 0.992
+  },
+  {
+   "word": "long,",
+   "start": 1.8,
+   "end": 2.3,
+   "prob": 0.996
+  },
+  {
+   "word": "I",
+   "start": 2.52,
+   "end": 2.76,
+   "prob": 0.987
+  },
+  {
+   "word": "could",
+   "start": 2.76,
+   "end": 2.96,
+   "prob": 0.997
+  },
+  {
+   "word": "sign",
+   "start": 2.96,
+   "end": 3.34,
+   "prob": 0.991
+  },
+  {
+   "word": "back",
+   "start": 3.34,
+   "end": 3.7,
+   "prob": 0.996
+  },
+  {
+   "word": "in",
+   "start": 3.7,
+   "end": 4.26,
+   "prob": 0.99
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.26,
+   "text": "Been here so long, I could sign back in"
+  }
+ ]
+}

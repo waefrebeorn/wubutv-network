@@ -1,0 +1,335 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,44,&H00FFFFFF,&H001EC6FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:01.42,Cap,,0,0,0,,{\1c&H1EC6FF&}They{\r} said it was over back in '03,
+Dialogue: 0,0:00:01.42,0:00:01.84,Cap,,0,0,0,,They {\1c&H1EC6FF&}said{\r} it was over back in '03,
+Dialogue: 0,0:00:01.84,0:00:02.24,Cap,,0,0,0,,They said {\1c&H1EC6FF&}it{\r} was over back in '03,
+Dialogue: 0,0:00:02.24,0:00:02.52,Cap,,0,0,0,,They said it {\1c&H1EC6FF&}was{\r} over back in '03,
+Dialogue: 0,0:00:02.52,0:00:02.88,Cap,,0,0,0,,They said it was {\1c&H1EC6FF&}over{\r} back in '03,
+Dialogue: 0,0:00:02.88,0:00:03.24,Cap,,0,0,0,,They said it was over {\1c&H1EC6FF&}back{\r} in '03,
+Dialogue: 0,0:00:03.24,0:00:03.52,Cap,,0,0,0,,They said it was over back {\1c&H1EC6FF&}in{\r} '03,
+Dialogue: 0,0:00:03.52,0:00:03.86,Cap,,0,0,0,,They said it was over back in {\1c&H1EC6FF&}'03,{\r}
+Dialogue: 0,0:00:03.86,0:00:04.80,Cap,,0,0,0,,{\1c&H1EC6FF&}Then{\r} they said it again in twenty-thirteen.
+Dialogue: 0,0:00:04.80,0:00:05.02,Cap,,0,0,0,,Then {\1c&H1EC6FF&}they{\r} said it again in twenty-thirteen.
+Dialogue: 0,0:00:05.02,0:00:05.38,Cap,,0,0,0,,Then they {\1c&H1EC6FF&}said{\r} it again in twenty-thirteen.
+Dialogue: 0,0:00:05.38,0:00:05.60,Cap,,0,0,0,,Then they said {\1c&H1EC6FF&}it{\r} again in twenty-thirteen.
+Dialogue: 0,0:00:05.60,0:00:06.08,Cap,,0,0,0,,Then they said it {\1c&H1EC6FF&}again{\r} in twenty-thirteen.
+Dialogue: 0,0:00:06.08,0:00:06.68,Cap,,0,0,0,,Then they said it again {\1c&H1EC6FF&}in{\r} twenty-thirteen.
+Dialogue: 0,0:00:06.68,0:00:07.70,Cap,,0,0,0,,Then they said it again in {\1c&H1EC6FF&}twenty-thirteen.{\r}
+Dialogue: 0,0:00:07.70,0:00:08.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Hulu{\r} hit rewind and we all leaned in,
+Dialogue: 0,0:00:08.90,0:00:09.30,Cap,,0,0,0,,Hulu {\1c&H1EC6FF&}hit{\r} rewind and we all leaned in,
+Dialogue: 0,0:00:09.30,0:00:09.90,Cap,,0,0,0,,Hulu hit {\1c&H1EC6FF&}rewind{\r} and we all leaned in,
+Dialogue: 0,0:00:09.90,0:00:10.28,Cap,,0,0,0,,Hulu hit rewind {\1c&H1EC6FF&}and{\r} we all leaned in,
+Dialogue: 0,0:00:10.28,0:00:10.52,Cap,,0,0,0,,Hulu hit rewind and {\1c&H1EC6FF&}we{\r} all leaned in,
+Dialogue: 0,0:00:10.52,0:00:10.88,Cap,,0,0,0,,Hulu hit rewind and we {\1c&H1EC6FF&}all{\r} leaned in,
+Dialogue: 0,0:00:10.88,0:00:11.24,Cap,,0,0,0,,Hulu hit rewind and we all {\1c&H1EC6FF&}leaned{\r} in,
+Dialogue: 0,0:00:11.24,0:00:11.64,Cap,,0,0,0,,Hulu hit rewind and we all leaned {\1c&H1EC6FF&}in,{\r}
+Dialogue: 0,0:00:11.64,0:00:12.24,Cap,,0,0,0,,{\fs39}{\1c&H1EC6FF&}Fourteen{\r} seasons later, we're still on the screen.
+Dialogue: 0,0:00:12.24,0:00:12.88,Cap,,0,0,0,,{\fs39}Fourteen {\1c&H1EC6FF&}seasons{\r} later, we're still on the screen.
+Dialogue: 0,0:00:12.88,0:00:13.64,Cap,,0,0,0,,{\fs39}Fourteen seasons {\1c&H1EC6FF&}later,{\r} we're still on the screen.
+Dialogue: 0,0:00:13.64,0:00:14.04,Cap,,0,0,0,,{\fs39}Fourteen seasons later, {\1c&H1EC6FF&}we're{\r} still on the screen.
+Dialogue: 0,0:00:14.04,0:00:14.24,Cap,,0,0,0,,{\fs39}Fourteen seasons later, we're {\1c&H1EC6FF&}still{\r} on the screen.
+Dialogue: 0,0:00:14.24,0:00:14.72,Cap,,0,0,0,,{\fs39}Fourteen seasons later, we're still {\1c&H1EC6FF&}on{\r} the screen.
+Dialogue: 0,0:00:14.72,0:00:14.90,Cap,,0,0,0,,{\fs39}Fourteen seasons later, we're still on {\1c&H1EC6FF&}the{\r} screen.
+Dialogue: 0,0:00:14.90,0:00:15.42,Cap,,0,0,0,,{\fs39}Fourteen seasons later, we're still on the {\1c&H1EC6FF&}screen.{\r}
+Dialogue: 0,0:00:16.00,0:00:16.54,Cap,,0,0,0,,{\1c&H1EC6FF&}"Final{\r} Ending: The Last Conclusion,"
+Dialogue: 0,0:00:16.54,0:00:17.40,Cap,,0,0,0,,"Final {\1c&H1EC6FF&}Ending:{\r} The Last Conclusion,"
+Dialogue: 0,0:00:17.40,0:00:17.54,Cap,,0,0,0,,"Final Ending: {\1c&H1EC6FF&}The{\r} Last Conclusion,"
+Dialogue: 0,0:00:17.54,0:00:17.82,Cap,,0,0,0,,"Final Ending: The {\1c&H1EC6FF&}Last{\r} Conclusion,"
+Dialogue: 0,0:00:17.82,0:00:18.62,Cap,,0,0,0,,"Final Ending: The Last {\1c&H1EC6FF&}Conclusion,"{\r}
+Dialogue: 0,0:00:18.62,0:00:20.62,Cap,,0,0,0,,{\1c&H1EC6FF&}That's{\r} the label on the last file.
+Dialogue: 0,0:00:20.62,0:00:20.82,Cap,,0,0,0,,That's {\1c&H1EC6FF&}the{\r} label on the last file.
+Dialogue: 0,0:00:20.82,0:00:21.28,Cap,,0,0,0,,That's the {\1c&H1EC6FF&}label{\r} on the last file.
+Dialogue: 0,0:00:21.28,0:00:21.64,Cap,,0,0,0,,That's the label {\1c&H1EC6FF&}on{\r} the last file.
+Dialogue: 0,0:00:21.64,0:00:21.80,Cap,,0,0,0,,That's the label on {\1c&H1EC6FF&}the{\r} last file.
+Dialogue: 0,0:00:21.80,0:00:22.42,Cap,,0,0,0,,That's the label on the {\1c&H1EC6FF&}last{\r} file.
+Dialogue: 0,0:00:22.42,0:00:23.18,Cap,,0,0,0,,That's the label on the last {\1c&H1EC6FF&}file.{\r}
+Dialogue: 0,0:00:23.18,0:00:24.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Matt{\r} said, "we're not done yet,"
+Dialogue: 0,0:00:24.00,0:00:24.50,Cap,,0,0,0,,Matt {\1c&H1EC6FF&}said,{\r} "we're not done yet,"
+Dialogue: 0,0:00:24.50,0:00:24.92,Cap,,0,0,0,,Matt said, {\1c&H1EC6FF&}"we're{\r} not done yet,"
+Dialogue: 0,0:00:24.92,0:00:25.24,Cap,,0,0,0,,Matt said, "we're {\1c&H1EC6FF&}not{\r} done yet,"
+Dialogue: 0,0:00:25.24,0:00:25.64,Cap,,0,0,0,,Matt said, "we're not {\1c&H1EC6FF&}done{\r} yet,"
+Dialogue: 0,0:00:25.64,0:00:26.24,Cap,,0,0,0,,Matt said, "we're not done {\1c&H1EC6FF&}yet,"{\r}
+Dialogue: 0,0:00:26.46,0:00:27.18,Cap,,0,0,0,,{\1c&H1EC6FF&}But{\r} the streamer closed the door in style.
+Dialogue: 0,0:00:27.18,0:00:27.38,Cap,,0,0,0,,But {\1c&H1EC6FF&}the{\r} streamer closed the door in style.
+Dialogue: 0,0:00:27.38,0:00:28.02,Cap,,0,0,0,,But the {\1c&H1EC6FF&}streamer{\r} closed the door in style.
+Dialogue: 0,0:00:28.02,0:00:28.62,Cap,,0,0,0,,But the streamer {\1c&H1EC6FF&}closed{\r} the door in style.
+Dialogue: 0,0:00:28.62,0:00:29.16,Cap,,0,0,0,,But the streamer closed {\1c&H1EC6FF&}the{\r} door in style.
+Dialogue: 0,0:00:29.16,0:00:29.58,Cap,,0,0,0,,But the streamer closed the {\1c&H1EC6FF&}door{\r} in style.
+Dialogue: 0,0:00:29.58,0:00:30.02,Cap,,0,0,0,,But the streamer closed the door {\1c&H1EC6FF&}in{\r} style.
+Dialogue: 0,0:00:30.02,0:00:30.86,Cap,,0,0,0,,But the streamer closed the door in {\1c&H1EC6FF&}style.{\r}
+Dialogue: 0,0:00:32.36,0:00:33.22,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:00:33.22,0:00:33.90,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:00:33.90,0:00:35.10,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:00:35.10,0:00:35.40,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:00:35.40,0:00:35.90,Cap,,0,0,0,,{\fs42}{\1c&H1EC6FF&}For{\r} real this time, no more reruns in the dark.
+Dialogue: 0,0:00:35.90,0:00:36.26,Cap,,0,0,0,,{\fs42}For {\1c&H1EC6FF&}real{\r} this time, no more reruns in the dark.
+Dialogue: 0,0:00:36.26,0:00:36.58,Cap,,0,0,0,,{\fs42}For real {\1c&H1EC6FF&}this{\r} time, no more reruns in the dark.
+Dialogue: 0,0:00:36.58,0:00:37.22,Cap,,0,0,0,,{\fs42}For real this {\1c&H1EC6FF&}time,{\r} no more reruns in the dark.
+Dialogue: 0,0:00:37.22,0:00:37.36,Cap,,0,0,0,,{\fs42}For real this time, {\1c&H1EC6FF&}no{\r} more reruns in the dark.
+Dialogue: 0,0:00:37.36,0:00:37.72,Cap,,0,0,0,,{\fs42}For real this time, no {\1c&H1EC6FF&}more{\r} reruns in the dark.
+Dialogue: 0,0:00:37.72,0:00:38.56,Cap,,0,0,0,,{\fs42}For real this time, no more {\1c&H1EC6FF&}reruns{\r} in the dark.
+Dialogue: 0,0:00:38.56,0:00:38.98,Cap,,0,0,0,,{\fs42}For real this time, no more reruns {\1c&H1EC6FF&}in{\r} the dark.
+Dialogue: 0,0:00:38.98,0:00:39.20,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in {\1c&H1EC6FF&}the{\r} dark.
+Dialogue: 0,0:00:39.20,0:00:39.62,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in the {\1c&H1EC6FF&}dark.{\r}
+Dialogue: 0,0:00:39.62,0:00:40.56,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:00:40.56,0:00:41.36,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:00:41.36,0:00:42.42,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:00:42.42,0:00:42.80,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:00:42.80,0:00:43.00,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} fresh episodes, that's the hard part.
+Dialogue: 0,0:00:43.00,0:00:43.38,Cap,,0,0,0,,No {\1c&H1EC6FF&}fresh{\r} episodes, that's the hard part.
+Dialogue: 0,0:00:43.38,0:00:44.98,Cap,,0,0,0,,No fresh {\1c&H1EC6FF&}episodes,{\r} that's the hard part.
+Dialogue: 0,0:00:44.98,0:00:45.52,Cap,,0,0,0,,No fresh episodes, {\1c&H1EC6FF&}that's{\r} the hard part.
+Dialogue: 0,0:00:45.52,0:00:45.76,Cap,,0,0,0,,No fresh episodes, that's {\1c&H1EC6FF&}the{\r} hard part.
+Dialogue: 0,0:00:45.76,0:00:46.22,Cap,,0,0,0,,No fresh episodes, that's the {\1c&H1EC6FF&}hard{\r} part.
+Dialogue: 0,0:00:46.22,0:00:46.74,Cap,,0,0,0,,No fresh episodes, that's the hard {\1c&H1EC6FF&}part.{\r}
+Dialogue: 0,0:00:46.74,0:00:47.26,Cap,,0,0,0,,{\1c&H1EC6FF&}Good{\r} news, everyone— the ride is done,
+Dialogue: 0,0:00:47.26,0:00:47.70,Cap,,0,0,0,,Good {\1c&H1EC6FF&}news,{\r} everyone— the ride is done,
+Dialogue: 0,0:00:47.70,0:00:48.60,Cap,,0,0,0,,Good news, {\1c&H1EC6FF&}everyone—{\r} the ride is done,
+Dialogue: 0,0:00:48.60,0:00:48.88,Cap,,0,0,0,,Good news, everyone— {\1c&H1EC6FF&}the{\r} ride is done,
+Dialogue: 0,0:00:48.88,0:00:49.32,Cap,,0,0,0,,Good news, everyone— the {\1c&H1EC6FF&}ride{\r} is done,
+Dialogue: 0,0:00:49.32,0:00:49.74,Cap,,0,0,0,,Good news, everyone— the ride {\1c&H1EC6FF&}is{\r} done,
+Dialogue: 0,0:00:49.74,0:00:50.14,Cap,,0,0,0,,Good news, everyone— the ride is {\1c&H1EC6FF&}done,{\r}
+Dialogue: 0,0:00:50.14,0:00:51.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Good{\r} news, everyone— the ship won't run.
+Dialogue: 0,0:00:51.00,0:00:51.46,Cap,,0,0,0,,Good {\1c&H1EC6FF&}news,{\r} everyone— the ship won't run.
+Dialogue: 0,0:00:51.46,0:00:52.44,Cap,,0,0,0,,Good news, {\1c&H1EC6FF&}everyone—{\r} the ship won't run.
+Dialogue: 0,0:00:52.44,0:00:52.54,Cap,,0,0,0,,Good news, everyone— {\1c&H1EC6FF&}the{\r} ship won't run.
+Dialogue: 0,0:00:52.54,0:00:52.94,Cap,,0,0,0,,Good news, everyone— the {\1c&H1EC6FF&}ship{\r} won't run.
+Dialogue: 0,0:00:52.94,0:00:53.52,Cap,,0,0,0,,Good news, everyone— the ship {\1c&H1EC6FF&}won't{\r} run.
+Dialogue: 0,0:00:53.52,0:00:54.24,Cap,,0,0,0,,Good news, everyone— the ship won't {\1c&H1EC6FF&}run.{\r}
+Dialogue: 0,0:00:54.24,0:00:55.72,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:00:55.72,0:00:56.40,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:00:56.40,0:00:57.44,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:00:57.44,0:00:57.92,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:00:57.92,0:00:58.44,Cap,,0,0,0,,{\fs42}{\1c&H1EC6FF&}For{\r} real this time, no more reruns in the dark.
+Dialogue: 0,0:00:58.44,0:00:58.76,Cap,,0,0,0,,{\fs42}For {\1c&H1EC6FF&}real{\r} this time, no more reruns in the dark.
+Dialogue: 0,0:00:58.76,0:00:59.10,Cap,,0,0,0,,{\fs42}For real {\1c&H1EC6FF&}this{\r} time, no more reruns in the dark.
+Dialogue: 0,0:00:59.10,0:00:59.72,Cap,,0,0,0,,{\fs42}For real this {\1c&H1EC6FF&}time,{\r} no more reruns in the dark.
+Dialogue: 0,0:00:59.72,0:00:59.86,Cap,,0,0,0,,{\fs42}For real this time, {\1c&H1EC6FF&}no{\r} more reruns in the dark.
+Dialogue: 0,0:00:59.86,0:01:00.22,Cap,,0,0,0,,{\fs42}For real this time, no {\1c&H1EC6FF&}more{\r} reruns in the dark.
+Dialogue: 0,0:01:00.22,0:01:01.22,Cap,,0,0,0,,{\fs42}For real this time, no more {\1c&H1EC6FF&}reruns{\r} in the dark.
+Dialogue: 0,0:01:01.22,0:01:01.68,Cap,,0,0,0,,{\fs42}For real this time, no more reruns {\1c&H1EC6FF&}in{\r} the dark.
+Dialogue: 0,0:01:01.68,0:01:01.94,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in {\1c&H1EC6FF&}the{\r} dark.
+Dialogue: 0,0:01:01.94,0:01:02.78,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in the {\1c&H1EC6FF&}dark.{\r}
+Dialogue: 0,0:01:04.40,0:01:05.24,Cap,,0,0,0,,{\1c&H1EC6FF&}Three{\r} more specials lined up in twenty-seven,
+Dialogue: 0,0:01:05.24,0:01:05.74,Cap,,0,0,0,,Three {\1c&H1EC6FF&}more{\r} specials lined up in twenty-seven,
+Dialogue: 0,0:01:05.74,0:01:06.46,Cap,,0,0,0,,Three more {\1c&H1EC6FF&}specials{\r} lined up in twenty-seven,
+Dialogue: 0,0:01:06.46,0:01:06.86,Cap,,0,0,0,,Three more specials {\1c&H1EC6FF&}lined{\r} up in twenty-seven,
+Dialogue: 0,0:01:06.86,0:01:07.14,Cap,,0,0,0,,Three more specials lined {\1c&H1EC6FF&}up{\r} in twenty-seven,
+Dialogue: 0,0:01:07.14,0:01:07.68,Cap,,0,0,0,,Three more specials lined up {\1c&H1EC6FF&}in{\r} twenty-seven,
+Dialogue: 0,0:01:07.68,0:01:08.56,Cap,,0,0,0,,Three more specials lined up in {\1c&H1EC6FF&}twenty-seven,{\r}
+Dialogue: 0,0:01:08.56,0:01:09.56,Cap,,0,0,0,,{\1c&H1EC6FF&}Christmas{\r} first, then two more after.
+Dialogue: 0,0:01:09.56,0:01:10.22,Cap,,0,0,0,,Christmas {\1c&H1EC6FF&}first,{\r} then two more after.
+Dialogue: 0,0:01:10.22,0:01:10.50,Cap,,0,0,0,,Christmas first, {\1c&H1EC6FF&}then{\r} two more after.
+Dialogue: 0,0:01:10.50,0:01:10.84,Cap,,0,0,0,,Christmas first, then {\1c&H1EC6FF&}two{\r} more after.
+Dialogue: 0,0:01:10.84,0:01:11.26,Cap,,0,0,0,,Christmas first, then two {\1c&H1EC6FF&}more{\r} after.
+Dialogue: 0,0:01:11.26,0:01:11.94,Cap,,0,0,0,,Christmas first, then two more {\1c&H1EC6FF&}after.{\r}
+Dialogue: 0,0:01:11.94,0:01:13.24,Cap,,0,0,0,,{\1c&H1EC6FF&}But{\r} a whole new season?
+Dialogue: 0,0:01:13.24,0:01:13.48,Cap,,0,0,0,,But {\1c&H1EC6FF&}a{\r} whole new season?
+Dialogue: 0,0:01:13.48,0:01:13.80,Cap,,0,0,0,,But a {\1c&H1EC6FF&}whole{\r} new season?
+Dialogue: 0,0:01:13.80,0:01:14.16,Cap,,0,0,0,,But a whole {\1c&H1EC6FF&}new{\r} season?
+Dialogue: 0,0:01:14.16,0:01:14.76,Cap,,0,0,0,,But a whole new {\1c&H1EC6FF&}season?{\r}
+Dialogue: 0,0:01:14.76,0:01:15.16,Cap,,0,0,0,,{\1c&H1EC6FF&}Not{\r} on the board.
+Dialogue: 0,0:01:15.16,0:01:15.62,Cap,,0,0,0,,Not {\1c&H1EC6FF&}on{\r} the board.
+Dialogue: 0,0:01:15.62,0:01:15.86,Cap,,0,0,0,,Not on {\1c&H1EC6FF&}the{\r} board.
+Dialogue: 0,0:01:15.86,0:01:16.36,Cap,,0,0,0,,Not on the {\1c&H1EC6FF&}board.{\r}
+Dialogue: 0,0:01:16.36,0:01:16.64,Cap,,0,0,0,,{\1c&H1EC6FF&}They{\r} sealed it up and walked out after.
+Dialogue: 0,0:01:16.64,0:01:17.00,Cap,,0,0,0,,They {\1c&H1EC6FF&}sealed{\r} it up and walked out after.
+Dialogue: 0,0:01:17.00,0:01:17.26,Cap,,0,0,0,,They sealed {\1c&H1EC6FF&}it{\r} up and walked out after.
+Dialogue: 0,0:01:17.26,0:01:17.58,Cap,,0,0,0,,They sealed it {\1c&H1EC6FF&}up{\r} and walked out after.
+Dialogue: 0,0:01:17.58,0:01:18.06,Cap,,0,0,0,,They sealed it up {\1c&H1EC6FF&}and{\r} walked out after.
+Dialogue: 0,0:01:18.06,0:01:18.38,Cap,,0,0,0,,They sealed it up and {\1c&H1EC6FF&}walked{\r} out after.
+Dialogue: 0,0:01:18.38,0:01:18.80,Cap,,0,0,0,,They sealed it up and walked {\1c&H1EC6FF&}out{\r} after.
+Dialogue: 0,0:01:18.80,0:01:19.44,Cap,,0,0,0,,They sealed it up and walked out {\1c&H1EC6FF&}after.{\r}
+Dialogue: 0,0:01:19.44,0:01:20.04,Cap,,0,0,0,,{\1c&H1EC6FF&}We've{\r} seen this loop from Fox to cable,
+Dialogue: 0,0:01:20.04,0:01:20.38,Cap,,0,0,0,,We've {\1c&H1EC6FF&}seen{\r} this loop from Fox to cable,
+Dialogue: 0,0:01:20.38,0:01:20.78,Cap,,0,0,0,,We've seen {\1c&H1EC6FF&}this{\r} loop from Fox to cable,
+Dialogue: 0,0:01:20.78,0:01:21.24,Cap,,0,0,0,,We've seen this {\1c&H1EC6FF&}loop{\r} from Fox to cable,
+Dialogue: 0,0:01:21.24,0:01:21.70,Cap,,0,0,0,,We've seen this loop {\1c&H1EC6FF&}from{\r} Fox to cable,
+Dialogue: 0,0:01:21.70,0:01:22.22,Cap,,0,0,0,,We've seen this loop from {\1c&H1EC6FF&}Fox{\r} to cable,
+Dialogue: 0,0:01:22.22,0:01:22.54,Cap,,0,0,0,,We've seen this loop from Fox {\1c&H1EC6FF&}to{\r} cable,
+Dialogue: 0,0:01:22.54,0:01:23.26,Cap,,0,0,0,,We've seen this loop from Fox to {\1c&H1EC6FF&}cable,{\r}
+Dialogue: 0,0:01:23.26,0:01:23.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Then{\r} streaming gave it one more round.
+Dialogue: 0,0:01:23.70,0:01:24.32,Cap,,0,0,0,,Then {\1c&H1EC6FF&}streaming{\r} gave it one more round.
+Dialogue: 0,0:01:24.32,0:01:25.00,Cap,,0,0,0,,Then streaming {\1c&H1EC6FF&}gave{\r} it one more round.
+Dialogue: 0,0:01:25.00,0:01:25.38,Cap,,0,0,0,,Then streaming gave {\1c&H1EC6FF&}it{\r} one more round.
+Dialogue: 0,0:01:25.38,0:01:25.74,Cap,,0,0,0,,Then streaming gave it {\1c&H1EC6FF&}one{\r} more round.
+Dialogue: 0,0:01:25.74,0:01:26.26,Cap,,0,0,0,,Then streaming gave it one {\1c&H1EC6FF&}more{\r} round.
+Dialogue: 0,0:01:26.26,0:01:27.06,Cap,,0,0,0,,Then streaming gave it one more {\1c&H1EC6FF&}round.{\r}
+Dialogue: 0,0:01:27.06,0:01:30.74,Cap,,0,0,0,,But this song's about the day they mean it,
+Dialogue: 0,0:01:30.74,0:01:30.96,Cap,,0,0,0,,{\1c&H1EC6FF&}When{\r} the last new line never comes down.
+Dialogue: 0,0:01:30.96,0:01:31.18,Cap,,0,0,0,,When {\1c&H1EC6FF&}the{\r} last new line never comes down.
+Dialogue: 0,0:01:31.18,0:01:31.62,Cap,,0,0,0,,When the {\1c&H1EC6FF&}last{\r} new line never comes down.
+Dialogue: 0,0:01:31.62,0:01:31.94,Cap,,0,0,0,,When the last {\1c&H1EC6FF&}new{\r} line never comes down.
+Dialogue: 0,0:01:31.94,0:01:32.56,Cap,,0,0,0,,When the last new {\1c&H1EC6FF&}line{\r} never comes down.
+Dialogue: 0,0:01:32.56,0:01:33.00,Cap,,0,0,0,,When the last new line {\1c&H1EC6FF&}never{\r} comes down.
+Dialogue: 0,0:01:33.00,0:01:33.78,Cap,,0,0,0,,When the last new line never {\1c&H1EC6FF&}comes{\r} down.
+Dialogue: 0,0:01:33.78,0:01:34.76,Cap,,0,0,0,,When the last new line never comes {\1c&H1EC6FF&}down.{\r}
+Dialogue: 0,0:01:36.06,0:01:36.94,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:01:36.94,0:01:37.56,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:01:37.56,0:01:38.80,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:01:38.80,0:01:39.20,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:01:39.20,0:01:43.36,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in the dark.
+Dialogue: 0,0:01:43.36,0:01:44.24,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:01:44.24,0:01:44.94,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:01:44.94,0:01:46.24,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:01:46.24,0:01:46.44,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:01:46.44,0:01:46.64,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} fresh episodes, that's the hard part.
+Dialogue: 0,0:01:46.64,0:01:47.04,Cap,,0,0,0,,No {\1c&H1EC6FF&}fresh{\r} episodes, that's the hard part.
+Dialogue: 0,0:01:47.04,0:01:48.74,Cap,,0,0,0,,No fresh {\1c&H1EC6FF&}episodes,{\r} that's the hard part.
+Dialogue: 0,0:01:48.74,0:01:49.22,Cap,,0,0,0,,No fresh episodes, {\1c&H1EC6FF&}that's{\r} the hard part.
+Dialogue: 0,0:01:49.22,0:01:49.42,Cap,,0,0,0,,No fresh episodes, that's {\1c&H1EC6FF&}the{\r} hard part.
+Dialogue: 0,0:01:49.42,0:01:49.88,Cap,,0,0,0,,No fresh episodes, that's the {\1c&H1EC6FF&}hard{\r} part.
+Dialogue: 0,0:01:49.88,0:01:50.52,Cap,,0,0,0,,No fresh episodes, that's the hard {\1c&H1EC6FF&}part.{\r}
+Dialogue: 0,0:01:50.52,0:01:50.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Good{\r} news, everyone— the ride is done,
+Dialogue: 0,0:01:50.90,0:01:51.38,Cap,,0,0,0,,Good {\1c&H1EC6FF&}news,{\r} everyone— the ride is done,
+Dialogue: 0,0:01:51.38,0:01:52.30,Cap,,0,0,0,,Good news, {\1c&H1EC6FF&}everyone—{\r} the ride is done,
+Dialogue: 0,0:01:52.30,0:01:52.48,Cap,,0,0,0,,Good news, everyone— {\1c&H1EC6FF&}the{\r} ride is done,
+Dialogue: 0,0:01:52.48,0:01:52.98,Cap,,0,0,0,,Good news, everyone— the {\1c&H1EC6FF&}ride{\r} is done,
+Dialogue: 0,0:01:52.98,0:01:53.42,Cap,,0,0,0,,Good news, everyone— the ride {\1c&H1EC6FF&}is{\r} done,
+Dialogue: 0,0:01:53.42,0:01:53.92,Cap,,0,0,0,,Good news, everyone— the ride is {\1c&H1EC6FF&}done,{\r}
+Dialogue: 0,0:01:53.92,0:01:54.64,Cap,,0,0,0,,{\1c&H1EC6FF&}Good{\r} news, everyone— the ship won't run.
+Dialogue: 0,0:01:54.64,0:01:55.12,Cap,,0,0,0,,Good {\1c&H1EC6FF&}news,{\r} everyone— the ship won't run.
+Dialogue: 0,0:01:55.12,0:01:56.02,Cap,,0,0,0,,Good news, {\1c&H1EC6FF&}everyone—{\r} the ship won't run.
+Dialogue: 0,0:01:56.02,0:01:56.20,Cap,,0,0,0,,Good news, everyone— {\1c&H1EC6FF&}the{\r} ship won't run.
+Dialogue: 0,0:01:56.20,0:01:56.58,Cap,,0,0,0,,Good news, everyone— the {\1c&H1EC6FF&}ship{\r} won't run.
+Dialogue: 0,0:01:56.58,0:01:57.14,Cap,,0,0,0,,Good news, everyone— the ship {\1c&H1EC6FF&}won't{\r} run.
+Dialogue: 0,0:01:57.14,0:01:57.76,Cap,,0,0,0,,Good news, everyone— the ship won't {\1c&H1EC6FF&}run.{\r}
+Dialogue: 0,0:01:58.36,0:01:59.38,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:01:59.38,0:02:00.00,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:02:00.00,0:02:01.06,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:02:01.06,0:02:01.54,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:02:01.54,0:02:02.06,Cap,,0,0,0,,{\fs42}{\1c&H1EC6FF&}For{\r} real this time, no more reruns in the dark.
+Dialogue: 0,0:02:02.06,0:02:02.40,Cap,,0,0,0,,{\fs42}For {\1c&H1EC6FF&}real{\r} this time, no more reruns in the dark.
+Dialogue: 0,0:02:02.40,0:02:02.74,Cap,,0,0,0,,{\fs42}For real {\1c&H1EC6FF&}this{\r} time, no more reruns in the dark.
+Dialogue: 0,0:02:02.74,0:02:03.32,Cap,,0,0,0,,{\fs42}For real this {\1c&H1EC6FF&}time,{\r} no more reruns in the dark.
+Dialogue: 0,0:02:03.32,0:02:03.50,Cap,,0,0,0,,{\fs42}For real this time, {\1c&H1EC6FF&}no{\r} more reruns in the dark.
+Dialogue: 0,0:02:03.50,0:02:03.86,Cap,,0,0,0,,{\fs42}For real this time, no {\1c&H1EC6FF&}more{\r} reruns in the dark.
+Dialogue: 0,0:02:03.86,0:02:04.86,Cap,,0,0,0,,{\fs42}For real this time, no more {\1c&H1EC6FF&}reruns{\r} in the dark.
+Dialogue: 0,0:02:04.86,0:02:05.32,Cap,,0,0,0,,{\fs42}For real this time, no more reruns {\1c&H1EC6FF&}in{\r} the dark.
+Dialogue: 0,0:02:05.32,0:02:05.62,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in {\1c&H1EC6FF&}the{\r} dark.
+Dialogue: 0,0:02:05.62,0:02:06.20,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in the {\1c&H1EC6FF&}dark.{\r}
+Dialogue: 0,0:02:06.20,0:02:07.26,Cap,,0,0,0,,{\1c&H1EC6FF&}They{\r} always joke before the ending,
+Dialogue: 0,0:02:07.26,0:02:07.70,Cap,,0,0,0,,They {\1c&H1EC6FF&}always{\r} joke before the ending,
+Dialogue: 0,0:02:07.70,0:02:08.12,Cap,,0,0,0,,They always {\1c&H1EC6FF&}joke{\r} before the ending,
+Dialogue: 0,0:02:08.12,0:02:08.72,Cap,,0,0,0,,They always joke {\1c&H1EC6FF&}before{\r} the ending,
+Dialogue: 0,0:02:08.72,0:02:09.42,Cap,,0,0,0,,They always joke before {\1c&H1EC6FF&}the{\r} ending,
+Dialogue: 0,0:02:09.42,0:02:09.98,Cap,,0,0,0,,They always joke before the {\1c&H1EC6FF&}ending,{\r}
+Dialogue: 0,0:02:09.98,0:02:10.94,Cap,,0,0,0,,{\1c&H1EC6FF&}Like{\r} they can talk the credits back.
+Dialogue: 0,0:02:10.94,0:02:11.16,Cap,,0,0,0,,Like {\1c&H1EC6FF&}they{\r} can talk the credits back.
+Dialogue: 0,0:02:11.16,0:02:11.42,Cap,,0,0,0,,Like they {\1c&H1EC6FF&}can{\r} talk the credits back.
+Dialogue: 0,0:02:11.42,0:02:11.86,Cap,,0,0,0,,Like they can {\1c&H1EC6FF&}talk{\r} the credits back.
+Dialogue: 0,0:02:11.86,0:02:12.16,Cap,,0,0,0,,Like they can talk {\1c&H1EC6FF&}the{\r} credits back.
+Dialogue: 0,0:02:12.16,0:02:12.98,Cap,,0,0,0,,Like they can talk the {\1c&H1EC6FF&}credits{\r} back.
+Dialogue: 0,0:02:12.98,0:02:13.54,Cap,,0,0,0,,Like they can talk the credits {\1c&H1EC6FF&}back.{\r}
+Dialogue: 0,0:02:13.54,0:02:14.26,Cap,,0,0,0,,{\1c&H1EC6FF&}"We'll{\r} rise again," he keeps on saying,
+Dialogue: 0,0:02:14.26,0:02:14.72,Cap,,0,0,0,,"We'll {\1c&H1EC6FF&}rise{\r} again," he keeps on saying,
+Dialogue: 0,0:02:14.72,0:02:15.52,Cap,,0,0,0,,"We'll rise {\1c&H1EC6FF&}again,"{\r} he keeps on saying,
+Dialogue: 0,0:02:15.52,0:02:15.74,Cap,,0,0,0,,"We'll rise again," {\1c&H1EC6FF&}he{\r} keeps on saying,
+Dialogue: 0,0:02:15.74,0:02:16.32,Cap,,0,0,0,,"We'll rise again," he {\1c&H1EC6FF&}keeps{\r} on saying,
+Dialogue: 0,0:02:16.32,0:02:16.88,Cap,,0,0,0,,"We'll rise again," he keeps {\1c&H1EC6FF&}on{\r} saying,
+Dialogue: 0,0:02:16.88,0:02:17.48,Cap,,0,0,0,,"We'll rise again," he keeps on {\1c&H1EC6FF&}saying,{\r}
+Dialogue: 0,0:02:17.48,0:02:18.58,Cap,,0,0,0,,{\1c&H1EC6FF&}But{\r} the paperwork says otherwise.
+Dialogue: 0,0:02:18.58,0:02:18.82,Cap,,0,0,0,,But {\1c&H1EC6FF&}the{\r} paperwork says otherwise.
+Dialogue: 0,0:02:18.82,0:02:19.34,Cap,,0,0,0,,But the {\1c&H1EC6FF&}paperwork{\r} says otherwise.
+Dialogue: 0,0:02:19.34,0:02:19.86,Cap,,0,0,0,,But the paperwork {\1c&H1EC6FF&}says{\r} otherwise.
+Dialogue: 0,0:02:19.86,0:02:20.46,Cap,,0,0,0,,But the paperwork says {\1c&H1EC6FF&}otherwise.{\r}
+Dialogue: 0,0:02:20.46,0:02:21.38,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} can binge the old ones on your couch,
+Dialogue: 0,0:02:21.38,0:02:21.70,Cap,,0,0,0,,You {\1c&H1EC6FF&}can{\r} binge the old ones on your couch,
+Dialogue: 0,0:02:21.70,0:02:22.04,Cap,,0,0,0,,You can {\1c&H1EC6FF&}binge{\r} the old ones on your couch,
+Dialogue: 0,0:02:22.04,0:02:22.42,Cap,,0,0,0,,You can binge {\1c&H1EC6FF&}the{\r} old ones on your couch,
+Dialogue: 0,0:02:22.42,0:02:22.86,Cap,,0,0,0,,You can binge the {\1c&H1EC6FF&}old{\r} ones on your couch,
+Dialogue: 0,0:02:22.86,0:02:23.30,Cap,,0,0,0,,You can binge the old {\1c&H1EC6FF&}ones{\r} on your couch,
+Dialogue: 0,0:02:23.30,0:02:23.70,Cap,,0,0,0,,You can binge the old ones {\1c&H1EC6FF&}on{\r} your couch,
+Dialogue: 0,0:02:23.70,0:02:24.10,Cap,,0,0,0,,You can binge the old ones on {\1c&H1EC6FF&}your{\r} couch,
+Dialogue: 0,0:02:24.10,0:02:24.62,Cap,,0,0,0,,You can binge the old ones on your {\1c&H1EC6FF&}couch,{\r}
+Dialogue: 0,0:02:24.62,0:02:25.02,Cap,,0,0,0,,{\1c&H1EC6FF&}Quote{\r} every line like muscle memory,
+Dialogue: 0,0:02:25.02,0:02:25.34,Cap,,0,0,0,,Quote {\1c&H1EC6FF&}every{\r} line like muscle memory,
+Dialogue: 0,0:02:25.34,0:02:25.82,Cap,,0,0,0,,Quote every {\1c&H1EC6FF&}line{\r} like muscle memory,
+Dialogue: 0,0:02:25.82,0:02:26.20,Cap,,0,0,0,,Quote every line {\1c&H1EC6FF&}like{\r} muscle memory,
+Dialogue: 0,0:02:26.20,0:02:26.84,Cap,,0,0,0,,Quote every line like {\1c&H1EC6FF&}muscle{\r} memory,
+Dialogue: 0,0:02:26.84,0:02:27.78,Cap,,0,0,0,,Quote every line like muscle {\1c&H1EC6FF&}memory,{\r}
+Dialogue: 0,0:02:27.78,0:02:28.84,Cap,,0,0,0,,{\1c&H1EC6FF&}But{\r} the new ones stopped at the doorstep,
+Dialogue: 0,0:02:28.84,0:02:29.08,Cap,,0,0,0,,But {\1c&H1EC6FF&}the{\r} new ones stopped at the doorstep,
+Dialogue: 0,0:02:29.08,0:02:29.38,Cap,,0,0,0,,But the {\1c&H1EC6FF&}new{\r} ones stopped at the doorstep,
+Dialogue: 0,0:02:29.38,0:02:29.68,Cap,,0,0,0,,But the new {\1c&H1EC6FF&}ones{\r} stopped at the doorstep,
+Dialogue: 0,0:02:29.68,0:02:30.16,Cap,,0,0,0,,But the new ones {\1c&H1EC6FF&}stopped{\r} at the doorstep,
+Dialogue: 0,0:02:30.16,0:02:30.66,Cap,,0,0,0,,But the new ones stopped {\1c&H1EC6FF&}at{\r} the doorstep,
+Dialogue: 0,0:02:30.66,0:02:30.94,Cap,,0,0,0,,But the new ones stopped at {\1c&H1EC6FF&}the{\r} doorstep,
+Dialogue: 0,0:02:30.94,0:02:31.78,Cap,,0,0,0,,But the new ones stopped at the {\1c&H1EC6FF&}doorstep,{\r}
+Dialogue: 0,0:02:31.78,0:02:32.58,Cap,,0,0,0,,{\1c&H1EC6FF&}And{\r} the hallway stays empty.
+Dialogue: 0,0:02:32.58,0:02:32.80,Cap,,0,0,0,,And {\1c&H1EC6FF&}the{\r} hallway stays empty.
+Dialogue: 0,0:02:32.80,0:02:33.32,Cap,,0,0,0,,And the {\1c&H1EC6FF&}hallway{\r} stays empty.
+Dialogue: 0,0:02:33.32,0:02:33.96,Cap,,0,0,0,,And the hallway {\1c&H1EC6FF&}stays{\r} empty.
+Dialogue: 0,0:02:33.96,0:02:35.02,Cap,,0,0,0,,And the hallway stays {\1c&H1EC6FF&}empty.{\r}
+Dialogue: 0,0:02:39.38,0:02:40.34,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished, Futurama's finished,
+Dialogue: 0,0:02:40.34,0:02:41.02,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished,{\r} Futurama's finished,
+Dialogue: 0,0:02:41.02,0:02:42.04,Cap,,0,0,0,,Futurama's finished, {\1c&H1EC6FF&}Futurama's{\r} finished,
+Dialogue: 0,0:02:42.04,0:02:42.48,Cap,,0,0,0,,Futurama's finished, Futurama's {\1c&H1EC6FF&}finished,{\r}
+Dialogue: 0,0:02:42.48,0:02:43.00,Cap,,0,0,0,,{\fs42}{\1c&H1EC6FF&}For{\r} real this time, no more reruns in the dark.
+Dialogue: 0,0:02:43.00,0:02:43.34,Cap,,0,0,0,,{\fs42}For {\1c&H1EC6FF&}real{\r} this time, no more reruns in the dark.
+Dialogue: 0,0:02:43.34,0:02:43.68,Cap,,0,0,0,,{\fs42}For real {\1c&H1EC6FF&}this{\r} time, no more reruns in the dark.
+Dialogue: 0,0:02:43.68,0:02:44.28,Cap,,0,0,0,,{\fs42}For real this {\1c&H1EC6FF&}time,{\r} no more reruns in the dark.
+Dialogue: 0,0:02:44.28,0:02:44.44,Cap,,0,0,0,,{\fs42}For real this time, {\1c&H1EC6FF&}no{\r} more reruns in the dark.
+Dialogue: 0,0:02:44.44,0:02:44.78,Cap,,0,0,0,,{\fs42}For real this time, no {\1c&H1EC6FF&}more{\r} reruns in the dark.
+Dialogue: 0,0:02:44.78,0:02:45.64,Cap,,0,0,0,,{\fs42}For real this time, no more {\1c&H1EC6FF&}reruns{\r} in the dark.
+Dialogue: 0,0:02:45.64,0:02:46.06,Cap,,0,0,0,,{\fs42}For real this time, no more reruns {\1c&H1EC6FF&}in{\r} the dark.
+Dialogue: 0,0:02:46.06,0:02:46.24,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in {\1c&H1EC6FF&}the{\r} dark.
+Dialogue: 0,0:02:46.24,0:02:46.62,Cap,,0,0,0,,{\fs42}For real this time, no more reruns in the {\1c&H1EC6FF&}dark.{\r}
+Dialogue: 0,0:02:46.62,0:02:49.70,Cap,,0,0,0,,Futurama's finished, Futurama's finished,
+Dialogue: 0,0:02:49.70,0:02:50.00,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} fresh episodes, that's the hard part.
+Dialogue: 0,0:02:50.00,0:02:50.32,Cap,,0,0,0,,No {\1c&H1EC6FF&}fresh{\r} episodes, that's the hard part.
+Dialogue: 0,0:02:50.32,0:02:51.94,Cap,,0,0,0,,No fresh {\1c&H1EC6FF&}episodes,{\r} that's the hard part.
+Dialogue: 0,0:02:51.94,0:02:52.46,Cap,,0,0,0,,No fresh episodes, {\1c&H1EC6FF&}that's{\r} the hard part.
+Dialogue: 0,0:02:52.46,0:02:52.70,Cap,,0,0,0,,No fresh episodes, that's {\1c&H1EC6FF&}the{\r} hard part.
+Dialogue: 0,0:02:52.70,0:02:53.12,Cap,,0,0,0,,No fresh episodes, that's the {\1c&H1EC6FF&}hard{\r} part.
+Dialogue: 0,0:02:53.12,0:02:53.74,Cap,,0,0,0,,No fresh episodes, that's the hard {\1c&H1EC6FF&}part.{\r}
+Dialogue: 0,0:02:53.74,0:02:54.18,Cap,,0,0,0,,{\1c&H1EC6FF&}Good{\r} news, everyone (good news, everyone),
+Dialogue: 0,0:02:54.18,0:02:54.60,Cap,,0,0,0,,Good {\1c&H1EC6FF&}news,{\r} everyone (good news, everyone),
+Dialogue: 0,0:02:54.60,0:02:55.30,Cap,,0,0,0,,Good news, {\1c&H1EC6FF&}everyone{\r} (good news, everyone),
+Dialogue: 0,0:02:55.30,0:02:55.58,Cap,,0,0,0,,Good news, everyone {\1c&H1EC6FF&}(good{\r} news, everyone),
+Dialogue: 0,0:02:55.58,0:02:56.24,Cap,,0,0,0,,Good news, everyone (good {\1c&H1EC6FF&}news,{\r} everyone),
+Dialogue: 0,0:02:56.24,0:02:57.08,Cap,,0,0,0,,Good news, everyone (good news, {\1c&H1EC6FF&}everyone),{\r}
+Dialogue: 0,0:02:57.08,0:02:57.52,Cap,,0,0,0,,{\1c&H1EC6FF&}The{\r} ride is done (the ride is done),
+Dialogue: 0,0:02:57.52,0:02:58.16,Cap,,0,0,0,,The {\1c&H1EC6FF&}ride{\r} is done (the ride is done),
+Dialogue: 0,0:02:58.16,0:02:58.66,Cap,,0,0,0,,The ride {\1c&H1EC6FF&}is{\r} done (the ride is done),
+Dialogue: 0,0:02:58.66,0:02:59.22,Cap,,0,0,0,,The ride is {\1c&H1EC6FF&}done{\r} (the ride is done),
+Dialogue: 0,0:02:59.22,0:02:59.40,Cap,,0,0,0,,The ride is done {\1c&H1EC6FF&}(the{\r} ride is done),
+Dialogue: 0,0:02:59.40,0:02:59.92,Cap,,0,0,0,,The ride is done (the {\1c&H1EC6FF&}ride{\r} is done),
+Dialogue: 0,0:02:59.92,0:03:00.30,Cap,,0,0,0,,The ride is done (the ride {\1c&H1EC6FF&}is{\r} done),
+Dialogue: 0,0:03:00.30,0:03:00.80,Cap,,0,0,0,,The ride is done (the ride is {\1c&H1EC6FF&}done),{\r}
+Dialogue: 0,0:03:00.80,0:03:04.48,Cap,,0,0,0,,Good news, everyone (good news, everyone),
+Dialogue: 0,0:03:04.48,0:03:05.48,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} more coming on.
+Dialogue: 0,0:03:05.48,0:03:06.02,Cap,,0,0,0,,No {\1c&H1EC6FF&}more{\r} coming on.
+Dialogue: 0,0:03:06.02,0:03:06.58,Cap,,0,0,0,,No more {\1c&H1EC6FF&}coming{\r} on.
+Dialogue: 0,0:03:06.58,0:03:07.90,Cap,,0,0,0,,No more coming {\1c&H1EC6FF&}on.{\r}
+Dialogue: 0,0:03:07.90,0:03:09.84,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished…
+Dialogue: 0,0:03:09.84,0:03:10.32,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished…{\r}
+Dialogue: 0,0:03:11.90,0:03:13.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Futurama's{\r} finished…
+Dialogue: 0,0:03:13.30,0:03:14.04,Cap,,0,0,0,,Futurama's {\1c&H1EC6FF&}finished…{\r}
+Dialogue: 0,0:03:14.04,0:03:15.80,Cap,,0,0,0,,{\1c&H1EC6FF&}For{\r} real this time…
+Dialogue: 0,0:03:15.80,0:03:17.20,Cap,,0,0,0,,For {\1c&H1EC6FF&}real{\r} this time…
+Dialogue: 0,0:03:17.20,0:03:17.76,Cap,,0,0,0,,For real {\1c&H1EC6FF&}this{\r} time…
+Dialogue: 0,0:03:17.76,0:03:19.04,Cap,,0,0,0,,For real this {\1c&H1EC6FF&}time…{\r}
+Dialogue: 0,0:03:19.04,0:03:20.26,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} more coming on.
+Dialogue: 0,0:03:20.26,0:03:21.32,Cap,,0,0,0,,No {\1c&H1EC6FF&}more{\r} coming on.
+Dialogue: 0,0:03:21.32,0:03:22.82,Cap,,0,0,0,,No more {\1c&H1EC6FF&}coming{\r} on.
+Dialogue: 0,0:03:22.82,0:03:24.04,Cap,,0,0,0,,No more coming {\1c&H1EC6FF&}on.{\r}
+Dialogue: 0,0:03:24.04,0:03:31.62,Cap,,0,0,0,,No more coming on… No more coming on…
+Dialogue: 0,0:03:31.62,0:03:37.12,Cap,,0,0,0,,Good news, everyone. Good news, everyone.
+Dialogue: 0,0:03:38.28,0:03:38.90,Cap,,0,0,0,,{\1c&H1EC6FF&}For{\r} real this time.
+Dialogue: 0,0:03:38.90,0:03:39.52,Cap,,0,0,0,,For {\1c&H1EC6FF&}real{\r} this time.
+Dialogue: 0,0:03:39.52,0:03:39.98,Cap,,0,0,0,,For real {\1c&H1EC6FF&}this{\r} time.
+Dialogue: 0,0:03:39.98,0:03:41.26,Cap,,0,0,0,,For real this {\1c&H1EC6FF&}time.{\r}
+Dialogue: 0,0:03:50.56,0:03:54.24,Cap,,0,0,0,,Good news, everyone.
+Dialogue: 0,0:03:54.24,0:03:58.02,Cap,,0,0,0,,For real this time.

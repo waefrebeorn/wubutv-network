@@ -1,0 +1,21 @@
+# MV-8 REBUILD v2 — Volley 2 vehicle: I-B "The Gate" (JOURNEY, montage)
+# Scene: I-B, song 45.51–60.46 (1092–1451f). 14.96s scene; one 10s take
+# (assembly trims / montage-cuts on beats; storm-cluster whips land per hit).
+# No lyric lines — instrumental build. Montage/collage river flight; one whip
+# per hit in the storm cluster 45.51–48.88; gate approach ends ON 60.43.
+# Two-image journey: F04.jpg (start, pipe-slide) -> F07.jpg (destination, gate).
+# NEVER lead with a 3:2 still — both are 16:9.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — already flying down the
+# pipe at speed, river and banks already streaming past. No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. A fast river flight down a clear glass pipe slide through a porcelain world: the Champion, an adult woman in her late twenties with a long dark braid, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, rides a giant glossy chocolate-brown soft-serve swirl creature down the slide, already flying at speed as the clip opens, white fibre hills and a glossy chocolate river canyon streaming past, the camera already rushing forward with them, never still. No text, no logos."
+Image 1: F04.jpg
+Text 2: "The flight whips through a storm cluster of porcelain arches, one fast whip per beat, then sweeps past a ribbon arch over the ridge and races toward the second image, a yellow-gloved hand opening a huge porcelain gate onto a golden palace city, the gate already swinging open as they approach."
+Image 2: F07.jpg
+Text 3: "Ends at the second image: the porcelain gate standing open onto the golden palace city, toilet-paper bunting fluttering, the flight arriving at the threshold, continuous motion to the last frame. No text, no logos, no children."
+
+IMAGE ORDER: [text, F04.jpg, text, F07.jpg, text] as listed above.

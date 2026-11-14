@@ -1,0 +1,98 @@
+{
+ "track": "work/qc_v7/mv7_s05_t1_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 13,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.8,
+   "prob": 0.834
+  },
+  {
+   "word": "kept",
+   "start": 0.8,
+   "end": 1.14,
+   "prob": 0.994
+  },
+  {
+   "word": "clicking,",
+   "start": 1.14,
+   "end": 1.64,
+   "prob": 0.939
+  },
+  {
+   "word": "kept",
+   "start": 2.18,
+   "end": 2.4,
+   "prob": 0.995
+  },
+  {
+   "word": "sticking",
+   "start": 2.4,
+   "end": 2.9,
+   "prob": 0.974
+  },
+  {
+   "word": "around",
+   "start": 2.9,
+   "end": 3.74,
+   "prob": 0.998
+  },
+  {
+   "word": "Little",
+   "start": 4.7,
+   "end": 5.5,
+   "prob": 0.485
+  },
+  {
+   "word": "by",
+   "start": 5.5,
+   "end": 5.88,
+   "prob": 0.995
+  },
+  {
+   "word": "little",
+   "start": 5.88,
+   "end": 6.36,
+   "prob": 0.995
+  },
+  {
+   "word": "I",
+   "start": 6.36,
+   "end": 6.82,
+   "prob": 0.543
+  },
+  {
+   "word": "learned",
+   "start": 6.82,
+   "end": 7.26,
+   "prob": 0.978
+  },
+  {
+   "word": "the",
+   "start": 7.26,
+   "end": 7.5,
+   "prob": 0.998
+  },
+  {
+   "word": "sound",
+   "start": 7.5,
+   "end": 8.36,
+   "prob": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.74,
+   "text": "I kept clicking, kept sticking around"
+  },
+  {
+   "start": 4.7,
+   "end": 8.36,
+   "text": "Little by little I learned the sound"
+  }
+ ]
+}

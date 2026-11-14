@@ -1,0 +1,280 @@
+[Script Info]
+Title: MV-17 Fridge Light Mystery — kinetic layer
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Line,Arial,44,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,2,40,40,26,1
+Style: Slam,Arial,58,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,30,1
+Style: Magnet,Arial,54,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0,0,0,1
+Style: Bug,Arial,22,&H66FFFFFF,&H66FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,20,16,12,1
+Style: Draw,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:02:42.82,Bug,,0,0,0,,{\pos(1252,700)}~ WuBu ~
+Dialogue: 0,0:00:07.42,0:00:08.10,Line,,0,0,0,,{\c&H00FFFF&\b1}Opened{\c&HFFFFFF&\b1} it slow and the light was already there
+Dialogue: 0,0:00:08.10,0:00:08.21,Line,,0,0,0,,Opened {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} slow and the light was already there
+Dialogue: 0,0:00:08.21,0:00:08.62,Line,,0,0,0,,Opened it {\c&H00FFFF&\b1}slow{\c&HFFFFFF&\b1} and the light was already there
+Dialogue: 0,0:00:08.62,0:00:09.29,Line,,0,0,0,,Opened it slow {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} the light was already there
+Dialogue: 0,0:00:09.29,0:00:09.52,Line,,0,0,0,,Opened it slow and {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} light was already there
+Dialogue: 0,0:00:09.52,0:00:10.02,Line,,0,0,0,,Opened it slow and the {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} was already there
+Dialogue: 0,0:00:10.02,0:00:10.41,Line,,0,0,0,,Opened it slow and the light {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} already there
+Dialogue: 0,0:00:10.41,0:00:11.28,Line,,0,0,0,,Opened it slow and the light was {\c&H00FFFF&\b1}already{\c&HFFFFFF&\b1} there
+Dialogue: 0,0:00:11.28,0:00:11.91,Line,,0,0,0,,Opened it slow and the light was already {\c&H00FFFF&\b1}there{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:12.68,0:00:13.36,Line,,0,0,0,,{\c&H00FFFF&\b1}Closed{\c&HFFFFFF&\b1} it fast and I swear I heard it shut off
+Dialogue: 0,0:00:13.36,0:00:13.52,Line,,0,0,0,,Closed {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} fast and I swear I heard it shut off
+Dialogue: 0,0:00:13.52,0:00:14.07,Line,,0,0,0,,Closed it {\c&H00FFFF&\b1}fast{\c&HFFFFFF&\b1} and I swear I heard it shut off
+Dialogue: 0,0:00:14.07,0:00:14.39,Line,,0,0,0,,Closed it fast {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} I swear I heard it shut off
+Dialogue: 0,0:00:14.39,0:00:14.57,Line,,0,0,0,,Closed it fast and {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} swear I heard it shut off
+Dialogue: 0,0:00:14.57,0:00:14.91,Line,,0,0,0,,Closed it fast and I {\c&H00FFFF&\b1}swear{\c&HFFFFFF&\b1} I heard it shut off
+Dialogue: 0,0:00:14.91,0:00:15.38,Line,,0,0,0,,Closed it fast and I swear {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} heard it shut off
+Dialogue: 0,0:00:15.38,0:00:15.70,Line,,0,0,0,,Closed it fast and I swear I {\c&H00FFFF&\b1}heard{\c&HFFFFFF&\b1} it shut off
+Dialogue: 0,0:00:15.70,0:00:15.88,Line,,0,0,0,,Closed it fast and I swear I heard {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} shut off
+Dialogue: 0,0:00:15.88,0:00:16.18,Line,,0,0,0,,Closed it fast and I swear I heard it {\c&H00FFFF&\b1}shut{\c&HFFFFFF&\b1} off
+Dialogue: 0,0:00:16.18,0:00:16.48,Line,,0,0,0,,Closed it fast and I swear I heard it shut {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:16.48,0:00:16.82,Line,,0,0,0,,{\c&H00FFFF&\b1}Now{\c&HFFFFFF&\b1} I'm sitting on the floor with the door cracked open
+Dialogue: 0,0:00:16.82,0:00:17.55,Line,,0,0,0,,Now {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} sitting on the floor with the door cracked open
+Dialogue: 0,0:00:17.55,0:00:17.75,Line,,0,0,0,,Now I'm {\c&H00FFFF&\b1}sitting{\c&HFFFFFF&\b1} on the floor with the door cracked open
+Dialogue: 0,0:00:17.75,0:00:17.95,Line,,0,0,0,,Now I'm sitting {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor with the door cracked open
+Dialogue: 0,0:00:17.95,0:00:18.05,Line,,0,0,0,,Now I'm sitting on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor with the door cracked open
+Dialogue: 0,0:00:18.05,0:00:18.45,Line,,0,0,0,,Now I'm sitting on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1} with the door cracked open
+Dialogue: 0,0:00:18.45,0:00:18.88,Line,,0,0,0,,Now I'm sitting on the floor {\c&H00FFFF&\b1}with{\c&HFFFFFF&\b1} the door cracked open
+Dialogue: 0,0:00:18.88,0:00:19.05,Line,,0,0,0,,Now I'm sitting on the floor with {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door cracked open
+Dialogue: 0,0:00:19.05,0:00:19.36,Line,,0,0,0,,Now I'm sitting on the floor with the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1} cracked open
+Dialogue: 0,0:00:19.36,0:00:19.82,Line,,0,0,0,,Now I'm sitting on the floor with the door {\c&H00FFFF&\b1}cracked{\c&HFFFFFF&\b1} open
+Dialogue: 0,0:00:19.82,0:00:20.66,Line,,0,0,0,,Now I'm sitting on the floor with the door cracked {\c&H00FFFF&\b1}open{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:20.66,0:00:21.45,Line,,0,0,0,,{\c&H00FFFF&\b1}Waiting{\c&HFFFFFF&\b1} for proof that it only works when I'm looking
+Dialogue: 0,0:00:21.45,0:00:21.68,Line,,0,0,0,,Waiting {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} proof that it only works when I'm looking
+Dialogue: 0,0:00:21.68,0:00:22.02,Line,,0,0,0,,Waiting for {\c&H00FFFF&\b1}proof{\c&HFFFFFF&\b1} that it only works when I'm looking
+Dialogue: 0,0:00:22.02,0:00:22.21,Line,,0,0,0,,Waiting for proof {\c&H00FFFF&\b1}that{\c&HFFFFFF&\b1} it only works when I'm looking
+Dialogue: 0,0:00:22.21,0:00:22.36,Line,,0,0,0,,Waiting for proof that {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} only works when I'm looking
+Dialogue: 0,0:00:22.36,0:00:22.70,Line,,0,0,0,,Waiting for proof that it {\c&H00FFFF&\b1}only{\c&HFFFFFF&\b1} works when I'm looking
+Dialogue: 0,0:00:22.70,0:00:23.30,Line,,0,0,0,,Waiting for proof that it only {\c&H00FFFF&\b1}works{\c&HFFFFFF&\b1} when I'm looking
+Dialogue: 0,0:00:23.30,0:00:23.66,Line,,0,0,0,,Waiting for proof that it only works {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I'm looking
+Dialogue: 0,0:00:23.66,0:00:24.16,Line,,0,0,0,,Waiting for proof that it only works when {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} looking
+Dialogue: 0,0:00:24.16,0:00:24.80,Line,,0,0,0,,Waiting for proof that it only works when I'm {\c&H00FFFF&\b1}looking{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:24.80,0:00:25.07,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} checked I checked
+Dialogue: 0,0:00:25.07,0:00:25.20,Line,,0,0,0,,I {\c&H00FFFF&\b1}checked{\c&HFFFFFF&\b1} I checked
+Dialogue: 0,0:00:25.20,0:00:25.66,Line,,0,0,0,,I checked {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} checked
+Dialogue: 0,0:00:25.32,0:00:33.72,Draw,,0,0,0,,{\p1\c&HFFFFFF&\pos(0,0)}m 1010 150 l 1017 150 l 1029 184 l 1022 184
+Dialogue: 0,0:00:25.66,0:00:27.89,Line,,0,0,0,,I checked I {\c&H00FFFF&\b1}checked{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:27.38,0:00:33.72,Draw,,0,0,0,,{\p1\c&HFFFFFF&\pos(0,0)}m 1045 150 l 1052 150 l 1064 184 l 1057 184
+Dialogue: 0,0:00:27.89,0:00:29.14,Line,,0,0,0,,{\c&H00FFFF&\b1}It{\c&HFFFFFF&\b1} was off it was off
+Dialogue: 0,0:00:29.14,0:00:29.52,Line,,0,0,0,,It {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} off it was off
+Dialogue: 0,0:00:29.52,0:00:30.05,Line,,0,0,0,,It was {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} it was off
+Dialogue: 0,0:00:29.64,0:00:33.72,Magnet,,0,0,0,,{\move(860,190,860,300,0,180)}{\c&H0000FF&}O{\c&H00FF00&}F{\c&HFF0000&}F
+Dialogue: 0,0:00:30.05,0:00:31.30,Line,,0,0,0,,It was off {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} was off
+Dialogue: 0,0:00:31.30,0:00:31.66,Line,,0,0,0,,It was off it {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} off
+Dialogue: 0,0:00:31.66,0:00:32.63,Line,,0,0,0,,It was off it was {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:33.59,0:00:34.22,Slam,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:00:34.22,0:00:34.49,Slam,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:00:34.49,0:00:34.76,Slam,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:00:34.76,0:00:35.59,Slam,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:00:35.59,0:00:36.27,Slam,,0,0,0,,Why does the refrigerator {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} go off when I close the door
+Dialogue: 0,0:00:36.27,0:00:36.58,Slam,,0,0,0,,Why does the refrigerator light {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off when I close the door
+Dialogue: 0,0:00:36.58,0:00:36.88,Slam,,0,0,0,,Why does the refrigerator light go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} when I close the door
+Dialogue: 0,0:00:36.88,0:00:37.05,Slam,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:00:37.05,0:00:37.13,Slam,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:00:37.13,0:00:37.41,Slam,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:00:37.41,0:00:37.66,Slam,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:00:37.66,0:00:37.99,Slam,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:38.22,0:00:38.45,Line,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does it go off
+Dialogue: 0,0:00:38.45,0:00:38.73,Line,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} it go off
+Dialogue: 0,0:00:38.73,0:00:39.03,Line,,0,0,0,,Why does {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} go off
+Dialogue: 0,0:00:39.03,0:00:39.85,Line,,0,0,0,,Why does it {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off
+Dialogue: 0,0:00:39.85,0:00:40.26,Line,,0,0,0,,Why does it go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:41.12,0:00:41.30,Line,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does that go off when I close the door
+Dialogue: 0,0:00:41.30,0:00:41.38,Line,,0,0,0,,Why does that go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:00:41.38,0:00:41.63,Line,,0,0,0,,Why does that go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:00:41.63,0:00:41.85,Line,,0,0,0,,Why does that go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:00:41.85,0:00:42.23,Line,,0,0,0,,Why does that go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:42.23,0:00:42.62,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} check twice
+Dialogue: 0,0:00:42.62,0:00:42.88,Line,,0,0,0,,I {\c&H00FFFF&\b1}check{\c&HFFFFFF&\b1} twice
+Dialogue: 0,0:00:42.88,0:00:43.34,Line,,0,0,0,,I check {\c&H00FFFF&\b1}twice{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:43.34,0:00:43.70,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} check once
+Dialogue: 0,0:00:43.70,0:00:43.94,Line,,0,0,0,,I {\c&H00FFFF&\b1}check{\c&HFFFFFF&\b1} once
+Dialogue: 0,0:00:43.94,0:00:44.31,Line,,0,0,0,,I check {\c&H00FFFF&\b1}once{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:44.31,0:00:45.13,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} it's never on
+Dialogue: 0,0:00:45.13,0:00:45.38,Line,,0,0,0,,And {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} never on
+Dialogue: 0,0:00:45.38,0:00:45.99,Line,,0,0,0,,And it's {\c&H00FFFF&\b1}never{\c&HFFFFFF&\b1} on
+Dialogue: 0,0:00:45.99,0:00:46.52,Line,,0,0,0,,And it's never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:46.52,0:00:46.94,Line,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:00:46.94,0:00:47.23,Line,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:00:47.23,0:00:48.30,Line,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:00:48.30,0:00:48.55,Line,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:00:48.55,0:00:49.30,Line,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:00:49.30,0:00:49.62,Line,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:00:49.62,0:00:49.85,Line,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:00:49.85,0:00:50.23,Line,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:00:50.23,0:00:51.22,Line,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:57.90,0:00:58.66,Line,,0,0,0,,{\c&H00FFFF&\b1}Set{\c&HFFFFFF&\b1} up my phone and recorded the whole thing
+Dialogue: 0,0:00:58.66,0:00:58.91,Line,,0,0,0,,Set {\c&H00FFFF&\b1}up{\c&HFFFFFF&\b1} my phone and recorded the whole thing
+Dialogue: 0,0:00:58.91,0:00:59.16,Line,,0,0,0,,Set up {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} phone and recorded the whole thing
+Dialogue: 0,0:00:59.16,0:00:59.94,Line,,0,0,0,,Set up my {\c&H00FFFF&\b1}phone{\c&HFFFFFF&\b1} and recorded the whole thing
+Dialogue: 0,0:00:59.94,0:01:00.95,Line,,0,0,0,,Set up my phone {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} recorded the whole thing
+Dialogue: 0,0:01:00.95,0:01:01.90,Line,,0,0,0,,Set up my phone and {\c&H00FFFF&\b1}recorded{\c&HFFFFFF&\b1} the whole thing
+Dialogue: 0,0:01:01.90,0:01:02.23,Line,,0,0,0,,Set up my phone and recorded {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} whole thing
+Dialogue: 0,0:01:02.23,0:01:02.70,Line,,0,0,0,,Set up my phone and recorded the {\c&H00FFFF&\b1}whole{\c&HFFFFFF&\b1} thing
+Dialogue: 0,0:01:02.70,0:01:03.12,Line,,0,0,0,,Set up my phone and recorded the whole {\c&H00FFFF&\b1}thing{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:03.12,0:01:03.62,Line,,0,0,0,,{\c&H00FFFF&\b1}Played{\c&HFFFFFF&\b1} it back and the light only comes on when I open
+Dialogue: 0,0:01:03.62,0:01:03.67,Line,,0,0,0,,Played {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} back and the light only comes on when I open
+Dialogue: 0,0:01:03.67,0:01:03.95,Line,,0,0,0,,Played it {\c&H00FFFF&\b1}back{\c&HFFFFFF&\b1} and the light only comes on when I open
+Dialogue: 0,0:01:03.95,0:01:04.09,Line,,0,0,0,,Played it back {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} the light only comes on when I open
+Dialogue: 0,0:01:04.09,0:01:04.19,Line,,0,0,0,,Played it back and {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} light only comes on when I open
+Dialogue: 0,0:01:04.19,0:01:04.47,Line,,0,0,0,,Played it back and the {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} only comes on when I open
+Dialogue: 0,0:01:04.47,0:01:04.67,Line,,0,0,0,,Played it back and the light {\c&H00FFFF&\b1}only{\c&HFFFFFF&\b1} comes on when I open
+Dialogue: 0,0:01:04.67,0:01:05.03,Line,,0,0,0,,Played it back and the light only {\c&H00FFFF&\b1}comes{\c&HFFFFFF&\b1} on when I open
+Dialogue: 0,0:01:05.03,0:01:05.61,Line,,0,0,0,,Played it back and the light only comes {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} when I open
+Dialogue: 0,0:01:05.61,0:01:06.23,Line,,0,0,0,,Played it back and the light only comes on {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I open
+Dialogue: 0,0:01:06.23,0:01:06.61,Line,,0,0,0,,Played it back and the light only comes on when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} open
+Dialogue: 0,0:01:06.61,0:01:07.23,Line,,0,0,0,,Played it back and the light only comes on when I {\c&H00FFFF&\b1}open{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:07.23,0:01:07.89,Line,,0,0,0,,{\c&H00FFFF&\b1}Someone's{\c&HFFFFFF&\b1} turning it off the second I walk away
+Dialogue: 0,0:01:07.89,0:01:08.14,Line,,0,0,0,,Someone's {\c&H00FFFF&\b1}turning{\c&HFFFFFF&\b1} it off the second I walk away
+Dialogue: 0,0:01:08.14,0:01:08.50,Line,,0,0,0,,Someone's turning {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} off the second I walk away
+Dialogue: 0,0:01:08.50,0:01:08.69,Line,,0,0,0,,Someone's turning it {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} the second I walk away
+Dialogue: 0,0:01:08.69,0:01:08.88,Line,,0,0,0,,Someone's turning it off {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} second I walk away
+Dialogue: 0,0:01:08.88,0:01:09.36,Line,,0,0,0,,Someone's turning it off the {\c&H00FFFF&\b1}second{\c&HFFFFFF&\b1} I walk away
+Dialogue: 0,0:01:09.36,0:01:10.03,Line,,0,0,0,,Someone's turning it off the second {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} walk away
+Dialogue: 0,0:01:10.03,0:01:10.61,Line,,0,0,0,,Someone's turning it off the second I {\c&H00FFFF&\b1}walk{\c&HFFFFFF&\b1} away
+Dialogue: 0,0:01:10.61,0:01:11.16,Line,,0,0,0,,Someone's turning it off the second I walk {\c&H00FFFF&\b1}away{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:11.16,0:01:11.50,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm starting to think it's not just the fridge anymore
+Dialogue: 0,0:01:11.50,0:01:11.61,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} starting to think it's not just the fridge anymore
+Dialogue: 0,0:01:11.61,0:01:11.83,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}starting{\c&HFFFFFF&\b1} to think it's not just the fridge anymore
+Dialogue: 0,0:01:11.83,0:01:12.06,Line,,0,0,0,,And I'm starting {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} think it's not just the fridge anymore
+Dialogue: 0,0:01:12.06,0:01:12.39,Line,,0,0,0,,And I'm starting to {\c&H00FFFF&\b1}think{\c&HFFFFFF&\b1} it's not just the fridge anymore
+Dialogue: 0,0:01:12.39,0:01:12.67,Line,,0,0,0,,And I'm starting to think {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} not just the fridge anymore
+Dialogue: 0,0:01:12.67,0:01:13.03,Line,,0,0,0,,And I'm starting to think it's {\c&H00FFFF&\b1}not{\c&HFFFFFF&\b1} just the fridge anymore
+Dialogue: 0,0:01:13.03,0:01:13.64,Line,,0,0,0,,And I'm starting to think it's not {\c&H00FFFF&\b1}just{\c&HFFFFFF&\b1} the fridge anymore
+Dialogue: 0,0:01:13.64,0:01:13.89,Line,,0,0,0,,And I'm starting to think it's not just {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} fridge anymore
+Dialogue: 0,0:01:13.89,0:01:14.53,Line,,0,0,0,,And I'm starting to think it's not just the {\c&H00FFFF&\b1}fridge{\c&HFFFFFF&\b1} anymore
+Dialogue: 0,0:01:14.53,0:01:15.25,Line,,0,0,0,,And I'm starting to think it's not just the fridge {\c&H00FFFF&\b1}anymore{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:15.25,0:01:16.03,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} checked I checked
+Dialogue: 0,0:01:16.03,0:01:17.72,Line,,0,0,0,,I {\c&H00FFFF&\b1}checked{\c&HFFFFFF&\b1} I checked
+Dialogue: 0,0:01:16.16,0:01:19.50,Draw,,0,0,0,,{\p1\c&HFFFFFF&\pos(0,0)}m 1080 150 l 1087 150 l 1099 184 l 1092 184
+Dialogue: 0,0:01:17.72,0:01:18.19,Line,,0,0,0,,I checked {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} checked
+Dialogue: 0,0:01:18.19,0:01:19.08,Line,,0,0,0,,I checked I {\c&H00FFFF&\b1}checked{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:18.32,0:01:19.50,Draw,,0,0,0,,{\p1\c&HFFFFFF&\pos(0,0)}m 1115 150 l 1122 150 l 1134 184 l 1127 184
+Dialogue: 0,0:01:19.08,0:01:20.06,Line,,0,0,0,,{\c&H00FFFF&\b1}It{\c&HFFFFFF&\b1} was off it was off
+Dialogue: 0,0:01:20.06,0:01:20.44,Line,,0,0,0,,It {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} off it was off
+Dialogue: 0,0:01:20.44,0:01:21.25,Line,,0,0,0,,It was {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} it was off
+Dialogue: 0,0:01:21.25,0:01:22.23,Line,,0,0,0,,It was off {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} was off
+Dialogue: 0,0:01:22.23,0:01:22.59,Line,,0,0,0,,It was off it {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} off
+Dialogue: 0,0:01:22.59,0:01:23.61,Line,,0,0,0,,It was off it was {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:24.38,0:01:25.14,Slam,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:01:25.14,0:01:25.42,Slam,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:01:25.42,0:01:25.66,Slam,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:01:25.66,0:01:26.50,Slam,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:01:26.50,0:01:27.17,Slam,,0,0,0,,Why does the refrigerator {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} go off when I close the door
+Dialogue: 0,0:01:27.17,0:01:27.47,Slam,,0,0,0,,Why does the refrigerator light {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off when I close the door
+Dialogue: 0,0:01:27.47,0:01:27.80,Slam,,0,0,0,,Why does the refrigerator light go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} when I close the door
+Dialogue: 0,0:01:27.80,0:01:27.95,Slam,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:01:27.95,0:01:28.03,Slam,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:01:28.03,0:01:28.33,Slam,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:01:28.33,0:01:28.58,Slam,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:01:28.58,0:01:28.94,Slam,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:29.11,0:01:29.38,Line,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does it go off
+Dialogue: 0,0:01:29.38,0:01:29.66,Line,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} it go off
+Dialogue: 0,0:01:29.66,0:01:29.88,Line,,0,0,0,,Why does {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} go off
+Dialogue: 0,0:01:29.88,0:01:30.72,Line,,0,0,0,,Why does it {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off
+Dialogue: 0,0:01:30.72,0:01:32.00,Line,,0,0,0,,Why does it go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:33.14,0:01:33.52,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} check twice I check once
+Dialogue: 0,0:01:33.52,0:01:33.78,Line,,0,0,0,,I {\c&H00FFFF&\b1}check{\c&HFFFFFF&\b1} twice I check once
+Dialogue: 0,0:01:33.78,0:01:34.33,Line,,0,0,0,,I check {\c&H00FFFF&\b1}twice{\c&HFFFFFF&\b1} I check once
+Dialogue: 0,0:01:34.33,0:01:34.61,Line,,0,0,0,,I check twice {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} check once
+Dialogue: 0,0:01:34.61,0:01:34.88,Line,,0,0,0,,I check twice I {\c&H00FFFF&\b1}check{\c&HFFFFFF&\b1} once
+Dialogue: 0,0:01:34.88,0:01:35.28,Line,,0,0,0,,I check twice I check {\c&H00FFFF&\b1}once{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:35.28,0:01:36.02,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} it's never on
+Dialogue: 0,0:01:36.02,0:01:36.30,Line,,0,0,0,,And {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} never on
+Dialogue: 0,0:01:36.30,0:01:36.94,Line,,0,0,0,,And it's {\c&H00FFFF&\b1}never{\c&HFFFFFF&\b1} on
+Dialogue: 0,0:01:36.94,0:01:37.44,Line,,0,0,0,,And it's never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:37.44,0:01:37.86,Line,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:01:37.86,0:01:38.16,Line,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:01:38.16,0:01:38.39,Line,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:01:38.39,0:01:39.23,Line,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:01:39.23,0:01:39.94,Line,,0,0,0,,Why does the refrigerator {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} go off when I close the door
+Dialogue: 0,0:01:39.94,0:01:40.22,Line,,0,0,0,,Why does the refrigerator light {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off when I close the door
+Dialogue: 0,0:01:40.22,0:01:40.56,Line,,0,0,0,,Why does the refrigerator light go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} when I close the door
+Dialogue: 0,0:01:40.56,0:01:40.72,Line,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:01:40.72,0:01:40.80,Line,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:01:40.80,0:01:41.30,Line,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:01:41.30,0:01:41.59,Line,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:01:41.59,0:01:42.25,Line,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:44.64,0:01:45.39,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} checked twice I checked twice
+Dialogue: 0,0:01:45.39,0:01:45.89,Line,,0,0,0,,I {\c&H00FFFF&\b1}checked{\c&HFFFFFF&\b1} twice I checked twice
+Dialogue: 0,0:01:45.89,0:01:46.73,Line,,0,0,0,,I checked {\c&H00FFFF&\b1}twice{\c&HFFFFFF&\b1} I checked twice
+Dialogue: 0,0:01:46.73,0:01:47.59,Line,,0,0,0,,I checked twice {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} checked twice
+Dialogue: 0,0:01:47.59,0:01:48.11,Line,,0,0,0,,I checked twice I {\c&H00FFFF&\b1}checked{\c&HFFFFFF&\b1} twice
+Dialogue: 0,0:01:48.11,0:01:48.52,Line,,0,0,0,,I checked twice I checked {\c&H00FFFF&\b1}twice{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:48.52,0:01:49.44,Line,,0,0,0,,{\c&H00FFFF&\b1}It{\c&HFFFFFF&\b1} was never on it was never on
+Dialogue: 0,0:01:49.44,0:01:49.75,Line,,0,0,0,,It {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} never on it was never on
+Dialogue: 0,0:01:49.75,0:01:50.19,Line,,0,0,0,,It was {\c&H00FFFF&\b1}never{\c&HFFFFFF&\b1} on it was never on
+Dialogue: 0,0:01:50.19,0:01:50.94,Line,,0,0,0,,It was never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} it was never on
+Dialogue: 0,0:01:50.94,0:01:51.61,Line,,0,0,0,,It was never on {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} was never on
+Dialogue: 0,0:01:51.61,0:01:51.92,Line,,0,0,0,,It was never on it {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} never on
+Dialogue: 0,0:01:51.92,0:01:52.28,Line,,0,0,0,,It was never on it was {\c&H00FFFF&\b1}never{\c&HFFFFFF&\b1} on
+Dialogue: 0,0:01:52.28,0:01:52.95,Line,,0,0,0,,It was never on it was never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:56.28,0:01:57.47,Line,,0,0,0,,{\c&H00FFFF&\b1}When{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:01:57.47,0:01:57.72,Line,,0,0,0,,When {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:01:57.72,0:01:58.31,Line,,0,0,0,,When I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:01:58.31,0:01:58.58,Line,,0,0,0,,When I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:01:58.58,0:01:59.17,Line,,0,0,0,,When I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:06.95,0:02:07.56,Slam,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:02:07.56,0:02:07.83,Slam,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:02:07.83,0:02:08.09,Slam,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:02:08.09,0:02:08.94,Slam,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:02:08.94,0:02:09.62,Slam,,0,0,0,,Why does the refrigerator {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} go off when I close the door
+Dialogue: 0,0:02:09.62,0:02:09.94,Slam,,0,0,0,,Why does the refrigerator light {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off when I close the door
+Dialogue: 0,0:02:09.94,0:02:10.24,Slam,,0,0,0,,Why does the refrigerator light go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} when I close the door
+Dialogue: 0,0:02:10.24,0:02:10.41,Slam,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:02:10.41,0:02:10.50,Slam,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:02:10.50,0:02:10.75,Slam,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:02:10.75,0:02:10.96,Slam,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:02:10.96,0:02:11.38,Slam,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:11.56,0:02:11.81,Line,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:02:11.81,0:02:12.07,Line,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:02:12.07,0:02:12.35,Line,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:02:12.35,0:02:13.01,Line,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:02:13.01,0:02:13.85,Line,,0,0,0,,Why does the refrigerator {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} go off when I close the door
+Dialogue: 0,0:02:13.85,0:02:14.16,Line,,0,0,0,,Why does the refrigerator light {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off when I close the door
+Dialogue: 0,0:02:14.16,0:02:14.47,Line,,0,0,0,,Why does the refrigerator light go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} when I close the door
+Dialogue: 0,0:02:14.47,0:02:14.63,Line,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:02:14.63,0:02:14.74,Line,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:02:14.74,0:02:15.00,Line,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:02:15.00,0:02:15.22,Line,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:02:15.22,0:02:15.56,Line,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:15.78,0:02:16.00,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} check twice I check twice
+Dialogue: 0,0:02:16.00,0:02:16.24,Line,,0,0,0,,I {\c&H00FFFF&\b1}check{\c&HFFFFFF&\b1} twice I check twice
+Dialogue: 0,0:02:16.24,0:02:16.74,Line,,0,0,0,,I check {\c&H00FFFF&\b1}twice{\c&HFFFFFF&\b1} I check twice
+Dialogue: 0,0:02:16.74,0:02:17.03,Line,,0,0,0,,I check twice {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} check twice
+Dialogue: 0,0:02:17.03,0:02:17.31,Line,,0,0,0,,I check twice I {\c&H00FFFF&\b1}check{\c&HFFFFFF&\b1} twice
+Dialogue: 0,0:02:17.31,0:02:17.79,Line,,0,0,0,,I check twice I check {\c&H00FFFF&\b1}twice{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:17.79,0:02:18.50,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} it's never on
+Dialogue: 0,0:02:18.50,0:02:18.74,Line,,0,0,0,,And {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} never on
+Dialogue: 0,0:02:18.74,0:02:19.40,Line,,0,0,0,,And it's {\c&H00FFFF&\b1}never{\c&HFFFFFF&\b1} on
+Dialogue: 0,0:02:19.40,0:02:19.91,Line,,0,0,0,,And it's never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:19.91,0:02:20.28,Slam,,0,0,0,,{\c&H00FFFF&\b1}Why{\c&HFFFFFF&\b1} does the refrigerator light go off when I close the door
+Dialogue: 0,0:02:20.28,0:02:20.57,Slam,,0,0,0,,Why {\c&H00FFFF&\b1}does{\c&HFFFFFF&\b1} the refrigerator light go off when I close the door
+Dialogue: 0,0:02:20.57,0:02:20.84,Slam,,0,0,0,,Why does {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} refrigerator light go off when I close the door
+Dialogue: 0,0:02:20.84,0:02:21.66,Slam,,0,0,0,,Why does the {\c&H00FFFF&\b1}refrigerator{\c&HFFFFFF&\b1} light go off when I close the door
+Dialogue: 0,0:02:21.66,0:02:22.35,Slam,,0,0,0,,Why does the refrigerator {\c&H00FFFF&\b1}light{\c&HFFFFFF&\b1} go off when I close the door
+Dialogue: 0,0:02:22.35,0:02:22.66,Slam,,0,0,0,,Why does the refrigerator light {\c&H00FFFF&\b1}go{\c&HFFFFFF&\b1} off when I close the door
+Dialogue: 0,0:02:22.66,0:02:22.97,Slam,,0,0,0,,Why does the refrigerator light go {\c&H00FFFF&\b1}off{\c&HFFFFFF&\b1} when I close the door
+Dialogue: 0,0:02:22.97,0:02:23.16,Slam,,0,0,0,,Why does the refrigerator light go off {\c&H00FFFF&\b1}when{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:02:23.16,0:02:23.25,Slam,,0,0,0,,Why does the refrigerator light go off when {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:02:23.25,0:02:23.66,Slam,,0,0,0,,Why does the refrigerator light go off when I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:02:23.66,0:02:24.06,Slam,,0,0,0,,Why does the refrigerator light go off when I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:02:24.06,0:02:24.57,Slam,,0,0,0,,Why does the refrigerator light go off when I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:28.56,0:02:29.96,Line,,0,0,0,,{\c&H00FFFF&\b1}Never{\c&HFFFFFF&\b1} on never on
+Dialogue: 0,0:02:29.96,0:02:30.79,Line,,0,0,0,,Never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} never on
+Dialogue: 0,0:02:30.79,0:02:32.07,Line,,0,0,0,,Never on {\c&H00FFFF&\b1}never{\c&HFFFFFF&\b1} on
+Dialogue: 0,0:02:32.07,0:02:33.13,Line,,0,0,0,,Never on never {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:33.13,0:02:35.84,Line,,0,0,0,,{\c&H00FFFF&\b1}When{\c&HFFFFFF&\b1} I close the door
+Dialogue: 0,0:02:35.84,0:02:35.97,Line,,0,0,0,,When {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} close the door
+Dialogue: 0,0:02:35.97,0:02:36.56,Line,,0,0,0,,When I {\c&H00FFFF&\b1}close{\c&HFFFFFF&\b1} the door
+Dialogue: 0,0:02:36.56,0:02:36.84,Line,,0,0,0,,When I close {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} door
+Dialogue: 0,0:02:36.84,0:02:37.53,Line,,0,0,0,,When I close the {\c&H00FFFF&\b1}door{\c&HFFFFFF&\b1}

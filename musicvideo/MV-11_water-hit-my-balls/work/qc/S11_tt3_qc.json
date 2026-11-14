@@ -1,0 +1,57 @@
+{
+ "take": "media-generation-mv11-rebuild-s11-t3-0-f0a908f6-b5ae-4295-9357-cef2ae92859e.mp4",
+ "scene": "S11",
+ "take_no": "t3",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Thanks",
+   "start": 0.0,
+   "end": 0.64,
+   "prob": 0.004
+  },
+  {
+   "word": "for",
+   "start": 0.64,
+   "end": 0.64,
+   "prob": 0.843
+  },
+  {
+   "word": "watching!",
+   "start": 0.64,
+   "end": 9.76,
+   "prob": 0.928
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "06a7f8a8836e",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 2.5,
+   "md5": "772756068f51",
+   "mean_abs_diff_from_prev": 40.42
+  },
+  {
+   "t": 4.5,
+   "md5": "514dbdcf3900",
+   "mean_abs_diff_from_prev": 37.13
+  },
+  {
+   "t": 5.0,
+   "md5": "013bbe5a18f4",
+   "mean_abs_diff_from_prev": 65.87
+  },
+  {
+   "t": 7.5,
+   "md5": "b2f5da74a5b5",
+   "mean_abs_diff_from_prev": 53.94
+  }
+ ],
+ "frames_distinct": true
+}

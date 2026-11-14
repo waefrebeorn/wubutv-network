@@ -1,0 +1,217 @@
+{
+ "take": "mv5_s15_t1.mp4",
+ "take_duration_s": 5.035,
+ "prompted_line": "And my whole head replays",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 116.0-120.21",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "And",
+    0.0,
+    0.56
+   ],
+   [
+    "my",
+    0.56,
+    0.96
+   ],
+   [
+    "whole",
+    0.96,
+    1.54
+   ],
+   [
+    "head",
+    1.54,
+    2.44
+   ],
+   [
+    "replays",
+    2.44,
+    4.4
+   ]
+  ],
+  "prompted": [
+   [
+    "And",
+    0.0,
+    0.56
+   ],
+   [
+    "my",
+    0.56,
+    0.96
+   ],
+   [
+    "whole",
+    0.96,
+    1.54
+   ],
+   [
+    "head",
+    1.54,
+    2.44
+   ],
+   [
+    "replays",
+    2.44,
+    4.4
+   ],
+   [
+    "And",
+    4.4,
+    5.0
+   ],
+   [
+    "my",
+    5.0,
+    5.0
+   ],
+   [
+    "whole",
+    5.0,
+    5.0
+   ],
+   [
+    "head",
+    5.0,
+    5.0
+   ],
+   [
+    "replays",
+    5.0,
+    5.0
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.245,
+ "words": [
+  {
+   "song_word": "head",
+   "song_start": 116.1,
+   "song_end": 116.32,
+   "take_word": "head",
+   "take_start": 1.54,
+   "take_end": 2.44,
+   "source": "unprompted",
+   "raw_offset": -114.56,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.9,
+    "song_interval_s": 0.22,
+    "playback_speed": 4.091,
+    "setpts_factor": 0.2444,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 4.09x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "replays",
+   "song_start": 116.32,
+   "song_end": 116.98,
+   "take_word": "replays",
+   "take_start": 2.44,
+   "take_end": 4.4,
+   "source": "unprompted",
+   "raw_offset": -113.88,
+   "swing_offset": 0.68,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.96,
+    "song_interval_s": 0.66,
+    "playback_speed": 2.97,
+    "setpts_factor": 0.3367,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "(held)",
+   "song_start": 119.3,
+   "song_end": 119.66,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "word": "And",
+   "start": 0.0,
+   "end": 0.56,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "my",
+   "start": 0.56,
+   "end": 0.96,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "whole",
+   "start": 0.96,
+   "end": 1.54,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "head",
+   "song_time": 116.1,
+   "take_time": 1.54
+  },
+  {
+   "word": "replays",
+   "song_time": 116.32,
+   "take_time": 2.44
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "(held)"
+   ],
+   "span_song": [
+    119.3,
+    119.66
+   ],
+   "cut_out_beat": 118.747,
+   "return_onset": null,
+   "return_beat": 119.861,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "WARPABLE": 2,
+  "BAD-missing": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

@@ -1,0 +1,64 @@
+{
+ "vocals_file": "mv14_44k_(Vocals)_htdemucs.wav",
+ "params": {
+  "win": 0.025,
+  "hop": 0.01,
+  "thr_frac_p99": 0.1,
+  "min_silence_s": 1.0,
+  "max_len_s": 30.0,
+  "min_len_s": 0.5,
+  "pad_s": 0.3
+ },
+ "track_len_s": 161.6,
+ "n_segments": 12,
+ "segments": [
+  {
+   "start": 14.14,
+   "end": 21.29
+  },
+  {
+   "start": 22.01,
+   "end": 34.95
+  },
+  {
+   "start": 36.23,
+   "end": 55.13
+  },
+  {
+   "start": 56.11,
+   "end": 60.53
+  },
+  {
+   "start": 61.17,
+   "end": 65.87
+  },
+  {
+   "start": 66.4,
+   "end": 82.38
+  },
+  {
+   "start": 81.78,
+   "end": 103.86
+  },
+  {
+   "start": 104.29,
+   "end": 131.16
+  },
+  {
+   "start": 133.49,
+   "end": 136.74
+  },
+  {
+   "start": 139.09,
+   "end": 141.95
+  },
+  {
+   "start": 143.88,
+   "end": 152.5
+  },
+  {
+   "start": 155.21,
+   "end": 159.53
+  }
+ ]
+}

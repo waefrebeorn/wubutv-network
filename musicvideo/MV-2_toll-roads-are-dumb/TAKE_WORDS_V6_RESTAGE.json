@@ -1,0 +1,514 @@
+{
+  "S07": {
+    "take": "mv2_s07_v6restage_t1.mp4",
+    "words": [
+      {
+        "t0": 0.0,
+        "t1": 0.68,
+        "raw": "We've",
+        "norm": "weve"
+      },
+      {
+        "t0": 0.68,
+        "t1": 0.94,
+        "raw": "been",
+        "norm": "been"
+      },
+      {
+        "t0": 0.94,
+        "t1": 1.76,
+        "raw": "slamming",
+        "norm": "slamming"
+      },
+      {
+        "t0": 1.76,
+        "t1": 2.14,
+        "raw": "the",
+        "norm": "the"
+      },
+      {
+        "t0": 2.14,
+        "t1": 2.78,
+        "raw": "danger",
+        "norm": "danger"
+      },
+      {
+        "t0": 2.78,
+        "t1": 3.94,
+        "raw": "roads",
+        "norm": "roads"
+      },
+      {
+        "t0": 3.94,
+        "t1": 5.1,
+        "raw": "Tall",
+        "norm": "toll"
+      },
+      {
+        "t0": 5.1,
+        "t1": 5.82,
+        "raw": "roads",
+        "norm": "roads"
+      },
+      {
+        "t0": 5.82,
+        "t1": 6.24,
+        "raw": "are",
+        "norm": "are"
+      },
+      {
+        "t0": 6.24,
+        "t1": 6.94,
+        "raw": "dumb",
+        "norm": "dumb"
+      }
+    ],
+    "matched": [
+      [
+        "weve",
+        0.0,
+        0.68
+      ],
+      [
+        "been",
+        0.68,
+        0.94
+      ],
+      [
+        "slamming",
+        0.94,
+        1.76
+      ],
+      [
+        "the",
+        1.76,
+        2.14
+      ],
+      [
+        "danger",
+        2.14,
+        2.78
+      ],
+      [
+        "roads",
+        2.78,
+        3.94
+      ],
+      [
+        "toll",
+        3.94,
+        5.1
+      ],
+      [
+        "roads",
+        5.1,
+        5.82
+      ],
+      [
+        "are",
+        5.82,
+        6.24
+      ],
+      [
+        "dumb",
+        6.24,
+        6.94
+      ]
+    ],
+    "missing": [],
+    "extra_counts": {},
+    "vocal_span": 6.94,
+    "song_span": 8.5,
+    "ratio": 1.2248,
+    "frame_gate": {
+      "mean": 0.496,
+      "neardup_run": 20,
+      "frozen_run": 0,
+      "frames": 167
+    }
+  },
+  "S21": {
+    "take": "mv2_s21_v6restage_t1.mp4",
+    "words": [
+      {
+        "t0": 0.0,
+        "t1": 1.26,
+        "raw": "The",
+        "norm": "the"
+      },
+      {
+        "t0": 1.26,
+        "t1": 1.72,
+        "raw": "wrecks",
+        "norm": "wrecks"
+      },
+      {
+        "t0": 1.72,
+        "t1": 2.06,
+        "raw": "just",
+        "norm": "just"
+      },
+      {
+        "t0": 2.06,
+        "t1": 2.54,
+        "raw": "come,",
+        "norm": "come"
+      },
+      {
+        "t0": 3.36,
+        "t1": 3.92,
+        "raw": "paid",
+        "norm": "pay"
+      },
+      {
+        "t0": 3.92,
+        "t1": 4.18,
+        "raw": "to",
+        "norm": "to"
+      },
+      {
+        "t0": 4.18,
+        "t1": 4.4,
+        "raw": "go",
+        "norm": "go"
+      },
+      {
+        "t0": 4.4,
+        "t1": 5.18,
+        "raw": "faster,",
+        "norm": "faster"
+      },
+      {
+        "t0": 6.0,
+        "t1": 6.36,
+        "raw": "the",
+        "norm": "the"
+      },
+      {
+        "t0": 6.36,
+        "t1": 6.74,
+        "raw": "rest",
+        "norm": "rest"
+      },
+      {
+        "t0": 6.74,
+        "t1": 6.96,
+        "raw": "of",
+        "norm": "of"
+      },
+      {
+        "t0": 6.96,
+        "t1": 7.14,
+        "raw": "us",
+        "norm": "us"
+      },
+      {
+        "t0": 7.14,
+        "t1": 7.62,
+        "raw": "slow.",
+        "norm": "slow"
+      }
+    ],
+    "matched": [
+      [
+        "the",
+        0.0,
+        1.26
+      ],
+      [
+        "wrecks",
+        1.26,
+        1.72
+      ],
+      [
+        "just",
+        1.72,
+        2.06
+      ],
+      [
+        "come",
+        2.06,
+        2.54
+      ],
+      [
+        "pay",
+        3.36,
+        3.92
+      ],
+      [
+        "to",
+        3.92,
+        4.18
+      ],
+      [
+        "go",
+        4.18,
+        4.4
+      ],
+      [
+        "faster",
+        4.4,
+        5.18
+      ],
+      [
+        "the",
+        6.0,
+        6.36
+      ],
+      [
+        "rest",
+        6.36,
+        6.74
+      ],
+      [
+        "of",
+        6.74,
+        6.96
+      ],
+      [
+        "us",
+        6.96,
+        7.14
+      ],
+      [
+        "slow",
+        7.14,
+        7.62
+      ]
+    ],
+    "missing": [
+      "to (2nd, between faster and the)"
+    ],
+    "extra_counts": {},
+    "vocal_span": 7.62,
+    "song_span": 9.24,
+    "ratio": 1.2126,
+    "frame_gate": {
+      "mean": 0.541,
+      "neardup_run": 20,
+      "frozen_run": 3,
+      "frames": 183
+    }
+  },
+  "S04a": {
+    "take": "mv2_s04a_v6restage_t1.mp4",
+    "words": [
+      {
+        "t0": 0.0,
+        "t1": 0.46,
+        "raw": "Now",
+        "norm": "now"
+      },
+      {
+        "t0": 0.46,
+        "t1": 0.7,
+        "raw": "they",
+        "norm": "they"
+      },
+      {
+        "t0": 0.7,
+        "t1": 0.94,
+        "raw": "got",
+        "norm": "got"
+      },
+      {
+        "t0": 0.94,
+        "t1": 1.16,
+        "raw": "the",
+        "norm": "the"
+      },
+      {
+        "t0": 1.16,
+        "t1": 1.66,
+        "raw": "fast",
+        "norm": "fast"
+      },
+      {
+        "t0": 1.66,
+        "t1": 2.04,
+        "raw": "lanes,",
+        "norm": "lanes"
+      },
+      {
+        "t0": 2.76,
+        "t1": 2.86,
+        "raw": "the",
+        "norm": "the"
+      },
+      {
+        "t0": 2.86,
+        "t1": 3.22,
+        "raw": "rich",
+        "norm": "rich"
+      },
+      {
+        "t0": 3.22,
+        "t1": 3.48,
+        "raw": "ones",
+        "norm": "ones"
+      },
+      {
+        "t0": 3.48,
+        "t1": 3.84,
+        "raw": "fly",
+        "norm": "fly"
+      },
+      {
+        "t0": 3.84,
+        "t1": 4.22,
+        "raw": "on",
+        "norm": "on"
+      },
+      {
+        "t0": 4.22,
+        "t1": 4.66,
+        "raw": "by,",
+        "norm": "by"
+      },
+      {
+        "t0": 5.5,
+        "t1": 5.84,
+        "raw": "while",
+        "norm": "while"
+      },
+      {
+        "t0": 5.84,
+        "t1": 6.06,
+        "raw": "the",
+        "norm": "the"
+      },
+      {
+        "t0": 6.06,
+        "t1": 6.36,
+        "raw": "rest",
+        "norm": "rest"
+      },
+      {
+        "t0": 6.36,
+        "t1": 6.54,
+        "raw": "of",
+        "norm": "of"
+      },
+      {
+        "t0": 6.54,
+        "t1": 6.76,
+        "raw": "us",
+        "norm": "us"
+      },
+      {
+        "t0": 6.76,
+        "t1": 7.32,
+        "raw": "crawl.",
+        "norm": "crawl"
+      }
+    ],
+    "matched": [
+      [
+        "now",
+        0.0,
+        0.46
+      ],
+      [
+        "they",
+        0.46,
+        0.7
+      ],
+      [
+        "got",
+        0.7,
+        0.94
+      ],
+      [
+        "the",
+        0.94,
+        1.16
+      ],
+      [
+        "fast",
+        1.16,
+        1.66
+      ],
+      [
+        "lanes",
+        1.66,
+        2.04
+      ],
+      [
+        "the",
+        2.76,
+        2.86
+      ],
+      [
+        "rich",
+        2.86,
+        3.22
+      ],
+      [
+        "ones",
+        3.22,
+        3.48
+      ],
+      [
+        "fly",
+        3.48,
+        3.84
+      ],
+      [
+        "on",
+        3.84,
+        4.22
+      ],
+      [
+        "by",
+        4.22,
+        4.66
+      ],
+      [
+        "while",
+        5.5,
+        5.84
+      ],
+      [
+        "the",
+        5.84,
+        6.06
+      ],
+      [
+        "rest",
+        6.06,
+        6.36
+      ],
+      [
+        "of",
+        6.36,
+        6.54
+      ],
+      [
+        "us",
+        6.54,
+        6.76
+      ],
+      [
+        "crawl",
+        6.76,
+        7.32
+      ]
+    ],
+    "missing": [
+      "watching",
+      "money",
+      "flash",
+      "by"
+    ],
+    "extra_counts": {},
+    "vocal_span": 7.32,
+    "song_span": 6.74,
+    "ratio": 0.9208,
+    "frame_gate": {
+      "mean": 0.942,
+      "neardup_run": 7,
+      "frozen_run": 2,
+      "frames": 176
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+ "take": "takes/mv17_s24_t1.mp4",
+ "words": [
+  {
+   "w": "Why",
+   "start": 0.0,
+   "end": 0.52,
+   "p": 0.841
+  },
+  {
+   "w": "does",
+   "start": 0.52,
+   "end": 0.86,
+   "p": 0.997
+  },
+  {
+   "w": "the",
+   "start": 0.86,
+   "end": 1.12,
+   "p": 0.999
+  },
+  {
+   "w": "refrigerator",
+   "start": 1.12,
+   "end": 1.88,
+   "p": 0.978
+  },
+  {
+   "w": "light",
+   "start": 1.88,
+   "end": 2.72,
+   "p": 0.991
+  },
+  {
+   "w": "go",
+   "start": 2.72,
+   "end": 3.08,
+   "p": 0.997
+  },
+  {
+   "w": "off",
+   "start": 3.08,
+   "end": 3.54,
+   "p": 0.997
+  },
+  {
+   "w": "when",
+   "start": 3.54,
+   "end": 3.8,
+   "p": 0.872
+  },
+  {
+   "w": "I",
+   "start": 3.8,
+   "end": 3.96,
+   "p": 0.977
+  },
+  {
+   "w": "close",
+   "start": 3.96,
+   "end": 4.4,
+   "p": 0.992
+  },
+  {
+   "w": "the",
+   "start": 4.4,
+   "end": 4.66,
+   "p": 0.999
+  },
+  {
+   "w": "door?",
+   "start": 4.66,
+   "end": 5.1,
+   "p": 1.0
+  },
+  {
+   "w": "Why",
+   "start": 5.48,
+   "end": 6.14,
+   "p": 0.983
+  },
+  {
+   "w": "does",
+   "start": 6.14,
+   "end": 6.46,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 6.46,
+   "end": 6.7,
+   "p": 0.999
+  },
+  {
+   "w": "refrigerator",
+   "start": 6.7,
+   "end": 7.4,
+   "p": 0.994
+  },
+  {
+   "w": "light",
+   "start": 7.4,
+   "end": 8.08,
+   "p": 0.999
+  },
+  {
+   "w": "go",
+   "start": 8.08,
+   "end": 8.44,
+   "p": 1.0
+  },
+  {
+   "w": "off?",
+   "start": 8.44,
+   "end": 8.98,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.1,
+   "text": "Why does the refrigerator light go off when I close the door?",
+   "avg_logprob": -0.228
+  },
+  {
+   "start": 5.48,
+   "end": 8.98,
+   "text": "Why does the refrigerator light go off?",
+   "avg_logprob": -0.228
+  }
+ ]
+}

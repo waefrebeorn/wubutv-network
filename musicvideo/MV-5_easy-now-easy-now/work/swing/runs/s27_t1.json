@@ -1,0 +1,190 @@
+{
+ "take": "mv5_s27_t1.mp4",
+ "take_duration_s": 6.016,
+ "prompted_line": "Easy now, easy now",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 197.58-203.42",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase",
+  "is": "easy"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Easy",
+    0.0,
+    0.78
+   ],
+   [
+    "now,",
+    0.78,
+    1.74
+   ],
+   [
+    "easy",
+    2.72,
+    4.14
+   ],
+   [
+    "now",
+    4.14,
+    4.72
+   ]
+  ],
+  "prompted": [
+   [
+    "Easy",
+    0.0,
+    0.78
+   ],
+   [
+    "now,",
+    0.78,
+    1.74
+   ],
+   [
+    "easy",
+    2.72,
+    4.14
+   ],
+   [
+    "now",
+    4.14,
+    4.72
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.237,
+ "words": [
+  {
+   "song_word": "Easy",
+   "song_start": 197.58,
+   "song_end": 198.1,
+   "take_word": "Easy",
+   "take_start": 0.0,
+   "take_end": 0.78,
+   "source": "unprompted",
+   "raw_offset": -197.58,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.78,
+    "song_interval_s": 0.52,
+    "playback_speed": 1.5,
+    "setpts_factor": 0.6667,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 198.1,
+   "song_end": 199.18,
+   "take_word": "now,",
+   "take_start": 0.78,
+   "take_end": 1.74,
+   "source": "unprompted",
+   "raw_offset": -197.32,
+   "swing_offset": 0.26,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.94,
+    "song_interval_s": 1.08,
+    "playback_speed": 1.796,
+    "setpts_factor": 0.5567,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "easy",
+   "song_start": 199.18,
+   "song_end": 202.66,
+   "take_word": "easy",
+   "take_start": 2.72,
+   "take_end": 4.14,
+   "source": "unprompted",
+   "raw_offset": -196.46,
+   "swing_offset": 1.12,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.42,
+    "song_interval_s": 3.48,
+    "playback_speed": 0.408,
+    "setpts_factor": 2.4507,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-out-of-caps",
+   "notes": [
+    "interval needs playback 0.41x \u2014 past the 2x-slow cap; montage, never stretch"
+   ]
+  },
+  {
+   "song_word": "now",
+   "song_start": 202.66,
+   "song_end": 203.42,
+   "take_word": "now",
+   "take_start": 4.14,
+   "take_end": 4.72,
+   "source": "unprompted",
+   "raw_offset": -198.52,
+   "swing_offset": -0.94,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.58,
+    "song_interval_s": 0.76,
+    "playback_speed": 0.763,
+    "setpts_factor": 1.3103,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  }
+ ],
+ "extras": [],
+ "keyframes": [
+  {
+   "word": "Easy",
+   "song_time": 197.58,
+   "take_time": 0.0
+  },
+  {
+   "word": "now",
+   "song_time": 198.1,
+   "take_time": 0.78
+  },
+  {
+   "word": "now",
+   "song_time": 202.66,
+   "take_time": 4.14
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "easy"
+   ],
+   "span_song": [
+    199.18,
+    202.66
+   ],
+   "cut_out_beat": 198.856,
+   "return_onset": 202.66,
+   "return_beat": 202.78,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "WARPABLE": 3,
+  "BAD-out-of-caps": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

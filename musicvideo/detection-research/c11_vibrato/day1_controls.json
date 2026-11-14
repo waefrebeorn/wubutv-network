@@ -1,0 +1,228 @@
+{
+ "synthetic": {
+  "vib6Hz_pm50": {
+   "median_cents": 35.16,
+   "mean_cents": 35.15
+  },
+  "vib6Hz_pm5": {
+   "median_cents": 3.52,
+   "mean_cents": 3.52
+  },
+  "straight": {
+   "median_cents": 0.0,
+   "mean_cents": 0.0
+  },
+  "wobble3Hz_pm50": {
+   "median_cents": 0.3,
+   "mean_cents": 0.3
+  },
+  "vib6Hz_pm50_plus_noise10": {
+   "median_cents": 33.65,
+   "mean_cents": 33.6
+  }
+ },
+ "stem": {
+  "pyin_voiced_frames": 1825,
+  "pyin_voiced_frac": 0.1129,
+  "pyin": {
+   "coverage_sung": 0.37,
+   "coverage_instr": 0.24,
+   "sung": {
+    "n": 4388,
+    "median": 2.68,
+    "q1": 0.83,
+    "q3": 7.0
+   },
+   "instrumental": {
+    "n": 720,
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.0
+   },
+   "bleed": {
+    "n": 750,
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.0
+   },
+   "outro": {
+    "n": 2227,
+    "median": 0.0,
+    "q1": 0.0,
+    "q3": 0.0
+   },
+   "psd_sung_blocks": {
+    "peak_hz": 3.0,
+    "p_4_8": 54.1315,
+    "p_2_4": 954.67808,
+    "p_8_12": 6.14978,
+    "n_blocks": 9
+   },
+   "psd_instr_blocks": {
+    "peak_hz": 3.0,
+    "p_4_8": 0.0,
+    "p_2_4": 0.0,
+    "p_8_12": 0.0,
+    "n_blocks": 5
+   },
+   "per_segment_median": [
+    {
+     "seg": 1,
+     "median": 1.15
+    },
+    {
+     "seg": 2,
+     "median": 4.41
+    },
+    {
+     "seg": 3,
+     "median": 2.47
+    },
+    {
+     "seg": 4,
+     "median": null
+    },
+    {
+     "seg": 5,
+     "median": 8.29
+    },
+    {
+     "seg": 6,
+     "median": 7.1
+    },
+    {
+     "seg": 7,
+     "median": 4.47
+    },
+    {
+     "seg": 8,
+     "median": 2.27
+    },
+    {
+     "seg": 9,
+     "median": 0.0
+    },
+    {
+     "seg": 10,
+     "median": 0.0
+    },
+    {
+     "seg": 11,
+     "median": 0.0
+    },
+    {
+     "seg": 12,
+     "median": 0.0
+    }
+   ]
+  },
+  "raw_yin": {
+   "coverage_sung": 1.0,
+   "coverage_instr": 1.0,
+   "sung": {
+    "n": 11864,
+    "median": 332.84,
+    "q1": 183.14,
+    "q3": 508.35
+   },
+   "instrumental": {
+    "n": 3001,
+    "median": 430.38,
+    "q1": 322.83,
+    "q3": 566.38
+   },
+   "bleed": {
+    "n": 1296,
+    "median": 498.35,
+    "q1": 347.61,
+    "q3": 680.99
+   },
+   "outro": {
+    "n": 3341,
+    "median": 458.16,
+    "q1": 297.26,
+    "q3": 650.14
+   },
+   "psd_sung_blocks": {
+    "peak_hz": 3.0,
+    "p_4_8": 417574.87533,
+    "p_2_4": 666359.96368,
+    "p_8_12": 154968.27806,
+    "n_blocks": 9
+   },
+   "psd_instr_blocks": {
+    "peak_hz": 3.0,
+    "p_4_8": 824942.73279,
+    "p_2_4": 1215424.20073,
+    "p_8_12": 274557.55209,
+    "n_blocks": 5
+   },
+   "per_segment_median": [
+    {
+     "seg": 1,
+     "median": 506.65
+    },
+    {
+     "seg": 2,
+     "median": 362.6
+    },
+    {
+     "seg": 3,
+     "median": 336.58
+    },
+    {
+     "seg": 4,
+     "median": 363.73
+    },
+    {
+     "seg": 5,
+     "median": 192.46
+    },
+    {
+     "seg": 6,
+     "median": 294.97
+    },
+    {
+     "seg": 7,
+     "median": 313.84
+    },
+    {
+     "seg": 8,
+     "median": 305.75
+    },
+    {
+     "seg": 9,
+     "median": 268.72
+    },
+    {
+     "seg": 10,
+     "median": 426.55
+    },
+    {
+     "seg": 11,
+     "median": 618.33
+    },
+    {
+     "seg": 12,
+     "median": 404.5
+    }
+   ]
+  }
+ },
+ "mix_block_psd": {
+  "sung": {
+   "peak_hz": 3.0,
+   "p_4_8": 52.01038,
+   "p_2_4": 735.24732,
+   "p_8_12": 12.3375,
+   "n_blocks": 9
+  },
+  "instr": {
+   "peak_hz": 4.0,
+   "p_4_8": 222.74883,
+   "p_2_4": 282.58229,
+   "p_8_12": 28.29436,
+   "n_blocks": 5
+  }
+ }
+}

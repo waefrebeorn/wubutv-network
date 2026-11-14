@@ -1,0 +1,230 @@
+{
+ "stem": "bridge",
+ "offset": 130.0,
+ "model": "large-v3-turbo",
+ "n_words": 30,
+ "words": [
+  {
+   "word": "My",
+   "start": 130.0,
+   "end": 130.2,
+   "prob": 0.502
+  },
+  {
+   "word": "bacon",
+   "start": 130.2,
+   "end": 130.68,
+   "prob": 0.905
+  },
+  {
+   "word": "head",
+   "start": 130.68,
+   "end": 131.06,
+   "prob": 0.743
+  },
+  {
+   "word": "dancing",
+   "start": 131.06,
+   "end": 131.46,
+   "prob": 0.955
+  },
+  {
+   "word": "while",
+   "start": 131.46,
+   "end": 131.74,
+   "prob": 0.956
+  },
+  {
+   "word": "the",
+   "start": 131.74,
+   "end": 131.92,
+   "prob": 0.983
+  },
+  {
+   "word": "numbers",
+   "start": 131.92,
+   "end": 132.28,
+   "prob": 0.992
+  },
+  {
+   "word": "go",
+   "start": 132.28,
+   "end": 132.56,
+   "prob": 0.992
+  },
+  {
+   "word": "hot.",
+   "start": 132.56,
+   "end": 133.02,
+   "prob": 0.264
+  },
+  {
+   "word": "Sell",
+   "start": 133.24,
+   "end": 133.42,
+   "prob": 0.699
+  },
+  {
+   "word": "the",
+   "start": 133.42,
+   "end": 133.6,
+   "prob": 0.989
+  },
+  {
+   "word": "lemons.",
+   "start": 133.6,
+   "end": 134.0,
+   "prob": 0.98
+  },
+  {
+   "word": "Sell",
+   "start": 134.44,
+   "end": 134.94,
+   "prob": 0.994
+  },
+  {
+   "word": "the",
+   "start": 134.94,
+   "end": 135.08,
+   "prob": 0.999
+  },
+  {
+   "word": "Lemons.",
+   "start": 135.08,
+   "end": 135.66,
+   "prob": 0.491
+  },
+  {
+   "word": "Sell",
+   "start": 135.92,
+   "end": 136.48,
+   "prob": 0.99
+  },
+  {
+   "word": "the",
+   "start": 136.48,
+   "end": 136.74,
+   "prob": 0.999
+  },
+  {
+   "word": "Levens.",
+   "start": 136.74,
+   "end": 137.58,
+   "prob": 0.074
+  },
+  {
+   "word": "Sell",
+   "start": 137.72,
+   "end": 138.08,
+   "prob": 0.992
+  },
+  {
+   "word": "the",
+   "start": 138.08,
+   "end": 138.26,
+   "prob": 0.999
+  },
+  {
+   "word": "Levins.",
+   "start": 138.26,
+   "end": 138.76,
+   "prob": 0.156
+  },
+  {
+   "word": "Sell",
+   "start": 138.9,
+   "end": 139.42,
+   "prob": 0.985
+  },
+  {
+   "word": "the",
+   "start": 139.42,
+   "end": 140.06,
+   "prob": 0.999
+  },
+  {
+   "word": "Levels.",
+   "start": 140.06,
+   "end": 140.98,
+   "prob": 0.432
+  },
+  {
+   "word": "Sell",
+   "start": 140.98,
+   "end": 141.24,
+   "prob": 0.991
+  },
+  {
+   "word": "the",
+   "start": 141.24,
+   "end": 141.4,
+   "prob": 0.998
+  },
+  {
+   "word": "Lewins.",
+   "start": 141.4,
+   "end": 142.44,
+   "prob": 0.272
+  },
+  {
+   "word": "Sell",
+   "start": 142.5,
+   "end": 142.74,
+   "prob": 0.976
+  },
+  {
+   "word": "the",
+   "start": 142.74,
+   "end": 142.96,
+   "prob": 0.998
+  },
+  {
+   "word": "Lebens.",
+   "start": 142.96,
+   "end": 143.22,
+   "prob": 0.019
+  }
+ ],
+ "segments": [
+  {
+   "start": 130.0,
+   "end": 133.02,
+   "text": "My bacon head dancing while the numbers go hot."
+  },
+  {
+   "start": 133.24,
+   "end": 134.0,
+   "text": "Sell the lemons."
+  },
+  {
+   "start": 134.44,
+   "end": 135.66,
+   "text": "Sell the Lemons."
+  },
+  {
+   "start": 135.92,
+   "end": 137.58,
+   "text": "Sell the Levens."
+  },
+  {
+   "start": 137.72,
+   "end": 138.76,
+   "text": "Sell the Levins."
+  },
+  {
+   "start": 138.9,
+   "end": 140.98,
+   "text": "Sell the Levels."
+  },
+  {
+   "start": 140.98,
+   "end": 142.44,
+   "text": "Sell the Lewins."
+  },
+  {
+   "start": 142.5,
+   "end": 143.22,
+   "text": "Sell the Lebens."
+  }
+ ]
+}

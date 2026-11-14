@@ -1,0 +1,67 @@
+{
+ "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/takes/mv16_s28_t3.mp4",
+ "words": [
+  {
+   "w": "Nobody",
+   "start": 0.0,
+   "end": 0.78,
+   "p": 0.759
+  },
+  {
+   "w": "stopped",
+   "start": 0.78,
+   "end": 1.18,
+   "p": 0.959
+  },
+  {
+   "w": "me,",
+   "start": 1.18,
+   "end": 1.66,
+   "p": 0.999
+  },
+  {
+   "w": "nobody",
+   "start": 1.82,
+   "end": 2.6,
+   "p": 0.904
+  },
+  {
+   "w": "stopped",
+   "start": 2.6,
+   "end": 3.02,
+   "p": 0.997
+  },
+  {
+   "w": "me,",
+   "start": 3.02,
+   "end": 3.56,
+   "p": 0.999
+  },
+  {
+   "w": "wrong",
+   "start": 4.06,
+   "end": 4.28,
+   "p": 0.949
+  },
+  {
+   "w": "for",
+   "start": 4.28,
+   "end": 4.64,
+   "p": 0.985
+  },
+  {
+   "w": "years.",
+   "start": 4.64,
+   "end": 5.24,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.24,
+   "text": "Nobody stopped me, nobody stopped me, wrong for years.",
+   "avg_logprob": -0.294
+  }
+ ]
+}

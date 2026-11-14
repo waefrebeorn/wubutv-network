@@ -1,0 +1,17 @@
+# MV-8 v3 — VOLLEY 1 vehicle: H1-B "Brown Brown" PULSE (CARTOON EVENT, no singing)
+# Scene: H1-B, song 22.08–34.96 (530–839f). 12.88s scene; this take covers the
+# brown-chant half. Song lines L4 five Browns 22.08, L5 24.74, L6 28.62,
+# L7 30.98 — the WORDS live in the kinetic layer in post (CASCADE, one word
+# per pulse); the SINGER INSERT (INS-2, v2 H1-B) covers L6 as a cutaway at
+# assembly. This take is the visualizer pulse: five spheres, one per Brown.
+# Anchor: G15.jpg (work/rebuild/stills_v3/G15.jpg, md5 b32179cec8ddd585b2fa203204de406f).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, squash-and-stretch energy, porcelain white + warm gold +
+# chocolate brown, bright yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the spheres are already bouncing at frame 0 — never still.
+# Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G15.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, porcelain white floor and warm gold glow, chocolate brown the star colour, bright yellow the sole bright accent colour as glowing rings under each sphere. Five glossy chocolate-brown spheres in a neat row on a clean white porcelain floor, already bouncing as the clip opens, never still: they squash down and spring back up one after another in a rolling wave, left to right, then all five bounce together, then the middle one leaps highest and lands with a wobble, the camera already slowly pushing in. Each bounce lands with a squash-and-stretch punch, the yellow rings under the spheres flashing brighter on every landing. Continuous bouncy motion from the very first frame to the last. No people, no text, no logos, no letters."

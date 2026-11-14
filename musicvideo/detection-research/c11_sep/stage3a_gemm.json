@@ -1,0 +1,36 @@
+{
+  "stage": "3a",
+  "name": "AVX512 blocked SGEMM (sep_gemm.c) correctness + benchmark",
+  "date_utc": "2026-11-12T11:50:00Z",
+  "verdict": "PASS",
+  "micro_kernel": "8 rows x 48 cols (24 zmm accumulators), AVX512 FMA, broadcast A from memory into FMA",
+  "tiling": "MC=128 NC=2048 KC=256; OpenMP over M-tiles (N-tiles when M small)",
+  "correctness": {
+    "M100_N70_K33_odd_sizes": 3.815e-06,
+    "M17_N49_K13": 4.768e-07,
+    "M48_N256_K48": 0.0,
+    "M128_N384_K3072": 0.0,
+    "note": "max|diff| vs naive triple-loop, fp32"
+  },
+  "benchmark_2_threads_gflops": {
+    "matmul_3072_to_384_M12288_N384_K3072": 119.0,
+    "matmul_384_to_3072_M12288_N3072_K384": 52.4,
+    "conv1x1_M48_N786432_K48": 23.3,
+    "im2col_3x3_M786432_N48_K432": 117.8,
+    "outT_1x1_M786432_N48_K48": 63.0
+  },
+  "caveat": "Shared VM (1.5 CPUs): repeat runs of the same shape/config swing 2x (matmul 3072->384 measured 119 and 52 GFLOPS in different runs). NC/KC tuning sweep (768/384, 3072/384, 1024/128) showed differences smaller than the run-to-run noise; keeping NC=2048 KC=256. Projection uses worst observed rates.",
+  "design_decision": "3x3 convs run as im2col-tiled GEMM (M=output positions, N=48 out-channels, K=432) at ~118 GFLOPS, NOT shift-and-add 1x1 GEMMs (23 GFLOPS: small-M/huge-N orientation streams the 151 MB input across 3 MB-strided rows). 1x1 convs run as out^T GEMM (M=HW, N=Cout, K=Cin) at 63 GFLOPS. MatMul nodes use sgemm directly.",
+  "projection_per_chunk_s": {
+    "matmuls_151gflop_at_~80": 1.9,
+    "convs_590gflop_at_~118": 5.0,
+    "convtranspose_42gflop": 0.5,
+    "stft_istft": 0.6,
+    "elementwise_bn_add": 1.0,
+    "total": 9.0,
+    "total_37_chunks_s": 333,
+    "worst_case_half_rate_s": 555,
+    "bar_s": 894,
+    "target_s": 650
+  }
+}

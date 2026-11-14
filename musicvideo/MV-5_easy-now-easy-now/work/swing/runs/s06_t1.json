@@ -1,0 +1,502 @@
+{
+ "take": "mv5_s06_t1.mp4",
+ "take_duration_s": 10.027,
+ "prompted_line": "Keys in your hand, you nodded at the waves like",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 40.44-44.61",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Kees",
+    0.0,
+    0.64
+   ],
+   [
+    "in",
+    0.64,
+    0.78
+   ],
+   [
+    "your",
+    0.78,
+    1.08
+   ],
+   [
+    "hand,",
+    1.08,
+    2.24
+   ],
+   [
+    "you",
+    2.5,
+    3.58
+   ],
+   [
+    "nodded",
+    3.58,
+    4.2
+   ],
+   [
+    "at",
+    4.2,
+    4.4
+   ],
+   [
+    "the",
+    4.4,
+    4.68
+   ],
+   [
+    "waves",
+    4.68,
+    5.14
+   ],
+   [
+    "like",
+    5.14,
+    5.56
+   ],
+   [
+    "yeah",
+    5.56,
+    5.98
+   ],
+   [
+    "they",
+    5.98,
+    6.28
+   ],
+   [
+    "already",
+    6.28,
+    6.94
+   ],
+   [
+    "understand.",
+    6.94,
+    8.16
+   ]
+  ],
+  "prompted": [
+   [
+    "Keys",
+    0.0,
+    0.42
+   ],
+   [
+    "in",
+    0.42,
+    0.78
+   ],
+   [
+    "your",
+    0.78,
+    1.08
+   ],
+   [
+    "hand,",
+    1.08,
+    2.26
+   ],
+   [
+    "you",
+    2.5,
+    3.56
+   ],
+   [
+    "nodded",
+    3.56,
+    4.2
+   ],
+   [
+    "at",
+    4.2,
+    4.4
+   ],
+   [
+    "the",
+    4.4,
+    4.68
+   ],
+   [
+    "waves",
+    4.68,
+    5.16
+   ],
+   [
+    "like",
+    5.16,
+    5.56
+   ],
+   [
+    "yeah",
+    5.56,
+    5.98
+   ],
+   [
+    "they",
+    5.98,
+    6.28
+   ],
+   [
+    "already",
+    6.28,
+    6.94
+   ],
+   [
+    "understand.",
+    6.94,
+    8.16
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 0.685,
+ "words": [
+  {
+   "song_word": "Keys",
+   "song_start": 40.52,
+   "song_end": 40.74,
+   "take_word": "Kees",
+   "take_start": 0.0,
+   "take_end": 0.64,
+   "source": "unprompted",
+   "raw_offset": -40.52,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.64,
+    "song_interval_s": 0.22,
+    "playback_speed": 2.909,
+    "setpts_factor": 0.3437,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-wrong",
+   "notes": [
+    "take sings 'Kees' here"
+   ]
+  },
+  {
+   "song_word": "in",
+   "song_start": 40.74,
+   "song_end": 40.82,
+   "take_word": "in",
+   "take_start": 0.64,
+   "take_end": 0.78,
+   "source": "unprompted",
+   "raw_offset": -40.1,
+   "swing_offset": 0.42,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.14,
+    "song_interval_s": 0.08,
+    "playback_speed": 1.75,
+    "setpts_factor": 0.5714,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "your",
+   "song_start": 40.82,
+   "song_end": 41.3,
+   "take_word": "your",
+   "take_start": 0.78,
+   "take_end": 1.08,
+   "source": "unprompted",
+   "raw_offset": -40.04,
+   "swing_offset": 0.48,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.3,
+    "song_interval_s": 0.48,
+    "playback_speed": 0.625,
+    "setpts_factor": 1.6,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "hand",
+   "song_start": 41.3,
+   "song_end": 41.72,
+   "take_word": "hand,",
+   "take_start": 1.08,
+   "take_end": 2.24,
+   "source": "unprompted",
+   "raw_offset": -40.22,
+   "swing_offset": 0.3,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.42,
+    "song_interval_s": 1.98,
+    "playback_speed": 0.717,
+    "setpts_factor": 1.3944,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "You",
+   "song_start": 43.28,
+   "song_end": 43.36,
+   "take_word": "you",
+   "take_start": 2.5,
+   "take_end": 3.58,
+   "source": "unprompted",
+   "raw_offset": -40.78,
+   "swing_offset": -0.26,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.08,
+    "song_interval_s": 0.08,
+    "playback_speed": 13.5,
+    "setpts_factor": 0.0741,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 13.50x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "nodded",
+   "song_start": 43.36,
+   "song_end": 43.72,
+   "take_word": "nodded",
+   "take_start": 3.58,
+   "take_end": 4.2,
+   "source": "unprompted",
+   "raw_offset": -39.78,
+   "swing_offset": 0.74,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.62,
+    "song_interval_s": 0.36,
+    "playback_speed": 1.722,
+    "setpts_factor": 0.5806,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "at",
+   "song_start": 43.72,
+   "song_end": 43.92,
+   "take_word": "at",
+   "take_start": 4.2,
+   "take_end": 4.4,
+   "source": "unprompted",
+   "raw_offset": -39.52,
+   "swing_offset": 1.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.2,
+    "song_interval_s": 0.2,
+    "playback_speed": 1.0,
+    "setpts_factor": 1.0,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 43.92,
+   "song_end": 44.08,
+   "take_word": "the",
+   "take_start": 4.4,
+   "take_end": 4.68,
+   "source": "unprompted",
+   "raw_offset": -39.52,
+   "swing_offset": 1.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.28,
+    "song_interval_s": 0.16,
+    "playback_speed": 1.75,
+    "setpts_factor": 0.5714,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "waves",
+   "song_start": 44.08,
+   "song_end": 44.26,
+   "take_word": "waves",
+   "take_start": 4.68,
+   "take_end": 5.14,
+   "source": "unprompted",
+   "raw_offset": -39.4,
+   "swing_offset": 1.12,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.18,
+    "playback_speed": 2.556,
+    "setpts_factor": 0.3913,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "like",
+   "song_start": 44.26,
+   "song_end": 44.58,
+   "take_word": "like",
+   "take_start": 5.14,
+   "take_end": 5.56,
+   "source": "unprompted",
+   "raw_offset": -39.12,
+   "swing_offset": 1.4,
+   "interval_to_next_anchor": null,
+   "verdict": "WARPABLE",
+   "notes": [
+    "zero-length interval stamp \u2014 warp by neighbours"
+   ]
+  },
+  {
+   "song_word": "Yeah",
+   "song_start": 44.26,
+   "song_end": 44.58,
+   "take_word": "yeah",
+   "take_start": 5.56,
+   "take_end": 5.98,
+   "source": "unprompted",
+   "raw_offset": -38.7,
+   "swing_offset": 1.82,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.42,
+    "song_interval_s": 0.32,
+    "playback_speed": 1.313,
+    "setpts_factor": 0.7619,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "they",
+   "song_start": 44.58,
+   "song_end": 44.82,
+   "take_word": "they",
+   "take_start": 5.98,
+   "take_end": 6.28,
+   "source": "unprompted",
+   "raw_offset": -38.6,
+   "swing_offset": 1.92,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.3,
+    "song_interval_s": 0.24,
+    "playback_speed": 1.25,
+    "setpts_factor": 0.8,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  }
+ ],
+ "extras": [
+  {
+   "word": "already",
+   "start": 6.28,
+   "end": 6.94,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "understand.",
+   "start": 6.94,
+   "end": 8.16,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "in",
+   "song_time": 40.74,
+   "take_time": 0.64
+  },
+  {
+   "word": "your",
+   "song_time": 40.82,
+   "take_time": 0.78
+  },
+  {
+   "word": "hand",
+   "song_time": 41.3,
+   "take_time": 1.08
+  },
+  {
+   "word": "You",
+   "song_time": 43.28,
+   "take_time": 2.5
+  },
+  {
+   "word": "nodded",
+   "song_time": 43.36,
+   "take_time": 3.58
+  },
+  {
+   "word": "at",
+   "song_time": 43.72,
+   "take_time": 4.2
+  },
+  {
+   "word": "the",
+   "song_time": 43.92,
+   "take_time": 4.4
+  },
+  {
+   "word": "waves",
+   "song_time": 44.08,
+   "take_time": 4.68
+  },
+  {
+   "word": "like",
+   "song_time": 44.26,
+   "take_time": 5.14
+  },
+  {
+   "word": "Yeah",
+   "song_time": 44.26,
+   "take_time": 5.56
+  },
+  {
+   "word": "they",
+   "song_time": 44.58,
+   "take_time": 5.98
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "Keys"
+   ],
+   "span_song": [
+    40.52,
+    40.74
+   ],
+   "cut_out_beat": 40.147,
+   "return_onset": 40.74,
+   "return_beat": 41.285,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "BAD-wrong": 1,
+  "WARPABLE": 11
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

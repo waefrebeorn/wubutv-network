@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv16_s22_t1.mp4",
+ "words": [
+  {
+   "w": "Wrong",
+   "start": 0.0,
+   "end": 1.0,
+   "p": 0.895
+  },
+  {
+   "w": "for",
+   "start": 1.0,
+   "end": 1.3,
+   "p": 0.985
+  },
+  {
+   "w": "years,",
+   "start": 1.3,
+   "end": 1.84,
+   "p": 0.997
+  },
+  {
+   "w": "wrong",
+   "start": 2.16,
+   "end": 2.66,
+   "p": 0.998
+  },
+  {
+   "w": "for",
+   "start": 2.66,
+   "end": 2.98,
+   "p": 1.0
+  },
+  {
+   "w": "years,",
+   "start": 2.98,
+   "end": 3.72,
+   "p": 1.0
+  },
+  {
+   "w": "nobody",
+   "start": 4.18,
+   "end": 4.7,
+   "p": 0.935
+  },
+  {
+   "w": "stopped",
+   "start": 4.7,
+   "end": 5.24,
+   "p": 0.995
+  },
+  {
+   "w": "me,",
+   "start": 5.24,
+   "end": 5.7,
+   "p": 1.0
+  },
+  {
+   "w": "nobody",
+   "start": 6.04,
+   "end": 6.74,
+   "p": 1.0
+  },
+  {
+   "w": "stopped",
+   "start": 6.74,
+   "end": 7.28,
+   "p": 0.999
+  },
+  {
+   "w": "me.",
+   "start": 7.28,
+   "end": 7.84,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.84,
+   "text": "Wrong for years, wrong for years, nobody stopped me, nobody stopped me.",
+   "avg_logprob": -0.173
+  }
+ ]
+}

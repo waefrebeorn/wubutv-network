@@ -1,0 +1,64 @@
+{
+  "file": "mv5_s18_t1.wav",
+  "kind": "Take",
+  "totalWords": 8,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "I'm",
+      "start": 1,
+      "end": 1.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "falling,",
+      "start": 1.2,
+      "end": 2.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "I'm",
+      "start": 2.7,
+      "end": 3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "falling.",
+      "start": 3,
+      "end": 4.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Just",
+      "start": 5.7,
+      "end": 6.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "two",
+      "start": 6.1,
+      "end": 6.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "small",
+      "start": 6.7,
+      "end": 7.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "sparks.",
+      "start": 7.2,
+      "end": 8,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 1,
+      "end": 8,
+      "text": "I'm falling, I'm falling. Just two small sparks."
+    }
+  ]
+}

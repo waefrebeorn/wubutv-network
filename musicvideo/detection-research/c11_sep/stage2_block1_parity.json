@@ -1,0 +1,36 @@
+{
+  "stage": 2,
+  "name": "First TFC block (nodes 0-15) parity vs ORT reference",
+  "date_utc": "2026-11-12T11:35:00Z",
+  "verdict": "PASS",
+  "bar": "per node: sample (stride-32) max|diff| <= max(2e-3, 1e-5*range) AND corr >= 0.99999 AND full-tensor mean/std within 0.1% of stored stats",
+  "checkpoints": {
+    "node000_Conv_1x1": {"max_diff": 2.265e-06, "corr": 1.0, "mean": 0.15552, "std": 0.4301, "range": [-14.278, 16.928]},
+    "node003_Conv_3x3": {"max_diff": 4.768e-06, "corr": 1.0, "mean": 0.75247, "std": 0.8523, "range": [-31.636, 21.736]},
+    "node009_MatMul_3072_to_384": {"max_diff": 6.104e-04, "corr": 1.0, "mean": -1.56152, "std": 12.7356, "range": [-541.939, 492.909]},
+    "node012_MatMul_384_to_3072": {"max_diff": 4.387e-05, "corr": 1.0, "mean": -1.31521, "std": 4.9503, "range": [-73.852, 190.706]},
+    "node015_Add_residual": {"max_diff": 1.764e-05, "corr": 1.0, "mean": 0.86293, "std": 0.9693, "range": [0.0, 39.82]}
+  },
+  "confirmed_by_parity": [
+    "BN epsilon 1e-5 (read from ONNX; graph dump had shown None)",
+    "weight layout [Cout][Cin][kh][kw] + [K][M] row-major MatMul weights from weights.bin",
+    "Transpose perm [0,1,3,2] (F/T swap), residual Add input '476' = node-8 post-ReLU output",
+    "conv 3x3 pad 1 (zero), MatMul last-dim contraction"
+  ],
+  "timing_2_threads": {
+    "node0_conv1x1_s": 0.43,
+    "node3_conv3x3_s": 4.09,
+    "node5_conv3x3_s": 4.62,
+    "node7_conv3x3_s": 4.59,
+    "node9_matmul_s": 3.47,
+    "node12_matmul_s": 2.52,
+    "block_total_compute_s": 19.7,
+    "gflops_estimate": 7.6,
+    "note": "Direct SAXPY convs re-read the 151 MB input 48x (once per output channel) -> memory-bound at ~8 GFLOPS. At this rate the full 392-GMAC graph would take ~98 s/chunk (~3600 s total), 4x over the 894 s bar. Stage 3 MUST ship the AVX512 blocked GEMM (target 40-60% of ~192 GFLOPS 2-core peak -> ~10 s/chunk)."
+  },
+  "references": {
+    "weights": "block1_weights/*.bin (extracted from weights.bin via weights_index.json offsets)",
+    "samples_stats": "block1_weights/ckptNNN_sample.bin (flat[::32]) + ckptNNN_stats.bin ([mean,std,min,max,numel]) from ref_chunk0.npz"
+  },
+  "note": "Stage 2 is STFT-input -> block parity only; the block output is a 48-channel tensor so no ISTFT applies here (ISTFT was validated on the real model output in Stage 1). Per the scope: single-block parity PASSED, so the remaining blocks may be written on this foundation."
+}

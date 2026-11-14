@@ -1,0 +1,52 @@
+{
+  "file": "mv5_s25_t1.wav",
+  "kind": "Take",
+  "totalWords": 6,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Is",
+      "start": 0.6,
+      "end": 0.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "it",
+      "start": 0.7,
+      "end": 0.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now?",
+      "start": 0.8,
+      "end": 0.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Is",
+      "start": 2.1,
+      "end": 2.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "it",
+      "start": 2.2,
+      "end": 2.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "now?",
+      "start": 2.2,
+      "end": 2.2,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.6,
+      "end": 2.2,
+      "text": "Is it now? Is it now?"
+    }
+  ]
+}

@@ -1,0 +1,8251 @@
+{
+ "method": "Gemini take words (app) aligned to v2 song grid by word identity; take f0 by numpy autocorrelation (pitch_mv5.py method, 40ms frames, 10ms hop, peak>0.30, 60-500Hz); app take speaker labels are within-take only and NOT equated across files; CAT band 97-160Hz, GIRL band 200-330Hz.",
+ "song_source": "work/gemini_song_words_aligned.json (536 app words, 546 song words)",
+ "missing_take_json": [
+  "mv5_s02_t1_transcription.json",
+  "mv5_s17_t1_transcription.json"
+ ],
+ "scenes": {
+  "S01": {
+   "take": "s01_t1",
+   "slot": [
+    0.0,
+    10.04
+   ],
+   "warp_v1": "0.812/1.103/1.250 per-line",
+   "lines": [
+    "I01",
+    "I02",
+    "I03",
+    "I04"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0",
+    "spk:1"
+   ],
+   "take_words_total": 16,
+   "matched_pairs": 16,
+   "expected_song_words": 16,
+   "dropped_song_words": [],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 0,
+     "song_word": "Easy",
+     "line": "I01",
+     "song_start_v2": 1.66,
+     "song_start_v1": 1.66,
+     "owner_v2": "CAT",
+     "take_word": "Easy",
+     "take_start": 0.2,
+     "take_end": 0.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 417.2,
+     "f0_voiced": 22,
+     "f0_total": 25,
+     "f0_band": "ambiguous(417Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.09,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.86
+     }
+    },
+    {
+     "song_idx": 1,
+     "song_word": "now",
+     "line": "I01",
+     "song_start_v2": 2.22,
+     "song_start_v1": 2.22,
+     "owner_v2": "CAT",
+     "take_word": "now,",
+     "take_start": 0.6,
+     "take_end": 1.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 103.3,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.91,
+      "mid161-199": 0.0,
+      "girl200-330": 0.09,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 2,
+     "song_word": "easy",
+     "line": "I01",
+     "song_start_v2": 2.78,
+     "song_start_v1": 2.78,
+     "owner_v2": "CAT",
+     "take_word": "easy",
+     "take_start": 1.7,
+     "take_end": 2.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 154.8,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.1,
+      "cat97-160": 0.85,
+      "mid161-199": 0.0,
+      "girl200-330": 0.05,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 3,
+     "song_word": "now",
+     "line": "I01",
+     "song_start_v2": 2.96,
+     "song_start_v1": 2.96,
+     "owner_v2": "CAT",
+     "take_word": "now.",
+     "take_start": 2.3,
+     "take_end": 2.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.6,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.03,
+      "cat97-160": 0.08,
+      "mid161-199": 0.0,
+      "girl200-330": 0.9,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 4,
+     "song_word": "We",
+     "line": "I02",
+     "song_start_v2": 3.58,
+     "song_start_v1": 3.58,
+     "owner_v2": "CAT",
+     "take_word": "We",
+     "take_start": 2.9,
+     "take_end": 3.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 200.8,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.27,
+      "cat97-160": 0.09,
+      "mid161-199": 0.09,
+      "girl200-330": 0.55,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 5,
+     "song_word": "ride",
+     "line": "I02",
+     "song_start_v2": 4.0,
+     "song_start_v1": 4.0,
+     "owner_v2": "CAT",
+     "take_word": "ride,",
+     "take_start": 3.1,
+     "take_end": 4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 123.4,
+     "f0_voiced": 60,
+     "f0_total": 60,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.87,
+      "mid161-199": 0.12,
+      "girl200-330": 0.0,
+      "high>330": 0.02
+     }
+    },
+    {
+     "song_idx": 6,
+     "song_word": "we",
+     "line": "I02",
+     "song_start_v2": 4.72,
+     "song_start_v1": 4.72,
+     "owner_v2": "CAT",
+     "take_word": "we",
+     "take_start": 4,
+     "take_end": 4.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 220.0,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.5,
+      "mid161-199": 0.0,
+      "girl200-330": 0.5,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 7,
+     "song_word": "ride",
+     "line": "I02",
+     "song_start_v2": 4.9,
+     "song_start_v1": 4.9,
+     "owner_v2": "CAT",
+     "take_word": "ride.",
+     "take_start": 4.3,
+     "take_end": 5.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 123.2,
+     "f0_voiced": 52,
+     "f0_total": 52,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.88,
+      "mid161-199": 0.08,
+      "girl200-330": 0.0,
+      "high>330": 0.04
+     }
+    },
+    {
+     "song_idx": 8,
+     "song_word": "Easy",
+     "line": "I03",
+     "song_start_v2": 5.98,
+     "song_start_v1": 5.98,
+     "owner_v2": "CAT",
+     "take_word": "Easy",
+     "take_start": 5.2,
+     "take_end": 5.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 156.2,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.1,
+      "cat97-160": 0.72,
+      "mid161-199": 0.0,
+      "girl200-330": 0.18,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 9,
+     "song_word": "now",
+     "line": "I03",
+     "song_start_v2": 6.66,
+     "song_start_v1": 6.66,
+     "owner_v2": "CAT",
+     "take_word": "now,",
+     "take_start": 5.8,
+     "take_end": 6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.9,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 10,
+     "song_word": "easy",
+     "line": "I03",
+     "song_start_v2": 7.32,
+     "song_start_v1": 7.32,
+     "owner_v2": "CAT",
+     "take_word": "easy",
+     "take_start": 6,
+     "take_end": 6.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 197.1,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(197Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.45,
+      "girl200-330": 0.36,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 11,
+     "song_word": "now",
+     "line": "I03",
+     "song_start_v2": 7.54,
+     "song_start_v1": 7.54,
+     "owner_v2": "CAT",
+     "take_word": "now.",
+     "take_start": 6.2,
+     "take_end": 7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 206.8,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.28,
+      "mid161-199": 0.0,
+      "girl200-330": 0.72,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 12,
+     "song_word": "Till",
+     "line": "I04",
+     "song_start_v2": 8.3,
+     "song_start_v1": 8.18,
+     "owner_v2": "CAT",
+     "take_word": "Till",
+     "take_start": 8,
+     "take_end": 8.1,
+     "take_speaker_app": "spk:1",
+     "f0_median": 279.5,
+     "f0_voiced": 3,
+     "f0_total": 3,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 13,
+     "song_word": "the",
+     "line": "I04",
+     "song_start_v2": 8.4,
+     "song_start_v1": 8.34,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 8.1,
+     "take_end": 8.2,
+     "take_speaker_app": "spk:1",
+     "f0_median": 292.7,
+     "f0_voiced": 3,
+     "f0_total": 3,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 14,
+     "song_word": "morning",
+     "line": "I04",
+     "song_start_v2": 8.5,
+     "song_start_v1": 8.54,
+     "owner_v2": "CAT",
+     "take_word": "morning",
+     "take_start": 8.6,
+     "take_end": 8.8,
+     "take_speaker_app": "spk:1",
+     "f0_median": 274.9,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.91,
+      "high>330": 0.09
+     }
+    },
+    {
+     "song_idx": 15,
+     "song_word": "comes",
+     "line": "I04",
+     "song_start_v2": 9.2,
+     "song_start_v1": 8.96,
+     "owner_v2": "CAT",
+     "take_word": "comes.",
+     "take_start": 8.8,
+     "take_end": 9.6,
+     "take_speaker_app": "spk:1",
+     "f0_median": 276.6,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.09,
+      "girl200-330": 0.89,
+      "high>330": 0.02
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 16,
+    "slope": 0.885,
+    "intercept": 1.35,
+    "resid_median": 0.17,
+    "resid_max": 0.7
+   },
+   "per_line": {
+    "I01": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now,",
+      "easy",
+      "now."
+     ],
+     "f0_median_all": 181.2,
+     "f0_bands": [
+      "ambiguous(417Hz)",
+      "CAT",
+      "CAT",
+      "GIRL"
+     ]
+    },
+    "I02": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "We",
+      "ride,",
+      "we",
+      "ride."
+     ],
+     "f0_median_all": 162.1,
+     "f0_bands": [
+      "GIRL",
+      "CAT",
+      "GIRL",
+      "CAT"
+     ]
+    },
+    "I03": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now,",
+      "easy",
+      "now."
+     ],
+     "f0_median_all": 201.9,
+     "f0_bands": [
+      "CAT",
+      "GIRL",
+      "ambiguous(197Hz)",
+      "GIRL"
+     ]
+    },
+    "I04": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Till",
+      "the",
+      "morning",
+      "comes."
+     ],
+     "f0_median_all": 278.1,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.162,
+    "gap_windows_mean": 0.095,
+    "gap_windows_max": 0.246,
+    "overall_max": 0.28
+   }
+  },
+  "S03": {
+   "take": "s03_t1",
+   "slot": [
+    18.64,
+    22.0
+   ],
+   "warp_v1": "0.889",
+   "lines": [
+    "I09"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 6,
+   "matched_pairs": 6,
+   "expected_song_words": 6,
+   "dropped_song_words": [],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 32,
+     "song_word": "ta-da",
+     "line": "I09",
+     "song_start_v2": 18.4,
+     "song_start_v1": 18.4,
+     "owner_v2": "GIRL",
+     "take_word": "\u305f\u3089\u3001",
+     "take_start": 0.1,
+     "take_end": 0.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 328.0,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.62,
+      "high>330": 0.38
+     }
+    },
+    {
+     "song_idx": 33,
+     "song_word": "ta-da",
+     "line": "I09",
+     "song_start_v2": 18.64,
+     "song_start_v1": 18.64,
+     "owner_v2": "GIRL",
+     "take_word": "\u305f\u3089\u3001",
+     "take_start": 1,
+     "take_end": 1.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 362.7,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(363Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 34,
+     "song_word": "ta-da",
+     "line": "I09",
+     "song_start_v2": 19.2,
+     "song_start_v1": 19.2,
+     "owner_v2": "GIRL",
+     "take_word": "\u305f\u3089\u3001",
+     "take_start": 1.6,
+     "take_end": 2.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 366.8,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "ambiguous(367Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 35,
+     "song_word": "ta-da",
+     "line": "I09",
+     "song_start_v2": 19.54,
+     "song_start_v1": 19.54,
+     "owner_v2": "GIRL",
+     "take_word": "\u305f\u3089\u3001",
+     "take_start": 2.1,
+     "take_end": 2.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 366.3,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(366Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 36,
+     "song_word": "ta-da",
+     "line": "I09",
+     "song_start_v2": 19.68,
+     "song_start_v1": 19.68,
+     "owner_v2": "GIRL",
+     "take_word": "\u305f\u3089\u3001",
+     "take_start": 2.7,
+     "take_end": 3.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 314.0,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.54,
+      "high>330": 0.46
+     }
+    },
+    {
+     "song_idx": 37,
+     "song_word": "ta-da",
+     "line": "I09",
+     "song_start_v2": 19.82,
+     "song_start_v1": 19.82,
+     "owner_v2": "GIRL",
+     "take_word": "\u305f\u3089\u3002",
+     "take_start": 3.3,
+     "take_end": 3.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.4,
+     "f0_voiced": 31,
+     "f0_total": 31,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.65,
+      "high>330": 0.35
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 6,
+    "slope": 0.487,
+    "intercept": 18.34,
+    "resid_median": 0.1,
+    "resid_max": 0.18
+   },
+   "per_line": {
+    "I09": {
+     "owner_v2": "GIRL",
+     "expected_words": 6,
+     "matched_words": 6,
+     "take_words": [
+      "\u305f\u3089\u3001",
+      "\u305f\u3089\u3001",
+      "\u305f\u3089\u3001",
+      "\u305f\u3089\u3001",
+      "\u305f\u3089\u3001",
+      "\u305f\u3089\u3002"
+     ],
+     "f0_median_all": 345.4,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(363Hz)",
+      "ambiguous(367Hz)",
+      "ambiguous(366Hz)",
+      "GIRL",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.086,
+    "gap_windows_mean": 0.02,
+    "gap_windows_max": 0.078,
+    "overall_max": 0.136
+   }
+  },
+  "S04": {
+   "take": "s04_t1",
+   "slot": [
+    22.0,
+    31.48
+   ],
+   "warp_v1": "0.826/1.073/1.243/1.250 per-line",
+   "lines": [
+    "L01",
+    "L02",
+    "L03",
+    "L04",
+    "L05"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 22,
+   "matched_pairs": 22,
+   "expected_song_words": 22,
+   "dropped_song_words": [],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 38,
+     "song_word": "Bare",
+     "line": "L01",
+     "song_start_v2": 22.0,
+     "song_start_v1": 22.0,
+     "owner_v2": "CAT",
+     "take_word": "Bare",
+     "take_start": 0,
+     "take_end": 0.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 408.2,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(408Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 39,
+     "song_word": "feet",
+     "line": "L01",
+     "song_start_v2": 22.3,
+     "song_start_v1": 22.22,
+     "owner_v2": "CAT",
+     "take_word": "feet",
+     "take_start": 0.4,
+     "take_end": 0.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.9,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 40,
+     "song_word": "on",
+     "line": "L01",
+     "song_start_v2": 22.8,
+     "song_start_v1": 22.58,
+     "owner_v2": "CAT",
+     "take_word": "on",
+     "take_start": 0.8,
+     "take_end": 1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 409.0,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(409Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 41,
+     "song_word": "the",
+     "line": "L01",
+     "song_start_v2": 22.8,
+     "song_start_v1": 22.8,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 1,
+     "take_end": 1.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 366.4,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(366Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 42,
+     "song_word": "boardwalk",
+     "line": "L01",
+     "song_start_v2": 22.9,
+     "song_start_v1": 22.94,
+     "owner_v2": "CAT",
+     "take_word": "boardwalk,",
+     "take_start": 1.1,
+     "take_end": 2.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 284.1,
+     "f0_voiced": 56,
+     "f0_total": 67,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.05,
+      "girl200-330": 0.62,
+      "high>330": 0.32
+     }
+    },
+    {
+     "song_idx": 43,
+     "song_word": "Salt",
+     "line": "L02",
+     "song_start_v2": 24,
+     "song_start_v1": 23.42,
+     "owner_v2": "CAT",
+     "take_word": "salt",
+     "take_start": 2.1,
+     "take_end": 2.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 407.6,
+     "f0_voiced": 17,
+     "f0_total": 25,
+     "f0_band": "ambiguous(408Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 44,
+     "song_word": "on",
+     "line": "L02",
+     "song_start_v2": 24.4,
+     "song_start_v1": 23.715,
+     "owner_v2": "CAT",
+     "take_word": "on",
+     "take_start": 2.5,
+     "take_end": 2.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 372.3,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(372Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 45,
+     "song_word": "my",
+     "line": "L02",
+     "song_start_v2": 24.6,
+     "song_start_v1": 24.01,
+     "owner_v2": "CAT",
+     "take_word": "my",
+     "take_start": 2.7,
+     "take_end": 2.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.5,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 46,
+     "song_word": "skin",
+     "line": "L02",
+     "song_start_v2": 24.9,
+     "song_start_v1": 24.305,
+     "owner_v2": "CAT",
+     "take_word": "skin.",
+     "take_start": 2.9,
+     "take_end": 3.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 277.1,
+     "f0_voiced": 33,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 47,
+     "song_word": "You",
+     "line": "L03",
+     "song_start_v2": 25.4,
+     "song_start_v1": 24.48,
+     "owner_v2": "CAT",
+     "take_word": "You",
+     "take_start": 3.6,
+     "take_end": 3.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 275.9,
+     "f0_voiced": 8,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 48,
+     "song_word": "came",
+     "line": "L03",
+     "song_start_v2": 25.7,
+     "song_start_v1": 24.82,
+     "owner_v2": "CAT",
+     "take_word": "came",
+     "take_start": 3.8,
+     "take_end": 4.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 410.5,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(411Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 49,
+     "song_word": "in",
+     "line": "L03",
+     "song_start_v2": 26.1,
+     "song_start_v1": 25.5,
+     "owner_v2": "CAT",
+     "take_word": "in",
+     "take_start": 4.1,
+     "take_end": 4.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.6,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 50,
+     "song_word": "laughing",
+     "line": "L03",
+     "song_start_v2": 26.3,
+     "song_start_v1": 25.68,
+     "owner_v2": "CAT",
+     "take_word": "laughing,",
+     "take_start": 4.2,
+     "take_end": 4.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 412.4,
+     "f0_voiced": 31,
+     "f0_total": 39,
+     "f0_band": "ambiguous(412Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.29,
+      "high>330": 0.71
+     }
+    },
+    {
+     "song_idx": 51,
+     "song_word": "Said",
+     "line": "L04",
+     "song_start_v2": 27.8,
+     "song_start_v1": 27.6,
+     "owner_v2": "CAT",
+     "take_word": "said,",
+     "take_start": 4.8,
+     "take_end": 5.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 276.6,
+     "f0_voiced": 14,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 52,
+     "song_word": "come",
+     "line": "L04",
+     "song_start_v2": 28,
+     "song_start_v1": 28.12,
+     "owner_v2": "CAT",
+     "take_word": "come",
+     "take_start": 5.1,
+     "take_end": 5.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.5,
+     "f0_voiced": 13,
+     "f0_total": 18,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 53,
+     "song_word": "on",
+     "line": "L04",
+     "song_start_v2": 28.3,
+     "song_start_v1": 28.24,
+     "owner_v2": "CAT",
+     "take_word": "on,",
+     "take_start": 5.4,
+     "take_end": 5.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.5,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 54,
+     "song_word": "let's",
+     "line": "L04",
+     "song_start_v2": 28.6,
+     "song_start_v1": 28.7,
+     "owner_v2": "CAT",
+     "take_word": "let's",
+     "take_start": 5.7,
+     "take_end": 6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 369.8,
+     "f0_voiced": 9,
+     "f0_total": 18,
+     "f0_band": "ambiguous(370Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.11,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.89
+     }
+    },
+    {
+     "song_idx": 55,
+     "song_word": "begin",
+     "line": "L04",
+     "song_start_v2": 29.1,
+     "song_start_v1": 29.04,
+     "owner_v2": "CAT",
+     "take_word": "begin.",
+     "take_start": 6,
+     "take_end": 6.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 275.6,
+     "f0_voiced": 43,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.95,
+      "high>330": 0.05
+     }
+    },
+    {
+     "song_idx": 56,
+     "song_word": "Blue",
+     "line": "L05",
+     "song_start_v2": 30.1,
+     "song_start_v1": 30.1,
+     "owner_v2": "CAT",
+     "take_word": "Blue",
+     "take_start": 7.1,
+     "take_end": 7.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 362.7,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(363Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.11,
+      "high>330": 0.89
+     }
+    },
+    {
+     "song_idx": 57,
+     "song_word": "shirt",
+     "line": "L05",
+     "song_start_v2": 30.3,
+     "song_start_v1": 30.26,
+     "owner_v2": "CAT",
+     "take_word": "shirt,",
+     "take_start": 7.4,
+     "take_end": 7.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 368.0,
+     "f0_voiced": 21,
+     "f0_total": 25,
+     "f0_band": "ambiguous(368Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 58,
+     "song_word": "red",
+     "line": "L05",
+     "song_start_v2": 30.6,
+     "song_start_v1": 30.52,
+     "owner_v2": "CAT",
+     "take_word": "red",
+     "take_start": 7.8,
+     "take_end": 8.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 368.9,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(369Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.22,
+      "high>330": 0.78
+     }
+    },
+    {
+     "song_idx": 59,
+     "song_word": "bicycle",
+     "line": "L05",
+     "song_start_v2": 30.9,
+     "song_start_v1": 30.82,
+     "owner_v2": "CAT",
+     "take_word": "bicycle.",
+     "take_start": 8.1,
+     "take_end": 8.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 278.5,
+     "f0_voiced": 30,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.07,
+      "girl200-330": 0.93,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 22,
+    "slope": 1.17,
+    "intercept": 21.66,
+    "resid_median": 0.23,
+    "resid_max": 0.52
+   },
+   "per_line": {
+    "L01": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "Bare",
+      "feet",
+      "on",
+      "the",
+      "boardwalk,"
+     ],
+     "f0_median_all": 408.2,
+     "f0_bands": [
+      "ambiguous(408Hz)",
+      "ambiguous(416Hz)",
+      "ambiguous(409Hz)",
+      "ambiguous(366Hz)",
+      "GIRL"
+     ]
+    },
+    "L02": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "salt",
+      "on",
+      "my",
+      "skin."
+     ],
+     "f0_median_all": 341.9,
+     "f0_bands": [
+      "ambiguous(408Hz)",
+      "ambiguous(372Hz)",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L03": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "You",
+      "came",
+      "in",
+      "laughing,"
+     ],
+     "f0_median_all": 411.4,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(411Hz)",
+      "ambiguous(416Hz)",
+      "ambiguous(412Hz)"
+     ]
+    },
+    "L04": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "said,",
+      "come",
+      "on,",
+      "let's",
+      "begin."
+     ],
+     "f0_median_all": 369.8,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(415Hz)",
+      "ambiguous(415Hz)",
+      "ambiguous(370Hz)",
+      "GIRL"
+     ]
+    },
+    "L05": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Blue",
+      "shirt,",
+      "red",
+      "bicycle."
+     ],
+     "f0_median_all": 365.4,
+     "f0_bands": [
+      "ambiguous(363Hz)",
+      "ambiguous(368Hz)",
+      "ambiguous(369Hz)",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.186,
+    "gap_windows_mean": 0.119,
+    "gap_windows_max": 0.359,
+    "overall_max": 0.359
+   }
+  },
+  "S05": {
+   "take": "s05_t1",
+   "slot": [
+    31.48,
+    40.44
+   ],
+   "warp_v1": "1.030",
+   "lines": [
+    "L06",
+    "L07",
+    "L08",
+    "L09"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 17,
+   "matched_pairs": 15,
+   "expected_song_words": 16,
+   "dropped_song_words": [
+    {
+     "song_idx": 75,
+     "song_word": "half-zipped",
+     "line": "L09",
+     "song_start_v2": 39.32
+    }
+   ],
+   "extra_take_words": [
+    {
+     "word": "half",
+     "start": 8,
+     "end": 8.3
+    },
+    {
+     "word": "zipped.",
+     "start": 8.3,
+     "end": 8.7
+    }
+   ],
+   "words": [
+    {
+     "song_idx": 60,
+     "song_word": "Rolling",
+     "line": "L06",
+     "song_start_v2": 32,
+     "song_start_v1": 31.84,
+     "owner_v2": "CAT",
+     "take_word": "Rolling",
+     "take_start": 0.1,
+     "take_end": 0.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 257.5,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 61,
+     "song_word": "past",
+     "line": "L06",
+     "song_start_v2": 32.5,
+     "song_start_v1": 32.36,
+     "owner_v2": "CAT",
+     "take_word": "past",
+     "take_start": 0.7,
+     "take_end": 1.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.3,
+     "f0_voiced": 24,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.12,
+      "girl200-330": 0.88,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 62,
+     "song_word": "the",
+     "line": "L06",
+     "song_start_v2": 33,
+     "song_start_v1": 32.72,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 1.2,
+     "take_end": 1.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 187.3,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(187Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 63,
+     "song_word": "pier",
+     "line": "L06",
+     "song_start_v2": 33.1,
+     "song_start_v1": 33.1,
+     "owner_v2": "CAT",
+     "take_word": "pier.",
+     "take_start": 1.3,
+     "take_end": 2.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.5,
+     "f0_voiced": 58,
+     "f0_total": 60,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.93,
+      "high>330": 0.02
+     }
+    },
+    {
+     "song_idx": 64,
+     "song_word": "I",
+     "line": "L07",
+     "song_start_v2": 34.1,
+     "song_start_v1": 33.62,
+     "owner_v2": "CAT",
+     "take_word": "I",
+     "take_start": 3,
+     "take_end": 3.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 185.1,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(185Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 65,
+     "song_word": "was",
+     "line": "L07",
+     "song_start_v2": 34.2,
+     "song_start_v1": 34.18,
+     "owner_v2": "CAT",
+     "take_word": "was",
+     "take_start": 3.1,
+     "take_end": 3.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 187.0,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(187Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 66,
+     "song_word": "posted",
+     "line": "L07",
+     "song_start_v2": 34.4,
+     "song_start_v1": 34.32,
+     "owner_v2": "CAT",
+     "take_word": "posted",
+     "take_start": 3.3,
+     "take_end": 3.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 245.2,
+     "f0_voiced": 19,
+     "f0_total": 31,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.95,
+      "high>330": 0.05
+     }
+    },
+    {
+     "song_idx": 67,
+     "song_word": "up",
+     "line": "L07",
+     "song_start_v2": 34.9,
+     "song_start_v1": 34.7,
+     "owner_v2": "CAT",
+     "take_word": "up",
+     "take_start": 3.8,
+     "take_end": 4.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.0,
+     "f0_voiced": 13,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 68,
+     "song_word": "right",
+     "line": "L07",
+     "song_start_v2": 35.1,
+     "song_start_v1": 35.0,
+     "owner_v2": "CAT",
+     "take_word": "right",
+     "take_start": 4.1,
+     "take_end": 4.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 185.2,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(185Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 69,
+     "song_word": "here",
+     "line": "L07",
+     "song_start_v2": 35.6,
+     "song_start_v1": 35.28,
+     "owner_v2": "CAT",
+     "take_word": "here.",
+     "take_start": 4.4,
+     "take_end": 5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 183.2,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(183Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.97,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 70,
+     "song_word": "Now",
+     "line": "L08",
+     "song_start_v2": 36.6,
+     "song_start_v1": 36.12,
+     "owner_v2": "CAT",
+     "take_word": "Now",
+     "take_start": 5.2,
+     "take_end": 5.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 197.6,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(198Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.06,
+      "mid161-199": 0.5,
+      "girl200-330": 0.44,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 71,
+     "song_word": "you're",
+     "line": "L08",
+     "song_start_v2": 36.9,
+     "song_start_v1": 36.84,
+     "owner_v2": "CAT",
+     "take_word": "you're",
+     "take_start": 5.5,
+     "take_end": 5.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.8,
+     "f0_voiced": 10,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.2,
+      "girl200-330": 0.8,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 72,
+     "song_word": "pulling",
+     "line": "L08",
+     "song_start_v2": 37.2,
+     "song_start_v1": 37.18,
+     "owner_v2": "CAT",
+     "take_word": "pulling",
+     "take_start": 5.7,
+     "take_end": 6.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 243.4,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 73,
+     "song_word": "near",
+     "line": "L08",
+     "song_start_v2": 37.6,
+     "song_start_v1": 37.5,
+     "owner_v2": "CAT",
+     "take_word": "near.",
+     "take_start": 6.2,
+     "take_end": 6.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 234.0,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 74,
+     "song_word": "Backpack",
+     "line": "L09",
+     "song_start_v2": 38.62,
+     "song_start_v1": 38.62,
+     "owner_v2": "CAT",
+     "take_word": "Backpack",
+     "take_start": 7.1,
+     "take_end": 8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 206.9,
+     "f0_voiced": 48,
+     "f0_total": 60,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.1,
+      "mid161-199": 0.06,
+      "girl200-330": 0.81,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 15,
+    "slope": 0.934,
+    "intercept": 31.65,
+    "resid_median": 0.24,
+    "resid_max": 0.38
+   },
+   "per_line": {
+    "L06": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Rolling",
+      "past",
+      "the",
+      "pier."
+     ],
+     "f0_median_all": 207.9,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "ambiguous(187Hz)",
+      "GIRL"
+     ]
+    },
+    "L07": {
+     "owner_v2": "CAT",
+     "expected_words": 6,
+     "matched_words": 6,
+     "take_words": [
+      "I",
+      "was",
+      "posted",
+      "up",
+      "right",
+      "here."
+     ],
+     "f0_median_all": 186.1,
+     "f0_bands": [
+      "ambiguous(185Hz)",
+      "ambiguous(187Hz)",
+      "GIRL",
+      "GIRL",
+      "ambiguous(185Hz)",
+      "ambiguous(183Hz)"
+     ]
+    },
+    "L08": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Now",
+      "you're",
+      "pulling",
+      "near."
+     ],
+     "f0_median_all": 221.4,
+     "f0_bands": [
+      "ambiguous(198Hz)",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L09": {
+     "owner_v2": "CAT",
+     "expected_words": 2,
+     "matched_words": 1,
+     "take_words": [
+      "Backpack"
+     ],
+     "f0_median_all": 206.9,
+     "f0_bands": [
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.118,
+    "gap_windows_mean": 0.053,
+    "gap_windows_max": 0.19,
+    "overall_max": 0.284
+   }
+  },
+  "S06": {
+   "take": "s06_t1",
+   "slot": [
+    40.44,
+    47.76
+   ],
+   "warp_v1": "0.800",
+   "lines": [
+    "L10",
+    "L11",
+    "L12"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 14,
+   "matched_pairs": 14,
+   "expected_song_words": 14,
+   "dropped_song_words": [],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 76,
+     "song_word": "Keys",
+     "line": "L10",
+     "song_start_v2": 41.1,
+     "song_start_v1": 40.52,
+     "owner_v2": "CAT",
+     "take_word": "keys",
+     "take_start": 0.1,
+     "take_end": 0.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 277.2,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 77,
+     "song_word": "in",
+     "line": "L10",
+     "song_start_v2": 41.7,
+     "song_start_v1": 40.74,
+     "owner_v2": "CAT",
+     "take_word": "in",
+     "take_start": 0.6,
+     "take_end": 0.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 247.3,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 78,
+     "song_word": "your",
+     "line": "L10",
+     "song_start_v2": 41.8,
+     "song_start_v1": 40.82,
+     "owner_v2": "CAT",
+     "take_word": "your",
+     "take_start": 0.8,
+     "take_end": 1.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 328.3,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.52,
+      "high>330": 0.48
+     }
+    },
+    {
+     "song_idx": 79,
+     "song_word": "hand",
+     "line": "L10",
+     "song_start_v2": 42,
+     "song_start_v1": 41.3,
+     "owner_v2": "CAT",
+     "take_word": "hand.",
+     "take_start": 1.2,
+     "take_end": 2.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.7,
+     "f0_voiced": 74,
+     "f0_total": 74,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 80,
+     "song_word": "You",
+     "line": "L11",
+     "song_start_v2": 43.2,
+     "song_start_v1": 43.28,
+     "owner_v2": "CAT",
+     "take_word": "You",
+     "take_start": 3.4,
+     "take_end": 3.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 301.4,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 81,
+     "song_word": "nodded",
+     "line": "L11",
+     "song_start_v2": 43.4,
+     "song_start_v1": 43.36,
+     "owner_v2": "CAT",
+     "take_word": "nodded",
+     "take_start": 3.6,
+     "take_end": 4.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 370.1,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(370Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.02,
+      "high>330": 0.98
+     }
+    },
+    {
+     "song_idx": 82,
+     "song_word": "at",
+     "line": "L11",
+     "song_start_v2": 43.8,
+     "song_start_v1": 43.72,
+     "owner_v2": "CAT",
+     "take_word": "at",
+     "take_start": 4.3,
+     "take_end": 4.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 370.3,
+     "f0_voiced": 10,
+     "f0_total": 11,
+     "f0_band": "ambiguous(370Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.2,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.8
+     }
+    },
+    {
+     "song_idx": 83,
+     "song_word": "the",
+     "line": "L11",
+     "song_start_v2": 43.9,
+     "song_start_v1": 43.92,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 4.5,
+     "take_end": 4.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.8,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 84,
+     "song_word": "waves",
+     "line": "L11",
+     "song_start_v2": 44,
+     "song_start_v1": 44.08,
+     "owner_v2": "CAT",
+     "take_word": "waves",
+     "take_start": 4.7,
+     "take_end": 5.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 409.2,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(409Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 85,
+     "song_word": "like",
+     "line": "L11",
+     "song_start_v2": 44.4,
+     "song_start_v1": 44.26,
+     "owner_v2": "CAT",
+     "take_word": "like",
+     "take_start": 5.4,
+     "take_end": 5.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 368.9,
+     "f0_voiced": 15,
+     "f0_total": 18,
+     "f0_band": "ambiguous(369Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 86,
+     "song_word": "Yeah",
+     "line": "L12",
+     "song_start_v2": 44.8,
+     "song_start_v1": 44.26,
+     "owner_v2": "CAT",
+     "take_word": "yeah,",
+     "take_start": 5.7,
+     "take_end": 6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 418.0,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(418Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 87,
+     "song_word": "they",
+     "line": "L12",
+     "song_start_v2": 44.9,
+     "song_start_v1": 44.58,
+     "owner_v2": "CAT",
+     "take_word": "they",
+     "take_start": 6,
+     "take_end": 6.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.3,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(414Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 88,
+     "song_word": "already",
+     "line": "L12",
+     "song_start_v2": 45.4,
+     "song_start_v1": 44.98,
+     "owner_v2": "CAT",
+     "take_word": "already",
+     "take_start": 6.4,
+     "take_end": 7.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 369.5,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "ambiguous(369Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.25,
+      "high>330": 0.75
+     }
+    },
+    {
+     "song_idx": 89,
+     "song_word": "understand",
+     "line": "L12",
+     "song_start_v2": 45.8,
+     "song_start_v1": 45.08,
+     "owner_v2": "CAT",
+     "take_word": "understand.",
+     "take_start": 7.4,
+     "take_end": 8.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 247.2,
+     "f0_voiced": 76,
+     "f0_total": 95,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.96,
+      "high>330": 0.04
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 14,
+    "slope": 0.621,
+    "intercept": 41.19,
+    "resid_median": 0.09,
+    "resid_max": 0.24
+   },
+   "per_line": {
+    "L10": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "keys",
+      "in",
+      "your",
+      "hand."
+     ],
+     "f0_median_all": 293.9,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L11": {
+     "owner_v2": "CAT",
+     "expected_words": 6,
+     "matched_words": 6,
+     "take_words": [
+      "You",
+      "nodded",
+      "at",
+      "the",
+      "waves",
+      "like"
+     ],
+     "f0_median_all": 370.2,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(370Hz)",
+      "ambiguous(370Hz)",
+      "ambiguous(416Hz)",
+      "ambiguous(409Hz)",
+      "ambiguous(369Hz)"
+     ]
+    },
+    "L12": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "yeah,",
+      "they",
+      "already",
+      "understand."
+     ],
+     "f0_median_all": 391.9,
+     "f0_bands": [
+      "ambiguous(418Hz)",
+      "ambiguous(414Hz)",
+      "ambiguous(369Hz)",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.247,
+    "gap_windows_mean": 0.113,
+    "gap_windows_max": 0.42,
+    "overall_max": 0.42
+   }
+  },
+  "S07": {
+   "take": "s07_t1",
+   "slot": [
+    47.76,
+    57.52
+   ],
+   "warp_v1": "0.800/0.817/1.107/1.250 per-line",
+   "lines": [
+    "L13",
+    "L14",
+    "L15",
+    "L16"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 20,
+   "matched_pairs": 20,
+   "expected_song_words": 20,
+   "dropped_song_words": [],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 90,
+     "song_word": "Slow",
+     "line": "L13",
+     "song_start_v2": 47.8,
+     "song_start_v1": 47.62,
+     "owner_v2": "CAT",
+     "take_word": "Slow",
+     "take_start": 0.1,
+     "take_end": 0.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 131.8,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "ambiguous(132Hz)",
+     "f0_bands": {
+      "bass<80": 0.03,
+      "cat97-160": 0.19,
+      "mid161-199": 0.5,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 91,
+     "song_word": "down",
+     "line": "L13",
+     "song_start_v2": 48,
+     "song_start_v1": 47.96,
+     "owner_v2": "CAT",
+     "take_word": "down,",
+     "take_start": 0.6,
+     "take_end": 1.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 97.3,
+     "f0_voiced": 52,
+     "f0_total": 53,
+     "f0_band": "ambiguous(97Hz)",
+     "f0_bands": {
+      "bass<80": 0.29,
+      "cat97-160": 0.13,
+      "mid161-199": 0.08,
+      "girl200-330": 0.27,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 92,
+     "song_word": "take",
+     "line": "L13",
+     "song_start_v2": 48.6,
+     "song_start_v1": 48.72,
+     "owner_v2": "CAT",
+     "take_word": "take",
+     "take_start": 1.4,
+     "take_end": 1.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 203.7,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.08,
+      "cat97-160": 0.04,
+      "mid161-199": 0.0,
+      "girl200-330": 0.52,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 93,
+     "song_word": "your",
+     "line": "L13",
+     "song_start_v2": 48.9,
+     "song_start_v1": 48.8,
+     "owner_v2": "CAT",
+     "take_word": "your",
+     "take_start": 1.8,
+     "take_end": 2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.4,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 94,
+     "song_word": "time",
+     "line": "L13",
+     "song_start_v2": 49.2,
+     "song_start_v1": 49.14,
+     "owner_v2": "CAT",
+     "take_word": "time.",
+     "take_start": 2,
+     "take_end": 3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 109.1,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.19,
+      "cat97-160": 0.4,
+      "mid161-199": 0.09,
+      "girl200-330": 0.25,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 95,
+     "song_word": "Let",
+     "line": "L14",
+     "song_start_v2": 49.8,
+     "song_start_v1": 49.76,
+     "owner_v2": "CAT",
+     "take_word": "Let",
+     "take_start": 3.1,
+     "take_end": 3.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 172.1,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(172Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.22,
+      "mid161-199": 0.56,
+      "girl200-330": 0.0,
+      "high>330": 0.06
+     }
+    },
+    {
+     "song_idx": 96,
+     "song_word": "the",
+     "line": "L14",
+     "song_start_v2": 50,
+     "song_start_v1": 49.94,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 3.4,
+     "take_end": 3.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 197.2,
+     "f0_voiced": 10,
+     "f0_total": 11,
+     "f0_band": "ambiguous(197Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.9,
+      "girl200-330": 0.0,
+      "high>330": 0.1
+     }
+    },
+    {
+     "song_idx": 97,
+     "song_word": "hard",
+     "line": "L14",
+     "song_start_v2": 50.2,
+     "song_start_v1": 50.18,
+     "owner_v2": "CAT",
+     "take_word": "hard",
+     "take_start": 3.6,
+     "take_end": 4.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 200.8,
+     "f0_voiced": 31,
+     "f0_total": 31,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.03,
+      "cat97-160": 0.03,
+      "mid161-199": 0.32,
+      "girl200-330": 0.55,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 98,
+     "song_word": "week",
+     "line": "L14",
+     "song_start_v2": 50.6,
+     "song_start_v1": 50.52,
+     "owner_v2": "CAT",
+     "take_word": "week",
+     "take_start": 4.1,
+     "take_end": 4.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 233.3,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.06,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.78,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 99,
+     "song_word": "fade",
+     "line": "L14",
+     "song_start_v2": 50.9,
+     "song_start_v1": 50.8,
+     "owner_v2": "CAT",
+     "take_word": "fade.",
+     "take_start": 4.4,
+     "take_end": 5.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.9,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.06,
+      "mid161-199": 0.0,
+      "girl200-330": 0.94,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 100,
+     "song_word": "One",
+     "line": "L15",
+     "song_start_v2": 51.6,
+     "song_start_v1": 51.46,
+     "owner_v2": "CAT",
+     "take_word": "One",
+     "take_start": 5.2,
+     "take_end": 5.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 221.8,
+     "f0_voiced": 23,
+     "f0_total": 25,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.09,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.65,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 101,
+     "song_word": "small",
+     "line": "L15",
+     "song_start_v2": 51.7,
+     "song_start_v1": 51.728,
+     "owner_v2": "CAT",
+     "take_word": "small",
+     "take_start": 5.6,
+     "take_end": 6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 232.9,
+     "f0_voiced": 24,
+     "f0_total": 24,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 102,
+     "song_word": "look",
+     "line": "L15",
+     "song_start_v2": 52.2,
+     "song_start_v1": 51.996,
+     "owner_v2": "CAT",
+     "take_word": "look",
+     "take_start": 6,
+     "take_end": 6.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 88.4,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(88Hz)",
+     "f0_bands": {
+      "bass<80": 0.09,
+      "cat97-160": 0.27,
+      "mid161-199": 0.0,
+      "girl200-330": 0.09,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 103,
+     "song_word": "from",
+     "line": "L15",
+     "song_start_v2": 52.3,
+     "song_start_v1": 52.264,
+     "owner_v2": "CAT",
+     "take_word": "from",
+     "take_start": 6.2,
+     "take_end": 6.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 195.6,
+     "f0_voiced": 17,
+     "f0_total": 18,
+     "f0_band": "ambiguous(196Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.82,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 104,
+     "song_word": "you",
+     "line": "L15",
+     "song_start_v2": 52.6,
+     "song_start_v1": 52.532,
+     "owner_v2": "CAT",
+     "take_word": "you",
+     "take_start": 6.5,
+     "take_end": 7.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 211.6,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.17,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.83,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 105,
+     "song_word": "And",
+     "line": "L16",
+     "song_start_v2": 53.1,
+     "song_start_v1": 52.46,
+     "owner_v2": "CAT",
+     "take_word": "and",
+     "take_start": 7.5,
+     "take_end": 7.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 182.0,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(182Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 106,
+     "song_word": "my",
+     "line": "L16",
+     "song_start_v2": 53.2,
+     "song_start_v1": 52.98,
+     "owner_v2": "CAT",
+     "take_word": "my",
+     "take_start": 7.7,
+     "take_end": 7.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.0,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 107,
+     "song_word": "whole",
+     "line": "L16",
+     "song_start_v2": 53.4,
+     "song_start_v1": 53.36,
+     "owner_v2": "CAT",
+     "take_word": "whole",
+     "take_start": 7.9,
+     "take_end": 8.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 268.6,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 108,
+     "song_word": "head",
+     "line": "L16",
+     "song_start_v2": 53.7,
+     "song_start_v1": 53.7,
+     "owner_v2": "CAT",
+     "take_word": "head",
+     "take_start": 8.5,
+     "take_end": 8.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 232.7,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 109,
+     "song_word": "replays",
+     "line": "L16",
+     "song_start_v2": 55,
+     "song_start_v1": 54.36,
+     "owner_v2": "CAT",
+     "take_word": "replays.",
+     "take_start": 8.8,
+     "take_end": 10,
+     "take_speaker_app": "spk:0",
+     "f0_median": 205.0,
+     "f0_voiced": 78,
+     "f0_total": 81,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.23,
+      "cat97-160": 0.14,
+      "mid161-199": 0.0,
+      "girl200-330": 0.59,
+      "high>330": 0.01
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 20,
+    "slope": 0.761,
+    "intercept": 47.55,
+    "resid_median": 0.11,
+    "resid_max": 0.75
+   },
+   "per_line": {
+    "L13": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "Slow",
+      "down,",
+      "take",
+      "your",
+      "time."
+     ],
+     "f0_median_all": 131.8,
+     "f0_bands": [
+      "ambiguous(132Hz)",
+      "ambiguous(97Hz)",
+      "GIRL",
+      "GIRL",
+      "CAT"
+     ]
+    },
+    "L14": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "Let",
+      "the",
+      "hard",
+      "week",
+      "fade."
+     ],
+     "f0_median_all": 200.8,
+     "f0_bands": [
+      "ambiguous(172Hz)",
+      "ambiguous(197Hz)",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L15": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "One",
+      "small",
+      "look",
+      "from",
+      "you"
+     ],
+     "f0_median_all": 211.6,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "ambiguous(88Hz)",
+      "ambiguous(196Hz)",
+      "GIRL"
+     ]
+    },
+    "L16": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "and",
+      "my",
+      "whole",
+      "head",
+      "replays."
+     ],
+     "f0_median_all": 208.0,
+     "f0_bands": [
+      "ambiguous(182Hz)",
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.176,
+    "gap_windows_mean": 0.147,
+    "gap_windows_max": 0.294,
+    "overall_max": 0.298
+   }
+  },
+  "S08": {
+   "take": "s08_t2",
+   "slot": [
+    57.52,
+    67.06
+   ],
+   "warp_v1": "0.966/1.106/1.197 per-refrain",
+   "lines": [
+    "L17",
+    "L18",
+    "L19",
+    "L20",
+    "L21",
+    "L22",
+    "L23",
+    "L24"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 8,
+   "matched_pairs": 8,
+   "expected_song_words": 33,
+   "dropped_song_words": [
+    {
+     "song_idx": 114,
+     "song_word": "We",
+     "line": "L18",
+     "song_start_v2": 59.4
+    },
+    {
+     "song_idx": 115,
+     "song_word": "ride",
+     "line": "L18",
+     "song_start_v2": 59.5
+    },
+    {
+     "song_idx": 116,
+     "song_word": "we",
+     "line": "L18",
+     "song_start_v2": 59.7
+    },
+    {
+     "song_idx": 117,
+     "song_word": "ride",
+     "line": "L18",
+     "song_start_v2": 59.8
+    },
+    {
+     "song_idx": 122,
+     "song_word": "With",
+     "line": "L20",
+     "song_start_v2": 61.4
+    },
+    {
+     "song_idx": 123,
+     "song_word": "you",
+     "line": "L20",
+     "song_start_v2": 61.5
+    },
+    {
+     "song_idx": 124,
+     "song_word": "by",
+     "line": "L20",
+     "song_start_v2": 61.7
+    },
+    {
+     "song_idx": 125,
+     "song_word": "my",
+     "line": "L20",
+     "song_start_v2": 61.9
+    },
+    {
+     "song_idx": 126,
+     "song_word": "side",
+     "line": "L20",
+     "song_start_v2": 62.1
+    },
+    {
+     "song_idx": 127,
+     "song_word": "Easy",
+     "line": "L21",
+     "song_start_v2": 62.9
+    },
+    {
+     "song_idx": 128,
+     "song_word": "now",
+     "line": "L21",
+     "song_start_v2": 63
+    },
+    {
+     "song_idx": 129,
+     "song_word": "easy",
+     "line": "L21",
+     "song_start_v2": 63.1
+    },
+    {
+     "song_idx": 130,
+     "song_word": "now",
+     "line": "L21",
+     "song_start_v2": 63.4
+    },
+    {
+     "song_idx": 131,
+     "song_word": "No",
+     "line": "L22",
+     "song_start_v2": 63.9
+    },
+    {
+     "song_idx": 132,
+     "song_word": "need",
+     "line": "L22",
+     "song_start_v2": 64
+    },
+    {
+     "song_idx": 133,
+     "song_word": "to",
+     "line": "L22",
+     "song_start_v2": 64.3
+    },
+    {
+     "song_idx": 134,
+     "song_word": "run",
+     "line": "L22",
+     "song_start_v2": 64.5
+    },
+    {
+     "song_idx": 135,
+     "song_word": "Easy",
+     "line": "L23",
+     "song_start_v2": 65.1
+    },
+    {
+     "song_idx": 136,
+     "song_word": "now",
+     "line": "L23",
+     "song_start_v2": 65.2
+    },
+    {
+     "song_idx": 137,
+     "song_word": "easy",
+     "line": "L23",
+     "song_start_v2": 65.5
+    },
+    {
+     "song_idx": 138,
+     "song_word": "now",
+     "line": "L23",
+     "song_start_v2": 65.6
+    },
+    {
+     "song_idx": 139,
+     "song_word": "We",
+     "line": "L24",
+     "song_start_v2": 66.2
+    },
+    {
+     "song_idx": 140,
+     "song_word": "hold",
+     "line": "L24",
+     "song_start_v2": 66.3
+    },
+    {
+     "song_idx": 141,
+     "song_word": "the",
+     "line": "L24",
+     "song_start_v2": 66.6
+    },
+    {
+     "song_idx": 142,
+     "song_word": "sun",
+     "line": "L24",
+     "song_start_v2": 66.7
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 110,
+     "song_word": "Easy",
+     "line": "L17",
+     "song_start_v2": 57.9,
+     "song_start_v1": 57.52,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 0.5,
+     "take_end": 1.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 411.7,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(412Hz)",
+     "f0_bands": {
+      "bass<80": 0.03,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.1,
+      "high>330": 0.87
+     }
+    },
+    {
+     "song_idx": 111,
+     "song_word": "now",
+     "line": "L17",
+     "song_start_v2": 58,
+     "song_start_v1": 58.04,
+     "owner_v2": "GIRL",
+     "take_word": "now,",
+     "take_start": 1.1,
+     "take_end": 1.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 351.6,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(352Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 112,
+     "song_word": "easy",
+     "line": "L17",
+     "song_start_v2": 58.3,
+     "song_start_v1": 58.54,
+     "owner_v2": "GIRL",
+     "take_word": "easy",
+     "take_start": 2.1,
+     "take_end": 2.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.3,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 113,
+     "song_word": "now",
+     "line": "L17",
+     "song_start_v2": 58.4,
+     "song_start_v1": 58.84,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 2.8,
+     "take_end": 3.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 348.7,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "ambiguous(349Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 118,
+     "song_word": "Easy",
+     "line": "L19",
+     "song_start_v2": 60.4,
+     "song_start_v1": 59.9,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 5.3,
+     "take_end": 6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 412.4,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(412Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.02,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.98
+     }
+    },
+    {
+     "song_idx": 119,
+     "song_word": "now",
+     "line": "L19",
+     "song_start_v2": 60.5,
+     "song_start_v1": 60.22,
+     "owner_v2": "GIRL",
+     "take_word": "now,",
+     "take_start": 6,
+     "take_end": 6.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 337.6,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "ambiguous(338Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.19,
+      "high>330": 0.81
+     }
+    },
+    {
+     "song_idx": 120,
+     "song_word": "easy",
+     "line": "L19",
+     "song_start_v2": 60.6,
+     "song_start_v1": 60.56,
+     "owner_v2": "GIRL",
+     "take_word": "easy",
+     "take_start": 6.5,
+     "take_end": 7.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 413.5,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(413Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 121,
+     "song_word": "now",
+     "line": "L19",
+     "song_start_v2": 60.9,
+     "song_start_v1": 61.1,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 7.2,
+     "take_end": 8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 410.8,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "ambiguous(411Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 8,
+    "slope": 0.499,
+    "intercept": 57.41,
+    "resid_median": 0.13,
+    "resid_max": 0.41
+   },
+   "per_line": {
+    "L17": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now,",
+      "easy",
+      "now."
+     ],
+     "f0_median_all": 381.6,
+     "f0_bands": [
+      "ambiguous(412Hz)",
+      "ambiguous(352Hz)",
+      "ambiguous(415Hz)",
+      "ambiguous(349Hz)"
+     ]
+    },
+    "L18": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L19": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now,",
+      "easy",
+      "now."
+     ],
+     "f0_median_all": 411.6,
+     "f0_bands": [
+      "ambiguous(412Hz)",
+      "ambiguous(338Hz)",
+      "ambiguous(413Hz)",
+      "ambiguous(411Hz)"
+     ]
+    },
+    "L20": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L21": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L22": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L23": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L24": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.1,
+    "gap_windows_mean": 0.049,
+    "gap_windows_max": 0.179,
+    "overall_max": 0.179
+   }
+  },
+  "S09": {
+   "take": "s09_t1",
+   "slot": [
+    67.06,
+    76.8
+   ],
+   "warp_v1": "0.869/0.915/1.096/1.133 per-refrain",
+   "lines": [
+    "L25",
+    "L26",
+    "L27",
+    "L28",
+    "L29",
+    "L30",
+    "L31",
+    "L32"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 12,
+   "matched_pairs": 6,
+   "expected_song_words": 37,
+   "dropped_song_words": [
+    {
+     "song_idx": 143,
+     "song_word": "Easy",
+     "line": "L25",
+     "song_start_v2": 67.4
+    },
+    {
+     "song_idx": 144,
+     "song_word": "now",
+     "line": "L25",
+     "song_start_v2": 67.5
+    },
+    {
+     "song_idx": 145,
+     "song_word": "easy",
+     "line": "L25",
+     "song_start_v2": 67.6
+    },
+    {
+     "song_idx": 146,
+     "song_word": "now",
+     "line": "L25",
+     "song_start_v2": 67.9
+    },
+    {
+     "song_idx": 147,
+     "song_word": "Keep",
+     "line": "L26",
+     "song_start_v2": 68.4
+    },
+    {
+     "song_idx": 149,
+     "song_word": "loose",
+     "line": "L26",
+     "song_start_v2": 68.6
+    },
+    {
+     "song_idx": 150,
+     "song_word": "keep",
+     "line": "L26",
+     "song_start_v2": 68.9
+    },
+    {
+     "song_idx": 151,
+     "song_word": "it",
+     "line": "L26",
+     "song_start_v2": 69.1
+    },
+    {
+     "song_idx": 152,
+     "song_word": "low",
+     "line": "L26",
+     "song_start_v2": 69.2
+    },
+    {
+     "song_idx": 153,
+     "song_word": "Easy",
+     "line": "L27",
+     "song_start_v2": 69.7
+    },
+    {
+     "song_idx": 155,
+     "song_word": "easy",
+     "line": "L27",
+     "song_start_v2": 69.9
+    },
+    {
+     "song_idx": 156,
+     "song_word": "now",
+     "line": "L27",
+     "song_start_v2": 70.1
+    },
+    {
+     "song_idx": 157,
+     "song_word": "Let",
+     "line": "L28",
+     "song_start_v2": 70.7
+    },
+    {
+     "song_idx": 159,
+     "song_word": "drift",
+     "line": "L28",
+     "song_start_v2": 70.9
+    },
+    {
+     "song_idx": 160,
+     "song_word": "let",
+     "line": "L28",
+     "song_start_v2": 71.1
+    },
+    {
+     "song_idx": 161,
+     "song_word": "it",
+     "line": "L28",
+     "song_start_v2": 71.4
+    },
+    {
+     "song_idx": 162,
+     "song_word": "go",
+     "line": "L28",
+     "song_start_v2": 71.5
+    },
+    {
+     "song_idx": 163,
+     "song_word": "Easy",
+     "line": "L29",
+     "song_start_v2": 72
+    },
+    {
+     "song_idx": 165,
+     "song_word": "easy",
+     "line": "L29",
+     "song_start_v2": 72.2
+    },
+    {
+     "song_idx": 167,
+     "song_word": "We're",
+     "line": "L30",
+     "song_start_v2": 72.9
+    },
+    {
+     "song_idx": 168,
+     "song_word": "good",
+     "line": "L30",
+     "song_start_v2": 73
+    },
+    {
+     "song_idx": 169,
+     "song_word": "where",
+     "line": "L30",
+     "song_start_v2": 73.1
+    },
+    {
+     "song_idx": 170,
+     "song_word": "we",
+     "line": "L30",
+     "song_start_v2": 73.4
+    },
+    {
+     "song_idx": 171,
+     "song_word": "are",
+     "line": "L30",
+     "song_start_v2": 73.7
+    },
+    {
+     "song_idx": 172,
+     "song_word": "Easy",
+     "line": "L31",
+     "song_start_v2": 74.2
+    },
+    {
+     "song_idx": 174,
+     "song_word": "easy",
+     "line": "L31",
+     "song_start_v2": 74.6
+    },
+    {
+     "song_idx": 175,
+     "song_word": "now",
+     "line": "L31",
+     "song_start_v2": 74.7
+    },
+    {
+     "song_idx": 176,
+     "song_word": "Just",
+     "line": "L32",
+     "song_start_v2": 75.2
+    },
+    {
+     "song_idx": 177,
+     "song_word": "two",
+     "line": "L32",
+     "song_start_v2": 75.4
+    },
+    {
+     "song_idx": 178,
+     "song_word": "small",
+     "line": "L32",
+     "song_start_v2": 75.9
+    },
+    {
+     "song_idx": 179,
+     "song_word": "sparks",
+     "line": "L32",
+     "song_start_v2": 76.3
+    }
+   ],
+   "extra_take_words": [
+    {
+     "word": "Is",
+     "start": 0.2,
+     "end": 0.5
+    },
+    {
+     "word": "Is",
+     "start": 1.8,
+     "end": 2.2
+    },
+    {
+     "word": "Is",
+     "start": 3.4,
+     "end": 3.9
+    },
+    {
+     "word": "it",
+     "start": 3.9,
+     "end": 4
+    },
+    {
+     "word": "Is",
+     "start": 4.9,
+     "end": 5.4
+    },
+    {
+     "word": "it",
+     "start": 5.4,
+     "end": 5.5
+    }
+   ],
+   "words": [
+    {
+     "song_idx": 148,
+     "song_word": "it",
+     "line": "L26",
+     "song_start_v2": 68.5,
+     "song_start_v1": 68.2,
+     "owner_v2": "CAT",
+     "take_word": "it",
+     "take_start": 0.5,
+     "take_end": 0.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.4,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(414Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 154,
+     "song_word": "now",
+     "line": "L27",
+     "song_start_v2": 69.8,
+     "song_start_v1": 69.4,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 0.6,
+     "take_end": 1.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 361.1,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "ambiguous(361Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 158,
+     "song_word": "it",
+     "line": "L28",
+     "song_start_v2": 70.8,
+     "song_start_v1": 70.46,
+     "owner_v2": "CAT",
+     "take_word": "it",
+     "take_start": 2.2,
+     "take_end": 2.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.6,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 164,
+     "song_word": "now",
+     "line": "L29",
+     "song_start_v2": 72.1,
+     "song_start_v1": 71.44,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 2.4,
+     "take_end": 3.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.7,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 166,
+     "song_word": "now",
+     "line": "L29",
+     "song_start_v2": 72.3,
+     "song_start_v1": 71.96,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 4,
+     "take_end": 4.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 413.5,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "ambiguous(413Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 173,
+     "song_word": "now",
+     "line": "L31",
+     "song_start_v2": 74.3,
+     "song_start_v1": 74.22,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 5.5,
+     "take_end": 6.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 413.0,
+     "f0_voiced": 74,
+     "f0_total": 74,
+     "f0_band": "ambiguous(413Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 6,
+    "slope": 1.004,
+    "intercept": 68.76,
+    "resid_median": 0.46,
+    "resid_max": 0.93
+   },
+   "per_line": {
+    "L25": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L26": {
+     "owner_v2": "CAT",
+     "expected_words": 6,
+     "matched_words": 1,
+     "take_words": [
+      "it"
+     ],
+     "f0_median_all": 414.4,
+     "f0_bands": [
+      "ambiguous(414Hz)"
+     ]
+    },
+    "L27": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 1,
+     "take_words": [
+      "now?"
+     ],
+     "f0_median_all": 361.1,
+     "f0_bands": [
+      "ambiguous(361Hz)"
+     ]
+    },
+    "L28": {
+     "owner_v2": "CAT",
+     "expected_words": 6,
+     "matched_words": 1,
+     "take_words": [
+      "it"
+     ],
+     "f0_median_all": 414.6,
+     "f0_bands": [
+      "ambiguous(415Hz)"
+     ]
+    },
+    "L29": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 2,
+     "take_words": [
+      "now?",
+      "now?"
+     ],
+     "f0_median_all": 414.1,
+     "f0_bands": [
+      "ambiguous(415Hz)",
+      "ambiguous(413Hz)"
+     ]
+    },
+    "L30": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L31": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 1,
+     "take_words": [
+      "now?"
+     ],
+     "f0_median_all": 413.0,
+     "f0_bands": [
+      "ambiguous(413Hz)"
+     ]
+    },
+    "L32": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.124,
+    "gap_windows_mean": 0.053,
+    "gap_windows_max": 0.176,
+    "overall_max": 0.201
+   }
+  },
+  "S10": {
+   "take": "s10_t1",
+   "slot": [
+    76.8,
+    85.16
+   ],
+   "warp_v1": "1.000 cutaway",
+   "lines": [
+    "L33",
+    "L34",
+    "L35",
+    "L36"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 1,
+   "matched_pairs": 0,
+   "expected_song_words": 20,
+   "dropped_song_words": [
+    {
+     "song_idx": 180,
+     "song_word": "I",
+     "line": "L33",
+     "song_start_v2": 76.8
+    },
+    {
+     "song_idx": 181,
+     "song_word": "gotta",
+     "line": "L33",
+     "song_start_v2": 76.98
+    },
+    {
+     "song_idx": 182,
+     "song_word": "go",
+     "line": "L33",
+     "song_start_v2": 77.58
+    },
+    {
+     "song_idx": 183,
+     "song_word": "there",
+     "line": "L33",
+     "song_start_v2": 78.04
+    },
+    {
+     "song_idx": 184,
+     "song_word": "I",
+     "line": "L34",
+     "song_start_v2": 78.76
+    },
+    {
+     "song_idx": 185,
+     "song_word": "gotta",
+     "line": "L34",
+     "song_start_v2": 79.16
+    },
+    {
+     "song_idx": 186,
+     "song_word": "go",
+     "line": "L34",
+     "song_start_v2": 79.38
+    },
+    {
+     "song_idx": 187,
+     "song_word": "there",
+     "line": "L34",
+     "song_start_v2": 79.64
+    },
+    {
+     "song_idx": 188,
+     "song_word": "just",
+     "line": "L34",
+     "song_start_v2": 79.76
+    },
+    {
+     "song_idx": 189,
+     "song_word": "two",
+     "line": "L34",
+     "song_start_v2": 79.98
+    },
+    {
+     "song_idx": 190,
+     "song_word": "small",
+     "line": "L34",
+     "song_start_v2": 80.32
+    },
+    {
+     "song_idx": 191,
+     "song_word": "sparks",
+     "line": "L34",
+     "song_start_v2": 80.76
+    },
+    {
+     "song_idx": 192,
+     "song_word": "I",
+     "line": "L35",
+     "song_start_v2": 81.76
+    },
+    {
+     "song_idx": 193,
+     "song_word": "gotta",
+     "line": "L35",
+     "song_start_v2": 82.18
+    },
+    {
+     "song_idx": 194,
+     "song_word": "go",
+     "line": "L35",
+     "song_start_v2": 83.14
+    },
+    {
+     "song_idx": 195,
+     "song_word": "there",
+     "line": "L35",
+     "song_start_v2": 83.14
+    },
+    {
+     "song_idx": 196,
+     "song_word": "Just",
+     "line": "L36",
+     "song_start_v2": 83.1
+    },
+    {
+     "song_idx": 197,
+     "song_word": "two",
+     "line": "L36",
+     "song_start_v2": 83.4
+    },
+    {
+     "song_idx": 198,
+     "song_word": "small",
+     "line": "L36",
+     "song_start_v2": 83.9
+    },
+    {
+     "song_idx": 199,
+     "song_word": "sparks",
+     "line": "L36",
+     "song_start_v2": 84.4
+    }
+   ],
+   "extra_take_words": [
+    {
+     "word": "2018",
+     "start": 5.6,
+     "end": 5.9
+    }
+   ],
+   "words": [],
+   "fit": null,
+   "per_line": {
+    "L33": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L34": {
+     "owner_v2": "CAT",
+     "expected_words": 8,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L35": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L36": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.048,
+    "gap_windows_mean": 0.085,
+    "gap_windows_max": 0.182,
+    "overall_max": 0.182
+   }
+  },
+  "S11": {
+   "take": "s11_t4",
+   "slot": [
+    85.16,
+    93.8
+   ],
+   "warp_v1": "0.800/0.880",
+   "lines": [
+    "L37",
+    "L38",
+    "L39",
+    "L40"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 11,
+   "matched_pairs": 11,
+   "expected_song_words": 19,
+   "dropped_song_words": [
+    {
+     "song_idx": 200,
+     "song_word": "Vendor",
+     "line": "L37",
+     "song_start_v2": 85.7
+    },
+    {
+     "song_idx": 201,
+     "song_word": "at",
+     "line": "L37",
+     "song_start_v2": 86
+    },
+    {
+     "song_idx": 202,
+     "song_word": "the",
+     "line": "L37",
+     "song_start_v2": 86.1
+    },
+    {
+     "song_idx": 203,
+     "song_word": "corner",
+     "line": "L37",
+     "song_start_v2": 86.2
+    },
+    {
+     "song_idx": 211,
+     "song_word": "And",
+     "line": "L40",
+     "song_start_v2": 89.4
+    },
+    {
+     "song_idx": 212,
+     "song_word": "the",
+     "line": "L40",
+     "song_start_v2": 89.6
+    },
+    {
+     "song_idx": 213,
+     "song_word": "tide",
+     "line": "L40",
+     "song_start_v2": 89.7
+    },
+    {
+     "song_idx": 214,
+     "song_word": "tapping",
+     "line": "L40",
+     "song_start_v2": 90.5
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 204,
+     "song_word": "Calling",
+     "line": "L38",
+     "song_start_v2": 86.6,
+     "song_start_v1": 86.68,
+     "owner_v2": "GIRL",
+     "take_word": "Calling",
+     "take_start": 1.7,
+     "take_end": 2.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 272.5,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.05,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.95,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 205,
+     "song_word": "mango",
+     "line": "L38",
+     "song_start_v2": 86.8,
+     "song_start_v1": 86.72,
+     "owner_v2": "GIRL",
+     "take_word": "mango",
+     "take_start": 2.3,
+     "take_end": 3.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 281.6,
+     "f0_voiced": 60,
+     "f0_total": 60,
+     "f0_band": "ambiguous(282Hz)",
+     "f0_bands": {
+      "bass<80": 0.3,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.38,
+      "high>330": 0.27
+     }
+    },
+    {
+     "song_idx": 206,
+     "song_word": "sweet",
+     "line": "L38",
+     "song_start_v2": 87.3,
+     "song_start_v1": 86.82,
+     "owner_v2": "GIRL",
+     "take_word": "sweet.",
+     "take_start": 3.2,
+     "take_end": 3.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 91.5,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(91Hz)",
+     "f0_bands": {
+      "bass<80": 0.07,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.41,
+      "high>330": 0.02
+     }
+    },
+    {
+     "song_idx": 207,
+     "song_word": "Socks",
+     "line": "L39",
+     "song_start_v2": 88,
+     "song_start_v1": 87.62,
+     "owner_v2": "GIRL",
+     "take_word": "Socks",
+     "take_start": 5.8,
+     "take_end": 6.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 386.0,
+     "f0_voiced": 17,
+     "f0_total": 25,
+     "f0_band": "ambiguous(386Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 208,
+     "song_word": "in",
+     "line": "L39",
+     "song_start_v2": 88.2,
+     "song_start_v1": 88.02,
+     "owner_v2": "GIRL",
+     "take_word": "in",
+     "take_start": 6.2,
+     "take_end": 6.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 349.1,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(349Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 209,
+     "song_word": "the",
+     "line": "L39",
+     "song_start_v2": 88.4,
+     "song_start_v1": 88.36,
+     "owner_v2": "GIRL",
+     "take_word": "the",
+     "take_start": 6.5,
+     "take_end": 6.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 91.5,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(91Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 210,
+     "song_word": "sand",
+     "line": "L39",
+     "song_start_v2": 88.5,
+     "song_start_v1": 88.52,
+     "owner_v2": "GIRL",
+     "take_word": "sand,",
+     "take_start": 6.7,
+     "take_end": 7.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.3,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.08,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.91,
+      "high>330": 0.02
+     }
+    },
+    {
+     "song_idx": 215,
+     "song_word": "time",
+     "line": "L40",
+     "song_start_v2": 91.3,
+     "song_start_v1": 91.42,
+     "owner_v2": "SPLIT",
+     "take_word": "time",
+     "take_start": 7.5,
+     "take_end": 8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 410.3,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "ambiguous(410Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 216,
+     "song_word": "with",
+     "line": "L40",
+     "song_start_v2": 91.7,
+     "song_start_v1": 91.6,
+     "owner_v2": "SPLIT",
+     "take_word": "with",
+     "take_start": 8,
+     "take_end": 8.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.9,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 217,
+     "song_word": "our",
+     "line": "L40",
+     "song_start_v2": 92,
+     "song_start_v1": 91.9,
+     "owner_v2": "SPLIT",
+     "take_word": "our",
+     "take_start": 8.4,
+     "take_end": 8.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 246.9,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 218,
+     "song_word": "feet",
+     "line": "L40",
+     "song_start_v2": 92.4,
+     "song_start_v1": 92.32,
+     "owner_v2": "SPLIT",
+     "take_word": "feet.",
+     "take_start": 8.6,
+     "take_end": 9.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 439.8,
+     "f0_voiced": 47,
+     "f0_total": 53,
+     "f0_band": "ambiguous(440Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.28,
+      "high>330": 0.72
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 11,
+    "slope": 0.802,
+    "intercept": 84.47,
+    "resid_median": 0.82,
+    "resid_max": 1.34
+   },
+   "per_line": {
+    "L37": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L38": {
+     "owner_v2": "GIRL",
+     "expected_words": 3,
+     "matched_words": 3,
+     "take_words": [
+      "Calling",
+      "mango",
+      "sweet."
+     ],
+     "f0_median_all": 272.5,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(282Hz)",
+      "ambiguous(91Hz)"
+     ]
+    },
+    "L39": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Socks",
+      "in",
+      "the",
+      "sand,"
+     ],
+     "f0_median_all": 330.2,
+     "f0_bands": [
+      "ambiguous(386Hz)",
+      "ambiguous(349Hz)",
+      "ambiguous(91Hz)",
+      "GIRL"
+     ]
+    },
+    "L40": {
+     "owner_v2": "SPLIT",
+     "expected_words": 8,
+     "matched_words": 4,
+     "take_words": [
+      "time",
+      "with",
+      "our",
+      "feet."
+     ],
+     "f0_median_all": 360.6,
+     "f0_bands": [
+      "ambiguous(410Hz)",
+      "GIRL",
+      "GIRL",
+      "ambiguous(440Hz)"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.136,
+    "gap_windows_mean": 0.061,
+    "gap_windows_max": 0.196,
+    "overall_max": 0.196
+   }
+  },
+  "S12": {
+   "take": "s12_t1",
+   "slot": [
+    93.8,
+    102.4
+   ],
+   "warp_v1": "0.800",
+   "lines": [
+    "L41",
+    "L42",
+    "L43",
+    "L44"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 12,
+   "matched_pairs": 12,
+   "expected_song_words": 22,
+   "dropped_song_words": [
+    {
+     "song_idx": 224,
+     "song_word": "Like",
+     "line": "L42",
+     "song_start_v2": 95.6
+    },
+    {
+     "song_idx": 225,
+     "song_word": "a",
+     "line": "L42",
+     "song_start_v2": 95.9
+    },
+    {
+     "song_idx": 226,
+     "song_word": "hand",
+     "line": "L42",
+     "song_start_v2": 95.9
+    },
+    {
+     "song_idx": 227,
+     "song_word": "drum",
+     "line": "L42",
+     "song_start_v2": 96.2
+    },
+    {
+     "song_idx": 228,
+     "song_word": "roll",
+     "line": "L42",
+     "song_start_v2": 96.5
+    },
+    {
+     "song_idx": 236,
+     "song_word": "Forgot",
+     "line": "L44",
+     "song_start_v2": 98.6
+    },
+    {
+     "song_idx": 237,
+     "song_word": "what",
+     "line": "L44",
+     "song_start_v2": 99
+    },
+    {
+     "song_idx": 238,
+     "song_word": "I",
+     "line": "L44",
+     "song_start_v2": 99.5
+    },
+    {
+     "song_idx": 239,
+     "song_word": "was",
+     "line": "L44",
+     "song_start_v2": 101
+    },
+    {
+     "song_idx": 240,
+     "song_word": "told",
+     "line": "L44",
+     "song_start_v2": 101.6
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 219,
+     "song_word": "Your",
+     "line": "L41",
+     "song_start_v2": 93.9,
+     "song_start_v1": 93.8,
+     "owner_v2": "GIRL",
+     "take_word": "Your",
+     "take_start": 0.1,
+     "take_end": 0.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 246.7,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 220,
+     "song_word": "laugh",
+     "line": "L41",
+     "song_start_v2": 94.2,
+     "song_start_v1": 94.28,
+     "owner_v2": "GIRL",
+     "take_word": "laugh",
+     "take_start": 0.2,
+     "take_end": 0.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.4,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.18,
+      "cat97-160": 0.03,
+      "mid161-199": 0.0,
+      "girl200-330": 0.64,
+      "high>330": 0.15
+     }
+    },
+    {
+     "song_idx": 221,
+     "song_word": "hit",
+     "line": "L41",
+     "song_start_v2": 94.5,
+     "song_start_v1": 94.46,
+     "owner_v2": "GIRL",
+     "take_word": "hit",
+     "take_start": 0.8,
+     "take_end": 1.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 93.1,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(93Hz)",
+     "f0_bands": {
+      "bass<80": 0.06,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.17,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 222,
+     "song_word": "the",
+     "line": "L41",
+     "song_start_v2": 94.7,
+     "song_start_v1": 94.66,
+     "owner_v2": "GIRL",
+     "take_word": "the",
+     "take_start": 1.1,
+     "take_end": 1.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.4,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.94,
+      "high>330": 0.06
+     }
+    },
+    {
+     "song_idx": 223,
+     "song_word": "air",
+     "line": "L41",
+     "song_start_v2": 94.8,
+     "song_start_v1": 94.84,
+     "owner_v2": "GIRL",
+     "take_word": "air.",
+     "take_start": 1.4,
+     "take_end": 2.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.9,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.09,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.9,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 229,
+     "song_word": "I",
+     "line": "L43",
+     "song_start_v2": 97.2,
+     "song_start_v1": 96.86,
+     "owner_v2": "GIRL",
+     "take_word": "I",
+     "take_start": 4.2,
+     "take_end": 4.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.4,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 230,
+     "song_word": "forgot",
+     "line": "L43",
+     "song_start_v2": 97.2,
+     "song_start_v1": 97.16,
+     "owner_v2": "GIRL",
+     "take_word": "forgot",
+     "take_start": 4.4,
+     "take_end": 5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 367.2,
+     "f0_voiced": 37,
+     "f0_total": 39,
+     "f0_band": "ambiguous(367Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.38,
+      "high>330": 0.62
+     }
+    },
+    {
+     "song_idx": 231,
+     "song_word": "the",
+     "line": "L43",
+     "song_start_v2": 97.5,
+     "song_start_v1": 97.44,
+     "owner_v2": "GIRL",
+     "take_word": "the",
+     "take_start": 5,
+     "take_end": 5.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 375.3,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(375Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 232,
+     "song_word": "list",
+     "line": "L43",
+     "song_start_v2": 97.6,
+     "song_start_v1": 97.64,
+     "owner_v2": "GIRL",
+     "take_word": "list,",
+     "take_start": 5.1,
+     "take_end": 5.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 374.8,
+     "f0_voiced": 48,
+     "f0_total": 53,
+     "f0_band": "ambiguous(375Hz)",
+     "f0_bands": {
+      "bass<80": 0.02,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.52
+     }
+    },
+    {
+     "song_idx": 233,
+     "song_word": "forgot",
+     "line": "L43",
+     "song_start_v2": 97.8,
+     "song_start_v1": 97.82,
+     "owner_v2": "GIRL",
+     "take_word": "forgot",
+     "take_start": 5.9,
+     "take_end": 6.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 412.8,
+     "f0_voiced": 38,
+     "f0_total": 39,
+     "f0_band": "ambiguous(413Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.08,
+      "high>330": 0.92
+     }
+    },
+    {
+     "song_idx": 234,
+     "song_word": "the",
+     "line": "L43",
+     "song_start_v2": 98.1,
+     "song_start_v1": 97.94,
+     "owner_v2": "GIRL",
+     "take_word": "the",
+     "take_start": 6.5,
+     "take_end": 6.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 418.4,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(418Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.25,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.75
+     }
+    },
+    {
+     "song_idx": 235,
+     "song_word": "bills",
+     "line": "L43",
+     "song_start_v2": 98.2,
+     "song_start_v1": 98.08,
+     "owner_v2": "GIRL",
+     "take_word": "bills.",
+     "take_start": 6.6,
+     "take_end": 7.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.2,
+     "f0_voiced": 60,
+     "f0_total": 60,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.88
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 12,
+    "slope": 0.67,
+    "intercept": 94.0,
+    "resid_median": 0.16,
+    "resid_max": 0.38
+   },
+   "per_line": {
+    "L41": {
+     "owner_v2": "GIRL",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "Your",
+      "laugh",
+      "hit",
+      "the",
+      "air."
+     ],
+     "f0_median_all": 310.4,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "ambiguous(93Hz)",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L42": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L43": {
+     "owner_v2": "GIRL",
+     "expected_words": 7,
+     "matched_words": 7,
+     "take_words": [
+      "I",
+      "forgot",
+      "the",
+      "list,",
+      "forgot",
+      "the",
+      "bills."
+     ],
+     "f0_median_all": 375.3,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(367Hz)",
+      "ambiguous(375Hz)",
+      "ambiguous(375Hz)",
+      "ambiguous(413Hz)",
+      "ambiguous(418Hz)",
+      "ambiguous(415Hz)"
+     ]
+    },
+    "L44": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.155,
+    "gap_windows_mean": 0.073,
+    "gap_windows_max": 0.432,
+    "overall_max": 0.435
+   }
+  },
+  "S15": {
+   "take": "s15_t1",
+   "slot": [
+    116.0,
+    121.3
+   ],
+   "warp_v1": "0.914",
+   "lines": [
+    "L56",
+    "L56b"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 5,
+   "matched_pairs": 4,
+   "expected_song_words": 6,
+   "dropped_song_words": [
+    {
+     "song_idx": 302,
+     "song_word": "replays",
+     "line": "L56",
+     "song_start_v2": 116.32
+    },
+    {
+     "song_idx": 303,
+     "song_word": "(held)",
+     "line": "L56b",
+     "song_start_v2": 119.3
+    }
+   ],
+   "extra_take_words": [
+    {
+     "word": "replaced.",
+     "start": 2.5,
+     "end": 4.3
+    }
+   ],
+   "words": [
+    {
+     "song_idx": 298,
+     "song_word": "And",
+     "line": "L56",
+     "song_start_v2": 116.2,
+     "song_start_v1": 115.74,
+     "owner_v2": "GIRL",
+     "take_word": "and",
+     "take_start": 0.3,
+     "take_end": 0.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 309.7,
+     "f0_voiced": 17,
+     "f0_total": 17,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.12,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.88,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 299,
+     "song_word": "my",
+     "line": "L56",
+     "song_start_v2": 116.3,
+     "song_start_v1": 115.8,
+     "owner_v2": "GIRL",
+     "take_word": "my",
+     "take_start": 0.6,
+     "take_end": 1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 370.2,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(370Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 300,
+     "song_word": "whole",
+     "line": "L56",
+     "song_start_v2": 116.4,
+     "song_start_v1": 115.98,
+     "owner_v2": "GIRL",
+     "take_word": "whole",
+     "take_start": 1,
+     "take_end": 1.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 416.2,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.08,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.92
+     }
+    },
+    {
+     "song_idx": 301,
+     "song_word": "head",
+     "line": "L56",
+     "song_start_v2": 116.5,
+     "song_start_v1": 116.1,
+     "owner_v2": "GIRL",
+     "take_word": "head",
+     "take_start": 1.8,
+     "take_end": 2.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 77.9,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "bass-locked",
+     "f0_bands": {
+      "bass<80": 0.54,
+      "cat97-160": 0.2,
+      "mid161-199": 0.0,
+      "girl200-330": 0.11,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 4,
+    "slope": 0.193,
+    "intercept": 116.17,
+    "resid_median": 0.02,
+    "resid_max": 0.04
+   },
+   "per_line": {
+    "L56": {
+     "owner_v2": "GIRL",
+     "expected_words": 5,
+     "matched_words": 4,
+     "take_words": [
+      "and",
+      "my",
+      "whole",
+      "head"
+     ],
+     "f0_median_all": 339.9,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(370Hz)",
+      "ambiguous(416Hz)",
+      "bass-locked"
+     ]
+    },
+    "L56b": {
+     "owner_v2": "GIRL",
+     "expected_words": 1,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.193,
+    "gap_windows_mean": 0.104,
+    "gap_windows_max": 0.243,
+    "overall_max": 0.245
+   }
+  },
+  "S17": {
+   "take": "s17_t1",
+   "slot": [
+    130.78,
+    140.52
+   ],
+   "warp_v1": "0.651/0.714/0.932/1.091 per-refrain (grey)",
+   "lines": [
+    "L65",
+    "L66",
+    "L67",
+    "L68",
+    "L69",
+    "L70",
+    "L71",
+    "L72"
+   ],
+   "source": "whisper-v1 (assembly_take_words/S17_prompted.json) \u2014 NO Gemini take JSON",
+   "take_speakers_app": [],
+   "take_words_total": 8,
+   "matched_pairs": 8,
+   "expected_song_words": 37,
+   "dropped_song_words": [
+    {
+     "song_idx": 341,
+     "song_word": "Keep",
+     "line": "L66",
+     "song_start_v2": 132.1
+    },
+    {
+     "song_idx": 342,
+     "song_word": "it",
+     "line": "L66",
+     "song_start_v2": 132.2
+    },
+    {
+     "song_idx": 343,
+     "song_word": "loose",
+     "line": "L66",
+     "song_start_v2": 132.3
+    },
+    {
+     "song_idx": 344,
+     "song_word": "keep",
+     "line": "L66",
+     "song_start_v2": 132.5
+    },
+    {
+     "song_idx": 345,
+     "song_word": "it",
+     "line": "L66",
+     "song_start_v2": 132.7
+    },
+    {
+     "song_idx": 346,
+     "song_word": "low",
+     "line": "L66",
+     "song_start_v2": 132.8
+    },
+    {
+     "song_idx": 351,
+     "song_word": "Let",
+     "line": "L68",
+     "song_start_v2": 134.4
+    },
+    {
+     "song_idx": 352,
+     "song_word": "it",
+     "line": "L68",
+     "song_start_v2": 134.5
+    },
+    {
+     "song_idx": 353,
+     "song_word": "drift",
+     "line": "L68",
+     "song_start_v2": 134.6
+    },
+    {
+     "song_idx": 354,
+     "song_word": "let",
+     "line": "L68",
+     "song_start_v2": 134.8
+    },
+    {
+     "song_idx": 355,
+     "song_word": "it",
+     "line": "L68",
+     "song_start_v2": 135
+    },
+    {
+     "song_idx": 356,
+     "song_word": "go",
+     "line": "L68",
+     "song_start_v2": 135.1
+    },
+    {
+     "song_idx": 357,
+     "song_word": "Easy",
+     "line": "L69",
+     "song_start_v2": 135.9
+    },
+    {
+     "song_idx": 358,
+     "song_word": "now",
+     "line": "L69",
+     "song_start_v2": 136
+    },
+    {
+     "song_idx": 359,
+     "song_word": "easy",
+     "line": "L69",
+     "song_start_v2": 136.1
+    },
+    {
+     "song_idx": 360,
+     "song_word": "now",
+     "line": "L69",
+     "song_start_v2": 136.2
+    },
+    {
+     "song_idx": 361,
+     "song_word": "We're",
+     "line": "L70",
+     "song_start_v2": 136.6
+    },
+    {
+     "song_idx": 362,
+     "song_word": "good",
+     "line": "L70",
+     "song_start_v2": 136.7
+    },
+    {
+     "song_idx": 363,
+     "song_word": "where",
+     "line": "L70",
+     "song_start_v2": 136.8
+    },
+    {
+     "song_idx": 364,
+     "song_word": "we",
+     "line": "L70",
+     "song_start_v2": 137
+    },
+    {
+     "song_idx": 365,
+     "song_word": "are",
+     "line": "L70",
+     "song_start_v2": 137.1
+    },
+    {
+     "song_idx": 366,
+     "song_word": "Easy",
+     "line": "L71",
+     "song_start_v2": 138.2
+    },
+    {
+     "song_idx": 367,
+     "song_word": "now",
+     "line": "L71",
+     "song_start_v2": 138.3
+    },
+    {
+     "song_idx": 368,
+     "song_word": "easy",
+     "line": "L71",
+     "song_start_v2": 138.4
+    },
+    {
+     "song_idx": 369,
+     "song_word": "now",
+     "line": "L71",
+     "song_start_v2": 138.7
+    },
+    {
+     "song_idx": 370,
+     "song_word": "Just",
+     "line": "L72",
+     "song_start_v2": 138.84
+    },
+    {
+     "song_idx": 371,
+     "song_word": "two",
+     "line": "L72",
+     "song_start_v2": 139.08
+    },
+    {
+     "song_idx": 372,
+     "song_word": "small",
+     "line": "L72",
+     "song_start_v2": 139.08
+    },
+    {
+     "song_idx": 373,
+     "song_word": "sparks",
+     "line": "L72",
+     "song_start_v2": 139.08
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 337,
+     "song_word": "Easy",
+     "line": "L65",
+     "song_start_v2": 131,
+     "song_start_v1": 130.44,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 0.0,
+     "take_end": 0.6,
+     "take_speaker_app": null,
+     "f0_median": 411.1,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(411Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.08,
+      "high>330": 0.92
+     }
+    },
+    {
+     "song_idx": 338,
+     "song_word": "now",
+     "line": "L65",
+     "song_start_v2": 131.1,
+     "song_start_v1": 130.76,
+     "owner_v2": "GIRL",
+     "take_word": "now,",
+     "take_start": 0.6,
+     "take_end": 1.18,
+     "take_speaker_app": null,
+     "f0_median": 337.7,
+     "f0_voiced": 37,
+     "f0_total": 37,
+     "f0_band": "ambiguous(338Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.14,
+      "high>330": 0.86
+     }
+    },
+    {
+     "song_idx": 339,
+     "song_word": "easy",
+     "line": "L65",
+     "song_start_v2": 131.2,
+     "song_start_v1": 131.06,
+     "owner_v2": "GIRL",
+     "take_word": "easy",
+     "take_start": 1.72,
+     "take_end": 2.28,
+     "take_speaker_app": null,
+     "f0_median": 377.6,
+     "f0_voiced": 34,
+     "f0_total": 36,
+     "f0_band": "ambiguous(378Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.03,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.97
+     }
+    },
+    {
+     "song_idx": 340,
+     "song_word": "now",
+     "line": "L65",
+     "song_start_v2": 131.4,
+     "song_start_v1": 131.64,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 2.28,
+     "take_end": 3.26,
+     "take_speaker_app": null,
+     "f0_median": 414.4,
+     "f0_voiced": 65,
+     "f0_total": 65,
+     "f0_band": "ambiguous(414Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.08,
+      "high>330": 0.92
+     }
+    },
+    {
+     "song_idx": 347,
+     "song_word": "Easy",
+     "line": "L67",
+     "song_start_v2": 133.6,
+     "song_start_v1": 132.94,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 4.6,
+     "take_end": 6.0,
+     "take_speaker_app": null,
+     "f0_median": 404.4,
+     "f0_voiced": 44,
+     "f0_total": 95,
+     "f0_band": "ambiguous(404Hz)",
+     "f0_bands": {
+      "bass<80": 0.02,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.02,
+      "high>330": 0.84
+     }
+    },
+    {
+     "song_idx": 348,
+     "song_word": "now",
+     "line": "L67",
+     "song_start_v2": 133.7,
+     "song_start_v1": 133.14,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 6.0,
+     "take_end": 6.82,
+     "take_speaker_app": null,
+     "f0_median": 414.2,
+     "f0_voiced": 54,
+     "f0_total": 54,
+     "f0_band": "ambiguous(414Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 349,
+     "song_word": "easy",
+     "line": "L67",
+     "song_start_v2": 133.8,
+     "song_start_v1": 133.4,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 8.2,
+     "take_end": 8.78,
+     "take_speaker_app": null,
+     "f0_median": 355.0,
+     "f0_voiced": 22,
+     "f0_total": 37,
+     "f0_band": "ambiguous(355Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.14,
+      "mid161-199": 0.09,
+      "girl200-330": 0.27,
+      "high>330": 0.5
+     }
+    },
+    {
+     "song_idx": 350,
+     "song_word": "now",
+     "line": "L67",
+     "song_start_v2": 133.9,
+     "song_start_v1": 133.96,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 8.78,
+     "take_end": 8.78,
+     "take_speaker_app": null,
+     "f0_median": null,
+     "f0_voiced": 0,
+     "f0_total": 0,
+     "f0_band": "silent",
+     "f0_bands": {}
+    }
+   ],
+   "fit": {
+    "n_pairs": 8,
+    "slope": 0.383,
+    "intercept": 130.92,
+    "resid_median": 0.38,
+    "resid_max": 0.92
+   },
+   "per_line": {
+    "L65": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now,",
+      "easy",
+      "now."
+     ],
+     "f0_median_all": 394.4,
+     "f0_bands": [
+      "ambiguous(411Hz)",
+      "ambiguous(338Hz)",
+      "ambiguous(378Hz)",
+      "ambiguous(414Hz)"
+     ]
+    },
+    "L66": {
+     "owner_v2": "CAT",
+     "expected_words": 6,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L67": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now.",
+      "Easy",
+      "now."
+     ],
+     "f0_median_all": 404.4,
+     "f0_bands": [
+      "ambiguous(404Hz)",
+      "ambiguous(414Hz)",
+      "ambiguous(355Hz)",
+      "silent"
+     ]
+    },
+    "L68": {
+     "owner_v2": "CAT",
+     "expected_words": 6,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L69": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L70": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L71": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L72": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.122,
+    "gap_windows_mean": 0.119,
+    "gap_windows_max": 0.22,
+    "overall_max": 0.222
+   }
+  },
+  "S18": {
+   "take": "s18_t1",
+   "slot": [
+    140.52,
+    148.7
+   ],
+   "warp_v1": "1.000 cutaway",
+   "lines": [
+    "L73a",
+    "L73b",
+    "L73c",
+    "L73d"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 8,
+   "matched_pairs": 8,
+   "expected_song_words": 14,
+   "dropped_song_words": [
+    {
+     "song_idx": 382,
+     "song_word": "I'm",
+     "line": "L73c",
+     "song_start_v2": 146.16
+    },
+    {
+     "song_idx": 383,
+     "song_word": "falling",
+     "line": "L73c",
+     "song_start_v2": 146.96
+    },
+    {
+     "song_idx": 384,
+     "song_word": "Just",
+     "line": "L73d",
+     "song_start_v2": 146.7
+    },
+    {
+     "song_idx": 385,
+     "song_word": "two",
+     "line": "L73d",
+     "song_start_v2": 146.9
+    },
+    {
+     "song_idx": 386,
+     "song_word": "small",
+     "line": "L73d",
+     "song_start_v2": 147.6
+    },
+    {
+     "song_idx": 387,
+     "song_word": "sparks",
+     "line": "L73d",
+     "song_start_v2": 147.8
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 374,
+     "song_word": "I'm",
+     "line": "L73a",
+     "song_start_v2": 140.48,
+     "song_start_v1": 140.48,
+     "owner_v2": "CAT",
+     "take_word": "I'm",
+     "take_start": 1,
+     "take_end": 1.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 88.5,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(89Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 375,
+     "song_word": "falling",
+     "line": "L73a",
+     "song_start_v2": 140.84,
+     "song_start_v1": 140.84,
+     "owner_v2": "CAT",
+     "take_word": "falling,",
+     "take_start": 1.2,
+     "take_end": 2.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 98.9,
+     "f0_voiced": 87,
+     "f0_total": 88,
+     "f0_band": "ambiguous(99Hz)",
+     "f0_bands": {
+      "bass<80": 0.01,
+      "cat97-160": 0.13,
+      "mid161-199": 0.05,
+      "girl200-330": 0.0,
+      "high>330": 0.38
+     }
+    },
+    {
+     "song_idx": 376,
+     "song_word": "I'm",
+     "line": "L73a",
+     "song_start_v2": 141.56,
+     "song_start_v1": 141.56,
+     "owner_v2": "CAT",
+     "take_word": "I'm",
+     "take_start": 2.7,
+     "take_end": 3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 87.2,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "ambiguous(87Hz)",
+     "f0_bands": {
+      "bass<80": 0.11,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.39,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 377,
+     "song_word": "falling",
+     "line": "L73a",
+     "song_start_v2": 142.44,
+     "song_start_v1": 142.44,
+     "owner_v2": "CAT",
+     "take_word": "falling.",
+     "take_start": 3,
+     "take_end": 4.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 359.8,
+     "f0_voiced": 94,
+     "f0_total": 95,
+     "f0_band": "ambiguous(360Hz)",
+     "f0_bands": {
+      "bass<80": 0.03,
+      "cat97-160": 0.04,
+      "mid161-199": 0.11,
+      "girl200-330": 0.0,
+      "high>330": 0.63
+     }
+    },
+    {
+     "song_idx": 378,
+     "song_word": "Just",
+     "line": "L73b",
+     "song_start_v2": 143.5,
+     "song_start_v1": 142.84,
+     "owner_v2": "CAT",
+     "take_word": "Just",
+     "take_start": 5.7,
+     "take_end": 6.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 338.9,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(339Hz)",
+     "f0_bands": {
+      "bass<80": 0.4,
+      "cat97-160": 0.0,
+      "mid161-199": 0.04,
+      "girl200-330": 0.0,
+      "high>330": 0.56
+     }
+    },
+    {
+     "song_idx": 379,
+     "song_word": "two",
+     "line": "L73b",
+     "song_start_v2": 143.6,
+     "song_start_v1": 143.62,
+     "owner_v2": "CAT",
+     "take_word": "two",
+     "take_start": 6.1,
+     "take_end": 6.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 399.4,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(399Hz)",
+     "f0_bands": {
+      "bass<80": 0.03,
+      "cat97-160": 0.0,
+      "mid161-199": 0.23,
+      "girl200-330": 0.05,
+      "high>330": 0.69
+     }
+    },
+    {
+     "song_idx": 380,
+     "song_word": "small",
+     "line": "L73b",
+     "song_start_v2": 144.1,
+     "song_start_v1": 143.62,
+     "owner_v2": "CAT",
+     "take_word": "small",
+     "take_start": 6.7,
+     "take_end": 7.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.8,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.22,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.78
+     }
+    },
+    {
+     "song_idx": 381,
+     "song_word": "sparks",
+     "line": "L73b",
+     "song_start_v2": 144.4,
+     "song_start_v1": 143.96,
+     "owner_v2": "CAT",
+     "take_word": "sparks.",
+     "take_start": 7.2,
+     "take_end": 8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 304.7,
+     "f0_voiced": 53,
+     "f0_total": 53,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.43,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.57,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 8,
+    "slope": 0.595,
+    "intercept": 140.11,
+    "resid_median": 0.08,
+    "resid_max": 0.54
+   },
+   "per_line": {
+    "L73a": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "I'm",
+      "falling,",
+      "I'm",
+      "falling."
+     ],
+     "f0_median_all": 93.7,
+     "f0_bands": [
+      "ambiguous(89Hz)",
+      "ambiguous(99Hz)",
+      "ambiguous(87Hz)",
+      "ambiguous(360Hz)"
+     ]
+    },
+    "L73b": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Just",
+      "two",
+      "small",
+      "sparks."
+     ],
+     "f0_median_all": 369.1,
+     "f0_bands": [
+      "ambiguous(339Hz)",
+      "ambiguous(399Hz)",
+      "ambiguous(416Hz)",
+      "GIRL"
+     ]
+    },
+    "L73c": {
+     "owner_v2": "CAT",
+     "expected_words": 2,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L73d": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.223,
+    "gap_windows_mean": 0.133,
+    "gap_windows_max": 0.341,
+    "overall_max": 0.345
+   }
+  },
+  "S19b": {
+   "take": "s19b_t1",
+   "slot": [
+    152.36,
+    155.72
+   ],
+   "warp_v1": "0.808",
+   "lines": [
+    "L77",
+    "L78",
+    "L79"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 11,
+   "matched_pairs": 11,
+   "expected_song_words": 13,
+   "dropped_song_words": [
+    {
+     "song_idx": 403,
+     "song_word": "We",
+     "line": "L77",
+     "song_start_v2": 152.5
+    },
+    {
+     "song_idx": 404,
+     "song_word": "still",
+     "line": "L77",
+     "song_start_v2": 152.6
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 405,
+     "song_word": "move",
+     "line": "L77",
+     "song_start_v2": 152.8,
+     "song_start_v1": 152.56,
+     "owner_v2": "CAT",
+     "take_word": "move",
+     "take_start": 0.1,
+     "take_end": 0.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 311.6,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 406,
+     "song_word": "with",
+     "line": "L77",
+     "song_start_v2": 153.3,
+     "song_start_v1": 152.76,
+     "owner_v2": "CAT",
+     "take_word": "with",
+     "take_start": 0.4,
+     "take_end": 0.7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 349.1,
+     "f0_voiced": 16,
+     "f0_total": 17,
+     "f0_band": "ambiguous(349Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.06,
+      "high>330": 0.94
+     }
+    },
+    {
+     "song_idx": 407,
+     "song_word": "it",
+     "line": "L77",
+     "song_start_v2": 153.5,
+     "song_start_v1": 153.04,
+     "owner_v2": "CAT",
+     "take_word": "it,",
+     "take_start": 0.7,
+     "take_end": 1.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.1,
+     "f0_voiced": 24,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.12,
+      "girl200-330": 0.88,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 408,
+     "song_word": "Hand",
+     "line": "L78",
+     "song_start_v2": 153.8,
+     "song_start_v1": 153.42,
+     "owner_v2": "CAT",
+     "take_word": "hand",
+     "take_start": 1.5,
+     "take_end": 1.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 262.7,
+     "f0_voiced": 24,
+     "f0_total": 24,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 409,
+     "song_word": "in",
+     "line": "L78",
+     "song_start_v2": 153.9,
+     "song_start_v1": 153.58,
+     "owner_v2": "CAT",
+     "take_word": "in",
+     "take_start": 1.9,
+     "take_end": 2.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.0,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 410,
+     "song_word": "my",
+     "line": "L78",
+     "song_start_v2": 154,
+     "song_start_v1": 153.8,
+     "owner_v2": "CAT",
+     "take_word": "my",
+     "take_start": 2.1,
+     "take_end": 2.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 256.2,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 411,
+     "song_word": "hand",
+     "line": "L78",
+     "song_start_v2": 154.2,
+     "song_start_v1": 154.0,
+     "owner_v2": "CAT",
+     "take_word": "hand,",
+     "take_start": 2.3,
+     "take_end": 2.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 194.5,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "ambiguous(195Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.69,
+      "girl200-330": 0.28,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 412,
+     "song_word": "No",
+     "line": "L79",
+     "song_start_v2": 154.8,
+     "song_start_v1": 154.18,
+     "owner_v2": "CAT",
+     "take_word": "no",
+     "take_start": 2.9,
+     "take_end": 3.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 230.2,
+     "f0_voiced": 15,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 413,
+     "song_word": "speech",
+     "line": "L79",
+     "song_start_v2": 154.8,
+     "song_start_v1": 154.42,
+     "owner_v2": "CAT",
+     "take_word": "speech,",
+     "take_start": 3.2,
+     "take_end": 3.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 314.1,
+     "f0_voiced": 18,
+     "f0_total": 25,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 414,
+     "song_word": "no",
+     "line": "L79",
+     "song_start_v2": 155.2,
+     "song_start_v1": 154.82,
+     "owner_v2": "CAT",
+     "take_word": "no",
+     "take_start": 3.6,
+     "take_end": 3.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 230.7,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 415,
+     "song_word": "show",
+     "line": "L79",
+     "song_start_v2": 155.4,
+     "song_start_v1": 155.08,
+     "owner_v2": "CAT",
+     "take_word": "show.",
+     "take_start": 3.8,
+     "take_end": 4.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 207.7,
+     "f0_voiced": 38,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.16,
+      "girl200-330": 0.82,
+      "high>330": 0.03
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 11,
+    "slope": 0.632,
+    "intercept": 152.86,
+    "resid_median": 0.13,
+    "resid_max": 0.2
+   },
+   "per_line": {
+    "L77": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 3,
+     "take_words": [
+      "move",
+      "with",
+      "it,"
+     ],
+     "f0_median_all": 311.6,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(349Hz)",
+      "GIRL"
+     ]
+    },
+    "L78": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "hand",
+      "in",
+      "my",
+      "hand,"
+     ],
+     "f0_median_all": 259.4,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "ambiguous(195Hz)"
+     ]
+    },
+    "L79": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "no",
+      "speech,",
+      "no",
+      "show."
+     ],
+     "f0_median_all": 230.4,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.139,
+    "gap_windows_mean": 0.098,
+    "gap_windows_max": 0.239,
+    "overall_max": 0.241
+   }
+  },
+  "S20": {
+   "take": "s20_t1",
+   "slot": [
+    155.72,
+    158.06
+   ],
+   "warp_v1": "0.800",
+   "lines": [
+    "L80",
+    "L81"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 4,
+   "matched_pairs": 4,
+   "expected_song_words": 9,
+   "dropped_song_words": [
+    {
+     "song_idx": 420,
+     "song_word": "And",
+     "line": "L81",
+     "song_start_v2": 157.1
+    },
+    {
+     "song_idx": 421,
+     "song_word": "the",
+     "line": "L81",
+     "song_start_v2": 157.1
+    },
+    {
+     "song_idx": 422,
+     "song_word": "bass",
+     "line": "L81",
+     "song_start_v2": 157.2
+    },
+    {
+     "song_idx": 423,
+     "song_word": "move",
+     "line": "L81",
+     "song_start_v2": 157.5
+    },
+    {
+     "song_idx": 424,
+     "song_word": "slow",
+     "line": "L81",
+     "song_start_v2": 157.7
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 416,
+     "song_word": "Heart",
+     "line": "L80",
+     "song_start_v2": 155.42,
+     "song_start_v1": 155.42,
+     "owner_v2": "GIRL",
+     "take_word": "Heart",
+     "take_start": 0.2,
+     "take_end": 1.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 405.7,
+     "f0_voiced": 77,
+     "f0_total": 81,
+     "f0_band": "ambiguous(406Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.08,
+      "high>330": 0.92
+     }
+    },
+    {
+     "song_idx": 417,
+     "song_word": "in",
+     "line": "L80",
+     "song_start_v2": 156,
+     "song_start_v1": 155.72,
+     "owner_v2": "GIRL",
+     "take_word": "in",
+     "take_start": 1.4,
+     "take_end": 1.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 374.0,
+     "f0_voiced": 3,
+     "f0_total": 3,
+     "f0_band": "ambiguous(374Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 418,
+     "song_word": "the",
+     "line": "L80",
+     "song_start_v2": 156.1,
+     "song_start_v1": 156.08,
+     "owner_v2": "GIRL",
+     "take_word": "the",
+     "take_start": 1.5,
+     "take_end": 1.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 395.6,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(396Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 419,
+     "song_word": "breeze",
+     "line": "L80",
+     "song_start_v2": 156.1,
+     "song_start_v1": 156.26,
+     "owner_v2": "GIRL",
+     "take_word": "breeze.",
+     "take_start": 1.6,
+     "take_end": 3.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 417.7,
+     "f0_voiced": 102,
+     "f0_total": 102,
+     "f0_band": "ambiguous(418Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 4,
+    "slope": 0.497,
+    "intercept": 155.32,
+    "resid_median": 0.02,
+    "resid_max": 0.03
+   },
+   "per_line": {
+    "L80": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Heart",
+      "in",
+      "the",
+      "breeze."
+     ],
+     "f0_median_all": 400.6,
+     "f0_bands": [
+      "ambiguous(406Hz)",
+      "ambiguous(374Hz)",
+      "ambiguous(396Hz)",
+      "ambiguous(418Hz)"
+     ]
+    },
+    "L81": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.081,
+    "gap_windows_mean": 0.025,
+    "gap_windows_max": 0.101,
+    "overall_max": 0.13
+   }
+  },
+  "S21": {
+   "take": "s21_t3",
+   "slot": [
+    158.06,
+    167.5
+   ],
+   "warp_v1": "0.800 head; tail cover",
+   "lines": [
+    "L82",
+    "L83",
+    "L84",
+    "L85",
+    "L86",
+    "L87",
+    "L88",
+    "L89"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 23,
+   "matched_pairs": 23,
+   "expected_song_words": 32,
+   "dropped_song_words": [
+    {
+     "song_idx": 448,
+     "song_word": "Same",
+     "line": "L87",
+     "song_start_v2": 163.8
+    },
+    {
+     "song_idx": 449,
+     "song_word": "worn-in",
+     "line": "L87",
+     "song_start_v2": 164
+    },
+    {
+     "song_idx": 450,
+     "song_word": "shoes",
+     "line": "L87",
+     "song_start_v2": 164.5
+    },
+    {
+     "song_idx": 451,
+     "song_word": "Nothing",
+     "line": "L88",
+     "song_start_v2": 165.2
+    },
+    {
+     "song_idx": 452,
+     "song_word": "to",
+     "line": "L88",
+     "song_start_v2": 165.5
+    },
+    {
+     "song_idx": 453,
+     "song_word": "prove",
+     "line": "L88",
+     "song_start_v2": 165.6
+    },
+    {
+     "song_idx": 454,
+     "song_word": "Nothing",
+     "line": "L89",
+     "song_start_v2": 166.3
+    },
+    {
+     "song_idx": 455,
+     "song_word": "to",
+     "line": "L89",
+     "song_start_v2": 166.7
+    },
+    {
+     "song_idx": 456,
+     "song_word": "lose",
+     "line": "L89",
+     "song_start_v2": 166.8
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 425,
+     "song_word": "If",
+     "line": "L82",
+     "song_start_v2": 158.2,
+     "song_start_v1": 158.06,
+     "owner_v2": "CAT",
+     "take_word": "If",
+     "take_start": 0.1,
+     "take_end": 0.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 185.2,
+     "f0_voiced": 4,
+     "f0_total": 4,
+     "f0_band": "ambiguous(185Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 426,
+     "song_word": "the",
+     "line": "L82",
+     "song_start_v2": 158.2,
+     "song_start_v1": 158.3,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 0.2,
+     "take_end": 0.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 187.9,
+     "f0_voiced": 7,
+     "f0_total": 11,
+     "f0_band": "ambiguous(188Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 427,
+     "song_word": "sky",
+     "line": "L82",
+     "song_start_v2": 158.3,
+     "song_start_v1": 158.3,
+     "owner_v2": "CAT",
+     "take_word": "sky",
+     "take_start": 0.4,
+     "take_end": 0.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 219.4,
+     "f0_voiced": 27,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.04,
+      "girl200-330": 0.96,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 428,
+     "song_word": "turns",
+     "line": "L82",
+     "song_start_v2": 158.5,
+     "song_start_v1": 158.5,
+     "owner_v2": "CAT",
+     "take_word": "turns",
+     "take_start": 0.9,
+     "take_end": 1.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 233.6,
+     "f0_voiced": 21,
+     "f0_total": 25,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 429,
+     "song_word": "gray",
+     "line": "L82",
+     "song_start_v2": 158.9,
+     "song_start_v1": 158.84,
+     "owner_v2": "CAT",
+     "take_word": "gray,",
+     "take_start": 1.3,
+     "take_end": 2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.1,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.07,
+      "girl200-330": 0.93,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 430,
+     "song_word": "We",
+     "line": "L83",
+     "song_start_v2": 159.4,
+     "song_start_v1": 158.84,
+     "owner_v2": "CAT",
+     "take_word": "we",
+     "take_start": 2,
+     "take_end": 2.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.5,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.18,
+      "girl200-330": 0.82,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 431,
+     "song_word": "don't",
+     "line": "L83",
+     "song_start_v2": 159.4,
+     "song_start_v1": 159.1,
+     "owner_v2": "CAT",
+     "take_word": "don't",
+     "take_start": 2.2,
+     "take_end": 2.5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 232.4,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 432,
+     "song_word": "fold",
+     "line": "L83",
+     "song_start_v2": 159.5,
+     "song_start_v1": 159.36,
+     "owner_v2": "CAT",
+     "take_word": "fold",
+     "take_start": 2.5,
+     "take_end": 3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 276.5,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 433,
+     "song_word": "in",
+     "line": "L83",
+     "song_start_v2": 159.6,
+     "song_start_v1": 159.56,
+     "owner_v2": "CAT",
+     "take_word": "in.",
+     "take_start": 3,
+     "take_end": 3.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 188.3,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(188Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 434,
+     "song_word": "We",
+     "line": "L84",
+     "song_start_v2": 160.5,
+     "song_start_v1": 160.24,
+     "owner_v2": "CAT",
+     "take_word": "We",
+     "take_start": 3.6,
+     "take_end": 3.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 183.9,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(184Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 435,
+     "song_word": "lean",
+     "line": "L84",
+     "song_start_v2": 160.6,
+     "song_start_v1": 160.42,
+     "owner_v2": "CAT",
+     "take_word": "lean",
+     "take_start": 3.8,
+     "take_end": 4.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 277.9,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 436,
+     "song_word": "right",
+     "line": "L84",
+     "song_start_v2": 160.8,
+     "song_start_v1": 160.88,
+     "owner_v2": "CAT",
+     "take_word": "right",
+     "take_start": 4.1,
+     "take_end": 4.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.7,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 437,
+     "song_word": "back",
+     "line": "L84",
+     "song_start_v2": 161.1,
+     "song_start_v1": 161.06,
+     "owner_v2": "CAT",
+     "take_word": "back.",
+     "take_start": 4.3,
+     "take_end": 5,
+     "take_speaker_app": "spk:0",
+     "f0_median": 277.0,
+     "f0_voiced": 31,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 438,
+     "song_word": "Let",
+     "line": "L85",
+     "song_start_v2": 161.6,
+     "song_start_v1": 161.06,
+     "owner_v2": "CAT",
+     "take_word": "Let",
+     "take_start": 5,
+     "take_end": 5.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 186.1,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(186Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 439,
+     "song_word": "the",
+     "line": "L85",
+     "song_start_v2": 161.7,
+     "song_start_v1": 161.36,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 5.2,
+     "take_end": 5.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.9,
+     "f0_voiced": 7,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 440,
+     "song_word": "whole",
+     "line": "L85",
+     "song_start_v2": 161.7,
+     "song_start_v1": 161.56,
+     "owner_v2": "CAT",
+     "take_word": "whole",
+     "take_start": 5.4,
+     "take_end": 5.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 258.1,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.06,
+      "girl200-330": 0.91,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 441,
+     "song_word": "thing",
+     "line": "L85",
+     "song_start_v2": 162,
+     "song_start_v1": 161.68,
+     "owner_v2": "CAT",
+     "take_word": "thing",
+     "take_start": 5.9,
+     "take_end": 6.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 235.8,
+     "f0_voiced": 18,
+     "f0_total": 18,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 442,
+     "song_word": "spin",
+     "line": "L85",
+     "song_start_v2": 162.2,
+     "song_start_v1": 161.92,
+     "owner_v2": "CAT",
+     "take_word": "spin.",
+     "take_start": 6.2,
+     "take_end": 6.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 233.5,
+     "f0_voiced": 33,
+     "f0_total": 39,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 443,
+     "song_word": "You",
+     "line": "L86",
+     "song_start_v2": 162.7,
+     "song_start_v1": 162.3,
+     "owner_v2": "CAT",
+     "take_word": "You",
+     "take_start": 6.8,
+     "take_end": 7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 208.4,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 444,
+     "song_word": "and",
+     "line": "L86",
+     "song_start_v2": 162.8,
+     "song_start_v1": 162.46,
+     "owner_v2": "CAT",
+     "take_word": "and",
+     "take_start": 7,
+     "take_end": 7.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 186.8,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(187Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 445,
+     "song_word": "me",
+     "line": "L86",
+     "song_start_v2": 162.9,
+     "song_start_v1": 162.84,
+     "owner_v2": "CAT",
+     "take_word": "me,",
+     "take_start": 7.2,
+     "take_end": 7.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 188.2,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(188Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 1.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 446,
+     "song_word": "same",
+     "line": "L86",
+     "song_start_v2": 163,
+     "song_start_v1": 162.88,
+     "owner_v2": "CAT",
+     "take_word": "same",
+     "take_start": 7.6,
+     "take_end": 8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 248.6,
+     "f0_voiced": 22,
+     "f0_total": 24,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 447,
+     "song_word": "pace",
+     "line": "L86",
+     "song_start_v2": 163.1,
+     "song_start_v1": 162.98,
+     "owner_v2": "CAT",
+     "take_word": "pace.",
+     "take_start": 8,
+     "take_end": 8.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 155.1,
+     "f0_voiced": 26,
+     "f0_total": 39,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.92,
+      "mid161-199": 0.04,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 23,
+    "slope": 0.673,
+    "intercept": 158.01,
+    "resid_median": 0.07,
+    "resid_max": 0.43
+   },
+   "per_line": {
+    "L82": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "If",
+      "the",
+      "sky",
+      "turns",
+      "gray,"
+     ],
+     "f0_median_all": 208.1,
+     "f0_bands": [
+      "ambiguous(185Hz)",
+      "ambiguous(188Hz)",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L83": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "we",
+      "don't",
+      "fold",
+      "in."
+     ],
+     "f0_median_all": 220.4,
+     "f0_bands": [
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "ambiguous(188Hz)"
+     ]
+    },
+    "L84": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "We",
+      "lean",
+      "right",
+      "back."
+     ],
+     "f0_median_all": 277.4,
+     "f0_bands": [
+      "ambiguous(184Hz)",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L85": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "Let",
+      "the",
+      "whole",
+      "thing",
+      "spin."
+     ],
+     "f0_median_all": 233.5,
+     "f0_bands": [
+      "ambiguous(186Hz)",
+      "GIRL",
+      "GIRL",
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L86": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 5,
+     "take_words": [
+      "You",
+      "and",
+      "me,",
+      "same",
+      "pace."
+     ],
+     "f0_median_all": 188.2,
+     "f0_bands": [
+      "GIRL",
+      "ambiguous(187Hz)",
+      "ambiguous(188Hz)",
+      "GIRL",
+      "CAT"
+     ]
+    },
+    "L87": {
+     "owner_v2": "CAT",
+     "expected_words": 3,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L88": {
+     "owner_v2": "CAT",
+     "expected_words": 3,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L89": {
+     "owner_v2": "CAT",
+     "expected_words": 3,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.231,
+    "gap_windows_mean": 0.122,
+    "gap_windows_max": 0.376,
+    "overall_max": 0.385
+   }
+  },
+  "S23": {
+   "take": "s23_t1",
+   "slot": [
+    169.16,
+    176.04
+   ],
+   "warp_v1": "0.812/0.919/0.962/1.121 per-refrain",
+   "lines": [
+    "L91",
+    "L92",
+    "L93",
+    "L94",
+    "L95",
+    "L96"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 9,
+   "matched_pairs": 9,
+   "expected_song_words": 25,
+   "dropped_song_words": [
+    {
+     "song_idx": 464,
+     "song_word": "We",
+     "line": "L92",
+     "song_start_v2": 170.6
+    },
+    {
+     "song_idx": 465,
+     "song_word": "ride",
+     "line": "L92",
+     "song_start_v2": 170.7
+    },
+    {
+     "song_idx": 466,
+     "song_word": "we",
+     "line": "L92",
+     "song_start_v2": 171
+    },
+    {
+     "song_idx": 467,
+     "song_word": "ride",
+     "line": "L92",
+     "song_start_v2": 171.1
+    },
+    {
+     "song_idx": 470,
+     "song_word": "easy",
+     "line": "L93",
+     "song_start_v2": 171.8
+    },
+    {
+     "song_idx": 471,
+     "song_word": "now",
+     "line": "L93",
+     "song_start_v2": 172
+    },
+    {
+     "song_idx": 472,
+     "song_word": "With",
+     "line": "L94",
+     "song_start_v2": 172.7
+    },
+    {
+     "song_idx": 473,
+     "song_word": "you",
+     "line": "L94",
+     "song_start_v2": 172.8
+    },
+    {
+     "song_idx": 474,
+     "song_word": "by",
+     "line": "L94",
+     "song_start_v2": 172.9
+    },
+    {
+     "song_idx": 475,
+     "song_word": "my",
+     "line": "L94",
+     "song_start_v2": 173.1
+    },
+    {
+     "song_idx": 476,
+     "song_word": "side",
+     "line": "L94",
+     "song_start_v2": 173.3
+    },
+    {
+     "song_idx": 477,
+     "song_word": "Easy",
+     "line": "L95",
+     "song_start_v2": 174
+    },
+    {
+     "song_idx": 478,
+     "song_word": "now",
+     "line": "L95",
+     "song_start_v2": 174.1
+    },
+    {
+     "song_idx": 479,
+     "song_word": "easy",
+     "line": "L95",
+     "song_start_v2": 174.2
+    },
+    {
+     "song_idx": 480,
+     "song_word": "now",
+     "line": "L95",
+     "song_start_v2": 174.3
+    },
+    {
+     "song_idx": 484,
+     "song_word": "run",
+     "line": "L96",
+     "song_start_v2": 175.7
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 460,
+     "song_word": "Easy",
+     "line": "L91",
+     "song_start_v2": 169.2,
+     "song_start_v1": 169.16,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 0.2,
+     "take_end": 0.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 416.9,
+     "f0_voiced": 11,
+     "f0_total": 11,
+     "f0_band": "ambiguous(417Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 461,
+     "song_word": "now",
+     "line": "L91",
+     "song_start_v2": 169.3,
+     "song_start_v1": 169.38,
+     "owner_v2": "GIRL",
+     "take_word": "now,",
+     "take_start": 0.4,
+     "take_end": 1.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.7,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 462,
+     "song_word": "easy",
+     "line": "L91",
+     "song_start_v2": 169.4,
+     "song_start_v1": 169.4,
+     "owner_v2": "GIRL",
+     "take_word": "easy",
+     "take_start": 2,
+     "take_end": 2.3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.5,
+     "f0_voiced": 11,
+     "f0_total": 18,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.09,
+      "girl200-330": 0.09,
+      "high>330": 0.82
+     }
+    },
+    {
+     "song_idx": 463,
+     "song_word": "now",
+     "line": "L91",
+     "song_start_v2": 169.5,
+     "song_start_v1": 169.76,
+     "owner_v2": "GIRL",
+     "take_word": "now,",
+     "take_start": 2.3,
+     "take_end": 3,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.6,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.04,
+      "high>330": 0.96
+     }
+    },
+    {
+     "song_idx": 468,
+     "song_word": "Easy",
+     "line": "L93",
+     "song_start_v2": 171.7,
+     "song_start_v1": 171.16,
+     "owner_v2": "GIRL",
+     "take_word": "easy",
+     "take_start": 3.5,
+     "take_end": 3.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 369.0,
+     "f0_voiced": 17,
+     "f0_total": 25,
+     "f0_band": "ambiguous(369Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 469,
+     "song_word": "now",
+     "line": "L93",
+     "song_start_v2": 171.8,
+     "song_start_v1": 171.44,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 3.9,
+     "take_end": 4.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 370.0,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "ambiguous(370Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.07,
+      "girl200-330": 0.0,
+      "high>330": 0.93
+     }
+    },
+    {
+     "song_idx": 481,
+     "song_word": "No",
+     "line": "L96",
+     "song_start_v2": 175,
+     "song_start_v1": 174.62,
+     "owner_v2": "SPLIT",
+     "take_word": "No",
+     "take_start": 6,
+     "take_end": 6.4,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.6,
+     "f0_voiced": 25,
+     "f0_total": 25,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 482,
+     "song_word": "need",
+     "line": "L96",
+     "song_start_v2": 175.2,
+     "song_start_v1": 174.78,
+     "owner_v2": "SPLIT",
+     "take_word": "need",
+     "take_start": 6.4,
+     "take_end": 6.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.9,
+     "f0_voiced": 23,
+     "f0_total": 25,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 483,
+     "song_word": "to",
+     "line": "L96",
+     "song_start_v2": 175.5,
+     "song_start_v1": 174.92,
+     "owner_v2": "SPLIT",
+     "take_word": "to",
+     "take_start": 6.8,
+     "take_end": 7,
+     "take_speaker_app": "spk:0",
+     "f0_median": 368.6,
+     "f0_voiced": 6,
+     "f0_total": 11,
+     "f0_band": "ambiguous(369Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 9,
+    "slope": 1.057,
+    "intercept": 168.14,
+    "resid_median": 0.51,
+    "resid_max": 1.08
+   },
+   "per_line": {
+    "L91": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "Easy",
+      "now,",
+      "easy",
+      "now,"
+     ],
+     "f0_median_all": 415.6,
+     "f0_bands": [
+      "ambiguous(417Hz)",
+      "ambiguous(415Hz)",
+      "ambiguous(415Hz)",
+      "ambiguous(416Hz)"
+     ]
+    },
+    "L92": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L93": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 2,
+     "take_words": [
+      "easy",
+      "now."
+     ],
+     "f0_median_all": 369.5,
+     "f0_bands": [
+      "ambiguous(369Hz)",
+      "ambiguous(370Hz)"
+     ]
+    },
+    "L94": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L95": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L96": {
+     "owner_v2": "SPLIT",
+     "expected_words": 4,
+     "matched_words": 3,
+     "take_words": [
+      "No",
+      "need",
+      "to"
+     ],
+     "f0_median_all": 415.6,
+     "f0_bands": [
+      "ambiguous(416Hz)",
+      "ambiguous(416Hz)",
+      "ambiguous(369Hz)"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.058,
+    "gap_windows_mean": 0.036,
+    "gap_windows_max": 0.101,
+    "overall_max": 0.104
+   }
+  },
+  "S25": {
+   "take": "s25_t1",
+   "slot": [
+    182.78,
+    190.42
+   ],
+   "warp_v1": "0.800/1.091 per-refrain",
+   "lines": [
+    "L103",
+    "L104",
+    "L105",
+    "L106"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 6,
+   "matched_pairs": 2,
+   "expected_song_words": 17,
+   "dropped_song_words": [
+    {
+     "song_idx": 513,
+     "song_word": "Easy",
+     "line": "L103",
+     "song_start_v2": 183
+    },
+    {
+     "song_idx": 515,
+     "song_word": "easy",
+     "line": "L103",
+     "song_start_v2": 183.1
+    },
+    {
+     "song_idx": 517,
+     "song_word": "We're",
+     "line": "L104",
+     "song_start_v2": 184
+    },
+    {
+     "song_idx": 518,
+     "song_word": "good",
+     "line": "L104",
+     "song_start_v2": 184.1
+    },
+    {
+     "song_idx": 519,
+     "song_word": "where",
+     "line": "L104",
+     "song_start_v2": 184.2
+    },
+    {
+     "song_idx": 520,
+     "song_word": "we",
+     "line": "L104",
+     "song_start_v2": 184.3
+    },
+    {
+     "song_idx": 521,
+     "song_word": "are",
+     "line": "L104",
+     "song_start_v2": 184.4
+    },
+    {
+     "song_idx": 522,
+     "song_word": "Easy",
+     "line": "L105",
+     "song_start_v2": 184.68
+    },
+    {
+     "song_idx": 523,
+     "song_word": "now",
+     "line": "L105",
+     "song_start_v2": 185.02
+    },
+    {
+     "song_idx": 524,
+     "song_word": "easy",
+     "line": "L105",
+     "song_start_v2": 185.56
+    },
+    {
+     "song_idx": 525,
+     "song_word": "now",
+     "line": "L105",
+     "song_start_v2": 185.88
+    },
+    {
+     "song_idx": 526,
+     "song_word": "Just",
+     "line": "L106",
+     "song_start_v2": 186.6
+    },
+    {
+     "song_idx": 527,
+     "song_word": "two",
+     "line": "L106",
+     "song_start_v2": 186.7
+    },
+    {
+     "song_idx": 528,
+     "song_word": "small",
+     "line": "L106",
+     "song_start_v2": 186.8
+    },
+    {
+     "song_idx": 529,
+     "song_word": "sparks",
+     "line": "L106",
+     "song_start_v2": 186.9
+    }
+   ],
+   "extra_take_words": [
+    {
+     "word": "Is",
+     "start": 0.6,
+     "end": 0.7
+    },
+    {
+     "word": "it",
+     "start": 0.7,
+     "end": 0.8
+    },
+    {
+     "word": "Is",
+     "start": 2.1,
+     "end": 2.2
+    },
+    {
+     "word": "it",
+     "start": 2.2,
+     "end": 2.2
+    }
+   ],
+   "words": [
+    {
+     "song_idx": 514,
+     "song_word": "now",
+     "line": "L103",
+     "song_start_v2": 183.1,
+     "song_start_v1": 182.78,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 0.8,
+     "take_end": 0.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": null,
+     "f0_voiced": 0,
+     "f0_total": 0,
+     "f0_band": "silent",
+     "f0_bands": {}
+    },
+    {
+     "song_idx": 516,
+     "song_word": "now",
+     "line": "L103",
+     "song_start_v2": 183.2,
+     "song_start_v1": 183.24,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 2.2,
+     "take_end": 2.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": null,
+     "f0_voiced": 0,
+     "f0_total": 0,
+     "f0_band": "silent",
+     "f0_bands": {}
+    }
+   ],
+   "fit": null,
+   "per_line": {
+    "L103": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 2,
+     "take_words": [
+      "now?",
+      "now?"
+     ],
+     "f0_median_all": null,
+     "f0_bands": [
+      "silent",
+      "silent"
+     ]
+    },
+    "L104": {
+     "owner_v2": "CAT",
+     "expected_words": 5,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L105": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "L106": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.101,
+    "gap_windows_mean": 0.062,
+    "gap_windows_max": 0.139,
+    "overall_max": 0.139
+   }
+  },
+  "S26": {
+   "take": "s26_t1",
+   "slot": [
+    190.42,
+    197.58
+   ],
+   "warp_v1": "0.800",
+   "lines": [
+    "L107",
+    "L108"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 6,
+   "matched_pairs": 2,
+   "expected_song_words": 8,
+   "dropped_song_words": [
+    {
+     "song_idx": 530,
+     "song_word": "Easy",
+     "line": "L107",
+     "song_start_v2": 192.06
+    },
+    {
+     "song_idx": 532,
+     "song_word": "easy",
+     "line": "L107",
+     "song_start_v2": 196.4
+    },
+    {
+     "song_idx": 534,
+     "song_word": "We",
+     "line": "L108",
+     "song_start_v2": 194.46
+    },
+    {
+     "song_idx": 535,
+     "song_word": "ride",
+     "line": "L108",
+     "song_start_v2": 194.72
+    },
+    {
+     "song_idx": 536,
+     "song_word": "we",
+     "line": "L108",
+     "song_start_v2": 195.42
+    },
+    {
+     "song_idx": 537,
+     "song_word": "ride",
+     "line": "L108",
+     "song_start_v2": 195.42
+    }
+   ],
+   "extra_take_words": [
+    {
+     "word": "Is",
+     "start": 0.4,
+     "end": 0.9
+    },
+    {
+     "word": "it",
+     "start": 0.9,
+     "end": 1
+    },
+    {
+     "word": "Is",
+     "start": 2.6,
+     "end": 3.2
+    },
+    {
+     "word": "it",
+     "start": 3.2,
+     "end": 3.4
+    }
+   ],
+   "words": [
+    {
+     "song_idx": 531,
+     "song_word": "now",
+     "line": "L107",
+     "song_start_v2": 194.3,
+     "song_start_v1": 193.1,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 1,
+     "take_end": 2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.9,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 533,
+     "song_word": "now",
+     "line": "L107",
+     "song_start_v2": 196.5,
+     "song_start_v1": 194.46,
+     "owner_v2": "GIRL",
+     "take_word": "now?",
+     "take_start": 3.4,
+     "take_end": 4.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.3,
+     "f0_voiced": 45,
+     "f0_total": 45,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": null,
+   "per_line": {
+    "L107": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 2,
+     "take_words": [
+      "now?",
+      "now?"
+     ],
+     "f0_median_all": 310.6,
+     "f0_bands": [
+      "GIRL",
+      "GIRL"
+     ]
+    },
+    "L108": {
+     "owner_v2": "UNDECIDED",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.065,
+    "gap_windows_mean": 0.023,
+    "gap_windows_max": 0.083,
+    "overall_max": 0.094
+   }
+  },
+  "S27": {
+   "take": "s27_t1",
+   "slot": [
+    197.58,
+    203.42
+   ],
+   "warp_v1": "1.232",
+   "lines": [
+    "L109",
+    "L110a"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 2,
+   "matched_pairs": 2,
+   "expected_song_words": 4,
+   "dropped_song_words": [
+    {
+     "song_idx": 540,
+     "song_word": "easy",
+     "line": "L109",
+     "song_start_v2": 196.8
+    },
+    {
+     "song_idx": 541,
+     "song_word": "now",
+     "line": "L109",
+     "song_start_v2": 202.66
+    }
+   ],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 538,
+     "song_word": "Easy",
+     "line": "L109",
+     "song_start_v2": 196.6,
+     "song_start_v1": 197.58,
+     "owner_v2": "GIRL",
+     "take_word": "Easy",
+     "take_start": 3.6,
+     "take_end": 4.2,
+     "take_speaker_app": "spk:0",
+     "f0_median": 138.5,
+     "f0_voiced": 39,
+     "f0_total": 39,
+     "f0_band": "CAT",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 1.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 0.0
+     }
+    },
+    {
+     "song_idx": 539,
+     "song_word": "now",
+     "line": "L109",
+     "song_start_v2": 196.7,
+     "song_start_v1": 198.1,
+     "owner_v2": "GIRL",
+     "take_word": "now.",
+     "take_start": 4.2,
+     "take_end": 4.9,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.7,
+     "f0_voiced": 46,
+     "f0_total": 46,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.13,
+      "mid161-199": 0.02,
+      "girl200-330": 0.78,
+      "high>330": 0.04
+     }
+    }
+   ],
+   "fit": null,
+   "per_line": {
+    "L109": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 2,
+     "take_words": [
+      "Easy",
+      "now."
+     ],
+     "f0_median_all": 224.6,
+     "f0_bands": [
+      "CAT",
+      "GIRL"
+     ]
+    },
+    "L110a": {
+     "owner_v2": "CAT",
+     "expected_words": 0,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.099,
+    "gap_windows_mean": 0.081,
+    "gap_windows_max": 0.126,
+    "overall_max": 0.126
+   }
+  },
+  "S28": {
+   "take": "s28_t1",
+   "slot": [
+    203.42,
+    206.4
+   ],
+   "warp_v1": "0.800",
+   "lines": [
+    "L110b"
+   ],
+   "source": "gemini",
+   "take_speakers_app": [
+    "spk:0"
+   ],
+   "take_words_total": 4,
+   "matched_pairs": 4,
+   "expected_song_words": 4,
+   "dropped_song_words": [],
+   "extra_take_words": [],
+   "words": [
+    {
+     "song_idx": 542,
+     "song_word": "Till",
+     "line": "L110",
+     "song_start_v2": 204.2,
+     "song_start_v1": 203.42,
+     "owner_v2": "CAT",
+     "take_word": "till",
+     "take_start": 0.1,
+     "take_end": 0.6,
+     "take_speaker_app": "spk:0",
+     "f0_median": 415.5,
+     "f0_voiced": 32,
+     "f0_total": 32,
+     "f0_band": "ambiguous(416Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 543,
+     "song_word": "the",
+     "line": "L110",
+     "song_start_v2": 204.3,
+     "song_start_v1": 204.24,
+     "owner_v2": "CAT",
+     "take_word": "the",
+     "take_start": 0.6,
+     "take_end": 0.8,
+     "take_speaker_app": "spk:0",
+     "f0_median": 370.7,
+     "f0_voiced": 9,
+     "f0_total": 11,
+     "f0_band": "ambiguous(371Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 544,
+     "song_word": "morning",
+     "line": "L110",
+     "song_start_v2": 204.4,
+     "song_start_v1": 204.36,
+     "owner_v2": "CAT",
+     "take_word": "morning",
+     "take_start": 0.8,
+     "take_end": 2.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 414.7,
+     "f0_voiced": 88,
+     "f0_total": 88,
+     "f0_band": "ambiguous(415Hz)",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 0.0,
+      "high>330": 1.0
+     }
+    },
+    {
+     "song_idx": 545,
+     "song_word": "comes",
+     "line": "L110",
+     "song_start_v2": 205.3,
+     "song_start_v1": 204.88,
+     "owner_v2": "CAT",
+     "take_word": "comes.",
+     "take_start": 2.1,
+     "take_end": 3.1,
+     "take_speaker_app": "spk:0",
+     "f0_median": 310.3,
+     "f0_voiced": 67,
+     "f0_total": 67,
+     "f0_band": "GIRL",
+     "f0_bands": {
+      "bass<80": 0.0,
+      "cat97-160": 0.0,
+      "mid161-199": 0.0,
+      "girl200-330": 1.0,
+      "high>330": 0.0
+     }
+    }
+   ],
+   "fit": {
+    "n_pairs": 4,
+    "slope": 0.583,
+    "intercept": 204.03,
+    "resid_median": 0.08,
+    "resid_max": 0.12
+   },
+   "per_line": {
+    "L110b": {
+     "owner_v2": "GIRL",
+     "expected_words": 4,
+     "matched_words": 4,
+     "take_words": [
+      "till",
+      "the",
+      "morning",
+      "comes."
+     ],
+     "f0_median_all": 392.7,
+     "f0_bands": [
+      "ambiguous(416Hz)",
+      "ambiguous(371Hz)",
+      "ambiguous(415Hz)",
+      "GIRL"
+     ]
+    }
+   },
+   "rms": {
+    "word_windows_mean": 0.061,
+    "gap_windows_mean": 0.015,
+    "gap_windows_max": 0.079,
+    "overall_max": 0.12
+   }
+  },
+  "S02": {
+   "take": "s02_t1",
+   "slot": [
+    10.04,
+    18.64
+   ],
+   "warp_v1": "1.000 cutaway",
+   "lines": [
+    "I05",
+    "I06",
+    "I07",
+    "I08"
+   ],
+   "source": "none (cutaway: no app JSON, no Whisper prompted file; v1 CUTLIST \"cutaway @1.0x (intro repeat, CAT sings, girl listening)\")",
+   "take_speakers_app": [],
+   "take_words_total": 0,
+   "matched_pairs": 0,
+   "expected_song_words": 16,
+   "dropped_song_words": [
+    {
+     "song_idx": 16,
+     "song_word": "Easy",
+     "line": "I05",
+     "song_start_v2": 10.04
+    },
+    {
+     "song_idx": 17,
+     "song_word": "now",
+     "line": "I05",
+     "song_start_v2": 10.71
+    },
+    {
+     "song_idx": 18,
+     "song_word": "easy",
+     "line": "I05",
+     "song_start_v2": 11.38
+    },
+    {
+     "song_idx": 19,
+     "song_word": "now",
+     "line": "I05",
+     "song_start_v2": 12.05
+    },
+    {
+     "song_idx": 20,
+     "song_word": "We",
+     "line": "I06",
+     "song_start_v2": 13.34
+    },
+    {
+     "song_idx": 21,
+     "song_word": "ride",
+     "line": "I06",
+     "song_start_v2": 13.56
+    },
+    {
+     "song_idx": 22,
+     "song_word": "we",
+     "line": "I06",
+     "song_start_v2": 15.4
+    },
+    {
+     "song_idx": 23,
+     "song_word": "ride",
+     "line": "I06",
+     "song_start_v2": 15.4
+    },
+    {
+     "song_idx": 24,
+     "song_word": "Easy",
+     "line": "I07",
+     "song_start_v2": 15.4
+    },
+    {
+     "song_idx": 25,
+     "song_word": "now",
+     "line": "I07",
+     "song_start_v2": 15.4
+    },
+    {
+     "song_idx": 26,
+     "song_word": "easy",
+     "line": "I07",
+     "song_start_v2": 15.4
+    },
+    {
+     "song_idx": 27,
+     "song_word": "now",
+     "line": "I07",
+     "song_start_v2": 15.4
+    },
+    {
+     "song_idx": 28,
+     "song_word": "Till",
+     "line": "I08",
+     "song_start_v2": 17.18
+    },
+    {
+     "song_idx": 29,
+     "song_word": "the",
+     "line": "I08",
+     "song_start_v2": 18.2
+    },
+    {
+     "song_idx": 30,
+     "song_word": "morning",
+     "line": "I08",
+     "song_start_v2": 18.2
+    },
+    {
+     "song_idx": 31,
+     "song_word": "comes",
+     "line": "I08",
+     "song_start_v2": 18.4
+    }
+   ],
+   "extra_take_words": [],
+   "words": [],
+   "fit": null,
+   "per_line": {
+    "I05": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "I06": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "I07": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    },
+    "I08": {
+     "owner_v2": "CAT",
+     "expected_words": 4,
+     "matched_words": 0,
+     "take_words": [],
+     "f0_median_all": null,
+     "f0_bands": []
+    }
+   },
+   "rms": null,
+   "picture_note": "Frame @take 4.0s: girl riding in profile, mouth closed (listening); cat in basket, mouth closed. No mouth sings. Cutaway confirmed.",
+   "audio_note": "Take audio (mp4 track) has sustained pitched content (81% frames autocorr peak>0.30, median 0.434; vs singing s06 85%/0.93 and silent-bed s10 35%/0.268) \u2014 pitched content present but NOT adjudicated as a voice; take audio is dropped at assembly, so the picture (cutaway) governs. Do not use take audio as evidence of singing."
+  }
+ }
+}

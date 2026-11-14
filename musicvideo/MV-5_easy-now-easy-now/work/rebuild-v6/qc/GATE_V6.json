@@ -1,0 +1,37 @@
+{
+  "build": "MV-5 v6 FULL REBUILD",
+  "date": "2026-11-13",
+  "house_master": {
+    "path": "masters/mv5_easy_now_easy_now_16x9_v6.mp4",
+    "md5": "2071388f3fb5672849e29462cb3f2b64",
+    "bytes": 197194272,
+    "video": "h264 1280x720 24fps",
+    "frames": 4954,
+    "duration_s": 206.416667,
+    "audio": "aac 48kHz stereo 192k (track.mp3 sole source)",
+    "faststart": true
+  },
+  "chat_copy": {
+    "path": "masters/mv5_easy_now_easy_now_16x9_v6_chat.mp4",
+    "md5": "2e2688bd592821e0a4c6ab3ab5f4657b",
+    "bytes": 46122464,
+    "spec": "854x480 crf 26, AAC copied",
+    "under_50MB": true
+  },
+  "audio_agreement_vs_track": {"windows_10s": 20, "min_corr": 0.9985, "mean_corr": 0.9989},
+  "motion_audit": {
+    "mean_frame_diff_160x90": 9.77,
+    "near_dup_runs_ge_12f": [24, 17, 13, 12],
+    "longest_run": "24f at 44.58s (S06, L12 held two-shot tableau — disclosed, not a freeze)",
+    "verdict": "PASS with disclosure"
+  },
+  "fit": {"file": "work/rebuild-v6/assembly_fit_mv5_v6.json", "errors": 0, "frames": 4954,
+          "disclosures": 29, "warp_band_phrases_spans": [0.52, 1.96],
+          "out_of_band_fills": ["s13_boombox w6.72 (1.33s scatter beat)", "s26_chain head flash w6.00 (5f)", "s02_ride S02 head w4.48 (13f)"]},
+  "colour_gate": {"rejects": 0, "rule": "girl BLUE SHIRT + bicycle RED in every frame; verified at full res on takes and on the master at ~60 onset/scene frames"},
+  "singer_pair_reads": "see VISUAL_GATE_V6.md — every solo line verified by direct full-res read or same-take neighbour reads; duet spans sampled at multiple onsets",
+  "rejects": ["mv5_v6_s25_cat (v1) — identity intrusion at L104; replaced by mv5_v6_s25_cat2"],
+  "generator_refusals": ["pilot p1", "pilot p3", "s09_duet (restaged as s09b kite)"],
+  "delivered_flag_written": false,
+  "committed": false
+}

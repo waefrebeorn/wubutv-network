@@ -1,0 +1,40 @@
+{
+ "track": "work/otaku_qc/U15_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 4,
+ "words": [
+  {
+   "word": "Nobody",
+   "start": 0.0,
+   "end": 2.34,
+   "prob": 0.499
+  },
+  {
+   "word": "man,",
+   "start": 2.34,
+   "end": 3.36,
+   "prob": 0.753
+  },
+  {
+   "word": "nobody",
+   "start": 4.78,
+   "end": 5.66,
+   "prob": 0.874
+  },
+  {
+   "word": "man.",
+   "start": 5.66,
+   "end": 6.72,
+   "prob": 0.992
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.72,
+   "text": "Nobody man, nobody man."
+  }
+ ]
+}

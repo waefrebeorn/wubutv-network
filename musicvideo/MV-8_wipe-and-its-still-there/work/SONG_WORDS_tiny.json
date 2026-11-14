@@ -1,0 +1,531 @@
+{
+ "track": "work/track_16k.wav",
+ "model": "tiny",
+ "language": "en",
+ "duration": 187.2,
+ "n_words": 75,
+ "words": [
+  {
+   "word": "Why",
+   "start": 8.0,
+   "end": 9.4,
+   "prob": 0.093
+  },
+  {
+   "word": "finnistue?",
+   "start": 9.4,
+   "end": 10.46,
+   "prob": 0.15
+  },
+  {
+   "word": "Why",
+   "start": 12.32,
+   "end": 13.06,
+   "prob": 0.848
+  },
+  {
+   "word": "finnistue?",
+   "start": 13.06,
+   "end": 14.16,
+   "prob": 0.951
+  },
+  {
+   "word": "Why",
+   "start": 14.84,
+   "end": 14.84,
+   "prob": 0.62
+  },
+  {
+   "word": "finnistue",
+   "start": 14.84,
+   "end": 14.84,
+   "prob": 0.983
+  },
+  {
+   "word": "live?",
+   "start": 14.84,
+   "end": 14.94,
+   "prob": 0.244
+  },
+  {
+   "word": "Hey,",
+   "start": 16.38,
+   "end": 16.76,
+   "prob": 0.158
+  },
+  {
+   "word": "boy,",
+   "start": 16.78,
+   "end": 17.24,
+   "prob": 0.25
+  },
+  {
+   "word": "comes",
+   "start": 17.24,
+   "end": 17.66,
+   "prob": 0.267
+  },
+  {
+   "word": "back",
+   "start": 17.66,
+   "end": 18.2,
+   "prob": 0.997
+  },
+  {
+   "word": "dirty.",
+   "start": 18.2,
+   "end": 19.14,
+   "prob": 0.769
+  },
+  {
+   "word": "Why",
+   "start": 23.78,
+   "end": 25.18,
+   "prob": 0.073
+  },
+  {
+   "word": "finnistue",
+   "start": 25.18,
+   "end": 26.58,
+   "prob": 0.077
+  },
+  {
+   "word": "live?",
+   "start": 26.58,
+   "end": 27.52,
+   "prob": 0.0
+  },
+  {
+   "word": "Why",
+   "start": 28.3,
+   "end": 28.72,
+   "prob": 0.336
+  },
+  {
+   "word": "finnistue",
+   "start": 28.72,
+   "end": 29.62,
+   "prob": 0.742
+  },
+  {
+   "word": "live?",
+   "start": 29.62,
+   "end": 29.62,
+   "prob": 0.915
+  },
+  {
+   "word": "Why",
+   "start": 29.62,
+   "end": 29.62,
+   "prob": 0.158
+  },
+  {
+   "word": "invest",
+   "start": 29.62,
+   "end": 29.62,
+   "prob": 0.0
+  },
+  {
+   "word": "money?",
+   "start": 29.62,
+   "end": 30.46,
+   "prob": 0.005
+  },
+  {
+   "word": "Kawaii",
+   "start": 31.82,
+   "end": 33.1,
+   "prob": 0.361
+  },
+  {
+   "word": "drift",
+   "start": 33.1,
+   "end": 33.12,
+   "prob": 0.0
+  },
+  {
+   "word": "understanding?",
+   "start": 33.12,
+   "end": 34.44,
+   "prob": 0.0
+  },
+  {
+   "word": "I'm",
+   "start": 97.26,
+   "end": 98.1,
+   "prob": 0.207
+  },
+  {
+   "word": "trying",
+   "start": 98.1,
+   "end": 98.3,
+   "prob": 0.032
+  },
+  {
+   "word": "to",
+   "start": 98.3,
+   "end": 98.3,
+   "prob": 0.873
+  },
+  {
+   "word": "find",
+   "start": 98.3,
+   "end": 98.3,
+   "prob": 0.452
+  },
+  {
+   "word": "you,",
+   "start": 98.3,
+   "end": 98.56,
+   "prob": 0.565
+  },
+  {
+   "word": "you're",
+   "start": 98.56,
+   "end": 98.74,
+   "prob": 0.377
+  },
+  {
+   "word": "still",
+   "start": 98.74,
+   "end": 99.16,
+   "prob": 0.861
+  },
+  {
+   "word": "there",
+   "start": 99.16,
+   "end": 100.92,
+   "prob": 0.431
+  },
+  {
+   "word": "And",
+   "start": 102.62,
+   "end": 103.46,
+   "prob": 0.074
+  },
+  {
+   "word": "from",
+   "start": 103.46,
+   "end": 103.74,
+   "prob": 0.266
+  },
+  {
+   "word": "the",
+   "start": 103.74,
+   "end": 104.04,
+   "prob": 0.722
+  },
+  {
+   "word": "white",
+   "start": 104.04,
+   "end": 104.26,
+   "prob": 0.224
+  },
+  {
+   "word": "one,",
+   "start": 104.26,
+   "end": 104.58,
+   "prob": 0.505
+  },
+  {
+   "word": "never",
+   "start": 104.7,
+   "end": 105.06,
+   "prob": 0.21
+  },
+  {
+   "word": "stop",
+   "start": 105.06,
+   "end": 105.8,
+   "prob": 0.272
+  },
+  {
+   "word": "to",
+   "start": 105.8,
+   "end": 111.32,
+   "prob": 0.154
+  },
+  {
+   "word": "breathe",
+   "start": 111.32,
+   "end": 111.32,
+   "prob": 0.203
+  },
+  {
+   "word": "I'm",
+   "start": 116.0,
+   "end": 116.84,
+   "prob": 0.409
+  },
+  {
+   "word": "trying",
+   "start": 116.84,
+   "end": 117.68,
+   "prob": 0.718
+  },
+  {
+   "word": "to",
+   "start": 117.68,
+   "end": 117.68,
+   "prob": 0.985
+  },
+  {
+   "word": "find",
+   "start": 117.68,
+   "end": 117.68,
+   "prob": 0.938
+  },
+  {
+   "word": "you,",
+   "start": 117.68,
+   "end": 117.68,
+   "prob": 0.944
+  },
+  {
+   "word": "you're",
+   "start": 117.68,
+   "end": 119.38,
+   "prob": 0.718
+  },
+  {
+   "word": "still",
+   "start": 119.38,
+   "end": 119.38,
+   "prob": 0.996
+  },
+  {
+   "word": "there",
+   "start": 119.38,
+   "end": 122.88,
+   "prob": 0.961
+  },
+  {
+   "word": "And",
+   "start": 122.88,
+   "end": 122.88,
+   "prob": 0.013
+  },
+  {
+   "word": "from",
+   "start": 122.88,
+   "end": 128.82,
+   "prob": 0.0
+  },
+  {
+   "word": "the",
+   "start": 128.82,
+   "end": 128.82,
+   "prob": 0.327
+  },
+  {
+   "word": "white",
+   "start": 128.82,
+   "end": 128.82,
+   "prob": 0.002
+  },
+  {
+   "word": "one,",
+   "start": 128.82,
+   "end": 128.82,
+   "prob": 0.02
+  },
+  {
+   "word": "never",
+   "start": 129.76,
+   "end": 130.08,
+   "prob": 0.0
+  },
+  {
+   "word": "stop",
+   "start": 130.08,
+   "end": 130.08,
+   "prob": 0.006
+  },
+  {
+   "word": "to",
+   "start": 130.08,
+   "end": 131.2,
+   "prob": 0.025
+  },
+  {
+   "word": "breathe",
+   "start": 131.2,
+   "end": 131.2,
+   "prob": 0.0
+  },
+  {
+   "word": "I'm",
+   "start": 134.88,
+   "end": 136.0,
+   "prob": 0.122
+  },
+  {
+   "word": "trying",
+   "start": 136.0,
+   "end": 136.92,
+   "prob": 0.01
+  },
+  {
+   "word": "to",
+   "start": 136.92,
+   "end": 136.92,
+   "prob": 0.81
+  },
+  {
+   "word": "find",
+   "start": 136.92,
+   "end": 136.92,
+   "prob": 0.045
+  },
+  {
+   "word": "you,",
+   "start": 136.92,
+   "end": 136.98,
+   "prob": 0.051
+  },
+  {
+   "word": "you're",
+   "start": 136.98,
+   "end": 137.44,
+   "prob": 0.098
+  },
+  {
+   "word": "still",
+   "start": 137.44,
+   "end": 137.46,
+   "prob": 0.038
+  },
+  {
+   "word": "there",
+   "start": 137.46,
+   "end": 138.88,
+   "prob": 0.226
+  },
+  {
+   "word": "And",
+   "start": 142.74,
+   "end": 143.22,
+   "prob": 0.029
+  },
+  {
+   "word": "from",
+   "start": 143.22,
+   "end": 143.46,
+   "prob": 0.035
+  },
+  {
+   "word": "the",
+   "start": 143.46,
+   "end": 143.78,
+   "prob": 0.86
+  },
+  {
+   "word": "white",
+   "start": 143.78,
+   "end": 144.02,
+   "prob": 0.837
+  },
+  {
+   "word": "one,",
+   "start": 144.02,
+   "end": 144.58,
+   "prob": 0.847
+  },
+  {
+   "word": "never",
+   "start": 146.12,
+   "end": 146.12,
+   "prob": 0.831
+  },
+  {
+   "word": "stop",
+   "start": 146.12,
+   "end": 146.12,
+   "prob": 0.927
+  },
+  {
+   "word": "to",
+   "start": 146.12,
+   "end": 148.0,
+   "prob": 0.743
+  },
+  {
+   "word": "breathe",
+   "start": 148.0,
+   "end": 148.0,
+   "prob": 0.979
+  }
+ ],
+ "segments": [
+  {
+   "start": 8.0,
+   "end": 10.46,
+   "text": "Why finnistue?"
+  },
+  {
+   "start": 12.32,
+   "end": 14.16,
+   "text": "Why finnistue?"
+  },
+  {
+   "start": 14.84,
+   "end": 14.94,
+   "text": "Why finnistue live?"
+  },
+  {
+   "start": 16.38,
+   "end": 19.14,
+   "text": "Hey, boy, comes back dirty."
+  },
+  {
+   "start": 23.78,
+   "end": 27.52,
+   "text": "Why finnistue live?"
+  },
+  {
+   "start": 28.3,
+   "end": 29.62,
+   "text": "Why finnistue live?"
+  },
+  {
+   "start": 29.62,
+   "end": 30.46,
+   "text": "Why invest money?"
+  },
+  {
+   "start": 31.82,
+   "end": 34.44,
+   "text": "Kawaii drift understanding?"
+  },
+  {
+   "start": 97.26,
+   "end": 100.92,
+   "text": "I'm trying to find you, you're still there"
+  },
+  {
+   "start": 102.62,
+   "end": 111.32,
+   "text": "And from the white one, never stop to breathe"
+  },
+  {
+   "start": 116.0,
+   "end": 122.88,
+   "text": "I'm trying to find you, you're still there"
+  },
+  {
+   "start": 122.88,
+   "end": 131.2,
+   "text": "And from the white one, never stop to breathe"
+  },
+  {
+   "start": 134.88,
+   "end": 138.88,
+   "text": "I'm trying to find you, you're still there"
+  },
+  {
+   "start": 142.74,
+   "end": 148.0,
+   "text": "And from the white one, never stop to breathe"
+  }
+ ]
+}

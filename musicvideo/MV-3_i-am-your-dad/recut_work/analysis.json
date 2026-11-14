@@ -1,0 +1,392 @@
+[
+ {
+  "scene": "S01",
+  "treatment": "mouth",
+  "take": "mv3_s01_t2.mp4",
+  "take_span": "0.00\u20134.54 (4.54s)",
+  "song_span": "2.82\u20139.00 (6.18s)",
+  "ratio": "1.361",
+  "warp": "w=1.2500",
+  "verdict": "grey-rescue (fast, band edge); end residual -0.50s; seg 6.50s; per-word max|off| 1.17s (n=4)"
+ },
+ {
+  "scene": "S02",
+  "treatment": "mouth",
+  "take": "mv3_s02_t2.mp4",
+  "take_span": "0.00\u20136.94 (6.94s)",
+  "song_span": "9.32\u201318.34 (9.02s)",
+  "ratio": "1.300",
+  "warp": "w=1.2500",
+  "verdict": "grey-rescue (fast, band edge); end residual -0.34s; seg 9.02s; per-word max|off| 1.32s (n=7)"
+ },
+ {
+  "scene": "S03",
+  "treatment": "cutaway",
+  "take": "mv3_s03_t1.mp4",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "\u2014"
+ },
+ {
+  "scene": "S04",
+  "treatment": "structural",
+  "take": "mv3_s04_t1.mp4",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S05",
+  "treatment": "structural",
+  "take": "mv3_s05_t1.mp4",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S06",
+  "treatment": "mouth",
+  "take": "mv3_s06_t1.mp4",
+  "take_span": "0.00\u20138.10 (8.10s)",
+  "song_span": "40.06\u201347.60 (7.54s)",
+  "ratio": "0.931",
+  "warp": "w=0.9309",
+  "verdict": "usable; end residual +0.00s; seg 8.06s; per-word max|off| 0.27s (n=23)"
+ },
+ {
+  "scene": "S07",
+  "treatment": "mouth",
+  "take": "mv3_s07_t1.mp4",
+  "take_span": "0.00\u20138.96 (8.96s)",
+  "song_span": "48.12\u201354.38 (6.26s)",
+  "ratio": "0.699",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +0.91s; seg 7.02s; per-word: count mismatch take=20 song=19 (span-level only)"
+ },
+ {
+  "scene": "S08",
+  "treatment": "mouth",
+  "take": "mv3_s08_t1.mp4",
+  "take_span": "0.00\u20137.20 (7.20s)",
+  "song_span": "55.14\u201362.20 (7.06s)",
+  "ratio": "0.981",
+  "warp": "w=0.9806",
+  "verdict": "usable; end residual +0.00s; seg 7.50s; per-word max|off| 0.31s (n=21)"
+ },
+ {
+  "scene": "S09",
+  "treatment": "mouth",
+  "take": "mv3_s09_t1.mp4",
+  "take_span": "0.00\u20137.58 (7.58s)",
+  "song_span": "62.64\u201367.90 (5.26s)",
+  "ratio": "0.694",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +0.80s; seg 5.72s; per-word max|off| 1.17s (n=12)"
+ },
+ {
+  "scene": "S10",
+  "treatment": "mouth",
+  "take": "mv3_s10_t1.mp4",
+  "take_span": "0.00\u20137.70 (7.70s)",
+  "song_span": "68.36\u201375.48 (7.12s)",
+  "ratio": "0.925",
+  "warp": "w=0.9247",
+  "verdict": "usable; end residual +0.00s; seg 7.92s; per-word max|off| 0.99s (n=14)"
+ },
+ {
+  "scene": "S11",
+  "treatment": "mouth",
+  "take": "mv3_s11_t2.mp4",
+  "take_span": "0.00\u20138.48 (8.48s)",
+  "song_span": "76.28\u201382.90 (6.62s)",
+  "ratio": "0.781",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +0.16s; seg 6.64s; per-word: count mismatch take=16 song=11 (span-level only)"
+ },
+ {
+  "scene": "S12",
+  "treatment": "mouth",
+  "take": "mv3_s12_t2.mp4",
+  "take_span": "0.00\u20136.80 (6.80s)",
+  "song_span": "82.92\u201387.50 (4.58s)",
+  "ratio": "0.674",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +0.86s; seg 7.74s; per-word: count mismatch take=8 song=7 (span-level only)"
+ },
+ {
+  "scene": "S13",
+  "treatment": "mouth",
+  "take": "mv3_s13_t1.mp4",
+  "take_span": "0.00\u20137.82 (7.82s)",
+  "song_span": "90.66\u201399.76 (9.10s)",
+  "ratio": "1.164",
+  "warp": "w=1.1637",
+  "verdict": "usable; end residual +0.00s; seg 9.02s; per-word: count mismatch take=18 song=16 (span-level only)"
+ },
+ {
+  "scene": "S14",
+  "treatment": "mouth",
+  "take": "mv3_s14_t1.mp4",
+  "take_span": "0.00\u20137.52 (7.52s)",
+  "song_span": "99.68\u2013108.92 (9.24s)",
+  "ratio": "1.229",
+  "warp": "w=1.2287",
+  "verdict": "usable; end residual +0.00s; seg 9.24s; per-word: count mismatch take=13 song=27 (span-level only)"
+ },
+ {
+  "scene": "S15",
+  "treatment": "mouth",
+  "take": "mv3_s15_t1.mp4",
+  "take_span": "0.72\u20137.82 (7.10s)",
+  "song_span": "108.92\u2013115.90 (6.98s)",
+  "ratio": "0.983",
+  "warp": "w=0.9831",
+  "verdict": "usable; end residual +0.00s; seg 7.22s; per-word max|off| 0.35s (n=22)"
+ },
+ {
+  "scene": "S16",
+  "treatment": "mouth",
+  "take": "mv3_s16_t1.mp4",
+  "take_span": "0.00\u20138.40 (8.40s)",
+  "song_span": "116.14\u2013123.40 (7.26s)",
+  "ratio": "0.864",
+  "warp": "w=0.8643",
+  "verdict": "usable; end residual +0.00s; seg 7.60s; per-word max|off| 0.66s (n=18)"
+ },
+ {
+  "scene": "S17",
+  "treatment": "mouth",
+  "take": "mv3_s17_t1.mp4",
+  "take_span": "0.88\u20136.10 (5.22s)",
+  "song_span": "123.74\u2013128.90 (5.16s)",
+  "ratio": "0.989",
+  "warp": "w=0.9885",
+  "verdict": "usable; end residual +0.00s; seg 5.72s; per-word max|off| 0.48s (n=12)"
+ },
+ {
+  "scene": "S18",
+  "treatment": "mouth",
+  "take": "mv3_s18_t2.mp4",
+  "take_span": "0.00\u20137.70 (7.70s)",
+  "song_span": "129.46\u2013135.80 (6.34s)",
+  "ratio": "0.823",
+  "warp": "w=0.8234",
+  "verdict": "usable; end residual +0.00s; seg 7.06s; per-word: count mismatch take=14 song=13 (span-level only)"
+ },
+ {
+  "scene": "S19",
+  "treatment": "mouth",
+  "take": "mv3_s19_t1.mp4",
+  "take_span": "0.00\u20138.12 (8.12s)",
+  "song_span": "136.52\u2013143.80 (7.28s)",
+  "ratio": "0.897",
+  "warp": "w=0.8966",
+  "verdict": "usable; end residual +0.00s; seg 7.24s; per-word: count mismatch take=16 song=20 (span-level only)"
+ },
+ {
+  "scene": "S20",
+  "treatment": "mouth",
+  "take": "mv3_s20_t1.mp4",
+  "take_span": "0.00\u20136.96 (6.96s)",
+  "song_span": "143.76\u2013149.10 (5.34s)",
+  "ratio": "0.767",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +0.23s; seg 6.54s; per-word max|off| 1.00s (n=11)"
+ },
+ {
+  "scene": "S21",
+  "treatment": "structural",
+  "take": "mv3_s21_t2.mp4",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S22",
+  "treatment": "mouth",
+  "take": "mv3_s22_t1.mp4",
+  "take_span": "0.00\u20136.40 (6.40s)",
+  "song_span": "160.70\u2013166.50 (5.80s)",
+  "ratio": "0.906",
+  "warp": "w=0.9063",
+  "verdict": "usable; end residual +0.00s; seg 8.06s; per-word: count mismatch take=8 song=6 (span-level only)"
+ },
+ {
+  "scene": "S23",
+  "treatment": "mouth",
+  "take": "mv3_s23_t2.mp4",
+  "take_span": "0.00\u20138.78 (8.78s)",
+  "song_span": "168.76\u2013182.12 (13.36s)",
+  "ratio": "1.522",
+  "warp": "w=1.2500",
+  "verdict": "grey-rescue (fast, band edge); end residual -2.39s; seg 14.30s; per-word: count mismatch take=18 song=17 (span-level only)"
+ },
+ {
+  "scene": "S24",
+  "treatment": "structural",
+  "take": "mv3_s24_t2.mp4",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S25",
+  "treatment": "structural",
+  "take": "s25_t1+s25_t2 / s35_t1+s35_t2",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S26",
+  "treatment": "mouth",
+  "take": "mv3_s26_t1.mp4",
+  "take_span": "0.00\u20136.54 (6.54s)",
+  "song_span": "215.40\u2013220.64 (5.24s)",
+  "ratio": "0.801",
+  "warp": "w=0.8012",
+  "verdict": "usable; end residual +0.00s; seg 5.24s; per-word: count mismatch take=12 song=11 (span-level only)"
+ },
+ {
+  "scene": "S27",
+  "treatment": "mouth",
+  "take": "mv3_s27_t1.mp4",
+  "take_span": "0.00\u20138.16 (8.16s)",
+  "song_span": "220.64\u2013230.00 (9.36s)",
+  "ratio": "1.147",
+  "warp": "w=1.1471",
+  "verdict": "usable; end residual +0.00s; seg 9.88s; per-word max|off| 1.40s (n=24)"
+ },
+ {
+  "scene": "S28",
+  "treatment": "mouth",
+  "take": "mv3_s28_t3.mp4",
+  "take_span": "0.00\u20139.30 (9.30s)",
+  "song_span": "230.52\u2013245.10 (14.58s)",
+  "ratio": "1.568",
+  "warp": "w=1.2500",
+  "verdict": "grey-rescue (fast, band edge); end residual -2.95s; seg 14.58s; per-word: count mismatch take=34 song=36 (span-level only)"
+ },
+ {
+  "scene": "S29",
+  "treatment": "mouth",
+  "take": "mv3_s29_t1.mp4",
+  "take_span": "0.00\u20138.34 (8.34s)",
+  "song_span": "245.10\u2013250.70 (5.60s)",
+  "ratio": "0.671",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +1.07s; seg 5.94s; per-word max|off| 1.33s (n=12)"
+ },
+ {
+  "scene": "S30",
+  "treatment": "structural",
+  "take": "mv3_s30_t3.mp4",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S31",
+  "treatment": "mantra-slice",
+  "take": "mv3_s31_t1.mp4",
+  "take_span": "0.00\u20136.32 (6.32s)",
+  "song_span": "segment 258.32\u2013268.50 (10.18s)",
+  "ratio": "1.611",
+  "warp": "COVER",
+  "verdict": "COVER (outside caps); bursts paced to segment, individual song repeats NOT matched (song ~0.74s/repeat vs take ~2.2s/burst)"
+ },
+ {
+  "scene": "S32",
+  "treatment": "mantra-slice",
+  "take": "mv3_s32_t1.mp4",
+  "take_span": "0.00\u20137.82 (7.82s)",
+  "song_span": "segment 268.50\u2013278.50 (10.00s)",
+  "ratio": "1.279",
+  "warp": "w=1.25",
+  "verdict": "grey-rescue (fast, band edge); bursts paced to segment, individual song repeats NOT matched (song ~0.74s/repeat vs take ~2.2s/burst)"
+ },
+ {
+  "scene": "S33",
+  "treatment": "mantra-slice",
+  "take": "mv3_s33_t1.mp4",
+  "take_span": "0.00\u20137.36 (7.36s)",
+  "song_span": "segment 278.50\u2013287.80 (9.30s)",
+  "ratio": "1.264",
+  "warp": "w=1.25",
+  "verdict": "grey-rescue (fast, band edge); bursts paced to segment, individual song repeats NOT matched (song ~0.74s/repeat vs take ~2.2s/burst)"
+ },
+ {
+  "scene": "S34",
+  "treatment": "mouth",
+  "take": "mv3_s34_t1.mp4",
+  "take_span": "0.00\u20137.16 (7.16s)",
+  "song_span": "287.80\u2013296.00 (8.20s)",
+  "ratio": "1.145",
+  "warp": "w=1.1453",
+  "verdict": "usable; end residual +0.00s; seg 8.90s; per-word max|off| 1.70s (n=12)"
+ },
+ {
+  "scene": "S35",
+  "treatment": "structural",
+  "take": "s25_t1+s25_t2 / s35_t1+s35_t2",
+  "take_span": "\u2014",
+  "song_span": "\u2014",
+  "ratio": "\u2014",
+  "warp": "\u2014",
+  "verdict": "video cover only; master audio carries the line"
+ },
+ {
+  "scene": "S36",
+  "treatment": "mouth",
+  "take": "mv3_s36_t2.mp4",
+  "take_span": "0.00\u20138.30 (8.30s)",
+  "song_span": "309.88\u2013321.44 (11.56s)",
+  "ratio": "1.393",
+  "warp": "w=1.2500",
+  "verdict": "grey-rescue (fast, band edge); end residual -1.19s; seg 12.20s; per-word max|off| 2.09s (n=14)"
+ },
+ {
+  "scene": "S37",
+  "treatment": "decision",
+  "take": "mv3_s37_t1.mp4",
+  "take_span": "0.00\u20135.82 (5.82s)",
+  "song_span": "first two repeats 323.32\u2013327.54 (4.22s)",
+  "ratio": "0.725",
+  "warp": "w=0.8",
+  "verdict": "grey-rescue (slow, band edge); opening bursts mouth-synced to first two repeats, remainder = own-hold loop montage cover"
+ },
+ {
+  "scene": "S38",
+  "treatment": "mouth",
+  "take": "mv3_s38_t2.mp4",
+  "take_span": "0.00\u20137.32 (7.32s)",
+  "song_span": "338.55\u2013343.91 (5.36s)",
+  "ratio": "0.732",
+  "warp": "w=0.8000",
+  "verdict": "grey-rescue (slow, band edge); end residual +0.50s; seg 6.00s; per-word max|off| 0.50s (n=13)"
+ },
+ {
+  "scene": "S39",
+  "treatment": "decision",
+  "take": "mv3_s39_t1.mp4",
+  "take_span": "0.00\u20133.14 (3.14s)",
+  "song_span": "first repeat 344.55\u2013346.35 (1.80s)",
+  "ratio": "0.573",
+  "warp": "COVER",
+  "verdict": "COVER (outside caps); single mantra cannot land on any song repeat within caps -> whole slot montage cover (take video + tail, captions song-timed)"
+ }
+]

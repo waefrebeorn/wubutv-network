@@ -1,0 +1,96 @@
+== s12a ==
+codec_name=h264
+width=1248
+height=704
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=8012303
+MD5 f268f41669804cfd7542f3995c3ddaca  takes/media-generation-mv9-s12a-t1-0-680d9adb-e325-4700-af4f-b5a58fb83807.mp4
+MOTION frames=240 mean_diff=8.57 longest_near_dup_run=1f first12=[53.2, 18.93, 0.29, 22.97, 0.3, 20.89, 0.32, 26.49, 0.31, 26.38, 0.25, 20.59]
+DOUBLING even_med=0.26 odd_med=18.41
+AUDIO rms=0.225
+  SEG [0.00-7.12] Need to go need to go need to go need to go
+WORDS n=12
+
+== s12b ==
+codec_name=h264
+width=1248
+height=704
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=6055962
+MD5 afc43a200c8164146cc9bcc0b26a9314  takes/media-generation-mv9-s12b-t1-0-0b972743-9611-4a2e-bdc3-b3f5eff8cd84.mp4
+MOTION frames=240 mean_diff=7.38 longest_near_dup_run=1f first12=[51.86, 0.51, 0.23, 19.49, 0.25, 19.3, 0.25, 14.74, 0.22, 12.66, 0.17, 10.99]
+DOUBLING even_med=0.24 odd_med=14.98
+AUDIO rms=0.109
+  SEG [0.00-5.02] Need to go, need to go, need to go
+WORDS n=9
+
+== s13a ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=5.000000
+size=5342413
+MD5 a65b7bc12aea8e10bb2ae85ad7aa61fa  takes/media-generation-mv9-s13a-t1-0-79630a94-9f97-4fb8-b810-6a11fdc5b419.mp4
+MOTION frames=120 mean_diff=9.71 longest_near_dup_run=1f first12=[0.2, 15.83, 0.2, 18.53, 0.35, 18.39, 0.37, 16.31, 0.39, 19.07, 0.27, 20.85]
+DOUBLING even_med=0.35 odd_med=19.32
+AUDIO rms=0.297
+  SEG [0.00-4.84] Pull the party light, gotta hold it, hold it, hold it, hold it
+WORDS n=13
+
+== s13b ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=7563421
+MD5 87729c0271746dd23f8e45044c0e9f47  takes/media-generation-mv9-s13b-t1-0-0c233528-0d9f-4361-b129-f575d9036e41.mp4
+MOTION frames=240 mean_diff=12.83 longest_near_dup_run=10f first12=[0.35, 0.1, 0.38, 0.14, 0.44, 0.14, 0.42, 0.24, 0.46, 0.13, 0.57, 0.17]
+DOUBLING even_med=0.38 odd_med=15.77
+AUDIO rms=0.158
+  SEG [8.60-10.00] Thanks for watching!
+WORDS n=3
+
+== s14a ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=13341040
+MD5 d4cbc94f950d05cf4341158ca90cfac3  takes/media-generation-mv9-s14a-t1-0-efd1ba47-db86-486c-8c03-574977475dc8.mp4
+MOTION frames=240 mean_diff=29.72 longest_near_dup_run=0f first12=[48.11, 50.5, 52.11, 51.61, 52.43, 54.38, 52.57, 51.79, 51.45, 53.6, 54.99, 56.67]
+DOUBLING even_med=24.88 odd_med=24.63
+AUDIO rms=0.133
+  SEG [0.00-1.36] Music
+WORDS n=1
+
+== s14b ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=15785844
+MD5 fde0326d520d3bc5dcc1b9166e58ada6  takes/media-generation-mv9-s14b-t1-0-c5049462-434b-4530-acea-14de23e46ec5.mp4
+MOTION frames=240 mean_diff=20.36 longest_near_dup_run=0f first12=[11.2, 14.68, 12.19, 14.01, 12.55, 15.85, 12.37, 15.85, 12.55, 16.8, 13.94, 16.93]
+DOUBLING even_med=20.33 odd_med=22.88
+AUDIO rms=0.178
+  SEG [8.60-10.00] Thanks for watching!
+WORDS n=3
+

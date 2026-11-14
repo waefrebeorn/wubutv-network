@@ -1,0 +1,97 @@
+{
+ "take": "takes/mv16_s10_t1.mp4",
+ "words": [
+  {
+   "w": "Oh,",
+   "start": 0.0,
+   "end": 0.5,
+   "p": 0.491
+  },
+  {
+   "w": "oh,",
+   "start": 0.76,
+   "end": 1.02,
+   "p": 0.718
+  },
+  {
+   "w": "I've",
+   "start": 1.34,
+   "end": 3.64,
+   "p": 0.616
+  },
+  {
+   "w": "been",
+   "start": 3.64,
+   "end": 3.9,
+   "p": 0.999
+  },
+  {
+   "w": "singing",
+   "start": 3.9,
+   "end": 4.44,
+   "p": 0.916
+  },
+  {
+   "w": "the",
+   "start": 4.44,
+   "end": 4.92,
+   "p": 0.99
+  },
+  {
+   "w": "wrong",
+   "start": 4.92,
+   "end": 5.26,
+   "p": 0.999
+  },
+  {
+   "w": "lyrics",
+   "start": 5.26,
+   "end": 5.94,
+   "p": 0.998
+  },
+  {
+   "w": "for",
+   "start": 5.94,
+   "end": 6.28,
+   "p": 0.971
+  },
+  {
+   "w": "a",
+   "start": 6.28,
+   "end": 6.52,
+   "p": 0.997
+  },
+  {
+   "w": "decade,",
+   "start": 6.52,
+   "end": 7.16,
+   "p": 1.0
+  },
+  {
+   "w": "nobody",
+   "start": 7.82,
+   "end": 8.28,
+   "p": 0.859
+  },
+  {
+   "w": "stopped",
+   "start": 8.28,
+   "end": 8.8,
+   "p": 0.948
+  },
+  {
+   "w": "me.",
+   "start": 8.8,
+   "end": 9.28,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.28,
+   "text": "Oh, oh, I've been singing the wrong lyrics for a decade, nobody stopped me.",
+   "avg_logprob": -0.344
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+  "S09": {
+    "warped_take": "mv2_s09_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      4.18
+    ],
+    "vocal_transitions": 101,
+    "vocal_changed_gt_0_5": 54,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.6289493949394935,
+    "gate": "PASS"
+  },
+  "S20": {
+    "warped_take": "mv2_s20_t2_warped.mp4",
+    "vocal_span": [
+      4.28,
+      6.66
+    ],
+    "vocal_transitions": 60,
+    "vocal_changed_gt_0_5": 47,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.5644699074074073,
+    "gate": "PASS"
+  },
+  "S17": {
+    "warped_take": "mv2_s17_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      7.0
+    ],
+    "vocal_transitions": 169,
+    "vocal_changed_gt_0_5": 100,
+    "vocal_near_dup_run": 10,
+    "vocal_mean_diff": 1.477508218277449,
+    "gate": "PASS"
+  },
+  "S14": {
+    "warped_take": "mv2_s14_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      5.16
+    ],
+    "vocal_transitions": 125,
+    "vocal_changed_gt_0_5": 56,
+    "vocal_near_dup_run": 9,
+    "vocal_mean_diff": 0.6330355555555555,
+    "gate": "PASS"
+  },
+  "S19": {
+    "warped_take": "mv2_s19_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      5.4
+    ],
+    "vocal_transitions": 130,
+    "vocal_changed_gt_0_5": 63,
+    "vocal_near_dup_run": 2,
+    "vocal_mean_diff": 1.044503205128205,
+    "gate": "PASS"
+  },
+  "S15": {
+    "warped_take": "mv2_s15_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      3.08
+    ],
+    "vocal_transitions": 75,
+    "vocal_changed_gt_0_5": 69,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 2.7499000000000002,
+    "gate": "PASS"
+  },
+  "S18": {
+    "warped_take": "mv2_s18_t1_warped.mp4",
+    "vocal_span": [
+      3.84,
+      9.66
+    ],
+    "vocal_transitions": 143,
+    "vocal_changed_gt_0_5": 62,
+    "vocal_near_dup_run": 2,
+    "vocal_mean_diff": 2.381635101010101,
+    "gate": "PASS"
+  },
+  "S20_scaled": {
+    "warped_take": "mv2_s20_t2_warped.mp4",
+    "vocal_span": [
+      4.414,
+      6.639
+    ],
+    "vocal_transitions": 56,
+    "vocal_changed_gt_0_5": 44,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.5793675595238095,
+    "gate": "PASS"
+  },
+  "S15_scaled": {
+    "warped_take": "mv2_s15_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      3.328
+    ],
+    "vocal_transitions": 81,
+    "vocal_changed_gt_0_5": 75,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 2.671025377229081,
+    "gate": "PASS"
+  }
+}

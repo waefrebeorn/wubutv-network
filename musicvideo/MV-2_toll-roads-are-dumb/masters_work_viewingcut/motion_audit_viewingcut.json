@@ -1,0 +1,1097 @@
+{
+  "mv2_s01_t4.mp4": {
+    "file": "mv2_s01_t4.mp4",
+    "role": "S01",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.038,
+    "vocal_span": [
+      0.0,
+      9.26
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.915
+  },
+  "mv2_s02_t4.mp4": {
+    "file": "mv2_s02_t4.mp4",
+    "role": "S02",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.111,
+    "vocal_span": [
+      1.3,
+      9.32
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 0.915
+  },
+  "mv2_s03_t2.mp4": {
+    "file": "mv2_s03_t2.mp4",
+    "role": "S03",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.931,
+    "vocal_span": [
+      3.0,
+      9.5
+    ],
+    "neardup_runs_ge6": [
+      [
+        8.292,
+        15,
+        0.625
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [
+      [
+        5.375,
+        15,
+        0.625
+      ]
+    ],
+    "vocal_longest_neardup_frames": 15,
+    "vocal_mean_diff": 3.941
+  },
+  "mv2_s04_t1.mp4": {
+    "file": "mv2_s04_t1.mp4",
+    "role": "GAP-A",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.47,
+    "vocal_span": [
+      0.0,
+      9.32
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 2.628
+  },
+  "mv2_s04_t5.mp4": {
+    "file": "mv2_s04_t5.mp4",
+    "role": "S04",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.027,
+    "vocal_span": [
+      1.32,
+      9.0
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 3.626
+  },
+  "mv2_s05_t6.mp4": {
+    "file": "mv2_s05_t6.mp4",
+    "role": "S05-FALLBACK",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.896,
+    "vocal_span": [
+      0.0,
+      3.64
+    ],
+    "neardup_runs_ge6": [
+      [
+        1.375,
+        9,
+        0.375
+      ],
+      [
+        2.042,
+        11,
+        0.458
+      ],
+      [
+        3.458,
+        9,
+        0.375
+      ],
+      [
+        4.458,
+        133,
+        5.542
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        4.792,
+        13,
+        0.542
+      ],
+      [
+        6.375,
+        29,
+        1.208
+      ],
+      [
+        7.792,
+        9,
+        0.375
+      ],
+      [
+        8.458,
+        11,
+        0.458
+      ],
+      [
+        9.375,
+        15,
+        0.625
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [
+      [
+        1.375,
+        9,
+        0.375
+      ],
+      [
+        2.042,
+        11,
+        0.458
+      ],
+      [
+        3.458,
+        6,
+        0.25
+      ]
+    ],
+    "vocal_longest_neardup_frames": 11,
+    "vocal_mean_diff": 0.509
+  },
+  "mv2_s06a_t2.mp4": {
+    "file": "mv2_s06a_t2.mp4",
+    "role": "S06a",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.12,
+    "vocal_span": [
+      0.0,
+      6.36
+    ],
+    "neardup_runs_ge6": [
+      [
+        8.292,
+        27,
+        1.125
+      ],
+      [
+        9.458,
+        13,
+        0.542
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        8.625,
+        15,
+        0.625
+      ],
+      [
+        9.708,
+        7,
+        0.292
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.346
+  },
+  "mv2_s06b_t1.mp4": {
+    "file": "mv2_s06b_t1.mp4",
+    "role": "S06b",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.029,
+    "vocal_span": [
+      0.0,
+      5.76
+    ],
+    "neardup_runs_ge6": [
+      [
+        8.958,
+        7,
+        0.292
+      ],
+      [
+        9.458,
+        13,
+        0.542
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 3.229
+  },
+  "mv2_s07_t2.mp4": {
+    "file": "mv2_s07_t2.mp4",
+    "role": "S07",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.816,
+    "vocal_span": [
+      1.38,
+      8.32
+    ],
+    "neardup_runs_ge6": [
+      [
+        9.125,
+        21,
+        0.875
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.181
+  },
+  "mv2_s08_t9.mp4": {
+    "file": "mv2_s08_t9.mp4",
+    "role": "S08",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.056,
+    "vocal_span": [
+      0.0,
+      4.88
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.92
+  },
+  "mv2_s09_t2_warped.mp4": {
+    "file": "mv2_s09_t2_warped.mp4",
+    "role": "S09",
+    "frames": 223,
+    "duration": 9.292,
+    "factor": 1.259,
+    "vocal_span": [
+      0.0,
+      4.18
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.629
+  },
+  "mv2_s10_t6.mp4": {
+    "file": "mv2_s10_t6.mp4",
+    "role": "S10",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.113,
+    "vocal_span": [
+      0.0,
+      3.54
+    ],
+    "neardup_runs_ge6": [
+      [
+        8.708,
+        7,
+        0.292
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 0.991
+  },
+  "mv2_s11_t3.mp4": {
+    "file": "mv2_s11_t3.mp4",
+    "role": "S11",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.095,
+    "vocal_span": [
+      0.0,
+      8.06
+    ],
+    "neardup_runs_ge6": [
+      [
+        2.292,
+        15,
+        0.625
+      ],
+      [
+        9.292,
+        17,
+        0.708
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [
+      [
+        2.292,
+        15,
+        0.625
+      ]
+    ],
+    "vocal_longest_neardup_frames": 15,
+    "vocal_mean_diff": 0.683
+  },
+  "mv2_s12_t3.mp4": {
+    "file": "mv2_s12_t3.mp4",
+    "role": "S12",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.031,
+    "vocal_span": [
+      0.0,
+      9.2
+    ],
+    "neardup_runs_ge6": [
+      [
+        4.542,
+        11,
+        0.458
+      ],
+      [
+        8.958,
+        9,
+        0.375
+      ],
+      [
+        9.708,
+        7,
+        0.292
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [
+      [
+        4.542,
+        11,
+        0.458
+      ],
+      [
+        8.958,
+        8,
+        0.333
+      ]
+    ],
+    "vocal_longest_neardup_frames": 11,
+    "vocal_mean_diff": 4.413
+  },
+  "mv2_s13_t3.mp4": {
+    "file": "mv2_s13_t3.mp4",
+    "role": "S13-FALLBACK",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 2.395,
+    "vocal_span": [
+      0.0,
+      3.64
+    ],
+    "neardup_runs_ge6": [
+      [
+        1.792,
+        11,
+        0.458
+      ],
+      [
+        3.625,
+        11,
+        0.458
+      ],
+      [
+        5.292,
+        23,
+        0.958
+      ],
+      [
+        6.292,
+        21,
+        0.875
+      ],
+      [
+        7.792,
+        53,
+        2.208
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        6.542,
+        11,
+        0.458
+      ],
+      [
+        8.708,
+        6,
+        0.25
+      ],
+      [
+        9.042,
+        6,
+        0.25
+      ],
+      [
+        9.333,
+        16,
+        0.667
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [
+      [
+        1.792,
+        11,
+        0.458
+      ]
+    ],
+    "vocal_longest_neardup_frames": 11,
+    "vocal_mean_diff": 0.969
+  },
+  "mv2_s14_t2_warped.mp4": {
+    "file": "mv2_s14_t2_warped.mp4",
+    "role": "S14",
+    "frames": 247,
+    "duration": 10.292,
+    "factor": 0.799,
+    "vocal_span": [
+      0.0,
+      5.16
+    ],
+    "neardup_runs_ge6": [
+      [
+        3.042,
+        9,
+        0.375
+      ],
+      [
+        5.958,
+        11,
+        0.458
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [
+      [
+        3.042,
+        9,
+        0.375
+      ]
+    ],
+    "vocal_longest_neardup_frames": 9,
+    "vocal_mean_diff": 0.633
+  },
+  "mv2_r1_t3.mp4": {
+    "file": "mv2_r1_t3.mp4",
+    "role": "R1",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.918,
+    "vocal_span": [
+      0.0,
+      5.84
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.585
+  },
+  "mv2_r2_t1.mp4": {
+    "file": "mv2_r2_t1.mp4",
+    "role": "R2",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.829,
+    "vocal_span": [
+      0.0,
+      4.38
+    ],
+    "neardup_runs_ge6": [
+      [
+        9.375,
+        12,
+        0.5
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.369
+  },
+  "mv2_r3_t4_warped.mp4": {
+    "file": "mv2_r3_t4_warped.mp4",
+    "role": "R3",
+    "frames": 201,
+    "duration": 8.375,
+    "factor": 1.25,
+    "vocal_span": [
+      0.0,
+      2.7
+    ],
+    "neardup_runs_ge6": [
+      [
+        7.417,
+        23,
+        0.958
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        7.583,
+        10,
+        0.417
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.656
+  },
+  "mv2_r4_t2_warped.mp4": {
+    "file": "mv2_r4_t2_warped.mp4",
+    "role": "R4",
+    "frames": 222,
+    "duration": 9.25,
+    "factor": 1.041,
+    "vocal_span": [
+      0.0,
+      2.52
+    ],
+    "neardup_runs_ge6": [
+      [
+        8.458,
+        19,
+        0.792
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        8.667,
+        14,
+        0.583
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.092
+  },
+  "mv2_r5_t3.mp4": {
+    "file": "mv2_r5_t3.mp4",
+    "role": "R5",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.133,
+    "vocal_span": [
+      0.0,
+      3.24
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.712
+  },
+  "mv2_s15_t2_warped.mp4": {
+    "file": "mv2_s15_t2_warped.mp4",
+    "role": "S15",
+    "frames": 259,
+    "duration": 10.792,
+    "factor": 0.8,
+    "vocal_span": [
+      0.0,
+      3.328
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 2.671
+  },
+  "mv2_s16_t7_warped.mp4": {
+    "file": "mv2_s16_t7_warped.mp4",
+    "role": "S16",
+    "frames": 228,
+    "duration": 9.5,
+    "factor": 1.245,
+    "vocal_span": [
+      0.0,
+      3.76
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.056
+  },
+  "mv2_s17_t2_warped.mp4": {
+    "file": "mv2_s17_t2_warped.mp4",
+    "role": "S17",
+    "frames": 185,
+    "duration": 7.708,
+    "factor": 1.25,
+    "vocal_span": [
+      0.0,
+      7.0
+    ],
+    "neardup_runs_ge6": [
+      [
+        3.625,
+        10,
+        0.417
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        3.667,
+        6,
+        0.25
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [
+      [
+        3.625,
+        10,
+        0.417
+      ]
+    ],
+    "vocal_longest_neardup_frames": 10,
+    "vocal_mean_diff": 1.478
+  },
+  "mv2_s18_t1_warped.mp4": {
+    "file": "mv2_s18_t1_warped.mp4",
+    "role": "S18",
+    "frames": 275,
+    "duration": 11.458,
+    "factor": 0.802,
+    "vocal_span": [
+      3.84,
+      9.66
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 2.382
+  },
+  "mv2_s19_t2_warped.mp4": {
+    "file": "mv2_s19_t2_warped.mp4",
+    "role": "S19",
+    "frames": 248,
+    "duration": 10.333,
+    "factor": 0.816,
+    "vocal_span": [
+      0.0,
+      5.4
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.045
+  },
+  "mv2_s20_t2_warped.mp4": {
+    "file": "mv2_s20_t2_warped.mp4",
+    "role": "S20",
+    "frames": 215,
+    "duration": 8.958,
+    "factor": 1.25,
+    "vocal_span": [
+      4.414,
+      6.639
+    ],
+    "neardup_runs_ge6": [
+      [
+        7.667,
+        10,
+        0.417
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.579
+  },
+  "mv2_r6_t4_warped.mp4": {
+    "file": "mv2_r6_t4_warped.mp4",
+    "role": "R6",
+    "frames": 191,
+    "duration": 7.958,
+    "factor": 1.25,
+    "vocal_span": [
+      1.355,
+      4.08
+    ],
+    "neardup_runs_ge6": [
+      [
+        0.042,
+        9,
+        0.375
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 2.224
+  },
+  "mv2_s21_t2.mp4": {
+    "file": "mv2_s21_t2.mp4",
+    "role": "S21",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.994,
+    "vocal_span": [
+      0.0,
+      9.18
+    ],
+    "neardup_runs_ge6": [
+      [
+        2.875,
+        9,
+        0.375
+      ],
+      [
+        5.208,
+        11,
+        0.458
+      ],
+      [
+        8.958,
+        13,
+        0.542
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [
+      [
+        2.875,
+        9,
+        0.375
+      ],
+      [
+        5.208,
+        11,
+        0.458
+      ],
+      [
+        8.958,
+        7,
+        0.292
+      ]
+    ],
+    "vocal_longest_neardup_frames": 11,
+    "vocal_mean_diff": 0.643
+  },
+  "mv2_r8_t1.mp4": {
+    "file": "mv2_r8_t1.mp4",
+    "role": "R8",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.042,
+    "vocal_span": [
+      0.0,
+      6.0
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.33
+  },
+  "mv2_s22_t4_warped.mp4": {
+    "file": "mv2_s22_t4_warped.mp4",
+    "role": "S22",
+    "frames": 248,
+    "duration": 10.333,
+    "factor": 0.8,
+    "vocal_span": [
+      3.27,
+      5.03
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.442
+  },
+  "mv2_s23_t4_warped.mp4": {
+    "file": "mv2_s23_t4_warped.mp4",
+    "role": "S23",
+    "frames": 192,
+    "duration": 8.0,
+    "factor": 1.2125,
+    "vocal_span": [
+      0.0,
+      1.94
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 0.939
+  },
+  "mv2_r11_t4.mp4": {
+    "file": "mv2_r11_t4.mp4",
+    "role": "R11",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.923,
+    "vocal_span": [
+      0.0,
+      0.72
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.058
+  },
+  "mv2_s24_t1.mp4": {
+    "file": "mv2_s24_t1.mp4",
+    "role": "S24",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.061,
+    "vocal_span": [
+      0.0,
+      6.3
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 2.861
+  },
+  "mv2_s25_t2.mp4": {
+    "file": "mv2_s25_t2.mp4",
+    "role": "S25",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.111,
+    "vocal_span": [
+      0.0,
+      2.2
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 0.949
+  },
+  "mv2_s26_t2.mp4": {
+    "file": "mv2_s26_t2.mp4",
+    "role": "S26",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.906,
+    "vocal_span": [
+      0.0,
+      2.7
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 0.838
+  },
+  "mv2_s27_t2.mp4": {
+    "file": "mv2_s27_t2.mp4",
+    "role": "S27-tail",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 0.977,
+    "vocal_span": null,
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": null,
+    "vocal_mean_diff": null
+  },
+  "mv2_s22_t3.mp4": {
+    "file": "mv2_s22_t3.mp4",
+    "role": "FILLER-s22t3",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.0,
+    "vocal_span": [
+      0.0,
+      4.18
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.848
+  },
+  "mv2_s23_t9.mp4": {
+    "file": "mv2_s23_t9.mp4",
+    "role": "FILLER-s23t9",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.0,
+    "vocal_span": [
+      0.0,
+      4.32
+    ],
+    "neardup_runs_ge6": [
+      [
+        9.125,
+        21,
+        0.875
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        9.292,
+        17,
+        0.708
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 2.189
+  },
+  "mv2_s13_t4.mp4": {
+    "file": "mv2_s13_t4.mp4",
+    "role": "FILLER-s13t4",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.0,
+    "vocal_span": [
+      0.0,
+      4.28
+    ],
+    "neardup_runs_ge6": [
+      [
+        4.208,
+        17,
+        0.708
+      ],
+      [
+        5.042,
+        53,
+        2.208
+      ],
+      [
+        7.458,
+        43,
+        1.792
+      ],
+      [
+        9.458,
+        13,
+        0.542
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.605
+  },
+  "mv2_r6_t7.mp4": {
+    "file": "mv2_r6_t7.mp4",
+    "role": "FILLER-r6t7",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.0,
+    "vocal_span": [
+      0.0,
+      5.02
+    ],
+    "neardup_runs_ge6": [
+      [
+        7.042,
+        69,
+        2.875
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        8.042,
+        45,
+        1.875
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 0.813
+  },
+  "mv2_r3_t7.mp4": {
+    "file": "mv2_r3_t7.mp4",
+    "role": "FILLER-r3t7",
+    "frames": 240,
+    "duration": 10.0,
+    "factor": 1.0,
+    "vocal_span": [
+      0.0,
+      3.9
+    ],
+    "neardup_runs_ge6": [
+      [
+        8.708,
+        14,
+        0.583
+      ]
+    ],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.388
+  },
+  "mv2_s23_t5_warped.mp4": {
+    "file": "mv2_s23_t5_warped.mp4",
+    "role": "SPARE-S23t5w",
+    "frames": 191,
+    "duration": 7.958,
+    "factor": 1.2,
+    "vocal_span": [
+      0.0,
+      1.92
+    ],
+    "neardup_runs_ge6": [],
+    "frozen_runs_ge6": [],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.262
+  },
+  "mv2_s16_t8_warped.mp4": {
+    "file": "mv2_s16_t8_warped.mp4",
+    "role": "SPARE-S16t8w",
+    "frames": 182,
+    "duration": 7.583,
+    "factor": 1.252,
+    "vocal_span": [
+      0.0,
+      3.78
+    ],
+    "neardup_runs_ge6": [
+      [
+        6.167,
+        34,
+        1.417
+      ]
+    ],
+    "frozen_runs_ge6": [
+      [
+        6.458,
+        8,
+        0.333
+      ],
+      [
+        7.0,
+        14,
+        0.583
+      ]
+    ],
+    "vocal_neardup_runs_ge6": [],
+    "vocal_longest_neardup_frames": 0,
+    "vocal_mean_diff": 1.901
+  }
+}

@@ -1,0 +1,109 @@
+{
+ "take": "takes/mv16_s11_t1.mp4",
+ "words": [
+  {
+   "w": "Wrong",
+   "start": 0.0,
+   "end": 0.64,
+   "p": 0.821
+  },
+  {
+   "w": "for",
+   "start": 0.64,
+   "end": 1.1,
+   "p": 0.953
+  },
+  {
+   "w": "oh",
+   "start": 1.1,
+   "end": 1.48,
+   "p": 0.447
+  },
+  {
+   "w": "years,",
+   "start": 1.48,
+   "end": 2.12,
+   "p": 0.897
+  },
+  {
+   "w": "and",
+   "start": 2.64,
+   "end": 3.02,
+   "p": 0.962
+  },
+  {
+   "w": "I'm",
+   "start": 3.02,
+   "end": 3.3,
+   "p": 0.977
+  },
+  {
+   "w": "still",
+   "start": 3.3,
+   "end": 3.7,
+   "p": 0.999
+  },
+  {
+   "w": "going",
+   "start": 3.7,
+   "end": 4.62,
+   "p": 0.999
+  },
+  {
+   "w": "Wrong",
+   "start": 4.62,
+   "end": 5.54,
+   "p": 0.565
+  },
+  {
+   "w": "for",
+   "start": 5.54,
+   "end": 6.16,
+   "p": 0.997
+  },
+  {
+   "w": "years,",
+   "start": 6.16,
+   "end": 6.88,
+   "p": 0.997
+  },
+  {
+   "w": "and",
+   "start": 7.44,
+   "end": 7.76,
+   "p": 0.999
+  },
+  {
+   "w": "I'm",
+   "start": 7.76,
+   "end": 8.04,
+   "p": 0.998
+  },
+  {
+   "w": "still",
+   "start": 8.04,
+   "end": 8.4,
+   "p": 0.999
+  },
+  {
+   "w": "going",
+   "start": 8.4,
+   "end": 9.24,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.62,
+   "text": "Wrong for oh years, and I'm still going",
+   "avg_logprob": -0.229
+  },
+  {
+   "start": 4.62,
+   "end": 9.24,
+   "text": "Wrong for years, and I'm still going",
+   "avg_logprob": -0.229
+  }
+ ]
+}

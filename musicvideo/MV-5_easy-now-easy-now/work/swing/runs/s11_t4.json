@@ -1,0 +1,591 @@
+{
+ "take": "mv5_s11_t4.mp4",
+ "take_duration_s": 10.027,
+ "prompted_line": "Vendor at the corner, calling mango sweet, socks in the sand, and the tide tapping time with our feet",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 85.16-93.8",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Calling",
+    1.14,
+    2.18
+   ],
+   [
+    "mango",
+    2.18,
+    2.72
+   ],
+   [
+    "sweet",
+    2.72,
+    3.8
+   ],
+   [
+    "Socks",
+    5.18,
+    6.22
+   ],
+   [
+    "in",
+    6.22,
+    6.44
+   ],
+   [
+    "the",
+    6.44,
+    6.64
+   ],
+   [
+    "sand",
+    6.64,
+    7.16
+   ],
+   [
+    "Time",
+    7.16,
+    7.86
+   ],
+   [
+    "with",
+    7.86,
+    8.2
+   ],
+   [
+    "our",
+    8.2,
+    8.56
+   ],
+   [
+    "feet",
+    8.56,
+    9.04
+   ]
+  ],
+  "prompted": [
+   [
+    "Calling",
+    1.3,
+    2.18
+   ],
+   [
+    "mango",
+    2.18,
+    2.72
+   ],
+   [
+    "sweet,",
+    2.72,
+    3.82
+   ],
+   [
+    "socks",
+    3.84,
+    6.0
+   ],
+   [
+    "in",
+    6.0,
+    6.44
+   ],
+   [
+    "the",
+    6.44,
+    6.64
+   ],
+   [
+    "sand,",
+    6.64,
+    7.16
+   ],
+   [
+    "time",
+    7.6,
+    7.88
+   ],
+   [
+    "with",
+    7.88,
+    8.22
+   ],
+   [
+    "our",
+    8.22,
+    8.56
+   ],
+   [
+    "feet",
+    8.56,
+    9.06
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.003,
+ "words": [
+  {
+   "song_word": "Vendor",
+   "song_start": 85.16,
+   "song_end": 86.0,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "at",
+   "song_start": 86.0,
+   "song_end": 86.16,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "the",
+   "song_start": 86.16,
+   "song_end": 86.26,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "corner",
+   "song_start": 86.26,
+   "song_end": 86.46,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "Calling",
+   "song_start": 86.68,
+   "song_end": 86.72,
+   "take_word": "Calling",
+   "take_start": 1.14,
+   "take_end": 2.18,
+   "source": "unprompted",
+   "raw_offset": -85.54,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.04,
+    "song_interval_s": 0.04,
+    "playback_speed": 26.0,
+    "setpts_factor": 0.0385,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 26.00x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "mango",
+   "song_start": 86.72,
+   "song_end": 86.82,
+   "take_word": "mango",
+   "take_start": 2.18,
+   "take_end": 2.72,
+   "source": "unprompted",
+   "raw_offset": -84.54,
+   "swing_offset": 1.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.54,
+    "song_interval_s": 0.1,
+    "playback_speed": 5.4,
+    "setpts_factor": 0.1852,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 5.40x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "sweet",
+   "song_start": 86.82,
+   "song_end": 87.12,
+   "take_word": "sweet",
+   "take_start": 2.72,
+   "take_end": 3.8,
+   "source": "unprompted",
+   "raw_offset": -84.1,
+   "swing_offset": 1.44,
+   "interval_to_next_anchor": {
+    "take_interval_s": 2.46,
+    "song_interval_s": 0.8,
+    "playback_speed": 3.075,
+    "setpts_factor": 0.3252,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.07x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "Socks",
+   "song_start": 87.62,
+   "song_end": 88.02,
+   "take_word": "Socks",
+   "take_start": 5.18,
+   "take_end": 6.22,
+   "source": "unprompted",
+   "raw_offset": -82.44,
+   "swing_offset": 3.1,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.04,
+    "song_interval_s": 0.4,
+    "playback_speed": 2.6,
+    "setpts_factor": 0.3846,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "in",
+   "song_start": 88.02,
+   "song_end": 88.36,
+   "take_word": "in",
+   "take_start": 6.22,
+   "take_end": 6.44,
+   "source": "unprompted",
+   "raw_offset": -81.8,
+   "swing_offset": 3.74,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.22,
+    "song_interval_s": 0.34,
+    "playback_speed": 0.647,
+    "setpts_factor": 1.5455,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 88.36,
+   "song_end": 88.52,
+   "take_word": "the",
+   "take_start": 6.44,
+   "take_end": 6.64,
+   "source": "unprompted",
+   "raw_offset": -81.92,
+   "swing_offset": 3.62,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.2,
+    "song_interval_s": 0.16,
+    "playback_speed": 1.25,
+    "setpts_factor": 0.8,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "sand",
+   "song_start": 88.52,
+   "song_end": 88.94,
+   "take_word": "sand",
+   "take_start": 6.64,
+   "take_end": 7.16,
+   "source": "unprompted",
+   "raw_offset": -81.88,
+   "swing_offset": 3.66,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.52,
+    "song_interval_s": 2.9,
+    "playback_speed": 0.179,
+    "setpts_factor": 5.5769,
+    "spans_song_words": 5
+   },
+   "verdict": "BAD-out-of-caps",
+   "notes": [
+    "interval needs playback 0.18x \u2014 past the 2x-slow cap; montage, never stretch"
+   ]
+  },
+  {
+   "song_word": "And",
+   "song_start": 88.94,
+   "song_end": 89.56,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "the",
+   "song_start": 89.56,
+   "song_end": 89.68,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "tide",
+   "song_start": 89.68,
+   "song_end": 90.14,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "tapping",
+   "song_start": 90.42,
+   "song_end": 90.96,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "time",
+   "song_start": 91.42,
+   "song_end": 91.6,
+   "take_word": "Time",
+   "take_start": 7.16,
+   "take_end": 7.86,
+   "source": "unprompted",
+   "raw_offset": -84.26,
+   "swing_offset": 1.28,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.7,
+    "song_interval_s": 0.18,
+    "playback_speed": 3.889,
+    "setpts_factor": 0.2571,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.89x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "with",
+   "song_start": 91.6,
+   "song_end": 91.9,
+   "take_word": "with",
+   "take_start": 7.86,
+   "take_end": 8.2,
+   "source": "unprompted",
+   "raw_offset": -83.74,
+   "swing_offset": 1.8,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.34,
+    "song_interval_s": 0.3,
+    "playback_speed": 1.133,
+    "setpts_factor": 0.8824,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "our",
+   "song_start": 91.9,
+   "song_end": 92.32,
+   "take_word": "our",
+   "take_start": 8.2,
+   "take_end": 8.56,
+   "source": "unprompted",
+   "raw_offset": -83.7,
+   "swing_offset": 1.84,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.42,
+    "playback_speed": 0.857,
+    "setpts_factor": 1.1667,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "feet",
+   "song_start": 92.32,
+   "song_end": 93.08,
+   "take_word": "feet",
+   "take_start": 8.56,
+   "take_end": 9.04,
+   "source": "unprompted",
+   "raw_offset": -83.76,
+   "swing_offset": 1.78,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.48,
+    "song_interval_s": 0.76,
+    "playback_speed": 0.632,
+    "setpts_factor": 1.5833,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  }
+ ],
+ "extras": [],
+ "keyframes": [
+  {
+   "word": "Calling",
+   "song_time": 86.68,
+   "take_time": 1.14
+  },
+  {
+   "word": "mango",
+   "song_time": 86.72,
+   "take_time": 2.18
+  },
+  {
+   "word": "sweet",
+   "song_time": 86.82,
+   "take_time": 2.72
+  },
+  {
+   "word": "Socks",
+   "song_time": 87.62,
+   "take_time": 5.18
+  },
+  {
+   "word": "in",
+   "song_time": 88.02,
+   "take_time": 6.22
+  },
+  {
+   "word": "the",
+   "song_time": 88.36,
+   "take_time": 6.44
+  },
+  {
+   "word": "time",
+   "song_time": 91.42,
+   "take_time": 7.16
+  },
+  {
+   "word": "with",
+   "song_time": 91.6,
+   "take_time": 7.86
+  },
+  {
+   "word": "our",
+   "song_time": 91.9,
+   "take_time": 8.2
+  },
+  {
+   "word": "feet",
+   "song_time": 92.32,
+   "take_time": 8.56
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "Vendor",
+    "at",
+    "the",
+    "corner"
+   ],
+   "span_song": [
+    85.16,
+    86.46
+   ],
+   "cut_out_beat": 84.637,
+   "return_onset": 86.68,
+   "return_beat": 86.936,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "sand",
+    "And",
+    "the",
+    "tide",
+    "tapping"
+   ],
+   "span_song": [
+    88.52,
+    90.96
+   ],
+   "cut_out_beat": 88.05,
+   "return_onset": 91.42,
+   "return_beat": 91.44,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "BAD-missing": 8,
+  "WARPABLE": 10,
+  "BAD-out-of-caps": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

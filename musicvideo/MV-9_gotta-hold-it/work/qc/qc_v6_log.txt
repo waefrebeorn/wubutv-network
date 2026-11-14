@@ -1,0 +1,78 @@
+== s11a-t2 ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=4784580
+MD5 de85a2c7d25d6d1ab1e0a0b82d39654b  takes/media-generation-mv9-s11a-t2-0-19ee2d62-59f6-4402-bb94-cc1e002ea566.mp4
+MOTION frames=240 mean_diff=6.02 longest_near_dup_run=1f first12=[0.21, 1.27, 0.27, 1.74, 0.84, 2.19, 1.02, 1.96, 1.22, 2.1, 0.74, 1.74]
+DOUBLING even_med=5.25 odd_med=6.30
+AUDIO rms=0.025
+WORDS n=0
+
+== s15 ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=7313558
+MD5 1c43ffe77f7b89e6438a57b0aa86d97c  takes/media-generation-mv9-s15-t1-0-bc2e3bf6-2164-4252-9543-880bab54adbb.mp4
+MOTION frames=240 mean_diff=13.18 longest_near_dup_run=1f first12=[18.4, 19.2, 19.29, 19.12, 18.89, 18.83, 18.82, 18.91, 18.94, 19.37, 19.45, 19.38]
+DOUBLING even_med=15.26 odd_med=15.38
+AUDIO rms=0.050
+WORDS n=0
+
+== s12a-t2 ==
+codec_name=h264
+width=1248
+height=704
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=6209725
+MD5 0c74abc60c7acf45235fa851e6834590  takes/media-generation-mv9-s12a-t2-0-c06669eb-132f-4ef0-b5a3-84d368a0321f.mp4
+MOTION frames=240 mean_diff=6.83 longest_near_dup_run=1f first12=[55.66, 0.52, 0.23, 14.64, 0.26, 15.97, 0.27, 12.82, 0.27, 15.18, 0.24, 20.39]
+DOUBLING even_med=0.22 odd_med=13.99
+AUDIO rms=0.136
+  SEG [0.00-6.94] Need to go, need to go, need to go, need to go
+WORDS n=12
+
+== s12b-t2 ==
+codec_name=h264
+width=1248
+height=704
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=6068093
+MD5 6c3cbc51aa9a6f573d6b28275f7765a3  takes/media-generation-mv9-s12b-t2-0-9c51d6a2-2511-4bba-8595-79974566a036.mp4
+MOTION frames=240 mean_diff=7.18 longest_near_dup_run=1f first12=[0.16, 12.88, 0.16, 13.77, 0.19, 14.21, 0.24, 13.69, 0.23, 12.43, 0.2, 13.92]
+DOUBLING even_med=0.23 odd_med=14.21
+AUDIO rms=0.128
+  SEG [0.00-7.02] Need to go, need to go, need to go
+WORDS n=9
+
+== s13b-t2 ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=8494036
+MD5 09ed6233e54cb6786b99d52a231c25f4  takes/media-generation-mv9-s13b-t2-0-f81d407f-6f25-4047-9b6d-ae6ae25eed6c.mp4
+MOTION frames=240 mean_diff=9.71 longest_near_dup_run=2f first12=[0.36, 0.22, 0.8, 0.32, 0.34, 1.03, 0.61, 3.51, 2.73, 11.79, 5.89, 14.2]
+DOUBLING even_med=0.83 odd_med=11.10
+AUDIO rms=0.138
+  SEG [7.12-9.92] Thanks for watching!
+WORDS n=3
+

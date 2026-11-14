@@ -1,0 +1,38 @@
+{
+ "take": "R16B",
+ "line": "C1.Tb Nobody man [inferred split]",
+ "song_window": [
+  69.85,
+  71.9
+ ],
+ "song_span_s": 2.05,
+ "take_span_s": 3.52,
+ "overall_speedup": 1.717,
+ "head_reanchor": {
+  "audio_onset": 0.0,
+  "visible_mouth_frame": 17,
+  "visible_mouth_t": 0.708,
+  "shift_s": 0.708,
+  "mouth_score_thr": 0.1109
+ },
+ "anchors_used": 2,
+ "words": 2,
+ "keyframes_take_to_song": [
+  [
+   0.708,
+   0.0
+  ],
+  [
+   2.68,
+   1.03
+  ],
+  [
+   3.52,
+   2.05
+  ]
+ ],
+ "rescue_frames": 49,
+ "motion_mean_diff_small": 3.379,
+ "motion_max_neardup_run_frames": 1,
+ "mouthgate_grid": "R16B_mouthgate.jpg (rows = song words in order; left = onset, right = onset+1; crop x30-62% y26-60%)"
+}

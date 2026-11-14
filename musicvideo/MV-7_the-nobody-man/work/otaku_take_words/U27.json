@@ -1,0 +1,57 @@
+{
+ "track": "work/otaku_qc/U27_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 6,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 2.14,
+   "prob": 0.798
+  },
+  {
+   "word": "the",
+   "start": 2.14,
+   "end": 2.38,
+   "prob": 0.941
+  },
+  {
+   "word": "nobody",
+   "start": 2.38,
+   "end": 3.02,
+   "prob": 0.673
+  },
+  {
+   "word": "man.",
+   "start": 3.02,
+   "end": 3.82,
+   "prob": 0.928
+  },
+  {
+   "word": "Nobody",
+   "start": 4.78,
+   "end": 5.48,
+   "prob": 0.681
+  },
+  {
+   "word": "man.",
+   "start": 5.48,
+   "end": 6.52,
+   "prob": 0.954
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.82,
+   "text": "I'm the nobody man."
+  },
+  {
+   "start": 4.78,
+   "end": 6.52,
+   "text": "Nobody man."
+  }
+ ]
+}

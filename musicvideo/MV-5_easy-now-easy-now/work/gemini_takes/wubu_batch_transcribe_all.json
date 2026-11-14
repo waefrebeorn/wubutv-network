@@ -1,0 +1,1685 @@
+{
+  "app": "WuBu Transcribe",
+  "exportedAt": "2026-11-05T19:52:04.672Z",
+  "model": "gemini-3.5-transcribe",
+  "totalFiles": 21,
+  "files": [
+    {
+      "file": "mv5_s01_t1.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 16,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Easy",
+          "start": 0.2,
+          "end": 0.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now,",
+          "start": 0.6,
+          "end": 1.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "easy",
+          "start": 1.7,
+          "end": 2.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 2.3,
+          "end": 2.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "We",
+          "start": 2.9,
+          "end": 3.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "ride,",
+          "start": 3.1,
+          "end": 4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "we",
+          "start": 4,
+          "end": 4.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "ride.",
+          "start": 4.3,
+          "end": 5.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Easy",
+          "start": 5.2,
+          "end": 5.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now,",
+          "start": 5.8,
+          "end": 6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "easy",
+          "start": 6,
+          "end": 6.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 6.2,
+          "end": 7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Till",
+          "start": 8,
+          "end": 8.1,
+          "speaker": "spk:1"
+        },
+        {
+          "word": "the",
+          "start": 8.1,
+          "end": 8.2,
+          "speaker": "spk:1"
+        },
+        {
+          "word": "morning",
+          "start": 8.6,
+          "end": 8.8,
+          "speaker": "spk:1"
+        },
+        {
+          "word": "comes.",
+          "start": 8.8,
+          "end": 9.6,
+          "speaker": "spk:1"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.2,
+          "end": 7,
+          "text": "Easy now, easy now. We ride, we ride. Easy now, easy now."
+        },
+        {
+          "speaker": "spk:1",
+          "start": 8,
+          "end": 9.6,
+          "text": "Till the morning comes."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s03_t1.wav",
+      "kind": "Take",
+      "duration": 5.034688,
+      "totalWords": 6,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "たら、",
+          "start": 0.1,
+          "end": 0.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "たら、",
+          "start": 1,
+          "end": 1.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "たら、",
+          "start": 1.6,
+          "end": 2.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "たら、",
+          "start": 2.1,
+          "end": 2.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "たら、",
+          "start": 2.7,
+          "end": 3.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "たら。",
+          "start": 3.3,
+          "end": 3.8,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 3.8,
+          "text": "たら、 たら、 たら、 たら、 たら、 たら。"
+        }
+      ]
+    },
+    {
+      "file": "mv5_s04_t1.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 22,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Bare",
+          "start": 0,
+          "end": 0.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "feet",
+          "start": 0.4,
+          "end": 0.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "on",
+          "start": 0.8,
+          "end": 1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 1,
+          "end": 1.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "boardwalk,",
+          "start": 1.1,
+          "end": 2.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "salt",
+          "start": 2.1,
+          "end": 2.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "on",
+          "start": 2.5,
+          "end": 2.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "my",
+          "start": 2.7,
+          "end": 2.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "skin.",
+          "start": 2.9,
+          "end": 3.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "You",
+          "start": 3.6,
+          "end": 3.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "came",
+          "start": 3.8,
+          "end": 4.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "in",
+          "start": 4.1,
+          "end": 4.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "laughing,",
+          "start": 4.2,
+          "end": 4.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "said,",
+          "start": 4.8,
+          "end": 5.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "come",
+          "start": 5.1,
+          "end": 5.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "on,",
+          "start": 5.4,
+          "end": 5.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "let's",
+          "start": 5.7,
+          "end": 6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "begin.",
+          "start": 6,
+          "end": 6.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Blue",
+          "start": 7.1,
+          "end": 7.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "shirt,",
+          "start": 7.4,
+          "end": 7.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "red",
+          "start": 7.8,
+          "end": 8.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "bicycle.",
+          "start": 8.1,
+          "end": 8.8,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0,
+          "end": 8.8,
+          "text": "Bare feet on the boardwalk, salt on my skin. You came in laughing, said, come on, let's begin. Blue shirt, red bicycle."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s05_t1.wav",
+      "kind": "Take",
+      "duration": 9.002688,
+      "totalWords": 17,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Rolling",
+          "start": 0.1,
+          "end": 0.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "past",
+          "start": 0.7,
+          "end": 1.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 1.2,
+          "end": 1.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "pier.",
+          "start": 1.3,
+          "end": 2.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "I",
+          "start": 3,
+          "end": 3.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "was",
+          "start": 3.1,
+          "end": 3.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "posted",
+          "start": 3.3,
+          "end": 3.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "up",
+          "start": 3.8,
+          "end": 4.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "right",
+          "start": 4.1,
+          "end": 4.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "here.",
+          "start": 4.4,
+          "end": 5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Now",
+          "start": 5.2,
+          "end": 5.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "you're",
+          "start": 5.5,
+          "end": 5.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "pulling",
+          "start": 5.7,
+          "end": 6.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "near.",
+          "start": 6.2,
+          "end": 6.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Backpack",
+          "start": 7.1,
+          "end": 8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "half",
+          "start": 8,
+          "end": 8.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "zipped.",
+          "start": 8.3,
+          "end": 8.7,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 8.7,
+          "text": "Rolling past the pier. I was posted up right here. Now you're pulling near. Backpack half zipped."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s06_t1.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 14,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "keys",
+          "start": 0.1,
+          "end": 0.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "in",
+          "start": 0.6,
+          "end": 0.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "your",
+          "start": 0.8,
+          "end": 1.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "hand.",
+          "start": 1.2,
+          "end": 2.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "You",
+          "start": 3.4,
+          "end": 3.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "nodded",
+          "start": 3.6,
+          "end": 4.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "at",
+          "start": 4.3,
+          "end": 4.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 4.5,
+          "end": 4.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "waves",
+          "start": 4.7,
+          "end": 5.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "like",
+          "start": 5.4,
+          "end": 5.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "yeah,",
+          "start": 5.7,
+          "end": 6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "they",
+          "start": 6,
+          "end": 6.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "already",
+          "start": 6.4,
+          "end": 7.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "understand.",
+          "start": 7.4,
+          "end": 8.8,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 8.8,
+          "text": "keys in your hand. You nodded at the waves like yeah, they already understand."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s07_t1.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 20,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Slow",
+          "start": 0.1,
+          "end": 0.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "down,",
+          "start": 0.6,
+          "end": 1.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "take",
+          "start": 1.4,
+          "end": 1.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "your",
+          "start": 1.8,
+          "end": 2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "time.",
+          "start": 2,
+          "end": 3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Let",
+          "start": 3.1,
+          "end": 3.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 3.4,
+          "end": 3.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "hard",
+          "start": 3.6,
+          "end": 4.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "week",
+          "start": 4.1,
+          "end": 4.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "fade.",
+          "start": 4.4,
+          "end": 5.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "One",
+          "start": 5.2,
+          "end": 5.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "small",
+          "start": 5.6,
+          "end": 6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "look",
+          "start": 6,
+          "end": 6.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "from",
+          "start": 6.2,
+          "end": 6.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "you",
+          "start": 6.5,
+          "end": 7.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "and",
+          "start": 7.5,
+          "end": 7.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "my",
+          "start": 7.7,
+          "end": 7.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "whole",
+          "start": 7.9,
+          "end": 8.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "head",
+          "start": 8.5,
+          "end": 8.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "replays.",
+          "start": 8.8,
+          "end": 10,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 10,
+          "text": "Slow down, take your time. Let the hard week fade. One small look from you and my whole head replays."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s08_t2.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 8,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Easy",
+          "start": 0.5,
+          "end": 1.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now,",
+          "start": 1.1,
+          "end": 1.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "easy",
+          "start": 2.1,
+          "end": 2.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 2.8,
+          "end": 3.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Easy",
+          "start": 5.3,
+          "end": 6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now,",
+          "start": 6,
+          "end": 6.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "easy",
+          "start": 6.5,
+          "end": 7.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 7.2,
+          "end": 8,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.5,
+          "end": 8,
+          "text": "Easy now, easy now. Easy now, easy now."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s09_t1.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 12,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Is",
+          "start": 0.2,
+          "end": 0.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 0.5,
+          "end": 0.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 0.6,
+          "end": 1.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Is",
+          "start": 1.8,
+          "end": 2.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 2.2,
+          "end": 2.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 2.4,
+          "end": 3.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Is",
+          "start": 3.4,
+          "end": 3.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 3.9,
+          "end": 4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 4,
+          "end": 4.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Is",
+          "start": 4.9,
+          "end": 5.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 5.4,
+          "end": 5.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 5.5,
+          "end": 6.6,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.2,
+          "end": 6.6,
+          "text": "Is it now? Is it now? Is it now? Is it now?"
+        }
+      ]
+    },
+    {
+      "file": "mv5_s10_t1.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 1,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "2018",
+          "start": 5.6,
+          "end": 5.9,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 5.6,
+          "end": 5.9,
+          "text": "2018"
+        }
+      ]
+    },
+    {
+      "file": "mv5_s11_t4.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 11,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Calling",
+          "start": 1.7,
+          "end": 2.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "mango",
+          "start": 2.3,
+          "end": 3.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "sweet.",
+          "start": 3.2,
+          "end": 3.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Socks",
+          "start": 5.8,
+          "end": 6.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "in",
+          "start": 6.2,
+          "end": 6.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 6.5,
+          "end": 6.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "sand,",
+          "start": 6.7,
+          "end": 7.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "time",
+          "start": 7.5,
+          "end": 8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "with",
+          "start": 8,
+          "end": 8.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "our",
+          "start": 8.4,
+          "end": 8.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "feet.",
+          "start": 8.6,
+          "end": 9.4,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 1.7,
+          "end": 9.4,
+          "text": "Calling mango sweet. Socks in the sand, time with our feet."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s12_t1.wav",
+      "kind": "Take",
+      "duration": 9.002688,
+      "totalWords": 12,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Your",
+          "start": 0.1,
+          "end": 0.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "laugh",
+          "start": 0.2,
+          "end": 0.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "hit",
+          "start": 0.8,
+          "end": 1.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 1.1,
+          "end": 1.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "air.",
+          "start": 1.4,
+          "end": 2.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "I",
+          "start": 4.2,
+          "end": 4.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "forgot",
+          "start": 4.4,
+          "end": 5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 5,
+          "end": 5.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "list,",
+          "start": 5.1,
+          "end": 5.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "forgot",
+          "start": 5.9,
+          "end": 6.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 6.5,
+          "end": 6.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "bills.",
+          "start": 6.6,
+          "end": 7.5,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 7.5,
+          "text": "Your laugh hit the air. I forgot the list, forgot the bills."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s15_t1.wav",
+      "kind": "Take",
+      "duration": 5.034688,
+      "totalWords": 5,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "and",
+          "start": 0.3,
+          "end": 0.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "my",
+          "start": 0.6,
+          "end": 1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "whole",
+          "start": 1,
+          "end": 1.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "head",
+          "start": 1.8,
+          "end": 2.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "replaced.",
+          "start": 2.5,
+          "end": 4.3,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.3,
+          "end": 4.3,
+          "text": "and my whole head replaced."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s18_t1.wav",
+      "kind": "Take",
+      "duration": 9.002688,
+      "totalWords": 8,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 1,
+          "end": 1.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "falling,",
+          "start": 1.2,
+          "end": 2.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "I'm",
+          "start": 2.7,
+          "end": 3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "falling.",
+          "start": 3,
+          "end": 4.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Just",
+          "start": 5.7,
+          "end": 6.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "two",
+          "start": 6.1,
+          "end": 6.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "small",
+          "start": 6.7,
+          "end": 7.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "sparks.",
+          "start": 7.2,
+          "end": 8,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 1,
+          "end": 8,
+          "text": "I'm falling, I'm falling. Just two small sparks."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s19b_t1.wav",
+      "kind": "Take",
+      "duration": 5.034688,
+      "totalWords": 11,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "move",
+          "start": 0.1,
+          "end": 0.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "with",
+          "start": 0.4,
+          "end": 0.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it,",
+          "start": 0.7,
+          "end": 1.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "hand",
+          "start": 1.5,
+          "end": 1.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "in",
+          "start": 1.9,
+          "end": 2.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "my",
+          "start": 2.1,
+          "end": 2.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "hand,",
+          "start": 2.3,
+          "end": 2.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "no",
+          "start": 2.9,
+          "end": 3.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "speech,",
+          "start": 3.2,
+          "end": 3.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "no",
+          "start": 3.6,
+          "end": 3.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "show.",
+          "start": 3.8,
+          "end": 4.5,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 4.5,
+          "text": "move with it, hand in my hand, no speech, no show."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s20_t1.wav",
+      "kind": "Take",
+      "duration": 5.034688,
+      "totalWords": 4,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Heart",
+          "start": 0.2,
+          "end": 1.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "in",
+          "start": 1.4,
+          "end": 1.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 1.5,
+          "end": 1.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "breeze.",
+          "start": 1.6,
+          "end": 3.1,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.2,
+          "end": 3.1,
+          "text": "Heart in the breeze."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s21_t3.wav",
+      "kind": "Take",
+      "duration": 10.026688,
+      "totalWords": 23,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "If",
+          "start": 0.1,
+          "end": 0.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 0.2,
+          "end": 0.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "sky",
+          "start": 0.4,
+          "end": 0.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "turns",
+          "start": 0.9,
+          "end": 1.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "gray,",
+          "start": 1.3,
+          "end": 2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "we",
+          "start": 2,
+          "end": 2.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "don't",
+          "start": 2.2,
+          "end": 2.5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "fold",
+          "start": 2.5,
+          "end": 3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "in.",
+          "start": 3,
+          "end": 3.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "We",
+          "start": 3.6,
+          "end": 3.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "lean",
+          "start": 3.8,
+          "end": 4.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "right",
+          "start": 4.1,
+          "end": 4.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "back.",
+          "start": 4.3,
+          "end": 5,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Let",
+          "start": 5,
+          "end": 5.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 5.2,
+          "end": 5.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "whole",
+          "start": 5.4,
+          "end": 5.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "thing",
+          "start": 5.9,
+          "end": 6.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "spin.",
+          "start": 6.2,
+          "end": 6.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "You",
+          "start": 6.8,
+          "end": 7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "and",
+          "start": 7,
+          "end": 7.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "me,",
+          "start": 7.2,
+          "end": 7.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "same",
+          "start": 7.6,
+          "end": 8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "pace.",
+          "start": 8,
+          "end": 8.6,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 8.6,
+          "text": "If the sky turns gray, we don't fold in. We lean right back. Let the whole thing spin. You and me, same pace."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s23_t1.wav",
+      "kind": "Take",
+      "duration": 7.04,
+      "totalWords": 9,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Easy",
+          "start": 0.2,
+          "end": 0.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now,",
+          "start": 0.4,
+          "end": 1.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "easy",
+          "start": 2,
+          "end": 2.3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now,",
+          "start": 2.3,
+          "end": 3,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "easy",
+          "start": 3.5,
+          "end": 3.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 3.9,
+          "end": 4.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "No",
+          "start": 6,
+          "end": 6.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "need",
+          "start": 6.4,
+          "end": 6.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "to",
+          "start": 6.8,
+          "end": 7,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.2,
+          "end": 7,
+          "text": "Easy now, easy now, easy now. No need to"
+        }
+      ]
+    },
+    {
+      "file": "mv5_s25_t1.wav",
+      "kind": "Take",
+      "duration": 6.016,
+      "totalWords": 6,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Is",
+          "start": 0.6,
+          "end": 0.7,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 0.7,
+          "end": 0.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 0.8,
+          "end": 0.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Is",
+          "start": 2.1,
+          "end": 2.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 2.2,
+          "end": 2.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 2.2,
+          "end": 2.2,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.6,
+          "end": 2.2,
+          "text": "Is it now? Is it now?"
+        }
+      ]
+    },
+    {
+      "file": "mv5_s26_t1.wav",
+      "kind": "Take",
+      "duration": 8.021375,
+      "totalWords": 6,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Is",
+          "start": 0.4,
+          "end": 0.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 0.9,
+          "end": 1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 1,
+          "end": 2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Is",
+          "start": 2.6,
+          "end": 3.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "it",
+          "start": 3.2,
+          "end": 3.4,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now?",
+          "start": 3.4,
+          "end": 4.1,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.4,
+          "end": 4.1,
+          "text": "Is it now? Is it now?"
+        }
+      ]
+    },
+    {
+      "file": "mv5_s27_t1.wav",
+      "kind": "Take",
+      "duration": 6.016,
+      "totalWords": 4,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "Easy",
+          "start": 3.6,
+          "end": 4.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 4.2,
+          "end": 4.9,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "Easy",
+          "start": 3.6,
+          "end": 4.2,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "now.",
+          "start": 4.2,
+          "end": 4.9,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 3.6,
+          "end": 4.9,
+          "text": "Easy now. Easy now."
+        }
+      ]
+    },
+    {
+      "file": "mv5_s28_t1.wav",
+      "kind": "Take",
+      "duration": 5.034688,
+      "totalWords": 4,
+      "expectedWords": 30,
+      "words": [
+        {
+          "word": "till",
+          "start": 0.1,
+          "end": 0.6,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "the",
+          "start": 0.6,
+          "end": 0.8,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "morning",
+          "start": 0.8,
+          "end": 2.1,
+          "speaker": "spk:0"
+        },
+        {
+          "word": "comes.",
+          "start": 2.1,
+          "end": 3.1,
+          "speaker": "spk:0"
+        }
+      ],
+      "diarization": [
+        {
+          "speaker": "spk:0",
+          "start": 0.1,
+          "end": 3.1,
+          "text": "till the morning comes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+ "stem": "l13",
+ "offset": 84.0,
+ "model": "large-v3-turbo",
+ "n_words": 16,
+ "words": [
+  {
+   "word": "I",
+   "start": 84.0,
+   "end": 84.16,
+   "prob": 0.373
+  },
+  {
+   "word": "am",
+   "start": 84.16,
+   "end": 84.4,
+   "prob": 0.813
+  },
+  {
+   "word": "your",
+   "start": 84.4,
+   "end": 84.7,
+   "prob": 0.975
+  },
+  {
+   "word": "dad.",
+   "start": 84.7,
+   "end": 85.06,
+   "prob": 0.832
+  },
+  {
+   "word": "Don't",
+   "start": 85.26,
+   "end": 85.96,
+   "prob": 0.96
+  },
+  {
+   "word": "fight",
+   "start": 85.96,
+   "end": 86.4,
+   "prob": 0.997
+  },
+  {
+   "word": "the",
+   "start": 86.4,
+   "end": 86.7,
+   "prob": 0.632
+  },
+  {
+   "word": "feeling,",
+   "start": 86.7,
+   "end": 87.26,
+   "prob": 0.937
+  },
+  {
+   "word": "just",
+   "start": 87.52,
+   "end": 87.74,
+   "prob": 0.984
+  },
+  {
+   "word": "let",
+   "start": 87.74,
+   "end": 88.26,
+   "prob": 0.991
+  },
+  {
+   "word": "it",
+   "start": 88.26,
+   "end": 88.56,
+   "prob": 0.962
+  },
+  {
+   "word": "in.",
+   "start": 88.56,
+   "end": 89.08,
+   "prob": 0.986
+  },
+  {
+   "word": "I",
+   "start": 89.42,
+   "end": 89.74,
+   "prob": 0.987
+  },
+  {
+   "word": "am",
+   "start": 89.74,
+   "end": 90.24,
+   "prob": 0.99
+  },
+  {
+   "word": "your",
+   "start": 90.24,
+   "end": 90.7,
+   "prob": 0.998
+  },
+  {
+   "word": "dad.",
+   "start": 90.7,
+   "end": 91.14,
+   "prob": 0.996
+  }
+ ],
+ "segments": [
+  {
+   "start": 84.0,
+   "end": 85.06,
+   "text": "I am your dad."
+  },
+  {
+   "start": 85.26,
+   "end": 89.08,
+   "text": "Don't fight the feeling, just let it in."
+  },
+  {
+   "start": 89.42,
+   "end": 91.14,
+   "text": "I am your dad."
+  }
+ ]
+}

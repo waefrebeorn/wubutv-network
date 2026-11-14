@@ -1,0 +1,149 @@
+  S01  mv5_s01_t1       phrase-I01a            take 'Easy      ' dst    1.42 grid 'Easy      '    1.40 off  +0.02 OK 
+  S01  mv5_s01_t1       phrase-I01a            take 'now,      ' dst    2.02 grid 'now,      '    2.16 off  -0.14 OK 
+  S01  mv5_s01_t1       phrase-I01b            take 'easy      ' dst    2.81 grid 'easy      '    2.68 off  +0.13 OK 
+  S01  mv5_s01_t1       phrase-I01b            take 'now.      ' dst    3.31 grid 'now       '    3.04 off  +0.27 OK 
+  S01  mv5_s01_t1       phrase-I02a            take 'ride,     ' dst    3.92 grid 'ride,     '    4.00 off  -0.08 OK 
+  S01  mv5_s01_t1       phrase-I02b            take 'we        ' dst    4.57 grid 'we        '    4.74 off  -0.17 OK 
+  S01  mv5_s01_t1       phrase-I02b            take 'ride.     ' dst    4.89 grid 'ride      '    4.90 off  -0.01 OK 
+  S01  mv5_s01_t1       phrase-I03             take 'Easy      ' dst    6.33 grid 'Easy      '    6.34 off  -0.01 OK 
+  S01  mv5_s01_t1       phrase-I03             take 'now,      ' dst    6.67 grid 'now,      '    6.76 off  -0.09 OK 
+  S01  mv5_s01_t1       phrase-I03             take 'easy      ' dst    7.44 grid 'easy      '    7.40 off  +0.04 OK 
+  S01  mv5_s01_t1       phrase-I03             take 'now.      ' dst    7.49 grid 'now       '    7.56 off  -0.07 OK 
+  S01  mv5_s01_t1       phrase-I04b            take 'the       ' dst    8.29 grid 'the       '    8.34 off  -0.05 OK 
+  S01  mv5_s01_t1       phrase-I04b            take 'morning   ' dst    8.61 grid 'morning   '    8.58 off  +0.03 OK 
+  S01  mv5_s01_t1       phrase-I04b            take 'comes.    ' dst    9.13 grid 'comes     '    8.96 off  +0.17 OK 
+  S04  mv5_q10_s04      phrase-L01             take 'Bare      ' dst   22.00 grid 'Bare      '   22.00 off  +0.00 OK 
+  S04  mv5_q10_s04      phrase-L01             take 'feet      ' dst   22.24 grid 'feet      '   22.22 off  +0.02 OK 
+  S04  mv5_q10_s04      phrase-L01             take 'on        ' dst   22.48 grid 'on        '   22.58 off  -0.10 OK 
+  S04  mv5_q10_s04      phrase-L01             take 'the       ' dst   22.66 grid 'the       '   22.80 off  -0.14 OK 
+  S04  mv5_q10_s04      phrase-L01             take 'boardwalk ' dst   22.75 grid 'boardwalk '   22.94 off  -0.19 OK 
+  S04  mv5_q10_s04      phrase-L02b            take 'on        ' dst   24.11 grid 'on        '   23.90 off  +0.21 OK 
+  S04  mv5_q10_s04      phrase-L02b            take 'my        ' dst   24.56 grid 'my        '   24.48 off  +0.08 OK 
+  S04  mv5_q10_s04      phrase-L02b            take 'skin      ' dst   24.98 grid 'skin      '   24.82 off  +0.16 OK 
+  S04  mv5_q10_s04      phrase-L03a            take 'came      ' dst   25.68 grid 'came      '   25.68 off  +0.00 OK 
+  S04  mv5_q10_s04      phrase-L03a            take 'in        ' dst   25.92 grid 'in        '   25.98 off  -0.06 OK 
+  S04  mv5_q10_s04      phrase-L03a            take 'laughing  ' dst   26.12 grid 'laughing  '   26.26 off  -0.14 OK 
+  S04  mv5_q10_s04      phrase-L04a            take 'come      ' dst   28.00 grid 'come      '   28.12 off  -0.12 OK 
+  S04  mv5_q10_s04      phrase-L04a            take 'on        ' dst   28.30 grid 'on,       '   28.24 off  +0.06 OK 
+  S04  mv5_q10_s04      phrase-L04a            take 'let's     ' dst   28.68 grid 'let's     '   28.70 off  -0.02 OK 
+  S04  mv5_q10_s04      phrase-L04b            take 'begin     ' dst   29.00 grid 'begin     '   29.04 off  -0.04 OK 
+  S04  mv5_s04_t1       phrase-L05             take 'Blue      ' dst   30.10 grid 'Blue      '   30.10 off  +0.00 OK 
+  S04  mv5_s04_t1       phrase-L05             take 'shirt,    ' dst   30.28 grid 'shirt,    '   30.26 off  +0.02 OK 
+  S04  mv5_s04_t1       phrase-L05             take 'red       ' dst   30.82 grid 'red       '   30.52 off  +0.30 OK WARN
+  S04  mv5_s04_t1       phrase-L05             take 'bicycle.  ' dst   30.98 grid 'bicycle   '   30.82 off  +0.16 OK 
+  S06  mv5_s06_t1       phrase-L10             take 'Keys      ' dst   40.46 grid 'Keys      '   40.82 off  -0.36 OK WARN
+  S06  mv5_s06_t1       phrase-L10             take 'in        ' dst   41.09 grid 'in        '   41.30 off  -0.21 OK 
+  S06  mv5_s06_t1       phrase-L10             take 'your      ' dst   41.29 grid 'your      '   41.72 off  -0.43 OK WARN
+  S06  mv5_s06_t1       phrase-L10             take 'hand.     ' dst   41.57 grid 'hand      '   41.98 off  -0.41 OK WARN
+  S06  mv5_s06_t1       phrase-L10             DISCLOSED: Keys -0.36s vs grid (v4 carryover, within +/-0.40 band)
+  S06  mv5_s06_t2       phrase-L12a            take 'Yeah      ' dst   44.54 grid 'Yeah,     '   44.58 off  -0.04 OK 
+  S06  mv5_s06_t2       phrase-L12b            take 'they      ' dst   45.13 grid 'they      '   44.98 off  +0.15 OK 
+  S06  mv5_s06_t2       phrase-L12b            take 'already   ' dst   45.27 grid 'already   '   45.08 off  +0.19 OK 
+  S06  mv5_s06_t2       phrase-L12b            take 'understand' dst   45.75 grid 'understand'   45.62 off  +0.13 OK 
+  S07  mv5_s07_t1       phrase-L13             take 'Slow      ' dst   47.62 grid 'Slow      '   47.62 off  +0.01 OK 
+  S07  mv5_s07_t1       phrase-L13             take 'down,     ' dst   47.91 grid 'down,     '   47.94 off  -0.03 OK 
+  S07  mv5_s07_t1       phrase-L13             take 'take      ' dst   48.24 grid 'take      '   48.62 off  -0.38 OK WARN
+  S07  mv5_s07_t1       phrase-L13             take 'your      ' dst   48.83 grid 'your      '   48.88 off  -0.05 OK 
+  S07  mv5_s07_t1       phrase-L13             take 'time.     ' dst   49.03 grid 'time      '   49.14 off  -0.11 OK 
+  S07  mv5_s07_t1       phrase-L13             DISCLOSED: 'take' -0.38s vs grid (take holds the word long; v4 carryover)
+  S07  mv5_s07_t1       phrase-L14             take 'the       ' dst   49.68 grid 'the       '   49.94 off  -0.26 OK 
+  S07  mv5_s07_t1       phrase-L14             take 'hard      ' dst   49.94 grid 'hard      '   50.18 off  -0.24 OK 
+  S07  mv5_s07_t1       phrase-L14             take 'week      ' dst   50.35 grid 'week      '   50.52 off  -0.17 OK 
+  S07  mv5_s07_t1       phrase-L14             take 'fade.     ' dst   50.68 grid 'fade      '   50.88 off  -0.20 OK 
+  S07  mv5_q10_s07_l15  phrase-L15             take 'One       ' dst   51.25 grid 'One       '   51.24 off  +0.01 OK 
+  S07  mv5_q10_s07_l15  phrase-L15             take 'small     ' dst   51.56 grid 'small     '   51.64 off  -0.08 OK 
+  S07  mv5_q10_s07_l15  phrase-L15             take 'look      ' dst   51.85 grid 'look      '   51.96 off  -0.11 OK 
+  S07  mv5_q10_s07_l15  phrase-L15             take 'from      ' dst   52.17 grid 'from      '   52.26 off  -0.09 OK 
+  S07  mv5_q10_s07_l15  phrase-L15             take 'you       ' dst   52.47 grid 'you       '   52.52 off  -0.05 OK 
+  S11  mv5_s11_t4       phrase-L38             take 'mango     ' dst   86.92 grid 'mango     '   86.82 off  +0.10 OK 
+  S11  mv5_s11_t4       phrase-L38             take 'sweet.    ' dst   87.14 grid 'sweet     '   87.22 off  -0.08 OK 
+  S11  mv5_s11_t4       phrase-L39             take 'in        ' dst   88.38 grid 'in        '   88.16 off  +0.22 OK 
+  S11  mv5_s11_t4       phrase-L39             take 'the       ' dst   88.55 grid 'the       '   88.40 off  +0.15 OK 
+  S11  mv5_s11_t4       phrase-L39             take 'sand.     ' dst   88.72 grid 'sand      '   88.52 off  +0.20 OK 
+  S11  mv5_s11_t4       phrase-L40d            take 'Time      ' dst   91.19 grid 'time      '   91.18 off  +0.01 OK 
+  S11  mv5_s11_t4       phrase-L40d            take 'with      ' dst   91.52 grid 'with      '   91.62 off  -0.10 OK 
+  S11  mv5_s11_t4       phrase-L40d            take 'our       ' dst   91.89 grid 'our       '   91.96 off  -0.07 OK 
+  S11  mv5_s11_t4       phrase-L40d            take 'feet.     ' dst   92.29 grid 'feet      '   92.36 off  -0.07 OK 
+  S12  mv5_s12_t1       phrase-L41             take 'Your      ' dst   93.79 grid 'Your      '   93.70 off  +0.09 OK 
+  S12  mv5_s12_t1       phrase-L41             take 'laugh     ' dst   93.97 grid 'laugh     '   94.14 off  -0.17 OK 
+  S12  mv5_s12_t1       phrase-L41             take 'hit       ' dst   94.35 grid 'hit       '   94.50 off  -0.15 OK 
+  S12  mv5_s12_t1       phrase-L41             take 'the       ' dst   94.57 grid 'the       '   94.68 off  -0.11 OK 
+  S12  mv5_s12_t1       phrase-L41             take 'air.      ' dst   94.81 grid 'air       '   94.80 off  +0.01 OK 
+  S12  mv5_q10_s12_l43  phrase-L43a            take 'I         ' dst   96.75 grid 'I         '   96.78 off  -0.03 OK 
+  S12  mv5_q10_s12_l43  phrase-L43a            take 'forgot    ' dst   96.96 grid 'forgot    '   97.12 off  -0.16 OK 
+  S12  mv5_q10_s12_l43  phrase-L43a            take 'the       ' dst   97.34 grid 'the       '   97.46 off  -0.12 OK 
+  S12  mv5_q10_s12_l43  phrase-L43b            take 'list      ' dst   97.63 grid 'list,     '   97.64 off  -0.01 OK 
+  S12  mv5_q10_s12_l43  phrase-L43b            take 'forgot    ' dst   97.94 grid 'forgot    '   97.86 off  +0.08 OK 
+  S12  mv5_q10_s12_l43  phrase-L43b            take 'the       ' dst   98.10 grid 'the       '   98.04 off  +0.06 OK 
+  S12  mv5_q10_s12_l43  phrase-L43b            take 'bills     ' dst   98.26 grid 'bills     '   98.20 off  +0.06 OK 
+  S17  mv5_s17_t1       phrase-L65-L68         take 'easy      ' dst  130.94 grid 'Easy      '  130.80 off  +0.14 OK 
+  S17  mv5_s17_t1       phrase-L65-L68         take 'now.      ' dst  131.56 grid 'now       '  131.74 off  -0.18 OK 
+  S17  mv5_s17_t1       phrase-L65-L68         take 'Easy      ' dst  134.14 grid 'easy      '  133.36 off  +0.78 OK WARN
+  S17  mv5_s17_t1       phrase-L65-L68         DISCLOSED: v4 compromise: take sings only 'Easy now' hooks over L66 'Keep it loose' / L68 'Let it drift' (wrong-words, same as v4)
+  S17  mv5_s28_t1       phrase-L70             DISCLOSED: v4 carryover: CAT 'Till/comes' tail over hook 'We're good where we are'
+  S17  mv5_s17_t1       phrase-L71-L72         take 'Easy      ' dst  138.59 grid 'easy      '  138.44 off  +0.15 OK 
+  S17  mv5_s17_t1       phrase-L71-L72         DISCLOSED: take 'Easy' +0.86s late vs grid (v4 was +0.94; chorus-hook offset)
+  S20  mv5_s20_t1       phrase-L80             take 'Heart     ' dst  155.71 grid 'Heart     '  155.68 off  +0.03 OK 
+  S20  mv5_s20_t1       phrase-L80             take 'in        ' dst  156.15 grid 'in        '  156.04 off  +0.11 OK 
+  S20  mv5_s20_t1       phrase-L80             take 'the       ' dst  156.41 grid 'the       '  156.26 off  +0.15 OK 
+  S20  mv5_s20_t1       phrase-L80             take 'breeze.   ' dst  156.54 grid 'breeze    '  156.42 off  +0.12 OK 
+  S23  mv5_s23_t1       phrase-L91-L95         take 'now,      ' dst  169.64 grid 'now       '  169.84 off  -0.20 OK 
+  S23  mv5_s23_t1       phrase-L91-L95         take 'easy      ' dst  170.79 grid 'Easy      '  171.52 off  -0.73 OK WARN
+  S23  mv5_s23_t1       phrase-L91-L95         take 'now,      ' dst  171.42 grid 'now,      '  171.78 off  -0.36 OK WARN
+  S23  mv5_s23_t1       phrase-L91-L95         take 'easy      ' dst  172.98 grid 'Easy      '  173.74 off  -0.76 OK WARN
+  S23  mv5_s23_t1       phrase-L91-L95         take 'now.      ' dst  173.61 grid 'now,      '  174.04 off  -0.43 OK WARN
+  S23  mv5_s23_t1       phrase-L91-L95         DISCLOSED: v4 carryover: take sings 'Easy now' hooks over the L91-L95 chorus texture
+  S23  mv5_s23_t1       phrase-L96             take 'need      ' dst  175.35 grid 'need      '  175.12 off  +0.23 OK 
+  S23  mv5_s23_t1       phrase-L96             take 'to.       ' dst  175.66 grid 'to        '  175.42 off  +0.24 OK 
+  S24  mv5_s24_t1       phrase-L97             take 'Easy      ' dst  176.04 grid 'Easy      '  176.04 off  +0.00 OK 
+  S24  mv5_s24_t1       phrase-L97             take 'now,      ' dst  176.46 grid 'now       '  176.64 off  -0.18 OK 
+  S24  mv5_s24_t1       phrase-L99             take 'now,      ' dst  178.65 grid 'now,      '  178.52 off  +0.13 OK 
+  S24  mv5_s24_t3       phrase-L101-L102       take 'Easy      ' dst  180.29 grid 'Easy      '  180.50 off  -0.21 OK 
+  S24  mv5_s24_t3       phrase-L101-L102       take 'now,      ' dst  180.89 grid 'now,      '  180.74 off  +0.15 OK 
+  S24  mv5_s24_t3       phrase-L101-L102       take 'easy      ' dst  181.87 grid 'Easy      '  182.78 off  -0.91 OK WARN
+  S24  mv5_s24_t3       phrase-L101-L102       take 'now       ' dst  182.65 grid 'now,      '  183.06 off  -0.41 OK WARN
+  S24  mv5_s24_t3       phrase-L101-L102       DISCLOSED: v4 carryover: take's 2nd 'easy' lands between L101's (180.94) and L103's (182.78) in the overlapping chorus; take sings L101's pair
+  S27  mv5_s27_t1       phrase-L108            take 'Easy      ' dst  193.00 grid 'Easy      '  193.20 off  -0.20 OK 
+  S27  mv5_s27_t1       phrase-L108            take 'now,      ' dst  193.81 grid 'now,      '  193.64 off  +0.17 OK 
+  S27  mv5_s27_t1       phrase-L108            take 'easy      ' dst  195.82 grid 'easy      '  196.04 off  -0.22 OK 
+  S27  mv5_s27_t1       phrase-L108            take 'now.      ' dst  197.29 grid 'now,      '  197.64 off  -0.35 OK WARN
+  S28  mv5_s28_t1       phrase-L110            take 'Till      ' dst  203.83 grid 'Till      '  203.84 off  -0.01 OK 
+  S28  mv5_s28_t1       phrase-L110            take 'the       ' dst  204.08 grid 'the       '  204.28 off  -0.20 OK 
+  S28  mv5_s28_t1       phrase-L110            take 'morning   ' dst  204.35 grid 'morning   '  204.44 off  -0.09 OK 
+  S28  mv5_s28_t1       phrase-L110            take 'comes.    ' dst  205.00 grid 'comes     '  205.32 off  -0.32 OK WARN
+
+scenes: 29  total frames: 4954 (target 4954)
+
+--- WARNINGS (27) ---
+WARN: S04 mv5_s04_t1 (phrase-L05): take 'red' -> dst 30.82 vs grid 'red' 30.52 off +0.30 [OK ]
+WARN: S06 mv5_s06_t1 (phrase-L10): take 'Keys' -> dst 40.46 vs grid 'Keys' 40.82 off -0.36 [OK ] [disclosed: Keys -0.36s vs grid (v4 carryover, within +/-0.40 band)]
+WARN: S06 mv5_s06_t1 (phrase-L10): take 'your' -> dst 41.29 vs grid 'your' 41.72 off -0.43 [OK ] [disclosed: Keys -0.36s vs grid (v4 carryover, within +/-0.40 band)]
+WARN: S06 mv5_s06_t1 (phrase-L10): take 'hand.' -> dst 41.57 vs grid 'hand' 41.98 off -0.41 [OK ] [disclosed: Keys -0.36s vs grid (v4 carryover, within +/-0.40 band)]
+WARN: S06 COVER mv5_s06_t2 f58-77 (cover-L12d): gap-edge: word 'understand' touches cover by 0.00s (mouth closing/opening)
+WARN: S07 mv5_s07_t1 (phrase-L13): take 'take' -> dst 48.24 vs grid 'take' 48.62 off -0.38 [OK ] [disclosed: 'take' -0.38s vs grid (take holds the word long; v4 carryover)]
+WARN: S11 COVER mv5_s11_t4 f0-28 (cover-L37a): gap-edge: word 'Calling' touches cover by 0.01s (mouth closing/opening)
+WARN: S11 mv5_s11_t4 f28-91: warp 0.4127 < 0.5 (speedup > 2x)
+WARN: S11 COVER mv5_s11_t4 f91-125 (cover-L40a): gap-edge: word 'sweet.' touches cover by 0.01s (mouth closing/opening)
+WARN: S11 COVER mv5_s11_t4 f91-125 (cover-L40a): gap-edge: word 'Socks' touches cover by 0.01s (mouth closing/opening)
+WARN: S11 COVER mv5_s11_t4 f171-181 (cover-L40b): gap-edge: word 'sand.' touches cover by 0.01s (mouth closing/opening)
+WARN: S12 COVER mv5_s12_t1 f52-84 (cover-L42): gap-edge: word 'air.' touches cover by 0.13s (mouth closing/opening)
+WARN: S14 mv5_s19b_t1: ef 121 > nframes 120 (verbatim v4, assembler tpad-pads)
+WARN: S17 mv5_s17_t1 (phrase-L65-L68): take 'Easy' -> dst 134.14 vs grid 'easy' 133.36 off +0.78 [OK ] [disclosed: v4 compromise: take sings only 'Easy now' hooks over L66 'Keep it loose' / L68 'Let it drift' (wrong-words, same as v4)]
+WARN: S21 mv5_s21_t13 f36: reused within scene (prev montage-L83-CAT)
+WARN: S21 mv5_s21_t13 f37: reused within scene (prev montage-L83-CAT)
+WARN: S21 mv5_s21_t13 f38: reused within scene (prev montage-L83-CAT)
+WARN: S23 mv5_s23_t1 (phrase-L91-L95): take 'easy' -> dst 170.79 vs grid 'Easy' 171.52 off -0.73 [OK ] [disclosed: v4 carryover: take sings 'Easy now' hooks over the L91-L95 chorus texture]
+WARN: S23 mv5_s23_t1 (phrase-L91-L95): take 'now,' -> dst 171.42 vs grid 'now,' 171.78 off -0.36 [OK ] [disclosed: v4 carryover: take sings 'Easy now' hooks over the L91-L95 chorus texture]
+WARN: S23 mv5_s23_t1 (phrase-L91-L95): take 'easy' -> dst 172.98 vs grid 'Easy' 173.74 off -0.76 [OK ] [disclosed: v4 carryover: take sings 'Easy now' hooks over the L91-L95 chorus texture]
+WARN: S23 mv5_s23_t1 (phrase-L91-L95): take 'now.' -> dst 173.61 vs grid 'now,' 174.04 off -0.43 [OK ] [disclosed: v4 carryover: take sings 'Easy now' hooks over the L91-L95 chorus texture]
+WARN: S24 COVER mv5_s24_t1 f32-40 (cover-L98a): gap-edge: word 'easy' touches cover by 0.01s (mouth closing/opening)
+WARN: S24 COVER mv5_s24_t1 f104-128 (cover-L98b): gap-edge: word 'easy' touches cover by 0.01s (mouth closing/opening)
+WARN: S24 mv5_s24_t3 (phrase-L101-L102): take 'easy' -> dst 181.87 vs grid 'Easy' 182.78 off -0.91 [OK ] [disclosed: v4 carryover: take's 2nd 'easy' lands between L101's (180.94) and L103's (182.78) in the overlapping chorus; take sings L101's pair]
+WARN: S24 mv5_s24_t3 (phrase-L101-L102): take 'now' -> dst 182.65 vs grid 'now,' 183.06 off -0.41 [OK ] [disclosed: v4 carryover: take's 2nd 'easy' lands between L101's (180.94) and L103's (182.78) in the overlapping chorus; take sings L101's pair]
+WARN: S27 mv5_s27_t1 (phrase-L108): take 'now.' -> dst 197.29 vs grid 'now,' 197.64 off -0.35 [OK ]
+WARN: S28 mv5_s28_t1 (phrase-L110): take 'comes.' -> dst 205.00 vs grid 'comes' 205.32 off -0.32 [OK ]
+
+--- ERRORS (0) ---
+
+WROTE /home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/work/assembly_fit_mv5_v5.json  (4954f, 29 scenes)
+bounds: [0.0, 10.0417, 18.625, 22.0, 31.5, 40.4583, 47.625, 57.5, 67.0417, 76.7917, 85.1667, 93.7917, 102.4167, 111.9167, 116.0, 121.2917, 130.7917, 140.5, 148.7083, 152.375, 155.7083, 158.0417, 167.5, 169.1667, 176.0417, 182.7917, 190.4167, 193.0, 203.8333, 206.4167]

@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv16_s01_t4.mp4",
+ "words": [
+  {
+   "w": "i've",
+   "start": 0.0,
+   "end": 0.38,
+   "p": 0.574
+  },
+  {
+   "w": "been",
+   "start": 0.38,
+   "end": 0.58,
+   "p": 1.0
+  },
+  {
+   "w": "singing",
+   "start": 0.58,
+   "end": 1.12,
+   "p": 0.941
+  },
+  {
+   "w": "the",
+   "start": 1.12,
+   "end": 1.52,
+   "p": 0.999
+  },
+  {
+   "w": "wrong",
+   "start": 1.52,
+   "end": 1.94,
+   "p": 0.999
+  },
+  {
+   "w": "lyrics",
+   "start": 1.94,
+   "end": 2.84,
+   "p": 0.999
+  },
+  {
+   "w": "for",
+   "start": 2.84,
+   "end": 3.24,
+   "p": 0.998
+  },
+  {
+   "w": "a",
+   "start": 3.24,
+   "end": 3.54,
+   "p": 1.0
+  },
+  {
+   "w": "decade",
+   "start": 3.54,
+   "end": 4.28,
+   "p": 1.0
+  },
+  {
+   "w": "nobody",
+   "start": 4.28,
+   "end": 6.14,
+   "p": 0.926
+  },
+  {
+   "w": "stopped",
+   "start": 6.14,
+   "end": 6.64,
+   "p": 0.822
+  },
+  {
+   "w": "me",
+   "start": 6.64,
+   "end": 7.18,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.18,
+   "text": "i've been singing the wrong lyrics for a decade nobody stopped me",
+   "avg_logprob": -0.197
+  }
+ ]
+}

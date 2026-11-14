@@ -1,0 +1,1439 @@
+{
+  "tau_d": 0.0005,
+  "takes": [
+    {
+      "scene": "S01",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "6dc49ca2fc199320c089bf6d4d7c3037",
+      "file": "media-generation-mv14-s01-t1-0-6b4602cc-fe72-4c51-9b12-ce833f3eff6e.mp4",
+      "fps": 24.0,
+      "frames": 240,
+      "duration_s": 10.0,
+      "full": {
+        "M6_dup_ratio": 0.00418,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 239,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.03935,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.01493,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 67,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.02333,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 2.83
+      }
+    },
+    {
+      "scene": "S02",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "2115f5aa2b5a3aaa4e0ffcaf4188c348",
+      "file": "media-generation-mv14-s02-t1-0-ea0132cf-3bd5-4207-922b-bf1bea9cd2eb.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03521,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02732,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.6
+      }
+    },
+    {
+      "scene": "S03",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "1a965aad716a3061be42c072ced738f8",
+      "file": "media-generation-mv14-s03-t1-0-8cca47c2-f4af-4474-a4ca-0e3aea7499ac.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.04048,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06266,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.59
+      }
+    },
+    {
+      "scene": "S04",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "6b470ef6bdc260e81502a88ff69ddc94",
+      "file": "media-generation-mv14-s04-t1-0-b67b937f-c78e-4a4f-b7fc-0d2c1970be91.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.04202,
+        "M6_dup_count": 5,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 2,
+        "M1_activity_median_diff": 0.03503,
+        "M6_longest_dup_run_s": 0.08
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.04155,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.6
+      }
+    },
+    {
+      "scene": "S05",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "be3883e0636bf2ec2479ba6bb369277d",
+      "file": "media-generation-mv14-s05-t1-0-583fad9a-4ef8-406c-89af-f51a215ab6f5.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02058,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02153,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.59
+      }
+    },
+    {
+      "scene": "S06",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "cfffbc4c0eab5918dc7991da9f56dca3",
+      "file": "media-generation-mv14-s06-t1-0-dff19117-8bfb-4cfa-b9e3-38ae27f77054.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.02304,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.01389,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 72,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.03406,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 3.0
+      }
+    },
+    {
+      "scene": "S07",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "16cf0ada7cba87a0f8ed5152934dbce8",
+      "file": "media-generation-mv14-s07-t1-0-484a14fd-31db-4176-ab83-090d3c68b071.mp4",
+      "fps": 24.0,
+      "frames": 240,
+      "duration_s": 10.0,
+      "full": {
+        "M6_dup_ratio": 0.03766,
+        "M6_dup_count": 9,
+        "M6_n_transitions": 239,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.01008,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01385,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.59
+      }
+    },
+    {
+      "scene": "S08",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "2bfc2815326b0c7688a99bfbb697d958",
+      "file": "media-generation-mv14-s08-t1-0-14d70a5f-2930-464a-84b6-f2a4decf545d.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.02143,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03134,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.6
+      }
+    },
+    {
+      "scene": "S09",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "0a8204bf32e4faa97524185229034c3a",
+      "file": "media-generation-mv14-s09-t1-0-50dd3854-70ed-4df2-a04b-0f57cbfa7a99.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.0329,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03861,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.59
+      }
+    },
+    {
+      "scene": "S10",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "cced1de673645813f1cc25f144e97356",
+      "file": "media-generation-mv14-s10-t1-0-d1cb1c81-31fb-4f92-899c-4ec30733838d.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.05882,
+        "M6_dup_count": 7,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 6,
+        "M1_activity_median_diff": 0.04016,
+        "M6_longest_dup_run_s": 0.25
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.05252,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.59
+      }
+    },
+    {
+      "scene": "S11",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "0775a71a06cdcb0afe43647b010e6611",
+      "file": "media-generation-mv14-s11-t1-0-c2c17d73-0dfa-48b6-b030-93199c579e4c.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.05106,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.01613,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.06189,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 2.6
+      }
+    },
+    {
+      "scene": "S12",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "ddd53776f2a8e2cf8eacfb2c26b21bb7",
+      "file": "media-generation-mv14-s12-t1-0-ffd4ee23-9fa2-417c-bd1d-6ebe3f8e84bd.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02044,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 68,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01925,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.86
+      }
+    },
+    {
+      "scene": "S13",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "2996c39e95b0b09b323a28f16a2a55c3",
+      "file": "media-generation-mv14-s13-t1-0-843ff422-c85c-47d3-89b0-75765359cbd3.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.00997,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 70,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01102,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.92
+      }
+    },
+    {
+      "scene": "S14",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "bd01180f1bf72ed901605286f77881ab",
+      "file": "media-generation-mv14-s14-t1-0-8c4d614b-7861-464a-b4c7-cb844b7bf356.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.33613,
+        "M6_dup_count": 40,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.00364,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.22917,
+        "M6_dup_count": 11,
+        "M6_n_transitions": 48,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.00749,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 2.0
+      }
+    },
+    {
+      "scene": "S15",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "78e659a246f61c1d55cee166f1390cc7",
+      "file": "media-generation-mv14-s15-t1-0-2fb371dd-ab44-4184-801c-b10707cc0874.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.00481,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 31,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.04688,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.3
+      }
+    },
+    {
+      "scene": "S16",
+      "take": "t1",
+      "verdict": "REJECT",
+      "reject_reason": "G2 subtitle",
+      "md5": "b768b530d86680209da47bdee35dfe21",
+      "file": "media-generation-mv14-s16-t1-0-0b8fa8a5-b9a2-47e3-9aab-d961ea396787.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.0622,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": null
+    },
+    {
+      "scene": "S17",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "7e791b10e46cc71826cf62478e1cfa3d",
+      "file": "media-generation-mv14-s17-t1-0-cfbf9da5-e57d-4b4b-a810-fe613d2acb27.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06266,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 62,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06502,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.59
+      }
+    },
+    {
+      "scene": "S18",
+      "take": "t1",
+      "verdict": "REJECT",
+      "reject_reason": "G1 wardrobe",
+      "md5": "49febde58a515582b0bf646ceec33e0f",
+      "file": "media-generation-mv14-s18-t1-0-fd0d5311-1cf4-409b-96c1-40a784c0e16f.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.21008,
+        "M6_dup_count": 25,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 9,
+        "M1_activity_median_diff": 0.00091,
+        "M6_longest_dup_run_s": 0.38
+      },
+      "window": null
+    },
+    {
+      "scene": "S16",
+      "take": "t2",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "ad932b3d0a65e9c24c618950396e54e9",
+      "file": "media-generation-mv14-s16-t2-0-5ec040a8-0c3b-4da9-9ac2-f668f8a22592.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.04656,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 31,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.08371,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.3
+      }
+    },
+    {
+      "scene": "S18",
+      "take": "t2",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "ca8eb34c1e5399062236d69b8ba9e03d",
+      "file": "media-generation-mv14-s18-t2-0-5a5aa57e-dfe3-45e9-b9ce-f21eb076fdd7.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.30252,
+        "M6_dup_count": 36,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 6,
+        "M1_activity_median_diff": 0.00077,
+        "M6_longest_dup_run_s": 0.25
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 31,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.00162,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.3
+      }
+    },
+    {
+      "scene": "S19",
+      "take": "t1",
+      "verdict": "REJECT",
+      "reject_reason": "G2 subtitle",
+      "md5": "bfb5f24ca8a4238a483197de8120cd7b",
+      "file": "media-generation-mv14-s19-t1-0-c26d63ea-6672-420b-8de6-0bf1fee42be4.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.09244,
+        "M6_dup_count": 11,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 5,
+        "M1_activity_median_diff": 0.05962,
+        "M6_longest_dup_run_s": 0.21
+      },
+      "window": null
+    },
+    {
+      "scene": "S20",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "2b14919fe735236eedb3b2ebb9096e26",
+      "file": "media-generation-mv14-s20-t1-0-c00dc2ae-abdd-49f3-823b-38b2af466e3c.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02699,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 44,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02006,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.86
+      }
+    },
+    {
+      "scene": "S21",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "c86910f8adfa775b36a49f8967a9e5ba",
+      "file": "media-generation-mv14-s21-t1-0-90df0743-f7ba-4275-a82d-a4d31afa124b.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06118,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 31,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.10079,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.3
+      }
+    },
+    {
+      "scene": "S22",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "3652b1d504d8fec8f57d74216f62a37e",
+      "file": "media-generation-mv14-s22-t1-0-9db98a75-e1c0-43f9-8852-65b6ecacce6e.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02567,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 42,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03523,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.78
+      }
+    },
+    {
+      "scene": "S19",
+      "take": "t2",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "9d63690c09cb4efc19bb6c5b5b853f7e",
+      "file": "media-generation-mv14-s19-t2-0-89353b9f-ecc6-4b20-8304-6dd90a310d11.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.03715,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 36,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02377,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.53
+      }
+    },
+    {
+      "scene": "S23",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "e01b3db8dd5da57b0c5d5dc78cf64649",
+      "file": "media-generation-mv14-s23-t1-0-5e0b639b-e47c-4406-ba91-b43db990f62a.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.0561,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 63,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06246,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.66
+      }
+    },
+    {
+      "scene": "S24",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "56249ac6f167a5635f72627696b8b397",
+      "file": "media-generation-mv14-s24-t1-0-71b4ab65-7904-40a0-9e2d-9532bce52bb1.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.05882,
+        "M6_dup_count": 7,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 7,
+        "M1_activity_median_diff": 0.06657,
+        "M6_longest_dup_run_s": 0.29
+      },
+      "window": {
+        "M6_dup_ratio": 0.07865,
+        "M6_dup_count": 7,
+        "M6_n_transitions": 89,
+        "M6_longest_dup_run_frames": 7,
+        "M1_activity_median_diff": 0.05607,
+        "M6_longest_dup_run_s": 0.29,
+        "w0_s": 0.0,
+        "w1_s": 3.72
+      }
+    },
+    {
+      "scene": "S25",
+      "take": "t1",
+      "verdict": "REJECT",
+      "reject_reason": "G1 hair",
+      "md5": "4d1029372448855c3a5daa7da52caab0",
+      "file": "media-generation-mv14-s25-t1-0-a52c9405-d70c-41bb-8257-1b3f901b75ea.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.36975,
+        "M6_dup_count": 44,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 11,
+        "M1_activity_median_diff": 0.0006,
+        "M6_longest_dup_run_s": 0.46
+      },
+      "window": null
+    },
+    {
+      "scene": "S26",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "2133b16cdd60b57e2804262ca10cb0a0",
+      "file": "media-generation-mv14-s26-t1-0-90243fde-15d9-4a11-8dd7-215f60d37d78.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.01029,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.01754,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 57,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.01234,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 2.39
+      }
+    },
+    {
+      "scene": "S27",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "31a8738dc858fb68331232ba9a3e19c2",
+      "file": "media-generation-mv14-s27-t1-0-2a2a3184-bb18-483e-80a2-1467e38d1866.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.02737,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.01786,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 56,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.02073,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 2.34
+      }
+    },
+    {
+      "scene": "S25",
+      "take": "t2",
+      "verdict": "REJECT",
+      "reject_reason": "G2 subtitle",
+      "md5": "f3523fa7fe87abab462c9b63f5126b10",
+      "file": "media-generation-mv14-s25-t2-0-75f1ab8d-2896-465b-a5c3-65077792b8c3.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.05042,
+        "M6_dup_count": 6,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 6,
+        "M1_activity_median_diff": 0.04606,
+        "M6_longest_dup_run_s": 0.25
+      },
+      "window": null
+    },
+    {
+      "scene": "S28",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "ae256616e30c0d812f8828c8d04f9b39",
+      "file": "media-generation-mv14-s28-t1-0-b3a5bb94-017f-401a-9a91-6d0cd4975f68.mp4",
+      "fps": 24.0,
+      "frames": 240,
+      "duration_s": 10.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 239,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02386,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 56,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01792,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.34
+      }
+    },
+    {
+      "scene": "S29",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "045640a772f0713351499162f1ba9a9e",
+      "file": "media-generation-mv14-s29-t1-0-560aa8f5-99cb-4858-af32-058e4d067c19.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.01681,
+        "M6_dup_count": 2,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 2,
+        "M1_activity_median_diff": 0.02328,
+        "M6_longest_dup_run_s": 0.08
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 65,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03267,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.72
+      }
+    },
+    {
+      "scene": "S30",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "62ca7920ba3aceae28a458a949ff1383",
+      "file": "media-generation-mv14-s30-t1-0-b4daa322-678d-467e-80af-442184188faa.mp4",
+      "fps": 24.0,
+      "frames": 240,
+      "duration_s": 10.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 239,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01412,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 84,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01573,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 2.44,
+        "w1_s": 5.96
+      }
+    },
+    {
+      "scene": "S31",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "39dec9561276fef67b4e7a5d7a229d0d",
+      "file": "media-generation-mv14-s31-t1-0-14bf9ec9-1668-4eee-a6c4-afb1dc0700ef.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.04689,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 60,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.05236,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.5
+      }
+    },
+    {
+      "scene": "S32",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "36f82ab9e40abefe5d8c95d31a64f520",
+      "file": "media-generation-mv14-s32-t1-0-0523a013-c07c-4046-9519-d76a66c92ce0.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02339,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 77,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03107,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 3.21
+      }
+    },
+    {
+      "scene": "S25",
+      "take": "t3",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "a29e1beac58710dcd6b58a6790b73978",
+      "file": "media-generation-mv14-s25-t3-0-43219b1f-a647-4296-bfec-bd64c8bd94ec.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03422,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 54,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03342,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.26
+      }
+    },
+    {
+      "scene": "S33",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "b6d5d487911f837847666b27253a4cff",
+      "file": "media-generation-mv14-s33-t1-0-ac1b6dea-49f2-4450-bd94-ae9b9d10ddad.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.06723,
+        "M6_dup_count": 8,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.0019,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.02778,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 36,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.0017,
+        "M6_longest_dup_run_s": 0.04,
+        "w0_s": 0.0,
+        "w1_s": 1.53
+      }
+    },
+    {
+      "scene": "S34",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "5af2d19ce9d58014ef3dc2067cf84683",
+      "file": "media-generation-mv14-s34-t1-0-62e72593-bb59-44aa-afe4-2b53b88da3b6.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01589,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 34,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02033,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.43
+      }
+    },
+    {
+      "scene": "S35",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "a89482315059870135d9fba36a0ebc02",
+      "file": "media-generation-mv14-s35-t1-0-feec386c-8319-429b-a3df-02133e95efb5.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.05275,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 31,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06985,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.21,
+        "w1_s": 1.57
+      }
+    },
+    {
+      "scene": "S36",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "d8d6e417bcff251d61a408df7b346dce",
+      "file": "media-generation-mv14-s36-t1-0-b05b5b22-f9dc-4218-994f-f6a425160fb5.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.08954,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 57,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.09635,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.38
+      }
+    },
+    {
+      "scene": "S37",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "40548903f50d06088917789b91d36561",
+      "file": "media-generation-mv14-s37-t1-0-c12adc20-cd48-47fb-bbd9-c2b977af2778.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.01849,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 33,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01961,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.4
+      }
+    },
+    {
+      "scene": "S39",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "3692a2f265b119af33dcb86971be127e",
+      "file": "media-generation-mv14-s39-t1-0-1a012437-00a6-44bc-8ba5-51ae0f19318e.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06883,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 85,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.07286,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 3.57
+      }
+    },
+    {
+      "scene": "S40",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "1f7f8d1244dbf61fb4eb378f0c5f33fa",
+      "file": "media-generation-mv14-s40-t1-0-af3e1446-0d88-486a-ac15-0ff79b32e70d.mp4",
+      "fps": 24.0,
+      "frames": 240,
+      "duration_s": 10.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 239,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03936,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 18,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.06096,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 3.78,
+        "w1_s": 4.56
+      }
+    },
+    {
+      "scene": "S41",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "c71d94101beb8e3a22410170c60d8273",
+      "file": "media-generation-mv14-s41-t1-0-cc25c846-0be7-4550-8f17-caf26216d9c4.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.29412,
+        "M6_dup_count": 35,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 22,
+        "M1_activity_median_diff": 0.00312,
+        "M6_longest_dup_run_s": 0.92
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 55,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.0089,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.3
+      }
+    },
+    {
+      "scene": "S42",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "7ecb067235070bd38f8f3b792c45c50f",
+      "file": "media-generation-mv14-s42-t1-0-aa2b7c94-f0a3-4b14-87d5-f39d2e30e096.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0084,
+        "M6_dup_count": 1,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.00937,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 50,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02793,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.1
+      }
+    },
+    {
+      "scene": "S43",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "5db794a17137f3f0721bc53a89bb0830",
+      "file": "media-generation-mv14-s43-t1-0-ee5ed525-34b0-486b-b407-99c341157f1e.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.15126,
+        "M6_dup_count": 18,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 7,
+        "M1_activity_median_diff": 0.00153,
+        "M6_longest_dup_run_s": 0.29
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 34,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.00194,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 1.44
+      }
+    },
+    {
+      "scene": "S38",
+      "take": "t2",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "32c3a6b923df5ed58a6b146fe17f8350",
+      "file": "media-generation-mv14-s38-t2-0-df103ccf-212f-4a62-bc4e-b8571ddff7d7.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.02521,
+        "M6_dup_count": 3,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 2,
+        "M1_activity_median_diff": 0.01322,
+        "M6_longest_dup_run_s": 0.08
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 59,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01886,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.46
+      }
+    },
+    {
+      "scene": "S44",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "144b103724c3b016dfaddce23fa34fbd",
+      "file": "media-generation-mv14-s44-t1-0-ae84e71c-d316-4695-aa2a-b0af99a3247c.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.01139,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 68,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02711,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.86
+      }
+    },
+    {
+      "scene": "S45",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "7d64ea77d775762db87115b5799eeb76",
+      "file": "media-generation-mv14-s45-t1-0-1aaf7264-5f51-44ef-b102-5c2b071e93c4.mp4",
+      "fps": 24.0,
+      "frames": 240,
+      "duration_s": 10.0,
+      "full": {
+        "M6_dup_ratio": 0.16318,
+        "M6_dup_count": 39,
+        "M6_n_transitions": 239,
+        "M6_longest_dup_run_frames": 1,
+        "M1_activity_median_diff": 0.00516,
+        "M6_longest_dup_run_s": 0.04
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 44,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.02022,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 2.04,
+        "w1_s": 3.9
+      }
+    },
+    {
+      "scene": "S46",
+      "take": "t1",
+      "verdict": "KEEP",
+      "reject_reason": null,
+      "md5": "4d07a1a466ddb51d46bc6a3f1f78b79d",
+      "file": "media-generation-mv14-s46-t1-0-02ccaaa3-7a3b-4f34-baff-203f84ca3db2.mp4",
+      "fps": 24.0,
+      "frames": 120,
+      "duration_s": 5.0,
+      "full": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 119,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.03588,
+        "M6_longest_dup_run_s": 0.0
+      },
+      "window": {
+        "M6_dup_ratio": 0.0,
+        "M6_dup_count": 0,
+        "M6_n_transitions": 52,
+        "M6_longest_dup_run_frames": 0,
+        "M1_activity_median_diff": 0.04147,
+        "M6_longest_dup_run_s": 0.0,
+        "w0_s": 0.0,
+        "w1_s": 2.18
+      }
+    }
+  ]
+}

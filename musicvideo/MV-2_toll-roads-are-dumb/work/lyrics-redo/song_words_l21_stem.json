@@ -1,0 +1,117 @@
+{
+ "stem": "l21",
+ "offset": 107.0,
+ "model": "large-v3-turbo",
+ "n_words": 17,
+ "words": [
+  {
+   "word": "Ole",
+   "start": 107.0,
+   "end": 107.4,
+   "prob": 0.041
+  },
+  {
+   "word": "Miss.",
+   "start": 107.4,
+   "end": 107.86,
+   "prob": 0.356
+  },
+  {
+   "word": "Lexus",
+   "start": 108.08,
+   "end": 108.44,
+   "prob": 0.966
+  },
+  {
+   "word": "lanes,",
+   "start": 108.44,
+   "end": 108.8,
+   "prob": 0.586
+  },
+  {
+   "word": "they",
+   "start": 108.96,
+   "end": 109.0,
+   "prob": 0.984
+  },
+  {
+   "word": "call",
+   "start": 109.0,
+   "end": 109.36,
+   "prob": 0.992
+  },
+  {
+   "word": "them.",
+   "start": 109.36,
+   "end": 109.5,
+   "prob": 0.331
+  },
+  {
+   "word": "Money",
+   "start": 109.68,
+   "end": 110.16,
+   "prob": 0.98
+  },
+  {
+   "word": "buys",
+   "start": 110.16,
+   "end": 110.6,
+   "prob": 0.974
+  },
+  {
+   "word": "the",
+   "start": 110.6,
+   "end": 110.78,
+   "prob": 0.97
+  },
+  {
+   "word": "clear.",
+   "start": 110.78,
+   "end": 111.04,
+   "prob": 0.994
+  },
+  {
+   "word": "Poor",
+   "start": 111.26,
+   "end": 111.44,
+   "prob": 0.981
+  },
+  {
+   "word": "folks",
+   "start": 111.44,
+   "end": 111.84,
+   "prob": 0.963
+  },
+  {
+   "word": "sit",
+   "start": 111.84,
+   "end": 112.18,
+   "prob": 0.917
+  },
+  {
+   "word": "in",
+   "start": 112.18,
+   "end": 112.26,
+   "prob": 0.994
+  },
+  {
+   "word": "traffic",
+   "start": 112.26,
+   "end": 112.68,
+   "prob": 0.999
+  },
+  {
+   "word": "while",
+   "start": 112.68,
+   "end": 112.98,
+   "prob": 0.795
+  }
+ ],
+ "segments": [
+  {
+   "start": 107.0,
+   "end": 112.98,
+   "text": "Ole Miss. Lexus lanes, they call them. Money buys the clear. Poor folks sit in traffic while"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "segments": [
+  {
+   "start": 7.2,
+   "end": 10.0,
+   "text": "Thank you for watching!"
+  }
+ ],
+ "words": [
+  {
+   "word": "Thank",
+   "start": 7.2,
+   "end": 8.6,
+   "p": 0.01
+  },
+  {
+   "word": "you",
+   "start": 8.6,
+   "end": 10.0,
+   "p": 0.93
+  },
+  {
+   "word": "for",
+   "start": 10.0,
+   "end": 10.0,
+   "p": 0.26
+  },
+  {
+   "word": "watching!",
+   "start": 10.0,
+   "end": 10.0,
+   "p": 0.71
+  }
+ ]
+}

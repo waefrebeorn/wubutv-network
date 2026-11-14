@@ -1,0 +1,57 @@
+# MV-8 REBUILD v2 — O-A SPLIT coordinator vehicle: O-A "The Return Flight" APEX-WINDOW TAKE (JOURNEY)
+# Scene: O-A, song 146.00–163.00 (3504–3912f). 17.00s scene; SPLIT assembly.
+# Instrumental. TRUE-PEAK SCENE: loop-the-loop apex MUST land on frame 3826
+# (159.435s), 322f into O-A = 3.435s into the 156.00–163.00 apex window.
+# USER DECISION 2026-11-08 ~18:49 EST: SPLIT THE APEX SCENE.
+#
+# WHY THE SPLIT: four O-A attempts all REJECTED on apex miss (crests 2.0 /
+# 5.75 / 6.5 / 6.25s; single-take gate needs >=6.71s). Generator law (proven):
+# the climax lands in the 55–65% window of a 10s take regardless of timing
+# language; prompt-tuning the crest later has hit a ceiling (~6.5s max).
+# The split stops fighting that law and USES it: this take's crest is DESIGNED
+# to sit in the natural window (~5.5–6.5s), and assembly trims its head so the
+# crest lands on 159.435s.
+#
+# SPLIT DESIGN:
+# - APPROACH (146.00–156.00, 10.00s = 240f): take 3 (takes/O-A_v2_r3.mp4,
+#   md5 5ad305b4095e9a81abad5437ef33d4ce) climb 0s up to just before its ~6.5s
+#   crest — NEVER past the crest. Warped ~1.54x slow (6.5s -> 10.0s, inside
+#   the 2x cap) to fill the 10s approach window. Split point: 156.00s /
+#   frame 3744.
+# - APEX WINDOW (156.00–163.00, 7.00s = 168f): THIS take, trimmed so its
+#   crest lands at 3.435s into the window (frame 3826). Trim-in = crest_time
+#   - 3.435s (e.g. crest at 6.0s -> trim-in 2.565s; used span 2.565–9.565s).
+#   The take's dive / vortex tail carries 159.435s -> 163.00.
+# - Total: 240f + 168f = 408f exactly.
+#
+# NEW AXIS — APEX-WINDOW / MID-CLIMB START (not climb-first, not embargo,
+# not two-image): the rider is ALREADY HIGH and ALREADY MID-CLIMB at frame 0,
+# the great water ring already ahead of her and rising. No climb build-up is
+# asked for — the clip IS the approach to the ring, the crest, and the dive.
+# The crest is the clip's natural climax, expected in the generator's
+# 55–65% window (~5.5–6.5s). The dive after the crest is fully shown.
+# Anchors: F11.jpg ONLY (start, rear flight over palace city). NO F02 second
+# image — two-image calls front-load the loop (morph pulls F02 in ~7s).
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: already flying fast at frame 0 — camera already swooping, never
+# still. No frozen lead-in. Continuous motion to the last frame.
+# QC GATE (take-level, before KEEP): adult Champion matches anchor, no text,
+# no child, motion from frame 0, and the crest is MEASURABLE BY EYE from
+# frames and PLACEABLE on 159.435s by trimming the take's head alone
+# (trim-in = crest - 3.435s must be >= 0 and the remaining tail must cover
+# 7.00s, i.e. crest <= 6.565s... if crest is 5.5–6.5s, trim-in 2.065–3.065s,
+# used span ends 9.065–10.065s — a crest past ~6.565s leaves <7s of tail and
+# the window must instead slow-warp slightly; report the math honestly).
+# If the crest cannot be placed within ±6f of frame 3826 by trimming alone,
+# ONE re-fire on a NEW axis only; if that also misses, STOP and report.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. High above a golden porcelain palace city at golden hour, the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, rides a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles and a cream scarf streaming behind. She is already flying fast and already high as the clip opens, already mid-climb, the camera already swooping with her, never still. The great water ring is already ahead of her, huge and rising out of the clouds, and she banks toward it, climbing the last stretch to the ring, rolling over the very top of the loop at the highest point of the flight, the biggest visual in the video, and dives down the far side toward a vast spiralling white foam vortex below, spray and bubbles streaming past, the dive carrying her all the way down to the last frame. Continuous motion to the last frame. No text, no logos, no children."
+Image 1: F11.jpg
+Text 2: "Ends on the dive: the Champion rolling over the top of the great water ring at the highest point of the flight, plunging toward the foam vortex below, spray and bubbles streaming, continuous motion to the last frame. No text, no logos, no children, no other characters."

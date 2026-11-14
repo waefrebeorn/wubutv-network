@@ -1,0 +1,558 @@
+{
+ "s06": {
+  "take": "mv5_s06_t1.mp4",
+  "song_slot": 7.32,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 0.639,
+   "longest_neardup_run": 5,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.701,
+   "vocal_longest_neardup": 1,
+   "per_second_mean_diff": [
+    0.742,
+    0.602,
+    0.659,
+    0.806,
+    0.541,
+    0.687
+   ]
+  },
+  "whisper_text": "Keys in your hand, you nodded at the waves like, yeah, they already understand",
+  "whisper_words": [
+   " Keys",
+   " in",
+   " your",
+   " hand,",
+   " you",
+   " nodded",
+   " at",
+   " the",
+   " waves",
+   " like,",
+   " yeah,",
+   " they",
+   " already",
+   " understand"
+  ],
+  "whisper_nwords": 14,
+  "take_line_span": 8.14,
+  "first_word": 0.0,
+  "last_word_end": 8.14,
+  "line_ratio": 0.9,
+  "word_times": [
+   [
+    "Keys",
+    0.0,
+    0.42
+   ],
+   [
+    "in",
+    0.42,
+    0.78
+   ],
+   [
+    "your",
+    0.78,
+    1.1
+   ],
+   [
+    "hand,",
+    1.1,
+    2.26
+   ],
+   [
+    "you",
+    2.5,
+    3.56
+   ],
+   [
+    "nodded",
+    3.56,
+    4.22
+   ],
+   [
+    "at",
+    4.22,
+    4.42
+   ],
+   [
+    "the",
+    4.42,
+    4.7
+   ],
+   [
+    "waves",
+    4.7,
+    5.1
+   ],
+   [
+    "like,",
+    5.1,
+    5.58
+   ],
+   [
+    "yeah,",
+    5.76,
+    6.0
+   ],
+   [
+    "they",
+    6.14,
+    6.28
+   ],
+   [
+    "already",
+    6.28,
+    6.94
+   ],
+   [
+    "understand",
+    6.94,
+    8.14
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s07": {
+  "take": "mv5_s07_t1.mp4",
+  "song_slot": 9.76,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 0.527,
+   "longest_neardup_run": 11,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.563,
+   "vocal_longest_neardup": 5,
+   "per_second_mean_diff": [
+    0.541,
+    0.731,
+    0.708,
+    0.684,
+    0.564,
+    0.503,
+    0.333,
+    0.615
+   ]
+  },
+  "whisper_text": "Slow down, take your time, let the hard week fade, one small look from you, and my whole head replays",
+  "whisper_words": [
+   " Slow",
+   " down,",
+   " take",
+   " your",
+   " time,",
+   " let",
+   " the",
+   " hard",
+   " week",
+   " fade,",
+   " one",
+   " small",
+   " look",
+   " from",
+   " you,",
+   " and",
+   " my",
+   " whole",
+   " head",
+   " replays"
+  ],
+  "whisper_nwords": 20,
+  "take_line_span": 9.96,
+  "first_word": 0.0,
+  "last_word_end": 9.96,
+  "line_ratio": 0.98,
+  "word_times": [
+   [
+    "Slow",
+    0.0,
+    0.4
+   ],
+   [
+    "down,",
+    0.4,
+    0.86
+   ],
+   [
+    "take",
+    0.86,
+    1.68
+   ],
+   [
+    "your",
+    1.68,
+    1.96
+   ],
+   [
+    "time,",
+    1.96,
+    2.82
+   ],
+   [
+    "let",
+    3.12,
+    3.3
+   ],
+   [
+    "the",
+    3.3,
+    3.56
+   ],
+   [
+    "hard",
+    3.56,
+    3.96
+   ],
+   [
+    "week",
+    3.96,
+    4.28
+   ],
+   [
+    "fade,",
+    4.28,
+    4.86
+   ],
+   [
+    "one",
+    4.92,
+    5.4
+   ],
+   [
+    "small",
+    5.4,
+    5.78
+   ],
+   [
+    "look",
+    5.78,
+    6.12
+   ],
+   [
+    "from",
+    6.12,
+    6.38
+   ],
+   [
+    "you,",
+    6.38,
+    6.92
+   ],
+   [
+    "and",
+    7.32,
+    7.64
+   ],
+   [
+    "my",
+    7.64,
+    7.86
+   ],
+   [
+    "whole",
+    7.86,
+    8.24
+   ],
+   [
+    "head",
+    8.24,
+    8.76
+   ],
+   [
+    "replays",
+    8.76,
+    9.96
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s08": {
+  "take": "mv5_s08_t2.mp4",
+  "song_slot": 9.54,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 2.1,
+   "longest_neardup_run": 7,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 2.267,
+   "vocal_longest_neardup": 1,
+   "per_second_mean_diff": [
+    2.752,
+    2.394,
+    2.162,
+    2.257,
+    3.118,
+    1.867,
+    2.638,
+    1.271
+   ]
+  },
+  "whisper_text": "Easy now, easy now Easy now, easy now",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now",
+   " Easy",
+   " now,",
+   " easy",
+   " now"
+  ],
+  "whisper_nwords": 8,
+  "take_line_span": 7.46,
+  "first_word": 0.0,
+  "last_word_end": 7.46,
+  "line_ratio": 1.28,
+  "word_times": [
+   [
+    "Easy",
+    0.0,
+    0.74
+   ],
+   [
+    "now,",
+    0.74,
+    1.32
+   ],
+   [
+    "easy",
+    2.06,
+    2.48
+   ],
+   [
+    "now",
+    2.48,
+    3.22
+   ],
+   [
+    "Easy",
+    3.22,
+    5.56
+   ],
+   [
+    "now,",
+    5.56,
+    6.26
+   ],
+   [
+    "easy",
+    6.52,
+    6.8
+   ],
+   [
+    "now",
+    6.8,
+    7.46
+   ]
+  ],
+  "repeat_bigrams": [
+   "easy now",
+   "now easy"
+  ],
+  "forbidden_found": [],
+  "easy_now_count": 4
+ },
+ "s09": {
+  "take": "mv5_s09_t1.mp4",
+  "song_slot": 9.74,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 2.318,
+   "longest_neardup_run": 2,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 2.447,
+   "vocal_longest_neardup": 2,
+   "per_second_mean_diff": [
+    2.642,
+    3.131,
+    2.951,
+    2.978,
+    1.955,
+    2.117,
+    1.914,
+    1.893
+   ]
+  },
+  "whisper_text": "Easy now, easy now, easy now, easy now",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now,",
+   " easy",
+   " now,",
+   " easy",
+   " now"
+  ],
+  "whisper_nwords": 8,
+  "take_line_span": 6.06,
+  "first_word": 0.0,
+  "last_word_end": 6.06,
+  "line_ratio": 1.61,
+  "word_times": [
+   [
+    "Easy",
+    0.0,
+    0.54
+   ],
+   [
+    "now,",
+    0.54,
+    1.04
+   ],
+   [
+    "easy",
+    1.58,
+    2.06
+   ],
+   [
+    "now,",
+    2.06,
+    2.8
+   ],
+   [
+    "easy",
+    3.3,
+    3.74
+   ],
+   [
+    "now,",
+    3.74,
+    4.48
+   ],
+   [
+    "easy",
+    4.8,
+    5.34
+   ],
+   [
+    "now",
+    5.34,
+    6.06
+   ]
+  ],
+  "repeat_bigrams": [
+   "easy now",
+   "now easy"
+  ],
+  "forbidden_found": [],
+  "easy_now_count": 4
+ },
+ "s10": {
+  "take": "mv5_s10_t1.mp4",
+  "song_slot": 8.4,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 19.357,
+   "longest_neardup_run": 0,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 18.983,
+   "vocal_longest_neardup": 0,
+   "per_second_mean_diff": [
+    16.208,
+    12.49,
+    10.763,
+    16.856,
+    24.301,
+    23.888,
+    23.163,
+    23.464
+   ]
+  }
+ },
+ "s11": {
+  "take": "mv5_s11_t1.mp4",
+  "song_slot": 7.84,
+  "motion": {
+   "frames": 192,
+   "mean_diff": 2.925,
+   "longest_neardup_run": 3,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 1.898,
+   "vocal_longest_neardup": 3,
+   "per_second_mean_diff": [
+    6.933,
+    3.699,
+    0.876,
+    1.358,
+    1.068,
+    1.129
+   ]
+  },
+  "whisper_text": "Socks in the sand, time with our feet",
+  "whisper_words": [
+   " Socks",
+   " in",
+   " the",
+   " sand,",
+   " time",
+   " with",
+   " our",
+   " feet"
+  ],
+  "whisper_nwords": 8,
+  "take_line_span": 5.02,
+  "first_word": 1.36,
+  "last_word_end": 6.38,
+  "line_ratio": 1.56,
+  "word_times": [
+   [
+    "Socks",
+    1.36,
+    2.12
+   ],
+   [
+    "in",
+    2.12,
+    2.42
+   ],
+   [
+    "the",
+    2.42,
+    2.62
+   ],
+   [
+    "sand,",
+    2.62,
+    3.52
+   ],
+   [
+    "time",
+    3.74,
+    4.96
+   ],
+   [
+    "with",
+    4.96,
+    5.34
+   ],
+   [
+    "our",
+    5.34,
+    5.72
+   ],
+   [
+    "feet",
+    5.72,
+    6.38
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ }
+}

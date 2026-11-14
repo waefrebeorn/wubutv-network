@@ -1,0 +1,54 @@
+MV-11 REBUILD S19 t1 — "Final Three" (the patter as a strobe of rings) — CONTINUITY volley 5 (FINAL)
+Song window: 131.00–141.00 (10.00s slot). Scene: FH-C. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN from S18 t1 @10.00s (work/stills/stack/chain_s18_last.png,
+md5 e0846c1dc94191ffef73a953f4962d16 — settled stream over the rim, duck at
+the rim, floor puddle with wide rings).
+End ref: s19_end (generated this volley, conditioned on the S18 slot-end
+frame — concentric rings racing across the bowl and the floor puddle, duck
+back at the centre, room glowing gold; read back PASS, md5
+6a371029f080ee29c2b2c25f20645e3b).
+Lines: "Balls balls" ~131.82–134.92 (take ~0.82–3.92) + "Water hits my
+balls" ~138.42 (take ~7.42). Final Hook word times are anchor-level only
+— Whisper fell into a degenerate "water" loop 110.7–130.7, so motion is
+keyed to the BEAT GRID, not word times.
+Kinetic in post: CASCADE on "Balls balls".
+Images:
+[1] work/stills/stack/chain_s18_last.png (md5 e0846c1dc94191ffef73a953f4962d16)
+[2] work/stills/stack/s19_end_1248x704.webp (md5 6a371029f080ee29c2b2c25f20645e3b — read back PASS:
+same toilet-bowl room, glowing rings in the bowl and on the floor puddle,
+duck back at the centre, gold lamp glow)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.07/0.53/0.98/1.44/1.90/2.35/2.81/3.27/3.72/4.18/4.64/5.09/5.55/6.01/
+6.46/6.92/7.38/7.83/8.29/8.75/9.20/9.66.
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The rings race INSIDE the wide frame; the bowl stays
+fully visible at all times; the duck stays visible in the foreground.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, a toilet-paper holder on the left wall. A thin stream of cobalt water is still spilling over the rim of the bowl, the yellow rubber duck with an orange beak perched at the rim, a wide puddle with rings on the floor. Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the stream spilling over the rim, the duck at the rim, the floor puddle with rings. The picture is already moving at frame 0 — the water is streaming, the rings are widening. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s18_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full ten seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 3 seconds the patter becomes a strobe of rings: one bright glowing ring fires across the bowl and the floor puddle on every beat, each ring racing outward and fading as the next one fires, the room pulsing cobalt and gold in turn, the yellow duck drifting back toward the centre of the bowl. From 3 to 7 seconds the rings keep strobing — a fresh ring on every beat, rings racing across the water and the floor, the room glowing gold on the stabs and deep cobalt between them, droplets raining in the lamp light, the duck bobbing at the centre of the bowl. From 7 to 10 seconds a fresh wave of rings races out as the water hits again, the duck at the centre, the room glowing gold, the rings widening and slowing. The camera holds this exact wide framing for the full ten seconds — it does NOT push in, it does NOT circle the duck, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s19_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: the yellow duck at the centre of the bowl, concentric glowing rings racing across the water and the floor puddle, the room glowing gold, ready for the Final Hook to climb higher.
+
+NOTES: S19 is the Final Hook's third scene — the patter as a strobe.
+QC focus: rings visibly STROBING one per beat (a fresh ring on each beat
+0.98/1.44/1.90/2.35/2.81/3.27/3.72 and through the take); the duck
+VISIBLE in every sampled frame, drifting centre-ward, never filling more
+than ~20% of frame height; ONE duck throughout; framing HELD WIDE (bowl
+fully visible at all times); room identity = the SAME toilet-bowl room
+as the S18 slot end (white porcelain toilet, teal tiles, vermilion
+towel, dome lamp, window, toilet-paper holder — NO bathtub, NO sink,
+NO door, NO plant). Joint J18 is CHAIN: frame 0 must match
+chain_s18_last.png (same framing, lighting, subject). Assembly uses the
+full 10.00s slot.

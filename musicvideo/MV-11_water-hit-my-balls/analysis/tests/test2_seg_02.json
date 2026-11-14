@@ -1,0 +1,320 @@
+{
+ "segment": 2,
+ "start": 25.9,
+ "end": 44.89,
+ "mix": {
+  "words": [
+   {
+    "word": "Balls,",
+    "start": 25.9,
+    "end": 26.92,
+    "prob": 0.673
+   },
+   {
+    "word": "balls,",
+    "start": 26.94,
+    "end": 27.42,
+    "prob": 0.948
+   },
+   {
+    "word": "blast,",
+    "start": 27.66,
+    "end": 27.96,
+    "prob": 0.201
+   },
+   {
+    "word": "blast",
+    "start": 28.14,
+    "end": 28.48,
+    "prob": 0.738
+   },
+   {
+    "word": "Water",
+    "start": 28.48,
+    "end": 29.54,
+    "prob": 0.0
+   },
+   {
+    "word": "hits",
+    "start": 29.54,
+    "end": 30.26,
+    "prob": 0.993
+   },
+   {
+    "word": "my",
+    "start": 30.26,
+    "end": 30.58,
+    "prob": 0.997
+   },
+   {
+    "word": "balls",
+    "start": 30.58,
+    "end": 31.0,
+    "prob": 0.989
+   },
+   {
+    "word": "Water",
+    "start": 31.0,
+    "end": 31.68,
+    "prob": 0.009
+   },
+   {
+    "word": "hits,",
+    "start": 31.68,
+    "end": 32.08,
+    "prob": 0.998
+   },
+   {
+    "word": "my",
+    "start": 32.34,
+    "end": 32.4,
+    "prob": 0.664
+   },
+   {
+    "word": "balls",
+    "start": 32.4,
+    "end": 33.0,
+    "prob": 0.991
+   },
+   {
+    "word": "Water",
+    "start": 33.0,
+    "end": 33.54,
+    "prob": 0.563
+   },
+   {
+    "word": "hits.",
+    "start": 33.54,
+    "end": 34.0,
+    "prob": 0.997
+   },
+   {
+    "word": "My",
+    "start": 34.24,
+    "end": 34.34,
+    "prob": 0.458
+   },
+   {
+    "word": "balls",
+    "start": 34.34,
+    "end": 34.98,
+    "prob": 0.988
+   },
+   {
+    "word": "Flash",
+    "start": 34.98,
+    "end": 35.5,
+    "prob": 0.127
+   },
+   {
+    "word": "back",
+    "start": 35.5,
+    "end": 35.88,
+    "prob": 0.661
+   },
+   {
+    "word": "on",
+    "start": 35.88,
+    "end": 36.08,
+    "prob": 0.477
+   },
+   {
+    "word": "the",
+    "start": 36.08,
+    "end": 36.24,
+    "prob": 0.915
+   },
+   {
+    "word": "balls",
+    "start": 36.24,
+    "end": 37.0,
+    "prob": 0.982
+   },
+   {
+    "word": "Balls",
+    "start": 37.0,
+    "end": 37.58,
+    "prob": 0.866
+   },
+   {
+    "word": "balls",
+    "start": 37.58,
+    "end": 37.9,
+    "prob": 0.053
+   },
+   {
+    "word": "Balls",
+    "start": 41.46,
+    "end": 42.26,
+    "prob": 0.52
+   }
+  ],
+  "text": " Balls, balls, blast, blast  Water hits my balls  Water hits, my balls  Water hits.  My balls  Flash back on the balls  Balls balls  Balls",
+  "wall_s": 26.4,
+  "score": {
+   "expected": 31,
+   "hit": 21,
+   "coverage": 0.677,
+   "non_lyric_words": 3,
+   "n_words": 24
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Balls,",
+    "start": 25.9,
+    "end": 26.9,
+    "prob": 0.582
+   },
+   {
+    "word": "balls,",
+    "start": 26.94,
+    "end": 27.52,
+    "prob": 0.924
+   },
+   {
+    "word": "balls",
+    "start": 27.66,
+    "end": 28.02,
+    "prob": 0.985
+   },
+   {
+    "word": "Balls",
+    "start": 28.02,
+    "end": 29.04,
+    "prob": 0.498
+   },
+   {
+    "word": "Gun",
+    "start": 29.04,
+    "end": 29.18,
+    "prob": 0.0
+   },
+   {
+    "word": "Water",
+    "start": 29.18,
+    "end": 29.9,
+    "prob": 0.17
+   },
+   {
+    "word": "hits",
+    "start": 29.9,
+    "end": 30.26,
+    "prob": 0.97
+   },
+   {
+    "word": "my",
+    "start": 30.26,
+    "end": 30.62,
+    "prob": 0.944
+   },
+   {
+    "word": "balls",
+    "start": 30.62,
+    "end": 31.02,
+    "prob": 0.947
+   },
+   {
+    "word": "Water",
+    "start": 31.02,
+    "end": 31.68,
+    "prob": 0.141
+   },
+   {
+    "word": "hits",
+    "start": 31.68,
+    "end": 32.16,
+    "prob": 0.998
+   },
+   {
+    "word": "My",
+    "start": 32.16,
+    "end": 32.4,
+    "prob": 0.0
+   },
+   {
+    "word": "balls",
+    "start": 32.4,
+    "end": 33.1,
+    "prob": 0.994
+   },
+   {
+    "word": "Water",
+    "start": 33.1,
+    "end": 33.48,
+    "prob": 0.028
+   },
+   {
+    "word": "hits",
+    "start": 33.48,
+    "end": 34.0,
+    "prob": 0.999
+   },
+   {
+    "word": "My",
+    "start": 34.0,
+    "end": 34.3,
+    "prob": 0.114
+   },
+   {
+    "word": "balls",
+    "start": 34.3,
+    "end": 34.92,
+    "prob": 0.998
+   },
+   {
+    "word": "Flashback",
+    "start": 34.92,
+    "end": 35.9,
+    "prob": 0.494
+   },
+   {
+    "word": "of",
+    "start": 35.9,
+    "end": 36.12,
+    "prob": 0.315
+   },
+   {
+    "word": "Balls",
+    "start": 36.12,
+    "end": 37.08,
+    "prob": 0.789
+   },
+   {
+    "word": "Balls",
+    "start": 37.08,
+    "end": 38.02,
+    "prob": 0.539
+   },
+   {
+    "word": "Balls",
+    "start": 38.02,
+    "end": 38.46,
+    "prob": 0.906
+   },
+   {
+    "word": "Balls",
+    "start": 38.46,
+    "end": 39.82,
+    "prob": 0.921
+   },
+   {
+    "word": "Balls",
+    "start": 41.36,
+    "end": 42.36,
+    "prob": 0.936
+   }
+  ],
+  "text": " Balls, balls, balls  Balls  Gun  Water hits my balls  Water hits  My balls  Water hits  My balls  Flashback of  Balls  Balls  Balls  Balls  Balls",
+  "wall_s": 25.2,
+  "score": {
+   "expected": 31,
+   "hit": 21,
+   "coverage": 0.677,
+   "non_lyric_words": 3,
+   "n_words": 24
+  }
+ },
+ "winner": "mix"
+}

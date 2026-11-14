@@ -1,0 +1,298 @@
+{
+  "mv4_s21_t1": {
+    "words": 16,
+    "expected": 14,
+    "ratio": 1.14,
+    "text": "Future Rama's finished, future Rama's finished For real this time No more reruns in the dark",
+    "vocal_mean_diff": 3.595,
+    "longest_near_dup_run": 1,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "Future",
+        "start": 0.0,
+        "end": 1.0
+      },
+      {
+        "word": "Rama's",
+        "start": 1.0,
+        "end": 1.66
+      },
+      {
+        "word": "finished,",
+        "start": 1.66,
+        "end": 2.02
+      },
+      {
+        "word": "future",
+        "start": 2.12,
+        "end": 2.62
+      },
+      {
+        "word": "Rama's",
+        "start": 2.62,
+        "end": 3.26
+      },
+      {
+        "word": "finished",
+        "start": 3.26,
+        "end": 3.7
+      },
+      {
+        "word": "For",
+        "start": 3.7,
+        "end": 4.4
+      },
+      {
+        "word": "real",
+        "start": 4.4,
+        "end": 4.84
+      },
+      {
+        "word": "this",
+        "start": 4.84,
+        "end": 5.24
+      },
+      {
+        "word": "time",
+        "start": 5.24,
+        "end": 5.86
+      },
+      {
+        "word": "No",
+        "start": 5.86,
+        "end": 6.62
+      },
+      {
+        "word": "more",
+        "start": 6.62,
+        "end": 7.04
+      },
+      {
+        "word": "reruns",
+        "start": 7.04,
+        "end": 7.8
+      },
+      {
+        "word": "in",
+        "start": 7.8,
+        "end": 8.12
+      },
+      {
+        "word": "the",
+        "start": 8.12,
+        "end": 8.3
+      },
+      {
+        "word": "dark",
+        "start": 8.3,
+        "end": 8.94
+      }
+    ]
+  },
+  "mv4_s23_t1": {
+    "words": 10,
+    "expected": 14,
+    "ratio": 0.71,
+    "text": "Good news, everyone. Good news, everyone. The ride is done.",
+    "vocal_mean_diff": 3.096,
+    "longest_near_dup_run": 1,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "Good",
+        "start": 0.0,
+        "end": 0.46
+      },
+      {
+        "word": "news,",
+        "start": 0.46,
+        "end": 1.06
+      },
+      {
+        "word": "everyone.",
+        "start": 1.62,
+        "end": 2.12
+      },
+      {
+        "word": "Good",
+        "start": 2.74,
+        "end": 3.04
+      },
+      {
+        "word": "news,",
+        "start": 3.04,
+        "end": 3.52
+      },
+      {
+        "word": "everyone.",
+        "start": 4.02,
+        "end": 4.56
+      },
+      {
+        "word": "The",
+        "start": 5.38,
+        "end": 5.5
+      },
+      {
+        "word": "ride",
+        "start": 5.5,
+        "end": 5.92
+      },
+      {
+        "word": "is",
+        "start": 5.92,
+        "end": 6.32
+      },
+      {
+        "word": "done.",
+        "start": 6.32,
+        "end": 6.68
+      }
+    ]
+  },
+  "mv4_s24_t1": {
+    "words": 10,
+    "expected": 10,
+    "ratio": 1.0,
+    "text": "Good news, everyone. Good news, everyone. No more coming on.",
+    "vocal_mean_diff": 5.922,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "Good",
+        "start": 0.0,
+        "end": 0.38
+      },
+      {
+        "word": "news,",
+        "start": 0.38,
+        "end": 0.84
+      },
+      {
+        "word": "everyone.",
+        "start": 1.22,
+        "end": 1.64
+      },
+      {
+        "word": "Good",
+        "start": 2.18,
+        "end": 2.34
+      },
+      {
+        "word": "news,",
+        "start": 2.34,
+        "end": 2.7
+      },
+      {
+        "word": "everyone.",
+        "start": 2.94,
+        "end": 3.48
+      },
+      {
+        "word": "No",
+        "start": 4.32,
+        "end": 4.58
+      },
+      {
+        "word": "more",
+        "start": 4.58,
+        "end": 5.02
+      },
+      {
+        "word": "coming",
+        "start": 5.02,
+        "end": 5.56
+      },
+      {
+        "word": "on.",
+        "start": 5.56,
+        "end": 6.28
+      }
+    ]
+  },
+  "mv4_s25_t1": {
+    "words": 2,
+    "expected": 4,
+    "ratio": 0.5,
+    "text": "Futurama's finished",
+    "vocal_mean_diff": 1.259,
+    "longest_near_dup_run": 3,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "Futurama's",
+        "start": 0.0,
+        "end": 1.74
+      },
+      {
+        "word": "finished",
+        "start": 1.74,
+        "end": 2.92
+      }
+    ]
+  },
+  "mv4_s26_t1": {
+    "words": 4,
+    "expected": 4,
+    "ratio": 1.0,
+    "text": "For real this time",
+    "vocal_mean_diff": 2.454,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "For",
+        "start": 0.0,
+        "end": 0.68
+      },
+      {
+        "word": "real",
+        "start": 0.68,
+        "end": 1.54
+      },
+      {
+        "word": "this",
+        "start": 1.54,
+        "end": 2.36
+      },
+      {
+        "word": "time",
+        "start": 2.36,
+        "end": 3.6
+      }
+    ]
+  },
+  "mv4_s27_t1": {
+    "words": 4,
+    "expected": 4,
+    "ratio": 1.0,
+    "text": "No more coming on.",
+    "vocal_mean_diff": 2.609,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "No",
+        "start": 0.0,
+        "end": 0.86
+      },
+      {
+        "word": "more",
+        "start": 0.86,
+        "end": 2.62
+      },
+      {
+        "word": "coming",
+        "start": 2.62,
+        "end": 3.68
+      },
+      {
+        "word": "on.",
+        "start": 3.68,
+        "end": 5.38
+      }
+    ]
+  }
+}

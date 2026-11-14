@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv16_s14_t1.mp4",
+ "words": [
+  {
+   "w": "mic",
+   "start": 0.0,
+   "end": 0.36,
+   "p": 0.373
+  },
+  {
+   "w": "in",
+   "start": 0.36,
+   "end": 0.76,
+   "p": 0.998
+  },
+  {
+   "w": "my",
+   "start": 0.76,
+   "end": 1.12,
+   "p": 0.999
+  },
+  {
+   "w": "hand,",
+   "start": 1.12,
+   "end": 2.0,
+   "p": 0.995
+  },
+  {
+   "w": "lights",
+   "start": 2.2,
+   "end": 3.48,
+   "p": 0.969
+  },
+  {
+   "w": "in",
+   "start": 3.48,
+   "end": 3.86,
+   "p": 0.999
+  },
+  {
+   "w": "my",
+   "start": 3.86,
+   "end": 4.18,
+   "p": 0.999
+  },
+  {
+   "w": "face,",
+   "start": 4.18,
+   "end": 5.1,
+   "p": 1.0
+  },
+  {
+   "w": "wrong",
+   "start": 5.52,
+   "end": 6.16,
+   "p": 0.98
+  },
+  {
+   "w": "from",
+   "start": 6.16,
+   "end": 6.64,
+   "p": 0.996
+  },
+  {
+   "w": "the",
+   "start": 6.64,
+   "end": 6.98,
+   "p": 0.997
+  },
+  {
+   "w": "jump.",
+   "start": 6.98,
+   "end": 7.42,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.42,
+   "text": "mic in my hand, lights in my face, wrong from the jump.",
+   "avg_logprob": -0.36
+  }
+ ]
+}

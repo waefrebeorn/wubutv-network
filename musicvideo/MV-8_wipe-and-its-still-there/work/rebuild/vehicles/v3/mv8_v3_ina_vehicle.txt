@@ -1,0 +1,15 @@
+# MV-8 v3 — VOLLEY 1 vehicle: IN-A "The Loop" (CARTOON EVENT, no singing)
+# Scene: IN-A, song 0.00–5.97 (0–143f). 5.97s scene; one 10s take, trimmed at assembly.
+# Instrumental cold open. WIPE 001 opens at beat 0 (5.968s).
+# Anchor: G00.jpg (work/rebuild/stills_v3/G00.jpg, md5 f773dbca7b85cf6989e3a687c49939d3).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, squash-and-stretch energy, porcelain white + warm gold +
+# chocolate brown, bright yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the camera is already drifting and the toilet-paper roll is already
+# spinning at frame 0 — never still. Continuous motion to the last frame.
+# This is a MONTAGE take: no singing, no mouth work. Take audio is dropped at assembly.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G00.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, porcelain white and warm gold, chocolate brown as a small accent, bright yellow the sole bright accent colour. A bright cartoon bathroom in golden morning light: a white porcelain toilet, a toilet-paper roll already spinning on the wall as the clip opens, a yellow rubber cleaning glove reaching for the roll, the camera already slowly drifting. The sheet of toilet paper lifts off the roll and flies up through the air, a single glossy chocolate-brown marker stroke draws itself across the sheet as it flies, and below, white foam begins to swirl open into a vortex in the toilet bowl, spray and bubbles rising, the whole room tilting into the journey. Continuous motion from the very first frame to the last. No people, no text, no logos, no children."

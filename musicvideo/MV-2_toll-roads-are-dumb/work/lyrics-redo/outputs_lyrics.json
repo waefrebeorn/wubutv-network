@@ -1,0 +1,66 @@
+{
+ "master": {
+  "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_v7_16x9_lyrics.mp4",
+  "md5": "18baecc2a1c4728b20802789e2332c74",
+  "size": 82719691,
+  "probe": {
+   "programs": [],
+   "stream_groups": [],
+   "streams": [
+    {
+     "codec_name": "h264",
+     "codec_type": "video",
+     "width": 1280,
+     "height": 720,
+     "r_frame_rate": "24/1",
+     "nb_frames": "6432"
+    },
+    {
+     "codec_name": "aac",
+     "codec_type": "audio",
+     "sample_rate": "48000",
+     "channels": 2,
+     "r_frame_rate": "0/0",
+     "nb_frames": "12564"
+    }
+   ],
+   "format": {
+    "duration": "268.010000",
+    "size": "82719691"
+   }
+  },
+  "frames": 6432
+ },
+ "chat": {
+  "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_v7_16x9_lyrics_chat.mp4",
+  "md5": "7d0c7aafdf925972f4ef904582a357b7",
+  "size": 26418959,
+  "probe": {
+   "programs": [],
+   "stream_groups": [],
+   "streams": [
+    {
+     "codec_name": "h264",
+     "codec_type": "video",
+     "width": 854,
+     "height": 480,
+     "r_frame_rate": "24/1",
+     "nb_frames": "6432"
+    },
+    {
+     "codec_name": "aac",
+     "codec_type": "audio",
+     "sample_rate": "48000",
+     "channels": 2,
+     "r_frame_rate": "0/0",
+     "nb_frames": "12564"
+    }
+   ],
+   "format": {
+    "duration": "268.010000",
+    "size": "26418959"
+   }
+  },
+  "frames": 6432
+ }
+}

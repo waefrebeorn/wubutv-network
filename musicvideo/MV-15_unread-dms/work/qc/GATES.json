@@ -1,0 +1,50 @@
+{
+ "master_md5": "0bef4ae5dd2217e481b3ccff840100ac",
+ "master_bytes": 792109501,
+ "probe": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "width": 1280,
+    "height": 720,
+    "r_frame_rate": "24/1"
+   },
+   {
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0"
+   }
+  ],
+  "format": {
+   "duration": "173.625000"
+  }
+ },
+ "master_frames": 4167,
+ "frames_ok": true,
+ "sei": "crf=18.0",
+ "faststart": true,
+ "zero_still_master": {
+  "frames_decoded": 4167,
+  "longest_near_dup_run_frames": 0,
+  "worst_run_start_frame": 0,
+  "worst_run_time_s": 0.0,
+  "min_pair_diff": 1.208888888888889,
+  "mean_pair_diff": 7.980735587485673
+ },
+ "zero_still_pregrain": {
+  "frames_decoded": 4167,
+  "longest_near_dup_run_frames": 1,
+  "worst_run_start_frame": 0,
+  "worst_run_time_s": 0.0,
+  "min_pair_diff": 0.01984809027777778,
+  "mean_pair_diff": 7.185524069267751
+ },
+ "audio_corr_global": 0.9989524006930792,
+ "audio_corr_worst_10s": 0.9978504509464766,
+ "runner": "gates_run.py (streaming twin of gates.py \u2014 identical scale/threshold/math; gates.py itself OOM-died on the whole-buffer decode)"
+}

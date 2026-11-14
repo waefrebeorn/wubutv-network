@@ -1,0 +1,18 @@
+# MV-8 v3 — VOLLEY 2 vehicle: H1-A "Still There" SMEARS (CARTOON EVENT, no singing)
+# Scene: H1-A, song 5.97–22.08 (143–530f). 16.11s scene; this take covers the
+# dirty-echo half: brown smears bloom on white tiles. Song lines L1 7.98,
+# L2 11.70, L3 16.12 + dirty echoes to 22.08 — the WORDS live in the kinetic
+# layer in post (HIGHLIGHT per line; SLAM on "Wipe" at each line onset); the
+# SINGER INSERT (INS-1, v2 H1-A c1) covers L1+L2 as a cutaway at assembly.
+# This take is pure cartoon event.
+# Anchor: G01.jpg (work/rebuild/stills_v3/G01.jpg, md5 79788c8cbeffeaadfe2f0f5038c8c4d8).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, squash-and-stretch energy, porcelain white + warm gold +
+# chocolate brown, bright yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the smears are already blooming and spreading at frame 0 — never still.
+# Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G01.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, clean white porcelain tiles and warm gold light, glossy chocolate brown the antagonist colour, bright yellow the sole bright accent colour. A wall of clean white porcelain tiles, already blooming with glossy chocolate-brown smears as the clip opens, never still: the smears spread and swirl outward like ink in water, a white sheet of toilet paper with one glossy chocolate marker stroke flutters across the tiles, a bright yellow rubber-gloved hand wipes at the smears and they bloom again behind the wipe, golden light flaring through a window, the camera already slowly drifting along the wall. Each smear pulses and grows, then a fresh wipe clears a patch and new smears bloom beside it. She does not sing in this clip; no mouth is visible, the picture is the smears themselves. Continuous motion from the very first frame to the last. No text, no logos, no children, no other characters."

@@ -1,0 +1,711 @@
+{
+ "s13": {
+  "take": "mv5_s13_t6.mp4",
+  "song_slot": 9.5,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 4.91,
+   "longest_neardup_run": 5,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 4.923,
+   "vocal_longest_neardup": 5,
+   "per_second_mean_diff": [
+    3.968,
+    4.705,
+    6.726,
+    5.513,
+    5.601,
+    5.694,
+    5.368,
+    6.008,
+    3.806
+   ]
+  },
+  "whisper_text": "Ice cup sweating, on the rail by the steps, not yet, kids with a boombox, you took my sleeve and spun me once",
+  "whisper_words": [
+   " Ice",
+   " cup",
+   " sweating,",
+   " on",
+   " the",
+   " rail",
+   " by",
+   " the",
+   " steps,",
+   " not",
+   " yet,",
+   " kids",
+   " with",
+   " a",
+   " boombox,",
+   " you",
+   " took",
+   " my",
+   " sleeve",
+   " and",
+   " spun",
+   " me",
+   " once"
+  ],
+  "whisper_nwords": 23,
+  "take_line_span": 8.46,
+  "first_word": 0.0,
+  "last_word_end": 8.46,
+  "line_ratio": 1.12,
+  "word_times": [
+   [
+    "Ice",
+    0.0,
+    0.38
+   ],
+   [
+    "cup",
+    0.38,
+    0.58
+   ],
+   [
+    "sweating,",
+    0.58,
+    1.24
+   ],
+   [
+    "on",
+    1.88,
+    2.24
+   ],
+   [
+    "the",
+    2.24,
+    2.44
+   ],
+   [
+    "rail",
+    2.44,
+    2.94
+   ],
+   [
+    "by",
+    2.94,
+    3.38
+   ],
+   [
+    "the",
+    3.38,
+    3.6
+   ],
+   [
+    "steps,",
+    3.6,
+    4.02
+   ],
+   [
+    "not",
+    4.24,
+    4.4
+   ],
+   [
+    "yet,",
+    4.4,
+    4.72
+   ],
+   [
+    "kids",
+    5.04,
+    5.38
+   ],
+   [
+    "with",
+    5.38,
+    5.6
+   ],
+   [
+    "a",
+    5.6,
+    5.76
+   ],
+   [
+    "boombox,",
+    5.76,
+    6.32
+   ],
+   [
+    "you",
+    6.44,
+    6.48
+   ],
+   [
+    "took",
+    6.48,
+    6.7
+   ],
+   [
+    "my",
+    6.7,
+    6.86
+   ],
+   [
+    "sleeve",
+    6.86,
+    7.22
+   ],
+   [
+    "and",
+    7.22,
+    7.44
+   ],
+   [
+    "spun",
+    7.44,
+    7.7
+   ],
+   [
+    "me",
+    7.7,
+    7.98
+   ],
+   [
+    "once",
+    7.98,
+    8.46
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s16": {
+  "take": "mv5_s16_t6.mp4",
+  "song_slot": 9.48,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 0.515,
+   "longest_neardup_run": 5,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.463,
+   "vocal_longest_neardup": 5,
+   "per_second_mean_diff": [
+    0.432,
+    0.581,
+    0.474,
+    0.431,
+    0.53,
+    0.385
+   ]
+  },
+  "whisper_text": "Easy now, easy now Easy now, easy now Easy now, easy now",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now",
+   " Easy",
+   " now,",
+   " easy",
+   " now",
+   " Easy",
+   " now,",
+   " easy",
+   " now"
+  ],
+  "whisper_nwords": 12,
+  "take_line_span": 7.64,
+  "first_word": 0.0,
+  "last_word_end": 7.64,
+  "line_ratio": 1.24,
+  "word_times": [
+   [
+    "Easy",
+    0.0,
+    0.42
+   ],
+   [
+    "now,",
+    0.42,
+    0.84
+   ],
+   [
+    "easy",
+    1.22,
+    1.66
+   ],
+   [
+    "now",
+    1.66,
+    2.26
+   ],
+   [
+    "Easy",
+    2.26,
+    3.34
+   ],
+   [
+    "now,",
+    3.34,
+    3.98
+   ],
+   [
+    "easy",
+    4.26,
+    5.44
+   ],
+   [
+    "now",
+    5.44,
+    5.44
+   ],
+   [
+    "Easy",
+    5.44,
+    5.44
+   ],
+   [
+    "now,",
+    5.44,
+    6.06
+   ],
+   [
+    "easy",
+    6.44,
+    7.1
+   ],
+   [
+    "now",
+    7.1,
+    7.64
+   ]
+  ],
+  "repeat_bigrams": [
+   "easy now",
+   "now easy"
+  ],
+  "forbidden_found": [],
+  "easy_now_count": 6
+ },
+ "s19a": {
+  "take": "mv5_s19a_t1.mp4",
+  "song_slot": 3.66,
+  "motion": {
+   "frames": 120,
+   "mean_diff": 0.404,
+   "longest_neardup_run": 26,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.441,
+   "vocal_longest_neardup": 11,
+   "per_second_mean_diff": [
+    0.486,
+    0.25,
+    0.528
+   ]
+  },
+  "whisper_text": "If the rain comes down, we stay out in it.",
+  "whisper_words": [
+   " If",
+   " the",
+   " rain",
+   " comes",
+   " down,",
+   " we",
+   " stay",
+   " out",
+   " in",
+   " it."
+  ],
+  "whisper_nwords": 10,
+  "take_line_span": 3.72,
+  "first_word": 0.0,
+  "last_word_end": 3.72,
+  "line_ratio": 0.98,
+  "word_times": [
+   [
+    "If",
+    0.0,
+    0.38
+   ],
+   [
+    "the",
+    0.38,
+    0.58
+   ],
+   [
+    "rain",
+    0.58,
+    0.92
+   ],
+   [
+    "comes",
+    0.92,
+    1.4
+   ],
+   [
+    "down,",
+    1.4,
+    1.8
+   ],
+   [
+    "we",
+    2.24,
+    2.34
+   ],
+   [
+    "stay",
+    2.34,
+    2.66
+   ],
+   [
+    "out",
+    2.66,
+    3.04
+   ],
+   [
+    "in",
+    3.04,
+    3.3
+   ],
+   [
+    "it.",
+    3.3,
+    3.72
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s19b": {
+  "take": "mv5_s19b_t1.mp4",
+  "song_slot": 3.36,
+  "motion": {
+   "frames": 120,
+   "mean_diff": 0.542,
+   "longest_neardup_run": 11,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.649,
+   "vocal_longest_neardup": 5,
+   "per_second_mean_diff": [
+    0.567,
+    0.577,
+    0.871
+   ]
+  },
+  "whisper_text": "We still move with it, hand in my hand, no speech, no show",
+  "whisper_words": [
+   " We",
+   " still",
+   " move",
+   " with",
+   " it,",
+   " hand",
+   " in",
+   " my",
+   " hand,",
+   " no",
+   " speech,",
+   " no",
+   " show"
+  ],
+  "whisper_nwords": 13,
+  "take_line_span": 4.16,
+  "first_word": 0.0,
+  "last_word_end": 4.16,
+  "line_ratio": 0.81,
+  "word_times": [
+   [
+    "We",
+    0.0,
+    0.0
+   ],
+   [
+    "still",
+    0.0,
+    0.08
+   ],
+   [
+    "move",
+    0.08,
+    0.26
+   ],
+   [
+    "with",
+    0.26,
+    0.7
+   ],
+   [
+    "it,",
+    0.7,
+    1.18
+   ],
+   [
+    "hand",
+    1.46,
+    1.78
+   ],
+   [
+    "in",
+    1.78,
+    2.0
+   ],
+   [
+    "my",
+    2.0,
+    2.24
+   ],
+   [
+    "hand,",
+    2.24,
+    2.8
+   ],
+   [
+    "no",
+    2.96,
+    3.06
+   ],
+   [
+    "speech,",
+    3.06,
+    3.42
+   ],
+   [
+    "no",
+    3.66,
+    3.8
+   ],
+   [
+    "show",
+    3.8,
+    4.16
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s21": {
+  "take": "mv5_s21_t3.mp4",
+  "song_slot": 9.44,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 1.527,
+   "longest_neardup_run": 25,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 1.583,
+   "vocal_longest_neardup": 24,
+   "per_second_mean_diff": [
+    0.561,
+    0.396,
+    0.63,
+    0.793,
+    0.709,
+    0.783,
+    0.992,
+    4.671,
+    5.495
+   ]
+  },
+  "whisper_text": "If the sky turns gray, we don't fold in, we lean right back, let the whole thing spin, you and me, same pace",
+  "whisper_words": [
+   " If",
+   " the",
+   " sky",
+   " turns",
+   " gray,",
+   " we",
+   " don't",
+   " fold",
+   " in,",
+   " we",
+   " lean",
+   " right",
+   " back,",
+   " let",
+   " the",
+   " whole",
+   " thing",
+   " spin,",
+   " you",
+   " and",
+   " me,",
+   " same",
+   " pace"
+  ],
+  "whisper_nwords": 23,
+  "take_line_span": 8.26,
+  "first_word": 0.0,
+  "last_word_end": 8.26,
+  "line_ratio": 1.14,
+  "word_times": [
+   [
+    "If",
+    0.0,
+    0.2
+   ],
+   [
+    "the",
+    0.2,
+    0.38
+   ],
+   [
+    "sky",
+    0.38,
+    0.76
+   ],
+   [
+    "turns",
+    0.76,
+    1.32
+   ],
+   [
+    "gray,",
+    1.32,
+    1.64
+   ],
+   [
+    "we",
+    2.0,
+    2.16
+   ],
+   [
+    "don't",
+    2.16,
+    2.46
+   ],
+   [
+    "fold",
+    2.46,
+    2.78
+   ],
+   [
+    "in,",
+    2.78,
+    3.3
+   ],
+   [
+    "we",
+    3.5,
+    3.7
+   ],
+   [
+    "lean",
+    3.7,
+    3.98
+   ],
+   [
+    "right",
+    3.98,
+    4.22
+   ],
+   [
+    "back,",
+    4.22,
+    4.86
+   ],
+   [
+    "let",
+    4.94,
+    5.16
+   ],
+   [
+    "the",
+    5.16,
+    5.4
+   ],
+   [
+    "whole",
+    5.4,
+    5.7
+   ],
+   [
+    "thing",
+    5.7,
+    6.1
+   ],
+   [
+    "spin,",
+    6.1,
+    6.46
+   ],
+   [
+    "you",
+    6.84,
+    6.98
+   ],
+   [
+    "and",
+    6.98,
+    7.18
+   ],
+   [
+    "me,",
+    7.18,
+    7.38
+   ],
+   [
+    "same",
+    7.68,
+    7.86
+   ],
+   [
+    "pace",
+    7.86,
+    8.26
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s22": {
+  "take": "mv5_s22_t3.mp4",
+  "song_slot": 1.66,
+  "motion": {
+   "frames": 120,
+   "mean_diff": 1.938,
+   "longest_neardup_run": 8,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 1.658,
+   "vocal_longest_neardup": 2,
+   "per_second_mean_diff": [
+    1.916
+   ]
+  },
+  "whisper_text": "No, no No",
+  "whisper_words": [
+   " No,",
+   " no",
+   " No"
+  ],
+  "whisper_nwords": 3,
+  "take_line_span": 3.26,
+  "first_word": 0.0,
+  "last_word_end": 3.26,
+  "line_ratio": 0.51,
+  "word_times": [
+   [
+    "No,",
+    0.0,
+    0.98
+   ],
+   [
+    "no",
+    1.72,
+    2.42
+   ],
+   [
+    "No",
+    2.42,
+    3.26
+   ]
+  ],
+  "repeat_bigrams": [
+   "no no"
+  ],
+  "forbidden_found": []
+ }
+}

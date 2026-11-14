@@ -1,0 +1,117 @@
+{
+ "track": "work/otaku_qc/U18_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 16,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.68,
+   "prob": 0.703
+  },
+  {
+   "word": "got",
+   "start": 0.68,
+   "end": 0.86,
+   "prob": 0.955
+  },
+  {
+   "word": "drafts",
+   "start": 0.86,
+   "end": 1.36,
+   "prob": 0.953
+  },
+  {
+   "word": "in",
+   "start": 1.36,
+   "end": 1.46,
+   "prob": 0.994
+  },
+  {
+   "word": "the",
+   "start": 1.46,
+   "end": 1.58,
+   "prob": 0.994
+  },
+  {
+   "word": "drawer",
+   "start": 1.58,
+   "end": 1.92,
+   "prob": 0.998
+  },
+  {
+   "word": "like",
+   "start": 1.92,
+   "end": 2.26,
+   "prob": 0.961
+  },
+  {
+   "word": "coins",
+   "start": 2.26,
+   "end": 3.28,
+   "prob": 0.983
+  },
+  {
+   "word": "Half",
+   "start": 3.28,
+   "end": 4.42,
+   "prob": 0.367
+  },
+  {
+   "word": "mad",
+   "start": 4.42,
+   "end": 4.76,
+   "prob": 0.731
+  },
+  {
+   "word": "thoughts",
+   "start": 4.76,
+   "end": 5.26,
+   "prob": 0.994
+  },
+  {
+   "word": "and",
+   "start": 5.26,
+   "end": 5.54,
+   "prob": 0.947
+  },
+  {
+   "word": "a",
+   "start": 5.54,
+   "end": 5.66,
+   "prob": 0.996
+  },
+  {
+   "word": "stack",
+   "start": 5.66,
+   "end": 5.98,
+   "prob": 0.997
+  },
+  {
+   "word": "of",
+   "start": 5.98,
+   "end": 6.2,
+   "prob": 0.998
+  },
+  {
+   "word": "joins",
+   "start": 6.2,
+   "end": 6.8,
+   "prob": 0.711
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.28,
+   "text": "I got drafts in the drawer like coins"
+  },
+  {
+   "start": 3.28,
+   "end": 6.8,
+   "text": "Half mad thoughts and a stack of joins"
+  }
+ ]
+}

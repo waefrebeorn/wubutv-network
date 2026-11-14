@@ -1,0 +1,107 @@
+{
+ "stem": "outro",
+ "offset": 214.0,
+ "model": "large-v3-turbo",
+ "n_words": 12,
+ "words": [
+  {
+   "word": "Make",
+   "start": 215.38,
+   "end": 216.46,
+   "prob": 0.172
+  },
+  {
+   "word": "a",
+   "start": 216.46,
+   "end": 216.56,
+   "prob": 0.269
+  },
+  {
+   "word": "head.",
+   "start": 216.56,
+   "end": 216.84,
+   "prob": 0.208
+  },
+  {
+   "word": "Sell",
+   "start": 218.56,
+   "end": 219.44,
+   "prob": 0.97
+  },
+  {
+   "word": "the",
+   "start": 219.44,
+   "end": 219.7,
+   "prob": 0.985
+  },
+  {
+   "word": "lemons.",
+   "start": 219.7,
+   "end": 220.18,
+   "prob": 0.982
+  },
+  {
+   "word": "Sell",
+   "start": 222.0,
+   "end": 222.54,
+   "prob": 0.995
+  },
+  {
+   "word": "the",
+   "start": 222.54,
+   "end": 222.8,
+   "prob": 0.995
+  },
+  {
+   "word": "lemon.",
+   "start": 222.8,
+   "end": 223.14,
+   "prob": 0.001
+  },
+  {
+   "word": "Sell",
+   "start": 224.6,
+   "end": 225.68,
+   "prob": 0.986
+  },
+  {
+   "word": "the",
+   "start": 225.68,
+   "end": 225.98,
+   "prob": 0.978
+  },
+  {
+   "word": "lemons.",
+   "start": 225.98,
+   "end": 226.46,
+   "prob": 0.981
+  }
+ ],
+ "segments": [
+  {
+   "start": 215.38,
+   "end": 216.84,
+   "text": "Make a head."
+  },
+  {
+   "start": 218.56,
+   "end": 220.18,
+   "text": "Sell the lemons."
+  },
+  {
+   "start": 222.06,
+   "end": 223.14,
+   "text": "Sell the lemon."
+  },
+  {
+   "start": 224.6,
+   "end": 225.98,
+   "text": "Sell the"
+  },
+  {
+   "start": 225.98,
+   "end": 226.46,
+   "text": "lemons."
+  }
+ ]
+}

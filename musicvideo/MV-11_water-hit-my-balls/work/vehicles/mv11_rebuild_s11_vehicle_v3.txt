@@ -1,0 +1,41 @@
+MV-11 REBUILD S11 t3 — "Water Ballet 2" (Instrumental — THE DIVE) — CONTINUITY volley 3 (RECOVERY)
+Song window: 65.26–70.66 (5.40s slot). Scene: INST-B. Tag: CUTAWAY
+(no words — structural montage slot pt 2).
+Device: FRESH first frame (J10 — the cut TURNS: the camera dives INTO
+the water — new world, underwater). The fresh start is the dive itself:
+bubbles, light rays, the duck seen from below.
+RE-FIRE AXIS (t2 verdict): TIMING — t2 fixed the room (toilet-bowl room
+throughout, wide arrives ~7.5s with the duck small) but the surface was
+LATE: at 5.0s AND 5.4s the camera was still AT the duck (~30% frame
+height). This take COMPRESSES the arc: the camera breaks the surface by
+~3s and is ALREADY WIDE on the whole room by ~4.5s, the duck small in
+the bowl from 4.5s on. Request is the SLOT LENGTH (5 seconds) — S07 t2
+proved a 5s request returns 5.000s and forces sung/scene pacing into
+the slot; if the generator returns 10s anyway, the arc still completes
+by 5s per the prompt.
+Images:
+[1] work/stills/stack/s11_start_1248x704.webp (md5 4145090e1b5e)
+[2] work/stills/stack/s11_end_v2_1248x704.webp (md5 1950dab1c2bf — REGENERATED volley 3, toilet-bowl room, read back PASS)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.02/0.47/0.93/1.39/1.84/2.30/2.76/3.21/3.67/4.13/4.58/5.04.
+Camera lesson: HOLD WIDE — never prompt a drift-closer, never stop AT
+the duck, never linger on the duck. t1's and t2's dives were both
+genuinely good and are kept: fully underwater at the open, bubbles,
+light shafts. What changes is WHEN the surface arrives.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At a teal-tiled bathroom, underwater inside a bowl of deep cobalt-blue water: bubbles rising in columns, shafts of warm gold lamp light cutting down through the water, the rippling surface overhead, a yellow rubber duck with an orange beak seen from below, its silhouette floating above. Wide 16:9 video, exactly 5 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. Deep teal tiles faintly visible through the water at the edges. This shot opens on the first image: the dive, already underwater, bubbles already rising. The picture is already moving at frame 0 — the bubbles are already rising and the light shafts are already shimmering.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s11_start_1248x704.webp
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. A FAST five-second arc, timed to a driving four-on-the-floor groove at 131.5 BPM: from 0 to 1.5 seconds the camera dives deeper through the cobalt water, bubbles streaming upward past the lens, gold light shafts sweeping, the yellow duck's silhouette drifting overhead. From 1.5 to 3 seconds the camera rises FAST back toward the surface — it rises PAST the duck, never stopping at it, never lingering on it: the waterline crosses the frame by 3 seconds, droplets and bubbles bursting, the duck falling small below the frame's centre as the camera keeps rising, the teal-tiled bathroom reappearing through the ripples. From 3 to 5 seconds the camera is surfaced WIDE on the whole toilet-bowl room — white porcelain toilet, vermilion towel on a hook, warm dome lamp, deep teal tiles — the yellow duck a small shape bobbing in the centre of the bowl, no bigger than a thumb, bubbles still rising, the water never still. By 4 seconds the duck is small in the bowl and the whole room is in frame, and it stays that way to the end. The camera holds wide from 3 seconds on, never pushing into a close-up of the duck, never stopping, the water never still. No people, no singing, no mouths visible anywhere. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s11_end_v2_1248x704.webp
+
+[5] TEXT:
+End on the second image: surfaced wide on the whole toilet-bowl room, the yellow duck bobbing small in the centre of the cobalt water, bubbles rising around it, warm lamp light on the teal tiles, ready for the next hook.
+
+NOTES: STRUCTURAL montage slot pt 2 — the dive → surface arc, ending ready for Hook 2 (S12 chains from this take's slot-end frame at 5.40s). Assembly trims to the 5.40s slot; if the generator returns 10s, use the first ~5.4s. QC focus: at 4.5s AND 5.0s the frame must be WIDE on the room with the duck SMALL in the bowl (duck no bigger than a thumb at 4.5s) — a duck filling ~30% of frame height at 5.0s is a REJECT, same as t2. Room must be the toilet-bowl room (porcelain toilet, vermilion towel, dome lamp, teal tiles) — a bathtub/sink/door/plant is a REJECT.

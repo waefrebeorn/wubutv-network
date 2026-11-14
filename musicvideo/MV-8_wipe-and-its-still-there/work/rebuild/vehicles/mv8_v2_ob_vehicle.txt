@@ -1,0 +1,28 @@
+# MV-8 REBUILD v2 — Volley 4 vehicle (finalized 2026-11-08 ~15:0x EST, volley 4): O-B "The Last Stand at the Cistern" (JOURNEY)
+# Scene: O-B, song 163.00–180.00 (3912–4320f). 17.00s scene; one 10s take
+# (O-A precedent — assembly uses the take's span; the take must carry the
+# loudest cluster and the stab-run reveals, not the whole 17s).
+# Instrumental. Colossus finale on the loudest cluster 170.9–174.7s (hits
+# 170.92 / 171.85 / 173.77 / 174.24 / 174.72); district-by-district clean
+# reveals on the stab run 177.11–180.56.
+# Anchors: F19.jpg (start, Colossus dam) -> F20.jpg (destination, tidal wave
+# / synchronised flush). Two-image journey, both 16:9. Both stills PASS
+# (STILL_CHAIN_v2.md: F19 md5 19eb5d7500dc8b37130d99ca548b0a35; F20 md5
+# 88e8da7a1c27ed302b132bd36fe5e15b).
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: the Colossus is ALREADY moving at frame 0 — water already
+# surging, the wave already building. Continuous motion throughout, no held
+# shot, no frozen lead-in. The v1 designed-held-shot precedent is DEAD.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. At the foot of a colossal chocolate-brown dam with heavy-lidded eyes, the Champion, an adult woman in her late twenties with a long dark braid, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, stands tiny on the dam's rim, golden plunger raised, already moving as the clip opens — the dam shuddering, water surging, a great tidal wave building behind her, the camera pushing in, never still, carrying her from the dam into the wave as district after district of the golden porcelain city washes clean below, each wave-hit landing like a drumbeat. No text, no logos, no children."
+Image 1: F19.jpg
+Text 2: "The wave breaks into the synchronised flush, the Champion surfing a porcelain toilet seat on the crest, plunger raised, her giant glossy chocolate-brown soft-serve swirl mount flying beside her, smears washing clean in her wake, travelling toward the second image."
+Image 2: F20.jpg
+Text 3: "Ends at the second image: the tidal wave at full height, the Champion surfing the crest as the city washes clean district by district, water and foam streaming, continuous motion to the last frame. No text, no logos, no children, no other characters."

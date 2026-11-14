@@ -1,0 +1,25 @@
+AD-222 "Riveted" (The Kept Gap Hardware Co., doctrine sponsor #5 — "Tolerances, held.") — claim-time draft, 2026-10-16 18:19 EDT. Verb-grep: "riveted" zero-hit vs full 220-row COMMERCIALS.md + BUMPERS.md + EPISODE_LEDGER.md (word-boundary); the ACTION (cold-setting a rivet with a ball-peen hammer, the rivet head mushrooming flat against a steel bracket) is beat-distinct: vs AD-221 "Seamed" (folding a lock-seam flange with a hand seamer vs hammer-set rivet — different tool, different motion, different verdict: folded seam vs flattened rivet head), vs AD-215 "Brazed" (torch heat-join vs cold rivet), vs AD-214 "Swaged" (rotary forming vs hammer-set rivet), vs AD-220 "Dadoed" (wood groove vs metal rivet). Title "Riveted" grep-zero. Retired-shape check clean.
+
+10-second 16:9 commercial, 1280x720, exactly 10.0 seconds, flat hand-painted 2D cartoon grade (STYLE IS LOAD-BEARING: every surface painted, no photorealism, no photographic texture anywhere). Locked-off camera, identical framing at 0.5s and 9.5s (240-frame camera lock; no push-in, no reframe, no approach staging).
+
+CHARACTER (identity lock): UNC — heavyset Black man, large rounded afro, mustache/goatee, BLACK hoodie. On the chest, the exact yellow/gold wordmark `~ WuBu ~` — six glyphs: tilde, space, W-u-B-u, space, tilde. Plain fabric, no other lettering. He never reacts; deadpan throughout. (TILDE AND POSTURE LOCK: both tildes always present, never profile-turned into invisibility; his hands stay clear of the chest panel at every point; torso never turns; head never drops over the wordmark.)
+
+CORNER BUG (every frame): two lines bottom-right, plain WHITE letters, never yellow, never gold, never boxed, never on a backing panel, never a chip: `~ WuBu ~` over `WuBuTV`.
+
+SET: a steel workbench — one flat steel bracket sitting on the bench with two punched holes, one loose rivet standing upright in the first hole, one ball-peen hammer resting beside it. Walls bare metal, unlettered. TEXT ALLOWLIST: NONE — every surface bare and unlettered (describe no new set text).
+
+BEAT (10s, setup/turn/tagline):
+- 0-4s (setup): the flat steel bracket centered on the bench, the loose rivet standing upright in its first hole, the ball-peen hammer resting beside it. Frame 1 is on the bracket, the rivet, and the hammer (OBJECT FIRST).
+- 4-6s (beat): he takes up the hammer and strikes the rivet's head in slow rhythmic blows, the rivet head visibly mushrooming flatter against the bracket with each blow. Hammer, rivet head, and his steady hands in continuous motion across the whole 4-6s window, never a frozen take (MOTION IS LOAD-BEARING: a take where the 0.5s and 9.5s object states match is rejected). His hands stay below the chest panel at every point; his torso never turns; his head never drops over the wordmark.
+- 6-8s (turn): he sets the hammer down and tilts the bracket slightly so the flattened rivet head faces camera.
+- 8-9.5s (tagline): the set rivet head sitting flush and flattened against the bracket. Mouth closed every frame; no line in this spot.
+- 9.5s (verdict): the bracket sitting on the bench with the rivet head flattened flush against it, the hammer lying flat on the bench, him motionless facing camera, hands empty at his sides, mouth closed, eyes on the lens.
+
+NEGATIVE: no photorealism, no third bug line, no boxed bug, no backing panel behind the bug, no spelled-out wordmark descriptions as on-screen text, no yellow or gold bug letters, no real logos, no brands, no timecode/REC/production overlays, no voice-grade audio on closed mouths, no mouth openings at all, no hand or prop occlusion of the chest wordmark at any point, no second bracket, no second rivet, no second hammer, no torch, no flame, no heat of any kind, no brazed or soldered or welded joints anywhere.
+
+AUDIO: native diegetic audio only, never dubbed. Soft hammer-strike beds under the 4-6s beat; outside the 4-6s window the track is quiet room tone with no audio event louder than -25 dBFS, ever. No voice-grade events anywhere (no voiced clusters, no voiced tail, no harmonic events on any closed mouth). This is a NO-LINE spot: his mouth is closed in every frame, and no voiced audio may accompany a closed mouth. True peak must stay under -1 dB.
+
+NAMED CORRECTION (v2 re-fire; the named axes only — every other line of this prompt is identical to the v1 fire):
+- STYLE axis (resume-form): flat hand-painted 2D cartoon grade on every surface of every frame — painted shapes, visible brush feel, no photographic texture, no photographic metal grain, no photorealism anywhere.
+- DEADPAN axis (resume-form): he never reacts — deadpan throughout the whole take: neutral mouth line, neutral eyes, no smile, no grin, no expression shift in any frame including the 9.5s verdict.
+- AUDIO axis (resume-form): the only audio beds in the whole take are soft hammer-strike beds under the 4-6s beat; outside the 4-6s window the track is quiet room tone with no audio event louder than -25 dBFS, ever — no strikes, no clinks, no taps, no voice-grade events anywhere.

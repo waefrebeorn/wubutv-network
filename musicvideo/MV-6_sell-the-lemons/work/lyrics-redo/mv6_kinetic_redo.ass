@@ -1,0 +1,334 @@
+[Script Info]
+Title: WuBuTV kinetic type — MV-6 lyrics redo (2026-11-12)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bone,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Cadmium,Noto Sans,54,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Dim,Noto Sans,54,&H64DCEEF4,&H64DCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Draw,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Caption,Noto Sans,40,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,24,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.60,0:00:02.60,Caption,,0,0,0,,(Tick, tock, click, clack)
+Dialogue: 1,0:00:02.72,0:00:05.16,Caption,,0,0,0,,Bacon head on the stand…
+Dialogue: 1,0:00:06.98,0:00:08.64,Caption,,0,0,0,,Sell the lemons
+Dialogue: 1,0:00:10.08,0:00:11.76,Caption,,0,0,0,,Sell the lemons
+Dialogue: 0,0:00:16.30,0:00:18.57,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 1,0:00:16.30,0:00:18.18,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:00:16.30,0:00:17.06,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:00:17.06,0:00:17.28,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:00:17.28,0:00:18.52,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 1,0:00:19.90,0:00:22.96,Caption,,0,0,0,,I spawn in with the default hair
+Dialogue: 1,0:00:22.98,0:00:25.54,Caption,,0,0,0,,Bacon head, simple smile, no care
+Dialogue: 1,0:00:25.56,0:00:28.88,Caption,,0,0,0,,Start with the stand, one lemon at a time
+Dialogue: 1,0:00:28.90,0:00:31.74,Caption,,0,0,0,,Click the button, watch the cash climb
+Dialogue: 1,0:00:31.76,0:00:34.76,Caption,,0,0,0,,Upgrade the juicer, double the pay
+Dialogue: 1,0:00:34.78,0:00:37.92,Caption,,0,0,0,,Automate the stand so I can walk away
+Dialogue: 1,0:00:37.94,0:00:41.10,Caption,,0,0,0,,Money on the floor, walk over and grab
+Dialogue: 1,0:00:41.12,0:00:44.16,Caption,,0,0,0,,Then buy the next thing, keep on the tab
+Dialogue: 0,0:00:44.18,0:00:47.54,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:00:44.18,0:00:47.54,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:00:44.18,0:00:45.36,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:00:45.36,0:00:45.56,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:00:45.56,0:00:46.12,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:00:46.12,0:00:46.92,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:00:46.92,0:00:47.10,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:00:47.10,0:00:47.54,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:00:47.56,0:00:51.29,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-83,610,177,610,0,220)\p1}m 0 0 l 926 0 l 926 7 l 0 7{\p0}
+Dialogue: 1,0:00:47.56,0:00:50.82,Caption,,0,0,0,,Bacon head selling lemons all day
+Dialogue: 2,0:00:47.56,0:00:48.58,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:00:48.58,0:00:48.92,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 2,0:00:48.92,0:00:49.40,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELLING
+Dialogue: 2,0:00:49.40,0:00:49.84,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:00:49.84,0:00:50.26,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}ALL
+Dialogue: 2,0:00:50.26,0:00:51.24,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}DAY
+Dialogue: 1,0:00:50.84,0:00:53.38,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 0,0:00:53.40,0:00:56.70,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-153,610,107,610,0,220)\p1}m 0 0 l 1067 0 l 1067 7 l 0 7{\p0}
+Dialogue: 1,0:00:53.40,0:00:56.70,Caption,,0,0,0,,Click, upgrade, sell, don't stop the play
+Dialogue: 2,0:00:53.40,0:00:56.70,Bone,,0,0,0,,{\an4\move(-313,576,106,576,0,200)\fad(60,0)}CLICK
+Dialogue: 2,0:00:54.48,0:00:56.70,Bone,,0,0,0,,{\an4\move(891,576,274,576,0,200)\fad(60,0)}UPGRADE
+Dialogue: 2,0:00:55.04,0:00:56.70,Bone,,0,0,0,,{\an4\move(79,576,499,576,0,200)\fad(60,0)}SELL
+Dialogue: 2,0:00:55.24,0:00:56.70,Bone,,0,0,0,,{\an4\move(1200,576,640,576,0,200)\fad(60,0)}DON'T
+Dialogue: 2,0:00:55.70,0:00:56.70,Bone,,0,0,0,,{\an4\move(388,576,808,576,0,200)\fad(60,0)}STOP
+Dialogue: 2,0:00:56.04,0:00:56.70,Bone,,0,0,0,,{\an4\move(1453,576,948,576,0,200)\fad(60,0)}THE
+Dialogue: 2,0:00:56.30,0:00:56.70,Bone,,0,0,0,,{\an4\move(641,576,1061,576,0,200)\fad(60,0)}PLAY
+Dialogue: 0,0:00:56.72,0:01:00.06,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:00:56.72,0:01:00.06,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:00:56.72,0:00:57.96,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:00:57.96,0:00:58.16,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:00:58.16,0:00:58.52,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:00:58.52,0:00:59.46,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:00:59.46,0:00:59.70,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:00:59.70,0:01:00.06,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:00.08,0:01:02.44,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:01:00.08,0:01:02.44,Caption,,0,0,0,,Bacon head, sell the lemons
+Dialogue: 2,0:01:00.08,0:01:01.10,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:01:01.10,0:01:01.54,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 2,0:01:01.54,0:01:01.88,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:01.88,0:01:02.04,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:02.04,0:01:02.44,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:02.46,0:01:04.02,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(128,610,388,610,0,220)\p1}m 0 0 l 505 0 l 505 7 l 0 7{\p0}
+Dialogue: 1,0:01:02.46,0:01:04.02,Caption,,0,0,0,,And all the lemons
+Dialogue: 2,0:01:02.46,0:01:02.50,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}AND
+Dialogue: 2,0:01:02.50,0:01:02.70,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}ALL
+Dialogue: 2,0:01:02.70,0:01:02.88,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:02.88,0:01:04.02,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:04.04,0:01:09.02,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(1,610,261,610,0,220)\p1}m 0 0 l 758 0 l 758 7 l 0 7{\p0}
+Dialogue: 1,0:01:04.04,0:01:09.02,Caption,,0,0,0,,Never gonna sell the lemons
+Dialogue: 2,0:01:04.04,0:01:06.30,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}NEVER
+Dialogue: 2,0:01:06.30,0:01:07.18,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}GONNA
+Dialogue: 2,0:01:07.18,0:01:08.28,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:08.28,0:01:08.48,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:08.48,0:01:09.02,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:09.04,0:01:13.29,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-322,610,-62,610,0,220)\p1}m 0 0 l 1404 0 l 1404 7 l 0 7{\p0}
+Dialogue: 1,0:01:09.04,0:01:10.06,Caption,,0,0,0,,Never gonna stop
+Dialogue: 2,0:01:09.04,0:01:09.38,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}NEVER
+Dialogue: 2,0:01:09.38,0:01:09.76,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}GONNA
+Dialogue: 2,0:01:09.76,0:01:10.08,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}STOP
+Dialogue: 1,0:01:10.08,0:01:11.24,Caption,,0,0,0,,Never gonna stop
+Dialogue: 2,0:01:10.08,0:01:10.82,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}NEVER
+Dialogue: 2,0:01:10.82,0:01:11.00,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}GONNA
+Dialogue: 2,0:01:11.00,0:01:11.26,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}STOP
+Dialogue: 1,0:01:11.26,0:01:12.82,Caption,,0,0,0,,Never gonna stop
+Dialogue: 2,0:01:11.26,0:01:11.72,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}NEVER
+Dialogue: 2,0:01:11.72,0:01:12.56,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}GONNA
+Dialogue: 2,0:01:12.56,0:01:13.24,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}STOP
+Dialogue: 1,0:01:12.84,0:01:16.24,Caption,,0,0,0,,Lemon Dash, Lemon Depot, the numbers get big
+Dialogue: 1,0:01:16.26,0:01:19.58,Caption,,0,0,0,,Jetpack on, fly up high, do a little jig
+Dialogue: 1,0:01:19.60,0:01:22.52,Caption,,0,0,0,,Rebirth when the buttons cost too much
+Dialogue: 1,0:01:22.54,0:01:25.66,Caption,,0,0,0,,Joe the alien shows up, give the button a touch
+Dialogue: 1,0:01:25.68,0:01:29.04,Caption,,0,0,0,,Multipliers stack, the cash comes in waves
+Dialogue: 1,0:01:29.06,0:01:32.12,Caption,,0,0,0,,Void portal opens, evolution saves
+Dialogue: 1,0:01:32.14,0:01:35.26,Caption,,0,0,0,,From stand to space, the empire keeps growing
+Dialogue: 1,0:01:35.28,0:01:38.40,Caption,,0,0,0,,Bacon head on the screen, the lemons still flowing
+Dialogue: 0,0:01:38.42,0:01:41.06,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:01:38.42,0:01:41.06,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:01:38.42,0:01:38.78,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:38.78,0:01:38.92,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:38.92,0:01:39.38,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:01:39.38,0:01:40.22,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:40.22,0:01:40.48,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:40.48,0:01:41.06,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:41.08,0:01:44.51,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-83,610,177,610,0,220)\p1}m 0 0 l 926 0 l 926 7 l 0 7{\p0}
+Dialogue: 1,0:01:41.08,0:01:44.36,Caption,,0,0,0,,Bacon head selling lemons all day
+Dialogue: 2,0:01:41.08,0:01:41.82,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:01:41.82,0:01:42.38,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 2,0:01:42.38,0:01:42.74,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELLING
+Dialogue: 2,0:01:42.74,0:01:43.24,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:01:43.24,0:01:43.68,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}ALL
+Dialogue: 2,0:01:43.68,0:01:44.46,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}DAY
+Dialogue: 1,0:01:44.64,0:01:47.20,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 0,0:01:47.22,0:01:50.14,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-153,610,107,610,0,220)\p1}m 0 0 l 1067 0 l 1067 7 l 0 7{\p0}
+Dialogue: 1,0:01:47.22,0:01:50.14,Caption,,0,0,0,,Click, upgrade, sell, don't stop the play
+Dialogue: 2,0:01:47.22,0:01:50.14,Bone,,0,0,0,,{\an4\move(-313,576,106,576,0,200)\fad(60,0)}CLICK
+Dialogue: 2,0:01:47.86,0:01:50.14,Bone,,0,0,0,,{\an4\move(891,576,274,576,0,200)\fad(60,0)}UPGRADE
+Dialogue: 2,0:01:48.42,0:01:50.14,Bone,,0,0,0,,{\an4\move(79,576,499,576,0,200)\fad(60,0)}SELL
+Dialogue: 2,0:01:48.66,0:01:50.14,Bone,,0,0,0,,{\an4\move(1200,576,640,576,0,200)\fad(60,0)}DON'T
+Dialogue: 2,0:01:49.10,0:01:50.14,Bone,,0,0,0,,{\an4\move(388,576,808,576,0,200)\fad(60,0)}STOP
+Dialogue: 2,0:01:49.50,0:01:50.14,Bone,,0,0,0,,{\an4\move(1453,576,948,576,0,200)\fad(60,0)}THE
+Dialogue: 2,0:01:49.72,0:01:50.14,Bone,,0,0,0,,{\an4\move(641,576,1061,576,0,200)\fad(60,0)}PLAY
+Dialogue: 0,0:01:50.16,0:01:53.42,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:01:50.16,0:01:53.42,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:01:50.16,0:01:51.30,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:51.30,0:01:51.54,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:51.54,0:01:51.80,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:01:51.80,0:01:52.10,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:52.10,0:01:53.10,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:53.10,0:01:53.42,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:53.44,0:01:57.53,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:01:53.44,0:01:57.38,Caption,,0,0,0,,Bacon head, sell the lemons
+Dialogue: 2,0:01:53.44,0:01:54.56,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:01:54.56,0:01:54.90,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 2,0:01:54.90,0:01:56.10,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:01:56.10,0:01:56.28,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:01:56.28,0:01:57.48,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:01:58.76,0:02:00.90,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(156,610,416,610,0,220)\p1}m 0 0 l 449 0 l 449 7 l 0 7{\p0}
+Dialogue: 1,0:01:58.76,0:02:00.90,Caption,,0,0,0,,Never gonna stop
+Dialogue: 2,0:01:58.76,0:01:59.52,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}NEVER
+Dialogue: 2,0:01:59.52,0:02:00.28,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}GONNA
+Dialogue: 2,0:02:00.28,0:02:00.90,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}STOP
+Dialogue: 0,0:02:00.92,0:02:03.66,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(58,610,318,610,0,220)\p1}m 0 0 l 645 0 l 645 7 l 0 7{\p0}
+Dialogue: 1,0:02:00.92,0:02:03.66,Caption,,0,0,0,,Click, sell, upgrade, sell
+Dialogue: 2,0:02:00.92,0:02:03.66,Bone,,0,0,0,,{\an4\move(-102,576,317,576,0,200)\fad(60,0)}CLICK
+Dialogue: 2,0:02:01.80,0:02:03.66,Bone,,0,0,0,,{\an4\move(1017,576,485,576,0,200)\fad(60,0)}SELL
+Dialogue: 2,0:02:02.30,0:02:03.66,Bone,,0,0,0,,{\an4\move(205,576,625,576,0,200)\fad(60,0)}UPGRADE
+Dialogue: 2,0:02:03.14,0:02:03.66,Bone,,0,0,0,,{\an4\move(1382,576,850,576,0,200)\fad(60,0)}SELL
+Dialogue: 0,0:02:03.68,0:02:06.49,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(128,610,388,610,0,220)\p1}m 0 0 l 505 0 l 505 7 l 0 7{\p0}
+Dialogue: 1,0:02:03.68,0:02:06.34,Caption,,0,0,0,,Click, sell, upgrade
+Dialogue: 2,0:02:03.68,0:02:06.49,Bone,,0,0,0,,{\an4\move(-32,576,387,576,0,200)\fad(60,0)}CLICK
+Dialogue: 2,0:02:04.96,0:02:06.49,Bone,,0,0,0,,{\an4\move(1088,576,555,576,0,200)\fad(60,0)}SELL
+Dialogue: 2,0:02:05.40,0:02:06.49,Bone,,0,0,0,,{\an4\move(276,576,696,576,0,200)\fad(60,0)}UPGRADE
+Dialogue: 0,0:02:07.06,0:02:10.04,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-125,610,135,610,0,220)\p1}m 0 0 l 1010 0 l 1010 7 l 0 7{\p0}
+Dialogue: 1,0:02:07.06,0:02:10.04,Caption,,0,0,0,,Automate the line, watch the cash fly
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(134,576)\fad(0,150)}AUTOMATE
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(387,576)\fad(0,150)}THE
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(499,576)\fad(0,150)}LINE
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(640,576)\fad(0,150)}WATCH
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(808,576)\fad(0,150)}THE
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(920,576)\fad(0,150)}CASH
+Dialogue: 1,0:02:07.06,0:02:10.04,Dim,,0,0,0,,{\an4\pos(1061,576)\fad(0,150)}FLY
+Dialogue: 2,0:02:07.06,0:02:07.94,Cadmium,,0,0,0,,{\an4\pos(134,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}AUTOMATE
+Dialogue: 2,0:02:07.82,0:02:08.10,Cadmium,,0,0,0,,{\an4\pos(387,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}THE
+Dialogue: 2,0:02:07.98,0:02:08.62,Cadmium,,0,0,0,,{\an4\pos(499,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}LINE
+Dialogue: 2,0:02:08.50,0:02:09.08,Cadmium,,0,0,0,,{\an4\pos(640,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}WATCH
+Dialogue: 2,0:02:08.96,0:02:09.28,Cadmium,,0,0,0,,{\an4\pos(808,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}THE
+Dialogue: 2,0:02:09.16,0:02:09.66,Cadmium,,0,0,0,,{\an4\pos(920,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}CASH
+Dialogue: 2,0:02:09.54,0:02:10.04,Cadmium,,0,0,0,,{\an4\pos(1061,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}FLY
+Dialogue: 0,0:02:10.06,0:02:13.22,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-169,610,91,610,0,220)\p1}m 0 0 l 1098 0 l 1098 7 l 0 7{\p0}
+Dialogue: 1,0:02:10.06,0:02:13.22,Caption,,0,0,0,,Bacon head dancing while the numbers go high
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(90,576)\fs48\fad(0,150)}BACON
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(240,576)\fs48\fad(0,150)}HEAD
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(365,576)\fs48\fad(0,150)}DANCING
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(565,576)\fs48\fad(0,150)}WHILE
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(714,576)\fs48\fad(0,150)}THE
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(814,576)\fs48\fad(0,150)}NUMBERS
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(1014,576)\fs48\fad(0,150)}GO
+Dialogue: 1,0:02:10.06,0:02:13.22,Dim,,0,0,0,,{\an4\pos(1089,576)\fs48\fad(0,150)}HIGH
+Dialogue: 2,0:02:10.06,0:02:10.80,Cadmium,,0,0,0,,{\an4\pos(90,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}BACON
+Dialogue: 2,0:02:10.68,0:02:11.18,Cadmium,,0,0,0,,{\an4\pos(240,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}HEAD
+Dialogue: 2,0:02:11.06,0:02:11.58,Cadmium,,0,0,0,,{\an4\pos(365,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}DANCING
+Dialogue: 2,0:02:11.46,0:02:11.86,Cadmium,,0,0,0,,{\an4\pos(565,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}WHILE
+Dialogue: 2,0:02:11.74,0:02:12.04,Cadmium,,0,0,0,,{\an4\pos(714,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}THE
+Dialogue: 2,0:02:11.92,0:02:12.40,Cadmium,,0,0,0,,{\an4\pos(814,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}NUMBERS
+Dialogue: 2,0:02:12.28,0:02:12.68,Cadmium,,0,0,0,,{\an4\pos(1014,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}GO
+Dialogue: 2,0:02:12.56,0:02:13.14,Cadmium,,0,0,0,,{\an4\pos(1089,576)\fs48\fscx112\fscy112\t(0,90,\fscx100\fscy100)}HIGH
+Dialogue: 0,0:02:13.24,0:02:15.90,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:02:13.24,0:02:15.90,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:02:13.24,0:02:13.42,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:13.42,0:02:13.60,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:13.60,0:02:14.44,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:02:14.44,0:02:14.94,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:14.94,0:02:15.08,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:15.08,0:02:15.90,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:02:15.92,0:02:18.88,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:02:15.92,0:02:18.88,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:02:15.92,0:02:16.48,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:16.48,0:02:16.74,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:16.74,0:02:17.72,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:02:17.72,0:02:18.08,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:18.08,0:02:18.26,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:18.26,0:02:18.88,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:02:18.90,0:02:22.48,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:02:18.90,0:02:22.48,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:02:18.90,0:02:19.42,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:19.42,0:02:20.06,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:20.06,0:02:20.98,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:02:20.98,0:02:21.24,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:21.24,0:02:21.40,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:21.40,0:02:22.48,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:02:22.50,0:02:23.67,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 1,0:02:22.50,0:02:23.52,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:02:22.50,0:02:22.74,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:22.74,0:02:22.96,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:22.96,0:02:23.62,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 1,0:02:25.70,0:02:28.68,Caption,,0,0,0,,World 2 comes, oxygen next
+Dialogue: 1,0:02:28.70,0:02:32.04,Caption,,0,0,0,,Same loop, bigger checks, never perplexed
+Dialogue: 1,0:02:32.06,0:02:35.06,Caption,,0,0,0,,Offline cash keeps ticking while I sleep
+Dialogue: 1,0:02:35.08,0:02:37.86,Caption,,0,0,0,,Wake up richer, the empire is deep
+Dialogue: 1,0:02:37.88,0:02:40.74,Caption,,0,0,0,,Shake the trees, grab the bags, do the deals
+Dialogue: 1,0:02:40.76,0:02:43.84,Caption,,0,0,0,,Bacon head still selling, that's how it feels
+Dialogue: 1,0:02:43.86,0:02:46.64,Caption,,0,0,0,,From one little stand to the top of the sky
+Dialogue: 1,0:02:46.66,0:02:50.32,Caption,,0,0,0,,Sell the lemons, keep the machine running high
+Dialogue: 0,0:02:53.48,0:02:56.42,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:02:53.48,0:02:56.42,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:02:53.48,0:02:53.82,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:53.82,0:02:54.16,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:54.16,0:02:54.72,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:02:54.72,0:02:55.74,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:02:55.74,0:02:55.90,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:02:55.90,0:02:56.42,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:02:56.44,0:02:59.58,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-83,610,177,610,0,220)\p1}m 0 0 l 926 0 l 926 7 l 0 7{\p0}
+Dialogue: 1,0:02:56.44,0:02:59.58,Caption,,0,0,0,,Bacon head selling lemons all day
+Dialogue: 2,0:02:56.44,0:02:57.08,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:02:57.08,0:02:57.84,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 2,0:02:57.84,0:02:58.22,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELLING
+Dialogue: 2,0:02:58.22,0:02:58.66,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:02:58.66,0:02:59.06,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}ALL
+Dialogue: 2,0:02:59.06,0:02:59.58,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}DAY
+Dialogue: 0,0:02:59.60,0:03:02.66,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-602,610,-342,610,0,220)\p1}m 0 0 l 1965 0 l 1965 7 l 0 7{\p0}
+Dialogue: 1,0:02:59.60,0:03:02.66,Caption,,0,0,0,,Sell the lemons, sell the lemons
+Dialogue: 2,0:02:59.60,0:03:00.48,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:00.48,0:03:00.58,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:00.58,0:03:01.12,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 2,0:03:01.12,0:03:01.94,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:01.94,0:03:02.12,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:02.12,0:03:02.78,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 1,0:03:02.68,0:03:06.08,Caption,,0,0,0,,Click, upgrade, sell, don't stop the play
+Dialogue: 0,0:03:02.78,0:03:05.93,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-153,610,107,610,0,220)\p1}m 0 0 l 1067 0 l 1067 7 l 0 7{\p0}
+Dialogue: 2,0:03:02.78,0:03:03.22,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}CLICK
+Dialogue: 2,0:03:02.78,0:03:05.93,Bone,,0,0,0,,{\an4\move(-313,576,106,576,0,200)\fad(60,0)}CLICK
+Dialogue: 2,0:03:03.22,0:03:03.82,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}UPGRADE
+Dialogue: 2,0:03:03.22,0:03:05.93,Bone,,0,0,0,,{\an4\move(891,576,274,576,0,200)\fad(60,0)}UPGRADE
+Dialogue: 2,0:03:03.82,0:03:04.22,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:03.82,0:03:05.93,Bone,,0,0,0,,{\an4\move(79,576,499,576,0,200)\fad(60,0)}SELL
+Dialogue: 2,0:03:04.22,0:03:04.50,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}DON'T
+Dialogue: 2,0:03:04.22,0:03:05.93,Bone,,0,0,0,,{\an4\move(1200,576,640,576,0,200)\fad(60,0)}DON'T
+Dialogue: 2,0:03:04.50,0:03:04.80,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}STOP
+Dialogue: 2,0:03:04.50,0:03:05.93,Bone,,0,0,0,,{\an4\move(388,576,808,576,0,200)\fad(60,0)}STOP
+Dialogue: 2,0:03:04.80,0:03:05.08,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:04.80,0:03:05.93,Bone,,0,0,0,,{\an4\move(1453,576,948,576,0,200)\fad(60,0)}THE
+Dialogue: 2,0:03:05.08,0:03:05.13,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}PLAY
+Dialogue: 2,0:03:05.08,0:03:05.93,Bone,,0,0,0,,{\an4\move(641,576,1061,576,0,200)\fad(60,0)}PLAY
+Dialogue: 0,0:03:07.32,0:03:10.87,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:03:07.32,0:03:08.82,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:07.32,0:03:08.24,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:08.24,0:03:08.48,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:08.48,0:03:08.84,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 1,0:03:08.84,0:03:10.72,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:08.84,0:03:09.41,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:09.41,0:03:09.98,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:09.98,0:03:10.82,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:03:10.94,0:03:14.60,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:03:10.94,0:03:11.90,Caption,,0,0,0,,Bacon head
+Dialogue: 2,0:03:10.94,0:03:11.48,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:03:11.48,0:03:11.92,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 1,0:03:11.92,0:03:14.60,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:11.92,0:03:12.55,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:12.55,0:03:13.18,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:13.18,0:03:14.60,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:03:14.62,0:03:18.51,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(156,610,416,610,0,220)\p1}m 0 0 l 449 0 l 449 7 l 0 7{\p0}
+Dialogue: 1,0:03:14.62,0:03:18.36,Caption,,0,0,0,,Never gonna stop
+Dialogue: 2,0:03:14.62,0:03:15.66,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}NEVER
+Dialogue: 2,0:03:15.66,0:03:17.16,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}GONNA
+Dialogue: 2,0:03:17.16,0:03:18.46,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}STOP
+Dialogue: 0,0:03:19.78,0:03:26.73,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-55,610,205,610,0,220)\p1}m 0 0 l 870 0 l 870 7 l 0 7{\p0}
+Dialogue: 1,0:03:19.78,0:03:21.66,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:19.78,0:03:20.86,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:20.86,0:03:21.00,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:21.00,0:03:22.60,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 1,0:03:22.60,0:03:26.58,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:22.60,0:03:23.68,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:23.68,0:03:24.14,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:24.14,0:03:26.68,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:03:27.12,0:03:34.43,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:03:27.12,0:03:30.28,Caption,,0,0,0,,Bacon head
+Dialogue: 2,0:03:27.12,0:03:28.76,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:03:28.76,0:03:31.78,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 1,0:03:31.78,0:03:34.28,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:31.78,0:03:33.18,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:33.18,0:03:33.44,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:33.44,0:03:34.38,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:03:36.14,0:03:37.37,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(240,610,500,610,0,220)\p1}m 0 0 l 280 0 l 280 7 l 0 7{\p0}
+Dialogue: 1,0:03:36.14,0:03:37.22,Caption,,0,0,0,,Bacon head
+Dialogue: 2,0:03:36.14,0:03:36.62,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}BACON
+Dialogue: 2,0:03:36.62,0:03:37.32,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}HEAD
+Dialogue: 0,0:03:38.14,0:03:40.75,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 1,0:03:38.14,0:03:40.60,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:38.14,0:03:38.91,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:38.91,0:03:39.68,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:39.68,0:03:40.70,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:03:42.14,0:03:43.93,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 1,0:03:42.14,0:03:43.78,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:42.14,0:03:42.47,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:42.47,0:03:42.80,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:42.80,0:03:43.88,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS
+Dialogue: 0,0:03:44.14,0:03:47.15,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 1,0:03:44.14,0:03:47.00,Caption,,0,0,0,,Sell the lemons
+Dialogue: 2,0:03:44.14,0:03:45.07,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}SELL
+Dialogue: 2,0:03:45.07,0:03:46.00,Cadmium,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}THE
+Dialogue: 2,0:03:46.00,0:03:47.10,Bone,,0,0,0,,{\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}LEMONS

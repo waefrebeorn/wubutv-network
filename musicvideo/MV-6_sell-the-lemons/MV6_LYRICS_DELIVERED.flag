@@ -1,0 +1,36 @@
+MV-6 "Sell the Lemons" — LYRICS REDO DELIVERED 2026-11-12 ~17:35 EST
+(parent-verified; user verdict 2026-11-12 12:41 EST: "lyrics on screen are wrong
+and no alignment to music")
+
+House master: masters/mv6_sell_the_lemons_16x9_lyrics.mp4
+  md5 442b2cfc06b5aeb667d34e32ef0b9229, 113,127,134 B, 5491f, 228.817s,
+  1280x720 24fps, h264 + AAC 48k stereo, SEI crf=18.0, faststart moov@36.
+  Gates ALL PASS (gate_lyrics2.log): frame count 5491=5491, decoded-PCM audio
+  md5 == base (047e89593aac4b584ff694c0ae5c3fa7), regression at encoding-noise
+  floor, motion no NEW frozen runs (two inherited >=24f runs (7,35) (294,82)).
+  Parent full-res burned-kinetic reads 4/4 clean: hook3 16.5s "SELL",
+  C1 tail 65.0s "NEVER" (corrected "Never gonna sell the lemons"),
+  127.5s "AUTOMATE THE LINE..." (no garbled overlap — the 127.06s bug fixed),
+  bridge chant 135.0s "THE" (previously-missing 10s chant now captioned).
+Chat copy: masters/mv6_sell_the_lemons_16x9_lyrics_50mb.mp4
+  md5 7a2a61b7fa59610eea18a791ef11b7ca, 39,078,263 B, 854x480 24fps, 5491f,
+  228.817s, AAC copied untouched (decoded-PCM md5 == house), faststart.
+  Encoded by the PARENT 2026-11-12 ~17:35 EST after the sandbox binary-write
+  restriction (EPERM since ~16:35 EST) blocked the coordinator's re-run;
+  the restriction flaps per-session and the parent session could write.
+Base master untouched: mv6_sell_the_lemons_16x9.mp4 md5 206ee9b07b85e9731708d96eec67e927.
+.ass: mv6_kinetic_redo.ass, 318 events (72 captions + 246 kinetic), 0
+double-backslash lines, 0 nested-brace fs lines, per-line fs capped at 1100px
+(br4 fs48). v1 master (md5 467a7a82, nested-brace libass bug, raw tags on
+screen at 130.06s) discarded; delivered master is the v2 re-encode.
+
+Disclosed:
+- Least-certain line: 206.28-209.98 "Bacon head" (stem silent there; mix order
+  vs sheet order differ) — carried as measured.
+- SLAM/CASCADE first words animate in over 60-150ms from full transparency;
+  invisible at the EXACT line-start frame by design, fully visible by +150ms.
+  (HIGHLIGHT first words are full-strength at the exact line start.)
+- The v7-era MV-6 master this replaces was never re-delivered; only the
+  lyrics-redo master ships from here.
+Coordinator 0dbe2952 DONE 2026-11-12 ~16:59 EST (report recovered from session
+jsonl); parent finished the chat copy from disk, verified, flagged, delivered.

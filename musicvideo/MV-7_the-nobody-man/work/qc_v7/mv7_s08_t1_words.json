@@ -1,0 +1,75 @@
+{
+ "track": "mv7_s08_t1_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 10,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 1.08,
+   "prob": 0.786
+  },
+  {
+   "word": "got",
+   "start": 1.08,
+   "end": 1.38,
+   "prob": 0.892
+  },
+  {
+   "word": "a",
+   "start": 1.38,
+   "end": 1.68,
+   "prob": 0.979
+  },
+  {
+   "word": "thousand",
+   "start": 1.68,
+   "end": 2.38,
+   "prob": 0.986
+  },
+  {
+   "word": "little",
+   "start": 2.38,
+   "end": 2.98,
+   "prob": 0.99
+  },
+  {
+   "word": "sparks",
+   "start": 2.98,
+   "end": 3.96,
+   "prob": 0.988
+  },
+  {
+   "word": "flicking",
+   "start": 3.96,
+   "end": 6.02,
+   "prob": 0.764
+  },
+  {
+   "word": "in",
+   "start": 6.02,
+   "end": 6.4,
+   "prob": 0.997
+  },
+  {
+   "word": "the",
+   "start": 6.4,
+   "end": 6.58,
+   "prob": 0.999
+  },
+  {
+   "word": "dark",
+   "start": 6.58,
+   "end": 7.28,
+   "prob": 0.996
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.28,
+   "text": "I got a thousand little sparks flicking in the dark"
+  }
+ ]
+}

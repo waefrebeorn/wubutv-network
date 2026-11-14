@@ -1,0 +1,94 @@
+{
+  "mfcc end-to-end": {
+    "corr": 1.0,
+    "max_abs_diff": 0.0005278320312527285,
+    "rel_diff": 9.40878494164084e-07
+  },
+  "mfcc isolated (C mag)": {
+    "corr": 1.0,
+    "max_abs_diff": 0.0005000518989106695,
+    "rel_diff": 8.913594308794796e-07
+  },
+  "chroma end-to-end": {
+    "corr": 1.0,
+    "max_abs_diff": 1.5867652892742612e-06,
+    "rel_diff": 1.5867652892742612e-06
+  },
+  "chroma isolated (C mag)": {
+    "corr": 1.0,
+    "max_abs_diff": 5.144745183205401e-07,
+    "rel_diff": 5.144745183205401e-07
+  },
+  "rms end-to-end (time-domain)": {
+    "corr": 1.0,
+    "max_abs_diff": 5.157756805540537e-07,
+    "rel_diff": 1.2461104410397518e-06
+  },
+  "centroid end-to-end": {
+    "corr": 1.0,
+    "max_abs_diff": 0.005008663579701533,
+    "rel_diff": 1.0024369526607237e-06
+  },
+  "centroid isolated (C mag)": {
+    "corr": 1.0,
+    "max_abs_diff": 0.004999321493869502,
+    "rel_diff": 1.0005672246454797e-06
+  },
+  "rolloff end-to-end": {
+    "corr": 1.0,
+    "max_abs_diff": 15.63000000000011,
+    "rel_diff": 0.002155862068965532
+  },
+  "rolloff isolated (C mag)": {
+    "corr": 1.0,
+    "max_abs_diff": 0.005000000000109139,
+    "rel_diff": 6.896551724288468e-07
+  },
+  "contrast end-to-end": {
+    "corr": 1.0,
+    "max_abs_diff": 5.079312006373016e-05,
+    "rel_diff": 9.3555613049822e-07
+  },
+  "contrast isolated (C mag)": {
+    "corr": 1.0,
+    "max_abs_diff": 4.999993572596395e-05,
+    "rel_diff": 9.209465056600663e-07
+  },
+  "tempogram (C flux)": {
+    "corr": 1.0,
+    "max_abs_diff": 0.00018610143407161994,
+    "rel_diff": 0.00018610143407161994
+  },
+  "tempogram mean per lag": {
+    "corr": 1.0,
+    "max_abs_diff": 1.2880094331091385e-06,
+    "rel_diff": 1.2880094331091385e-06
+  },
+  "per-beat loudness (6 bands)": {
+    "corr": 1.0,
+    "max_abs_diff": 4.999809100780794e-05,
+    "rel_diff": 8.332527685261399e-07
+  },
+  "per-beat rms": {
+    "corr": 1.0,
+    "max_abs_diff": 5.874719481713253e-07,
+    "rel_diff": 1.6713894785122006e-06
+  },
+  "per-beat rms (librosa rms)": {
+    "corr": 1.0,
+    "max_abs_diff": 5.025544166509244e-07,
+    "rel_diff": 1.4297944039469303e-06
+  },
+  "flux vs scipy": {
+    "corr": 1.0,
+    "max_abs_diff": 5.554027557308494e-07
+  },
+  "meta": {
+    "track": "MV-14",
+    "n_frames": 10101,
+    "n_beats_floor1.0": 237,
+    "tempo_bpm": 90.5,
+    "bar_corr": 0.999,
+    "all_pass": true
+  }
+}

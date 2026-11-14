@@ -1,0 +1,40 @@
+{
+  "file": "mv5_s20_t1.wav",
+  "kind": "Take",
+  "totalWords": 4,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Heart",
+      "start": 0.2,
+      "end": 1.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "in",
+      "start": 1.4,
+      "end": 1.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 1.5,
+      "end": 1.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "breeze.",
+      "start": 1.6,
+      "end": 3.1,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.2,
+      "end": 3.1,
+      "text": "Heart in the breeze."
+    }
+  ]
+}

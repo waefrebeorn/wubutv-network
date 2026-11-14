@@ -1,0 +1,513 @@
+{
+ "file": "song_16k.wav",
+ "model": "gemini-3.5-transcribe",
+ "source": "Google AI Studio Playground (browser-task:0801e943-100e-5d87-a2bf-6bc81cf98311), free tier, 7263 tokens, no paywall",
+ "granularity": "SEGMENT-level timestamps only \u2014 Studio Playground UI does not expose per-word start/end even with Word timestamps ON; per-word times NOT available from this run",
+ "prompt_url": "https://aistudio.google.com/prompts/1_iX1jcJ0FhUIZMG9Kakmpe0aUQ1Gnwbg",
+ "settings": {
+  "word_timestamps": true,
+  "speaker_labels": true,
+  "smart": false,
+  "language": "auto-detect"
+ },
+ "word_count": 496,
+ "expected_words": 546,
+ "caveats": [
+  "75-97s verse: early read differed (radio/shoes/waves variant); final stable rendering used, confirmed twice",
+  "Speaker 2 appears only in refrains 122-139s and 196-197s; label-to-voice mapping (CAT low / GIRL high) NOT established by this run"
+ ],
+ "segments": [
+  {
+   "start": 8,
+   "end": 45,
+   "speaker": "spk_0",
+   "text": "Till the morning comes. Till the morning comes. Feet on the boardwalk, salt on my skin. You came in laughing, said come on let's begin. Blue shirt, red bicycle rolling past the pier. I was posted up right here, now you're pulling near. Keys in your hand, you nodded at the waves like"
+  },
+  {
+   "start": 45,
+   "end": 48,
+   "speaker": "spk_1",
+   "text": "Yeah, they already understand."
+  },
+  {
+   "start": 48,
+   "end": 51,
+   "speaker": "spk_0",
+   "text": "Slow down, take your time. Let the hard week fade."
+  },
+  {
+   "start": 52,
+   "end": 53,
+   "speaker": "spk_1",
+   "text": "One small look from you."
+  },
+  {
+   "start": 53,
+   "end": 55,
+   "speaker": "spk_0",
+   "text": "And my whole head replaced."
+  },
+  {
+   "start": 58,
+   "end": 59,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now, easy now."
+  },
+  {
+   "start": 59,
+   "end": 60,
+   "speaker": "spk_0",
+   "text": "We ride, we ride."
+  },
+  {
+   "start": 60,
+   "end": 61,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 61,
+   "end": 62,
+   "speaker": "spk_0",
+   "text": "With you by my side."
+  },
+  {
+   "start": 63,
+   "end": 64,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 64,
+   "end": 65,
+   "speaker": "spk_0",
+   "text": "No need to run."
+  },
+  {
+   "start": 65,
+   "end": 66,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 66,
+   "end": 67,
+   "speaker": "spk_0",
+   "text": "We hold the sun."
+  },
+  {
+   "start": 67,
+   "end": 68,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 68,
+   "end": 69,
+   "speaker": "spk_0",
+   "text": "Keep it loose, keep it low."
+  },
+  {
+   "start": 70,
+   "end": 70,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 71,
+   "end": 72,
+   "speaker": "spk_0",
+   "text": "Let it drift, let it go."
+  },
+  {
+   "start": 72,
+   "end": 73,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 73,
+   "end": 74,
+   "speaker": "spk_0",
+   "text": "We're good where we are."
+  },
+  {
+   "start": 74,
+   "end": 75,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 75,
+   "end": 97,
+   "speaker": "spk_0",
+   "text": "Just two small sparks. Just two small sparks. Vendor at the corner calling mango sweets, socks in the sand. And the tide tapping time with our feet. Your laugh hit the air like a hand drum roll."
+  },
+  {
+   "start": 97,
+   "end": 99,
+   "speaker": "spk_1",
+   "text": "I forgot the list, forgot the bills."
+  },
+  {
+   "start": 99,
+   "end": 103,
+   "speaker": "spk_0",
+   "text": "Forgot what I was told."
+  },
+  {
+   "start": 103,
+   "end": 105,
+   "speaker": "spk_1",
+   "text": "Ice, ice, ice cups sweating on the rail by the steps."
+  },
+  {
+   "start": 105,
+   "end": 107,
+   "speaker": "spk_0",
+   "text": "You said don't think too hard."
+  },
+  {
+   "start": 107,
+   "end": 108,
+   "speaker": "spk_1",
+   "text": "So I did not yet."
+  },
+  {
+   "start": 108,
+   "end": 109,
+   "speaker": "spk_0",
+   "text": "Here for the boardwalks."
+  },
+  {
+   "start": 109,
+   "end": 110,
+   "speaker": "spk_1",
+   "text": "I got lost in the crowd."
+  },
+  {
+   "start": 110,
+   "end": 112,
+   "speaker": "spk_0",
+   "text": "You took my sneakers from me once like none of it was left."
+  },
+  {
+   "start": 112,
+   "end": 113,
+   "speaker": "spk_1",
+   "text": "Slow down, take your time."
+  },
+  {
+   "start": 113,
+   "end": 114,
+   "speaker": "spk_0",
+   "text": "Take your time."
+  },
+  {
+   "start": 114,
+   "end": 115,
+   "speaker": "spk_1",
+   "text": "The hard week fade."
+  },
+  {
+   "start": 115,
+   "end": 116,
+   "speaker": "spk_0",
+   "text": "One small look from you."
+  },
+  {
+   "start": 116,
+   "end": 120,
+   "speaker": "spk_1",
+   "text": "And my whole head replaced."
+  },
+  {
+   "start": 122,
+   "end": 122,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 123,
+   "end": 124,
+   "speaker": "spk_0",
+   "text": "We ride, we ride."
+  },
+  {
+   "start": 124,
+   "end": 125,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 125,
+   "end": 126,
+   "speaker": "spk_0",
+   "text": "With you by my side."
+  },
+  {
+   "start": 127,
+   "end": 127,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 128,
+   "end": 129,
+   "speaker": "spk_0",
+   "text": "No need to run."
+  },
+  {
+   "start": 129,
+   "end": 130,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 130,
+   "end": 131,
+   "speaker": "spk_0",
+   "text": "We hold the sun."
+  },
+  {
+   "start": 131,
+   "end": 132,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 132,
+   "end": 133,
+   "speaker": "spk_0",
+   "text": "Keep it loose, keep it low."
+  },
+  {
+   "start": 134,
+   "end": 134,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 134,
+   "end": 135,
+   "speaker": "spk_0",
+   "text": "Let it drift, let it go."
+  },
+  {
+   "start": 136,
+   "end": 136,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 137,
+   "end": 137,
+   "speaker": "spk_0",
+   "text": "We're good where we are."
+  },
+  {
+   "start": 138,
+   "end": 139,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 139,
+   "end": 151,
+   "speaker": "spk_0",
+   "text": "Just two small sparks. Just two small sparks. Just two small sparks. If the rain comes down, we stay out in it."
+  },
+  {
+   "start": 152,
+   "end": 152,
+   "speaker": "spk_1",
+   "text": "If the day runs long."
+  },
+  {
+   "start": 153,
+   "end": 154,
+   "speaker": "spk_0",
+   "text": "We still move with it."
+  },
+  {
+   "start": 154,
+   "end": 155,
+   "speaker": "spk_1",
+   "text": "And in my hand."
+  },
+  {
+   "start": 155,
+   "end": 156,
+   "speaker": "spk_0",
+   "text": "No speech, no show."
+  },
+  {
+   "start": 156,
+   "end": 157,
+   "speaker": "spk_1",
+   "text": "Hard in the breeze."
+  },
+  {
+   "start": 157,
+   "end": 158,
+   "speaker": "spk_0",
+   "text": "And the bass moves slow."
+  },
+  {
+   "start": 158,
+   "end": 159,
+   "speaker": "spk_1",
+   "text": "If the sky turns gray."
+  },
+  {
+   "start": 159,
+   "end": 160,
+   "speaker": "spk_0",
+   "text": "We don't fold in."
+  },
+  {
+   "start": 160,
+   "end": 161,
+   "speaker": "spk_1",
+   "text": "We lean right back."
+  },
+  {
+   "start": 162,
+   "end": 162,
+   "speaker": "spk_0",
+   "text": "Let the whole thing spin."
+  },
+  {
+   "start": 163,
+   "end": 163,
+   "speaker": "spk_1",
+   "text": "You and me same pace."
+  },
+  {
+   "start": 164,
+   "end": 165,
+   "speaker": "spk_0",
+   "text": "Same worn in shoes."
+  },
+  {
+   "start": 165,
+   "end": 166,
+   "speaker": "spk_1",
+   "text": "Nothing to prove."
+  },
+  {
+   "start": 166,
+   "end": 167,
+   "speaker": "spk_0",
+   "text": "Nothing to lose."
+  },
+  {
+   "start": 169,
+   "end": 170,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 171,
+   "end": 171,
+   "speaker": "spk_0",
+   "text": "We ride, we ride."
+  },
+  {
+   "start": 172,
+   "end": 172,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 173,
+   "end": 174,
+   "speaker": "spk_0",
+   "text": "With you by my side."
+  },
+  {
+   "start": 174,
+   "end": 175,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 175,
+   "end": 176,
+   "speaker": "spk_0",
+   "text": "No need to run."
+  },
+  {
+   "start": 176,
+   "end": 177,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 177,
+   "end": 178,
+   "speaker": "spk_0",
+   "text": "We hold the sun."
+  },
+  {
+   "start": 178,
+   "end": 179,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 180,
+   "end": 180,
+   "speaker": "spk_0",
+   "text": "Keep it loose, keep it low."
+  },
+  {
+   "start": 181,
+   "end": 181,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 182,
+   "end": 183,
+   "speaker": "spk_0",
+   "text": "Let it drift, let it go."
+  },
+  {
+   "start": 183,
+   "end": 184,
+   "speaker": "spk_1",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 184,
+   "end": 184,
+   "speaker": "spk_0",
+   "text": "We're good where we are."
+  },
+  {
+   "start": 187,
+   "end": 195,
+   "speaker": "spk_1",
+   "text": "Just two small sparks. This is now, this is now, this is now."
+  },
+  {
+   "start": 196,
+   "end": 197,
+   "speaker": "spk_2",
+   "text": "Easy now, easy now."
+  },
+  {
+   "start": 200,
+   "end": 200,
+   "speaker": "spk_0",
+   "text": "Till the morning comes."
+  },
+  {
+   "start": 204,
+   "end": 206,
+   "speaker": "spk_1",
+   "text": "Till the morning comes."
+  }
+ ]
+}

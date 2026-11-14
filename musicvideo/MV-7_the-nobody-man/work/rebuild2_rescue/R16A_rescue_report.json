@@ -1,0 +1,38 @@
+{
+ "take": "R16A",
+ "line": "C1.Ta Nobody man [inferred split]",
+ "song_window": [
+  67.8,
+  69.85
+ ],
+ "song_span_s": 2.05,
+ "take_span_s": 3.56,
+ "overall_speedup": 1.737,
+ "head_reanchor": {
+  "audio_onset": 0.0,
+  "visible_mouth_frame": 21,
+  "visible_mouth_t": 0.875,
+  "shift_s": 0.875,
+  "mouth_score_thr": 0.0321
+ },
+ "anchors_used": 2,
+ "words": 2,
+ "keyframes_take_to_song": [
+  [
+   0.875,
+   0.0
+  ],
+  [
+   1.82,
+   1.03
+  ],
+  [
+   3.56,
+   2.05
+  ]
+ ],
+ "rescue_frames": 49,
+ "motion_mean_diff_small": 2.87,
+ "motion_max_neardup_run_frames": 1,
+ "mouthgate_grid": "R16A_mouthgate.jpg (rows = song words in order; left = onset, right = onset+1; crop x30-62% y26-60%)"
+}

@@ -1,0 +1,97 @@
+{
+ "take": "takes/mv16_s06_t2.mp4",
+ "words": [
+  {
+   "w": "Friends",
+   "start": 0.0,
+   "end": 0.62,
+   "p": 0.209
+  },
+  {
+   "w": "in",
+   "start": 0.62,
+   "end": 1.02,
+   "p": 0.995
+  },
+  {
+   "w": "the",
+   "start": 1.02,
+   "end": 1.22,
+   "p": 0.997
+  },
+  {
+   "w": "back",
+   "start": 1.22,
+   "end": 1.82,
+   "p": 0.995
+  },
+  {
+   "w": "just",
+   "start": 1.82,
+   "end": 2.34,
+   "p": 0.922
+  },
+  {
+   "w": "nodded",
+   "start": 2.34,
+   "end": 3.42,
+   "p": 0.952
+  },
+  {
+   "w": "and",
+   "start": 3.42,
+   "end": 4.34,
+   "p": 0.686
+  },
+  {
+   "w": "let",
+   "start": 4.34,
+   "end": 4.68,
+   "p": 0.995
+  },
+  {
+   "w": "it",
+   "start": 4.68,
+   "end": 4.96,
+   "p": 0.998
+  },
+  {
+   "w": "ride.",
+   "start": 4.96,
+   "end": 5.74,
+   "p": 0.994
+  },
+  {
+   "w": "What?",
+   "start": 6.77,
+   "end": 7.38,
+   "p": 0.865
+  },
+  {
+   "w": "What?!",
+   "start": 8.59,
+   "end": 9.2,
+   "p": 0.521
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.74,
+   "text": "Friends in the back just nodded and let it ride.",
+   "avg_logprob": -0.549
+  },
+  {
+   "start": 7.0,
+   "end": 7.38,
+   "text": "What?",
+   "avg_logprob": -0.549
+  },
+  {
+   "start": 8.7,
+   "end": 9.2,
+   "text": "What?!",
+   "avg_logprob": -0.549
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s22_t1_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 6,
+ "words": [
+  {
+   "word": "Nobody",
+   "start": 0.0,
+   "end": 2.12,
+   "prob": 0.286
+  },
+  {
+   "word": "man,",
+   "start": 2.12,
+   "end": 2.9,
+   "prob": 0.746
+  },
+  {
+   "word": "I'm",
+   "start": 3.98,
+   "end": 5.94,
+   "prob": 0.914
+  },
+  {
+   "word": "the",
+   "start": 5.94,
+   "end": 6.12,
+   "prob": 0.982
+  },
+  {
+   "word": "nobody",
+   "start": 6.12,
+   "end": 6.7,
+   "prob": 0.9
+  },
+  {
+   "word": "man.",
+   "start": 6.7,
+   "end": 7.52,
+   "prob": 0.993
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.52,
+   "text": "Nobody man, I'm the nobody man."
+  }
+ ]
+}

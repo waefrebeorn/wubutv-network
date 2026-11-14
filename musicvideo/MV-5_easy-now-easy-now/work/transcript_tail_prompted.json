@@ -1,0 +1,55 @@
+{
+ "tag": "tail",
+ "t0": 184.0,
+ "segments": [
+  {
+   "start": 190.42,
+   "end": 205.6,
+   "text": "VPNEasy now, easy nowvenirTill the morning comes",
+   "words": [
+    {
+     "word": "VPNEasy",
+     "start": 190.42,
+     "end": 191.82,
+     "prob": 0.005
+    },
+    {
+     "word": " now,",
+     "start": 191.82,
+     "end": 191.82,
+     "prob": 0.11
+    },
+    {
+     "word": " easy",
+     "start": 191.84,
+     "end": 194.14,
+     "prob": 0.094
+    },
+    {
+     "word": " nowvenirTill",
+     "start": 194.14,
+     "end": 200.34,
+     "prob": 0.248
+    },
+    {
+     "word": " the",
+     "start": 200.34,
+     "end": 202.14,
+     "prob": 0.0
+    },
+    {
+     "word": " morning",
+     "start": 202.14,
+     "end": 202.66,
+     "prob": 0.949
+    },
+    {
+     "word": " comes",
+     "start": 202.66,
+     "end": 205.6,
+     "prob": 0.675
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+# MV-8 v3 — VOLLEY 4 vehicle: H2-B "World-Hop Reprise" PUPIL (CARTOON EVENT, no singing)
+# Scene: H2-B, song 81.08–93.00 (1946–2232f). 11.92s scene; this take covers
+# the eye → pupil dive half: the camera dives into the giant chocolate eye's
+# pupil. Song lines L16 81.66 (contested), L17 85.98 stay montage — the WORDS
+# live in the kinetic layer in post (HIGHLIGHT; Brown-counter accent on L16);
+# the SINGER INSERT (INS-6, v2 H2-B) covers L16+L17 as a cutaway at assembly.
+# This take is pure cartoon event.
+# LOOSE-PROMPT SLOT — the dive is described loosely (no rigid timing language)
+# so the generator stages it freely. F12 GLYPH WATCH ACTIVE: the pupil's
+# reflections must stay ABSTRACT neon rings/blobs — if ANY pupil glyph resolves
+# into readable letters, the take FAILS QC (G2). The canal take carries the
+# scene if this fails; the dive is re-staged on a new axis, never a third
+# identical pull.
+# Anchor: G07.jpg (work/rebuild/stills_v3/G07.jpg, md5 b4992b8b5ba825b941a22a725ebfa8ef).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, squash-and-stretch energy, porcelain white + warm gold +
+# chocolate brown, bright yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the camera is already diving toward the eye at frame 0 — never still.
+# Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G07.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow the sole bright accent colour. The camera is already diving toward a giant glossy chocolate-brown eye as the clip opens, never still: it swoops closer and closer, the huge eye filling the frame, the dark pupil swirling open like a vortex, glowing abstract neon rings and soft glowing blobs drifting and pulsing inside the pupil — abstract shapes only, smooth rings and blobs, never letters, never symbols, never any readable mark — golden light glinting across the glossy surface, white porcelain swirls streaming past at the edges as the dive accelerates into the dark swirling pupil, the rings glowing brighter as the camera plunges in. Continuous motion from the very first frame to the last. No people, no text, no logos, no letters, no symbols."

@@ -1,0 +1,6577 @@
+{
+ "track": "track.mp3",
+ "track_md5": "0c1bcafa568547e2d4fa36e133ad3626",
+ "duration": 206.4,
+ "method": "faster-whisper base (~/workspace/fw-venv), word timestamps, mono 16k; no-prompt full-track pass as base (88 segments, 556 words), prompted full-track pass for chorus slots (110 segments, 506 words), targeted re-decodes for the intro, chorus tails and final tail; cross-checked against the Suno lyric video frames (track.mp4, 1fps). Per-line vocal owner from librosa pyin + aubio YIN f0 analysis (see LYRIC_TIMELINE.md vocal-ownership section); CAT = low male voice ~97-160 Hz, GIRL = high voice ~200-330 Hz. Even-split word times flagged in 'source'.",
+ "lines": [
+  {
+   "id": "I01",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 1.66,
+   "end": 3.82,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I02",
+   "section": "Intro",
+   "text": "We ride, we ride",
+   "start": 3.82,
+   "end": 5.98,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I03",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 5.98,
+   "end": 8.01,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I04",
+   "section": "Intro",
+   "text": "Till the morning comes",
+   "start": 8.01,
+   "end": 10.04,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I05",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 10.04,
+   "end": 12.72,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I06",
+   "section": "Intro",
+   "text": "We ride, we ride",
+   "start": 12.72,
+   "end": 15.4,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I07",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 15.4,
+   "end": 17.02,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I08",
+   "section": "Intro",
+   "text": "Till the morning comes",
+   "start": 17.02,
+   "end": 18.64,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "I09",
+   "section": "Intro",
+   "text": "(ta-da vocalise)",
+   "start": 18.64,
+   "end": 22.0,
+   "owner": "GIRL",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L01",
+   "section": "Verse 1",
+   "text": "Bare feet on the boardwalk",
+   "start": 22.0,
+   "end": 23.42,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L02",
+   "section": "Verse 1",
+   "text": "Salt on my skin",
+   "start": 23.42,
+   "end": 24.6,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L03",
+   "section": "Verse 1",
+   "text": "You came in laughing",
+   "start": 24.6,
+   "end": 26.76,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L04",
+   "section": "Verse 1",
+   "text": "Said, come on, let's begin",
+   "start": 27.76,
+   "end": 29.6,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L05",
+   "section": "Verse 1",
+   "text": "Blue shirt, red bicycle",
+   "start": 29.6,
+   "end": 31.48,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L06",
+   "section": "Verse 1",
+   "text": "Rolling past the pier",
+   "start": 31.48,
+   "end": 33.62,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L07",
+   "section": "Verse 1",
+   "text": "I was posted up right here",
+   "start": 33.62,
+   "end": 36.14,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L08",
+   "section": "Verse 1",
+   "text": "Now you're pulling near",
+   "start": 36.14,
+   "end": 38.48,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L09",
+   "section": "Verse 1",
+   "text": "Backpack half-zipped",
+   "start": 38.48,
+   "end": 40.44,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L10",
+   "section": "Verse 1",
+   "text": "Keys in your hand",
+   "start": 40.44,
+   "end": 42.82,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L11",
+   "section": "Verse 1",
+   "text": "You nodded at the waves like",
+   "start": 42.82,
+   "end": 44.58,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L12",
+   "section": "Verse 1",
+   "text": "Yeah, they already understand",
+   "start": 44.58,
+   "end": 46.86,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L13",
+   "section": "Pre-Chorus 1",
+   "text": "Slow down, take your time",
+   "start": 47.76,
+   "end": 49.6,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L14",
+   "section": "Pre-Chorus 1",
+   "text": "Let the hard week fade",
+   "start": 49.6,
+   "end": 51.46,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L15",
+   "section": "Pre-Chorus 1",
+   "text": "One small look from you",
+   "start": 51.46,
+   "end": 52.8,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L16",
+   "section": "Pre-Chorus 1",
+   "text": "And my whole head replays",
+   "start": 52.8,
+   "end": 56.5,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L17",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 57.52,
+   "end": 59.1,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L18",
+   "section": "Chorus 1",
+   "text": "We ride, we ride",
+   "start": 59.1,
+   "end": 60.22,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L19",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 60.22,
+   "end": 61.34,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L20",
+   "section": "Chorus 1",
+   "text": "With you by my side",
+   "start": 61.34,
+   "end": 62.52,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L21",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 62.52,
+   "end": 63.66,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L22",
+   "section": "Chorus 1",
+   "text": "No need to run",
+   "start": 63.66,
+   "end": 64.92,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L23",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 64.92,
+   "end": 65.96,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L24",
+   "section": "Chorus 1",
+   "text": "We hold the sun",
+   "start": 65.96,
+   "end": 67.06,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L25",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 67.06,
+   "end": 68.2,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L26",
+   "section": "Chorus 1",
+   "text": "Keep it loose, keep it low",
+   "start": 68.2,
+   "end": 69.4,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L27",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 69.4,
+   "end": 70.46,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L28",
+   "section": "Chorus 1",
+   "text": "Let it drift, let it go",
+   "start": 70.46,
+   "end": 71.66,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L29",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 71.66,
+   "end": 72.74,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L30",
+   "section": "Chorus 1",
+   "text": "We're good where we are",
+   "start": 72.74,
+   "end": 74.02,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L31",
+   "section": "Chorus 1",
+   "text": "Easy now, easy now",
+   "start": 74.02,
+   "end": 75.04,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L32",
+   "section": "Chorus 1",
+   "text": "Just two small sparks",
+   "start": 75.04,
+   "end": 76.8,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L33",
+   "section": "Chorus 1 tail",
+   "text": "I gotta go there",
+   "start": 76.8,
+   "end": 78.76,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L34",
+   "section": "Chorus 1 tail",
+   "text": "I gotta go there, just two small sparks",
+   "start": 78.76,
+   "end": 81.76,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L35",
+   "section": "Chorus 1 tail",
+   "text": "I gotta go there",
+   "start": 81.76,
+   "end": 83.14,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L36",
+   "section": "Chorus 1 tail",
+   "text": "Just two small sparks",
+   "start": 83.14,
+   "end": 85.16,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L37",
+   "section": "Verse 2",
+   "text": "Vendor at the corner",
+   "start": 85.2,
+   "end": 87.0,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L38",
+   "section": "Verse 2",
+   "text": "Calling mango sweet",
+   "start": 87.0,
+   "end": 87.6,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L39",
+   "section": "Verse 2",
+   "text": "Socks in the sand",
+   "start": 87.6,
+   "end": 88.92,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L40",
+   "section": "Verse 2",
+   "text": "And the tide tapping time with our feet",
+   "start": 88.92,
+   "end": 93.0,
+   "owner": "SPLIT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L41",
+   "section": "Verse 2",
+   "text": "Your laugh hit the air",
+   "start": 93.8,
+   "end": 95.12,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L42",
+   "section": "Verse 2",
+   "text": "Like a hand drum roll",
+   "start": 95.8,
+   "end": 96.84,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L43",
+   "section": "Verse 2",
+   "text": "I forgot the list, forgot the bills",
+   "start": 96.84,
+   "end": 98.44,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L44",
+   "section": "Verse 2",
+   "text": "Forgot what I was told",
+   "start": 98.44,
+   "end": 102.4,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L45",
+   "section": "Verse 2",
+   "text": "Ice cup sweating",
+   "start": 102.4,
+   "end": 103.8,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L46",
+   "section": "Verse 2",
+   "text": "On the rail by the steps",
+   "start": 103.8,
+   "end": 104.72,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L47",
+   "section": "Verse 2",
+   "text": "You said, don't think too hard",
+   "start": 104.72,
+   "end": 106.42,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L48",
+   "section": "Verse 2",
+   "text": "So I didn't, not yet",
+   "start": 106.42,
+   "end": 107.52,
+   "owner": "SPLIT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L49",
+   "section": "Verse 2",
+   "text": "Kids with a boombox",
+   "start": 107.52,
+   "end": 108.72,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L50",
+   "section": "Verse 2",
+   "text": "Cutting through the crowd",
+   "start": 108.72,
+   "end": 109.74,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L51",
+   "section": "Verse 2",
+   "text": "You took my sleeve and spun me once",
+   "start": 109.74,
+   "end": 110.7,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L52",
+   "section": "Verse 2",
+   "text": "Like none of it was loud",
+   "start": 110.7,
+   "end": 111.9,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L53",
+   "section": "Pre-Chorus 2",
+   "text": "Slow down, take your time",
+   "start": 111.9,
+   "end": 113.78,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L54",
+   "section": "Pre-Chorus 2",
+   "text": "Let the hard week fade",
+   "start": 113.78,
+   "end": 114.94,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L55",
+   "section": "Pre-Chorus 2",
+   "text": "One small look from you",
+   "start": 114.94,
+   "end": 116.0,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L56",
+   "section": "Pre-Chorus 2",
+   "text": "And my whole head replays",
+   "start": 116.0,
+   "end": 118.28,
+   "owner": "GIRL",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L56b",
+   "section": "Pre-Chorus 2",
+   "text": "(held vocalise)",
+   "start": 119.3,
+   "end": 120.02,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L57",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 121.26,
+   "end": 122.58,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L58",
+   "section": "Chorus 2",
+   "text": "We ride, we ride",
+   "start": 122.58,
+   "end": 124.0,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L59",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 124.0,
+   "end": 125.06,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L60",
+   "section": "Chorus 2",
+   "text": "With you by my side",
+   "start": 125.06,
+   "end": 126.3,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L61",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 126.3,
+   "end": 127.38,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L62",
+   "section": "Chorus 2",
+   "text": "No need to run",
+   "start": 127.38,
+   "end": 128.52,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L63",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 128.52,
+   "end": 129.66,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L64",
+   "section": "Chorus 2",
+   "text": "We hold the sun",
+   "start": 129.66,
+   "end": 130.78,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L65",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 130.78,
+   "end": 131.88,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L66",
+   "section": "Chorus 2",
+   "text": "Keep it loose, keep it low",
+   "start": 131.88,
+   "end": 133.08,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L67",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 133.08,
+   "end": 134.18,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L68",
+   "section": "Chorus 2",
+   "text": "Let it drift, let it go",
+   "start": 134.18,
+   "end": 135.36,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L69",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 135.36,
+   "end": 136.44,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L70",
+   "section": "Chorus 2",
+   "text": "We're good where we are",
+   "start": 136.44,
+   "end": 137.62,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L71",
+   "section": "Chorus 2",
+   "text": "Easy now, easy now",
+   "start": 137.62,
+   "end": 138.82,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L72",
+   "section": "Chorus 2",
+   "text": "Just two small sparks",
+   "start": 138.82,
+   "end": 140.52,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L73a",
+   "section": "Chorus 2 tail",
+   "text": "I'm falling, I'm falling",
+   "start": 140.52,
+   "end": 143.14,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L73b",
+   "section": "Chorus 2 tail",
+   "text": "Just two small sparks",
+   "start": 143.14,
+   "end": 145.56,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L73c",
+   "section": "Chorus 2 tail",
+   "text": "I'm falling",
+   "start": 145.56,
+   "end": 146.62,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L73d",
+   "section": "Chorus 2 tail",
+   "text": "Just two small sparks",
+   "start": 146.62,
+   "end": 148.7,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L74",
+   "section": "Bridge",
+   "text": "If the rain comes down",
+   "start": 148.7,
+   "end": 150.0,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L75",
+   "section": "Bridge",
+   "text": "We stay out in it",
+   "start": 150.0,
+   "end": 151.3,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L76",
+   "section": "Bridge",
+   "text": "If the day runs long",
+   "start": 151.3,
+   "end": 152.36,
+   "owner": "SPLIT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L77",
+   "section": "Bridge",
+   "text": "We still move with it",
+   "start": 152.36,
+   "end": 153.58,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L78",
+   "section": "Bridge",
+   "text": "Hand in my hand",
+   "start": 153.58,
+   "end": 154.42,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L79",
+   "section": "Bridge",
+   "text": "No speech, no show",
+   "start": 154.42,
+   "end": 155.72,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L80",
+   "section": "Bridge",
+   "text": "Heart in the breeze",
+   "start": 155.72,
+   "end": 156.7,
+   "owner": "GIRL",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L81",
+   "section": "Bridge",
+   "text": "And the bass move slow",
+   "start": 156.7,
+   "end": 158.06,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L82",
+   "section": "Bridge",
+   "text": "If the sky turns gray",
+   "start": 158.06,
+   "end": 159.1,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L83",
+   "section": "Bridge",
+   "text": "We don't fold in",
+   "start": 159.1,
+   "end": 160.24,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L84",
+   "section": "Bridge",
+   "text": "We lean right back",
+   "start": 160.24,
+   "end": 161.36,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L85",
+   "section": "Bridge",
+   "text": "Let the whole thing spin",
+   "start": 161.36,
+   "end": 162.46,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L86",
+   "section": "Bridge",
+   "text": "You and me, same pace",
+   "start": 162.46,
+   "end": 163.58,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L87",
+   "section": "Bridge",
+   "text": "Same worn-in shoes",
+   "start": 163.58,
+   "end": 164.9,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L88",
+   "section": "Bridge",
+   "text": "Nothing to prove",
+   "start": 164.9,
+   "end": 165.88,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L89",
+   "section": "Bridge",
+   "text": "Nothing to lose",
+   "start": 165.88,
+   "end": 167.5,
+   "owner": "CAT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L90",
+   "section": "Bridge",
+   "text": "(No, no, no ad-lib)",
+   "start": 167.5,
+   "end": 169.16,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L91",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 169.16,
+   "end": 170.18,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L92",
+   "section": "Final Chorus",
+   "text": "We ride, we ride",
+   "start": 170.18,
+   "end": 171.44,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L93",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 171.44,
+   "end": 172.58,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L94",
+   "section": "Final Chorus",
+   "text": "With you by my side",
+   "start": 172.58,
+   "end": 173.62,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L95",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 173.62,
+   "end": 174.92,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L96",
+   "section": "Final Chorus",
+   "text": "No need to run",
+   "start": 174.92,
+   "end": 176.04,
+   "owner": "SPLIT",
+   "confidence": "confirmed"
+  },
+  {
+   "id": "L97",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 176.04,
+   "end": 177.2,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L98",
+   "section": "Final Chorus",
+   "text": "We hold the sun",
+   "start": 177.2,
+   "end": 178.24,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L99",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 178.24,
+   "end": 179.3,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L100",
+   "section": "Final Chorus",
+   "text": "Keep it loose, keep it low",
+   "start": 179.3,
+   "end": 180.5,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L101",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 180.5,
+   "end": 181.56,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L102",
+   "section": "Final Chorus",
+   "text": "Let it drift, let it go",
+   "start": 181.56,
+   "end": 182.78,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L103",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 182.78,
+   "end": 183.8,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L104",
+   "section": "Final Chorus",
+   "text": "We're good where we are",
+   "start": 183.8,
+   "end": 185.02,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L105",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 185.02,
+   "end": 186.46,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L106",
+   "section": "Final Chorus",
+   "text": "Just two small sparks",
+   "start": 186.46,
+   "end": 188.04,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L107",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 190.42,
+   "end": 194.72,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L108",
+   "section": "Final Chorus",
+   "text": "We ride, we ride",
+   "start": 194.72,
+   "end": 197.58,
+   "owner": "CAT",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L109",
+   "section": "Final Chorus",
+   "text": "Easy now, easy now",
+   "start": 197.58,
+   "end": 203.42,
+   "owner": "GIRL",
+   "confidence": "inferred"
+  },
+  {
+   "id": "L110",
+   "section": "Final Chorus",
+   "text": "Till the morning comes",
+   "start": 203.42,
+   "end": 205.58,
+   "owner": "CAT",
+   "confidence": "inferred"
+  }
+ ],
+ "words": [
+  {
+   "word": "Easy",
+   "start": 1.66,
+   "end": 2.22,
+   "prob": 0.024,
+   "line": "I01",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 2.22,
+   "end": 2.48,
+   "prob": 0.841,
+   "line": "I01",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 2.78,
+   "end": 2.96,
+   "prob": 0.885,
+   "line": "I01",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 2.96,
+   "end": 3.58,
+   "prob": 0.987,
+   "line": "I01",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 3.58,
+   "end": 4.0,
+   "prob": 0.173,
+   "line": "I02",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ride",
+   "start": 4.0,
+   "end": 4.56,
+   "prob": 0.873,
+   "line": "I02",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "we",
+   "start": 4.72,
+   "end": 4.9,
+   "prob": 0.981,
+   "line": "I02",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ride",
+   "start": 4.9,
+   "end": 5.98,
+   "prob": 0.999,
+   "line": "I02",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 5.98,
+   "end": 6.66,
+   "prob": 0.11,
+   "line": "I03",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 6.66,
+   "end": 7.1,
+   "prob": 0.983,
+   "line": "I03",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 7.32,
+   "end": 7.54,
+   "prob": 0.981,
+   "line": "I03",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 7.54,
+   "end": 8.1,
+   "prob": 0.952,
+   "line": "I03",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Till",
+   "start": 8.18,
+   "end": 8.34,
+   "prob": 0.189,
+   "line": "I04",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 8.34,
+   "end": 8.54,
+   "prob": 0.957,
+   "line": "I04",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "morning",
+   "start": 8.54,
+   "end": 8.96,
+   "prob": 0.991,
+   "line": "I04",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "comes",
+   "start": 8.96,
+   "end": 10.04,
+   "prob": 0.924,
+   "line": "I04",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 10.04,
+   "end": 10.71,
+   "prob": 0.0,
+   "line": "I05",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "now",
+   "start": 10.71,
+   "end": 11.38,
+   "prob": 0.0,
+   "line": "I05",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "easy",
+   "start": 11.38,
+   "end": 12.05,
+   "prob": 0.0,
+   "line": "I05",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "now",
+   "start": 12.05,
+   "end": 12.72,
+   "prob": 0.0,
+   "line": "I05",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "We",
+   "start": 13.34,
+   "end": 13.56,
+   "prob": 0.193,
+   "line": "I06",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ride",
+   "start": 13.56,
+   "end": 15.2,
+   "prob": 0.958,
+   "line": "I06",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "we",
+   "start": 15.4,
+   "end": 15.4,
+   "prob": 0.754,
+   "line": "I06",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ride",
+   "start": 15.4,
+   "end": 15.4,
+   "prob": 0.997,
+   "line": "I06",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 15.4,
+   "end": 15.4,
+   "prob": 0.754,
+   "line": "I07",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 15.4,
+   "end": 15.4,
+   "prob": 0.997,
+   "line": "I07",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 15.4,
+   "end": 15.4,
+   "prob": 0.002,
+   "line": "I07",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 15.4,
+   "end": 15.76,
+   "prob": 0.99,
+   "line": "I07",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Till",
+   "start": 17.18,
+   "end": 18.2,
+   "prob": 0.41,
+   "line": "I08",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 18.2,
+   "end": 18.2,
+   "prob": 0.188,
+   "line": "I08",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "morning",
+   "start": 18.2,
+   "end": 18.4,
+   "prob": 0.722,
+   "line": "I08",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "comes",
+   "start": 18.4,
+   "end": 18.64,
+   "prob": 0.078,
+   "line": "I08",
+   "section": "Intro",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ta-da",
+   "start": 18.4,
+   "end": 18.64,
+   "prob": 0.078,
+   "line": "I09",
+   "section": "Intro",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "ta-da",
+   "start": 18.64,
+   "end": 19.2,
+   "prob": 0.0,
+   "line": "I09",
+   "section": "Intro",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "ta-da",
+   "start": 19.2,
+   "end": 19.4,
+   "prob": 0.51,
+   "line": "I09",
+   "section": "Intro",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "ta-da",
+   "start": 19.54,
+   "end": 19.68,
+   "prob": 0.443,
+   "line": "I09",
+   "section": "Intro",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "ta-da",
+   "start": 19.68,
+   "end": 19.82,
+   "prob": 0.865,
+   "line": "I09",
+   "section": "Intro",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "ta-da",
+   "start": 19.82,
+   "end": 20.26,
+   "prob": 0.759,
+   "line": "I09",
+   "section": "Intro",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Bare",
+   "start": 22.0,
+   "end": 22.22,
+   "prob": 0.047,
+   "line": "L01",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "feet",
+   "start": 22.22,
+   "end": 22.58,
+   "prob": 0.303,
+   "line": "L01",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "on",
+   "start": 22.58,
+   "end": 22.8,
+   "prob": 0.982,
+   "line": "L01",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 22.8,
+   "end": 22.94,
+   "prob": 0.99,
+   "line": "L01",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "boardwalk",
+   "start": 22.94,
+   "end": 23.64,
+   "prob": 0.93,
+   "line": "L01",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Salt",
+   "start": 23.42,
+   "end": 23.715,
+   "prob": 0.0,
+   "line": "L02",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "on",
+   "start": 23.715,
+   "end": 24.01,
+   "prob": 0.0,
+   "line": "L02",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "my",
+   "start": 24.01,
+   "end": 24.305,
+   "prob": 0.0,
+   "line": "L02",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "skin",
+   "start": 24.305,
+   "end": 24.6,
+   "prob": 0.0,
+   "line": "L02",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "You",
+   "start": 24.48,
+   "end": 24.82,
+   "prob": 0.963,
+   "line": "L03",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "came",
+   "start": 24.82,
+   "end": 25.24,
+   "prob": 0.597,
+   "line": "L03",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 25.5,
+   "end": 25.68,
+   "prob": 0.967,
+   "line": "L03",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "laughing",
+   "start": 25.68,
+   "end": 25.98,
+   "prob": 0.955,
+   "line": "L03",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Said",
+   "start": 27.6,
+   "end": 27.94,
+   "prob": 0.062,
+   "line": "L04",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "come",
+   "start": 28.12,
+   "end": 28.24,
+   "prob": 0.558,
+   "line": "L04",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "on",
+   "start": 28.24,
+   "end": 28.56,
+   "prob": 0.992,
+   "line": "L04",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "let's",
+   "start": 28.7,
+   "end": 29.04,
+   "prob": 0.949,
+   "line": "L04",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "begin",
+   "start": 29.04,
+   "end": 29.74,
+   "prob": 0.529,
+   "line": "L04",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Blue",
+   "start": 30.1,
+   "end": 30.26,
+   "prob": 0.309,
+   "line": "L05",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "shirt",
+   "start": 30.26,
+   "end": 30.52,
+   "prob": 0.979,
+   "line": "L05",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "red",
+   "start": 30.52,
+   "end": 30.82,
+   "prob": 0.883,
+   "line": "L05",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "bicycle",
+   "start": 30.82,
+   "end": 31.48,
+   "prob": 0.96,
+   "line": "L05",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Rolling",
+   "start": 31.84,
+   "end": 32.36,
+   "prob": 0.79,
+   "line": "L06",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "past",
+   "start": 32.36,
+   "end": 32.72,
+   "prob": 0.859,
+   "line": "L06",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 32.72,
+   "end": 33.1,
+   "prob": 0.986,
+   "line": "L06",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "pier",
+   "start": 33.1,
+   "end": 33.62,
+   "prob": 0.543,
+   "line": "L06",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "I",
+   "start": 33.62,
+   "end": 34.18,
+   "prob": 0.446,
+   "line": "L07",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "was",
+   "start": 34.18,
+   "end": 34.32,
+   "prob": 0.995,
+   "line": "L07",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "posted",
+   "start": 34.32,
+   "end": 34.7,
+   "prob": 0.886,
+   "line": "L07",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "up",
+   "start": 34.7,
+   "end": 35.0,
+   "prob": 0.141,
+   "line": "L07",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "right",
+   "start": 35.0,
+   "end": 35.28,
+   "prob": 0.959,
+   "line": "L07",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "here",
+   "start": 35.28,
+   "end": 36.1,
+   "prob": 0.996,
+   "line": "L07",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Now",
+   "start": 36.12,
+   "end": 36.84,
+   "prob": 0.966,
+   "line": "L08",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "you're",
+   "start": 36.84,
+   "end": 37.18,
+   "prob": 0.973,
+   "line": "L08",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "pulling",
+   "start": 37.18,
+   "end": 37.5,
+   "prob": 0.99,
+   "line": "L08",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "near",
+   "start": 37.5,
+   "end": 38.62,
+   "prob": 0.881,
+   "line": "L08",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Backpack",
+   "start": 38.62,
+   "end": 39.32,
+   "prob": 0.082,
+   "line": "L09",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "half-zipped",
+   "start": 39.32,
+   "end": 39.66,
+   "prob": 0.842,
+   "line": "L09",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Keys",
+   "start": 40.52,
+   "end": 40.74,
+   "prob": 0.615,
+   "line": "L10",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 40.74,
+   "end": 40.82,
+   "prob": 0.182,
+   "line": "L10",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "your",
+   "start": 40.82,
+   "end": 41.3,
+   "prob": 0.007,
+   "line": "L10",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hand",
+   "start": 41.3,
+   "end": 41.72,
+   "prob": 0.956,
+   "line": "L10",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "You",
+   "start": 43.28,
+   "end": 43.36,
+   "prob": 0.816,
+   "line": "L11",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "nodded",
+   "start": 43.36,
+   "end": 43.72,
+   "prob": 0.748,
+   "line": "L11",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "at",
+   "start": 43.72,
+   "end": 43.92,
+   "prob": 0.961,
+   "line": "L11",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 43.92,
+   "end": 44.08,
+   "prob": 0.997,
+   "line": "L11",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "waves",
+   "start": 44.08,
+   "end": 44.26,
+   "prob": 0.425,
+   "line": "L11",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "like",
+   "start": 44.26,
+   "end": 44.58,
+   "prob": 0.509,
+   "line": "L11",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Yeah",
+   "start": 44.26,
+   "end": 44.58,
+   "prob": 0.509,
+   "line": "L12",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "they",
+   "start": 44.58,
+   "end": 44.82,
+   "prob": 0.793,
+   "line": "L12",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "already",
+   "start": 44.98,
+   "end": 45.08,
+   "prob": 0.991,
+   "line": "L12",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "understand",
+   "start": 45.08,
+   "end": 45.62,
+   "prob": 0.991,
+   "line": "L12",
+   "section": "Verse 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Slow",
+   "start": 47.62,
+   "end": 47.96,
+   "prob": 0.744,
+   "line": "L13",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "down",
+   "start": 47.96,
+   "end": 48.34,
+   "prob": 0.978,
+   "line": "L13",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "take",
+   "start": 48.72,
+   "end": 48.8,
+   "prob": 0.99,
+   "line": "L13",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "your",
+   "start": 48.8,
+   "end": 49.14,
+   "prob": 0.997,
+   "line": "L13",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "time",
+   "start": 49.14,
+   "end": 49.56,
+   "prob": 0.998,
+   "line": "L13",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Let",
+   "start": 49.76,
+   "end": 49.94,
+   "prob": 0.986,
+   "line": "L14",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 49.94,
+   "end": 50.18,
+   "prob": 0.985,
+   "line": "L14",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hard",
+   "start": 50.18,
+   "end": 50.52,
+   "prob": 0.597,
+   "line": "L14",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "week",
+   "start": 50.52,
+   "end": 50.8,
+   "prob": 0.086,
+   "line": "L14",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "fade",
+   "start": 50.8,
+   "end": 51.48,
+   "prob": 0.481,
+   "line": "L14",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "One",
+   "start": 51.46,
+   "end": 51.728,
+   "prob": 0.0,
+   "line": "L15",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "small",
+   "start": 51.728,
+   "end": 51.996,
+   "prob": 0.0,
+   "line": "L15",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "look",
+   "start": 51.996,
+   "end": 52.264,
+   "prob": 0.0,
+   "line": "L15",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "from",
+   "start": 52.264,
+   "end": 52.532,
+   "prob": 0.0,
+   "line": "L15",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "you",
+   "start": 52.532,
+   "end": 52.8,
+   "prob": 0.0,
+   "line": "L15",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt+even"
+  },
+  {
+   "word": "And",
+   "start": 52.46,
+   "end": 52.98,
+   "prob": 0.034,
+   "line": "L16",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "my",
+   "start": 52.98,
+   "end": 53.36,
+   "prob": 0.613,
+   "line": "L16",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "whole",
+   "start": 53.36,
+   "end": 53.7,
+   "prob": 0.973,
+   "line": "L16",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "head",
+   "start": 53.7,
+   "end": 54.36,
+   "prob": 0.97,
+   "line": "L16",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "replays",
+   "start": 54.36,
+   "end": 55.12,
+   "prob": 0.526,
+   "line": "L16",
+   "section": "Pre-Chorus 1",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 57.52,
+   "end": 58.04,
+   "prob": 0.083,
+   "line": "L17",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 58.04,
+   "end": 58.4,
+   "prob": 0.044,
+   "line": "L17",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 58.54,
+   "end": 58.78,
+   "prob": 0.234,
+   "line": "L17",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 58.84,
+   "end": 59.1,
+   "prob": 0.386,
+   "line": "L17",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "We",
+   "start": 58.84,
+   "end": 59.1,
+   "prob": 0.386,
+   "line": "L18",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "ride",
+   "start": 59.1,
+   "end": 59.36,
+   "prob": 0.292,
+   "line": "L18",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "we",
+   "start": 59.36,
+   "end": 59.68,
+   "prob": 0.973,
+   "line": "L18",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "ride",
+   "start": 59.82,
+   "end": 59.9,
+   "prob": 0.957,
+   "line": "L18",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 59.9,
+   "end": 60.22,
+   "prob": 0.992,
+   "line": "L19",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 60.22,
+   "end": 60.56,
+   "prob": 0.068,
+   "line": "L19",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 60.56,
+   "end": 60.92,
+   "prob": 0.959,
+   "line": "L19",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 61.1,
+   "end": 61.34,
+   "prob": 0.945,
+   "line": "L19",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "With",
+   "start": 61.1,
+   "end": 61.34,
+   "prob": 0.945,
+   "line": "L20",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "you",
+   "start": 61.34,
+   "end": 61.5,
+   "prob": 0.068,
+   "line": "L20",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "by",
+   "start": 61.5,
+   "end": 61.64,
+   "prob": 0.99,
+   "line": "L20",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "my",
+   "start": 61.64,
+   "end": 61.88,
+   "prob": 0.921,
+   "line": "L20",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "side",
+   "start": 61.88,
+   "end": 62.12,
+   "prob": 0.997,
+   "line": "L20",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 62.52,
+   "end": 62.805,
+   "prob": 0.0,
+   "line": "L21",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "now",
+   "start": 62.805,
+   "end": 63.09,
+   "prob": 0.0,
+   "line": "L21",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "easy",
+   "start": 63.09,
+   "end": 63.375,
+   "prob": 0.0,
+   "line": "L21",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "now",
+   "start": 63.375,
+   "end": 63.66,
+   "prob": 0.0,
+   "line": "L21",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "No",
+   "start": 63.4,
+   "end": 63.66,
+   "prob": 0.984,
+   "line": "L22",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "need",
+   "start": 63.66,
+   "end": 64.02,
+   "prob": 0.465,
+   "line": "L22",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "to",
+   "start": 64.02,
+   "end": 64.2,
+   "prob": 0.93,
+   "line": "L22",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "run",
+   "start": 64.2,
+   "end": 64.46,
+   "prob": 0.903,
+   "line": "L22",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 64.92,
+   "end": 65.14,
+   "prob": 0.556,
+   "line": "L23",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 65.14,
+   "end": 65.48,
+   "prob": 0.997,
+   "line": "L23",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 65.64,
+   "end": 65.96,
+   "prob": 0.98,
+   "line": "L23",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 65.96,
+   "end": 66.18,
+   "prob": 0.842,
+   "line": "L23",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "We",
+   "start": 65.64,
+   "end": 65.96,
+   "prob": 0.98,
+   "line": "L24",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "hold",
+   "start": 65.96,
+   "end": 66.18,
+   "prob": 0.842,
+   "line": "L24",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "the",
+   "start": 66.18,
+   "end": 66.52,
+   "prob": 0.925,
+   "line": "L24",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "sun",
+   "start": 66.52,
+   "end": 66.82,
+   "prob": 0.642,
+   "line": "L24",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 66.82,
+   "end": 67.06,
+   "prob": 0.881,
+   "line": "L25",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 67.06,
+   "end": 67.38,
+   "prob": 0.721,
+   "line": "L25",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 67.38,
+   "end": 67.78,
+   "prob": 0.997,
+   "line": "L25",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 67.88,
+   "end": 68.2,
+   "prob": 0.971,
+   "line": "L25",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "Keep",
+   "start": 67.88,
+   "end": 68.2,
+   "prob": 0.971,
+   "line": "L26",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 68.2,
+   "end": 68.62,
+   "prob": 0.14,
+   "line": "L26",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "loose",
+   "start": 68.62,
+   "end": 68.86,
+   "prob": 0.166,
+   "line": "L26",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "keep",
+   "start": 68.9,
+   "end": 69.16,
+   "prob": 0.944,
+   "line": "L26",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 69.2,
+   "end": 69.4,
+   "prob": 0.495,
+   "line": "L26",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "low",
+   "start": 69.4,
+   "end": 69.64,
+   "prob": 0.886,
+   "line": "L26",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 69.2,
+   "end": 69.4,
+   "prob": 0.495,
+   "line": "L27",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 69.4,
+   "end": 69.64,
+   "prob": 0.886,
+   "line": "L27",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 69.64,
+   "end": 70.02,
+   "prob": 0.997,
+   "line": "L27",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 70.16,
+   "end": 70.46,
+   "prob": 0.98,
+   "line": "L27",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "Let",
+   "start": 70.16,
+   "end": 70.46,
+   "prob": 0.98,
+   "line": "L28",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 70.46,
+   "end": 70.72,
+   "prob": 0.669,
+   "line": "L28",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "drift",
+   "start": 70.72,
+   "end": 70.86,
+   "prob": 0.865,
+   "line": "L28",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "let",
+   "start": 70.86,
+   "end": 71.02,
+   "prob": 0.987,
+   "line": "L28",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 71.22,
+   "end": 71.34,
+   "prob": 0.989,
+   "line": "L28",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "go",
+   "start": 71.34,
+   "end": 71.44,
+   "prob": 0.998,
+   "line": "L28",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 71.34,
+   "end": 71.44,
+   "prob": 0.998,
+   "line": "L29",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 71.44,
+   "end": 71.66,
+   "prob": 0.977,
+   "line": "L29",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 71.66,
+   "end": 71.96,
+   "prob": 0.445,
+   "line": "L29",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 71.96,
+   "end": 72.32,
+   "prob": 0.997,
+   "line": "L29",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "We're",
+   "start": 72.48,
+   "end": 72.74,
+   "prob": 0.985,
+   "line": "L30",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "good",
+   "start": 72.74,
+   "end": 72.92,
+   "prob": 0.806,
+   "line": "L30",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "where",
+   "start": 72.92,
+   "end": 73.04,
+   "prob": 0.924,
+   "line": "L30",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "we",
+   "start": 73.04,
+   "end": 73.36,
+   "prob": 0.919,
+   "line": "L30",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "are",
+   "start": 73.36,
+   "end": 73.62,
+   "prob": 0.999,
+   "line": "L30",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 74.02,
+   "end": 74.22,
+   "prob": 0.3,
+   "line": "L31",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 74.22,
+   "end": 74.62,
+   "prob": 0.997,
+   "line": "L31",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 74.72,
+   "end": 75.04,
+   "prob": 0.989,
+   "line": "L31",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 75.04,
+   "end": 75.36,
+   "prob": 0.799,
+   "line": "L31",
+   "section": "Chorus 1",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "Just",
+   "start": 74.72,
+   "end": 75.04,
+   "prob": 0.989,
+   "line": "L32",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "two",
+   "start": 75.04,
+   "end": 75.36,
+   "prob": 0.799,
+   "line": "L32",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "small",
+   "start": 75.36,
+   "end": 75.68,
+   "prob": 0.869,
+   "line": "L32",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "sparks",
+   "start": 75.68,
+   "end": 76.26,
+   "prob": 0.917,
+   "line": "L32",
+   "section": "Chorus 1",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "I",
+   "start": 76.8,
+   "end": 76.98,
+   "prob": 0.076,
+   "line": "L33",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "gotta",
+   "start": 76.98,
+   "end": 77.58,
+   "prob": 0.351,
+   "line": "L33",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "go",
+   "start": 77.58,
+   "end": 78.04,
+   "prob": 0.32,
+   "line": "L33",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "there",
+   "start": 78.04,
+   "end": 78.34,
+   "prob": 0.54,
+   "line": "L33",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "I",
+   "start": 78.76,
+   "end": 79.16,
+   "prob": 0.674,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "gotta",
+   "start": 79.16,
+   "end": 79.38,
+   "prob": 0.894,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "go",
+   "start": 79.38,
+   "end": 79.64,
+   "prob": 0.589,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "there",
+   "start": 79.64,
+   "end": 79.76,
+   "prob": 0.667,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "just",
+   "start": 79.76,
+   "end": 79.98,
+   "prob": 0.44,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "two",
+   "start": 79.98,
+   "end": 80.32,
+   "prob": 0.978,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "small",
+   "start": 80.32,
+   "end": 80.76,
+   "prob": 0.992,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "sparks",
+   "start": 80.76,
+   "end": 81.76,
+   "prob": 0.993,
+   "line": "L34",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "I",
+   "start": 81.76,
+   "end": 82.18,
+   "prob": 0.105,
+   "line": "L35",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "gotta",
+   "start": 82.18,
+   "end": 83.14,
+   "prob": 0.884,
+   "line": "L35",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "go",
+   "start": 83.14,
+   "end": 83.14,
+   "prob": 0.977,
+   "line": "L35",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "there",
+   "start": 83.14,
+   "end": 83.14,
+   "prob": 0.976,
+   "line": "L35",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "Just",
+   "start": 83.14,
+   "end": 83.14,
+   "prob": 0.977,
+   "line": "L36",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "two",
+   "start": 83.14,
+   "end": 83.14,
+   "prob": 0.976,
+   "line": "L36",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "small",
+   "start": 83.14,
+   "end": 83.14,
+   "prob": 0.179,
+   "line": "L36",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "sparks",
+   "start": 83.14,
+   "end": 83.62,
+   "prob": 0.988,
+   "line": "L36",
+   "section": "Chorus 1 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "Vendor",
+   "start": 85.16,
+   "end": 86.0,
+   "prob": 0.583,
+   "line": "L37",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "at",
+   "start": 86.0,
+   "end": 86.16,
+   "prob": 0.861,
+   "line": "L37",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 86.16,
+   "end": 86.26,
+   "prob": 0.993,
+   "line": "L37",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "corner",
+   "start": 86.26,
+   "end": 86.46,
+   "prob": 0.87,
+   "line": "L37",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Calling",
+   "start": 86.68,
+   "end": 86.72,
+   "prob": 0.766,
+   "line": "L38",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "mango",
+   "start": 86.72,
+   "end": 86.82,
+   "prob": 0.345,
+   "line": "L38",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "sweet",
+   "start": 86.82,
+   "end": 87.12,
+   "prob": 0.727,
+   "line": "L38",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Socks",
+   "start": 87.62,
+   "end": 88.02,
+   "prob": 0.314,
+   "line": "L39",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 88.02,
+   "end": 88.36,
+   "prob": 0.725,
+   "line": "L39",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 88.36,
+   "end": 88.52,
+   "prob": 0.994,
+   "line": "L39",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "sand",
+   "start": 88.52,
+   "end": 88.94,
+   "prob": 0.95,
+   "line": "L39",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "And",
+   "start": 88.94,
+   "end": 89.56,
+   "prob": 0.799,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 89.56,
+   "end": 89.68,
+   "prob": 0.873,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "tide",
+   "start": 89.68,
+   "end": 90.14,
+   "prob": 0.765,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "tapping",
+   "start": 90.42,
+   "end": 90.96,
+   "prob": 0.598,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "time",
+   "start": 91.42,
+   "end": 91.6,
+   "prob": 0.951,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "with",
+   "start": 91.6,
+   "end": 91.9,
+   "prob": 0.985,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "our",
+   "start": 91.9,
+   "end": 92.32,
+   "prob": 0.98,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "feet",
+   "start": 92.32,
+   "end": 93.08,
+   "prob": 0.996,
+   "line": "L40",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Your",
+   "start": 93.8,
+   "end": 94.28,
+   "prob": 0.553,
+   "line": "L41",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "laugh",
+   "start": 94.28,
+   "end": 94.46,
+   "prob": 0.581,
+   "line": "L41",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "hit",
+   "start": 94.46,
+   "end": 94.66,
+   "prob": 0.578,
+   "line": "L41",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 94.66,
+   "end": 94.84,
+   "prob": 0.997,
+   "line": "L41",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "air",
+   "start": 94.84,
+   "end": 95.12,
+   "prob": 0.26,
+   "line": "L41",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Like",
+   "start": 95.82,
+   "end": 95.96,
+   "prob": 0.995,
+   "line": "L42",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "a",
+   "start": 95.96,
+   "end": 96.2,
+   "prob": 0.896,
+   "line": "L42",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hand",
+   "start": 96.2,
+   "end": 96.4,
+   "prob": 0.258,
+   "line": "L42",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "drum",
+   "start": 96.4,
+   "end": 96.86,
+   "prob": 0.753,
+   "line": "L42",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "roll",
+   "start": 96.86,
+   "end": 97.16,
+   "prob": 0.657,
+   "line": "L42",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "I",
+   "start": 96.86,
+   "end": 97.16,
+   "prob": 0.657,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "forgot",
+   "start": 97.16,
+   "end": 97.44,
+   "prob": 0.972,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 97.44,
+   "end": 97.64,
+   "prob": 0.984,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "list",
+   "start": 97.64,
+   "end": 97.8,
+   "prob": 0.934,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "forgot",
+   "start": 97.82,
+   "end": 97.94,
+   "prob": 0.429,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 97.94,
+   "end": 98.08,
+   "prob": 0.925,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "bills",
+   "start": 98.08,
+   "end": 98.2,
+   "prob": 0.997,
+   "line": "L43",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Forgot",
+   "start": 98.2,
+   "end": 98.44,
+   "prob": 0.369,
+   "line": "L44",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "what",
+   "start": 98.44,
+   "end": 98.84,
+   "prob": 0.49,
+   "line": "L44",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "I",
+   "start": 98.84,
+   "end": 99.18,
+   "prob": 0.985,
+   "line": "L44",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "was",
+   "start": 99.18,
+   "end": 99.7,
+   "prob": 0.986,
+   "line": "L44",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "told",
+   "start": 99.7,
+   "end": 101.44,
+   "prob": 0.945,
+   "line": "L44",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Ice",
+   "start": 102.38,
+   "end": 102.96,
+   "prob": 0.113,
+   "line": "L45",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "cup",
+   "start": 103.12,
+   "end": 103.28,
+   "prob": 0.993,
+   "line": "L45",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "sweating",
+   "start": 103.38,
+   "end": 103.56,
+   "prob": 0.995,
+   "line": "L45",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "On",
+   "start": 103.72,
+   "end": 103.8,
+   "prob": 0.562,
+   "line": "L46",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 103.98,
+   "end": 104.2,
+   "prob": 0.099,
+   "line": "L46",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "rail",
+   "start": 104.2,
+   "end": 104.32,
+   "prob": 0.98,
+   "line": "L46",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "by",
+   "start": 104.32,
+   "end": 104.46,
+   "prob": 0.945,
+   "line": "L46",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 104.46,
+   "end": 104.68,
+   "prob": 0.855,
+   "line": "L46",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "steps",
+   "start": 104.68,
+   "end": 104.88,
+   "prob": 0.333,
+   "line": "L46",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "You",
+   "start": 104.46,
+   "end": 104.68,
+   "prob": 0.855,
+   "line": "L47",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "said",
+   "start": 104.68,
+   "end": 104.88,
+   "prob": 0.333,
+   "line": "L47",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "don't",
+   "start": 104.88,
+   "end": 105.08,
+   "prob": 0.693,
+   "line": "L47",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "think",
+   "start": 105.08,
+   "end": 105.32,
+   "prob": 0.615,
+   "line": "L47",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "too",
+   "start": 105.32,
+   "end": 105.52,
+   "prob": 0.98,
+   "line": "L47",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hard",
+   "start": 105.52,
+   "end": 105.8,
+   "prob": 0.883,
+   "line": "L47",
+   "section": "Verse 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "So",
+   "start": 106.3,
+   "end": 106.42,
+   "prob": 0.489,
+   "line": "L48",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "I",
+   "start": 106.42,
+   "end": 106.56,
+   "prob": 0.11,
+   "line": "L48",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "didn't",
+   "start": 106.56,
+   "end": 106.74,
+   "prob": 0.905,
+   "line": "L48",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "not",
+   "start": 106.74,
+   "end": 106.9,
+   "prob": 0.517,
+   "line": "L48",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "yet",
+   "start": 106.9,
+   "end": 107.06,
+   "prob": 0.558,
+   "line": "L48",
+   "section": "Verse 2",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Kids",
+   "start": 107.2,
+   "end": 107.5,
+   "prob": 0.977,
+   "line": "L49",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "with",
+   "start": 107.5,
+   "end": 107.9,
+   "prob": 0.152,
+   "line": "L49",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "a",
+   "start": 107.9,
+   "end": 108.08,
+   "prob": 0.816,
+   "line": "L49",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "boombox",
+   "start": 108.08,
+   "end": 108.18,
+   "prob": 0.696,
+   "line": "L49",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Cutting",
+   "start": 108.7,
+   "end": 109.14,
+   "prob": 0.054,
+   "line": "L50",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "through",
+   "start": 109.14,
+   "end": 109.44,
+   "prob": 0.863,
+   "line": "L50",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 109.44,
+   "end": 109.6,
+   "prob": 0.984,
+   "line": "L50",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "crowd",
+   "start": 109.6,
+   "end": 109.74,
+   "prob": 0.328,
+   "line": "L50",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "You",
+   "start": 109.44,
+   "end": 109.6,
+   "prob": 0.984,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "took",
+   "start": 109.6,
+   "end": 109.74,
+   "prob": 0.328,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "my",
+   "start": 109.74,
+   "end": 109.88,
+   "prob": 0.857,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "sleeve",
+   "start": 109.88,
+   "end": 109.98,
+   "prob": 0.981,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "and",
+   "start": 109.98,
+   "end": 110.14,
+   "prob": 0.997,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "spun",
+   "start": 110.14,
+   "end": 110.44,
+   "prob": 0.525,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "me",
+   "start": 110.48,
+   "end": 110.54,
+   "prob": 0.498,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "once",
+   "start": 110.54,
+   "end": 110.7,
+   "prob": 0.955,
+   "line": "L51",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Like",
+   "start": 110.48,
+   "end": 110.54,
+   "prob": 0.498,
+   "line": "L52",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "none",
+   "start": 110.54,
+   "end": 110.7,
+   "prob": 0.955,
+   "line": "L52",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "of",
+   "start": 110.7,
+   "end": 110.84,
+   "prob": 0.321,
+   "line": "L52",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 110.84,
+   "end": 111.02,
+   "prob": 0.867,
+   "line": "L52",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "was",
+   "start": 111.02,
+   "end": 111.16,
+   "prob": 0.942,
+   "line": "L52",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "loud",
+   "start": 111.16,
+   "end": 111.34,
+   "prob": 0.998,
+   "line": "L52",
+   "section": "Verse 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Slow",
+   "start": 111.72,
+   "end": 111.9,
+   "prob": 0.679,
+   "line": "L53",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "down",
+   "start": 111.9,
+   "end": 112.3,
+   "prob": 0.2,
+   "line": "L53",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "take",
+   "start": 112.3,
+   "end": 112.62,
+   "prob": 0.275,
+   "line": "L53",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "your",
+   "start": 112.66,
+   "end": 112.9,
+   "prob": 0.795,
+   "line": "L53",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "time",
+   "start": 112.9,
+   "end": 113.58,
+   "prob": 0.944,
+   "line": "L53",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Let",
+   "start": 113.58,
+   "end": 113.8,
+   "prob": 0.997,
+   "line": "L54",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 113.8,
+   "end": 113.98,
+   "prob": 0.392,
+   "line": "L54",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hard",
+   "start": 113.98,
+   "end": 114.1,
+   "prob": 0.971,
+   "line": "L54",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "week",
+   "start": 114.1,
+   "end": 114.32,
+   "prob": 0.731,
+   "line": "L54",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "fade",
+   "start": 114.32,
+   "end": 114.54,
+   "prob": 0.905,
+   "line": "L54",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "One",
+   "start": 114.94,
+   "end": 115.12,
+   "prob": 0.834,
+   "line": "L55",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "small",
+   "start": 115.12,
+   "end": 115.44,
+   "prob": 0.882,
+   "line": "L55",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "look",
+   "start": 115.62,
+   "end": 115.74,
+   "prob": 0.73,
+   "line": "L55",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "from",
+   "start": 115.74,
+   "end": 115.8,
+   "prob": 0.737,
+   "line": "L55",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "you",
+   "start": 115.8,
+   "end": 115.98,
+   "prob": 0.956,
+   "line": "L55",
+   "section": "Pre-Chorus 2",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "And",
+   "start": 115.74,
+   "end": 115.8,
+   "prob": 0.737,
+   "line": "L56",
+   "section": "Pre-Chorus 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "my",
+   "start": 115.8,
+   "end": 115.98,
+   "prob": 0.956,
+   "line": "L56",
+   "section": "Pre-Chorus 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "whole",
+   "start": 115.98,
+   "end": 116.1,
+   "prob": 0.274,
+   "line": "L56",
+   "section": "Pre-Chorus 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "head",
+   "start": 116.1,
+   "end": 116.32,
+   "prob": 0.993,
+   "line": "L56",
+   "section": "Pre-Chorus 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "replays",
+   "start": 116.32,
+   "end": 116.98,
+   "prob": 0.609,
+   "line": "L56",
+   "section": "Pre-Chorus 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "(held)",
+   "start": 119.3,
+   "end": 119.66,
+   "prob": 0.337,
+   "line": "L56b",
+   "section": "Pre-Chorus 2",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 121.26,
+   "end": 121.59,
+   "prob": 0.0,
+   "line": "L57",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "now",
+   "start": 121.59,
+   "end": 121.92,
+   "prob": 0.0,
+   "line": "L57",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "easy",
+   "start": 121.92,
+   "end": 122.25,
+   "prob": 0.0,
+   "line": "L57",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "now",
+   "start": 122.25,
+   "end": 122.58,
+   "prob": 0.0,
+   "line": "L57",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted+even"
+  },
+  {
+   "word": "We",
+   "start": 122.58,
+   "end": 123.06,
+   "prob": 0.269,
+   "line": "L58",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "ride",
+   "start": 123.06,
+   "end": 123.42,
+   "prob": 0.012,
+   "line": "L58",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "we",
+   "start": 123.42,
+   "end": 123.64,
+   "prob": 0.919,
+   "line": "L58",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "ride",
+   "start": 123.64,
+   "end": 124.0,
+   "prob": 0.902,
+   "line": "L58",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 124.0,
+   "end": 124.28,
+   "prob": 0.024,
+   "line": "L59",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 124.28,
+   "end": 124.66,
+   "prob": 0.975,
+   "line": "L59",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 124.78,
+   "end": 125.06,
+   "prob": 0.883,
+   "line": "L59",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 125.06,
+   "end": 125.18,
+   "prob": 0.33,
+   "line": "L59",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "With",
+   "start": 124.78,
+   "end": 125.06,
+   "prob": 0.883,
+   "line": "L60",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "you",
+   "start": 125.06,
+   "end": 125.18,
+   "prob": 0.33,
+   "line": "L60",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "by",
+   "start": 125.18,
+   "end": 125.38,
+   "prob": 0.569,
+   "line": "L60",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "my",
+   "start": 125.38,
+   "end": 125.62,
+   "prob": 0.224,
+   "line": "L60",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "side",
+   "start": 125.62,
+   "end": 125.82,
+   "prob": 0.833,
+   "line": "L60",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 126.3,
+   "end": 126.54,
+   "prob": 0.179,
+   "line": "L61",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 126.54,
+   "end": 126.9,
+   "prob": 0.993,
+   "line": "L61",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 127.04,
+   "end": 127.38,
+   "prob": 0.983,
+   "line": "L61",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 127.38,
+   "end": 127.6,
+   "prob": 0.09,
+   "line": "L61",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "No",
+   "start": 127.04,
+   "end": 127.38,
+   "prob": 0.983,
+   "line": "L62",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "need",
+   "start": 127.38,
+   "end": 127.6,
+   "prob": 0.09,
+   "line": "L62",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "to",
+   "start": 127.6,
+   "end": 127.92,
+   "prob": 0.998,
+   "line": "L62",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "run",
+   "start": 127.92,
+   "end": 128.18,
+   "prob": 0.999,
+   "line": "L62",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 128.18,
+   "end": 128.52,
+   "prob": 0.996,
+   "line": "L63",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 128.52,
+   "end": 128.8,
+   "prob": 0.355,
+   "line": "L63",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 128.8,
+   "end": 129.2,
+   "prob": 0.997,
+   "line": "L63",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 129.34,
+   "end": 129.66,
+   "prob": 0.989,
+   "line": "L63",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "We",
+   "start": 129.34,
+   "end": 129.66,
+   "prob": 0.989,
+   "line": "L64",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "hold",
+   "start": 129.66,
+   "end": 129.88,
+   "prob": 0.746,
+   "line": "L64",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "the",
+   "start": 129.88,
+   "end": 130.2,
+   "prob": 0.785,
+   "line": "L64",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "sun",
+   "start": 130.2,
+   "end": 130.44,
+   "prob": 0.872,
+   "line": "L64",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 130.44,
+   "end": 130.76,
+   "prob": 0.993,
+   "line": "L65",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 130.76,
+   "end": 131.06,
+   "prob": 0.618,
+   "line": "L65",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 131.06,
+   "end": 131.48,
+   "prob": 0.998,
+   "line": "L65",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 131.64,
+   "end": 131.88,
+   "prob": 0.984,
+   "line": "L65",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "Keep",
+   "start": 131.64,
+   "end": 131.88,
+   "prob": 0.984,
+   "line": "L66",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 131.88,
+   "end": 132.28,
+   "prob": 0.113,
+   "line": "L66",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "loose",
+   "start": 132.34,
+   "end": 132.48,
+   "prob": 0.738,
+   "line": "L66",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "keep",
+   "start": 132.62,
+   "end": 132.86,
+   "prob": 0.963,
+   "line": "L66",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 132.94,
+   "end": 133.14,
+   "prob": 0.05,
+   "line": "L66",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "low",
+   "start": 133.14,
+   "end": 133.4,
+   "prob": 0.426,
+   "line": "L66",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 132.94,
+   "end": 133.14,
+   "prob": 0.05,
+   "line": "L67",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 133.14,
+   "end": 133.4,
+   "prob": 0.426,
+   "line": "L67",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 133.4,
+   "end": 133.74,
+   "prob": 0.998,
+   "line": "L67",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 133.96,
+   "end": 134.16,
+   "prob": 0.974,
+   "line": "L67",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "Let",
+   "start": 133.96,
+   "end": 134.16,
+   "prob": 0.974,
+   "line": "L68",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 134.16,
+   "end": 134.38,
+   "prob": 0.553,
+   "line": "L68",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "drift",
+   "start": 134.38,
+   "end": 134.58,
+   "prob": 0.961,
+   "line": "L68",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "let",
+   "start": 134.58,
+   "end": 134.68,
+   "prob": 0.309,
+   "line": "L68",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "it",
+   "start": 134.88,
+   "end": 135.02,
+   "prob": 0.988,
+   "line": "L68",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "go",
+   "start": 135.02,
+   "end": 135.12,
+   "prob": 0.998,
+   "line": "L68",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 135.02,
+   "end": 135.12,
+   "prob": 0.998,
+   "line": "L69",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 135.12,
+   "end": 135.34,
+   "prob": 0.972,
+   "line": "L69",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 135.34,
+   "end": 135.68,
+   "prob": 0.0,
+   "line": "L69",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 135.68,
+   "end": 136.06,
+   "prob": 0.001,
+   "line": "L69",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "We're",
+   "start": 136.14,
+   "end": 136.54,
+   "prob": 0.014,
+   "line": "L70",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "good",
+   "start": 136.54,
+   "end": 136.54,
+   "prob": 0.029,
+   "line": "L70",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "where",
+   "start": 136.54,
+   "end": 136.68,
+   "prob": 0.125,
+   "line": "L70",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "we",
+   "start": 136.68,
+   "end": 136.98,
+   "prob": 0.58,
+   "line": "L70",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "are",
+   "start": 136.98,
+   "end": 137.3,
+   "prob": 0.98,
+   "line": "L70",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "Easy",
+   "start": 137.3,
+   "end": 137.64,
+   "prob": 0.966,
+   "line": "L71",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 137.64,
+   "end": 138.1,
+   "prob": 0.108,
+   "line": "L71",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "easy",
+   "start": 138.1,
+   "end": 138.78,
+   "prob": 0.981,
+   "line": "L71",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "now",
+   "start": 138.84,
+   "end": 139.08,
+   "prob": 0.158,
+   "line": "L71",
+   "section": "Chorus 2",
+   "owner": "GIRL",
+   "source": "prompted"
+  },
+  {
+   "word": "Just",
+   "start": 138.84,
+   "end": 139.08,
+   "prob": 0.158,
+   "line": "L72",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "two",
+   "start": 139.08,
+   "end": 139.08,
+   "prob": 0.471,
+   "line": "L72",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "small",
+   "start": 139.08,
+   "end": 139.08,
+   "prob": 0.014,
+   "line": "L72",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "sparks",
+   "start": 139.08,
+   "end": 139.08,
+   "prob": 0.095,
+   "line": "L72",
+   "section": "Chorus 2",
+   "owner": "CAT",
+   "source": "prompted"
+  },
+  {
+   "word": "I'm",
+   "start": 140.48,
+   "end": 140.84,
+   "prob": 0.169,
+   "line": "L73a",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "falling",
+   "start": 140.84,
+   "end": 141.22,
+   "prob": 0.293,
+   "line": "L73a",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "I'm",
+   "start": 141.56,
+   "end": 142.44,
+   "prob": 0.637,
+   "line": "L73a",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "falling",
+   "start": 142.44,
+   "end": 142.84,
+   "prob": 0.981,
+   "line": "L73a",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "Just",
+   "start": 142.84,
+   "end": 143.62,
+   "prob": 0.544,
+   "line": "L73b",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "two",
+   "start": 143.62,
+   "end": 143.62,
+   "prob": 0.881,
+   "line": "L73b",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "small",
+   "start": 143.62,
+   "end": 143.96,
+   "prob": 0.614,
+   "line": "L73b",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "sparks",
+   "start": 143.96,
+   "end": 144.46,
+   "prob": 0.988,
+   "line": "L73b",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "I'm",
+   "start": 146.16,
+   "end": 146.96,
+   "prob": 0.627,
+   "line": "L73c",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "falling",
+   "start": 146.96,
+   "end": 146.96,
+   "prob": 0.605,
+   "line": "L73c",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "Just",
+   "start": 146.96,
+   "end": 146.96,
+   "prob": 0.605,
+   "line": "L73d",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "two",
+   "start": 146.96,
+   "end": 146.96,
+   "prob": 0.897,
+   "line": "L73d",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "small",
+   "start": 146.96,
+   "end": 146.96,
+   "prob": 0.011,
+   "line": "L73d",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "sparks",
+   "start": 146.96,
+   "end": 146.96,
+   "prob": 0.177,
+   "line": "L73d",
+   "section": "Chorus 2 tail",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "If",
+   "start": 148.7,
+   "end": 149.14,
+   "prob": 0.712,
+   "line": "L74",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 149.14,
+   "end": 149.3,
+   "prob": 0.982,
+   "line": "L74",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "rain",
+   "start": 149.3,
+   "end": 149.48,
+   "prob": 0.661,
+   "line": "L74",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "comes",
+   "start": 149.48,
+   "end": 149.84,
+   "prob": 0.989,
+   "line": "L74",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "down",
+   "start": 149.84,
+   "end": 150.1,
+   "prob": 0.973,
+   "line": "L74",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 149.84,
+   "end": 150.1,
+   "prob": 0.973,
+   "line": "L75",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "stay",
+   "start": 150.1,
+   "end": 150.3,
+   "prob": 0.798,
+   "line": "L75",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "out",
+   "start": 150.3,
+   "end": 150.42,
+   "prob": 0.94,
+   "line": "L75",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 150.42,
+   "end": 150.96,
+   "prob": 0.995,
+   "line": "L75",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 150.96,
+   "end": 151.2,
+   "prob": 0.634,
+   "line": "L75",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "If",
+   "start": 150.96,
+   "end": 151.2,
+   "prob": 0.634,
+   "line": "L76",
+   "section": "Bridge",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 151.2,
+   "end": 151.3,
+   "prob": 0.981,
+   "line": "L76",
+   "section": "Bridge",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "day",
+   "start": 151.3,
+   "end": 151.46,
+   "prob": 0.924,
+   "line": "L76",
+   "section": "Bridge",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "runs",
+   "start": 151.46,
+   "end": 151.56,
+   "prob": 0.983,
+   "line": "L76",
+   "section": "Bridge",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "long",
+   "start": 151.56,
+   "end": 151.76,
+   "prob": 0.982,
+   "line": "L76",
+   "section": "Bridge",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 152.1,
+   "end": 152.36,
+   "prob": 0.93,
+   "line": "L77",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "still",
+   "start": 152.36,
+   "end": 152.56,
+   "prob": 0.261,
+   "line": "L77",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "move",
+   "start": 152.56,
+   "end": 152.76,
+   "prob": 0.92,
+   "line": "L77",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "with",
+   "start": 152.76,
+   "end": 153.04,
+   "prob": 0.98,
+   "line": "L77",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 153.04,
+   "end": 153.42,
+   "prob": 0.86,
+   "line": "L77",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Hand",
+   "start": 153.42,
+   "end": 153.58,
+   "prob": 0.996,
+   "line": "L78",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 153.58,
+   "end": 153.8,
+   "prob": 0.851,
+   "line": "L78",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "my",
+   "start": 153.8,
+   "end": 154.0,
+   "prob": 0.576,
+   "line": "L78",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hand",
+   "start": 154.0,
+   "end": 154.18,
+   "prob": 0.998,
+   "line": "L78",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "No",
+   "start": 154.18,
+   "end": 154.42,
+   "prob": 0.492,
+   "line": "L79",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "speech",
+   "start": 154.42,
+   "end": 154.82,
+   "prob": 0.785,
+   "line": "L79",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "no",
+   "start": 154.82,
+   "end": 155.08,
+   "prob": 0.996,
+   "line": "L79",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "show",
+   "start": 155.08,
+   "end": 155.42,
+   "prob": 0.999,
+   "line": "L79",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Heart",
+   "start": 155.42,
+   "end": 155.72,
+   "prob": 0.532,
+   "line": "L80",
+   "section": "Bridge",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 155.72,
+   "end": 156.08,
+   "prob": 0.401,
+   "line": "L80",
+   "section": "Bridge",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 156.08,
+   "end": 156.26,
+   "prob": 0.927,
+   "line": "L80",
+   "section": "Bridge",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "breeze",
+   "start": 156.26,
+   "end": 156.4,
+   "prob": 0.93,
+   "line": "L80",
+   "section": "Bridge",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "And",
+   "start": 156.4,
+   "end": 156.7,
+   "prob": 0.184,
+   "line": "L81",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 156.7,
+   "end": 157.0,
+   "prob": 0.269,
+   "line": "L81",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "bass",
+   "start": 157.0,
+   "end": 157.18,
+   "prob": 0.988,
+   "line": "L81",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "move",
+   "start": 157.18,
+   "end": 157.38,
+   "prob": 0.378,
+   "line": "L81",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "slow",
+   "start": 157.38,
+   "end": 157.66,
+   "prob": 0.928,
+   "line": "L81",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "If",
+   "start": 158.06,
+   "end": 158.3,
+   "prob": 0.288,
+   "line": "L82",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 158.3,
+   "end": 158.3,
+   "prob": 0.994,
+   "line": "L82",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "sky",
+   "start": 158.3,
+   "end": 158.5,
+   "prob": 0.953,
+   "line": "L82",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "turns",
+   "start": 158.5,
+   "end": 158.84,
+   "prob": 0.995,
+   "line": "L82",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "gray",
+   "start": 158.84,
+   "end": 159.1,
+   "prob": 0.508,
+   "line": "L82",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 158.84,
+   "end": 159.1,
+   "prob": 0.508,
+   "line": "L83",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "don't",
+   "start": 159.1,
+   "end": 159.36,
+   "prob": 0.732,
+   "line": "L83",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "fold",
+   "start": 159.36,
+   "end": 159.56,
+   "prob": 0.966,
+   "line": "L83",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "in",
+   "start": 159.56,
+   "end": 159.88,
+   "prob": 0.32,
+   "line": "L83",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 160.24,
+   "end": 160.42,
+   "prob": 0.369,
+   "line": "L84",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "lean",
+   "start": 160.42,
+   "end": 160.88,
+   "prob": 0.542,
+   "line": "L84",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "right",
+   "start": 160.88,
+   "end": 161.06,
+   "prob": 0.965,
+   "line": "L84",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "back",
+   "start": 161.06,
+   "end": 161.36,
+   "prob": 0.951,
+   "line": "L84",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Let",
+   "start": 161.06,
+   "end": 161.36,
+   "prob": 0.951,
+   "line": "L85",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 161.36,
+   "end": 161.56,
+   "prob": 0.492,
+   "line": "L85",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "whole",
+   "start": 161.56,
+   "end": 161.68,
+   "prob": 0.993,
+   "line": "L85",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "thing",
+   "start": 161.68,
+   "end": 161.92,
+   "prob": 0.99,
+   "line": "L85",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "spin",
+   "start": 161.92,
+   "end": 162.3,
+   "prob": 0.727,
+   "line": "L85",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "You",
+   "start": 162.3,
+   "end": 162.46,
+   "prob": 0.101,
+   "line": "L86",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "and",
+   "start": 162.46,
+   "end": 162.84,
+   "prob": 0.256,
+   "line": "L86",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "me",
+   "start": 162.84,
+   "end": 162.88,
+   "prob": 0.544,
+   "line": "L86",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "same",
+   "start": 162.88,
+   "end": 162.98,
+   "prob": 0.699,
+   "line": "L86",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "pace",
+   "start": 162.98,
+   "end": 163.34,
+   "prob": 0.998,
+   "line": "L86",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Same",
+   "start": 163.34,
+   "end": 163.58,
+   "prob": 0.513,
+   "line": "L87",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "worn-in",
+   "start": 163.58,
+   "end": 163.92,
+   "prob": 0.251,
+   "line": "L87",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "shoes",
+   "start": 163.92,
+   "end": 164.34,
+   "prob": 0.678,
+   "line": "L87",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Nothing",
+   "start": 164.58,
+   "end": 164.76,
+   "prob": 0.687,
+   "line": "L88",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "to",
+   "start": 164.76,
+   "end": 165.38,
+   "prob": 0.596,
+   "line": "L88",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "prove",
+   "start": 165.38,
+   "end": 165.66,
+   "prob": 0.986,
+   "line": "L88",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Nothing",
+   "start": 165.66,
+   "end": 165.9,
+   "prob": 0.933,
+   "line": "L89",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "to",
+   "start": 165.9,
+   "end": 166.5,
+   "prob": 0.427,
+   "line": "L89",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "lose",
+   "start": 166.5,
+   "end": 166.8,
+   "prob": 0.964,
+   "line": "L89",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "No,",
+   "start": 167.5,
+   "end": 168.02,
+   "prob": 0.126,
+   "line": "L90",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "no,",
+   "start": 168.02,
+   "end": 168.62,
+   "prob": 0.911,
+   "line": "L90",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "no",
+   "start": 168.62,
+   "end": 169.16,
+   "prob": 0.734,
+   "line": "L90",
+   "section": "Bridge",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 169.16,
+   "end": 169.34,
+   "prob": 0.008,
+   "line": "L91",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 169.38,
+   "end": 169.4,
+   "prob": 0.017,
+   "line": "L91",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 169.4,
+   "end": 169.58,
+   "prob": 0.236,
+   "line": "L91",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 169.76,
+   "end": 169.94,
+   "prob": 0.553,
+   "line": "L91",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 169.94,
+   "end": 170.0,
+   "prob": 0.807,
+   "line": "L92",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ride",
+   "start": 170.0,
+   "end": 170.18,
+   "prob": 0.999,
+   "line": "L92",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "we",
+   "start": 170.18,
+   "end": 170.58,
+   "prob": 0.489,
+   "line": "L92",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "ride",
+   "start": 170.58,
+   "end": 170.92,
+   "prob": 0.459,
+   "line": "L92",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 171.16,
+   "end": 171.44,
+   "prob": 0.415,
+   "line": "L93",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 171.44,
+   "end": 171.78,
+   "prob": 0.732,
+   "line": "L93",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 171.78,
+   "end": 171.98,
+   "prob": 0.986,
+   "line": "L93",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 171.98,
+   "end": 172.1,
+   "prob": 0.999,
+   "line": "L93",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "With",
+   "start": 172.4,
+   "end": 172.56,
+   "prob": 0.945,
+   "line": "L94",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "you",
+   "start": 172.56,
+   "end": 172.58,
+   "prob": 1.0,
+   "line": "L94",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "by",
+   "start": 172.58,
+   "end": 172.72,
+   "prob": 0.583,
+   "line": "L94",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "my",
+   "start": 172.72,
+   "end": 172.88,
+   "prob": 0.983,
+   "line": "L94",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "side",
+   "start": 172.98,
+   "end": 173.12,
+   "prob": 0.901,
+   "line": "L94",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 173.3,
+   "end": 173.62,
+   "prob": 0.988,
+   "line": "L95",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 173.62,
+   "end": 174.04,
+   "prob": 0.869,
+   "line": "L95",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 174.04,
+   "end": 174.22,
+   "prob": 0.99,
+   "line": "L95",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 174.22,
+   "end": 174.34,
+   "prob": 1.0,
+   "line": "L95",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "No",
+   "start": 174.62,
+   "end": 174.78,
+   "prob": 0.967,
+   "line": "L96",
+   "section": "Final Chorus",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "need",
+   "start": 174.78,
+   "end": 174.92,
+   "prob": 1.0,
+   "line": "L96",
+   "section": "Final Chorus",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "to",
+   "start": 174.92,
+   "end": 175.12,
+   "prob": 0.879,
+   "line": "L96",
+   "section": "Final Chorus",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "run",
+   "start": 175.12,
+   "end": 175.36,
+   "prob": 0.981,
+   "line": "L96",
+   "section": "Final Chorus",
+   "owner": "SPLIT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 176.04,
+   "end": 176.26,
+   "prob": 0.979,
+   "line": "L97",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 176.26,
+   "end": 176.36,
+   "prob": 0.993,
+   "line": "L97",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 176.36,
+   "end": 176.6,
+   "prob": 0.999,
+   "line": "L97",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 176.64,
+   "end": 176.9,
+   "prob": 0.995,
+   "line": "L97",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "We",
+   "start": 176.9,
+   "end": 177.06,
+   "prob": 0.984,
+   "line": "L98",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "hold",
+   "start": 177.06,
+   "end": 177.2,
+   "prob": 1.0,
+   "line": "L98",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "the",
+   "start": 177.2,
+   "end": 177.52,
+   "prob": 0.647,
+   "line": "L98",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "sun",
+   "start": 177.54,
+   "end": 177.7,
+   "prob": 0.659,
+   "line": "L98",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 178.24,
+   "end": 178.52,
+   "prob": 0.973,
+   "line": "L99",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 178.52,
+   "end": 178.74,
+   "prob": 0.993,
+   "line": "L99",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 178.74,
+   "end": 178.84,
+   "prob": 0.999,
+   "line": "L99",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 178.98,
+   "end": 179.12,
+   "prob": 0.989,
+   "line": "L99",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Keep",
+   "start": 178.98,
+   "end": 179.12,
+   "prob": 0.989,
+   "line": "L100",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 179.12,
+   "end": 179.22,
+   "prob": 0.971,
+   "line": "L100",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "loose",
+   "start": 179.22,
+   "end": 179.3,
+   "prob": 1.0,
+   "line": "L100",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "keep",
+   "start": 179.3,
+   "end": 179.7,
+   "prob": 0.359,
+   "line": "L100",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 179.78,
+   "end": 179.94,
+   "prob": 0.025,
+   "line": "L100",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "low",
+   "start": 180.04,
+   "end": 180.26,
+   "prob": 0.977,
+   "line": "L100",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 180.28,
+   "end": 180.5,
+   "prob": 0.046,
+   "line": "L101",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 180.5,
+   "end": 180.74,
+   "prob": 0.883,
+   "line": "L101",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 180.74,
+   "end": 180.94,
+   "prob": 0.993,
+   "line": "L101",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 180.94,
+   "end": 181.1,
+   "prob": 0.999,
+   "line": "L101",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Let",
+   "start": 181.42,
+   "end": 181.54,
+   "prob": 0.891,
+   "line": "L102",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 181.54,
+   "end": 181.56,
+   "prob": 0.999,
+   "line": "L102",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "drift",
+   "start": 181.56,
+   "end": 181.72,
+   "prob": 0.57,
+   "line": "L102",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "let",
+   "start": 181.72,
+   "end": 182.0,
+   "prob": 0.836,
+   "line": "L102",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "it",
+   "start": 182.0,
+   "end": 182.1,
+   "prob": 0.075,
+   "line": "L102",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "go",
+   "start": 182.28,
+   "end": 182.42,
+   "prob": 0.992,
+   "line": "L102",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 182.52,
+   "end": 182.78,
+   "prob": 0.974,
+   "line": "L103",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 182.78,
+   "end": 183.06,
+   "prob": 0.972,
+   "line": "L103",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 183.06,
+   "end": 183.24,
+   "prob": 0.995,
+   "line": "L103",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 183.24,
+   "end": 183.32,
+   "prob": 0.999,
+   "line": "L103",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "We're",
+   "start": 183.6,
+   "end": 183.74,
+   "prob": 0.994,
+   "line": "L104",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "good",
+   "start": 183.74,
+   "end": 183.8,
+   "prob": 1.0,
+   "line": "L104",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "where",
+   "start": 183.8,
+   "end": 183.96,
+   "prob": 0.491,
+   "line": "L104",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "we",
+   "start": 183.96,
+   "end": 184.1,
+   "prob": 0.971,
+   "line": "L104",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "are",
+   "start": 184.1,
+   "end": 184.36,
+   "prob": 0.181,
+   "line": "L104",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 184.68,
+   "end": 185.02,
+   "prob": 0.942,
+   "line": "L105",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 185.02,
+   "end": 185.56,
+   "prob": 0.801,
+   "line": "L105",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "easy",
+   "start": 185.56,
+   "end": 185.88,
+   "prob": 0.991,
+   "line": "L105",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "now",
+   "start": 185.88,
+   "end": 186.08,
+   "prob": 0.999,
+   "line": "L105",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "noprompt"
+  },
+  {
+   "word": "Just",
+   "start": 186.34,
+   "end": 186.34,
+   "prob": 0.962,
+   "line": "L106",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "two",
+   "start": 186.34,
+   "end": 186.46,
+   "prob": 0.75,
+   "line": "L106",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "small",
+   "start": 186.46,
+   "end": 186.46,
+   "prob": 0.999,
+   "line": "L106",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "sparks",
+   "start": 186.46,
+   "end": 186.48,
+   "prob": 0.025,
+   "line": "L106",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "noprompt"
+  },
+  {
+   "word": "Easy",
+   "start": 192.06,
+   "end": 193.1,
+   "prob": 0.054,
+   "line": "L107",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "now",
+   "start": 193.1,
+   "end": 194.14,
+   "prob": 0.981,
+   "line": "L107",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "easy",
+   "start": 194.14,
+   "end": 194.46,
+   "prob": 0.992,
+   "line": "L107",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "now",
+   "start": 194.46,
+   "end": 194.72,
+   "prob": 0.931,
+   "line": "L107",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "We",
+   "start": 194.46,
+   "end": 194.72,
+   "prob": 0.931,
+   "line": "L108",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "ride",
+   "start": 194.72,
+   "end": 195.42,
+   "prob": 0.008,
+   "line": "L108",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "we",
+   "start": 195.42,
+   "end": 195.42,
+   "prob": 0.984,
+   "line": "L108",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "ride",
+   "start": 195.42,
+   "end": 197.14,
+   "prob": 0.995,
+   "line": "L108",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "Easy",
+   "start": 197.58,
+   "end": 198.1,
+   "prob": 0.0,
+   "line": "L109",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "now",
+   "start": 198.1,
+   "end": 199.18,
+   "prob": 0.038,
+   "line": "L109",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "easy",
+   "start": 199.18,
+   "end": 202.66,
+   "prob": 0.451,
+   "line": "L109",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "now",
+   "start": 202.66,
+   "end": 203.42,
+   "prob": 0.333,
+   "line": "L109",
+   "section": "Final Chorus",
+   "owner": "GIRL",
+   "source": "tail"
+  },
+  {
+   "word": "Till",
+   "start": 203.42,
+   "end": 204.24,
+   "prob": 0.187,
+   "line": "L110",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "the",
+   "start": 204.24,
+   "end": 204.36,
+   "prob": 0.988,
+   "line": "L110",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "morning",
+   "start": 204.36,
+   "end": 204.88,
+   "prob": 0.979,
+   "line": "L110",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  },
+  {
+   "word": "comes",
+   "start": 204.88,
+   "end": 205.58,
+   "prob": 0.215,
+   "line": "L110",
+   "section": "Final Chorus",
+   "owner": "CAT",
+   "source": "tail"
+  }
+ ]
+}

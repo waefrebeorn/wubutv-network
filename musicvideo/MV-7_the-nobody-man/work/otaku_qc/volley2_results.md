@@ -1,0 +1,10 @@
+# MV-7 Otaku Rebuild — Volley 2 Results (U07–U12)
+
+| unit | take path | md5 | ffprobe | take words found | motion | visual QC |
+|---|---|---|---|---|---|---|
+| U07 | takes/otaku/mv7o_u07_t1.mp4 | 8b722e90937097c859c1c8bf6f485e94 | 1248x704, 5.0s, 120f @24fps | 15 words: "Made" 0.0s → "wait." ends 4.8s (full line exact) | mean_diff=1.55, min=0.21, max_neardup_run=2f | PASS — otaku identity exact (glasses, yellow streak, star hoodie, headphones at neck), bright cozy room, no text, mouth open/moving throughout |
+| U08 | takes/otaku/mv7o_u08_t1.mp4 | d4b2147f73714a1113aee938119eae1e | 1248x704, 10.0s, 240f @24fps | 13 words: "I" 0.0s → "sound." ends 7.8s (full line exact) | mean_diff=1.17, min=0.16, max_neardup_run=10f | PASS — identity exact, mouth open in sung frames, no text; NOTE: take is 10s not 5s, line lands 0–7.8s, trim in assembly |
+| U09 | takes/otaku/mv7o_u09_t1.mp4 | c8aa1db53297cc5e1d3a9c1fb410f06e | 1248x704, 5.0s, 120f @24fps | 5 words: "Nobody" 0.0s → "me" ends 4.36s (full line exact) | mean_diff=1.42, min=0.13, max_neardup_run=13f | PASS — identity exact, big open mouth shapes on the line, bright room, no text |
+| U10 | takes/otaku/mv7o_u10_t1.mp4 | 60874946585864e349b8117a14266486 | 1248x704, 5.0s, 120f @24fps | 5 words: "I" 0.0s → "quietly" ends 3.36s (full line exact) | mean_diff=1.43, min=0.23, max_neardup_run=8f | PASS — identity exact, mouth clearly singing, no text (QC script needed one rerun: first extracted wav was corrupt; take itself is fine) |
+| U11 | takes/otaku/mv7o_u11_t1.mp4 | 25f96a61f862c8906a469bf8d5536211 | 1248x704, 10.0s, 240f @24fps | 8 words: "I'm" 0.0s → "stand" ends 6.66s (full line exact) | mean_diff=0.72, min=0.15, max_neardup_run=27f | PASS — identity exact, mouth open in sung frames, no text; NOTE: take is 10s not 5s, held-smile tail after 6.66s, trim in assembly |
+| U12 | takes/otaku/mv7o_u12_t1.mp4 | d9bae5132cff413ec4920293408ed871 | 1248x704, 5.0s, 120f @24fps | 11 words: "I" 0.0s → "man." ends 4.6s (full line exact) | mean_diff=1.00, min=0.18, max_neardup_run=15f | PASS — identity exact, wide open mouth on hook, bright room, no text |

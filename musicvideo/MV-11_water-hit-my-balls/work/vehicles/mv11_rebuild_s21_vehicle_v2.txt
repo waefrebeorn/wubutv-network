@@ -1,0 +1,77 @@
+MV-11 REBUILD S21 t2 — "The Peak" (the biggest crown, frozen at its apex — REDESIGN) — CONTINUITY volley 5 (FINAL)
+Song window: 151.00–155.06 (4.06s slot). Scene: FH-E. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN from S20 t1 @10.00s (work/stills/stack/chain_s20_last.png,
+md5 f43f59c72dd9758094831a0836b67c7c — duck fully visible on the crest of
+the tall column, arcs pouring over the rim, rings glowing).
+End ref: s21_end_v4 (generated this volley, conditioned on the S20
+slot-end frame with an explicit camera-angle lock — a bursting SPLASH
+crown, apex at ~65% frame height with clear headroom above it, duck
+fully visible riding the very top, SAME wide side framing as the chain
+frame; v1 was rejected on framing (high top-down angle); v3 was
+rejected on shape (a literal spiked royal crown). v4 read back PASS,
+md5 296ea1e51df933796f08b4e8aefc52d0).
+T1 LESSON (why t2 is a redesign, not a re-prompt): t1's apex arrived
+~2s late — the duck was back on a contained crown at 6.0s, past the
+4.06s slot. Both t1 images had the crown/column touching the top edge,
+so the morph's midpoint exploded upward and out of the frame. v4 pulls
+the midpoint DOWN: the apex sits at ~65% height with headroom in the
+end image, so the crown stays inside the frame through the whole take.
+Lines: "Balls balls" 153.60–155.06 (take 2.60–4.06). Final Hook word
+times are anchor-level only — Whisper fell into a degenerate "water"
+loop 110.7–130.7, so motion is keyed to the BEAT GRID, not word times.
+Kinetic in post: SLAM on "Balls" 153.60 (take 2.60).
+DURATION: request EXACTLY 5 SECONDS (the S07 lesson — a slot-length
+request for a short slot; the slot is 4.06s, assembly trims at 4.06s).
+ALWAYS ffprobe — t1's 5s request returned 10s; the vehicle plans the
+apex to ARRIVE EARLY (by ~2s) and HOLD, so either return works.
+Images:
+[1] work/stills/stack/chain_s20_last.png (md5 f43f59c72dd9758094831a0836b67c7c)
+[2] work/stills/stack/s21_end_v4_1248x704.webp (md5 296ea1e51df933796f08b4e8aefc52d0 — read back PASS:
+bursting splash crown, apex ~65% height with headroom, duck fully
+visible on top, same wide side framing as the chain frame)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.07/0.53/0.98/1.44/1.90/2.35/2.81/3.27/3.72/4.18/4.64 (song 151.00 start).
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The crown rises INSIDE the wide frame; the bowl stays
+fully visible at all times; the duck stays visible in the foreground.
+APEX-IN-FRAME LOCK (the t1 lesson, hard rule): the crown's apex and the
+duck stay FULLY INSIDE the frame at all times — never cropped by the
+top edge, never above it. The apex never rises above ~75% of frame
+height. If the crown threatens the top edge, the crown is SMALLER, not
+the frame tighter.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, a toilet-paper holder on the left wall. A tall column of cobalt water is rising from the bowl with glowing gold rings spiralling around it, arcs of water pouring over the rim, the yellow rubber duck with an orange beak riding the crest at the very top, the room glowing gold. Wide 16:9 video, exactly 5 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the column at its height, the duck on the crest, the arcs pouring. The picture is already moving at frame 0 — the water is pouring, the rings are glowing. The camera stays at exactly this distance for the whole take — never closer, never pushing in. The crown's apex and the duck stay fully inside the frame at all times — never cropped by the top edge, never above it.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s20_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the five seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 1.5 seconds the column bursts upward into the BIGGEST splash crown of the whole video — rounded petals of water bursting upward and outward, the yellow duck riding the crest at the very top, arcs bursting outward, droplets flying in the lamp light, the crown's apex staying well inside the frame with clear space above it. From 1.5 to 2.6 seconds the crown reaches its apex EARLY — the tallest crown yet, the duck at the very top fully visible, the room glowing gold on every beat. From 2.6 to 4 seconds the crown HOLDS frozen at its apex as the last chant lands — the crown hanging at its height, droplets suspended in the air, arcs frozen mid-air over the rim, the duck riding the very top, the room glowing gold, the rings widening slowly on the floor. The camera holds this exact wide framing for the full take — it does NOT push in, it does NOT circle the duck, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s21_end_v4_1248x704.webp
+
+[5] TEXT:
+End on the second image: the biggest splash crown frozen at its apex, its top well inside the frame with clear space above it, the yellow duck riding the very top fully visible, droplets suspended in the air, arcs frozen mid-air over the rim, the room glowing gold — the visual peak of the whole video.
+
+NOTES: S21 is THE VISUAL PEAK — the whole rebuild climbs to this
+4.06s slot. T1 failed on TIMING (apex ~2s late, duck out of frame
+1.5–4.06s); the v4 end ref + apex-in-frame lock is the redesign.
+QC focus: the crown visibly BIGGER at its apex than any earlier crown;
+the apex ARRIVES EARLY (by ~2s) and HOLDS to the slot end (take
+4.06s); the duck VISIBLE riding the very top in EVERY sampled frame
+including the slot end, never filling more than ~20% of frame height,
+never cropped by the top edge; ONE duck throughout; framing HELD WIDE
+(bowl fully visible at all times); room identity = the SAME
+toilet-bowl room as the S20 slot end. The apex HOLD is judged by EYE,
+not by the motion audit alone: a frozen apex still shimmers (droplets,
+rings, gold light), so the pixels keep moving — but if the picture
+reads dead through the hold, that is a fail. Joint J20 is CHAIN: frame
+0 must match chain_s20_last.png (same framing, lighting, subject).
+Assembly uses 0–4.06s ONLY; any surplus past the slot end is discarded.
+Chain frame for S22: the S21 t2 take's frame at take 4.06s (the slot
+end), NOT the take tail. CAP: t2 is video 5/6 — S22 will be 6/6 and
+S23 is owed to a volley 6.

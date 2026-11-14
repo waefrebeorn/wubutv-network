@@ -1,0 +1,34 @@
+# MV-8 v3 — VOLLEY 1 vehicle: O-A "The Return Flight" APPROACH (CARTOON EVENT, no singing)
+# Scene: O-A, song 146.00–163.00 (3504–3912f). 17.00s scene; SPLIT assembly.
+# Instrumental. TRUE-PEAK SCENE: loop apex MUST land on frame 3826 (159.435s).
+# SPLIT DESIGN (proven in v2, re-applied with fresh takes):
+# - APPROACH (146.00–156.00, 10.00s = 240f): THIS take — the climb, PRE-CREST
+#   only. Warped at assembly to fill the 10s approach window. The rider must
+#   NOT reach the top of the ring in this take; the take ends with her still
+#   climbing below the crown. Split point: 156.00s / frame 3744.
+# - APEX WINDOW (156.00–163.00, 7.00s = 168f): the apex-window take (separate
+#   vehicle) — crest in the generator's natural 55–65% window, head-trimmed so
+#   the crest lands at 3.435s into the window (frame 3826).
+# Generator law (proven, v2 attempts 1–4): the climax lands in the 55–65%
+# window of a 10s take regardless of timing language. The approach take is
+# DESIGNED to have no climax — it is all climb — so the law cannot front-load
+# a crest into it. If this take DOES crest, it is a REJECT for approach use
+# (it may be re-designated as apex-window material only if its crest is
+# placeable on 3826 by head-trim alone — coordinator decides, recorded honestly).
+# Anchor: G14.jpg (work/rebuild/stills_v3/G14.jpg, md5 0978e44a21510cf152934c00666cd1b4).
+# Single-anchor call. NO second image — two-image morphs front-load the loop
+# (v2 lesson). Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow
+# SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: already flying fast and already climbing at frame 0 — camera already
+# swooping, never still. Continuous motion to the last frame.
+# Casting: the Champion, adult woman late-20s, long dark braid streaming, full
+# layered toilet-paper breastplate over long-sleeved white tunic, full-length white
+# trousers, white boots, bright yellow rubber gloves, riding Sir Swirl (giant glossy
+# chocolate-brown soft-serve swirl creature with aviator goggles and cream scarf).
+# Adults only, no children.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G14.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields. High above a golden porcelain palace city at golden hour, the Champion, an adult woman in her late twenties with a long dark braid streaming behind her, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots and bright yellow rubber cleaning gloves, rides a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles and a cream scarf streaming behind. She is already flying fast and already climbing as the clip opens, the camera already swooping with her, never still. The great water ring stands huge ahead of her, growing larger as she climbs toward it, spray and bubbles streaming past, the city falling away below — but she does NOT reach the top of the ring in this clip; the whole clip is the climb, and it ends with her still rising below the crown, the ring towering above her. Continuous motion from the very first frame to the last. No text, no logos, no children, no other characters."

@@ -1,0 +1,23 @@
+MV-11 S07 — "Sitting" (Verse — THE ONE SUNG SCENE) — VEHICLE v2 (REWRITE)
+Song window: 45.18–50.14 (4.96s). Scene: V-A. Tag: SINGING (in-world —
+side/back, never to camera; user order 2026-11-09 ~22:04 EST).
+Vehicle v2 — REWRITE of v1 (t1 REJECTED: the take performed an invented
+YouTube-outro phrase, "This is the end of this video, thank you so much
+for watching this video", instead of the prompted verse line — G5 fail,
+wrong words; a weird talky, banned by the 2026-11-09 order). Reroll axis:
+LYRIC COMPLETENESS — the exact line is repeated twice, named word by
+word in order, with an explicit ban on any other speech. NOT fired in
+volley 1 (cap reached) — owed in volley 2.
+Image-conditioned on work/stills/anchor_man_1248x704.webp (md5 dc24cd4e05739d946ac358b782369bf6).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 5 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A stylized cartoon bathroom: deep teal wall tiles, warm lamp gold light, a vermilion towel on a hook, a small window with daylight. The man from the reference image — adult, early 30s, short dark hair, light stubble, blue bathrobe over a plain white tee, brown slippers — sits on a white porcelain toilet seen from behind and to the side, three-quarter back view, his face in profile, mouth clearly visible and unobstructed, looking down at the deep cobalt-blue water in the bowl below, where a yellow rubber duck bobs. He never faces the camera. The picture is already moving at frame 0.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/anchor_man_1248x704.webp
+
+[3] TEXT:
+From 0.0 to 5.0 seconds he chants the exact words "Sitting on the toilet, water hits, my balls" — the words are "Sitting on the toilet" then "Water hits" then "My balls", in that order, once each, nothing else — chanting them softly to the room in a low dark crooning voice, his head bobbing gently on the beat, the water below rippling in time. He sings clearly and articulately, mouth opening and closing on the words "Sitting on the toilet, water hits, my balls". He says nothing else: no greeting, no farewell, no thank-you, no outro, no commentary, no other words at all. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. His mouth remains closed and still before the first word. After the final word the mouth closes and stays closed for the remainder of the clip, a clean held pose, the duck bobbing on the water. The camera is steady and locked-off during the singing. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: lines verified against analysis/SONG_WORDS.json: "Sitting on the toilet" 45.18 (ASR "Sipping" — corrected), "Water hits" 47.18, "My balls" 48.64–50.14. Framing law: side/back three-quarter ONLY — if the take comes back facing camera / talking-head, it is a FAIL, not a flag. Kinetic in post: HIGHLIGHT per line.

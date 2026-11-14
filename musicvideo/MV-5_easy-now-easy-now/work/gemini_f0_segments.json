@@ -1,0 +1,2808 @@
+[
+ {
+  "start": 8,
+  "end": 45,
+  "speaker": "spk_0",
+  "text": "Till the morning comes. Till the morning comes. Feet on the boardwalk, salt on my skin. You came in laughing, said come on let's begin. Blue shirt, red bicycle rolling past the pier. I was posted up right here, now you're pulling near. Keys in your hand, you nodded at the waves like",
+  "pyin_voiced_frames": 339,
+  "pyin_total_frames": 1157,
+  "pyin_coverage": 0.293,
+  "pyin_median": 94.1,
+  "pyin_p25": 77.7,
+  "pyin_p75": 125.6,
+  "pyin_bands": {
+   "bass_lt80": 0.369,
+   "cat_97_160": 0.366,
+   "mid_160_200": 0.006,
+   "girl_200_330": 0.118,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 74
+   },
+   {
+    "center_hz": 100,
+    "frames": 68
+   }
+  ],
+  "aubio_voiced_frames": 221,
+  "aubio_median": 131.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 26
+   },
+   {
+    "center_hz": 130,
+    "frames": 20
+   }
+  ]
+ },
+ {
+  "start": 45,
+  "end": 48,
+  "speaker": "spk_1",
+  "text": "Yeah, they already understand.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 93,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 11,
+  "aubio_median": 259.5,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 3
+   },
+   {
+    "center_hz": 280,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 48,
+  "end": 51,
+  "speaker": "spk_0",
+  "text": "Slow down, take your time. Let the hard week fade.",
+  "pyin_voiced_frames": 22,
+  "pyin_total_frames": 94,
+  "pyin_coverage": 0.234,
+  "pyin_median": 81.9,
+  "pyin_p25": 65.8,
+  "pyin_p75": 91.4,
+  "pyin_bands": {
+   "bass_lt80": 0.455,
+   "cat_97_160": 0.227,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 9
+   },
+   {
+    "center_hz": 90,
+    "frames": 5
+   }
+  ],
+  "aubio_voiced_frames": 7,
+  "aubio_median": 102.7,
+  "aubio_modes": [
+   {
+    "center_hz": 80,
+    "frames": 1
+   },
+   {
+    "center_hz": 120,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 52,
+  "end": 53,
+  "speaker": "spk_1",
+  "text": "One small look from you.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 77.3,
+  "aubio_modes": [
+   {
+    "center_hz": 80,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 53,
+  "end": 55,
+  "speaker": "spk_0",
+  "text": "And my whole head replaced.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 62,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 196.5,
+  "aubio_modes": [
+   {
+    "center_hz": 200,
+    "frames": 3
+   },
+   {
+    "center_hz": 210,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 58,
+  "end": 59,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now, easy now.",
+  "pyin_voiced_frames": 9,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.29,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.4,
+  "pyin_p75": 65.4,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 9
+   }
+  ],
+  "aubio_voiced_frames": 6,
+  "aubio_median": 262.3,
+  "aubio_modes": [
+   {
+    "center_hz": 260,
+    "frames": 3
+   },
+   {
+    "center_hz": 310,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 59,
+  "end": 60,
+  "speaker": "spk_0",
+  "text": "We ride, we ride.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 74.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   },
+   {
+    "center_hz": 120,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 60,
+  "end": 61,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 104.1,
+  "aubio_modes": [
+   {
+    "center_hz": 100,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 61,
+  "end": 62,
+  "speaker": "spk_0",
+  "text": "With you by my side.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 225.2,
+  "aubio_modes": [
+   {
+    "center_hz": 290,
+    "frames": 1
+   },
+   {
+    "center_hz": 160,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 63,
+  "end": 64,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 150.3,
+  "aubio_modes": [
+   {
+    "center_hz": 120,
+    "frames": 1
+   },
+   {
+    "center_hz": 150,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 64,
+  "end": 65,
+  "speaker": "spk_0",
+  "text": "No need to run.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 62.8,
+  "aubio_modes": []
+ },
+ {
+  "start": 65,
+  "end": 66,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 23,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.742,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.4,
+  "pyin_p75": 65.8,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 23
+   }
+  ],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 235.8,
+  "aubio_modes": [
+   {
+    "center_hz": 350,
+    "frames": 1
+   },
+   {
+    "center_hz": 120,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 66,
+  "end": 67,
+  "speaker": "spk_0",
+  "text": "We hold the sun.",
+  "pyin_voiced_frames": 16,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.516,
+  "pyin_median": 69.3,
+  "pyin_p25": 68.0,
+  "pyin_p75": 73.0,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 14
+   },
+   {
+    "center_hz": 80,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 110.5,
+  "aubio_modes": [
+   {
+    "center_hz": 110,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 67,
+  "end": 68,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 16,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.516,
+  "pyin_median": 78.4,
+  "pyin_p25": 74.7,
+  "pyin_p75": 86.9,
+  "pyin_bands": {
+   "bass_lt80": 0.625,
+   "cat_97_160": 0.062,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 80,
+    "frames": 7
+   },
+   {
+    "center_hz": 90,
+    "frames": 4
+   }
+  ],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 320.3,
+  "aubio_modes": [
+   {
+    "center_hz": 470,
+    "frames": 1
+   },
+   {
+    "center_hz": 170,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 68,
+  "end": 69,
+  "speaker": "spk_0",
+  "text": "Keep it loose, keep it low.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 70,
+  "end": 70,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 71,
+  "end": 72,
+  "speaker": "spk_0",
+  "text": "Let it drift, let it go.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 234.6,
+  "aubio_modes": [
+   {
+    "center_hz": 230,
+    "frames": 1
+   },
+   {
+    "center_hz": 240,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 72,
+  "end": 73,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 131.9,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 73,
+  "end": 74,
+  "speaker": "spk_0",
+  "text": "We're good where we are.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 207.8,
+  "aubio_modes": [
+   {
+    "center_hz": 210,
+    "frames": 3
+   },
+   {
+    "center_hz": 100,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 74,
+  "end": 75,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 60.7,
+  "aubio_modes": []
+ },
+ {
+  "start": 75,
+  "end": 97,
+  "speaker": "spk_0",
+  "text": "Just two small sparks. Just two small sparks. Vendor at the corner calling mango sweets, socks in the sand. And the tide tapping time with our feet. Your laugh hit the air like a hand drum roll.",
+  "pyin_voiced_frames": 191,
+  "pyin_total_frames": 688,
+  "pyin_coverage": 0.278,
+  "pyin_median": 90.9,
+  "pyin_p25": 65.4,
+  "pyin_p75": 130.8,
+  "pyin_bands": {
+   "bass_lt80": 0.476,
+   "cat_97_160": 0.346,
+   "mid_160_200": 0.136,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 88
+   },
+   {
+    "center_hz": 100,
+    "frames": 35
+   }
+  ],
+  "aubio_voiced_frames": 69,
+  "aubio_median": 138.4,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 12
+   },
+   {
+    "center_hz": 120,
+    "frames": 7
+   }
+  ]
+ },
+ {
+  "start": 97,
+  "end": 99,
+  "speaker": "spk_1",
+  "text": "I forgot the list, forgot the bills.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 62,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 6,
+  "aubio_median": 185.7,
+  "aubio_modes": [
+   {
+    "center_hz": 260,
+    "frames": 2
+   },
+   {
+    "center_hz": 310,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 99,
+  "end": 103,
+  "speaker": "spk_0",
+  "text": "Forgot what I was told.",
+  "pyin_voiced_frames": 68,
+  "pyin_total_frames": 125,
+  "pyin_coverage": 0.544,
+  "pyin_median": 98.2,
+  "pyin_p25": 70.0,
+  "pyin_p75": 104.5,
+  "pyin_bands": {
+   "bass_lt80": 0.324,
+   "cat_97_160": 0.618,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 100,
+    "frames": 27
+   },
+   {
+    "center_hz": 70,
+    "frames": 21
+   }
+  ],
+  "aubio_voiced_frames": 14,
+  "aubio_median": 181.5,
+  "aubio_modes": [
+   {
+    "center_hz": 210,
+    "frames": 7
+   },
+   {
+    "center_hz": 70,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 103,
+  "end": 105,
+  "speaker": "spk_1",
+  "text": "Ice, ice, ice cups sweating on the rail by the steps.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 63,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 11,
+  "aubio_median": 283.0,
+  "aubio_modes": [
+   {
+    "center_hz": 310,
+    "frames": 3
+   },
+   {
+    "center_hz": 260,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 105,
+  "end": 107,
+  "speaker": "spk_0",
+  "text": "You said don't think too hard.",
+  "pyin_voiced_frames": 32,
+  "pyin_total_frames": 62,
+  "pyin_coverage": 0.516,
+  "pyin_median": 139.7,
+  "pyin_p25": 130.0,
+  "pyin_p75": 147.6,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.844,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.156,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 130,
+    "frames": 10
+   },
+   {
+    "center_hz": 150,
+    "frames": 8
+   }
+  ],
+  "aubio_voiced_frames": 29,
+  "aubio_median": 137.5,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 8
+   },
+   {
+    "center_hz": 290,
+    "frames": 5
+   }
+  ]
+ },
+ {
+  "start": 107,
+  "end": 108,
+  "speaker": "spk_1",
+  "text": "So I did not yet.",
+  "pyin_voiced_frames": 5,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.161,
+  "pyin_median": 293.5,
+  "pyin_p25": 293.5,
+  "pyin_p75": 293.5,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 1.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 290,
+    "frames": 4
+   },
+   {
+    "center_hz": 300,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 8,
+  "aubio_median": 294.8,
+  "aubio_modes": [
+   {
+    "center_hz": 290,
+    "frames": 5
+   },
+   {
+    "center_hz": 300,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 108,
+  "end": 109,
+  "speaker": "spk_0",
+  "text": "Here for the boardwalks.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 263.5,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   },
+   {
+    "center_hz": 270,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 109,
+  "end": 110,
+  "speaker": "spk_1",
+  "text": "I got lost in the crowd.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 14,
+  "aubio_median": 296.1,
+  "aubio_modes": [
+   {
+    "center_hz": 310,
+    "frames": 7
+   },
+   {
+    "center_hz": 280,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 110,
+  "end": 112,
+  "speaker": "spk_0",
+  "text": "You took my sneakers from me once like none of it was left.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 62,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 9,
+  "aubio_median": 273.3,
+  "aubio_modes": [
+   {
+    "center_hz": 260,
+    "frames": 3
+   },
+   {
+    "center_hz": 310,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 112,
+  "end": 113,
+  "speaker": "spk_1",
+  "text": "Slow down, take your time.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 73.3,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 113,
+  "end": 114,
+  "speaker": "spk_0",
+  "text": "Take your time.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 131.7,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 114,
+  "end": 115,
+  "speaker": "spk_1",
+  "text": "The hard week fade.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 298.5,
+  "aubio_modes": [
+   {
+    "center_hz": 300,
+    "frames": 2
+   },
+   {
+    "center_hz": 310,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 115,
+  "end": 116,
+  "speaker": "spk_0",
+  "text": "One small look from you.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 6,
+  "aubio_median": 150.8,
+  "aubio_modes": [
+   {
+    "center_hz": 150,
+    "frames": 3
+   },
+   {
+    "center_hz": 140,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 116,
+  "end": 120,
+  "speaker": "spk_1",
+  "text": "And my whole head replaced.",
+  "pyin_voiced_frames": 25,
+  "pyin_total_frames": 125,
+  "pyin_coverage": 0.2,
+  "pyin_median": 311.0,
+  "pyin_p25": 309.2,
+  "pyin_p75": 314.6,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 1.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 310,
+    "frames": 21
+   },
+   {
+    "center_hz": 320,
+    "frames": 4
+   }
+  ],
+  "aubio_voiced_frames": 7,
+  "aubio_median": 260.9,
+  "aubio_modes": [
+   {
+    "center_hz": 350,
+    "frames": 2
+   },
+   {
+    "center_hz": 150,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 122,
+  "end": 122,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 2,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.065,
+  "pyin_median": 311.9,
+  "pyin_p25": 311.4,
+  "pyin_p75": 312.3,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 1.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 310,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 68.6,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   },
+   {
+    "center_hz": 100,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 123,
+  "end": 124,
+  "speaker": "spk_0",
+  "text": "We ride, we ride.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 117.2,
+  "aubio_modes": [
+   {
+    "center_hz": 120,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 124,
+  "end": 125,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 125,
+  "end": 126,
+  "speaker": "spk_0",
+  "text": "With you by my side.",
+  "pyin_voiced_frames": 15,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.484,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.4,
+  "pyin_p75": 65.8,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 15
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 60.9,
+  "aubio_modes": []
+ },
+ {
+  "start": 127,
+  "end": 127,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 9,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.29,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 66.1,
+  "pyin_bands": {
+   "bass_lt80": 0.889,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 7
+   },
+   {
+    "center_hz": 80,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 109.7,
+  "aubio_modes": [
+   {
+    "center_hz": 150,
+    "frames": 2
+   },
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 128,
+  "end": 129,
+  "speaker": "spk_0",
+  "text": "No need to run.",
+  "pyin_voiced_frames": 9,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.281,
+  "pyin_median": 82.8,
+  "pyin_p25": 68.1,
+  "pyin_p75": 98.5,
+  "pyin_bands": {
+   "bass_lt80": 0.333,
+   "cat_97_160": 0.444,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 100,
+    "frames": 4
+   },
+   {
+    "center_hz": 70,
+    "frames": 3
+   }
+  ],
+  "aubio_voiced_frames": 5,
+  "aubio_median": 79.9,
+  "aubio_modes": [
+   {
+    "center_hz": 80,
+    "frames": 2
+   },
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 129,
+  "end": 130,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 31,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 1.0,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.4,
+  "pyin_p75": 65.8,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 30
+   },
+   {
+    "center_hz": 80,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 63.9,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 130,
+  "end": 131,
+  "speaker": "spk_0",
+  "text": "We hold the sun.",
+  "pyin_voiced_frames": 21,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.677,
+  "pyin_median": 68.5,
+  "pyin_p25": 65.0,
+  "pyin_p75": 77.7,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 15
+   },
+   {
+    "center_hz": 80,
+    "frames": 6
+   }
+  ],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 131,
+  "end": 132,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 14,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.452,
+  "pyin_median": 65.8,
+  "pyin_p25": 65.0,
+  "pyin_p75": 77.7,
+  "pyin_bands": {
+   "bass_lt80": 0.786,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 8
+   },
+   {
+    "center_hz": 90,
+    "frames": 3
+   }
+  ],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 66.6,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 132,
+  "end": 133,
+  "speaker": "spk_0",
+  "text": "Keep it loose, keep it low.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 63.0,
+  "aubio_modes": []
+ },
+ {
+  "start": 134,
+  "end": 134,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 12,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.387,
+  "pyin_median": 65.2,
+  "pyin_p25": 65.0,
+  "pyin_p75": 65.7,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 12
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 65.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 134,
+  "end": 135,
+  "speaker": "spk_0",
+  "text": "Let it drift, let it go.",
+  "pyin_voiced_frames": 12,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.387,
+  "pyin_median": 65.2,
+  "pyin_p25": 65.0,
+  "pyin_p75": 65.7,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 12
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 65.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 136,
+  "end": 136,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 137,
+  "end": 137,
+  "speaker": "spk_0",
+  "text": "We're good where we are.",
+  "pyin_voiced_frames": 10,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.323,
+  "pyin_median": 77.7,
+  "pyin_p25": 75.8,
+  "pyin_p75": 78.1,
+  "pyin_bands": {
+   "bass_lt80": 0.8,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 80,
+    "frames": 7
+   },
+   {
+    "center_hz": 90,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 66.6,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 138,
+  "end": 139,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 8,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.258,
+  "pyin_median": 65.6,
+  "pyin_p25": 65.4,
+  "pyin_p75": 65.8,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 8
+   }
+  ],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 139,
+  "end": 151,
+  "speaker": "spk_0",
+  "text": "Just two small sparks. Just two small sparks. Just two small sparks. If the rain comes down, we stay out in it.",
+  "pyin_voiced_frames": 122,
+  "pyin_total_frames": 375,
+  "pyin_coverage": 0.325,
+  "pyin_median": 65.8,
+  "pyin_p25": 65.0,
+  "pyin_p75": 104.2,
+  "pyin_bands": {
+   "bass_lt80": 0.656,
+   "cat_97_160": 0.287,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 78
+   },
+   {
+    "center_hz": 100,
+    "frames": 14
+   }
+  ],
+  "aubio_voiced_frames": 22,
+  "aubio_median": 70.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 7
+   },
+   {
+    "center_hz": 150,
+    "frames": 3
+   }
+  ]
+ },
+ {
+  "start": 152,
+  "end": 152,
+  "speaker": "spk_1",
+  "text": "If the day runs long.",
+  "pyin_voiced_frames": 21,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.656,
+  "pyin_median": 157.3,
+  "pyin_p25": 155.5,
+  "pyin_p75": 302.1,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.524,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.476,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 160,
+    "frames": 9
+   },
+   {
+    "center_hz": 260,
+    "frames": 4
+   }
+  ],
+  "aubio_voiced_frames": 5,
+  "aubio_median": 155.0,
+  "aubio_modes": [
+   {
+    "center_hz": 150,
+    "frames": 2
+   },
+   {
+    "center_hz": 310,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 153,
+  "end": 154,
+  "speaker": "spk_0",
+  "text": "We still move with it.",
+  "pyin_voiced_frames": 24,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.774,
+  "pyin_median": 130.8,
+  "pyin_p25": 128.4,
+  "pyin_p75": 152.2,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 1.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 130,
+    "frames": 10
+   },
+   {
+    "center_hz": 120,
+    "frames": 6
+   }
+  ],
+  "aubio_voiced_frames": 14,
+  "aubio_median": 151.3,
+  "aubio_modes": [
+   {
+    "center_hz": 120,
+    "frames": 4
+   },
+   {
+    "center_hz": 150,
+    "frames": 4
+   }
+  ]
+ },
+ {
+  "start": 154,
+  "end": 155,
+  "speaker": "spk_1",
+  "text": "And in my hand.",
+  "pyin_voiced_frames": 2,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.065,
+  "pyin_median": 134.7,
+  "pyin_p25": 132.3,
+  "pyin_p75": 137.0,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 1.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 140,
+    "frames": 1
+   },
+   {
+    "center_hz": 130,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 123.0,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 1
+   },
+   {
+    "center_hz": 110,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 155,
+  "end": 156,
+  "speaker": "spk_0",
+  "text": "No speech, no show.",
+  "pyin_voiced_frames": 29,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.935,
+  "pyin_median": 155.5,
+  "pyin_p25": 150.2,
+  "pyin_p75": 157.3,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.862,
+   "mid_160_200": 0.034,
+   "girl_200_330": 0.103,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 160,
+    "frames": 15
+   },
+   {
+    "center_hz": 150,
+    "frames": 10
+   }
+  ],
+  "aubio_voiced_frames": 11,
+  "aubio_median": 153.4,
+  "aubio_modes": [
+   {
+    "center_hz": 160,
+    "frames": 5
+   },
+   {
+    "center_hz": 150,
+    "frames": 3
+   }
+  ]
+ },
+ {
+  "start": 156,
+  "end": 157,
+  "speaker": "spk_1",
+  "text": "Hard in the breeze.",
+  "pyin_voiced_frames": 2,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.062,
+  "pyin_median": 261.5,
+  "pyin_p25": 261.5,
+  "pyin_p75": 261.5,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 1.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 260,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 6,
+  "aubio_median": 312.7,
+  "aubio_modes": [
+   {
+    "center_hz": 310,
+    "frames": 4
+   },
+   {
+    "center_hz": 330,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 157,
+  "end": 158,
+  "speaker": "spk_0",
+  "text": "And the bass moves slow.",
+  "pyin_voiced_frames": 19,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.613,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 65.4,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 19
+   }
+  ],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 98.0,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 158,
+  "end": 159,
+  "speaker": "spk_1",
+  "text": "If the sky turns gray.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 63.6,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 159,
+  "end": 160,
+  "speaker": "spk_0",
+  "text": "We don't fold in.",
+  "pyin_voiced_frames": 17,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.548,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 65.0,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 16
+   },
+   {
+    "center_hz": 80,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 65.0,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 160,
+  "end": 161,
+  "speaker": "spk_1",
+  "text": "We lean right back.",
+  "pyin_voiced_frames": 30,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.938,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 68.8,
+  "pyin_bands": {
+   "bass_lt80": 0.867,
+   "cat_97_160": 0.133,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 24
+   },
+   {
+    "center_hz": 100,
+    "frames": 4
+   }
+  ],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 64.6,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 162,
+  "end": 162,
+  "speaker": "spk_0",
+  "text": "Let the whole thing spin.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 6,
+  "aubio_median": 136.2,
+  "aubio_modes": [
+   {
+    "center_hz": 130,
+    "frames": 3
+   },
+   {
+    "center_hz": 140,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 163,
+  "end": 163,
+  "speaker": "spk_1",
+  "text": "You and me same pace.",
+  "pyin_voiced_frames": 21,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.677,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 78.2,
+  "pyin_bands": {
+   "bass_lt80": 0.857,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 14
+   },
+   {
+    "center_hz": 80,
+    "frames": 5
+   }
+  ],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 61.6,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 164,
+  "end": 165,
+  "speaker": "spk_0",
+  "text": "Same worn in shoes.",
+  "pyin_voiced_frames": 7,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.219,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 69.2,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 6
+   },
+   {
+    "center_hz": 80,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 62.5,
+  "aubio_modes": []
+ },
+ {
+  "start": 165,
+  "end": 166,
+  "speaker": "spk_1",
+  "text": "Nothing to prove.",
+  "pyin_voiced_frames": 26,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.839,
+  "pyin_median": 66.5,
+  "pyin_p25": 65.0,
+  "pyin_p75": 70.0,
+  "pyin_bands": {
+   "bass_lt80": 0.962,
+   "cat_97_160": 0.038,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 23
+   },
+   {
+    "center_hz": 80,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 69.4,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 166,
+  "end": 167,
+  "speaker": "spk_0",
+  "text": "Nothing to lose.",
+  "pyin_voiced_frames": 29,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.935,
+  "pyin_median": 102.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 105.0,
+  "pyin_bands": {
+   "bass_lt80": 0.483,
+   "cat_97_160": 0.517,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 10
+   },
+   {
+    "center_hz": 100,
+    "frames": 10
+   }
+  ],
+  "aubio_voiced_frames": 7,
+  "aubio_median": 104.8,
+  "aubio_modes": [
+   {
+    "center_hz": 100,
+    "frames": 3
+   },
+   {
+    "center_hz": 110,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 169,
+  "end": 170,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 7,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.226,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 71.4,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 5
+   },
+   {
+    "center_hz": 80,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 8,
+  "aubio_median": 259.0,
+  "aubio_modes": [
+   {
+    "center_hz": 260,
+    "frames": 3
+   },
+   {
+    "center_hz": 320,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 171,
+  "end": 171,
+  "speaker": "spk_0",
+  "text": "We ride, we ride.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 298.1,
+  "aubio_modes": [
+   {
+    "center_hz": 300,
+    "frames": 3
+   },
+   {
+    "center_hz": 200,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 172,
+  "end": 172,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 0,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.0,
+  "pyin_median": null,
+  "pyin_p25": null,
+  "pyin_p75": null,
+  "pyin_bands": {
+   "bass_lt80": null,
+   "cat_97_160": null,
+   "mid_160_200": null,
+   "girl_200_330": null,
+   "high_gt330": null
+  },
+  "pyin_modes": [],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 284.9,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   },
+   {
+    "center_hz": 290,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 173,
+  "end": 174,
+  "speaker": "spk_0",
+  "text": "With you by my side.",
+  "pyin_voiced_frames": 9,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.29,
+  "pyin_median": 65.8,
+  "pyin_p25": 65.4,
+  "pyin_p75": 78.2,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 6
+   },
+   {
+    "center_hz": 80,
+    "frames": 3
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 144.9,
+  "aubio_modes": [
+   {
+    "center_hz": 140,
+    "frames": 2
+   },
+   {
+    "center_hz": 310,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 174,
+  "end": 175,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 9,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.29,
+  "pyin_median": 78.6,
+  "pyin_p25": 65.8,
+  "pyin_p75": 79.6,
+  "pyin_bands": {
+   "bass_lt80": 0.778,
+   "cat_97_160": 0.222,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 80,
+    "frames": 4
+   },
+   {
+    "center_hz": 70,
+    "frames": 3
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 78.0,
+  "aubio_modes": [
+   {
+    "center_hz": 80,
+    "frames": 1
+   },
+   {
+    "center_hz": 160,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 175,
+  "end": 176,
+  "speaker": "spk_0",
+  "text": "No need to run.",
+  "pyin_voiced_frames": 22,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.71,
+  "pyin_median": 246.8,
+  "pyin_p25": 207.6,
+  "pyin_p75": 257.8,
+  "pyin_bands": {
+   "bass_lt80": 0.0,
+   "cat_97_160": 0.136,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.864,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 250,
+    "frames": 9
+   },
+   {
+    "center_hz": 260,
+    "frames": 6
+   }
+  ],
+  "aubio_voiced_frames": 7,
+  "aubio_median": 258.6,
+  "aubio_modes": [
+   {
+    "center_hz": 260,
+    "frames": 3
+   },
+   {
+    "center_hz": 270,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 176,
+  "end": 177,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 29,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.906,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.4,
+  "pyin_p75": 65.4,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 29
+   }
+  ],
+  "aubio_voiced_frames": 2,
+  "aubio_median": 125.5,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   },
+   {
+    "center_hz": 190,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 177,
+  "end": 178,
+  "speaker": "spk_0",
+  "text": "We hold the sun.",
+  "pyin_voiced_frames": 31,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 1.0,
+  "pyin_median": 65.0,
+  "pyin_p25": 65.0,
+  "pyin_p75": 65.8,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 31
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 61.9,
+  "aubio_modes": []
+ },
+ {
+  "start": 178,
+  "end": 179,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 31,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 1.0,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.2,
+  "pyin_p75": 77.7,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 20
+   },
+   {
+    "center_hz": 80,
+    "frames": 11
+   }
+  ],
+  "aubio_voiced_frames": 4,
+  "aubio_median": 76.8,
+  "aubio_modes": [
+   {
+    "center_hz": 80,
+    "frames": 3
+   },
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 180,
+  "end": 180,
+  "speaker": "spk_0",
+  "text": "Keep it loose, keep it low.",
+  "pyin_voiced_frames": 29,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.906,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.0,
+  "pyin_p75": 66.5,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 28
+   },
+   {
+    "center_hz": 80,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 62.4,
+  "aubio_modes": []
+ },
+ {
+  "start": 181,
+  "end": 181,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 17,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.548,
+  "pyin_median": 66.1,
+  "pyin_p25": 65.0,
+  "pyin_p75": 67.3,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 14
+   },
+   {
+    "center_hz": 80,
+    "frames": 3
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 66.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 182,
+  "end": 183,
+  "speaker": "spk_0",
+  "text": "Let it drift, let it go.",
+  "pyin_voiced_frames": 30,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 0.968,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.0,
+  "pyin_p75": 65.8,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 26
+   },
+   {
+    "center_hz": 80,
+    "frames": 4
+   }
+  ],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 183,
+  "end": 184,
+  "speaker": "spk_1",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 31,
+  "pyin_total_frames": 31,
+  "pyin_coverage": 1.0,
+  "pyin_median": 68.9,
+  "pyin_p25": 65.6,
+  "pyin_p75": 87.3,
+  "pyin_bands": {
+   "bass_lt80": 0.613,
+   "cat_97_160": 0.032,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 19
+   },
+   {
+    "center_hz": 90,
+    "frames": 11
+   }
+  ],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 184,
+  "end": 184,
+  "speaker": "spk_0",
+  "text": "We're good where we are.",
+  "pyin_voiced_frames": 29,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 0.906,
+  "pyin_median": 65.8,
+  "pyin_p25": 65.4,
+  "pyin_p75": 68.9,
+  "pyin_bands": {
+   "bass_lt80": 0.828,
+   "cat_97_160": 0.069,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 23
+   },
+   {
+    "center_hz": 100,
+    "frames": 2
+   }
+  ],
+  "aubio_voiced_frames": 1,
+  "aubio_median": 70.7,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 187,
+  "end": 195,
+  "speaker": "spk_1",
+  "text": "Just two small sparks. This is now, this is now, this is now.",
+  "pyin_voiced_frames": 144,
+  "pyin_total_frames": 250,
+  "pyin_coverage": 0.576,
+  "pyin_median": 65.4,
+  "pyin_p25": 65.4,
+  "pyin_p75": 66.5,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 143
+   },
+   {
+    "center_hz": 80,
+    "frames": 1
+   }
+  ],
+  "aubio_voiced_frames": 12,
+  "aubio_median": 91.0,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 5
+   },
+   {
+    "center_hz": 120,
+    "frames": 2
+   }
+  ]
+ },
+ {
+  "start": 196,
+  "end": 197,
+  "speaker": "spk_2",
+  "text": "Easy now, easy now.",
+  "pyin_voiced_frames": 32,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 1.0,
+  "pyin_median": 69.9,
+  "pyin_p25": 65.4,
+  "pyin_p75": 79.0,
+  "pyin_bands": {
+   "bass_lt80": 0.75,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 18
+   },
+   {
+    "center_hz": 80,
+    "frames": 10
+   }
+  ],
+  "aubio_voiced_frames": 3,
+  "aubio_median": 68.1,
+  "aubio_modes": [
+   {
+    "center_hz": 70,
+    "frames": 1
+   },
+   {
+    "center_hz": 100,
+    "frames": 1
+   }
+  ]
+ },
+ {
+  "start": 200,
+  "end": 200,
+  "speaker": "spk_0",
+  "text": "Till the morning comes.",
+  "pyin_voiced_frames": 32,
+  "pyin_total_frames": 32,
+  "pyin_coverage": 1.0,
+  "pyin_median": 67.5,
+  "pyin_p25": 65.4,
+  "pyin_p75": 77.4,
+  "pyin_bands": {
+   "bass_lt80": 1.0,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 23
+   },
+   {
+    "center_hz": 80,
+    "frames": 9
+   }
+  ],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ },
+ {
+  "start": 204,
+  "end": 206,
+  "speaker": "spk_1",
+  "text": "Till the morning comes.",
+  "pyin_voiced_frames": 43,
+  "pyin_total_frames": 63,
+  "pyin_coverage": 0.683,
+  "pyin_median": 69.7,
+  "pyin_p25": 68.9,
+  "pyin_p75": 77.3,
+  "pyin_bands": {
+   "bass_lt80": 0.93,
+   "cat_97_160": 0.0,
+   "mid_160_200": 0.0,
+   "girl_200_330": 0.0,
+   "high_gt330": 0.0
+  },
+  "pyin_modes": [
+   {
+    "center_hz": 70,
+    "frames": 23
+   },
+   {
+    "center_hz": 80,
+    "frames": 19
+   }
+  ],
+  "aubio_voiced_frames": 0,
+  "aubio_median": null,
+  "aubio_modes": []
+ }
+]

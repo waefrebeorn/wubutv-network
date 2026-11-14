@@ -1,0 +1,43 @@
+{
+ "take": "media-generation-mv11-r2-s12-t1-0-c4b174aa-31eb-4500-8808-709aab1516f7.mp4",
+ "scene": "S12",
+ "take_no": "1",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "65db8fdab498",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 2.5,
+   "md5": "9fd7b628b472",
+   "mean_abs_diff_from_prev": 51.19
+  },
+  {
+   "t": 5.0,
+   "md5": "d77df0233978",
+   "mean_abs_diff_from_prev": 60.28
+  },
+  {
+   "t": 6.02,
+   "md5": "f95aeb20360a",
+   "mean_abs_diff_from_prev": 34.14
+  },
+  {
+   "t": 7.5,
+   "md5": "65ea710594fb",
+   "mean_abs_diff_from_prev": 34.82
+  },
+  {
+   "t": 9.5,
+   "md5": "90969fb26219",
+   "mean_abs_diff_from_prev": 33.54
+  }
+ ],
+ "frames_distinct": true
+}

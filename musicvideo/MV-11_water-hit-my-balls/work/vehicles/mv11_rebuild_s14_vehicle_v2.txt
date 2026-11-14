@@ -1,0 +1,45 @@
+MV-11 REBUILD S14 t2 — "Splash Three" (Hook 2 — the splash goes VERTICAL) — CONTINUITY volley 4
+Song window: 86.66–94.66 (8.00s slot). Scene: H2-C. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN (J13) — from the S13 t2 take's slot-end frame at 8.00s.
+RE-FIRE AXIS (t1 verdict): FRAMING LOCK — t1's column landed but the
+camera pushed in tight on it (bowl out of frame, duck INVISIBLE 2–7s,
+lamp jumped dome→sconce mid-take). Per the S11 lesson, only the IMAGES
+move the morph: the end ref is REDESIGNED WIDER (v2 — whole toilet +
+full bowl in frame, column rising from the bowl, duck visible in the
+foreground) and the vehicle now LOCKS the framing to the first image.
+End ref: s14_end_v2 (generated this volley, conditioned on the S13
+slot-end frame — same toilet-bowl room, NEVER a bathtub/sink/door/plant).
+Old s14_end (md5 c5c9c47e…) RETIRED — its tight column framing carried
+the t1 push-in.
+Lines: "When I poop it splashes" 87.36 (take ~0.70s) + "Balls balls"
+89.40–90.66 (take ~2.74–4.00s) + "Water hits my balls" 90.98 (take ~4.32s).
+Kinetic in post: CASCADE on "Balls balls".
+Images:
+[1] work/stills/stack/chain_s13_last.png (md5 dca4168b5eda964fa816840dbbeafb11 — S13 t2 take's frame at 8.00s, its slot end; verified identical to the QC frame)
+[2] work/stills/stack/s14_end_v2_1248x704.webp (md5 c701a5bf9d219c6299caf5dac500b9c2 — whole toilet + full bowl in frame, fountain column rising from the bowl, duck visible in the foreground riding the rings, same room; generated volley 4, read back PASS)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.05/0.51/0.96/1.42/1.87/2.33/2.79/3.24/3.70/4.15/4.61/5.07/5.52/5.98/
+6.43/6.89/7.34/7.80.
+Camera lesson: FRAMING LOCK — the camera stays at EXACTLY the first
+image's distance for the whole take. It NEVER moves closer, NEVER pushes
+in, NEVER tilts up with the column. The column rises INSIDE the wide
+frame; the bowl stays fully visible at all times; the duck stays visible
+in the foreground. t1's push-in is the failure to avoid.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, water dripping over the rim onto the floor. A yellow rubber duck with an orange beak bobs small in the centre of the bowl, rings spreading around it. Wide 16:9 video, exactly 8 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the rings settling, the water calming after the last splash, the duck bobbing. The picture is already moving at frame 0 — the water is rippling, the duck is bobbing, droplets are still falling. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s13_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full eight seconds, timed to a driving four-on-the-floor groove at 131.5 BPM, and the motion NEVER stops: from 0 to 3 seconds the rings keep spreading and then the splash goes VERTICAL — a tall column of cobalt water shoots straight up from the bowl on the "splashes" line, droplets hanging at the top, the duck bobbing hard below it, the whole bowl and the whole toilet staying fully visible in the wide frame. From 3 to 6.5 seconds the column stands at full height and droplets RAIN back down continuously — drop after drop after drop, each landing blooming a fresh ring where it hits, the duck riding the rings in the foreground, the lamp light catching every falling droplet, the teal tiles flashing gold on every beat. From 6.5 to 8 seconds the rain falls thick and the column's spray settles into wide rings, the duck bobbing in the centre, the water never still. The camera holds this exact wide framing for the full eight seconds — it does NOT push in, it does NOT tilt up with the column, the bowl stays fully visible at all times, the duck stays visible in the foreground, the water never still. No people, no singing, no mouths visible anywhere. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s14_end_v2_1248x704.webp
+
+[5] TEXT:
+End on the second image: the whole toilet and the full bowl in frame, the fountain column rising from the bowl, the yellow duck visible in the foreground riding the rings, droplets raining back down, lamp light on every droplet, ready for the reverse splash of the next scene.
+
+NOTES: The framing lock is the scene — the camera must NEVER move closer than the first image; the bowl stays fully visible at all times and the duck stays visible in the foreground. The column rises INSIDE the wide frame. Assembly uses the full 8.00s slot. QC focus: motion audit must show 0 near-still runs ≥12f; column visibly up by 2s and raining by 4s; rings blooming where drops land; the duck VISIBLE in every sampled frame and never filling more than ~20% of frame height; ONE duck throughout; room identity = the SAME toilet-bowl room as the chain frame (white porcelain toilet, teal tiles, vermilion towel, dome lamp, window — NO bathtub, NO sink, NO door, NO plant).

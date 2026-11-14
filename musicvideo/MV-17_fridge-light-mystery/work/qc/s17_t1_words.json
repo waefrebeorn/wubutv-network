@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv17_s17_t1.mp4",
+ "words": [
+  {
+   "w": "Someone's",
+   "start": 0.0,
+   "end": 0.92,
+   "p": 0.774
+  },
+  {
+   "w": "turning",
+   "start": 0.92,
+   "end": 1.28,
+   "p": 0.994
+  },
+  {
+   "w": "it",
+   "start": 1.28,
+   "end": 1.7,
+   "p": 0.998
+  },
+  {
+   "w": "off",
+   "start": 1.7,
+   "end": 1.96,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 1.96,
+   "end": 2.16,
+   "p": 0.97
+  },
+  {
+   "w": "second",
+   "start": 2.16,
+   "end": 2.62,
+   "p": 0.998
+  },
+  {
+   "w": "I",
+   "start": 2.62,
+   "end": 3.02,
+   "p": 0.971
+  },
+  {
+   "w": "walk",
+   "start": 3.02,
+   "end": 3.5,
+   "p": 0.998
+  },
+  {
+   "w": "away",
+   "start": 3.5,
+   "end": 3.98,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.98,
+   "text": "Someone's turning it off the second I walk away",
+   "avg_logprob": -0.281
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+[Script Info]
+Title: WuBuTV kinetic type (kinetic_ass.py)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bone,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Cadmium,Noto Sans,54,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Dim,Noto Sans,54,&H64DCEEF4,&H64DCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Draw,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+Style: ClipTitle,Noto Sans,30,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.45,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-163,610,97,610,0,220)\p1}m 0 0 l 1086 0 l 1086 7 l 0 7{\p0}
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(96,576)\fad(120,150)}take
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(195,576)\fad(120,150)}what's
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(333,576)\fad(120,150)}already
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(491,576)\fad(120,150)}there
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(610,576)\fad(120,150)}and
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(689,576)\fad(120,150)}give
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(788,576)\fad(120,150)}it
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(847,576)\fad(120,150)}back
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(946,576)\fad(120,150)}with
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(1045,576)\fad(120,150)}a
+Dialogue: 1,0:00:00.00,0:00:00.45,Dim,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(1084,576)\fad(120,150)}title
+Dialogue: 2,0:00:00.00,0:00:00.12,Cadmium,,0,0,0,,{\fnNoto Sans Mono\fs38\an4\pos(1084,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}title
+Dialogue: 0,0:00:01.24,0:00:04.85,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-111,610,149,610,0,220)\p1}m 0 0 l 982 0 l 982 7 l 0 7{\p0}
+Dialogue: 2,0:00:01.24,0:00:02.00,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:02.00,0:00:02.40,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:02.40,0:00:02.72,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:02.72,0:00:03.04,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:03.04,0:00:03.32,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}keep
+Dialogue: 2,0:00:03.32,0:00:03.56,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}the
+Dialogue: 2,0:00:03.56,0:00:03.92,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}work
+Dialogue: 2,0:00:03.92,0:00:04.80,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}alive
+Dialogue: 0,0:00:06.78,0:00:09.68,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-111,610,149,610,0,220)\p1}m 0 0 l 982 0 l 982 7 l 0 7{\p0}
+Dialogue: 2,0:00:06.78,0:00:07.22,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:07.22,0:00:07.54,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:07.54,0:00:07.94,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:07.94,0:00:08.30,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:08.30,0:00:08.48,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}help
+Dialogue: 2,0:00:08.48,0:00:08.66,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}me
+Dialogue: 2,0:00:08.66,0:00:09.06,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}stay
+Dialogue: 2,0:00:09.06,0:00:09.68,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}online
+Dialogue: 0,0:00:09.70,0:00:14.78,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-167,610,93,610,0,220)\p1}m 0 0 l 1095 0 l 1095 7 l 0 7{\p0}
+Dialogue: 2,0:00:09.70,0:00:10.82,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:10.82,0:00:12.84,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:12.84,0:00:13.10,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:13.10,0:00:13.42,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:13.42,0:00:13.58,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}don't
+Dialogue: 2,0:00:13.58,0:00:14.24,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}overthink
+Dialogue: 2,0:00:14.24,0:00:14.46,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}the
+Dialogue: 2,0:00:14.46,0:00:14.78,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}cut
+Dialogue: 0,0:00:14.80,0:00:17.46,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-97,610,163,610,0,220)\p1}m 0 0 l 954 0 l 954 7 l 0 7{\p0}
+Dialogue: 2,0:00:14.80,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-257,576,162,576,0,200)\fad(60,0)}Just
+Dialogue: 2,0:00:15.40,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(835,576,303,576,0,200)\fad(60,0)}find
+Dialogue: 2,0:00:15.78,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(23,576,443,576,0,200)\fad(60,0)}the
+Dialogue: 2,0:00:15.96,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1144,576,555,576,0,200)\fad(60,0)}moment
+Dialogue: 2,0:00:16.46,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(332,576,752,576,0,200)\fad(60,0)}and
+Dialogue: 2,0:00:16.78,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1368,576,864,576,0,200)\fad(60,0)}put
+Dialogue: 2,0:00:16.98,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(556,576,976,576,0,200)\fad(60,0)}it
+Dialogue: 2,0:00:17.18,0:00:17.46,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1537,576,1061,576,0,200)\fad(60,0)}up
+Dialogue: 0,0:00:17.48,0:00:19.15,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(268,610,528,610,0,220)\p1}m 0 0 l 224 0 l 224 7 l 0 7{\p0}
+Dialogue: 2,0:00:17.48,0:00:17.72,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}No
+Dialogue: 2,0:00:17.72,0:00:18.04,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}no
+Dialogue: 2,0:00:18.04,0:00:19.10,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}no
+Dialogue: 0,0:00:21.96,0:00:24.70,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:00:21.96,0:00:24.70,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(274,576)\fad(120,150)}I'm
+Dialogue: 1,0:00:21.96,0:00:24.70,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(387,576)\fad(120,150)}tired
+Dialogue: 1,0:00:21.96,0:00:24.70,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(555,576)\fad(120,150)}of
+Dialogue: 1,0:00:21.96,0:00:24.70,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(640,576)\fad(120,150)}explaining
+Dialogue: 1,0:00:21.96,0:00:24.70,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(948,576)\fad(120,150)}it
+Dialogue: 2,0:00:21.96,0:00:22.76,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(274,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}I'm
+Dialogue: 2,0:00:22.64,0:00:23.34,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(387,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}tired
+Dialogue: 2,0:00:23.22,0:00:23.74,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(555,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}of
+Dialogue: 2,0:00:23.62,0:00:24.50,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(640,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}explaining
+Dialogue: 2,0:00:24.38,0:00:24.70,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(948,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}it
+Dialogue: 0,0:00:24.72,0:00:26.88,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(44,610,304,610,0,220)\p1}m 0 0 l 673 0 l 673 7 l 0 7{\p0}
+Dialogue: 1,0:00:24.72,0:00:26.88,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(303,576)\fad(120,150)}tired
+Dialogue: 1,0:00:24.72,0:00:26.88,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(471,576)\fad(120,150)}of
+Dialogue: 1,0:00:24.72,0:00:26.88,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(555,576)\fad(120,150)}spelling
+Dialogue: 1,0:00:24.72,0:00:26.88,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(808,576)\fad(120,150)}it
+Dialogue: 1,0:00:24.72,0:00:26.88,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(892,576)\fad(120,150)}out
+Dialogue: 2,0:00:24.72,0:00:25.54,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(303,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}tired
+Dialogue: 2,0:00:25.42,0:00:26.04,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(471,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}of
+Dialogue: 2,0:00:25.92,0:00:26.38,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(555,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}spelling
+Dialogue: 2,0:00:26.26,0:00:26.66,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(808,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}it
+Dialogue: 2,0:00:26.54,0:00:26.88,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(892,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}out
+Dialogue: 0,0:00:26.90,0:00:29.68,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(100,610,360,610,0,220)\p1}m 0 0 l 561 0 l 561 7 l 0 7{\p0}
+Dialogue: 1,0:00:26.90,0:00:29.68,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(359,576)\fad(120,150)}if
+Dialogue: 1,0:00:26.90,0:00:29.68,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(443,576)\fad(120,150)}you
+Dialogue: 1,0:00:26.90,0:00:29.68,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(555,576)\fad(120,150)}wanna
+Dialogue: 1,0:00:26.90,0:00:29.68,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(724,576)\fad(120,150)}help
+Dialogue: 1,0:00:26.90,0:00:29.68,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(864,576)\fad(120,150)}me
+Dialogue: 2,0:00:26.90,0:00:28.32,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(359,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}if
+Dialogue: 2,0:00:28.20,0:00:28.48,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(443,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}you
+Dialogue: 2,0:00:28.36,0:00:29.00,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(555,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}wanna
+Dialogue: 2,0:00:28.88,0:00:29.52,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(724,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}help
+Dialogue: 2,0:00:29.40,0:00:29.68,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(864,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}me
+Dialogue: 0,0:00:29.70,0:00:32.67,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(29,610,289,610,0,220)\p1}m 0 0 l 702 0 l 702 7 l 0 7{\p0}
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(288,576)\fad(120,150)}this
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(429,576)\fad(120,150)}is
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(513,576)\fad(120,150)}how
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(625,576)\fad(120,150)}you
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(738,576)\fad(120,150)}do
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(822,576)\fad(120,150)}it
+Dialogue: 1,0:00:29.70,0:00:32.67,Dim,,0,0,0,,{\fnNoto Sans Mono\an4\pos(906,576)\fad(120,150)}now
+Dialogue: 2,0:00:29.70,0:00:30.24,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(288,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}this
+Dialogue: 2,0:00:30.12,0:00:30.68,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(429,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}is
+Dialogue: 2,0:00:30.56,0:00:31.02,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(513,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}how
+Dialogue: 2,0:00:30.90,0:00:31.28,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(625,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}you
+Dialogue: 2,0:00:31.16,0:00:31.62,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(738,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}do
+Dialogue: 2,0:00:31.50,0:00:31.88,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(822,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}it
+Dialogue: 2,0:00:31.76,0:00:32.34,Cadmium,,0,0,0,,{\fnNoto Sans Mono\an4\pos(906,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}now
+Dialogue: 0,0:00:35.62,0:00:38.54,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-111,610,149,610,0,220)\p1}m 0 0 l 982 0 l 982 7 l 0 7{\p0}
+Dialogue: 2,0:00:35.62,0:00:36.14,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:36.14,0:00:36.46,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:36.46,0:00:36.86,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:36.86,0:00:37.18,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:37.18,0:00:37.44,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}keep
+Dialogue: 2,0:00:37.44,0:00:37.68,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}the
+Dialogue: 2,0:00:37.68,0:00:38.04,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}work
+Dialogue: 2,0:00:38.04,0:00:38.54,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}alive
+Dialogue: 0,0:00:38.56,0:00:40.19,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 2,0:00:38.56,0:00:39.10,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:39.10,0:00:39.34,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:39.34,0:00:39.52,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:39.52,0:00:40.14,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 0,0:00:40.86,0:00:44.47,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-111,610,149,610,0,220)\p1}m 0 0 l 982 0 l 982 7 l 0 7{\p0}
+Dialogue: 2,0:00:40.86,0:00:41.38,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:41.38,0:00:41.52,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:41.52,0:00:42.12,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:42.12,0:00:42.34,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:42.34,0:00:42.62,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}help
+Dialogue: 2,0:00:42.62,0:00:42.84,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}me
+Dialogue: 2,0:00:42.84,0:00:43.18,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}stay
+Dialogue: 2,0:00:43.18,0:00:44.42,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}online
+Dialogue: 0,0:00:46.12,0:00:48.98,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-167,610,93,610,0,220)\p1}m 0 0 l 1095 0 l 1095 7 l 0 7{\p0}
+Dialogue: 2,0:00:46.12,0:00:46.64,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Clip
+Dialogue: 2,0:00:46.64,0:00:47.04,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:47.04,0:00:47.32,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}post
+Dialogue: 2,0:00:47.32,0:00:47.54,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}it
+Dialogue: 2,0:00:47.54,0:00:47.78,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}don't
+Dialogue: 2,0:00:47.78,0:00:48.44,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}overthink
+Dialogue: 2,0:00:48.44,0:00:48.66,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}the
+Dialogue: 2,0:00:48.66,0:00:48.98,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}cut
+Dialogue: 0,0:00:49.00,0:00:52.11,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-41,610,219,610,0,220)\p1}m 0 0 l 842 0 l 842 7 l 0 7{\p0}
+Dialogue: 2,0:00:49.00,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-201,576,218,576,0,200)\fad(60,0)}Just
+Dialogue: 2,0:00:49.56,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(891,576,359,576,0,200)\fad(60,0)}find
+Dialogue: 2,0:00:50.14,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(79,576,499,576,0,200)\fad(60,0)}moment
+Dialogue: 2,0:00:50.68,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1200,576,696,576,0,200)\fad(60,0)}and
+Dialogue: 2,0:00:50.98,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(388,576,808,576,0,200)\fad(60,0)}put
+Dialogue: 2,0:00:51.20,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1396,576,920,576,0,200)\fad(60,0)}it
+Dialogue: 2,0:00:51.38,0:00:52.11,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(585,576,1005,576,0,200)\fad(60,0)}up
+Dialogue: 0,0:00:00.00,0:00:01.53,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:01.53,0:00:02.83,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:02.83,0:00:04.40,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:04.40,0:00:06.78,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT / POST IT
+Dialogue: 0,0:00:06.78,0:00:08.08,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT / POST IT
+Dialogue: 0,0:00:08.08,0:00:09.70,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:09.70,0:00:11.00,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT / POST IT
+Dialogue: 0,0:00:11.00,0:00:13.36,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT / POST IT
+Dialogue: 0,0:00:13.36,0:00:14.80,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT / POST IT
+Dialogue: 0,0:00:14.80,0:00:17.48,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:17.48,0:00:21.96,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:21.96,0:00:24.72,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:24.72,0:00:26.90,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:26.90,0:00:29.70,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT / POST IT
+Dialogue: 0,0:00:29.70,0:00:32.22,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT / POST IT
+Dialogue: 0,0:00:32.22,0:00:35.62,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:35.62,0:00:36.92,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:36.92,0:00:38.56,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:38.56,0:00:41.15,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:41.15,0:00:44.02,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:44.02,0:00:46.12,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:46.12,0:00:47.42,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:47.42,0:00:49.00,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:49.00,0:00:51.66,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:51.66,0:00:56.01,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:56.01,0:01:01.20,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:01.20,0:01:06.39,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:06.39,0:01:11.58,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:11.58,0:01:14.18,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:14.18,0:01:16.77,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Display}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:16.77,0:01:19.36,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:19.36,0:01:21.96,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:01:21.96,0:01:25.06,ClipTitle,,0,0,0,,{\an1\pos(40,692)\fs30\fnNoto Sans Mono}CLIP IT POST IT KEEP THE WORK ALIVE
+Dialogue: 0,0:00:00.00,0:01:25.06,Bone,,0,0,0,,{\an3\pos(1252,692)\fs22\alpha&H80&}~ WuBu ~

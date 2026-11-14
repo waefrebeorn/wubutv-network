@@ -1,0 +1,57 @@
+MV-11 REBUILD S20 t1 — "Final Four" (the peak climb: everything at once) — CONTINUITY volley 5 (FINAL)
+Song window: 141.00–151.00 (10.00s slot). Scene: FH-D. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN from S19 t1 @10.00s (work/stills/stack/chain_s19_last.png,
+md5 c5f20bf20e1fd937a250213e254d55e8 — duck at the centre, glowing rings,
+gold room, rain falling).
+End ref: s20_end (generated this volley, conditioned on the S19 slot-end
+frame — a tall column rising from the bowl with gold spiral rings, arcs
+spilling over the rim, duck riding the crest at the very top, tiles
+flashing gold; read back PASS, md5 4973c5b145873a63a025524ce1523d92).
+Lines: "Water hits my balls" ~141.36 (take ~0.36) + "When I poop it
+splashes" ~145.40 (take ~4.40). Final Hook word times are anchor-level
+only — Whisper fell into a degenerate "water" loop 110.7–130.7, so motion
+is keyed to the BEAT GRID, not word times.
+Kinetic in post: SLAM on "Water" 141.36.
+Images:
+[1] work/stills/stack/chain_s19_last.png (md5 c5f20bf20e1fd937a250213e254d55e8)
+[2] work/stills/stack/s20_end_1248x704.webp (md5 4973c5b145873a63a025524ce1523d92 — read back PASS:
+same toilet-bowl room, tall column with gold spiral rings, arcs over the
+rim, duck at the crest, tiles flashing gold)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.07/0.53/0.98/1.44/1.90/2.35/2.81/3.27/3.72/4.18/4.64/5.09/5.55/6.01/
+6.46/6.92/7.38/7.83/8.29/8.75/9.20/9.66.
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The column climbs INSIDE the wide frame; the bowl
+stays fully visible at all times; the duck stays visible in the
+foreground.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, a toilet-paper holder on the left wall. Glowing gold rings are racing across the water and the floor puddle, the yellow rubber duck with an orange beak bobbing at the centre of the bowl, droplets raining in the lamp light, the room glowing gold. Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the duck at the centre, the glowing rings racing, the room glowing gold. The picture is already moving at frame 0 — the rings are racing, the droplets are falling. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s19_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full ten seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 3 seconds the water hits and the climb begins: on the first beat a tall column of cobalt water starts rising from the bowl, glowing gold rings spiralling around it, bright arcs spilling over the rim, the yellow duck riding the rising crest, the tiles flashing gold. From 3 to 7 seconds everything at once — the column climbing higher, rings racing across the water and the floor puddle, arcs streaming over the rim, droplets raining in the lamp light, the duck riding the crest at the top, the room glowing gold on every stab. From 7 to 10 seconds the column at its height, the duck riding the crest, arcs pouring over the rim into wide rings on the floor, the tiles flashing gold, ready for the peak. The camera holds this exact wide framing for the full ten seconds — it does NOT push in, it does NOT circle the duck, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s20_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: the tall column at its height with gold spiral rings, the yellow duck riding the crest at the very top, arcs pouring over the rim into wide glowing rings on the floor, the tiles flashing gold, ready for the visual peak.
+
+NOTES: S20 is the Final Hook's fourth scene — the PEAK CLIMB, everything
+at once, the run-up to S21's apex. The climb must READ: the column
+visibly TALLER at 7s than at 2s (the S17 lesson — escalation visible in
+the sampled frames).
+QC focus: the column visibly CLIMBING (taller at 7s than at 2s); the duck
+VISIBLE riding the crest in every sampled frame from 2s on, never
+filling more than ~20% of frame height; ONE duck throughout; framing
+HELD WIDE (bowl fully visible at all times); room identity = the SAME
+toilet-bowl room as the S19 slot end (white porcelain toilet, teal
+tiles, vermilion towel, dome lamp, window, toilet-paper holder — NO
+bathtub, NO sink, NO door, NO plant). Joint J19 is CHAIN: frame 0 must
+match chain_s19_last.png (same framing, lighting, subject). Assembly
+uses the full 10.00s slot.

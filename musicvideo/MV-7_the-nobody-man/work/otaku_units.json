@@ -1,0 +1,870 @@
+[
+ {
+  "unit": "U01",
+  "era": "A",
+  "song_in": 0.0,
+  "song_out": 4.97,
+  "sung_end": 4.97,
+  "lines": [
+   {
+    "ref": "I1a",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "I1b",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u01_vehicle.txt",
+  "volley": 1
+ },
+ {
+  "unit": "U02",
+  "era": "A",
+  "song_in": 4.97,
+  "song_out": 9.92,
+  "sung_end": 9.92,
+  "lines": [
+   {
+    "ref": "I1c",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "I1d",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u02_vehicle.txt",
+  "volley": 1
+ },
+ {
+  "unit": "U03",
+  "era": "A",
+  "song_in": 9.92,
+  "song_out": 14.4,
+  "sung_end": 14.4,
+  "lines": [
+   {
+    "ref": "I2a",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "I2b",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u03_vehicle.txt",
+  "volley": 1
+ },
+ {
+  "unit": "U04",
+  "era": "A",
+  "song_in": 14.4,
+  "song_out": 19.58,
+  "sung_end": 18.74,
+  "lines": [
+   {
+    "ref": "I2c",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u04_vehicle.txt",
+  "volley": 1
+ },
+ {
+  "unit": "U05",
+  "era": "A",
+  "song_in": 19.58,
+  "song_out": 24.62,
+  "sung_end": 24.62,
+  "lines": [
+   {
+    "ref": "V1.1",
+    "lyric": "I got a profile, got a pile"
+   },
+   {
+    "ref": "V1.2",
+    "lyric": "Got a thousand posts in a folder file"
+   }
+  ],
+  "lyric": "I got a profile, got a pile / Got a thousand posts in a folder file",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u05_vehicle.txt",
+  "volley": 1
+ },
+ {
+  "unit": "U06",
+  "era": "A",
+  "song_in": 24.62,
+  "song_out": 29.42,
+  "sung_end": 29.42,
+  "lines": [
+   {
+    "ref": "V1.3",
+    "lyric": "Old meme face and a busted grin"
+   },
+   {
+    "ref": "V1.4",
+    "lyric": "Been here so long, I could sign back in"
+   }
+  ],
+  "lyric": "Old meme face and a busted grin / Been here so long, I could sign back in",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u06_vehicle.txt",
+  "volley": 1
+ },
+ {
+  "unit": "U07",
+  "era": "A",
+  "song_in": 29.42,
+  "song_out": 34.02,
+  "sung_end": 34.02,
+  "lines": [
+   {
+    "ref": "V1.5",
+    "lyric": "Made a joke at a quarter past eight"
+   },
+   {
+    "ref": "V1.6",
+    "lyric": "Watched it sit there while I wait"
+   }
+  ],
+  "lyric": "Made a joke at a quarter past eight / Watched it sit there while I wait",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u07_vehicle.txt",
+  "volley": 2
+ },
+ {
+  "unit": "U08",
+  "era": "A",
+  "song_in": 34.02,
+  "song_out": 38.6,
+  "sung_end": 38.6,
+  "lines": [
+   {
+    "ref": "PC1.1",
+    "lyric": "I kept clicking, kept sticking around"
+   },
+   {
+    "ref": "PC1.2",
+    "lyric": "Little by little, I learned the sound"
+   }
+  ],
+  "lyric": "I kept clicking, kept sticking around / Little by little, I learned the sound",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u08_vehicle.txt",
+  "volley": 2
+ },
+ {
+  "unit": "U09",
+  "era": "A",
+  "song_in": 38.6,
+  "song_out": 42.9,
+  "sung_end": 42.9,
+  "lines": [
+   {
+    "ref": "PC1.3",
+    "lyric": "Nobody noticing? Fine by me"
+   }
+  ],
+  "lyric": "Nobody noticing? Fine by me",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u09_vehicle.txt",
+  "volley": 2
+ },
+ {
+  "unit": "U10",
+  "era": "A",
+  "song_in": 42.9,
+  "song_out": 47.02,
+  "sung_end": 46.2,
+  "lines": [
+   {
+    "ref": "PC1.4",
+    "lyric": "I built my kingdom quietly"
+   }
+  ],
+  "lyric": "I built my kingdom quietly",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u10_vehicle.txt",
+  "volley": 2
+ },
+ {
+  "unit": "U11",
+  "era": "A",
+  "song_in": 47.02,
+  "song_out": 51.76,
+  "sung_end": 51.76,
+  "lines": [
+   {
+    "ref": "C1.1",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "C1.2",
+    "lyric": "Still here, still stand"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / Still here, still stand",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u11_vehicle.txt",
+  "volley": 2
+ },
+ {
+  "unit": "U12",
+  "era": "A",
+  "song_in": 51.76,
+  "song_out": 56.18,
+  "sung_end": 56.18,
+  "lines": [
+   {
+    "ref": "C1.3",
+    "lyric": "I post, I fade, I post again"
+   },
+   {
+    "ref": "C1.4",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I post, I fade, I post again / I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u12_vehicle.txt",
+  "volley": 2
+ },
+ {
+  "unit": "U13",
+  "era": "A",
+  "song_in": 56.18,
+  "song_out": 61.46,
+  "sung_end": 61.46,
+  "lines": [
+   {
+    "ref": "C1.5",
+    "lyric": "I got a thousand little sparks"
+   },
+   {
+    "ref": "C1.6",
+    "lyric": "Flicking in the dark"
+   }
+  ],
+  "lyric": "I got a thousand little sparks / Flicking in the dark",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u13_vehicle.txt",
+  "volley": 3
+ },
+ {
+  "unit": "U14",
+  "era": "A",
+  "song_in": 61.46,
+  "song_out": 63.72,
+  "sung_end": 63.72,
+  "lines": [
+   {
+    "ref": "C1.7",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u14_vehicle.txt",
+  "volley": 3
+ },
+ {
+  "unit": "U15",
+  "era": "A",
+  "song_in": 63.72,
+  "song_out": 67.8,
+  "sung_end": 67.8,
+  "lines": [
+   {
+    "ref": "C1.8",
+    "lyric": "Nobody Man, Nobody Man"
+   }
+  ],
+  "lyric": "Nobody Man, Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u15_vehicle.txt",
+  "volley": 3
+ },
+ {
+  "unit": "U16",
+  "era": "A",
+  "song_in": 67.8,
+  "song_out": 71.9,
+  "sung_end": 71.9,
+  "lines": [
+   {
+    "ref": "C1.Ta",
+    "lyric": "Nobody Man"
+   },
+   {
+    "ref": "C1.Tb",
+    "lyric": "Nobody Man"
+   }
+  ],
+  "lyric": "Nobody Man / Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u16_vehicle.txt",
+  "volley": 3
+ },
+ {
+  "unit": "U17",
+  "era": "A",
+  "song_in": 71.9,
+  "song_out": 75.84,
+  "sung_end": 75.84,
+  "lines": [
+   {
+    "ref": "C1.Tc",
+    "lyric": "Nobody Man"
+   },
+   {
+    "ref": "C1.Td",
+    "lyric": "Nobody Man"
+   }
+  ],
+  "lyric": "Nobody Man / Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraA.webp",
+  "vehicle": "otaku_vehicles/mv7o_u17_vehicle.txt",
+  "volley": 3
+ },
+ {
+  "unit": "U18",
+  "era": "B",
+  "song_in": 75.84,
+  "song_out": 80.58,
+  "sung_end": 80.58,
+  "lines": [
+   {
+    "ref": "V2.1",
+    "lyric": "I got drafts in the drawer like coins"
+   },
+   {
+    "ref": "V2.2",
+    "lyric": "Half-mad thoughts and a stack of joins"
+   }
+  ],
+  "lyric": "I got drafts in the drawer like coins / Half-mad thoughts and a stack of joins",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u18_vehicle.txt",
+  "volley": 3
+ },
+ {
+  "unit": "U19",
+  "era": "B",
+  "song_in": 80.58,
+  "song_out": 85.18,
+  "sung_end": 85.18,
+  "lines": [
+   {
+    "ref": "V2.3",
+    "lyric": "Tiny wins in a low-lit room"
+   },
+   {
+    "ref": "V2.4",
+    "lyric": "One more clip and one more zoom"
+   }
+  ],
+  "lyric": "Tiny wins in a low-lit room / One more clip and one more zoom",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u19_vehicle.txt",
+  "volley": 4
+ },
+ {
+  "unit": "U20",
+  "era": "B",
+  "song_in": 85.18,
+  "song_out": 89.92,
+  "sung_end": 89.92,
+  "lines": [
+   {
+    "ref": "V2.5",
+    "lyric": "Everybody chasing that giant shout"
+   },
+   {
+    "ref": "V2.6",
+    "lyric": "I got a small flame I won't put out"
+   }
+  ],
+  "lyric": "Everybody chasing that giant shout / I got a small flame I won't put out",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u20_vehicle.txt",
+  "volley": 4
+ },
+ {
+  "unit": "U21",
+  "era": "B",
+  "song_in": 89.92,
+  "song_out": 95.2,
+  "sung_end": 95.2,
+  "lines": [
+   {
+    "ref": "PC2.1",
+    "lyric": "I kept clicking, kept sticking around"
+   },
+   {
+    "ref": "PC2.2",
+    "lyric": "Little by little, I learned the sound"
+   }
+  ],
+  "lyric": "I kept clicking, kept sticking around / Little by little, I learned the sound",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u21_vehicle.txt",
+  "volley": 4
+ },
+ {
+  "unit": "U22",
+  "era": "B",
+  "song_in": 95.2,
+  "song_out": 99.82,
+  "sung_end": 99.82,
+  "lines": [
+   {
+    "ref": "PC2.3",
+    "lyric": "No one crowned me, no one had to"
+   }
+  ],
+  "lyric": "No one crowned me, no one had to",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u22_vehicle.txt",
+  "volley": 4
+ },
+ {
+  "unit": "U23",
+  "era": "B",
+  "song_in": 99.82,
+  "song_out": 103.36,
+  "sung_end": 103.36,
+  "lines": [
+   {
+    "ref": "PC2.4",
+    "lyric": "I made this mess on purpose too"
+   }
+  ],
+  "lyric": "I made this mess on purpose too",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u23_vehicle.txt",
+  "volley": 4
+ },
+ {
+  "unit": "U24",
+  "era": "B",
+  "song_in": 103.36,
+  "song_out": 108.28,
+  "sung_end": 108.28,
+  "lines": [
+   {
+    "ref": "C2.1",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "C2.2",
+    "lyric": "Still here, still stand"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / Still here, still stand",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u24_vehicle.txt",
+  "volley": 4
+ },
+ {
+  "unit": "U25",
+  "era": "B",
+  "song_in": 108.28,
+  "song_out": 112.86,
+  "sung_end": 112.86,
+  "lines": [
+   {
+    "ref": "C2.3",
+    "lyric": "I post, I fade, I post again"
+   },
+   {
+    "ref": "C2.4",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I post, I fade, I post again / I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u25_vehicle.txt",
+  "volley": 5
+ },
+ {
+  "unit": "U26",
+  "era": "B",
+  "song_in": 112.86,
+  "song_out": 117.86,
+  "sung_end": 117.86,
+  "lines": [
+   {
+    "ref": "C2.5",
+    "lyric": "I got a thousand little sparks"
+   },
+   {
+    "ref": "C2.6",
+    "lyric": "Flicking in the dark"
+   }
+  ],
+  "lyric": "I got a thousand little sparks / Flicking in the dark",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u26_vehicle.txt",
+  "volley": 5
+ },
+ {
+  "unit": "U27",
+  "era": "B",
+  "song_in": 117.86,
+  "song_out": 123.26,
+  "sung_end": 123.26,
+  "lines": [
+   {
+    "ref": "C2.7",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "C2.8",
+    "lyric": "Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u27_vehicle.txt",
+  "volley": 5
+ },
+ {
+  "unit": "U28",
+  "era": "B",
+  "song_in": 123.26,
+  "song_out": 128.1,
+  "sung_end": 128.1,
+  "lines": [
+   {
+    "ref": "B.1",
+    "lyric": "Call me lost, call me late"
+   },
+   {
+    "ref": "B.2",
+    "lyric": "Call me anything you wanna say"
+   }
+  ],
+  "lyric": "Call me lost, call me late / Call me anything you wanna say",
+  "tag": "MONTAGE",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u28_vehicle.txt",
+  "volley": 5
+ },
+ {
+  "unit": "U29",
+  "era": "B",
+  "song_in": 128.1,
+  "song_out": 132.58,
+  "sung_end": 132.58,
+  "lines": [
+   {
+    "ref": "B.3",
+    "lyric": "I got roots in the endless feed"
+   },
+   {
+    "ref": "B.4",
+    "lyric": "And every scar is a saved receipt"
+   }
+  ],
+  "lyric": "I got roots in the endless feed / And every scar is a saved receipt",
+  "tag": "MONTAGE",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u29_vehicle.txt",
+  "volley": 5
+ },
+ {
+  "unit": "U30",
+  "era": "B",
+  "song_in": 132.58,
+  "song_out": 137.02,
+  "sung_end": 137.02,
+  "lines": [
+   {
+    "ref": "B.5",
+    "lyric": "If fame won't call, then let it pass"
+   }
+  ],
+  "lyric": "If fame won't call, then let it pass",
+  "tag": "MONTAGE",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u30_vehicle.txt",
+  "volley": 5
+ },
+ {
+  "unit": "U31",
+  "era": "B",
+  "song_in": 137.02,
+  "song_out": 143.4,
+  "sung_end": 141.44,
+  "lines": [
+   {
+    "ref": "B.6",
+    "lyric": "I'm the joke that lasts and lasts"
+   }
+  ],
+  "lyric": "I'm the joke that lasts and lasts",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraB.webp",
+  "vehicle": "otaku_vehicles/mv7o_u31_vehicle.txt",
+  "volley": 6
+ },
+ {
+  "unit": "U32",
+  "era": "C",
+  "song_in": 143.4,
+  "song_out": 148.24,
+  "sung_end": 148.24,
+  "lines": [
+   {
+    "ref": "FC.1",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "FC.2",
+    "lyric": "Still here, still stand"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / Still here, still stand",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u32_vehicle.txt",
+  "volley": 6
+ },
+ {
+  "unit": "U33",
+  "era": "C",
+  "song_in": 148.24,
+  "song_out": 152.88,
+  "sung_end": 152.88,
+  "lines": [
+   {
+    "ref": "FC.3",
+    "lyric": "I post, I fade, I post again"
+   },
+   {
+    "ref": "FC.4",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I post, I fade, I post again / I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u33_vehicle.txt",
+  "volley": 6
+ },
+ {
+  "unit": "U34",
+  "era": "C",
+  "song_in": 152.88,
+  "song_out": 157.84,
+  "sung_end": 157.84,
+  "lines": [
+   {
+    "ref": "FC.5",
+    "lyric": "I got a thousand little sparks"
+   },
+   {
+    "ref": "FC.6",
+    "lyric": "Flicking in the dark"
+   }
+  ],
+  "lyric": "I got a thousand little sparks / Flicking in the dark",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u34_vehicle.txt",
+  "volley": 6
+ },
+ {
+  "unit": "U35",
+  "era": "C",
+  "song_in": 157.84,
+  "song_out": 160.02,
+  "sung_end": 160.02,
+  "lines": [
+   {
+    "ref": "FC.7",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u35_vehicle.txt",
+  "volley": 6
+ },
+ {
+  "unit": "U36",
+  "era": "C",
+  "song_in": 160.02,
+  "song_out": 164.16,
+  "sung_end": 164.16,
+  "lines": [
+   {
+    "ref": "FC.8",
+    "lyric": "Nobody Man"
+   }
+  ],
+  "lyric": "Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u36_vehicle.txt",
+  "volley": 6
+ },
+ {
+  "unit": "U37",
+  "era": "C",
+  "song_in": 164.16,
+  "song_out": 168.16,
+  "sung_end": 168.16,
+  "lines": [
+   {
+    "ref": "FC.9",
+    "lyric": "I'm The Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u37_vehicle.txt",
+  "volley": 7
+ },
+ {
+  "unit": "U38",
+  "era": "C",
+  "song_in": 168.16,
+  "song_out": 173.3,
+  "sung_end": 173.3,
+  "lines": [
+   {
+    "ref": "FC.10",
+    "lyric": "Yeah, I turn the small things grand"
+   }
+  ],
+  "lyric": "Yeah, I turn the small things grand",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u38_vehicle.txt",
+  "volley": 7
+ },
+ {
+  "unit": "U39",
+  "era": "C",
+  "song_in": 173.3,
+  "song_out": 178.3,
+  "sung_end": 178.3,
+  "lines": [
+   {
+    "ref": "FC.Ta",
+    "lyric": "I'm The Nobody Man"
+   },
+   {
+    "ref": "FC.Tb",
+    "lyric": "Nobody Man"
+   }
+  ],
+  "lyric": "I'm The Nobody Man / Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 5,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u39_vehicle.txt",
+  "volley": 7
+ },
+ {
+  "unit": "U40",
+  "era": "C",
+  "song_in": 178.3,
+  "song_out": 187.2,
+  "sung_end": 183.24,
+  "lines": [
+   {
+    "ref": "FC.Tc",
+    "lyric": "Nobody Man"
+   },
+   {
+    "ref": "FC.Td",
+    "lyric": "Nobody Man"
+   }
+  ],
+  "lyric": "Nobody Man / Nobody Man",
+  "tag": "SINGING",
+  "dur_req": 10,
+  "still": "refs/otaku_eraC.webp",
+  "vehicle": "otaku_vehicles/mv7o_u40_vehicle.txt",
+  "volley": 7
+ }
+]

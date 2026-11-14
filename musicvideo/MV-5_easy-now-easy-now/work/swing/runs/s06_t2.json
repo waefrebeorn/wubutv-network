@@ -1,0 +1,193 @@
+{
+ "take": "mv5_s06_t2.mp4",
+ "take_duration_s": 5.035,
+ "prompted_line": "Yeah, they already understand",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 44.58-47.76",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Yeah,",
+    0.0,
+    0.54
+   ],
+   [
+    "they",
+    0.76,
+    0.98
+   ],
+   [
+    "already",
+    0.98,
+    1.44
+   ],
+   [
+    "understand.",
+    1.44,
+    2.64
+   ]
+  ],
+  "prompted": [
+   [
+    "Yeah,",
+    0.0,
+    0.54
+   ],
+   [
+    "they",
+    0.76,
+    0.98
+   ],
+   [
+    "already",
+    0.98,
+    1.44
+   ],
+   [
+    "understand",
+    1.44,
+    2.6
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.798,
+ "words": [
+  {
+   "song_word": "they",
+   "song_start": 44.58,
+   "song_end": 44.82,
+   "take_word": "they",
+   "take_start": 0.76,
+   "take_end": 0.98,
+   "source": "unprompted",
+   "raw_offset": -43.82,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.22,
+    "song_interval_s": 0.4,
+    "playback_speed": 0.55,
+    "setpts_factor": 1.8182,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "already",
+   "song_start": 44.98,
+   "song_end": 45.08,
+   "take_word": "already",
+   "take_start": 0.98,
+   "take_end": 1.44,
+   "source": "unprompted",
+   "raw_offset": -44.0,
+   "swing_offset": -0.18,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.1,
+    "playback_speed": 4.6,
+    "setpts_factor": 0.2174,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 4.60x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "understand",
+   "song_start": 45.08,
+   "song_end": 45.62,
+   "take_word": "understand.",
+   "take_start": 1.44,
+   "take_end": 2.64,
+   "source": "unprompted",
+   "raw_offset": -43.64,
+   "swing_offset": 0.18,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.2,
+    "song_interval_s": 0.54,
+    "playback_speed": 2.222,
+    "setpts_factor": 0.45,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Slow",
+   "song_start": 47.62,
+   "song_end": 47.96,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "word": "Yeah,",
+   "start": 0.0,
+   "end": 0.54,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "they",
+   "song_time": 44.58,
+   "take_time": 0.76
+  },
+  {
+   "word": "already",
+   "song_time": 44.98,
+   "take_time": 0.98
+  },
+  {
+   "word": "understand",
+   "song_time": 45.08,
+   "take_time": 1.44
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "Slow"
+   ],
+   "span_song": [
+    47.62,
+    47.96
+   ],
+   "cut_out_beat": 47.554,
+   "return_onset": null,
+   "return_beat": 48.135,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "WARPABLE": 3,
+  "BAD-missing": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

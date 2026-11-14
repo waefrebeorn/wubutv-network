@@ -1,0 +1,560 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/track_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 187.2,
+ "initial_prompt": true,
+ "vad_filter": false,
+ "beam_size": 5,
+ "n_words": 86,
+ "words": [
+  {
+   "word": "Wipe",
+   "start": 7.98,
+   "end": 9.38,
+   "prob": 0.124
+  },
+  {
+   "word": "and",
+   "start": 9.38,
+   "end": 9.62,
+   "prob": 0.321
+  },
+  {
+   "word": "it's",
+   "start": 9.62,
+   "end": 9.76,
+   "prob": 0.723
+  },
+  {
+   "word": "still",
+   "start": 9.76,
+   "end": 10.18,
+   "prob": 0.887
+  },
+  {
+   "word": "there.",
+   "start": 10.18,
+   "end": 10.76,
+   "prob": 0.001
+  },
+  {
+   "word": "Wipe",
+   "start": 11.78,
+   "end": 13.04,
+   "prob": 0.908
+  },
+  {
+   "word": "and",
+   "start": 13.04,
+   "end": 13.5,
+   "prob": 0.057
+  },
+  {
+   "word": "it's",
+   "start": 13.5,
+   "end": 13.74,
+   "prob": 0.986
+  },
+  {
+   "word": "still",
+   "start": 13.74,
+   "end": 14.06,
+   "prob": 0.996
+  },
+  {
+   "word": "there.",
+   "start": 14.06,
+   "end": 14.58,
+   "prob": 0.666
+  },
+  {
+   "word": "Paper",
+   "start": 15.34,
+   "end": 16.74,
+   "prob": 0.943
+  },
+  {
+   "word": "comes",
+   "start": 16.74,
+   "end": 17.5,
+   "prob": 0.962
+  },
+  {
+   "word": "back",
+   "start": 17.5,
+   "end": 17.98,
+   "prob": 0.99
+  },
+  {
+   "word": "dirty.",
+   "start": 17.98,
+   "end": 18.74,
+   "prob": 0.957
+  },
+  {
+   "word": "Brown",
+   "start": 20.94,
+   "end": 22.34,
+   "prob": 0.045
+  },
+  {
+   "word": "brown.",
+   "start": 22.34,
+   "end": 23.14,
+   "prob": 0.098
+  },
+  {
+   "word": "Wipe",
+   "start": 23.14,
+   "end": 25.06,
+   "prob": 0.291
+  },
+  {
+   "word": "and",
+   "start": 25.06,
+   "end": 25.3,
+   "prob": 0.076
+  },
+  {
+   "word": "it's",
+   "start": 25.3,
+   "end": 25.54,
+   "prob": 0.468
+  },
+  {
+   "word": "still",
+   "start": 25.54,
+   "end": 25.86,
+   "prob": 0.357
+  },
+  {
+   "word": "there.",
+   "start": 25.86,
+   "end": 26.52,
+   "prob": 0.0
+  },
+  {
+   "word": "Wipe",
+   "start": 28.44,
+   "end": 28.7,
+   "prob": 0.816
+  },
+  {
+   "word": "and",
+   "start": 28.7,
+   "end": 29.18,
+   "prob": 0.976
+  },
+  {
+   "word": "it's",
+   "start": 29.18,
+   "end": 29.36,
+   "prob": 0.965
+  },
+  {
+   "word": "still",
+   "start": 29.36,
+   "end": 29.78,
+   "prob": 0.995
+  },
+  {
+   "word": "there.",
+   "start": 29.78,
+   "end": 30.28,
+   "prob": 0.792
+  },
+  {
+   "word": "Phantom",
+   "start": 31.7,
+   "end": 32.2,
+   "prob": 0.002
+  },
+  {
+   "word": "residue",
+   "start": 32.2,
+   "end": 33.28,
+   "prob": 0.293
+  },
+  {
+   "word": "stays.",
+   "start": 33.28,
+   "end": 34.36,
+   "prob": 0.902
+  },
+  {
+   "word": "Wipe",
+   "start": 65.46,
+   "end": 66.66,
+   "prob": 0.394
+  },
+  {
+   "word": "and",
+   "start": 66.66,
+   "end": 67.86,
+   "prob": 0.045
+  },
+  {
+   "word": "it's",
+   "start": 67.86,
+   "end": 68.1,
+   "prob": 0.399
+  },
+  {
+   "word": "still",
+   "start": 68.1,
+   "end": 68.32,
+   "prob": 0.712
+  },
+  {
+   "word": "there.",
+   "start": 68.32,
+   "end": 68.92,
+   "prob": 0.0
+  },
+  {
+   "word": "Never",
+   "start": 69.12,
+   "end": 69.44,
+   "prob": 0.735
+  },
+  {
+   "word": "clean.",
+   "start": 69.44,
+   "end": 69.8,
+   "prob": 0.663
+  },
+  {
+   "word": "Endless",
+   "start": 77.74,
+   "end": 78.94,
+   "prob": 0.489
+  },
+  {
+   "word": "wipe",
+   "start": 78.94,
+   "end": 79.42,
+   "prob": 0.001
+  },
+  {
+   "word": "forever.",
+   "start": 79.42,
+   "end": 80.44,
+   "prob": 0.856
+  },
+  {
+   "word": "Brown",
+   "start": 80.44,
+   "end": 81.52,
+   "prob": 0.0
+  },
+  {
+   "word": "brown.",
+   "start": 81.52,
+   "end": 82.7,
+   "prob": 0.025
+  },
+  {
+   "word": "Still",
+   "start": 83.0,
+   "end": 83.34,
+   "prob": 0.011
+  },
+  {
+   "word": "brown.",
+   "start": 83.34,
+   "end": 84.24,
+   "prob": 0.212
+  },
+  {
+   "word": "Wipe",
+   "start": 85.96,
+   "end": 86.86,
+   "prob": 0.099
+  },
+  {
+   "word": "and",
+   "start": 86.86,
+   "end": 87.08,
+   "prob": 0.075
+  },
+  {
+   "word": "it's",
+   "start": 87.08,
+   "end": 87.3,
+   "prob": 0.406
+  },
+  {
+   "word": "still",
+   "start": 87.3,
+   "end": 87.72,
+   "prob": 0.923
+  },
+  {
+   "word": "there.",
+   "start": 87.72,
+   "end": 88.26,
+   "prob": 0.0
+  },
+  {
+   "word": "Wipe",
+   "start": 96.62,
+   "end": 97.84,
+   "prob": 0.547
+  },
+  {
+   "word": "and",
+   "start": 97.84,
+   "end": 98.24,
+   "prob": 0.972
+  },
+  {
+   "word": "it's",
+   "start": 98.24,
+   "end": 98.56,
+   "prob": 0.962
+  },
+  {
+   "word": "still",
+   "start": 98.56,
+   "end": 98.94,
+   "prob": 0.999
+  },
+  {
+   "word": "there.",
+   "start": 98.94,
+   "end": 99.62,
+   "prob": 0.457
+  },
+  {
+   "word": "Phantom",
+   "start": 102.54,
+   "end": 103.58,
+   "prob": 0.0
+  },
+  {
+   "word": "wiper",
+   "start": 103.58,
+   "end": 104.38,
+   "prob": 0.081
+  },
+  {
+   "word": "never",
+   "start": 104.38,
+   "end": 104.92,
+   "prob": 0.776
+  },
+  {
+   "word": "stops.",
+   "start": 104.92,
+   "end": 105.4,
+   "prob": 0.854
+  },
+  {
+   "word": "Wipe",
+   "start": 120.12,
+   "end": 121.16,
+   "prob": 0.139
+  },
+  {
+   "word": "and",
+   "start": 121.16,
+   "end": 121.66,
+   "prob": 0.019
+  },
+  {
+   "word": "it's",
+   "start": 121.66,
+   "end": 121.78,
+   "prob": 0.407
+  },
+  {
+   "word": "still",
+   "start": 121.78,
+   "end": 122.08,
+   "prob": 0.848
+  },
+  {
+   "word": "there.",
+   "start": 122.08,
+   "end": 122.72,
+   "prob": 0.0
+  },
+  {
+   "word": "Wipe",
+   "start": 124.3,
+   "end": 124.8,
+   "prob": 0.557
+  },
+  {
+   "word": "and",
+   "start": 124.8,
+   "end": 125.28,
+   "prob": 0.941
+  },
+  {
+   "word": "it's",
+   "start": 125.28,
+   "end": 125.54,
+   "prob": 0.982
+  },
+  {
+   "word": "still",
+   "start": 125.54,
+   "end": 125.86,
+   "prob": 0.999
+  },
+  {
+   "word": "there.",
+   "start": 125.86,
+   "end": 126.48,
+   "prob": 0.737
+  },
+  {
+   "word": "Wipe",
+   "start": 126.48,
+   "end": 126.48,
+   "prob": 0.662
+  },
+  {
+   "word": "and",
+   "start": 126.48,
+   "end": 126.48,
+   "prob": 0.925
+  },
+  {
+   "word": "it's",
+   "start": 126.48,
+   "end": 126.48,
+   "prob": 0.962
+  },
+  {
+   "word": "still",
+   "start": 126.48,
+   "end": 126.48,
+   "prob": 0.999
+  },
+  {
+   "word": "there.",
+   "start": 126.48,
+   "end": 126.48,
+   "prob": 0.893
+  },
+  {
+   "word": "Wipe",
+   "start": 127.68,
+   "end": 128.08,
+   "prob": 0.781
+  },
+  {
+   "word": "and",
+   "start": 128.08,
+   "end": 128.72,
+   "prob": 0.93
+  },
+  {
+   "word": "it's",
+   "start": 128.72,
+   "end": 129.42,
+   "prob": 0.966
+  },
+  {
+   "word": "still",
+   "start": 129.42,
+   "end": 129.48,
+   "prob": 0.997
+  },
+  {
+   "word": "there.",
+   "start": 129.48,
+   "end": 129.48,
+   "prob": 0.94
+  },
+  {
+   "word": "Wipe.",
+   "start": 129.48,
+   "end": 129.48,
+   "prob": 0.839
+  },
+  {
+   "word": "Turn",
+   "start": 157.72,
+   "end": 159.12,
+   "prob": 0.042
+  },
+  {
+   "word": "it.",
+   "start": 159.12,
+   "end": 159.46,
+   "prob": 0.75
+  },
+  {
+   "word": "Turn",
+   "start": 159.46,
+   "end": 159.46,
+   "prob": 0.383
+  },
+  {
+   "word": "it.",
+   "start": 159.46,
+   "end": 159.46,
+   "prob": 0.996
+  },
+  {
+   "word": "Brown",
+   "start": 159.46,
+   "end": 159.46,
+   "prob": 0.541
+  },
+  {
+   "word": "brown.",
+   "start": 159.46,
+   "end": 159.46,
+   "prob": 0.135
+  },
+  {
+   "word": "Brown",
+   "start": 159.46,
+   "end": 159.46,
+   "prob": 0.57
+  },
+  {
+   "word": "brown.",
+   "start": 159.46,
+   "end": 159.46,
+   "prob": 0.881
+  }
+ ],
+ "segments": [
+  {
+   "start": 7.98,
+   "end": 23.14,
+   "text": "Wipe and it's still there. Wipe and it's still there. Paper comes back dirty. Brown brown."
+  },
+  {
+   "start": 23.14,
+   "end": 34.36,
+   "text": "Wipe and it's still there. Wipe and it's still there. Phantom residue stays."
+  },
+  {
+   "start": 65.46,
+   "end": 80.44,
+   "text": "Wipe and it's still there. Never clean. Endless wipe forever."
+  },
+  {
+   "start": 80.44,
+   "end": 99.62,
+   "text": "Brown brown. Still brown. Wipe and it's still there. Wipe and it's still there."
+  },
+  {
+   "start": 102.54,
+   "end": 129.48,
+   "text": "Phantom wiper never stops. Wipe and it's still there. Wipe and it's still there. Wipe and it's still there. Wipe and it's still there. Wipe."
+  },
+  {
+   "start": 157.72,
+   "end": 159.46,
+   "text": "Turn it. Turn it. Brown brown. Brown brown."
+  }
+ ]
+}

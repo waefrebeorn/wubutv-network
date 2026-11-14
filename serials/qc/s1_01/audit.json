@@ -1,0 +1,15 @@
+{
+ "file": "serials/s1_01_the_tray_16x9.mp4",
+ "expect": 1,
+ "t05": {
+  "still": "serials/qc/s1_01/t05.png",
+  "heuristic_count": 3,
+  "confirmed_count": 1
+ },
+ "t95": {
+  "still": "serials/qc/s1_01/t95.png",
+  "heuristic_count": 1,
+  "confirmed_count": 1
+ },
+ "status": "PASS"
+}

@@ -1,0 +1,195 @@
+{
+  "leg": "mv11_generalisation",
+  "track": "MV-11 Water hit my balls (172.416 s)",
+  "c11_vocals": "/home/hatch/workspace/wubutv-network/musicvideo/detection-research/mdx_stemact/mv11/mv11_c11_vocals.wav",
+  "demucs_reference": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/analysis/tests/separation/track_44k_vocals_htdemucs.wav",
+  "stem_corr_vs_demucs_mono": 0.8465963404085488,
+  "bar_a_stem_to_stem": {
+    "method": "RMS-VAD (verbatim recipe) on each stem; Demucs segments are the reference; span-start metric",
+    "n_demucs_ref_segments": 12,
+    "n_ref_spans_overlap_merged": 11,
+    "n_c11_pred_segments": 17,
+    "n_pred_extra_pieces": 1,
+    "dStart_per_span_s": [
+      0.01,
+      0.02,
+      0.63,
+      0.0,
+      1.71,
+      0.01,
+      0.0,
+      0.01,
+      0.0
+    ],
+    "max_abs_dStart_s": 1.710000000000008,
+    "dEnd_per_span_s": [
+      7.89,
+      3.97,
+      0.02,
+      0.57,
+      0.21,
+      0.02,
+      0.2,
+      2.77,
+      1.14
+    ],
+    "max_abs_dEnd_s": 7.890000000000001,
+    "bar_s": 0.5,
+    "pass": false,
+    "demucs_segments": [
+      [
+        14.13,
+        16.87
+      ],
+      [
+        17.71,
+        24.77
+      ],
+      [
+        25.9,
+        44.89
+      ],
+      [
+        45.43,
+        52.48
+      ],
+      [
+        55.14,
+        65.68
+      ],
+      [
+        66.76,
+        68.82
+      ],
+      [
+        69.27,
+        82.12
+      ],
+      [
+        81.52,
+        107.0
+      ],
+      [
+        109.29,
+        110.43
+      ],
+      [
+        111.16,
+        140.85
+      ],
+      [
+        141.51,
+        162.3
+      ],
+      [
+        168.18,
+        171.44
+      ]
+    ],
+    "c11_segments": [
+      [
+        14.14,
+        24.76
+      ],
+      [
+        25.92,
+        40.92
+      ],
+      [
+        46.06,
+        47.53
+      ],
+      [
+        47.94,
+        49.86
+      ],
+      [
+        50.9,
+        52.46
+      ],
+      [
+        53.34,
+        64.97
+      ],
+      [
+        66.76,
+        68.25
+      ],
+      [
+        70.98,
+        79.53
+      ],
+      [
+        80.02,
+        106.79
+      ],
+      [
+        109.3,
+        110.45
+      ],
+      [
+        111.16,
+        112.28
+      ],
+      [
+        113.05,
+        140.65
+      ],
+      [
+        141.52,
+        144.06
+      ],
+      [
+        145.45,
+        152.73
+      ],
+      [
+        153.27,
+        157.04
+      ],
+      [
+        157.55,
+        159.53
+      ],
+      [
+        168.18,
+        170.3
+      ]
+    ]
+  },
+  "bar_b_style": {
+    "method": "25 ms RMS envelope; sung = inside Demucs segments, instrumental = outside all Demucs segments",
+    "c11": {
+      "sung": {
+        "n_frames": 5640,
+        "median": 0.031917652988883785,
+        "q25": 0.006255048307138305,
+        "q75": 0.06912731355031945
+      },
+      "instrumental": {
+        "n_frames": 1256,
+        "median": 0.00022867985566498166,
+        "q25": 0.0001307271707210481,
+        "q75": 0.0005242244827088536
+      },
+      "iqr_non_overlap": true,
+      "ratio": 139.57352253905336
+    },
+    "demucs": {
+      "sung": {
+        "n_frames": 5640,
+        "median": 0.056469971872198724,
+        "q25": 0.024483622688174264,
+        "q75": 0.08236679373816205
+      },
+      "instrumental": {
+        "n_frames": 1256,
+        "median": 0.0008057445443337241,
+        "q25": 0.00017694754711323018,
+        "q75": 0.002995874696972382
+      },
+      "iqr_non_overlap": true,
+      "ratio": 70.08421250794089
+    }
+  }
+}

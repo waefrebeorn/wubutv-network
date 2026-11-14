@@ -1,0 +1,304 @@
+{
+  "stage": "3b_full_graph_interp",
+  "date_utc": "2026-11-12",
+  "reference": "ORT chunk-0 (ckpts/ stride-32 samples + stats; node 177 full vs final_output_f32.bin)",
+  "bar": "sample max|diff| <= max(2e-3, 1e-5*range) AND corr >= 0.99999 AND mean/std within 0.1%; node 177 full max|diff| <= 2e-3 AND corr >= 0.99999",
+  "n_checkpoints": 24,
+  "all_pass": true,
+  "checkpoints": {
+    "0": {
+      "sample_max_abs_diff": 2.265e-06,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.15552,
+      "mean_ref": 0.15552,
+      "std_c": 0.4301,
+      "std_ref": 0.4301,
+      "verdict": "PASS"
+    },
+    "3": {
+      "sample_max_abs_diff": 5.245e-06,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.75247,
+      "mean_ref": 0.75247,
+      "std_c": 0.8523,
+      "std_ref": 0.8523,
+      "verdict": "PASS"
+    },
+    "9": {
+      "sample_max_abs_diff": 0.0007019,
+      "bar": 0.01,
+      "corr": 1.0,
+      "mean_c": -1.56152,
+      "mean_ref": -1.56152,
+      "std_c": 12.7356,
+      "std_ref": 12.7356,
+      "verdict": "PASS"
+    },
+    "12": {
+      "sample_max_abs_diff": 6.866e-05,
+      "bar": 0.0026,
+      "corr": 1.0,
+      "mean_c": -1.31521,
+      "mean_ref": -1.31521,
+      "std_c": 4.9503,
+      "std_ref": 4.9503,
+      "verdict": "PASS"
+    },
+    "15": {
+      "sample_max_abs_diff": 1.621e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.86293,
+      "mean_ref": 0.86293,
+      "std_c": 0.9693,
+      "std_ref": 0.9693,
+      "verdict": "PASS"
+    },
+    "30": {
+      "sample_max_abs_diff": 3.016e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 1.05394,
+      "mean_ref": 1.05394,
+      "std_c": 1.0129,
+      "std_ref": 1.0129,
+      "verdict": "PASS"
+    },
+    "45": {
+      "sample_max_abs_diff": 3.207e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.88673,
+      "mean_ref": 0.88673,
+      "std_c": 0.9455,
+      "std_ref": 0.9455,
+      "verdict": "PASS"
+    },
+    "46": {
+      "sample_max_abs_diff": 1.86e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": -0.19162,
+      "mean_ref": -0.19162,
+      "std_c": 0.9895,
+      "std_ref": 0.9895,
+      "verdict": "PASS"
+    },
+    "48": {
+      "sample_max_abs_diff": 1.335e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": -0.17431,
+      "mean_ref": -0.17431,
+      "std_c": 0.9869,
+      "std_ref": 0.9869,
+      "verdict": "PASS"
+    },
+    "50": {
+      "sample_max_abs_diff": 1.347e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": -0.18154,
+      "mean_ref": -0.18154,
+      "std_c": 0.9804,
+      "std_ref": 0.9804,
+      "verdict": "PASS"
+    },
+    "52": {
+      "sample_max_abs_diff": 1.466e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.09701,
+      "mean_ref": 0.09701,
+      "std_c": 1.1931,
+      "std_ref": 1.1931,
+      "verdict": "PASS"
+    },
+    "54": {
+      "sample_max_abs_diff": 4.768e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": -2.74549,
+      "mean_ref": -2.74549,
+      "std_c": 7.2538,
+      "std_ref": 7.2538,
+      "verdict": "PASS"
+    },
+    "55": {
+      "sample_max_abs_diff": 9.179e-06,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.17845,
+      "mean_ref": 0.17845,
+      "std_c": 0.9208,
+      "std_ref": 0.9208,
+      "verdict": "PASS"
+    },
+    "57": {
+      "sample_max_abs_diff": 1.514e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": -0.51753,
+      "mean_ref": -0.51753,
+      "std_c": 1.7897,
+      "std_ref": 1.7897,
+      "verdict": "PASS"
+    },
+    "58": {
+      "sample_max_abs_diff": 1.073e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": -0.04647,
+      "mean_ref": -0.04647,
+      "std_c": 0.9351,
+      "std_ref": 0.9351,
+      "verdict": "PASS"
+    },
+    "60": {
+      "sample_max_abs_diff": 1.454e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.81785,
+      "mean_ref": 0.81785,
+      "std_c": 0.9024,
+      "std_ref": 0.9024,
+      "verdict": "PASS"
+    },
+    "75": {
+      "sample_max_abs_diff": 1.478e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.74303,
+      "mean_ref": 0.74303,
+      "std_c": 0.8391,
+      "std_ref": 0.8391,
+      "verdict": "PASS"
+    },
+    "90": {
+      "sample_max_abs_diff": 7.451e-06,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.70059,
+      "mean_ref": 0.70059,
+      "std_c": 0.7404,
+      "std_ref": 0.7404,
+      "verdict": "PASS"
+    },
+    "107": {
+      "sample_max_abs_diff": 1.147e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.77875,
+      "mean_ref": 0.77875,
+      "std_c": 0.8733,
+      "std_ref": 0.8733,
+      "verdict": "PASS"
+    },
+    "124": {
+      "sample_max_abs_diff": 1.585e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.89052,
+      "mean_ref": 0.89052,
+      "std_c": 1.0132,
+      "std_ref": 1.0132,
+      "verdict": "PASS"
+    },
+    "141": {
+      "sample_max_abs_diff": 2.67e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.70321,
+      "mean_ref": 0.70321,
+      "std_c": 1.0914,
+      "std_ref": 1.0914,
+      "verdict": "PASS"
+    },
+    "158": {
+      "sample_max_abs_diff": 4.196e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.48498,
+      "mean_ref": 0.48498,
+      "std_c": 1.0175,
+      "std_ref": 1.0175,
+      "verdict": "PASS"
+    },
+    "175": {
+      "sample_max_abs_diff": 2.429e-05,
+      "bar": 0.002,
+      "corr": 1.0,
+      "mean_c": 0.20147,
+      "mean_ref": 0.20147,
+      "std_c": 0.7571,
+      "std_ref": 0.7571,
+      "verdict": "PASS"
+    },
+    "177": {
+      "full_max_abs_diff": 8.631e-05,
+      "corr": 1.0,
+      "verdict": "PASS"
+    }
+  },
+  "chunk0_forward_seconds": 129.39,
+  "timing_note": "129.39 s measured under heavy VM load (load avg ~9-19 during the run; first clean run on a quiet VM was ~21 s/chunk). NOT the runtime-bar measurement \u2014 clean timing to be taken with the full-track run.",
+  "top10_instructions": [
+    {
+      "instr": 3,
+      "op": 2,
+      "seconds": 18.43
+    },
+    {
+      "instr": 162,
+      "op": 2,
+      "seconds": 10.69
+    },
+    {
+      "instr": 5,
+      "op": 2,
+      "seconds": 10.49
+    },
+    {
+      "instr": 158,
+      "op": 2,
+      "seconds": 9.18
+    },
+    {
+      "instr": 160,
+      "op": 2,
+      "seconds": 8.12
+    },
+    {
+      "instr": 7,
+      "op": 2,
+      "seconds": 6.4
+    },
+    {
+      "instr": 146,
+      "op": 2,
+      "seconds": 5.42
+    },
+    {
+      "instr": 18,
+      "op": 2,
+      "seconds": 4.09
+    },
+    {
+      "instr": 22,
+      "op": 2,
+      "seconds": 4.0
+    },
+    {
+      "instr": 142,
+      "op": 2,
+      "seconds": 3.71
+    }
+  ],
+  "fixes_in_this_round": [
+    "slot-shape aliasing: ops read shapes from instruction dims, not the static slots[] table (slots are reused across shapes with the same numel; slot 6 first held [96,128,192] but BN 58 is [192,32,384])",
+    "test_interp ckpts array 16 -> 32 (24 checkpoints now; the 16-slot array overflowed and silently dropped node 75)"
+  ],
+  "log": "stage3b_interp_parity.log"
+}

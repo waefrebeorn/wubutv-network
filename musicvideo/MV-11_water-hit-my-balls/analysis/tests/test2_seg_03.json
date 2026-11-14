@@ -1,0 +1,122 @@
+{
+ "segment": 3,
+ "start": 45.43,
+ "end": 52.48,
+ "mix": {
+  "words": [
+   {
+    "word": "Sitting",
+    "start": 45.43,
+    "end": 46.19,
+    "prob": 0.509
+   },
+   {
+    "word": "on",
+    "start": 46.19,
+    "end": 46.63,
+    "prob": 0.985
+   },
+   {
+    "word": "the",
+    "start": 46.63,
+    "end": 46.77,
+    "prob": 0.997
+   },
+   {
+    "word": "toilet,",
+    "start": 46.77,
+    "end": 47.23,
+    "prob": 0.998
+   },
+   {
+    "word": "water",
+    "start": 47.35,
+    "end": 48.13,
+    "prob": 0.797
+   },
+   {
+    "word": "hits",
+    "start": 48.13,
+    "end": 48.67,
+    "prob": 0.996
+   },
+   {
+    "word": "my",
+    "start": 48.67,
+    "end": 49.55,
+    "prob": 0.968
+   },
+   {
+    "word": "balls.",
+    "start": 49.55,
+    "end": 50.21,
+    "prob": 0.375
+   }
+  ],
+  "text": " Sitting on the toilet, water hits my balls.",
+  "wall_s": 29.5,
+  "score": {
+   "expected": 8,
+   "hit": 8,
+   "coverage": 1.0,
+   "non_lyric_words": 0,
+   "n_words": 8
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Sitting",
+    "start": 45.43,
+    "end": 46.21,
+    "prob": 0.355
+   },
+   {
+    "word": "on",
+    "start": 46.21,
+    "end": 46.63,
+    "prob": 0.963
+   },
+   {
+    "word": "the",
+    "start": 46.63,
+    "end": 46.73,
+    "prob": 0.991
+   },
+   {
+    "word": "toilet,",
+    "start": 46.73,
+    "end": 47.21,
+    "prob": 0.999
+   },
+   {
+    "word": "water",
+    "start": 47.65,
+    "end": 48.13,
+    "prob": 0.94
+   },
+   {
+    "word": "hits",
+    "start": 48.13,
+    "end": 48.69,
+    "prob": 0.992
+   },
+   {
+    "word": "my...",
+    "start": 48.69,
+    "end": 49.95,
+    "prob": 0.416
+   }
+  ],
+  "text": " Sitting on the toilet, water hits my...",
+  "wall_s": 33.4,
+  "score": {
+   "expected": 8,
+   "hit": 7,
+   "coverage": 0.875,
+   "non_lyric_words": 0,
+   "n_words": 7
+  }
+ },
+ "winner": "mix"
+}

@@ -1,0 +1,45 @@
+{
+ "take": "media-generation-mv11-r2-s16-t1-0-84257956-168e-4518-b96b-c081507d562f.mp4",
+ "scene": "S16",
+ "take_no": "1",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Music",
+   "start": 0.0,
+   "end": 1.02,
+   "prob": 0.005
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "219caa691325",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 2.5,
+   "md5": "8583fb332423",
+   "mean_abs_diff_from_prev": 31.77
+  },
+  {
+   "t": 5.0,
+   "md5": "c51650dd78dd",
+   "mean_abs_diff_from_prev": 55.74
+  },
+  {
+   "t": 7.5,
+   "md5": "0cad1132d00d",
+   "mean_abs_diff_from_prev": 53.29
+  },
+  {
+   "t": 9.5,
+   "md5": "96beea22fb6c",
+   "mean_abs_diff_from_prev": 29.22
+  }
+ ],
+ "frames_distinct": true
+}

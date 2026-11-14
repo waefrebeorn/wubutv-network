@@ -1,0 +1,21 @@
+# MV-8 v3 — VOLLEY 5 vehicle: O-C "The Ghost Wipe + Loop Close" GHOSTWIPE (CARTOON EVENT, no singing)
+# Scene: O-C, song 180.00–187.20 (4320–4493f). 7.20s scene, instrumental; ONE
+# take covers the whole scene: Ghost Wipe reveal → flush vortex → opening
+# bathroom rhyme (final frame rhymes with G00). WIPE 001 — CLEAN reset ~183s;
+# counter holds 001 to the end. Seam inside the flush vortex. This take is pure
+# cartoon event — the closing shot of the video.
+# Anchor: G13.jpg (work/rebuild/stills_v3/G13.jpg, md5 2d90d2f3ed6c0501bcc14df85745df38).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# (Assembly trims to the 7.20s scene span.)
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, squash-and-stretch energy, porcelain white + warm gold +
+# chocolate brown, bright yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the sheet is already glowing and floating at frame 0 — already
+# shimmering, the vortex already swirling — never still. Continuous motion to
+# the last frame.
+# Casting: the Squire, tall lanky grown man, paper-white tabard, satchel, at the
+# sink; the Champion's glowing clean sheet. Adults only, no children.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G13.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow the sole bright accent colour. A glowing clean white sheet already floating and shimmering as the clip opens, never still: the sheet glows brighter and brighter above a porcelain bathroom sink, sparkling clean, the tall lanky grown Squire in a paper-white tabard with a satchel swoons and leans against the sink in awe, then the sheet dissolves into a swirling flush vortex of golden water spinning down, and the camera pulls back through the vortex to reveal the opening bathroom again — white toilet, toilet-paper roll, frosted window with golden morning light, yellow gloves reaching — the final frame rhyming with the very first frame of the video, the loop closing. Nobody sings in this clip; mouths are closed in wonder, not song. Continuous motion from the very first frame to the last. No text, no logos, no children."

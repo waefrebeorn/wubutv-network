@@ -1,0 +1,1048 @@
+[
+ {
+  "scene": "IN-A",
+  "song": [
+   0.0,
+   5.97
+  ],
+  "frames": 143,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "IN-A_v2",
+    "t0": 0.0,
+    "s0": 0.0,
+    "frames": 143
+   }
+  ]
+ },
+ {
+  "scene": "H1-A",
+  "song": [
+   5.97,
+   22.08
+  ],
+  "frames": 387,
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "H1-A_v2_c1",
+    "t0": 8.12,
+    "t1": 10.0,
+    "s0": 5.97,
+    "s1": 7.98,
+    "note": "lead from c1 tail (IN-A tail settles to diff<5 after 6.5s; c1 tail is moving flight)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-A_v2_c1",
+    "anchors": [
+     [
+      0.0,
+      7.98
+     ],
+     [
+      1.66,
+      9.6
+     ],
+     [
+      2.08,
+      9.82
+     ],
+     [
+      2.48,
+      10.28
+     ],
+     [
+      2.8,
+      10.48
+     ],
+     [
+      3.76,
+      11.7
+     ]
+    ]
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-A_v2_c1",
+    "anchors": [
+     [
+      4.5,
+      11.7
+     ],
+     [
+      5.64,
+      13.48
+     ],
+     [
+      7.42,
+      14.34
+     ]
+    ],
+    "note": "L2: 'it\\'s'/'still' anchors dropped (take bunches them; PCHIP bent <0.5x) \u2014 they interpolate ~+0.2s; 'there' is the next piece"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-A_v2_c1",
+    "t0": 7.42,
+    "t1": 8.12,
+    "s0": 14.34,
+    "s1": 15.74,
+    "note": "'there' held at 2x cap (PCHIP would need 2.55x)"
+   },
+   {
+    "kind": "natural",
+    "take": "H1-A_v2_c1",
+    "t0": 8.12,
+    "s0": 15.74,
+    "frames": 9,
+    "note": "line tail from c1 tail (note decays under it)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-A_v2_c2",
+    "anchors": [
+     [
+      0.0,
+      16.12
+     ],
+     [
+      1.72,
+      16.98
+     ],
+     [
+      2.3,
+      17.68
+     ],
+     [
+      2.66,
+      18.26
+     ]
+    ],
+    "note": "L3 words only; DIRTY tail handled by next two pieces"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-A_v2_c2",
+    "t0": 2.66,
+    "t1": 3.8,
+    "s0": 18.26,
+    "s1": 20.54,
+    "note": "DIRTY held at 2x cap (PCHIP would need 3.35x)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-A_v2_c2",
+    "t0": 3.8,
+    "t1": 5.0,
+    "s0": 20.54,
+    "s1": 22.08,
+    "note": "echo tail (dirty x3) from c2 tail at 1.28x"
+   }
+  ]
+ },
+ {
+  "scene": "H1-B",
+  "song": [
+   22.08,
+   34.96
+  ],
+  "frames": 309,
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "H1-B_v2",
+    "anchors": [
+     [
+      0.0,
+      22.08
+     ],
+     [
+      0.92,
+      22.68
+     ],
+     [
+      1.3,
+      23.3
+     ],
+     [
+      1.74,
+      23.9
+     ],
+     [
+      2.14,
+      24.34
+     ],
+     [
+      2.48,
+      24.74
+     ]
+    ],
+    "note": "five of six browns; 6th (2.50-2.88) dropped, reused in L5 montage"
+   },
+   {
+    "kind": "montage",
+    "take": "H1-B_v2",
+    "s0": 24.74,
+    "s1": 27.74,
+    "src": [
+     [
+      2.48,
+      4.0,
+      1.0
+     ],
+     [
+      7.6,
+      8.55,
+      1.55
+     ]
+    ],
+    "note": "L5 missing -> montage (dropped 6th brown + gap + tail @1.55x), beat cuts"
+   },
+   {
+    "kind": "natural",
+    "take": "H1-B_v2",
+    "t0": 5.6,
+    "s0": 27.74,
+    "frames": 9,
+    "note": "gap1 part 1 (take gap 5.60-5.98)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-B_v2",
+    "t0": 8.55,
+    "t1": 8.87,
+    "s0": 28.12,
+    "s1": 28.62,
+    "note": "gap1 part 2 (tail @1.55x)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-B_v2",
+    "anchors": [
+     [
+      4.0,
+      28.62
+     ],
+     [
+      4.58,
+      29.38
+     ],
+     [
+      5.16,
+      29.8
+     ],
+     [
+      5.6,
+      29.98
+     ]
+    ]
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-B_v2",
+    "t0": 8.87,
+    "t1": 9.52,
+    "s0": 29.98,
+    "s1": 30.98,
+    "note": "gap2 (tail @1.55x)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-B_v2",
+    "t0": 5.98,
+    "t1": 7.6,
+    "s0": 30.98,
+    "s1": 34.22,
+    "note": "L7 at 2x cap (PCHIP would need 4.4x on Phantom->residue); words land early, see record"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-B_v2",
+    "t0": 9.52,
+    "t1": 10.0,
+    "s0": 34.22,
+    "s1": 34.96,
+    "note": "L7 Phantom-hold montage tail (@1.55x)"
+   }
+  ]
+ },
+ {
+  "scene": "I-A",
+  "song": [
+   34.96,
+   45.51
+  ],
+  "frames": 253,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "I-A_v2",
+    "t0": 6.22,
+    "s0": 34.96,
+    "frames": 47,
+    "note": "lead from I-A journey tail (no words after 6.22s)"
+   },
+   {
+    "kind": "pchip",
+    "take": "I-A_v2",
+    "anchors": [
+     [
+      0.0,
+      36.9
+     ],
+     [
+      1.72,
+      38.3
+     ],
+     [
+      2.76,
+      39.64
+     ],
+     [
+      3.78,
+      39.9
+     ],
+     [
+      4.62,
+      40.38
+     ]
+    ],
+    "note": "five of six browns; last interval capped (see next pieces)"
+   },
+   {
+    "kind": "uniform",
+    "take": "I-A_v2",
+    "t0": 4.62,
+    "t1": 5.18,
+    "s0": 40.38,
+    "s1": 41.5,
+    "note": "5th brown at 2x cap (PCHIP would need 2.61x)"
+   },
+   {
+    "kind": "natural",
+    "take": "I-A_v2",
+    "t0": 5.18,
+    "s0": 41.5,
+    "frames": 8,
+    "note": "6th-brown head covers the line tail (mouth still on 'brown')"
+   },
+   {
+    "kind": "uniform",
+    "take": "I-A_v2",
+    "t0": 8.16,
+    "t1": 10.0,
+    "s0": 41.84,
+    "s1": 45.51,
+    "note": "journey tail at 1.99x (sheet-interior drift; 6th brown dropped)"
+   }
+  ]
+ },
+ {
+  "scene": "I-B",
+  "song": [
+   45.51,
+   60.46
+  ],
+  "frames": 359,
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "I-B_v2",
+    "t0": 0.0,
+    "t1": 10.0,
+    "s0": 45.51,
+    "s1": 60.46,
+    "note": "river flight at 1.496x (within 2x cap); tail settle lands on the gate arrival"
+   }
+  ]
+ },
+ {
+  "scene": "V-0",
+  "song": [
+   60.46,
+   65.12
+  ],
+  "frames": 112,
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "V-0_v2",
+    "anchors": [
+     [
+      0.0,
+      60.46
+     ],
+     [
+      0.82,
+      62.02
+     ],
+     [
+      1.98,
+      63.62
+     ]
+    ],
+    "note": "L9 end anchor at 63.62 (L10 word onset) \u2014 absorbs the 63.00-63.30 overlap; 'on'/'the' anchors dropped (take bunches them; PCHIP bent <0.5x) \u2014 'on' lands ~-0.29s"
+   },
+   {
+    "kind": "pchip",
+    "take": "V-0_v2",
+    "anchors": [
+     [
+      1.98,
+      63.62
+     ],
+     [
+      2.86,
+      63.94
+     ],
+     [
+      3.16,
+      64.32
+     ],
+     [
+      3.64,
+      64.66
+     ],
+     [
+      4.14,
+      65.0
+     ]
+    ]
+   },
+   {
+    "kind": "natural",
+    "take": "V-0_v2",
+    "t0": 4.14,
+    "s0": 65.0,
+    "frames": 3
+   }
+  ]
+ },
+ {
+  "scene": "PH-A",
+  "song": [
+   65.12,
+   67.26
+  ],
+  "frames": 51,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "PH-A_v2",
+    "t0": 2.79,
+    "s0": 65.12,
+    "frames": 32,
+    "note": "lead from PH-A tail (heroic ride; 2.66-2.79 reserved for H2-A head)"
+   },
+   {
+    "kind": "pchip",
+    "take": "PH-A_v2",
+    "anchors": [
+     [
+      0.0,
+      66.48
+     ],
+     [
+      1.78,
+      66.76
+     ],
+     [
+      2.28,
+      67.0
+     ],
+     [
+      2.66,
+      67.26
+     ]
+    ],
+    "note": "L11 at ~3x speedup (ledger 0.34); PCHIP lands every word on its onset"
+   }
+  ]
+ },
+ {
+  "scene": "H2-A",
+  "song": [
+   67.26,
+   81.08
+  ],
+  "frames": 332,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "PH-A_v2",
+    "t0": 2.66,
+    "s0": 67.26,
+    "frames": 3,
+    "note": "H2-A head: PH-A 'again!' tail (L11 spills 0.12s past the scene cut)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-A_v2",
+    "anchors": [
+     [
+      0.0,
+      67.38
+     ],
+     [
+      0.6,
+      67.92
+     ],
+     [
+      0.88,
+      68.08
+     ],
+     [
+      1.18,
+      68.36
+     ],
+     [
+      1.4,
+      68.6
+     ],
+     [
+      2.24,
+      69.36
+     ],
+     [
+      2.7,
+      69.54
+     ],
+     [
+      3.46,
+      70.28
+     ]
+    ]
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-A_v2",
+    "anchors": [
+     [
+      3.46,
+      70.28
+     ],
+     [
+      4.44,
+      71.54
+     ],
+     [
+      4.72,
+      71.98
+     ],
+     [
+      5.04,
+      72.24
+     ],
+     [
+      5.28,
+      72.56
+     ],
+     [
+      5.76,
+      73.0
+     ]
+    ]
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-A_v2",
+    "t0": 7.38,
+    "t1": 10.0,
+    "s0": 73.0,
+    "s1": 76.98,
+    "note": "L14 MISSING -> departure-tail cover at 1.52x (one smooth flight, not beat-chopped)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-A_v2",
+    "t0": 5.88,
+    "t1": 7.38,
+    "s0": 76.98,
+    "s1": 79.98,
+    "note": "L15 at 2x cap (PCHIP would need 5.65x on Endless->wipe); words land early, see record"
+   },
+   {
+    "kind": "montage",
+    "take": "H2-A_v2",
+    "s0": 79.98,
+    "s1": 81.08,
+    "src": [
+     [
+      6.5,
+      6.94,
+      1.0
+     ],
+     [
+      6.94,
+      7.38,
+      1.0
+     ],
+     [
+      6.28,
+      6.5,
+      1.0
+     ]
+    ],
+    "note": "L15 coda: 'wipe forever' chunks (same words as the line)"
+   }
+  ]
+ },
+ {
+  "scene": "H2-B",
+  "song": [
+   81.08,
+   93.0
+  ],
+  "frames": 286,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "H2-B_v2",
+    "t0": 5.14,
+    "s0": 81.08,
+    "frames": 14,
+    "note": "lead from H2-B tail (canal world; tail partitioned, no repeat)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-B_v2",
+    "anchors": [
+     [
+      0.0,
+      81.66
+     ],
+     [
+      0.66,
+      82.48
+     ],
+     [
+      0.86,
+      82.88
+     ],
+     [
+      2.16,
+      83.74
+     ]
+    ],
+    "note": "L16: 'it\\'s' capped at 2x slow (lands -0.42s; PCHIP would need 4.1x on and->it\\'s)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-B_v2",
+    "t0": 2.16,
+    "t1": 2.92,
+    "s0": 83.74,
+    "s1": 85.26,
+    "note": "inter-line gap at 2x cap"
+   },
+   {
+    "kind": "natural",
+    "take": "H2-B_v2",
+    "t0": 5.72,
+    "s0": 85.26,
+    "frames": 17,
+    "note": "gap remainder from tail"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-B_v2",
+    "anchors": [
+     [
+      2.92,
+      85.98
+     ],
+     [
+      3.72,
+      86.84
+     ],
+     [
+      4.14,
+      87.62
+     ],
+     [
+      4.44,
+      87.94
+     ],
+     [
+      5.14,
+      88.98
+     ]
+    ],
+    "note": "L17: 'you\\'re' anchor dropped (take 'and' is 0.12s; PCHIP bent <0.5x) \u2014 it interpolates ~-0.10s"
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-B_v2",
+    "t0": 6.44,
+    "t1": 10.0,
+    "s0": 88.98,
+    "s1": 93.0,
+    "note": "post-L17 tail at 1.13x"
+   }
+  ]
+ },
+ {
+  "scene": "H2-C",
+  "song": [
+   93.0,
+   105.94
+  ],
+  "frames": 311,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "H2-C_v2",
+    "t0": 6.72,
+    "s0": 93.0,
+    "frames": 60,
+    "note": "lead from H2-C tail (gate world; never hold the opening frame)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-C_v2",
+    "t0": 0.0,
+    "t1": 2.56,
+    "s0": 95.52,
+    "s1": 100.18,
+    "note": "L18 at 1.82x uniform (ledger edge): take bunches the first four words, PCHIP would need 5x on the early intervals; words land -0.5 to -1.5s (mouth runs ahead), disclosed"
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-C_v2",
+    "t0": 2.56,
+    "t1": 4.0,
+    "s0": 100.18,
+    "s1": 102.34,
+    "note": "inter-line gap at 1.50x"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-C_v2",
+    "anchors": [
+     [
+      4.0,
+      102.34
+     ],
+     [
+      5.32,
+      104.6
+     ],
+     [
+      5.82,
+      105.3
+     ],
+     [
+      6.72,
+      105.94
+     ]
+    ],
+    "note": "L19 judged on the tail ('never stops'); head words are the garbled reading"
+   }
+  ]
+ },
+ {
+  "scene": "D-A",
+  "song": [
+   105.94,
+   112.25
+  ],
+  "frames": 151,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "D-A_v2",
+    "t0": 0.0,
+    "s0": 105.94,
+    "frames": 151,
+    "note": "cradle shot, natural; invented take audio dropped (video only)"
+   }
+  ]
+ },
+ {
+  "scene": "D-B",
+  "song": [
+   112.25,
+   120.06
+  ],
+  "frames": 187,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "D-B_v2",
+    "t0": 0.0,
+    "s0": 112.25,
+    "frames": 187,
+    "note": "mid-duel, natural; STILL THERE! slam is kinetic layer on 112.25/112.72"
+   }
+  ]
+ },
+ {
+  "scene": "FH-A",
+  "song": [
+   120.06,
+   133.46
+  ],
+  "frames": 322,
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "FH-A_v2",
+    "anchors": [
+     [
+      0.0,
+      120.06
+     ],
+     [
+      0.82,
+      121.12
+     ],
+     [
+      1.28,
+      121.96
+     ],
+     [
+      1.58,
+      122.28
+     ],
+     [
+      2.68,
+      123.18
+     ]
+    ],
+    "note": "L20: 'you\\'re' anchor dropped (take 'and' is 0.22s; PCHIP bent <0.5x) \u2014 it interpolates ~-0.28s"
+   },
+   {
+    "kind": "uniform",
+    "take": "FH-A_v2",
+    "t0": 2.68,
+    "t1": 4.32,
+    "s0": 123.18,
+    "s1": 124.68,
+    "note": "inter-line gap at 0.91x"
+   },
+   {
+    "kind": "pchip",
+    "take": "FH-A_v2",
+    "anchors": [
+     [
+      4.32,
+      124.68
+     ],
+     [
+      5.0,
+      125.12
+     ],
+     [
+      5.4,
+      125.72
+     ],
+     [
+      5.7,
+      126.1
+     ]
+    ],
+    "note": "L21 sung words only; 'you\\'re' anchor dropped (PCHIP bend) \u2014 interpolates ~-0.07s; 'there' (126.10-127.18) is montage (next pieces)"
+   },
+   {
+    "kind": "natural",
+    "take": "FH-A_v2",
+    "t0": 5.7,
+    "s0": 126.1,
+    "frames": 7,
+    "note": "L21 'there' montage part 1 (take gap)"
+   },
+   {
+    "kind": "natural",
+    "take": "FH-A_v2",
+    "t0": 7.6,
+    "s0": 126.38,
+    "frames": 19,
+    "note": "L21 'there' montage part 2 (tail head)"
+   },
+   {
+    "kind": "uniform",
+    "take": "FH-A_v2",
+    "t0": 5.98,
+    "t1": 7.6,
+    "s0": 127.18,
+    "s1": 130.42,
+    "note": "L22 core at 2x cap (0.5x): take 1.62s over song 3.24s; words land early (comes -0.90s, back -0.72s, dirty -0.60s, end -0.11s) \u2014 mouth runs ahead, disclosed (H2-C L18 precedent). NOTE: the PCHIP form through the raw anchors was REJECTED \u2014 it slows to 0.17x (first interval 0.215x sustained 38f), a designed >2x slow, not a transient dip; remainder 0.11s absorbed by the tail piece"
+   },
+   {
+    "kind": "uniform",
+    "take": "FH-A_v2",
+    "t0": 8.4,
+    "t1": 10.0,
+    "s0": 130.42,
+    "s1": 133.46,
+    "note": "echo window + scene tail from tail at 1.90x (start moved 130.53->130.42 to absorb the L22 0.11s remainder)"
+   }
+  ]
+ },
+ {
+  "scene": "FH-B",
+  "song": [
+   133.46,
+   146.0
+  ],
+  "frames": 301,
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "FH-B_v2",
+    "anchors": [
+     [
+      0.0,
+      133.46
+     ],
+     [
+      1.34,
+      134.08
+     ],
+     [
+      2.02,
+      134.64
+     ],
+     [
+      2.48,
+      135.2
+     ],
+     [
+      2.96,
+      135.8
+     ],
+     [
+      3.84,
+      136.4
+     ]
+    ]
+   },
+   {
+    "kind": "pchip",
+    "take": "FH-B_v2",
+    "anchors": [
+     [
+      3.84,
+      136.4
+     ],
+     [
+      4.44,
+      136.8
+     ],
+     [
+      4.74,
+      136.88
+     ],
+     [
+      5.26,
+      137.52
+     ]
+    ],
+    "note": "L24 first five words; 'still' anchor dropped (PCHIP bend) \u2014 interpolates ~-0.11s; tag window is the next piece"
+   },
+   {
+    "kind": "uniform",
+    "take": "FH-B_v2",
+    "t0": 3.84,
+    "t1": 6.0,
+    "s0": 137.52,
+    "s1": 140.14,
+    "note": "L24 tag '(Still there, still there)': intentional echo \u2014 the line's own tail re-cut at 1.21x"
+   },
+   {
+    "kind": "uniform",
+    "take": "FH-B_v2",
+    "t0": 8.54,
+    "t1": 10.0,
+    "s0": 140.14,
+    "s1": 142.66,
+    "note": "L25 MISSING -> tail montage at 1.73x"
+   },
+   {
+    "kind": "uniform",
+    "take": "FH-B_v2",
+    "t0": 6.0,
+    "t1": 7.02,
+    "s0": 142.66,
+    "s1": 144.18,
+    "note": "L26 '(Phantom wipe)' tag: 'Endless' onset + Ghost-wipe flicker at 1.49x"
+   },
+   {
+    "kind": "pchip",
+    "take": "FH-B_v2",
+    "anchors": [
+     [
+      7.02,
+      144.18
+     ],
+     [
+      7.5,
+      144.78
+     ],
+     [
+      7.88,
+      145.16
+     ],
+     [
+      8.54,
+      146.0
+     ]
+    ],
+    "note": "L26 core from mid-'Endless' (mouth open); scene cut trims the 0.02s spill"
+   }
+  ]
+ },
+ {
+  "scene": "O-A",
+  "song": [
+   146.0,
+   163.0
+  ],
+  "frames": 408,
+  "pieces": [
+   {
+    "kind": "oa",
+    "note": "prebuilt approach_240f + apex_168f (proxy md5 5bc2ccd2...); crest on frame 3826"
+   }
+  ]
+ },
+ {
+  "scene": "O-B",
+  "song": [
+   163.0,
+   180.0
+  ],
+  "frames": 408,
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "O-B_v2",
+    "t0": 0.0,
+    "t1": 10.0,
+    "s0": 163.0,
+    "s1": 180.0,
+    "note": "Colossus at 1.7x (within 2x cap); loudest cluster 170.9-174.7 inside; audio dropped"
+   }
+  ]
+ },
+ {
+  "scene": "O-C",
+  "song": [
+   180.0,
+   187.2
+  ],
+  "frames": 173,
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "O-C_v2",
+    "t0": 0.0,
+    "s0": 180.0,
+    "frames": 173,
+    "note": "loop close, natural; tail settle (9-10s) trimmed; WIPE 001-CLEAN reset is kinetic"
+   }
+  ]
+ }
+]

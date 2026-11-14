@@ -1,0 +1,109 @@
+{
+ "take": "takes/mv16_s25_t1.mp4",
+ "words": [
+  {
+   "w": "I've",
+   "start": 0.0,
+   "end": 0.38,
+   "p": 0.903
+  },
+  {
+   "w": "been",
+   "start": 0.38,
+   "end": 0.54,
+   "p": 0.996
+  },
+  {
+   "w": "singing",
+   "start": 0.54,
+   "end": 0.98,
+   "p": 0.91
+  },
+  {
+   "w": "the",
+   "start": 0.98,
+   "end": 1.32,
+   "p": 0.995
+  },
+  {
+   "w": "wrong",
+   "start": 1.32,
+   "end": 1.7,
+   "p": 0.997
+  },
+  {
+   "w": "lyrics",
+   "start": 1.7,
+   "end": 2.3,
+   "p": 0.997
+  },
+  {
+   "w": "for",
+   "start": 2.3,
+   "end": 2.62,
+   "p": 0.978
+  },
+  {
+   "w": "a",
+   "start": 2.62,
+   "end": 2.84,
+   "p": 0.997
+  },
+  {
+   "w": "decade",
+   "start": 2.84,
+   "end": 3.4,
+   "p": 0.999
+  },
+  {
+   "w": "Nobody",
+   "start": 4.0,
+   "end": 4.52,
+   "p": 0.546
+  },
+  {
+   "w": "stop",
+   "start": 4.52,
+   "end": 4.88,
+   "p": 0.788
+  },
+  {
+   "w": "me,",
+   "start": 4.88,
+   "end": 5.24,
+   "p": 0.998
+  },
+  {
+   "w": "nobody",
+   "start": 5.34,
+   "end": 5.94,
+   "p": 0.972
+  },
+  {
+   "w": "stop",
+   "start": 5.94,
+   "end": 6.32,
+   "p": 0.994
+  },
+  {
+   "w": "me",
+   "start": 6.32,
+   "end": 6.78,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.4,
+   "text": "I've been singing the wrong lyrics for a decade",
+   "avg_logprob": -0.279
+  },
+  {
+   "start": 4.0,
+   "end": 6.78,
+   "text": "Nobody stop me, nobody stop me",
+   "avg_logprob": -0.279
+  }
+ ]
+}

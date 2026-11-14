@@ -1,0 +1,15 @@
+{
+ "file": "serials/s1_02_the_receipt_16x9.mp4",
+ "expect": 1,
+ "t05": {
+  "still": "serials/qc/s1_02/t05.png",
+  "heuristic_count": 0,
+  "confirmed_count": 1
+ },
+ "t95": {
+  "still": "serials/qc/s1_02/t95.png",
+  "heuristic_count": 2,
+  "confirmed_count": 1
+ },
+ "status": "PASS"
+}

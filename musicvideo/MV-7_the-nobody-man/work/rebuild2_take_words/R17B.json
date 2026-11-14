@@ -1,0 +1,28 @@
+{
+ "track": "work/rebuild2_qc/R17B_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 2,
+ "words": [
+  {
+   "word": "Nobody,",
+   "start": 2.32,
+   "end": 3.72,
+   "prob": 0.545
+  },
+  {
+   "word": "man.",
+   "start": 4.36,
+   "end": 4.86,
+   "prob": 0.839
+  }
+ ],
+ "segments": [
+  {
+   "start": 2.32,
+   "end": 4.86,
+   "text": "Nobody, man."
+  }
+ ]
+}

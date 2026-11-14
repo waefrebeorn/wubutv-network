@@ -1,0 +1,16 @@
+MV-13 S57 t2 — Bridge, slot 148.75–153.70. Instrumental swell, part 2 (wordless). PROP-AXIS REROLL of t1.
+Tag: CUTAWAY. Setting: Stadium of instruments. Cast: Mover.
+Gag: The Mover glides through the accelerating machine-world; every instrument turns to follow him, a crowd of brass and glass.
+Camera: low-angle push-in. Images: mover_lock (identity) -> s57_start (world, SAME stills as t1 — the still's rulers are blank tick-only).
+
+T1 REJECT REASON: G2 FAIL — the take re-rendered readable Arabic numerals ("0" and "1") on the big left ruler, legible at full-res 2.2s (verified magnified), although the still's rulers are tick-only and the vehicle said "tick marks only, no numbers". The clock faces stayed clean (tick marks + hands only) — the fail is the rulers only.
+PROP FIX: name the numerals explicitly — "no digits, no 0, no 1, no numbers of any kind on any ruler" — in every text entry that mentions a ruler.
+
+VIDEO PROMPT (ordered entries):
+1. text: "Wide 16:9, exactly 5 seconds. Flat bold 2D cartoon, thick outlines, bold flat colours, deep blue and gold light. At a vast stadium of giant musical instruments: the first image is the Mover, a lanky early-20s man, varsity jacket cadmium and cobalt, flat cap, high-tops; the second image is the Mover gliding through the middle of the machine-world, huge brass pendulums and giant blank stopwatches and giant rulers all turning to follow him; a blank glowing pale-blue tablet rides beside him. Every ruler carries abstract tick marks only — no digits, no 0, no 1, no numbers of any kind on any ruler."
+2. image: work/stills/stack/media-generation-mv13-mover-lock-0-8715ffda-c3ab-4d85-80d4-4ee922758f24_1248x704.webp
+3. text: "Low-angle push-in. The Mover glides through the accelerating machine-world; every instrument turns to follow him, a crowd of brass and glass tracking his glide; his mouth stays closed. The rulers are blank measuring sticks with tick marks only — no numerals, no digits, no 0, no 1 anywhere; the stopwatch faces are blank with tick marks only, no numerals, no Roman numerals."
+4. image: work/stills/stack/media-generation-mv13-s57-start-0-9134f8f0-69ce-4de8-a488-71dbfa772f0c_1248x704.webp
+5. text: "No text, no letters, no words on screen anywhere; no comic-book captions, no text bursts. Ruler markings abstract ticks only — no digits, no 0, no 1, no numbers of any kind on any ruler. Stopwatch faces blank with tick marks only, no numerals, no Roman numerals. The take is already moving at the first frame."
+
+Notes: slot is 4.95s; 5s ask. KEY BEAT: the instruments TURN to follow him — the tracking must read across the slot. The Mover runs mid-stride in the still (S08 class — vehicle says gliding explicitly; judge articulation, not the verb). G2 must verify full-res at 1.1s AND 2.2s that no numeral survives on any ruler (magnify the ruler regions if needed — t1's "0"/"1" were small). If numerals render again, the REDESIGN axis applies: drop the rulers from the background entirely (S51 t3 precedent).

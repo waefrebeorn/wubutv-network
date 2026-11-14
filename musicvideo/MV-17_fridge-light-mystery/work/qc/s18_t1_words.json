@@ -1,0 +1,79 @@
+{
+ "take": "takes/mv17_s18_t1.mp4",
+ "words": [
+  {
+   "w": "And",
+   "start": 0.0,
+   "end": 0.26,
+   "p": 0.766
+  },
+  {
+   "w": "I'm",
+   "start": 0.26,
+   "end": 0.46,
+   "p": 0.982
+  },
+  {
+   "w": "starting",
+   "start": 0.46,
+   "end": 0.88,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 0.88,
+   "end": 1.2,
+   "p": 1.0
+  },
+  {
+   "w": "think",
+   "start": 1.2,
+   "end": 1.54,
+   "p": 1.0
+  },
+  {
+   "w": "it's",
+   "start": 1.54,
+   "end": 1.96,
+   "p": 0.963
+  },
+  {
+   "w": "not",
+   "start": 1.96,
+   "end": 2.2,
+   "p": 1.0
+  },
+  {
+   "w": "just",
+   "start": 2.2,
+   "end": 2.52,
+   "p": 1.0
+  },
+  {
+   "w": "the",
+   "start": 2.52,
+   "end": 2.72,
+   "p": 0.999
+  },
+  {
+   "w": "fridge",
+   "start": 2.72,
+   "end": 3.16,
+   "p": 0.998
+  },
+  {
+   "w": "anymore.",
+   "start": 3.16,
+   "end": 3.6,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "And I'm starting to think it's not just the fridge anymore.",
+   "avg_logprob": -0.117
+  }
+ ]
+}

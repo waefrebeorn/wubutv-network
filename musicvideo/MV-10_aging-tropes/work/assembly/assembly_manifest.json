@@ -1,0 +1,1158 @@
+[
+ {
+  "scene": "S01",
+  "song": [
+   0.0,
+   16.68
+  ],
+  "frames": 400,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S01.mp4",
+   "frames": 400,
+   "md5": "f0f74448785f8aa100a04fe7ae8b8b22"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "mv10_s01_t1",
+    "t0": 0.0,
+    "t1": 10.0,
+    "s0": 0.0,
+    "s1": 16.68,
+    "note": "cold open, uniform 1.668x slow, no words"
+   }
+  ]
+ },
+ {
+  "scene": "S02",
+  "song": [
+   16.68,
+   29.82
+  ],
+  "frames": 315,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S02.mp4",
+   "frames": 315,
+   "md5": "24055657382971d57752cd65c281a093"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s02_t2",
+    "anchors": [
+     [
+      0.0,
+      16.68
+     ],
+     [
+      1.26,
+      17.76
+     ],
+     [
+      1.42,
+      17.9
+     ],
+     [
+      1.72,
+      18.12
+     ],
+     [
+      3.48,
+      18.82
+     ],
+     [
+      4.52,
+      22.0
+     ],
+     [
+      5.0,
+      22.68
+     ],
+     [
+      6.06,
+      23.88
+     ],
+     [
+      6.8,
+      27.12
+     ],
+     [
+      7.18,
+      27.42
+     ]
+    ],
+    "note": "9 anchors + END; 'a'->'to'; Prostate->price 23.88 (state/didn't are ASR splits of the hold); held-note stretches disclosed"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s02_t2",
+    "t0": 7.18,
+    "s0": 27.42,
+    "frames": 57,
+    "note": "post-vocal tail 7.18-9.54 to scene end"
+   }
+  ]
+ },
+ {
+  "scene": "S03",
+  "song": [
+   29.82,
+   44.72
+  ],
+  "frames": 358,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S03.mp4",
+   "frames": 358,
+   "md5": "48f7d06eea2a5c10cd96c03b755cbec3"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s03a_t3",
+    "anchors": [
+     [
+      0.0,
+      29.82
+     ],
+     [
+      0.68,
+      30.4
+     ],
+     [
+      1.6,
+      30.78
+     ],
+     [
+      2.24,
+      31.0
+     ],
+     [
+      2.62,
+      31.16
+     ],
+     [
+      3.5,
+      32.56
+     ],
+     [
+      4.54,
+      36.22
+     ]
+    ],
+    "note": "words 1-7 Bend->sucks; 'to get old' dropped, covered by S03b; ends at sucks onset (shared word, no END extension)"
+   },
+   {
+    "kind": "pchip",
+    "take": "mv10_s03b_t1",
+    "anchors": [
+     [
+      0.42,
+      36.22
+     ],
+     [
+      0.76,
+      36.34
+     ],
+     [
+      1.12,
+      36.76
+     ],
+     [
+      1.38,
+      37.24
+     ],
+     [
+      2.32,
+      38.96
+     ],
+     [
+      2.78,
+      39.3
+     ],
+     [
+      3.12,
+      39.62
+     ],
+     [
+      3.46,
+      39.96
+     ],
+     [
+      3.72,
+      40.2
+     ],
+     [
+      4.46,
+      41.46
+     ],
+     [
+      5.32,
+      41.58
+     ],
+     [
+      5.5,
+      41.68
+     ],
+     [
+      5.92,
+      41.92
+     ],
+     [
+      6.4,
+      42.6
+     ],
+     [
+      6.98,
+      43.98
+     ]
+    ],
+    "note": "words 2-15 sucks->tight + END; word-1 'it' 35.64 covered by S03a tail"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s03b_t1",
+    "t0": 6.98,
+    "s0": 43.98,
+    "frames": 18,
+    "note": "post-vocal tail 6.98-7.72 to scene end"
+   }
+  ]
+ },
+ {
+  "scene": "S04",
+  "song": [
+   44.72,
+   55.46
+  ],
+  "frames": 258,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S04.mp4",
+   "frames": 258,
+   "md5": "6ef7c50a94f9ad76330247e3c2c9dd64"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s04a_t1",
+    "anchors": [
+     [
+      0.0,
+      44.72
+     ],
+     [
+      0.36,
+      45.3
+     ],
+     [
+      0.64,
+      45.46
+     ],
+     [
+      1.18,
+      46.14
+     ],
+     [
+      1.28,
+      46.3
+     ],
+     [
+      1.6,
+      46.54
+     ],
+     [
+      2.16,
+      47.02
+     ],
+     [
+      2.56,
+      47.28
+     ],
+     [
+      2.9,
+      47.44
+     ],
+     [
+      3.08,
+      47.58
+     ],
+     [
+      3.34,
+      48.28
+     ],
+     [
+      3.6,
+      48.42
+     ],
+     [
+      4.04,
+      48.88
+     ],
+     [
+      4.48,
+      49.12
+     ]
+    ],
+    "note": "13 anchors + END; prostate->price 48.42"
+   },
+   {
+    "kind": "pchip",
+    "take": "mv10_s04b_t1",
+    "anchors": [
+     [
+      0.92,
+      49.12
+     ],
+     [
+      1.56,
+      49.38
+     ],
+     [
+      2.84,
+      50.76
+     ],
+     [
+      3.48,
+      52.46
+     ],
+     [
+      3.68,
+      52.6
+     ],
+     [
+      4.26,
+      53.82
+     ],
+     [
+      5.2,
+      54.12
+     ],
+     [
+      5.46,
+      54.38
+     ],
+     [
+      5.88,
+      54.88
+     ],
+     [
+      5.94,
+      55.18
+     ],
+     [
+      6.26,
+      55.46
+     ]
+    ],
+    "note": "11 anchors; last (6.26,55.46) = 'stop' onset = scene end"
+   }
+  ]
+ },
+ {
+  "scene": "S05",
+  "song": [
+   55.46,
+   66.94
+  ],
+  "frames": 276,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S05.mp4",
+   "frames": 276,
+   "md5": "0473c1d0ce559880f234f0c395564e74"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "mv10_s05_t1",
+    "t0": 0.0,
+    "t1": 10.0,
+    "s0": 55.46,
+    "s1": 66.94,
+    "note": "soup montage, uniform 0.871x; CASCADE kinetic on drink-it patter 58.20-62.90"
+   }
+  ]
+ },
+ {
+  "scene": "S06",
+  "song": [
+   66.94,
+   89.18
+  ],
+  "frames": 534,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S06.mp4",
+   "frames": 534,
+   "md5": "e46634b663b2c7deb7011f0890ea1bbe"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s06a_t3",
+    "anchors": [
+     [
+      0.46,
+      66.94
+     ],
+     [
+      1.36,
+      67.54
+     ],
+     [
+      1.78,
+      68.14
+     ],
+     [
+      1.96,
+      68.32
+     ],
+     [
+      3.46,
+      69.2
+     ],
+     [
+      4.16,
+      69.94
+     ],
+     [
+      4.4,
+      70.24
+     ],
+     [
+      4.66,
+      70.44
+     ],
+     [
+      5.78,
+      71.2
+     ],
+     [
+      6.1,
+      71.92
+     ],
+     [
+      6.34,
+      72.2
+     ],
+     [
+      6.68,
+      72.52
+     ],
+     [
+      6.9,
+      72.72
+     ],
+     [
+      7.86,
+      73.68
+     ],
+     [
+      8.06,
+      74.38
+     ],
+     [
+      8.42,
+      74.76
+     ],
+     [
+      8.58,
+      75.0
+     ],
+     [
+      8.92,
+      75.84
+     ]
+    ],
+    "note": "head trimmed 0.46s (Standing lands on armchair shot); 'still' skipped; mid-scene tail OMITTED (see header note)"
+   },
+   {
+    "kind": "pchip",
+    "take": "mv10_s06b_t1",
+    "anchors": [
+     [
+      0.0,
+      75.84
+     ],
+     [
+      0.84,
+      76.44
+     ],
+     [
+      1.14,
+      76.66
+     ],
+     [
+      1.4,
+      76.9
+     ],
+     [
+      1.6,
+      77.02
+     ],
+     [
+      2.48,
+      77.86
+     ],
+     [
+      3.16,
+      78.84
+     ],
+     [
+      3.46,
+      79.02
+     ],
+     [
+      3.68,
+      79.2
+     ],
+     [
+      4.0,
+      79.62
+     ]
+    ],
+    "note": "Soup line; mid-scene tail OMITTED (see header note)"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s06b_t1",
+    "t0": 4.0,
+    "s0": 79.62,
+    "frames": 3,
+    "note": "gap cover 79.62-79.74 (3f of s06b tail head)"
+   },
+   {
+    "kind": "pchip",
+    "take": "mv10_s06c_t1",
+    "anchors": [
+     [
+      0.0,
+      79.74
+     ],
+     [
+      1.26,
+      80.12
+     ],
+     [
+      1.6,
+      80.82
+     ],
+     [
+      1.98,
+      81.26
+     ],
+     [
+      2.22,
+      81.66
+     ],
+     [
+      3.2,
+      82.26
+     ],
+     [
+      3.6,
+      82.52
+     ],
+     [
+      3.92,
+      84.1
+     ],
+     [
+      4.26,
+      84.46
+     ],
+     [
+      4.48,
+      84.68
+     ],
+     [
+      5.22,
+      85.9
+     ],
+     [
+      5.8,
+      86.06
+     ],
+     [
+      5.96,
+      86.2
+     ],
+     [
+      6.34,
+      86.48
+     ],
+     [
+      6.88,
+      87.18
+     ],
+     [
+      7.18,
+      87.88
+     ]
+    ],
+    "note": "bass-don't-quit line; base='bass'"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s06c_t1",
+    "t0": 7.18,
+    "s0": 87.88,
+    "frames": 31,
+    "note": "post-vocal tail 7.18-8.48, covers 87.88-89.18 gap"
+   }
+  ]
+ },
+ {
+  "scene": "S07",
+  "song": [
+   89.18,
+   106.4
+  ],
+  "frames": 413,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S07.mp4",
+   "frames": 413,
+   "md5": "586b6eedea87748cc2e8596496769b6e"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s07a_t2",
+    "anchors": [
+     [
+      0.0,
+      89.18
+     ],
+     [
+      0.94,
+      89.78
+     ],
+     [
+      1.58,
+      90.62
+     ],
+     [
+      2.14,
+      90.86
+     ],
+     [
+      2.46,
+      91.06
+     ],
+     [
+      2.78,
+      91.54
+     ],
+     [
+      3.3,
+      91.8
+     ],
+     [
+      3.66,
+      91.96
+     ],
+     [
+      3.84,
+      92.08
+     ],
+     [
+      4.1,
+      92.46
+     ],
+     [
+      4.36,
+      92.98
+     ],
+     [
+      4.82,
+      93.38
+     ],
+     [
+      5.34,
+      93.68
+     ],
+     [
+      5.74,
+      93.92
+     ],
+     [
+      6.24,
+      94.42
+     ]
+    ],
+    "note": "part 1: 2-word hook vs song's 3 tokens (bop->Pop, bop->it, 'up,' skipped); prostate->state 92.98; END stretched to 94.42 (see header)"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s07b_t1",
+    "t0": 7.92,
+    "s0": 94.42,
+    "frames": 50,
+    "note": "PAUSE COVER 94.42-96.50: S07b take tail 7.92-10.00, non-overlapping with the main S07b piece (no frame reuse)"
+   },
+   {
+    "kind": "pchip",
+    "take": "mv10_s07a_t2",
+    "anchors": [
+     [
+      6.24,
+      96.5
+     ],
+     [
+      6.72,
+      97.2
+     ],
+     [
+      7.02,
+      97.58
+     ],
+     [
+      7.38,
+      98.26
+     ],
+     [
+      8.06,
+      98.66
+     ],
+     [
+      8.44,
+      99.32
+     ],
+     [
+      8.84,
+      99.76
+     ],
+     [
+      9.18,
+      100.0
+     ],
+     [
+      9.44,
+      100.4
+     ]
+    ],
+    "note": "part 2: ohs + second hook block; bop->pop, bop->it, 'up,' skipped"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s07b_t1",
+    "t0": 0.0,
+    "s0": 100.4,
+    "frames": 144,
+    "note": "soup montage 2, 0-6.00s to scene end"
+   }
+  ]
+ },
+ {
+  "scene": "S08",
+  "song": [
+   106.4,
+   113.86
+  ],
+  "frames": 179,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S08.mp4",
+   "frames": 179,
+   "md5": "8aa9cdfafbbcfcfd678d792b54b1c6ee"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "mv10_s08_t1",
+    "t0": 0.0,
+    "s0": 106.4,
+    "frames": 179,
+    "note": "longest breath, 0-7.46s; 23f still run sits past the cut"
+   }
+  ]
+ },
+ {
+  "scene": "S09",
+  "song": [
+   113.86,
+   131.76
+  ],
+  "frames": 430,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S09.mp4",
+   "frames": 430,
+   "md5": "f9a3332d61c0a59f166923dcbcd5d245"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "mv10_s09a_t1",
+    "t0": 0.0,
+    "s0": 113.86,
+    "frames": 163,
+    "note": "memory four-squares, 0-6.80s, split on 'Soap' 120.66"
+   },
+   {
+    "kind": "uniform",
+    "take": "mv10_s09b_t1",
+    "t0": 0.0,
+    "t1": 10.0,
+    "s0": 120.66,
+    "s1": 131.76,
+    "note": "memory fence, uniform 0.90x, memory lingers"
+   }
+  ]
+ },
+ {
+  "scene": "S10",
+  "song": [
+   131.76,
+   140.86
+  ],
+  "frames": 218,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S10.mp4",
+   "frames": 218,
+   "md5": "043dec1baafe4a00020c2605900d640a"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s10a_t1",
+    "anchors": [
+     [
+      0.0,
+      131.76
+     ],
+     [
+      0.64,
+      132.24
+     ],
+     [
+      1.2,
+      132.42
+     ],
+     [
+      2.22,
+      133.12
+     ],
+     [
+      2.32,
+      133.28
+     ],
+     [
+      2.6,
+      133.52
+     ],
+     [
+      3.32,
+      133.98
+     ],
+     [
+      3.66,
+      134.26
+     ],
+     [
+      4.04,
+      134.42
+     ],
+     [
+      4.26,
+      134.56
+     ],
+     [
+      4.92,
+      134.96
+     ],
+     [
+      5.18,
+      135.44
+     ],
+     [
+      5.64,
+      135.8
+     ],
+     [
+      6.62,
+      136.16
+     ],
+     [
+      6.9,
+      136.42
+     ],
+     [
+      7.78,
+      137.12
+     ],
+     [
+      8.08,
+      137.6
+     ],
+     [
+      8.44,
+      138.31
+     ],
+     [
+      8.8,
+      139.02
+     ]
+    ],
+    "note": "19 points; 4th hook 'bop,' 1.34-1.86 rides unanchored in beep->you; third 'oh' INTERPOLATED at 138.31 (midpoint of song's held oh 137.60-139.02)"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s10b_t1",
+    "t0": 0.0,
+    "s0": 139.02,
+    "frames": 44,
+    "note": "memory return, 0-1.84s to scene end"
+   }
+  ]
+ },
+ {
+  "scene": "S11",
+  "song": [
+   140.86,
+   154.48
+  ],
+  "frames": 327,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S11.mp4",
+   "frames": 327,
+   "md5": "82c4bc3844883b31c198a8bfbe9ffd78"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s11a_t1",
+    "anchors": [
+     [
+      0.0,
+      140.86
+     ],
+     [
+      1.0,
+      141.16
+     ],
+     [
+      1.4,
+      141.38
+     ],
+     [
+      2.14,
+      141.9
+     ],
+     [
+      2.22,
+      142.26
+     ],
+     [
+      2.52,
+      142.5
+     ],
+     [
+      3.08,
+      142.9
+     ],
+     [
+      3.46,
+      143.24
+     ],
+     [
+      3.78,
+      143.62
+     ],
+     [
+      4.16,
+      143.98
+     ],
+     [
+      4.92,
+      144.3
+     ],
+     [
+      5.42,
+      144.82
+     ],
+     [
+      5.86,
+      145.36
+     ],
+     [
+      6.04,
+      145.62
+     ],
+     [
+      6.4,
+      145.8
+     ],
+     [
+      6.54,
+      145.88
+     ],
+     [
+      6.9,
+      146.3
+     ],
+     [
+      7.08,
+      146.42
+     ],
+     [
+      7.36,
+      146.72
+     ]
+    ],
+    "note": "18 anchors + END; take's 3 drink-its map to song's first 3"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s11a_t1",
+    "t0": 7.36,
+    "s0": 146.72,
+    "frames": 50,
+    "note": "held pose 7.36-9.46; CASCADE kinetic covers remaining 7 drink-its 146.58-148.38"
+   },
+   {
+    "kind": "pchip",
+    "take": "mv10_s11b_t1",
+    "anchors": [
+     [
+      1.66,
+      148.82
+     ],
+     [
+      2.98,
+      149.02
+     ],
+     [
+      3.64,
+      149.16
+     ],
+     [
+      5.1,
+      149.96
+     ],
+     [
+      5.48,
+      150.26
+     ],
+     [
+      6.02,
+      150.5
+     ],
+     [
+      6.42,
+      150.9
+     ]
+    ],
+    "note": "WARP RISK: hook compresses 6.6x/4.7x inter-word (overall 2.29x); EYE-CHECK REQUIRED \u2014 mouth must be open at 148.82/149.02/149.16"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s11b_t1",
+    "t0": 6.42,
+    "s0": 150.9,
+    "frames": 86,
+    "note": "post-vocal tail 6.42-10.00, exact 3.58s fit to scene end"
+   }
+  ]
+ },
+ {
+  "scene": "S12",
+  "song": [
+   154.48,
+   165.24
+  ],
+  "frames": 258,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S12.mp4",
+   "frames": 258,
+   "md5": "01f8e54d0c5268c1ecf5b0c1e562ca6f"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "mv10_s12_t1",
+    "anchors": [
+     [
+      0.0,
+      154.48
+     ],
+     [
+      0.42,
+      154.65
+     ],
+     [
+      0.72,
+      154.82
+     ],
+     [
+      1.56,
+      157.1
+     ],
+     [
+      1.66,
+      160.14
+     ],
+     [
+      2.02,
+      160.32
+     ],
+     [
+      2.96,
+      161.04
+     ],
+     [
+      3.38,
+      161.64
+     ],
+     [
+      3.66,
+      163.76
+     ],
+     [
+      4.32,
+      164.0
+     ],
+     [
+      4.44,
+      164.26
+     ],
+     [
+      4.78,
+      164.82
+     ],
+     [
+      5.12,
+      165.24
+     ]
+    ],
+    "note": "ONE pchip; '-bee' 154.65 interpolated in ASR pile-up; take tail 5.42-8.28 UNUSED (no song words); held-note stretches 0.033x/0.13x \u2014 EYE-CHECK REQUIRED, if frozen S12 owed a re-fire"
+   }
+  ]
+ },
+ {
+  "scene": "S13",
+  "song": [
+   165.24,
+   178.0
+  ],
+  "frames": 306,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/assembly/seg/S13.mp4",
+   "frames": 306,
+   "md5": "9e5066f0711fcc33d5f813ace473856e"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "mv10_s13a_t1",
+    "t0": 0.0,
+    "s0": 165.24,
+    "frames": 149,
+    "note": "memory resolves, 0-6.20s; last frame = morning glass rhyme"
+   },
+   {
+    "kind": "natural",
+    "take": "mv10_s13b_t1",
+    "t0": 0.0,
+    "s0": 171.44,
+    "frames": 157,
+    "note": "morning glass, 0-6.56s to song end"
+   }
+  ]
+ }
+]

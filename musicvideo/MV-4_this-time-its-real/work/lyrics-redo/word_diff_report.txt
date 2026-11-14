@@ -1,0 +1,284 @@
+new words: 364  old words: 360
+identity changes: 28
+  IDENTITY    3.50  old="'03," (p=0.853) -> new='03' (p=0.627)
+  IDENTITY   11.70  old='Fourteen' (p=0.526) -> new='14' (p=0.48)
+  IDENTITY   33.68  old="Futurama's" (p=0.95) -> new="Futuramah's" (p=0.656)
+  IDENTITY   39.72  old="Futurama's" (p=0.924) -> new='Futuramas' (p=0.657)
+  IDENTITY   41.42  old="Futurama's" (p=0.995) -> new='futuramas' (p=0.348)
+  IDENTITY   56.30  old="Futurama's" (p=0.911) -> new='Futuramas' (p=0.663)
+  IDENTITY   69.96  old='and' (p=0.167) -> new='then' (p=1.0)
+  IDENTITY   79.52  old='We' (p=0.755) -> new="We've" (p=0.938)
+  IDENTITY   83.22  old='The' (p=0.377) -> new='Then' (p=0.634)
+  IDENTITY   88.10  old='songs' (p=0.93) -> new="song's" (p=0.902)
+  IDENTITY   97.22  old="Futurama's" (p=0.335) -> new="Futuramma's" (p=0.728)
+  IDENTITY   99.24  old='For' (p=0.212) -> new='More' (p=0.895)
+  IDENTITY  103.36  old="Futurama's" (p=0.368) -> new='Futuramas' (p=0.665)
+  IDENTITY  104.84  old="Futurama's" (p=0.805) -> new="FUTURAMMA's" (p=0.639)
+  IDENTITY  115.12  old='everyone' (p=0.932) -> new='everybody,' (p=0.0)
+  IDENTITY  119.68  old="Futurama's" (p=0.029) -> new='Futuramas' (p=0.661)
+  IDENTITY  133.82  old='No' (p=0.192) -> new="We'll" (p=0.667)
+  IDENTITY  149.40  old='one' (p=0.756) -> new='ones' (p=0.904)
+  IDENTITY  160.62  old="Futurama's" (p=0.524) -> new='Futuramas' (p=0.658)
+  IDENTITY  168.00  old="Futurama's" (p=0.383) -> new='our' (p=0.7)
+  IDENTITY  169.30  old='finished' (p=0.985) -> new='Futuramas' (p=0.658)
+  IDENTITY     ---  old=None (p=None) -> new='finish' (p=0.245)
+  IDENTITY  170.34  old='episode,' (p=0.365) -> new='episodes,' (p=0.999)
+  IDENTITY  180.30  old='done' (p=0.991) -> new='gone' (p=0.0)
+  IDENTITY  182.12  old='everyone,' (p=0.872) -> new='everybody,' (p=0.0)
+  IDENTITY  182.86  old='news,' (p=0.996) -> new='new' (p=0.0)
+  IDENTITY  190.40  old="Futurama's" (p=0.009) -> new='Futuramas' (p=0.398)
+  IDENTITY  210.18  old='on' (p=0.98) -> new='off' (p=0.001)
+timing shifts >0.10s: 81
+  TIMING    4.00  'Then' 4.00 -> 3.86 (d=-0.14)
+  TIMING    8.66  'hit' 8.66 -> 8.90 (d=+0.24)
+  TIMING    9.76  'and' 9.76 -> 9.90 (d=+0.14)
+  TIMING   12.36  'seasons' 12.36 -> 12.24 (d=-0.12)
+  TIMING   13.52  "we're" 13.52 -> 13.64 (d=+0.12)
+  TIMING   17.10  'the' 17.10 -> 17.40 (d=+0.30)
+  TIMING   19.76  "That's" 19.76 -> 18.62 (d=-1.14)
+  TIMING   22.22  'file' 22.22 -> 22.42 (d=+0.20)
+  TIMING   23.34  'Matt' 23.34 -> 23.18 (d=-0.16)
+  TIMING   28.46  'the' 28.46 -> 28.62 (d=+0.16)
+  TIMING   40.72  'finished,' 40.72 -> 40.56 (d=-0.16)
+  TIMING   42.58  'finished' 42.58 -> 42.42 (d=-0.16)
+  TIMING   44.28  "that's" 44.28 -> 44.98 (d=+0.70)
+  TIMING   46.88  'Good' 46.88 -> 46.74 (d=-0.14)
+  TIMING   48.72  'the' 48.72 -> 48.60 (d=-0.12)
+  TIMING   49.20  'is' 49.20 -> 49.32 (d=+0.12)
+  TIMING   50.26  'Good' 50.26 -> 50.14 (d=-0.12)
+  TIMING   52.80  "won't" 52.80 -> 52.94 (d=+0.14)
+  TIMING   64.82  'Three' 64.82 -> 64.40 (d=-0.42)
+  TIMING   67.48  '27' 67.48 -> 67.68 (d=+0.20)
+  TIMING   68.70  'Christmas' 68.70 -> 68.56 (d=-0.14)
+  TIMING   72.80  'But' 72.80 -> 71.94 (d=-0.86)
+  TIMING   79.92  'seen' 79.92 -> 80.04 (d=+0.12)
+  TIMING   88.60  'about' 88.60 -> 88.76 (d=+0.16)
+  TIMING   92.40  'never' 92.40 -> 92.56 (d=+0.16)
+  TIMING   95.40  "Futurama's" 95.40 -> 96.06 (d=+0.66)
+  TIMING   96.68  'finished' 96.68 -> 96.94 (d=+0.26)
+  TIMING   98.48  'finished' 98.48 -> 98.80 (d=+0.32)
+  TIMING  100.16  'time' 100.16 -> 100.30 (d=+0.14)
+  TIMING  106.04  'finished' 106.04 -> 106.24 (d=+0.20)
+  TIMING  108.18  "That's" 108.18 -> 108.74 (d=+0.56)
+  TIMING  110.34  'Good' 110.34 -> 110.52 (d=+0.18)
+  TIMING  112.00  'The' 112.00 -> 112.30 (d=+0.30)
+  TIMING  112.84  'is' 112.84 -> 112.98 (d=+0.14)
+  TIMING  115.74  'The' 115.74 -> 116.02 (d=+0.28)
+  TIMING  117.96  "Futurama's" 117.96 -> 118.36 (d=+0.40)
+  TIMING  119.14  'finished' 119.14 -> 119.38 (d=+0.24)
+  TIMING  123.18  'No' 123.18 -> 123.32 (d=+0.14)
+  TIMING  126.44  'They' 126.44 -> 126.20 (d=-0.24)
+  TIMING  130.46  'Like' 130.46 -> 129.98 (d=-0.48)
+  TIMING  131.70  'the' 131.70 -> 131.86 (d=+0.16)
+  TIMING  132.84  'back' 132.84 -> 132.98 (d=+0.14)
+  TIMING  135.30  'He' 135.30 -> 135.52 (d=+0.22)
+  TIMING  136.70  'saying' 136.70 -> 136.88 (d=+0.18)
+  TIMING  148.40  'But' 148.40 -> 147.78 (d=-0.62)
+  TIMING  151.96  'And' 151.96 -> 151.78 (d=-0.18)
+  TIMING  153.20  'stays' 153.20 -> 153.32 (d=+0.12)
+  TIMING  153.78  'empty' 153.78 -> 153.96 (d=+0.18)
+  TIMING  158.76  "Futurama's" 158.76 -> 159.38 (d=+0.62)
+  TIMING  160.08  'finished' 160.08 -> 160.34 (d=+0.26)
+  TIMING  162.64  'For' 162.64 -> 162.48 (d=-0.16)
+  TIMING  164.64  'reruns' 164.64 -> 164.78 (d=+0.14)
+  TIMING  167.46  'finished' 167.46 -> 167.74 (d=+0.28)
+  TIMING  171.16  "that's" 171.16 -> 171.94 (d=+0.78)
+  TIMING  173.90  'Good' 173.90 -> 173.74 (d=-0.16)
+  TIMING  174.74  'everyone,' 174.74 -> 174.60 (d=-0.14)
+  TIMING  176.60  'everyone' 176.60 -> 176.24 (d=-0.36)
+  TIMING  181.24  'Good' 181.24 -> 180.80 (d=-0.44)
+  TIMING  182.42  'good' 182.42 -> 182.72 (d=+0.30)
+  TIMING  184.02  'everyone' 184.02 -> 183.54 (d=-0.48)
+  TIMING  185.88  'coming' 185.88 -> 186.02 (d=+0.14)
+  TIMING  188.24  "Futurama's" 188.24 -> 187.90 (d=-0.34)
+  TIMING  189.56  'finished' 189.56 -> 189.84 (d=+0.28)
+  TIMING  197.06  'this' 197.06 -> 197.20 (d=+0.14)
+  TIMING  198.38  'no' 198.38 -> 199.04 (d=+0.66)
+  TIMING  200.08  'more' 200.08 -> 200.26 (d=+0.18)
+  TIMING  201.14  'coming' 201.14 -> 201.32 (d=+0.18)
+  TIMING  205.09  'No' 205.09 -> 204.04 (d=-1.05)
+  TIMING  205.66  'more' 205.66 -> 204.74 (d=-0.92)
+  TIMING  207.46  'no' 207.46 -> 204.74 (d=-2.72)
+  TIMING  207.98  'more' 207.98 -> 205.66 (d=-2.32)
+  TIMING  209.68  'coming' 209.68 -> 206.12 (d=-3.56)
+  TIMING  211.75  'Good' 211.75 -> 211.62 (d=-0.13)
+  TIMING  212.69  'news,' 212.69 -> 212.82 (d=+0.13)
+  TIMING  214.17  'good' 214.17 -> 230.56 (d=+16.39)
+  TIMING  214.71  'news,' 214.71 -> 231.80 (d=+17.09)
+  TIMING  215.75  'everyone' 215.75 -> 232.58 (d=+16.83)
+  TIMING  217.75  'For' 217.75 -> 234.24 (d=+16.49)
+  TIMING  218.89  'real' 218.89 -> 236.24 (d=+17.35)
+  TIMING  219.51  'this' 219.51 -> 236.98 (d=+17.47)
+  TIMING  220.01  'time' 220.01 -> 237.48 (d=+17.47)
+old-only words: 6
+  OLD-ONLY  206.04  'coming' (p=0.99)
+  OLD-ONLY  206.66  'on' (p=0.906)
+  OLD-ONLY  220.77  'For' (p=0.457)
+  OLD-ONLY  222.81  'real' (p=0.914)
+  OLD-ONLY  233.63  'this' (p=0.983)
+  OLD-ONLY  237.51  'time' (p=0.998)
+new-only words: 9
+  NEW-ONLY  106.44  'No' (p=0.906)
+  NEW-ONLY  213.84  'Oh,' (p=0.03)
+  NEW-ONLY  214.98  'news,' (p=0.874)
+  NEW-ONLY  215.70  'every' (p=0.0)
+  NEW-ONLY  216.22  'one' (p=0.953)
+  NEW-ONLY  218.28  'For' (p=0.986)
+  NEW-ONLY  218.90  'real' (p=0.998)
+  NEW-ONLY  219.52  'this' (p=0.968)
+  NEW-ONLY  219.98  'time' (p=1.0)
+
+PER-LINE (sheet tokens vs new ASR words in span):
+  L01    0.00-   4.00 sheet=8w asr=9w ratio=0.82  <-- CHECK
+      sheet: they said it was over back in '03
+      asr:   they said it was over back in 03 then
+  L02    4.00-   7.70 sheet=7w asr=6w ratio=0.77  <-- CHECK
+      sheet: then they said it again in twentythirteen
+      asr:   they said it again in 2013
+  L03    7.70-  11.70 sheet=8w asr=9w ratio=0.94  <-- CHECK
+      sheet: hulu hit rewind and we all leaned in
+      asr:   hulu hit rewind and we all leaned in 14
+  L04   11.70-  15.32 sheet=8w asr=7w ratio=0.93  <-- CHECK
+      sheet: fourteen seasons later we're still on the screen
+      asr:   seasons later we're still on the screen
+  L05   16.00-  18.66 sheet=5w asr=6w ratio=0.91  <-- CHECK
+      sheet: final ending the last conclusion
+      asr:   final ending the last conclusion that's
+  L06   19.76-  23.34 sheet=7w asr=7w ratio=0.86  <-- CHECK
+      sheet: that's the label on the last file
+      asr:   the label on the last file matt
+  L07   23.34-  26.44 sheet=6w asr=5w ratio=0.91  <-- CHECK
+      sheet: matt said we're not done yet
+      asr:   said we're not done yet
+  L08   26.44-  30.54 sheet=8w asr=8w ratio=1.00
+  L09   32.36-  35.42 sheet=4w asr=5w ratio=0.67  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futurama's finished futuramah's finished for
+  L10   35.42-  39.72 sheet=10w asr=11w ratio=0.95  <-- CHECK
+      sheet: for real this time no more reruns in the dark
+      asr:   for real this time no more reruns in the dark futuramas
+  L11   39.72-  42.72 sheet=4w asr=3w ratio=0.57  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   finished futuramas finished
+  L12   42.72-  46.88 sheet=7w asr=8w ratio=0.93  <-- CHECK
+      sheet: no fresh episodes that's the hard part
+      asr:   no fresh episodes that's the hard part good
+  L13   46.88-  50.26 sheet=7w asr=7w ratio=0.86  <-- CHECK
+      sheet: good news everyone the ride is done
+      asr:   news everyone the ride is done good
+  L14   50.26-  54.20 sheet=7w asr=6w ratio=0.92  <-- CHECK
+      sheet: good news everyone the ship won't run
+      asr:   news everyone the ship won't run
+  L15   54.20-  57.94 sheet=4w asr=5w ratio=0.67  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futurama's finished futuramas finished for
+  L16   57.94-  63.04 sheet=10w asr=10w ratio=1.00
+  L17   64.82-  68.70 sheet=7w asr=7w ratio=0.71  <-- CHECK
+      sheet: three more specials lined up in twentyseven
+      asr:   more specials lined up in 27 christmas
+  L18   68.70-  72.04 sheet=6w asr=6w ratio=0.83  <-- CHECK
+      sheet: christmas first then two more after
+      asr:   first then two more after but
+  L19   72.80-  74.74 sheet=5w asr=4w ratio=0.89  <-- CHECK
+      sheet: but a whole new season
+      asr:   a whole new season
+  L20   74.74-  76.28 sheet=4w asr=4w ratio=1.00
+  L21   76.28-  79.52 sheet=8w asr=9w ratio=0.94  <-- CHECK
+      sheet: they sealed it up and walked out after
+      asr:   they sealed it up and walked out after we've
+  L22   79.52-  83.22 sheet=8w asr=7w ratio=0.93  <-- CHECK
+      sheet: we've seen this loop from fox to cable
+      asr:   seen this loop from fox to cable
+  L23   83.22-  86.96 sheet=7w asr=7w ratio=1.00
+  L24   86.96-  90.74 sheet=9w asr=9w ratio=0.89  <-- CHECK
+      sheet: but this song's about the day they mean it
+      asr:   but the song's about the day they mean it
+  L25   90.74-  95.40 sheet=8w asr=8w ratio=1.00
+  L26   95.40-  99.24 sheet=4w asr=5w ratio=0.67  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futurama's finished futuramma's finished more
+  L27   99.24- 103.36 sheet=10w asr=10w ratio=0.90  <-- CHECK
+      sheet: for real this time no more reruns in the dark
+      asr:   more real this time no more reruns in the dark
+  L28  103.36- 106.38 sheet=4w asr=4w ratio=0.50  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futuramas finished futuramma's finished
+  L29  106.62- 110.34 sheet=7w asr=6w ratio=0.92  <-- CHECK
+      sheet: no fresh episodes that's the hard part
+      asr:   fresh episodes that's the hard part
+  L30  110.34- 113.88 sheet=7w asr=7w ratio=1.00
+  L31  113.88- 117.96 sheet=7w asr=7w ratio=0.86  <-- CHECK
+      sheet: good news everyone the ship won't run
+      asr:   good news everybody the ship won't run
+  L32  117.96- 121.64 sheet=4w asr=5w ratio=0.67  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futurama's finished futuramas finished for
+  L33  121.64- 126.44 sheet=10w asr=10w ratio=0.90  <-- CHECK
+      sheet: for real this time no more reruns in the dark
+      asr:   real this time no more reruns in the dark they
+  L34  126.44- 130.18 sheet=6w asr=6w ratio=0.83  <-- CHECK
+      sheet: they always joke before the ending
+      asr:   always joke before the ending like
+  L35  130.46- 133.82 sheet=7w asr=7w ratio=0.86  <-- CHECK
+      sheet: like they can talk the credits back
+      asr:   they can talk the credits back we'll
+  L36  133.82- 137.52 sheet=7w asr=7w ratio=0.86  <-- CHECK
+      sheet: we'll rise again he keeps on saying
+      asr:   rise again he keeps on saying but
+  L37  137.52- 140.56 sheet=5w asr=6w ratio=0.91  <-- CHECK
+      sheet: but the paperwork says otherwise
+      asr:   but the paperwork says otherwise you
+  L38  140.56- 144.64 sheet=9w asr=9w ratio=0.89  <-- CHECK
+      sheet: you can binge the old ones on your couch
+      asr:   can binge the old ones on your couch quote
+  L39  144.64- 147.86 sheet=6w asr=7w ratio=0.92  <-- CHECK
+      sheet: quote every line like muscle memory
+      asr:   quote every line like muscle memory but
+  L40  148.40- 151.96 sheet=8w asr=8w ratio=0.88  <-- CHECK
+      sheet: but the new ones stopped at the doorstep
+      asr:   the new ones stopped at the doorstep and
+  L41  151.96- 155.16 sheet=5w asr=4w ratio=0.89  <-- CHECK
+      sheet: and the hallway stays empty
+      asr:   the hallway stays empty
+  L42  158.76- 162.64 sheet=4w asr=5w ratio=0.67  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futurama's finished futuramas finished for
+  L43  162.64- 166.54 sheet=10w asr=9w ratio=0.95  <-- CHECK
+      sheet: for real this time no more reruns in the dark
+      asr:   real this time no more reruns in the dark
+  L44  166.54- 169.72 sheet=4w asr=6w ratio=0.40  <-- CHECK
+      sheet: futurama's finished futurama's finished
+      asr:   futurama's finished our futuramas finish no
+  L45  169.72- 173.90 sheet=7w asr=8w ratio=0.93  <-- CHECK
+      sheet: no fresh episodes that's the hard part
+      asr:   no fresh episodes that's the hard part good
+  L46  173.90- 177.12 sheet=6w asr=6w ratio=0.83  <-- CHECK
+      sheet: good news everyone good news everyone
+      asr:   news everyone good news everyone the
+  L47  177.12- 181.24 sheet=8w asr=9w ratio=0.82  <-- CHECK
+      sheet: the ride is done the ride is done
+      asr:   the ride is done the ride is gone good
+  L48  181.24- 184.52 sheet=6w asr=6w ratio=0.33  <-- CHECK
+      sheet: good news everyone good news everyone
+      asr:   news everybody good new everyone no
+  L49  184.52- 187.46 sheet=4w asr=4w ratio=1.00
+  L50  188.24- 190.22 sheet=2w asr=1w ratio=0.67  <-- CHECK
+      sheet: futurama's finished
+      asr:   finished
+  L51  190.40- 194.06 sheet=2w asr=3w ratio=0.40  <-- CHECK
+      sheet: futurama's finished
+      asr:   futuramas finished for
+  L52  194.06- 198.38 sheet=4w asr=4w ratio=1.00
+  L53  198.38- 204.72 sheet=4w asr=5w ratio=0.89  <-- CHECK
+      sheet: no more coming on
+      asr:   no more coming on no
+  L54  205.09- 210.75 sheet=8w asr=3w ratio=0.36  <-- CHECK
+      sheet: no more coming on no more coming on
+      asr:   more coming off
+  L55  211.75- 216.73 sheet=6w asr=6w ratio=0.50  <-- CHECK
+      sheet: good news everyone good news everyone
+      asr:   news everyone oh news every one
+  L56  217.75- 220.77 sheet=4w asr=4w ratio=1.00
+  L57  220.77- 238.03 sheet=10w asr=7w ratio=0.82  <-- CHECK
+      sheet: good news everyone  for real this time repeat soft
+      asr:   good news everyone for real this time

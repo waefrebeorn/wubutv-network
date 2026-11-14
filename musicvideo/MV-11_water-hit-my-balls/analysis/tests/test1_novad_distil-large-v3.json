@@ -1,0 +1,780 @@
+{
+ "model": "distil-large-v3",
+ "wall_s": 786.9,
+ "words_total": 128,
+ "words_102_172": 52,
+ "words_110_155": 43,
+ "max_same_word_run": 5,
+ "words_over_2s": 3,
+ "words": [
+  {
+   "word": "Water",
+   "start": 13.34,
+   "end": 14.74,
+   "prob": 0.815
+  },
+  {
+   "word": "hits",
+   "start": 14.74,
+   "end": 15.22,
+   "prob": 0.999
+  },
+  {
+   "word": "my",
+   "start": 15.22,
+   "end": 15.48,
+   "prob": 0.998
+  },
+  {
+   "word": "balls",
+   "start": 15.48,
+   "end": 16.6,
+   "prob": 0.997
+  },
+  {
+   "word": "water",
+   "start": 17.84,
+   "end": 18.54,
+   "prob": 0.08
+  },
+  {
+   "word": "hits",
+   "start": 18.54,
+   "end": 18.98,
+   "prob": 0.999
+  },
+  {
+   "word": "my",
+   "start": 18.98,
+   "end": 19.26,
+   "prob": 0.999
+  },
+  {
+   "word": "bones",
+   "start": 19.26,
+   "end": 20.12,
+   "prob": 0.001
+  },
+  {
+   "word": "When",
+   "start": 21.18,
+   "end": 22.16,
+   "prob": 0.901
+  },
+  {
+   "word": "I",
+   "start": 22.16,
+   "end": 22.34,
+   "prob": 0.989
+  },
+  {
+   "word": "poop",
+   "start": 22.34,
+   "end": 22.7,
+   "prob": 0.987
+  },
+  {
+   "word": "it",
+   "start": 22.7,
+   "end": 22.98,
+   "prob": 0.883
+  },
+  {
+   "word": "splashes",
+   "start": 22.98,
+   "end": 23.84,
+   "prob": 0.953
+  },
+  {
+   "word": "Balls,",
+   "start": 26.22,
+   "end": 27.62,
+   "prob": 0.56
+  },
+  {
+   "word": "balls",
+   "start": 29.26,
+   "end": 29.26,
+   "prob": 0.22
+  },
+  {
+   "word": "It's",
+   "start": 30.0,
+   "end": 30.28,
+   "prob": 0.458
+  },
+  {
+   "word": "my",
+   "start": 30.28,
+   "end": 30.52,
+   "prob": 0.97
+  },
+  {
+   "word": "ball",
+   "start": 30.52,
+   "end": 30.94,
+   "prob": 0.639
+  },
+  {
+   "word": "Water",
+   "start": 30.94,
+   "end": 31.64,
+   "prob": 0.048
+  },
+  {
+   "word": "hits",
+   "start": 31.64,
+   "end": 32.1,
+   "prob": 0.985
+  },
+  {
+   "word": "my",
+   "start": 32.1,
+   "end": 32.36,
+   "prob": 0.992
+  },
+  {
+   "word": "balls",
+   "start": 32.36,
+   "end": 33.1,
+   "prob": 0.939
+  },
+  {
+   "word": "Water",
+   "start": 33.1,
+   "end": 33.62,
+   "prob": 0.589
+  },
+  {
+   "word": "hits",
+   "start": 33.62,
+   "end": 34.04,
+   "prob": 0.998
+  },
+  {
+   "word": "My",
+   "start": 34.04,
+   "end": 34.28,
+   "prob": 0.003
+  },
+  {
+   "word": "balls",
+   "start": 34.28,
+   "end": 34.88,
+   "prob": 0.898
+  },
+  {
+   "word": "Flash",
+   "start": 34.88,
+   "end": 35.52,
+   "prob": 0.275
+  },
+  {
+   "word": "back",
+   "start": 35.52,
+   "end": 35.88,
+   "prob": 0.861
+  },
+  {
+   "word": "on",
+   "start": 35.88,
+   "end": 36.1,
+   "prob": 0.955
+  },
+  {
+   "word": "the",
+   "start": 36.1,
+   "end": 36.3,
+   "prob": 0.994
+  },
+  {
+   "word": "Balls",
+   "start": 36.3,
+   "end": 37.06,
+   "prob": 0.485
+  },
+  {
+   "word": "Falls",
+   "start": 37.06,
+   "end": 37.52,
+   "prob": 0.065
+  },
+  {
+   "word": "Bowls",
+   "start": 41.08,
+   "end": 41.96,
+   "prob": 0.165
+  },
+  {
+   "word": "Aude",
+   "start": 41.96,
+   "end": 42.2,
+   "prob": 0.016
+  },
+  {
+   "word": "Sitting",
+   "start": 44.88,
+   "end": 45.76,
+   "prob": 0.0
+  },
+  {
+   "word": "on",
+   "start": 45.76,
+   "end": 46.64,
+   "prob": 0.995
+  },
+  {
+   "word": "the",
+   "start": 46.64,
+   "end": 46.78,
+   "prob": 0.998
+  },
+  {
+   "word": "toilet",
+   "start": 46.78,
+   "end": 47.22,
+   "prob": 0.993
+  },
+  {
+   "word": "Water",
+   "start": 47.22,
+   "end": 48.12,
+   "prob": 0.898
+  },
+  {
+   "word": "hits",
+   "start": 48.12,
+   "end": 48.74,
+   "prob": 0.996
+  },
+  {
+   "word": "my",
+   "start": 48.74,
+   "end": 49.54,
+   "prob": 0.964
+  },
+  {
+   "word": "balls",
+   "start": 49.54,
+   "end": 50.24,
+   "prob": 0.489
+  },
+  {
+   "word": "water",
+   "start": 54.4,
+   "end": 55.8,
+   "prob": 0.033
+  },
+  {
+   "word": "hits",
+   "start": 55.8,
+   "end": 56.34,
+   "prob": 0.993
+  },
+  {
+   "word": "My",
+   "start": 56.34,
+   "end": 57.12,
+   "prob": 0.026
+  },
+  {
+   "word": "ball",
+   "start": 57.12,
+   "end": 61.8,
+   "prob": 0.548
+  },
+  {
+   "word": "Water",
+   "start": 66.0,
+   "end": 67.4,
+   "prob": 0.043
+  },
+  {
+   "word": "hits",
+   "start": 67.4,
+   "end": 67.88,
+   "prob": 0.996
+  },
+  {
+   "word": "Why",
+   "start": 67.88,
+   "end": 68.32,
+   "prob": 0.0
+  },
+  {
+   "word": "Splash,",
+   "start": 77.48,
+   "end": 78.34,
+   "prob": 0.631
+  },
+  {
+   "word": "black",
+   "start": 78.86,
+   "end": 79.08,
+   "prob": 0.456
+  },
+  {
+   "word": "Water",
+   "start": 81.36,
+   "end": 82.22,
+   "prob": 0.0
+  },
+  {
+   "word": "hits",
+   "start": 82.22,
+   "end": 82.8,
+   "prob": 0.999
+  },
+  {
+   "word": "my",
+   "start": 82.8,
+   "end": 83.1,
+   "prob": 0.998
+  },
+  {
+   "word": "balls",
+   "start": 83.1,
+   "end": 83.53,
+   "prob": 0.981
+  },
+  {
+   "word": "When",
+   "start": 87.4,
+   "end": 87.78,
+   "prob": 0.043
+  },
+  {
+   "word": "I",
+   "start": 87.78,
+   "end": 88.04,
+   "prob": 0.995
+  },
+  {
+   "word": "poop",
+   "start": 88.04,
+   "end": 88.4,
+   "prob": 0.94
+  },
+  {
+   "word": "in",
+   "start": 88.4,
+   "end": 88.62,
+   "prob": 0.654
+  },
+  {
+   "word": "splashes",
+   "start": 88.62,
+   "end": 89.3,
+   "prob": 0.754
+  },
+  {
+   "word": "Spallishes",
+   "start": 89.3,
+   "end": 89.8,
+   "prob": 0.067
+  },
+  {
+   "word": "Balls,",
+   "start": 89.8,
+   "end": 91.18,
+   "prob": 0.499
+  },
+  {
+   "word": "Wattah",
+   "start": 91.44,
+   "end": 91.92,
+   "prob": 0.113
+  },
+  {
+   "word": "hits",
+   "start": 91.92,
+   "end": 92.14,
+   "prob": 0.009
+  },
+  {
+   "word": "my",
+   "start": 92.14,
+   "end": 92.44,
+   "prob": 0.998
+  },
+  {
+   "word": "ball",
+   "start": 92.44,
+   "end": 94.22,
+   "prob": 0.003
+  },
+  {
+   "word": "splash",
+   "start": 94.76,
+   "end": 95.5,
+   "prob": 0.0
+  },
+  {
+   "word": "back",
+   "start": 95.5,
+   "end": 95.74,
+   "prob": 0.947
+  },
+  {
+   "word": "on",
+   "start": 95.74,
+   "end": 96.1,
+   "prob": 0.993
+  },
+  {
+   "word": "the",
+   "start": 96.1,
+   "end": 96.28,
+   "prob": 0.987
+  },
+  {
+   "word": "bows",
+   "start": 96.28,
+   "end": 97.08,
+   "prob": 0.005
+  },
+  {
+   "word": "I'm",
+   "start": 97.08,
+   "end": 97.48,
+   "prob": 0.56
+  },
+  {
+   "word": "all",
+   "start": 97.48,
+   "end": 97.92,
+   "prob": 0.61
+  },
+  {
+   "word": "the",
+   "start": 97.92,
+   "end": 98.6,
+   "prob": 0.064
+  },
+  {
+   "word": "water,",
+   "start": 98.6,
+   "end": 98.6,
+   "prob": 0.339
+  },
+  {
+   "word": "rain,",
+   "start": 98.6,
+   "end": 98.68,
+   "prob": 0.01
+  },
+  {
+   "word": "don't",
+   "start": 104.66,
+   "end": 105.46,
+   "prob": 0.501
+  },
+  {
+   "word": "know",
+   "start": 105.46,
+   "end": 105.46,
+   "prob": 0.414
+  },
+  {
+   "word": "water",
+   "start": 109.32,
+   "end": 110.12,
+   "prob": 0.181
+  },
+  {
+   "word": "water",
+   "start": 110.96,
+   "end": 111.76,
+   "prob": 0.726
+  },
+  {
+   "word": "water",
+   "start": 111.76,
+   "end": 111.94,
+   "prob": 0.76
+  },
+  {
+   "word": "water",
+   "start": 111.94,
+   "end": 112.4,
+   "prob": 0.585
+  },
+  {
+   "word": "water",
+   "start": 112.4,
+   "end": 113.96,
+   "prob": 0.477
+  },
+  {
+   "word": "hit",
+   "start": 113.96,
+   "end": 114.14,
+   "prob": 0.0
+  },
+  {
+   "word": "water",
+   "start": 114.14,
+   "end": 114.78,
+   "prob": 0.808
+  },
+  {
+   "word": "water",
+   "start": 114.78,
+   "end": 115.14,
+   "prob": 0.559
+  },
+  {
+   "word": "water",
+   "start": 115.14,
+   "end": 115.38,
+   "prob": 0.617
+  },
+  {
+   "word": "water",
+   "start": 115.38,
+   "end": 115.42,
+   "prob": 0.665
+  },
+  {
+   "word": "water",
+   "start": 115.42,
+   "end": 115.48,
+   "prob": 0.701
+  },
+  {
+   "word": "What",
+   "start": 127.08,
+   "end": 127.16,
+   "prob": 0.426
+  },
+  {
+   "word": "I",
+   "start": 127.16,
+   "end": 127.36,
+   "prob": 0.98
+  },
+  {
+   "word": "hits",
+   "start": 127.36,
+   "end": 127.62,
+   "prob": 0.786
+  },
+  {
+   "word": "my",
+   "start": 127.62,
+   "end": 127.92,
+   "prob": 0.997
+  },
+  {
+   "word": "balls",
+   "start": 127.92,
+   "end": 128.7,
+   "prob": 0.69
+  },
+  {
+   "word": "when",
+   "start": 128.7,
+   "end": 129.04,
+   "prob": 0.664
+  },
+  {
+   "word": "I",
+   "start": 129.04,
+   "end": 129.22,
+   "prob": 0.982
+  },
+  {
+   "word": "poop",
+   "start": 129.22,
+   "end": 129.62,
+   "prob": 0.683
+  },
+  {
+   "word": "it",
+   "start": 129.62,
+   "end": 129.86,
+   "prob": 0.425
+  },
+  {
+   "word": "splashes",
+   "start": 129.86,
+   "end": 130.62,
+   "prob": 0.907
+  },
+  {
+   "word": "Wals,",
+   "start": 130.62,
+   "end": 131.56,
+   "prob": 0.386
+  },
+  {
+   "word": "bowels,",
+   "start": 132.04,
+   "end": 138.18,
+   "prob": 0.194
+  },
+  {
+   "word": "walls,",
+   "start": 138.18,
+   "end": 138.18,
+   "prob": 0.142
+  },
+  {
+   "word": "what",
+   "start": 138.22,
+   "end": 138.3,
+   "prob": 0.083
+  },
+  {
+   "word": "I",
+   "start": 138.3,
+   "end": 138.6,
+   "prob": 0.983
+  },
+  {
+   "word": "hit",
+   "start": 138.6,
+   "end": 138.76,
+   "prob": 0.535
+  },
+  {
+   "word": "my",
+   "start": 138.76,
+   "end": 139.12,
+   "prob": 0.996
+  },
+  {
+   "word": "boss",
+   "start": 139.12,
+   "end": 139.7,
+   "prob": 0.061
+  },
+  {
+   "word": "When...",
+   "start": 140.34,
+   "end": 140.98,
+   "prob": 0.03
+  },
+  {
+   "word": "Water",
+   "start": 140.98,
+   "end": 142.14,
+   "prob": 0.796
+  },
+  {
+   "word": "hits",
+   "start": 142.14,
+   "end": 142.62,
+   "prob": 0.997
+  },
+  {
+   "word": "my",
+   "start": 142.62,
+   "end": 142.94,
+   "prob": 0.996
+  },
+  {
+   "word": "balls",
+   "start": 142.94,
+   "end": 143.74,
+   "prob": 0.99
+  },
+  {
+   "word": "When",
+   "start": 144.9,
+   "end": 145.76,
+   "prob": 0.669
+  },
+  {
+   "word": "I",
+   "start": 145.76,
+   "end": 145.96,
+   "prob": 0.995
+  },
+  {
+   "word": "hope",
+   "start": 145.96,
+   "end": 146.32,
+   "prob": 0.281
+  },
+  {
+   "word": "it's",
+   "start": 146.32,
+   "end": 146.92,
+   "prob": 0.968
+  },
+  {
+   "word": "splice",
+   "start": 146.92,
+   "end": 148.84,
+   "prob": 0.744
+  },
+  {
+   "word": "Boles,",
+   "start": 153.06,
+   "end": 154.14,
+   "prob": 0.314
+  },
+  {
+   "word": "boss.",
+   "start": 154.14,
+   "end": 154.14,
+   "prob": 0.047
+  },
+  {
+   "word": "Balls,",
+   "start": 154.14,
+   "end": 154.22,
+   "prob": 0.569
+  },
+  {
+   "word": "balls,",
+   "start": 154.44,
+   "end": 154.44,
+   "prob": 0.908
+  },
+  {
+   "word": "boars,",
+   "start": 154.46,
+   "end": 156.98,
+   "prob": 0.314
+  },
+  {
+   "word": "Oh,",
+   "start": 156.98,
+   "end": 157.12,
+   "prob": 0.342
+  },
+  {
+   "word": "oh.",
+   "start": 157.8,
+   "end": 157.8,
+   "prob": 0.184
+  },
+  {
+   "word": "Boz!",
+   "start": 166.7,
+   "end": 167.62,
+   "prob": 0.124
+  },
+  {
+   "word": "Oh,",
+   "start": 167.62,
+   "end": 167.62,
+   "prob": 0.828
+  },
+  {
+   "word": "go.",
+   "start": 167.62,
+   "end": 167.64,
+   "prob": 0.097
+  },
+  {
+   "word": "Oh.",
+   "start": 168.16,
+   "end": 169.08,
+   "prob": 0.709
+  }
+ ],
+ "text": " Water hits my balls  water hits my bones  When I poop it splashes  Balls, balls  It's my ball  Water hits my balls  Water hits  My balls  Flash back on the  Balls  Falls  Bowls  Aude  Sitting on the toilet  Water hits my balls  water hits  My ball  Water hits  Why  Splash, black  Water hits my balls  When I poop in splashes  Spallishes  Balls,  Wattah hits my ball  splash back on the bows  I'm all the water,  rain,  don't know  water  water  water  water  water  hit  water  water  water  water  water  water  water  What I hits my balls when I poop it splashes  Wals, bowels, walls,  what I hit my boss  When...  Water hits my balls  When I hope it's splice  Boles, boss.  Balls, balls, boars,  Oh, oh.  Boz!  Oh, go.  Oh."
+}

@@ -1,0 +1,116 @@
+{
+ "take": "R06B",
+ "line": "V1.4 Been here so long, I could sign back in",
+ "song_window": [
+  26.82,
+  29.42
+ ],
+ "song_span_s": 2.6,
+ "take_span_s": 4.26,
+ "overall_speedup": 1.638,
+ "words": [
+  {
+   "song_word": "been",
+   "song_onset_rel": 0.0,
+   "take_word": "Been",
+   "take_onset": 0.0
+  },
+  {
+   "song_word": "here",
+   "song_onset_rel": 0.36,
+   "take_word": "here",
+   "take_onset": 1.06
+  },
+  {
+   "song_word": "so",
+   "song_onset_rel": 0.64,
+   "take_word": "so",
+   "take_onset": 1.46
+  },
+  {
+   "song_word": "long",
+   "song_onset_rel": 0.92,
+   "take_word": "long,",
+   "take_onset": 1.8
+  },
+  {
+   "song_word": "I",
+   "song_onset_rel": 1.3,
+   "take_word": "I",
+   "take_onset": 2.52
+  },
+  {
+   "song_word": "could",
+   "song_onset_rel": 1.5,
+   "take_word": "could",
+   "take_onset": 2.76
+  },
+  {
+   "song_word": "sign",
+   "song_onset_rel": 1.6,
+   "take_word": "sign",
+   "take_onset": 2.96
+  },
+  {
+   "song_word": "back",
+   "song_onset_rel": 1.86,
+   "take_word": "back",
+   "take_onset": 3.34
+  },
+  {
+   "song_word": "in",
+   "song_onset_rel": 2.18,
+   "take_word": "in",
+   "take_onset": 3.7
+  }
+ ],
+ "keyframes_take_to_song": [
+  [
+   0.0,
+   0.0
+  ],
+  [
+   1.06,
+   0.36
+  ],
+  [
+   1.46,
+   0.64
+  ],
+  [
+   1.8,
+   0.92
+  ],
+  [
+   2.52,
+   1.3
+  ],
+  [
+   2.76,
+   1.5
+  ],
+  [
+   2.96,
+   1.6
+  ],
+  [
+   3.34,
+   1.86
+  ],
+  [
+   3.7,
+   2.18
+  ],
+  [
+   4.26,
+   2.6
+  ]
+ ],
+ "playback_speed_min": 1.075,
+ "playback_speed_max": 8.844,
+ "playback_speed_mean": 2.021,
+ "rescue_frames": 62,
+ "motion_mean_diff_small": 3.887,
+ "motion_max_neardup_run_frames": 0,
+ "mouthgate_grid": "R06B_mouthgate.jpg (rows = song words in order; left = onset frame, right = onset+1 frame; crop x30-62% y26-60%)"
+}

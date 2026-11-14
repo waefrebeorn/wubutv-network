@@ -1,0 +1,23 @@
+MV-10 S10b — "The Memory Returns" (bridge memory return — two-image journey young → old)
+Song window: 127.56–140.86 (gap 127.56–131.76 + vocal 131.76–137.60 in S10a + return gap 137.60–140.86). This take covers the RETURN: 137.60–140.86, no words. Scene: BR-B. Tag: MONTAGE.
+Vehicle v1. Fired in volley 4, fourth.
+TWO-IMAGE JOURNEY per the scene plan: old → young → old across S10a/S10b. S10a KEEP (92eb8f45…) was old → young (the memory takes over). This take is young → old (the return to the bedroom).
+Image 1: MV-9 work/stills/anchor_young_man_1248x704.png (md5 5fceb18f6ec53602355e07f8d3f5e71e).
+Image 2: work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 5 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. The festival line hazy and smeared behind him, the fence and the blue porta-potties fading at the edges, the memory letting go. The young man from the first reference image — lean, sharp nose, dark messy hair, sunburned nose, damp grey t-shirt, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — stands facing camera in medium close-up, mouth closed and still, the QR code glowing cadmium on the phone in his hand.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/stills/anchor_young_man_1248x704.png
+
+[3] TEXT:
+His face shifts back into the old man's face from the second reference image — the SAME man, old again, late sixties, grey at the temples, deeper lines, grey stubble, navy cardigan, reading glasses on a chain around his neck — as the festival haze dissolves and the quiet bedroom returns around him, deep night blue, warm lamp gold light, the water glass glowing on the nightstand.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[5] TEXT:
+He stands in the bedroom facing camera, mouth closed and still for the entire clip — he does not sing, he does not speak, his mouth stays closed. He blinks slowly, looks down at the glowing phone in his right hand, the plain solid cadmium yellow wristband with no numbers and no text on his left wrist, the memory settling behind his eyes. The camera is steady, a slow drift toward the water glass on the nightstand. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: no words in this span (SONG_WORDS.json: the "oh oh" tail at 137.6 belongs to S10a's line, 137.12–139.02; this take is the return after it, mouth closed throughout). Two-image measured behavior (video-api-mastery): start-anchor → ~0.5s morph → ~9 of 10s in the second image's world — here the 5s take lands the morph early and settles in the bedroom, which IS the return. HAZE ONLY for the memory — nothing explicit, nothing graphic. Matched pair with MV-9's bridge: same objects, older/dimmer/smeared. Assembly uses ~3.3s of this 5s take (137.60–140.86).

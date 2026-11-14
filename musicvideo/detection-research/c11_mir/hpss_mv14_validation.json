@@ -1,0 +1,37 @@
+{
+ "masks": {
+  "hpss_corr": 0.9992292828227352,
+  "hpss_max_abs_diff": 35.41329715618284,
+  "hpss_rel_max_diff": 0.2394824608903704
+ },
+ "bounds": {
+  "segments_vocal": {
+   "ref_segments": 12,
+   "c_segments": 13,
+   "starts_matched": 2,
+   "starts_total": 12,
+   "starts_median_offset_s": 0.3700000000000063,
+   "ends_matched": 1,
+   "ends_total": 12,
+   "ends_median_offset_s": 0.129999999999999,
+   "overall_pct": 12.5,
+   "c_to_ref_overall_pct": 11.538461538461538,
+   "c_to_ref_starts_matched": 2,
+   "c_to_ref_ends_matched": 1
+  },
+  "segments_full": {
+   "ref_segments": 12,
+   "c_segments": 16,
+   "starts_matched": 1,
+   "starts_total": 12,
+   "starts_median_offset_s": 0.22999999999999687,
+   "ends_matched": 1,
+   "ends_total": 12,
+   "ends_median_offset_s": 0.490000000000002,
+   "overall_pct": 8.333333333333334,
+   "c_to_ref_overall_pct": 6.25,
+   "c_to_ref_starts_matched": 1,
+   "c_to_ref_ends_matched": 1
+  }
+ }
+}

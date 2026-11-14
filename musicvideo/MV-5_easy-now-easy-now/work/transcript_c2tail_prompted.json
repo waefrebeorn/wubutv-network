@@ -1,0 +1,56 @@
+{
+ "tag": "c2tail",
+ "t0": 139.0,
+ "segments": [
+  {
+   "start": 139.0,
+   "end": 149.54,
+   "text": "Easy now, easy nowwiad",
+   "words": [
+    {
+     "word": "Easy",
+     "start": 139.0,
+     "end": 139.56,
+     "prob": 0.006
+    },
+    {
+     "word": " now,",
+     "start": 139.56,
+     "end": 139.74,
+     "prob": 0.002
+    },
+    {
+     "word": " easy",
+     "start": 139.74,
+     "end": 140.56,
+     "prob": 0.001
+    },
+    {
+     "word": " nowwiad",
+     "start": 140.56,
+     "end": 149.54,
+     "prob": 0.214
+    }
+   ]
+  },
+  {
+   "start": 149.54,
+   "end": 149.98,
+   "text": "comes down",
+   "words": [
+    {
+     "word": " comes",
+     "start": 149.54,
+     "end": 149.82,
+     "prob": 0.087
+    },
+    {
+     "word": " down",
+     "start": 149.82,
+     "end": 149.98,
+     "prob": 0.469
+    }
+   ]
+  }
+ ]
+}

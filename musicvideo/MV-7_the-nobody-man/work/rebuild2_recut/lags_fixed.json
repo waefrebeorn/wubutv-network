@@ -1,0 +1,227 @@
+{
+ "I1a": {
+  "audio_onset": 0.0,
+  "event": 1.5833333333333333,
+  "lag": 1.583,
+  "base": 0.0221,
+  "peak": 0.0522,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "I1c": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0236,
+  "peak": 0.0335,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "I2a": {
+  "audio_onset": 0.0,
+  "event": 0.875,
+  "lag": 0.875,
+  "base": 0.0219,
+  "peak": 0.0453,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "I2c": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.022,
+  "peak": 0.0399,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "V1.1": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0239,
+  "peak": 0.0342,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "V1.4": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.022,
+  "peak": 0.0382,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "V1.5": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.026,
+  "peak": 0.0386,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "V1.6": {
+  "audio_onset": 2.82,
+  "event": 2.82,
+  "lag": 0.0,
+  "base": 0.0397,
+  "peak": 0.0397,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": -0.07
+ },
+ "PC1.1": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.021,
+  "peak": 0.0277,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "PC1.2": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0247,
+  "peak": 0.037,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "PC1.3": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0222,
+  "peak": 0.0369,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "PC1.4": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0189,
+  "peak": 0.0262,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "C1.2": {
+  "audio_onset": 2.98,
+  "event": null,
+  "lag": null,
+  "base": 0.0,
+  "peak": 0.0,
+  "mode": "FLAT",
+  "old_lag": null
+ },
+ "C1.3": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0236,
+  "peak": 0.0258,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "C1.5": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0215,
+  "peak": 0.0305,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "C1.8": {
+  "audio_onset": 0.0,
+  "event": 0.9166666666666666,
+  "lag": 0.917,
+  "base": 0.0201,
+  "peak": 0.0607,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "C2.1": {
+  "audio_onset": 0.0,
+  "event": 0.5,
+  "lag": 0.5,
+  "base": 0.0084,
+  "peak": 0.0473,
+  "mode": "RISE",
+  "old_lag": 0.292
+ },
+ "C2.6": {
+  "audio_onset": 2.5,
+  "event": 3.0416666666666665,
+  "lag": 0.542,
+  "base": 0.0129,
+  "peak": 0.0397,
+  "mode": "RISE",
+  "old_lag": 0.458
+ },
+ "FC.3": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0741,
+  "peak": 0.1149,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "FC.7": {
+  "audio_onset": 0.0,
+  "event": 0.875,
+  "lag": 0.875,
+  "base": 0.0942,
+  "peak": 0.1964,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "FC.8": {
+  "audio_onset": 0.0,
+  "event": 1.0,
+  "lag": 1.0,
+  "base": 0.082,
+  "peak": 0.203,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "FC.9": {
+  "audio_onset": 0.0,
+  "event": 1.1666666666666667,
+  "lag": 1.167,
+  "base": 0.0897,
+  "peak": 0.2472,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "FC.10": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.0895,
+  "peak": 0.1333,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ },
+ "FC.Ta": {
+  "audio_onset": 0.0,
+  "event": 1.0416666666666667,
+  "lag": 1.042,
+  "base": 0.0829,
+  "peak": 0.1731,
+  "mode": "RISE",
+  "old_lag": 0.0
+ },
+ "FC.Tc": {
+  "audio_onset": 0.0,
+  "event": 0.0,
+  "lag": 0.0,
+  "base": 0.1002,
+  "peak": 0.1813,
+  "mode": "OPEN-AT-ONSET",
+  "old_lag": 0.0
+ }
+}

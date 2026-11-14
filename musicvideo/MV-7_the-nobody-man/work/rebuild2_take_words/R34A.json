@@ -1,0 +1,53 @@
+{
+ "track": "work/rebuild2_qc/R34A_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 5.0,
+ "n_words": 6,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.85,
+   "end": 1.07,
+   "prob": 0.875
+  },
+  {
+   "word": "got",
+   "start": 1.07,
+   "end": 1.21,
+   "prob": 0.937
+  },
+  {
+   "word": "a",
+   "start": 1.21,
+   "end": 1.41,
+   "prob": 0.925
+  },
+  {
+   "word": "thousand",
+   "start": 1.41,
+   "end": 1.79,
+   "prob": 0.939
+  },
+  {
+   "word": "little",
+   "start": 1.79,
+   "end": 2.15,
+   "prob": 0.988
+  },
+  {
+   "word": "sparks.",
+   "start": 2.15,
+   "end": 2.79,
+   "prob": 0.98
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.85,
+   "end": 2.79,
+   "text": "I got a thousand little sparks."
+  }
+ ],
+ "note": "transcribed on audio trimmed to first RMS energy onset (0.85s) after two full-file DTW passes disagreed; stamps offset by +0.85s; span adjudicated against RMS envelope"
+}

@@ -1,0 +1,59 @@
+label,gate,lag_f,lag_s,basis
+I-occ1,o,7,0.292,first clear parting +7f
+I-occ2,T,9,0.375,own gesture reopens +9f (prev tail closes +1)
+I-occ3,O,0,0.000,open-flow
+I-occ4,T,1,0.042,segment first frame +1 already open
+I-occ5,T,8,0.333,clear wide opening +8f (mid-S01b)
+I-occ6,T,17,0.708,ext: first parting +17f
+I-occ7,T,0,0.000,open-flow (brief dip +2/+3)
+V1.1,T,19,0.792,ext: first parting +19f
+V1.2,T,10,0.417,own opening +10f
+V1.3,O,6,0.250,round open +6f
+V1.4,T,7,0.292,first lip separation +7f
+V1.5,O,5,0.208,opening increase +5f (weak)
+V1.6,T,0,0.000,open-flow (same-take contiguous)
+PC1.1,T,10,0.417,first clear opening +10f
+PC1.2,T,7,0.292,first parting +7f
+PC1.3,T,6,0.250,first parting +6f
+PC1.4,O,0,0.000,open-flow
+C1.1,T,12,0.500,ext: first parting +12f
+C1.2,O,0,0.000,open-flow
+C1.3,O,0,0.000,open-flow
+C1.4,O,0,0.000,open-flow
+C1.5,T,22,0.917,ext: first parting +22f
+C1.6,O,0,0.000,parted low-amp flow
+C1.7,O,0,0.000,open-flow
+C1.8a,T,15,0.625,ext: first parting +15f
+C1.8b,O,13,0.542,ext: gesture begins +13f (was closed from +1)
+C1.T1,T,9,0.375,first parting +9f
+C1.T2,O,0,0.000,open-flow
+C1.T3,O,0,0.000,open-flow
+V2.1,T,4,0.167,first parting +4f
+V2.2,T,3,0.125,first parting +3f
+V2.3,T,0,0.000,open-flow borderline (never closes)
+V2.4,O,5,0.208,first parting +5f
+V2.5,O,0,0.000,open-flow
+V2.6,O,0,0.000,open-flow
+PC2.1,T,10,0.417,first parting +10f
+PC2.2,T,0,0.000,STRUCTURAL-WEAK: gesture tail at head decays; parted at first frame
+PC2.3,O,13,0.542,ext: first parting +13f (wide shot low conf)
+PC2.4,O,0,0.000,open-flow
+C2.1,T,14,0.583,ext: first parting +14f
+C2.2,T,0,0.000,open-flow
+C2.3,O,0,0.000,open-flow (brief close +1/+2)
+C2.5,T,9,0.375,first parting +9f
+C2.6,T,0,0.000,open-flow
+C2.7,T,20,0.833,ext: first parting +20f
+C2.8,T,0,0.000,parted low-amp flow at first frame
+FC.1,T,9,0.375,first parting +9f (segment starts +2f)
+FC.2,T,0,0.000,open-flow (mid-S20)
+FC.3,O,0,0.000,open-flow (mid-S20)
+FC.5,T,8,0.333,first parting +8f (segment starts +2f)
+FC.6,T,0,0.000,open-flow
+FC.7,T,0,0.000,open-flow
+FC.8,T,24,1.000,ext: first parting +24f
+FC.9,O,0,0.000,STRUCTURAL-WEAK: parted decaying gesture at head
+FC.10,T,15,0.625,ext: first parting +15f (wide shot gradual low conf)
+FC.T1,T,11,0.458,ext: first parting +11f
+FC.T2,O,0,0.000,open-flow
+FC.T3,T,0,0.000,open-flow (mid-S24-P2)

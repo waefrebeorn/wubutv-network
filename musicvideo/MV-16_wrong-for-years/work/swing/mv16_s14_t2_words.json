@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv16_s14_t2.mp4",
+ "words": [
+  {
+   "w": "Mic",
+   "start": 0.0,
+   "end": 0.48,
+   "p": 0.5
+  },
+  {
+   "w": "in",
+   "start": 0.48,
+   "end": 0.86,
+   "p": 0.998
+  },
+  {
+   "w": "my",
+   "start": 0.86,
+   "end": 1.22,
+   "p": 0.998
+  },
+  {
+   "w": "hand,",
+   "start": 1.22,
+   "end": 1.94,
+   "p": 0.999
+  },
+  {
+   "w": "and",
+   "start": 2.22,
+   "end": 3.04,
+   "p": 0.971
+  },
+  {
+   "w": "the",
+   "start": 3.04,
+   "end": 3.26,
+   "p": 0.998
+  },
+  {
+   "w": "room",
+   "start": 3.26,
+   "end": 3.62,
+   "p": 0.998
+  },
+  {
+   "w": "starts",
+   "start": 3.62,
+   "end": 4.16,
+   "p": 0.998
+  },
+  {
+   "w": "to",
+   "start": 4.16,
+   "end": 4.42,
+   "p": 1.0
+  },
+  {
+   "w": "notice",
+   "start": 4.42,
+   "end": 4.92,
+   "p": 0.999
+  },
+  {
+   "w": "Yeah!",
+   "start": 8.06,
+   "end": 9.02,
+   "p": 0.177
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.92,
+   "text": "Mic in my hand, and the room starts to notice",
+   "avg_logprob": -0.387
+  },
+  {
+   "start": 8.06,
+   "end": 9.02,
+   "text": "Yeah!",
+   "avg_logprob": -0.387
+  }
+ ]
+}

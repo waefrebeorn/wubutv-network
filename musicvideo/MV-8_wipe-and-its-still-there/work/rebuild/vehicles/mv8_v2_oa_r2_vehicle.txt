@@ -1,0 +1,36 @@
+# MV-8 REBUILD v2 — Volley 3 vehicle: O-A "The Return Flight" RE-FIRE (JOURNEY)
+# Scene: O-A, song 146.00–163.00 (3504–3912f). 17.00s scene; one 10s take.
+# Instrumental. TRUE-PEAK SCENE: loop-the-loop apex MUST land on frame 3826
+# (159.435s), 13.42s into the scene.
+# WHY RE-FIRE: take 1 (takes/O-A_v2.mp4, md5 78181f6dd006aebb08d4bef96031518a)
+# is otherwise strong (motion min 24.3/mean 41.4, no text, adult, 1248x704)
+# BUT its loop apex lands ~2.0s into the take (loop ring forms 1.0s, rider
+# crests ~2.0s, second crest ~4.0s) and by 7.89s the take is already in the
+# F02 top-down vortex. Assembly math: apex must sit at >=6.71s in the take
+# (13.42s scene / 2.0x max slow-down); 2.0s and 4.0s are both too early — no
+# warp within the rules can place either crest on frame 3826. REJECTED on the
+# apex gate. Take 1 is NOT usable as approach material either (its early loop
+# would steal the apex loop's thunder in a two-take assembly).
+# THIS RE-FIRE must place the loop top at ~7.9s into the take: the prompt
+# makes the first seven seconds an explicit climb with NO loop — the great
+# water ring rises ahead of her only in the final third, and she rolls over
+# its top at about eight seconds. If the generator front-loads the loop again,
+# the take fails the apex gate again and O-A goes to volley 4.
+# Anchors: F11.jpg (start, rear flight over palace city) -> F02.jpg
+# (destination, top-down foam vortex). CRADLE SHOT into the vortex.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: already flying fast at frame 0 — camera already swooping, never
+# still. No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. High above a golden porcelain palace city at golden hour, the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, rides a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles and a cream scarf streaming behind. She is already flying fast as the clip opens, the camera already swooping with her, never still. For the first seven seconds she climbs steadily higher over the palace rooftops, the city falling away below her, the flight building and building with no loop yet — then the great water ring rises ahead of her and she banks into the loop-the-loop, rolling over the very top of the loop at about eight seconds into the clip, the highest point of the flight, the biggest visual in the video — and dives down toward a vast spiralling white foam vortex below, spray and bubbles streaming past. Continuous motion to the last frame. No text, no logos, no children."
+Image 1: F11.jpg
+Text 2: "The dive continues into the top-down foam vortex, sparkling water spiralling, the Champion and her mount plunging toward the centre of the swirl, travelling toward the second image."
+Image 2: F02.jpg
+Text 3: "Ends at the second image: the top-down foam vortex filling the frame, sparkling water and bubbles streaming in a fast spiral, a yellow-gloved hand slamming a golden flush handle, continuous motion to the last frame. No text, no logos, no children, no other characters."

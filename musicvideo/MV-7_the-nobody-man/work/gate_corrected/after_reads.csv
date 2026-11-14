@@ -1,0 +1,59 @@
+label,before_f,after_f,note
+I-occ1,7,0,open articulating at +1 (first visible frame)
+I-occ2,9,2,first clear opening +2f
+I-occ3,0,0,open-flow unchanged
+I-occ4,1,1,parted at segment first frame +1 (unchanged within tolerance)
+I-occ5,8,1,split B: opening +1f
+I-occ6,17,2,first parting +2f
+I-occ7,0,0,open-flow unchanged
+V1.1,19,0,gesture underway at segment first frame +1
+V1.2,10,0,gesture underway at segment first frame +1
+V1.3,6,1,small round opening at +0/+1
+V1.4,7,0,parted at onset; continuous low-amp articulation
+V1.5,5,2,weak profile gesture; subtle parting ~+2 (low conf both reads)
+V1.6,0,0,open-flow unchanged
+PC1.1,10,0,open at segment first frame +1
+PC1.2,7,1,parted at segment first frame +1
+PC1.3,6,0,rewarp: parted flow at onset
+PC1.4,0,0,open-flow unchanged
+C1.1,12,0,open at segment first frame +1
+C1.2,0,0,open-flow unchanged
+C1.3,0,0,open-flow unchanged
+C1.4,0,0,open-flow unchanged
+C1.5,22,1,rewarp: parted at segment first frame +1
+C1.6,0,0,parted low-amp flow unchanged
+C1.7,0,0,open-flow unchanged
+C1.8a,15,0,open at segment first frame +1
+C1.8b,13,1,parted at segment first frame +1
+C1.T1,9,1,rewarp: parted at segment first frame +1
+C1.T2,0,0,open-flow unchanged
+C1.T3,0,0,open-flow unchanged
+V2.1,4,1,first parting +1f
+V2.2,3,1,parted at onset; clear opening +2 (scored +1)
+V2.3,0,0,parted flow unchanged
+V2.4,6,0,parted at onset (segment head)
+V2.5,0,0,open-flow unchanged
+V2.6,0,0,open-flow unchanged
+PC2.1,8,2,capped shift: first parting ~+2f (predicted residual 1.5f)
+PC2.2,0,0,structural-weak unchanged (not worsened)
+PC2.3,13,1,parted at segment first frame +1
+PC2.4,0,0,parted flow unchanged
+C2.1,14,1,rewarp: open at segment first frame +1
+C2.2,0,0,parted low-amp flow unchanged
+C2.3,0,0,open-flow unchanged
+C2.5,7,1,open at segment first frame +1 (nominal frame is candle cover by design)
+C2.6,0,0,companion-shift verified: parted articulating flow at onset - NOT worsened
+C2.7,20,1,rewarp: parted at segment first frame +1
+C2.8,0,0,open-flow unchanged
+FC.1,11,2,gesture underway at segment first frame (+2; nominal frames are prev-seg tail as in original design)
+FC.2,0,0,parted flow unchanged
+FC.3,0,0,open-flow unchanged
+FC.5,4,2,parted at segment first frame (+2; nominal frames are desk cover as in original design)
+FC.6,0,0,companion-shift verified: parted articulating flow - NOT worsened
+FC.7,0,0,companion-shift verified: parted articulating flow - NOT worsened
+FC.8,24,2,parted articulating from segment first frame (+2 nominal offset as in original design); 1.0s dead grin eliminated
+FC.9,0,0,structural-weak unchanged (not worsened)
+FC.10,15,1,parted at segment first frame +1
+FC.T1,11,1,parted at segment first frame +1
+FC.T2,0,0,open-flow unchanged
+FC.T3,0,0,open-flow unchanged

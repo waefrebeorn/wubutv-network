@@ -1,0 +1,41 @@
+import json, subprocess, numpy as np, os
+from scipy.io import wavfile
+from faster_whisper import WhisperModel
+takes = {
+ "s01b-t2": ("takes/media-generation-mv9-s01b-t2-0-b279a157-58a4-4fcf-a88f-479b909ff83a.mp4", 10.0, False),
+ "s05b":    ("takes/media-generation-mv9-s05b-t1-0-0664b61c-0b18-4e2e-92a2-78f28c5dff8f.mp4", 10.0, False),
+ "s06":     ("takes/media-generation-mv9-s06-t1-0-080e3837-58c7-4013-ae9e-fa3bf59c9222.mp4", 10.0, False),
+ "s08b":    ("takes/media-generation-mv9-s08b-t1-0-90ab86f3-6065-40c5-a6f6-884945ab6b45.mp4", 10.0, True),
+ "s09a":    ("takes/media-generation-mv9-s09a-t1-0-2faf583c-88e6-45d2-889f-7d91403a4c08.mp4", 10.0, True),
+ "s09b":    ("takes/media-generation-mv9-s09b-t1-0-42e9a42b-4ab7-4db2-a6c1-447d4f0ca9f3.mp4", 10.0, True),
+}
+model = WhisperModel("small", device="cpu", compute_type="int8")
+for tag,(path,reqdur,singing) in takes.items():
+    d=f"work/qc/{tag}"; os.makedirs(d, exist_ok=True)
+    r=subprocess.run(["ffprobe","-v","error","-show_entries","stream=codec_name,width,height,r_frame_rate","-show_entries","format=duration,size","-of","default=noprint_wrappers=1",path],capture_output=True,text=True)
+    print(f"== {tag} ==\n{r.stdout.strip()}")
+    m=subprocess.run(["md5sum",path],capture_output=True,text=True)
+    print("MD5", m.stdout.strip())
+    subprocess.run(["ffmpeg","-v","error","-y","-i",path,"-vn","-ac","1","-ar","16000",f"{d}/audio.wav"],check=True)
+    fps = 1 if reqdur>=10 else 2
+    subprocess.run(["ffmpeg","-v","error","-y","-i",path,"-vf",f"fps={fps},scale=416:234,tile=5x2",f"{d}/sheet_key.png"],check=True)
+    raw=subprocess.run(["ffmpeg","-v","error","-i",path,"-vf","scale=160:90","-f","rawvideo","-pix_fmt","gray","-"],capture_output=True)
+    arr=np.frombuffer(raw.stdout,dtype=np.uint8); n=160*90
+    frames=arr.reshape(-1,n).astype(np.int16)
+    diff=np.abs(np.diff(frames,axis=0)).mean(axis=1)
+    run=0; maxrun=0
+    for x in diff:
+        run=run+1 if x<0.5 else 0; maxrun=max(maxrun,run)
+    print(f"MOTION frames={len(frames)} mean_diff={diff.mean():.2f} longest_near_dup_run={maxrun}f first12={[round(float(x),2) for x in diff[:12]]}")
+    sr,data=wavfile.read(f"{d}/audio.wav")
+    audio=data.astype(np.float32)/32768.0
+    print(f"AUDIO rms={float(np.sqrt((audio**2).mean())):.3f}")
+    segs,info=model.transcribe(audio,language="en",word_timestamps=True)
+    words=[]
+    for s in segs:
+        print(f"  SEG [{s.start:.2f}-{s.end:.2f}] {s.text.strip()}")
+        for w in (s.words or []):
+            words.append({"w":w.word.strip(),"s":round(w.start,2),"e":round(w.end,2)})
+    json.dump(words,open(f"{d}/words.json","w"))
+    print(f"WORDS n={len(words)}")
+    print()

@@ -1,0 +1,87 @@
+{
+ "track": "work/qc_v7/mv7_s01_t1_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 12,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 1.16,
+   "prob": 0.783
+  },
+  {
+   "word": "the",
+   "start": 1.16,
+   "end": 1.3,
+   "prob": 0.974
+  },
+  {
+   "word": "nobody",
+   "start": 1.3,
+   "end": 1.86,
+   "prob": 0.875
+  },
+  {
+   "word": "man",
+   "start": 1.86,
+   "end": 2.5,
+   "prob": 0.88
+  },
+  {
+   "word": "I'm",
+   "start": 2.5,
+   "end": 3.32,
+   "prob": 0.682
+  },
+  {
+   "word": "the",
+   "start": 3.32,
+   "end": 3.44,
+   "prob": 0.991
+  },
+  {
+   "word": "nobody",
+   "start": 3.44,
+   "end": 3.92,
+   "prob": 0.992
+  },
+  {
+   "word": "man",
+   "start": 3.92,
+   "end": 4.62,
+   "prob": 0.993
+  },
+  {
+   "word": "I'm",
+   "start": 4.62,
+   "end": 5.72,
+   "prob": 0.956
+  },
+  {
+   "word": "the",
+   "start": 5.72,
+   "end": 5.86,
+   "prob": 0.997
+  },
+  {
+   "word": "nobody",
+   "start": 5.86,
+   "end": 6.34,
+   "prob": 0.99
+  },
+  {
+   "word": "man",
+   "start": 6.34,
+   "end": 7.2,
+   "prob": 0.988
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.2,
+   "text": "I'm the nobody man I'm the nobody man I'm the nobody man"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+  "S11LEX": {
+    "take": "mv2_s11lexus_v6gap3_t1.mp4",
+    "beat": "lexus lanes they call them",
+    "song_dur": 1.5,
+    "take_words": [
+      [
+        "lexus",
+        1.32,
+        2.36,
+        "lexus"
+      ],
+      [
+        "lanes",
+        2.36,
+        2.88,
+        "lanes"
+      ],
+      [
+        "they",
+        3.12,
+        3.64,
+        "they"
+      ],
+      [
+        "call",
+        3.64,
+        4.06,
+        "call"
+      ],
+      [
+        "them",
+        4.06,
+        4.74,
+        "them"
+      ]
+    ],
+    "matched": [
+      [
+        "lexus",
+        1.32,
+        2.36,
+        "lexus"
+      ],
+      [
+        "lanes",
+        2.36,
+        2.88,
+        "lanes"
+      ],
+      [
+        "they",
+        3.12,
+        3.64,
+        "they"
+      ],
+      [
+        "call",
+        3.64,
+        4.06,
+        "call"
+      ],
+      [
+        "them",
+        4.06,
+        4.74,
+        "them"
+      ]
+    ],
+    "vocal_span": [
+      1.32,
+      4.74
+    ],
+    "ratio": 0.439,
+    "drift": {
+      "per_word_frames": [
+        1.9,
+        1.4,
+        1.0,
+        -0.5,
+        -0.7
+      ],
+      "median": 1.0,
+      "range": [
+        -0.7,
+        1.9
+      ]
+    },
+    "sub_repeats": [],
+    "single_recurrences": [],
+    "split_half": null
+  }
+}

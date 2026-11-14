@@ -1,0 +1,4054 @@
+[
+ {
+  "id": "I01",
+  "section": "Intro",
+  "text": "Easy now, easy now",
+  "start": 1.66,
+  "end": 3.82,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 78.2,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 425.7,
+  "gemini_overlap": [],
+  "coarse": false,
+  "agreement": "dropped",
+  "majority_owner": null,
+  "majority_cover": 0.0,
+  "majority": "dropped"
+ },
+ {
+  "id": "I02",
+  "section": "Intro",
+  "text": "We ride, we ride",
+  "start": 3.82,
+  "end": 5.98,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 78.2,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 253.3,
+  "gemini_overlap": [],
+  "coarse": false,
+  "agreement": "dropped",
+  "majority_owner": null,
+  "majority_cover": 0.0,
+  "majority": "dropped"
+ },
+ {
+  "id": "I03",
+  "section": "Intro",
+  "text": "Easy now, easy now",
+  "start": 5.98,
+  "end": 8.01,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 104.4,
+  "pyin_cat_frac": 0.886,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.114,
+  "aubio_median": 154.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 0.01,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.0,
+  "majority": "thin"
+ },
+ {
+  "id": "I04",
+  "section": "Intro",
+  "text": "Till the morning comes",
+  "start": 8.01,
+  "end": 10.04,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 148.5,
+  "pyin_cat_frac": 0.795,
+  "pyin_girl_frac": 0.154,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 146.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.03,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "I05",
+  "section": "Intro",
+  "text": "Easy now, easy now",
+  "start": 10.04,
+  "end": 12.72,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 68.1,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 391.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.68,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "I06",
+  "section": "Intro",
+  "text": "We ride, we ride",
+  "start": 12.72,
+  "end": 15.4,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 78.2,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.619,
+  "aubio_median": 80.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.68,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "I07",
+  "section": "Intro",
+  "text": "Easy now, easy now",
+  "start": 15.4,
+  "end": 17.02,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 103.8,
+  "pyin_cat_frac": 0.737,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.026,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.62,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "I08",
+  "section": "Intro",
+  "text": "Till the morning comes",
+  "start": 17.02,
+  "end": 18.64,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 78.2,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 155.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.62,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "I09",
+  "section": "Intro",
+  "text": "(ta-da vocalise)",
+  "start": 18.64,
+  "end": 22.0,
+  "v1_owner": "GIRL",
+  "v1_confidence": "confirmed",
+  "pyin_median": 316.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 1.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 318.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 3.36,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "conflict"
+ },
+ {
+  "id": "L01",
+  "section": "Verse 1",
+  "text": "Bare feet on the boardwalk",
+  "start": 22.0,
+  "end": 23.42,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 140.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.42,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L02",
+  "section": "Verse 1",
+  "text": "Salt on my skin",
+  "start": 23.42,
+  "end": 24.6,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 101.4,
+  "pyin_cat_frac": 0.778,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.148,
+  "aubio_median": 104.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.18,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L03",
+  "section": "Verse 1",
+  "text": "You came in laughing",
+  "start": 24.6,
+  "end": 26.76,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.158,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.737,
+  "aubio_median": 109.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.16,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L04",
+  "section": "Verse 1",
+  "text": "Said, come on, let's begin",
+  "start": 27.76,
+  "end": 29.6,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.214,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.714,
+  "aubio_median": 108.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.84,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L05",
+  "section": "Verse 1",
+  "text": "Blue shirt, red bicycle",
+  "start": 29.6,
+  "end": 31.48,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 80.5,
+  "pyin_cat_frac": 0.222,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.422,
+  "aubio_median": 95.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.88,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L06",
+  "section": "Verse 1",
+  "text": "Rolling past the pier",
+  "start": 31.48,
+  "end": 33.62,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 104.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.14,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L07",
+  "section": "Verse 1",
+  "text": "I was posted up right here",
+  "start": 33.62,
+  "end": 36.14,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 65.8,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 71.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.52,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L08",
+  "section": "Verse 1",
+  "text": "Now you're pulling near",
+  "start": 36.14,
+  "end": 38.48,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 116.5,
+  "pyin_cat_frac": 0.628,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.14,
+  "aubio_median": 129.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.34,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L09",
+  "section": "Verse 1",
+  "text": "Backpack half-zipped",
+  "start": 38.48,
+  "end": 40.44,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 122.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.96,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L10",
+  "section": "Verse 1",
+  "text": "Keys in your hand",
+  "start": 40.44,
+  "end": 42.82,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 179.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 2.38,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L11",
+  "section": "Verse 1",
+  "text": "You nodded at the waves like",
+  "start": 42.82,
+  "end": 44.58,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 154.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 1.76,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L12",
+  "section": "Verse 1",
+  "text": "Yeah, they already understand",
+  "start": 44.58,
+  "end": 46.86,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 153.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 8,
+    "seg_end": 45,
+    "overlap_s": 0.42,
+    "text": "Till the morning comes. Till the morning comes. Feet on the "
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 45,
+    "seg_end": 48,
+    "overlap_s": 1.86,
+    "text": "Yeah, they already understand."
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.82,
+  "majority": "conflict"
+ },
+ {
+  "id": "L13",
+  "section": "Pre-Chorus 1",
+  "text": "Slow down, take your time",
+  "start": 47.76,
+  "end": 49.6,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 115.2,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 45,
+    "seg_end": 48,
+    "overlap_s": 0.24,
+    "text": "Yeah, they already understand."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 48,
+    "seg_end": 51,
+    "overlap_s": 1.6,
+    "text": "Slow down, take your time. Let the hard week fade."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.87,
+  "majority": "agree"
+ },
+ {
+  "id": "L14",
+  "section": "Pre-Chorus 1",
+  "text": "Let the hard week fade",
+  "start": 49.6,
+  "end": 51.46,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 81.9,
+  "pyin_cat_frac": 0.227,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.455,
+  "aubio_median": 90.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 48,
+    "seg_end": 51,
+    "overlap_s": 1.4,
+    "text": "Slow down, take your time. Let the hard week fade."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.75,
+  "majority": "agree"
+ },
+ {
+  "id": "L15",
+  "section": "Pre-Chorus 1",
+  "text": "One small look from you",
+  "start": 51.46,
+  "end": 52.8,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 69.2,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 52,
+    "seg_end": 53,
+    "overlap_s": 0.8,
+    "text": "One small look from you."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.6,
+  "majority": "conflict"
+ },
+ {
+  "id": "L16",
+  "section": "Pre-Chorus 1",
+  "text": "And my whole head replays",
+  "start": 52.8,
+  "end": 56.5,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 131.5,
+  "pyin_cat_frac": 1.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 206.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 52,
+    "seg_end": 53,
+    "overlap_s": 0.2,
+    "text": "One small look from you."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 53,
+    "seg_end": 55,
+    "overlap_s": 2,
+    "text": "And my whole head replaced."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.54,
+  "majority": "agree"
+ },
+ {
+  "id": "L17",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 57.52,
+  "end": 59.1,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 261.2,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 58,
+    "seg_end": 59,
+    "overlap_s": 1,
+    "text": "Easy now, easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 59,
+    "seg_end": 60,
+    "overlap_s": 0.1,
+    "text": "We ride, we ride."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.63,
+  "majority": "agree"
+ },
+ {
+  "id": "L18",
+  "section": "Chorus 1",
+  "text": "We ride, we ride",
+  "start": 59.1,
+  "end": 60.22,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 92.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 59,
+    "seg_end": 60,
+    "overlap_s": 0.9,
+    "text": "We ride, we ride."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 60,
+    "seg_end": 61,
+    "overlap_s": 0.22,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.8,
+  "majority": "agree"
+ },
+ {
+  "id": "L19",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 60.22,
+  "end": 61.34,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 104.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 60,
+    "seg_end": 61,
+    "overlap_s": 0.78,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 61,
+    "seg_end": 62,
+    "overlap_s": 0.34,
+    "text": "With you by my side."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.7,
+  "majority": "agree"
+ },
+ {
+  "id": "L20",
+  "section": "Chorus 1",
+  "text": "With you by my side",
+  "start": 61.34,
+  "end": 62.52,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 225.2,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 61,
+    "seg_end": 62,
+    "overlap_s": 0.66,
+    "text": "With you by my side."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.56,
+  "majority": "agree"
+ },
+ {
+  "id": "L21",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 62.52,
+  "end": 63.66,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 63,
+    "seg_end": 64,
+    "overlap_s": 0.66,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.58,
+  "majority": "agree"
+ },
+ {
+  "id": "L22",
+  "section": "Chorus 1",
+  "text": "No need to run",
+  "start": 63.66,
+  "end": 64.92,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 136.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 63,
+    "seg_end": 64,
+    "overlap_s": 0.34,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 64,
+    "seg_end": 65,
+    "overlap_s": 0.92,
+    "text": "No need to run."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.73,
+  "majority": "agree"
+ },
+ {
+  "id": "L23",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 64.92,
+  "end": 65.96,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 235.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 64,
+    "seg_end": 65,
+    "overlap_s": 0.08,
+    "text": "No need to run."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 65,
+    "seg_end": 66,
+    "overlap_s": 0.96,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.92,
+  "majority": "agree"
+ },
+ {
+  "id": "L24",
+  "section": "Chorus 1",
+  "text": "We hold the sun",
+  "start": 65.96,
+  "end": 67.06,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 69.3,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 110.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 65,
+    "seg_end": 66,
+    "overlap_s": 0.04,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 66,
+    "seg_end": 67,
+    "overlap_s": 1,
+    "text": "We hold the sun."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 67,
+    "seg_end": 68,
+    "overlap_s": 0.06,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.91,
+  "majority": "agree"
+ },
+ {
+  "id": "L25",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 67.06,
+  "end": 68.2,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 78.4,
+  "pyin_cat_frac": 0.062,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.625,
+  "aubio_median": 320.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 67,
+    "seg_end": 68,
+    "overlap_s": 0.94,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 68,
+    "seg_end": 69,
+    "overlap_s": 0.2,
+    "text": "Keep it loose, keep it low."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.82,
+  "majority": "agree"
+ },
+ {
+  "id": "L26",
+  "section": "Chorus 1",
+  "text": "Keep it loose, keep it low",
+  "start": 68.2,
+  "end": 69.4,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 68,
+    "seg_end": 69,
+    "overlap_s": 0.8,
+    "text": "Keep it loose, keep it low."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.67,
+  "majority": "agree"
+ },
+ {
+  "id": "L27",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 69.4,
+  "end": 70.46,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 70,
+    "seg_end": 70,
+    "overlap_s": 0.46,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.43,
+  "majority": "thin"
+ },
+ {
+  "id": "L28",
+  "section": "Chorus 1",
+  "text": "Let it drift, let it go",
+  "start": 70.46,
+  "end": 71.66,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 234.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 70,
+    "seg_end": 70,
+    "overlap_s": 0.54,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 71,
+    "seg_end": 72,
+    "overlap_s": 0.66,
+    "text": "Let it drift, let it go."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.55,
+  "majority": "agree"
+ },
+ {
+  "id": "L29",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 71.66,
+  "end": 72.74,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 131.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 71,
+    "seg_end": 72,
+    "overlap_s": 0.34,
+    "text": "Let it drift, let it go."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 72,
+    "seg_end": 73,
+    "overlap_s": 0.74,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.69,
+  "majority": "agree"
+ },
+ {
+  "id": "L30",
+  "section": "Chorus 1",
+  "text": "We're good where we are",
+  "start": 72.74,
+  "end": 74.02,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 207.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 72,
+    "seg_end": 73,
+    "overlap_s": 0.26,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 73,
+    "seg_end": 74,
+    "overlap_s": 1,
+    "text": "We're good where we are."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 74,
+    "seg_end": 75,
+    "overlap_s": 0.02,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.78,
+  "majority": "agree"
+ },
+ {
+  "id": "L31",
+  "section": "Chorus 1",
+  "text": "Easy now, easy now",
+  "start": 74.02,
+  "end": 75.04,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 60.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 74,
+    "seg_end": 75,
+    "overlap_s": 0.98,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 0.04,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.96,
+  "majority": "agree"
+ },
+ {
+  "id": "L32",
+  "section": "Chorus 1",
+  "text": "Just two small sparks",
+  "start": 75.04,
+  "end": 76.8,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 68.9,
+  "pyin_cat_frac": 0.053,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.789,
+  "aubio_median": 69.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.76,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L33",
+  "section": "Chorus 1 tail",
+  "text": "I gotta go there",
+  "start": 76.8,
+  "end": 78.76,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 96.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.96,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L34",
+  "section": "Chorus 1 tail",
+  "text": "I gotta go there, just two small sparks",
+  "start": 78.76,
+  "end": 81.76,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.8,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 98.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 3.0,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L35",
+  "section": "Chorus 1 tail",
+  "text": "I gotta go there",
+  "start": 81.76,
+  "end": 83.14,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.38,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L36",
+  "section": "Chorus 1 tail",
+  "text": "Just two small sparks",
+  "start": 83.14,
+  "end": 85.16,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 98.5,
+  "pyin_cat_frac": 0.575,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.35,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 2.02,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L37",
+  "section": "Verse 2",
+  "text": "Vendor at the corner",
+  "start": 85.2,
+  "end": 87.0,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 145.1,
+  "pyin_cat_frac": 0.487,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.128,
+  "aubio_median": 158.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.8,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L38",
+  "section": "Verse 2",
+  "text": "Calling mango sweet",
+  "start": 87.0,
+  "end": 87.6,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 194.8,
+  "pyin_cat_frac": 0.154,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 195.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 0.6,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "conflict"
+ },
+ {
+  "id": "L39",
+  "section": "Verse 2",
+  "text": "Socks in the sand",
+  "start": 87.6,
+  "end": 88.92,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 264.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.32,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "conflict"
+ },
+ {
+  "id": "L40",
+  "section": "Verse 2",
+  "text": "And the tide tapping time with our feet",
+  "start": 88.92,
+  "end": 93.0,
+  "v1_owner": "SPLIT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 167.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 4.08,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L41",
+  "section": "Verse 2",
+  "text": "Your laugh hit the air",
+  "start": 93.8,
+  "end": 95.12,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 68.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.32,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "conflict"
+ },
+ {
+  "id": "L42",
+  "section": "Verse 2",
+  "text": "Like a hand drum roll",
+  "start": 95.8,
+  "end": 96.84,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 130.8,
+  "pyin_cat_frac": 1.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 130.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 1.04,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L43",
+  "section": "Verse 2",
+  "text": "I forgot the list, forgot the bills",
+  "start": 96.84,
+  "end": 98.44,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 259.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 75,
+    "seg_end": 97,
+    "overlap_s": 0.16,
+    "text": "Just two small sparks. Just two small sparks. Vendor at the "
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 97,
+    "seg_end": 99,
+    "overlap_s": 1.44,
+    "text": "I forgot the list, forgot the bills."
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.9,
+  "majority": "agree"
+ },
+ {
+  "id": "L44",
+  "section": "Verse 2",
+  "text": "Forgot what I was told",
+  "start": 98.44,
+  "end": 102.4,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 98.2,
+  "pyin_cat_frac": 0.618,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.324,
+  "aubio_median": 156.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 97,
+    "seg_end": 99,
+    "overlap_s": 0.56,
+    "text": "I forgot the list, forgot the bills."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 99,
+    "seg_end": 103,
+    "overlap_s": 3.4,
+    "text": "Forgot what I was told."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.86,
+  "majority": "agree"
+ },
+ {
+  "id": "L45",
+  "section": "Verse 2",
+  "text": "Ice cup sweating",
+  "start": 102.4,
+  "end": 103.8,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 312.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 99,
+    "seg_end": 103,
+    "overlap_s": 0.6,
+    "text": "Forgot what I was told."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 103,
+    "seg_end": 105,
+    "overlap_s": 0.8,
+    "text": "Ice, ice, ice cups sweating on the rail by the steps."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.57,
+  "majority": "agree"
+ },
+ {
+  "id": "L46",
+  "section": "Verse 2",
+  "text": "On the rail by the steps",
+  "start": 103.8,
+  "end": 104.72,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 266.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 103,
+    "seg_end": 105,
+    "overlap_s": 0.92,
+    "text": "Ice, ice, ice cups sweating on the rail by the steps."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L47",
+  "section": "Verse 2",
+  "text": "You said, don't think too hard",
+  "start": 104.72,
+  "end": 106.42,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 130.4,
+  "pyin_cat_frac": 1.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 130.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 103,
+    "seg_end": 105,
+    "overlap_s": 0.28,
+    "text": "Ice, ice, ice cups sweating on the rail by the steps."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 105,
+    "seg_end": 107,
+    "overlap_s": 1.42,
+    "text": "You said don't think too hard."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.84,
+  "majority": "agree"
+ },
+ {
+  "id": "L48",
+  "section": "Verse 2",
+  "text": "So I didn't, not yet",
+  "start": 106.42,
+  "end": 107.52,
+  "v1_owner": "SPLIT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 293.5,
+  "pyin_cat_frac": 0.474,
+  "pyin_girl_frac": 0.526,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 294.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 105,
+    "seg_end": 107,
+    "overlap_s": 0.58,
+    "text": "You said don't think too hard."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 107,
+    "seg_end": 108,
+    "overlap_s": 0.52,
+    "text": "So I did not yet."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.53,
+  "majority": "agree"
+ },
+ {
+  "id": "L49",
+  "section": "Verse 2",
+  "text": "Kids with a boombox",
+  "start": 107.52,
+  "end": 108.72,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 264.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 107,
+    "seg_end": 108,
+    "overlap_s": 0.48,
+    "text": "So I did not yet."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 108,
+    "seg_end": 109,
+    "overlap_s": 0.72,
+    "text": "Here for the boardwalks."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.6,
+  "majority": "conflict"
+ },
+ {
+  "id": "L50",
+  "section": "Verse 2",
+  "text": "Cutting through the crowd",
+  "start": 108.72,
+  "end": 109.74,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 278.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 108,
+    "seg_end": 109,
+    "overlap_s": 0.28,
+    "text": "Here for the boardwalks."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 109,
+    "seg_end": 110,
+    "overlap_s": 0.74,
+    "text": "I got lost in the crowd."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.73,
+  "majority": "agree"
+ },
+ {
+  "id": "L51",
+  "section": "Verse 2",
+  "text": "You took my sleeve and spun me once",
+  "start": 109.74,
+  "end": 110.7,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 299.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 109,
+    "seg_end": 110,
+    "overlap_s": 0.26,
+    "text": "I got lost in the crowd."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 110,
+    "seg_end": 112,
+    "overlap_s": 0.7,
+    "text": "You took my sneakers from me once like none of it was left."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.73,
+  "majority": "conflict"
+ },
+ {
+  "id": "L52",
+  "section": "Verse 2",
+  "text": "Like none of it was loud",
+  "start": 110.7,
+  "end": 111.9,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 283.2,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 110,
+    "seg_end": 112,
+    "overlap_s": 1.2,
+    "text": "You took my sneakers from me once like none of it was left."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "conflict"
+ },
+ {
+  "id": "L53",
+  "section": "Pre-Chorus 2",
+  "text": "Slow down, take your time",
+  "start": 111.9,
+  "end": 113.78,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 131.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 110,
+    "seg_end": 112,
+    "overlap_s": 0.1,
+    "text": "You took my sneakers from me once like none of it was left."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 112,
+    "seg_end": 113,
+    "overlap_s": 1,
+    "text": "Slow down, take your time."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 113,
+    "seg_end": 114,
+    "overlap_s": 0.78,
+    "text": "Take your time."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.53,
+  "majority": "conflict"
+ },
+ {
+  "id": "L54",
+  "section": "Pre-Chorus 2",
+  "text": "Let the hard week fade",
+  "start": 113.78,
+  "end": 114.94,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 298.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 113,
+    "seg_end": 114,
+    "overlap_s": 0.22,
+    "text": "Take your time."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 114,
+    "seg_end": 115,
+    "overlap_s": 0.94,
+    "text": "The hard week fade."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.81,
+  "majority": "conflict"
+ },
+ {
+  "id": "L55",
+  "section": "Pre-Chorus 2",
+  "text": "One small look from you",
+  "start": 114.94,
+  "end": 116.0,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 150.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 114,
+    "seg_end": 115,
+    "overlap_s": 0.06,
+    "text": "The hard week fade."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 115,
+    "seg_end": 116,
+    "overlap_s": 1.0,
+    "text": "One small look from you."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.94,
+  "majority": "agree"
+ },
+ {
+  "id": "L56",
+  "section": "Pre-Chorus 2",
+  "text": "And my whole head replays",
+  "start": 116.0,
+  "end": 118.28,
+  "v1_owner": "GIRL",
+  "v1_confidence": "confirmed",
+  "pyin_median": 311.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 1.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 151.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 116,
+    "seg_end": 120,
+    "overlap_s": 2.28,
+    "text": "And my whole head replaced."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L56b",
+  "section": "Pre-Chorus 2",
+  "text": "(held vocalise)",
+  "start": 119.3,
+  "end": 120.02,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 351.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 116,
+    "seg_end": 120,
+    "overlap_s": 0.7,
+    "text": "And my whole head replaced."
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.97,
+  "majority": "agree"
+ },
+ {
+  "id": "L57",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 121.26,
+  "end": 122.58,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 311.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 1.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 261.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 122,
+    "seg_end": 122,
+    "overlap_s": 0.58,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.44,
+  "majority": "thin"
+ },
+ {
+  "id": "L58",
+  "section": "Chorus 2",
+  "text": "We ride, we ride",
+  "start": 122.58,
+  "end": 124.0,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 103.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 122,
+    "seg_end": 122,
+    "overlap_s": 0.42,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 123,
+    "seg_end": 124,
+    "overlap_s": 1.0,
+    "text": "We ride, we ride."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.7,
+  "majority": "agree"
+ },
+ {
+  "id": "L59",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 124.0,
+  "end": 125.06,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 124,
+    "seg_end": 125,
+    "overlap_s": 1.0,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 125,
+    "seg_end": 126,
+    "overlap_s": 0.06,
+    "text": "With you by my side."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.94,
+  "majority": "agree"
+ },
+ {
+  "id": "L60",
+  "section": "Chorus 2",
+  "text": "With you by my side",
+  "start": 125.06,
+  "end": 126.3,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 62.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 125,
+    "seg_end": 126,
+    "overlap_s": 0.94,
+    "text": "With you by my side."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.76,
+  "majority": "agree"
+ },
+ {
+  "id": "L61",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 126.3,
+  "end": 127.38,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 77.7,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 64.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 127,
+    "seg_end": 127,
+    "overlap_s": 0.38,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.35,
+  "majority": "thin"
+ },
+ {
+  "id": "L62",
+  "section": "Chorus 2",
+  "text": "No need to run",
+  "start": 127.38,
+  "end": 128.52,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 79.6,
+  "pyin_cat_frac": 0.267,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.533,
+  "aubio_median": 150.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 127,
+    "seg_end": 127,
+    "overlap_s": 0.62,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 128,
+    "seg_end": 129,
+    "overlap_s": 0.52,
+    "text": "No need to run."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.54,
+  "majority": "conflict"
+ },
+ {
+  "id": "L63",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 128.52,
+  "end": 129.66,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 75.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 128,
+    "seg_end": 129,
+    "overlap_s": 0.48,
+    "text": "No need to run."
+   },
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 129,
+    "seg_end": 130,
+    "overlap_s": 0.66,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.58,
+  "majority": "agree"
+ },
+ {
+  "id": "L64",
+  "section": "Chorus 2",
+  "text": "We hold the sun",
+  "start": 129.66,
+  "end": 130.78,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.8,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 129,
+    "seg_end": 130,
+    "overlap_s": 0.34,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 130,
+    "seg_end": 131,
+    "overlap_s": 0.78,
+    "text": "We hold the sun."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.7,
+  "majority": "agree"
+ },
+ {
+  "id": "L65",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 130.78,
+  "end": 131.88,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 77.7,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.857,
+  "aubio_median": 66.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 130,
+    "seg_end": 131,
+    "overlap_s": 0.22,
+    "text": "We hold the sun."
+   },
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 131,
+    "seg_end": 132,
+    "overlap_s": 0.88,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.8,
+  "majority": "agree"
+ },
+ {
+  "id": "L66",
+  "section": "Chorus 2",
+  "text": "Keep it loose, keep it low",
+  "start": 131.88,
+  "end": 133.08,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 63.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 131,
+    "seg_end": 132,
+    "overlap_s": 0.12,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 132,
+    "seg_end": 133,
+    "overlap_s": 1,
+    "text": "Keep it loose, keep it low."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.83,
+  "majority": "agree"
+ },
+ {
+  "id": "L67",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 133.08,
+  "end": 134.18,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 64.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 134,
+    "seg_end": 134,
+    "overlap_s": 0.18,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 134,
+    "seg_end": 135,
+    "overlap_s": 0.18,
+    "text": "Let it drift, let it go."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.16,
+  "majority": "thin"
+ },
+ {
+  "id": "L68",
+  "section": "Chorus 2",
+  "text": "Let it drift, let it go",
+  "start": 134.18,
+  "end": 135.36,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 65.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 134,
+    "seg_end": 134,
+    "overlap_s": 0.82,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 134,
+    "seg_end": 135,
+    "overlap_s": 0.82,
+    "text": "Let it drift, let it go."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.69,
+  "majority": "tie"
+ },
+ {
+  "id": "L69",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 135.36,
+  "end": 136.44,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 65.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 136,
+    "seg_end": 136,
+    "overlap_s": 0.44,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.41,
+  "majority": "thin"
+ },
+ {
+  "id": "L70",
+  "section": "Chorus 2",
+  "text": "We're good where we are",
+  "start": 136.44,
+  "end": 137.62,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 66.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 136,
+    "seg_end": 136,
+    "overlap_s": 0.56,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 137,
+    "seg_end": 137,
+    "overlap_s": 0.62,
+    "text": "We're good where we are."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.53,
+  "majority": "agree"
+ },
+ {
+  "id": "L71",
+  "section": "Chorus 2",
+  "text": "Easy now, easy now",
+  "start": 137.62,
+  "end": 138.82,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 73.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.889,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 137,
+    "seg_end": 137,
+    "overlap_s": 0.38,
+    "text": "We're good where we are."
+   },
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 138,
+    "seg_end": 139,
+    "overlap_s": 0.82,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.68,
+  "majority": "agree"
+ },
+ {
+  "id": "L72",
+  "section": "Chorus 2",
+  "text": "Just two small sparks",
+  "start": 138.82,
+  "end": 140.52,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.875,
+  "aubio_median": 120.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 138,
+    "seg_end": 139,
+    "overlap_s": 0.18,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 1.52,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.89,
+  "majority": "agree"
+ },
+ {
+  "id": "L73a",
+  "section": "Chorus 2 tail",
+  "text": "I'm falling, I'm falling",
+  "start": 140.52,
+  "end": 143.14,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 66.3,
+  "pyin_cat_frac": 0.312,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.562,
+  "aubio_median": 64.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 2.62,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L73b",
+  "section": "Chorus 2 tail",
+  "text": "Just two small sparks",
+  "start": 143.14,
+  "end": 145.56,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.6,
+  "pyin_cat_frac": 0.219,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.781,
+  "aubio_median": 69.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 2.42,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L73c",
+  "section": "Chorus 2 tail",
+  "text": "I'm falling",
+  "start": 145.56,
+  "end": 146.62,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 66.5,
+  "pyin_cat_frac": 0.176,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.588,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 1.06,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L73d",
+  "section": "Chorus 2 tail",
+  "text": "Just two small sparks",
+  "start": 146.62,
+  "end": 148.7,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 66.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 2.08,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L74",
+  "section": "Bridge",
+  "text": "If the rain comes down",
+  "start": 148.7,
+  "end": 150.0,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 66.1,
+  "pyin_cat_frac": 0.4,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.6,
+  "aubio_median": 112.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 1.3,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L75",
+  "section": "Bridge",
+  "text": "We stay out in it",
+  "start": 150.0,
+  "end": 151.3,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 131.5,
+  "pyin_cat_frac": 0.944,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 132.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 139,
+    "seg_end": 151,
+    "overlap_s": 1.0,
+    "text": "Just two small sparks. Just two small sparks. Just two small"
+   }
+  ],
+  "coarse": true,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.77,
+  "majority": "agree"
+ },
+ {
+  "id": "L76",
+  "section": "Bridge",
+  "text": "If the day runs long",
+  "start": 151.3,
+  "end": 152.36,
+  "v1_owner": "SPLIT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 304.8,
+  "pyin_cat_frac": 0.333,
+  "pyin_girl_frac": 0.667,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 127.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 152,
+    "seg_end": 152,
+    "overlap_s": 0.36,
+    "text": "If the day runs long."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.34,
+  "majority": "agree"
+ },
+ {
+  "id": "L77",
+  "section": "Bridge",
+  "text": "We still move with it",
+  "start": 152.36,
+  "end": 153.58,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 154.6,
+  "pyin_cat_frac": 0.967,
+  "pyin_girl_frac": 0.033,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 152.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 152,
+    "seg_end": 152,
+    "overlap_s": 0.64,
+    "text": "If the day runs long."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 153,
+    "seg_end": 154,
+    "overlap_s": 0.58,
+    "text": "We still move with it."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.52,
+  "majority": "conflict"
+ },
+ {
+  "id": "L78",
+  "section": "Bridge",
+  "text": "Hand in my hand",
+  "start": 153.58,
+  "end": 154.42,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 130.8,
+  "pyin_cat_frac": 1.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 189.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 153,
+    "seg_end": 154,
+    "overlap_s": 0.42,
+    "text": "We still move with it."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 154,
+    "seg_end": 155,
+    "overlap_s": 0.42,
+    "text": "And in my hand."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.5,
+  "majority": "tie"
+ },
+ {
+  "id": "L79",
+  "section": "Bridge",
+  "text": "No speech, no show",
+  "start": 154.42,
+  "end": 155.72,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 155.5,
+  "pyin_cat_frac": 0.96,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 148.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 154,
+    "seg_end": 155,
+    "overlap_s": 0.58,
+    "text": "And in my hand."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 155,
+    "seg_end": 156,
+    "overlap_s": 0.72,
+    "text": "No speech, no show."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.55,
+  "majority": "agree"
+ },
+ {
+  "id": "L80",
+  "section": "Bridge",
+  "text": "Heart in the breeze",
+  "start": 155.72,
+  "end": 156.7,
+  "v1_owner": "GIRL",
+  "v1_confidence": "confirmed",
+  "pyin_median": 261.5,
+  "pyin_cat_frac": 0.375,
+  "pyin_girl_frac": 0.625,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 305.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 155,
+    "seg_end": 156,
+    "overlap_s": 0.28,
+    "text": "No speech, no show."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 156,
+    "seg_end": 157,
+    "overlap_s": 0.7,
+    "text": "Hard in the breeze."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.71,
+  "majority": "agree"
+ },
+ {
+  "id": "L81",
+  "section": "Bridge",
+  "text": "And the bass move slow",
+  "start": 156.7,
+  "end": 158.06,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 222.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 156,
+    "seg_end": 157,
+    "overlap_s": 0.3,
+    "text": "Hard in the breeze."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 157,
+    "seg_end": 158,
+    "overlap_s": 1,
+    "text": "And the bass moves slow."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 158,
+    "seg_end": 159,
+    "overlap_s": 0.06,
+    "text": "If the sky turns gray."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.74,
+  "majority": "agree"
+ },
+ {
+  "id": "L82",
+  "section": "Bridge",
+  "text": "If the sky turns gray",
+  "start": 158.06,
+  "end": 159.1,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 63.6,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 158,
+    "seg_end": 159,
+    "overlap_s": 0.94,
+    "text": "If the sky turns gray."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 159,
+    "seg_end": 160,
+    "overlap_s": 0.1,
+    "text": "We don't fold in."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.9,
+  "majority": "conflict"
+ },
+ {
+  "id": "L83",
+  "section": "Bridge",
+  "text": "We don't fold in",
+  "start": 159.1,
+  "end": 160.24,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 65.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 159,
+    "seg_end": 160,
+    "overlap_s": 0.9,
+    "text": "We don't fold in."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 160,
+    "seg_end": 161,
+    "overlap_s": 0.24,
+    "text": "We lean right back."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.79,
+  "majority": "agree"
+ },
+ {
+  "id": "L84",
+  "section": "Bridge",
+  "text": "We lean right back",
+  "start": 160.24,
+  "end": 161.36,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.212,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.727,
+  "aubio_median": 63.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 160,
+    "seg_end": 161,
+    "overlap_s": 0.76,
+    "text": "We lean right back."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.68,
+  "majority": "conflict"
+ },
+ {
+  "id": "L85",
+  "section": "Bridge",
+  "text": "Let the whole thing spin",
+  "start": 161.36,
+  "end": 162.46,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 131.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 162,
+    "seg_end": 162,
+    "overlap_s": 0.46,
+    "text": "Let the whole thing spin."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.42,
+  "majority": "thin"
+ },
+ {
+  "id": "L86",
+  "section": "Bridge",
+  "text": "You and me, same pace",
+  "start": 162.46,
+  "end": 163.58,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 66.3,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.75,
+  "aubio_median": 131.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 162,
+    "seg_end": 162,
+    "overlap_s": 0.54,
+    "text": "Let the whole thing spin."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 163,
+    "seg_end": 163,
+    "overlap_s": 0.58,
+    "text": "You and me same pace."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.52,
+  "majority": "tie"
+ },
+ {
+  "id": "L87",
+  "section": "Bridge",
+  "text": "Same worn-in shoes",
+  "start": 163.58,
+  "end": 164.9,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 61.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 163,
+    "seg_end": 163,
+    "overlap_s": 0.42,
+    "text": "You and me same pace."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 164,
+    "seg_end": 165,
+    "overlap_s": 0.9,
+    "text": "Same worn in shoes."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.68,
+  "majority": "agree"
+ },
+ {
+  "id": "L88",
+  "section": "Bridge",
+  "text": "Nothing to prove",
+  "start": 164.9,
+  "end": 165.88,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.9,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 69.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 164,
+    "seg_end": 165,
+    "overlap_s": 0.1,
+    "text": "Same worn in shoes."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 165,
+    "seg_end": 166,
+    "overlap_s": 0.88,
+    "text": "Nothing to prove."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.9,
+  "majority": "conflict"
+ },
+ {
+  "id": "L89",
+  "section": "Bridge",
+  "text": "Nothing to lose",
+  "start": 165.88,
+  "end": 167.5,
+  "v1_owner": "CAT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 104.4,
+  "pyin_cat_frac": 0.653,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.347,
+  "aubio_median": 106.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 165,
+    "seg_end": 166,
+    "overlap_s": 0.12,
+    "text": "Nothing to prove."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 166,
+    "seg_end": 167,
+    "overlap_s": 1,
+    "text": "Nothing to lose."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.62,
+  "majority": "agree"
+ },
+ {
+  "id": "L90",
+  "section": "Bridge",
+  "text": "(No, no, no ad-lib)",
+  "start": 167.5,
+  "end": 169.16,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 115.8,
+  "pyin_cat_frac": 0.529,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.471,
+  "aubio_median": 97.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 169,
+    "seg_end": 170,
+    "overlap_s": 0.16,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.1,
+  "majority": "thin"
+ },
+ {
+  "id": "L91",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 169.16,
+  "end": 170.18,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.2,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.875,
+  "aubio_median": 260.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 169,
+    "seg_end": 170,
+    "overlap_s": 0.84,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.82,
+  "majority": "agree"
+ },
+ {
+  "id": "L92",
+  "section": "Final Chorus",
+  "text": "We ride, we ride",
+  "start": 170.18,
+  "end": 171.44,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 258.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 171,
+    "seg_end": 171,
+    "overlap_s": 0.44,
+    "text": "We ride, we ride."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.35,
+  "majority": "thin"
+ },
+ {
+  "id": "L93",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 171.44,
+  "end": 172.58,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 71.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 171,
+    "seg_end": 171,
+    "overlap_s": 0.56,
+    "text": "We ride, we ride."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 172,
+    "seg_end": 172,
+    "overlap_s": 0.58,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.51,
+  "majority": "tie"
+ },
+ {
+  "id": "L94",
+  "section": "Final Chorus",
+  "text": "With you by my side",
+  "start": 172.58,
+  "end": 173.62,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": null,
+  "pyin_cat_frac": null,
+  "pyin_girl_frac": null,
+  "pyin_bass_frac": null,
+  "aubio_median": 284.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 172,
+    "seg_end": 172,
+    "overlap_s": 0.42,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 173,
+    "seg_end": 174,
+    "overlap_s": 0.62,
+    "text": "With you by my side."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.6,
+  "majority": "agree"
+ },
+ {
+  "id": "L95",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 173.62,
+  "end": 174.92,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 74.3,
+  "pyin_cat_frac": 0.111,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.889,
+  "aubio_median": 69.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 173,
+    "seg_end": 174,
+    "overlap_s": 0.38,
+    "text": "With you by my side."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 174,
+    "seg_end": 175,
+    "overlap_s": 0.92,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.71,
+  "majority": "agree"
+ },
+ {
+  "id": "L96",
+  "section": "Final Chorus",
+  "text": "No need to run",
+  "start": 174.92,
+  "end": 176.04,
+  "v1_owner": "SPLIT",
+  "v1_confidence": "confirmed",
+  "pyin_median": 246.8,
+  "pyin_cat_frac": 0.136,
+  "pyin_girl_frac": 0.864,
+  "pyin_bass_frac": 0.0,
+  "aubio_median": 230.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 174,
+    "seg_end": 175,
+    "overlap_s": 0.08,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 175,
+    "seg_end": 176,
+    "overlap_s": 1,
+    "text": "No need to run."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 176,
+    "seg_end": 177,
+    "overlap_s": 0.04,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.89,
+  "majority": "agree"
+ },
+ {
+  "id": "L97",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 176.04,
+  "end": 177.2,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 125.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 176,
+    "seg_end": 177,
+    "overlap_s": 0.96,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 177,
+    "seg_end": 178,
+    "overlap_s": 0.2,
+    "text": "We hold the sun."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.83,
+  "majority": "agree"
+ },
+ {
+  "id": "L98",
+  "section": "Final Chorus",
+  "text": "We hold the sun",
+  "start": 177.2,
+  "end": 178.24,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.0,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 61.9,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 177,
+    "seg_end": 178,
+    "overlap_s": 0.8,
+    "text": "We hold the sun."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 178,
+    "seg_end": 179,
+    "overlap_s": 0.24,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.77,
+  "majority": "agree"
+ },
+ {
+  "id": "L99",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 178.24,
+  "end": 179.3,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 76.8,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 178,
+    "seg_end": 179,
+    "overlap_s": 0.76,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.72,
+  "majority": "agree"
+ },
+ {
+  "id": "L100",
+  "section": "Final Chorus",
+  "text": "Keep it loose, keep it low",
+  "start": 179.3,
+  "end": 180.5,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 62.4,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 180,
+    "seg_end": 180,
+    "overlap_s": 0.5,
+    "text": "Keep it loose, keep it low."
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "CAT",
+  "majority_cover": 0.42,
+  "majority": "thin"
+ },
+ {
+  "id": "L101",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 180.5,
+  "end": 181.56,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 66.3,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 180,
+    "seg_end": 180,
+    "overlap_s": 0.5,
+    "text": "Keep it loose, keep it low."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 181,
+    "seg_end": 181,
+    "overlap_s": 0.56,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.53,
+  "majority": "agree"
+ },
+ {
+  "id": "L102",
+  "section": "Final Chorus",
+  "text": "Let it drift, let it go",
+  "start": 181.56,
+  "end": 182.78,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 66.1,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 181,
+    "seg_end": 181,
+    "overlap_s": 0.44,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 182,
+    "seg_end": 183,
+    "overlap_s": 0.78,
+    "text": "Let it drift, let it go."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.64,
+  "majority": "agree"
+ },
+ {
+  "id": "L103",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 182.78,
+  "end": 183.8,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 67.9,
+  "pyin_cat_frac": 0.031,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.656,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 182,
+    "seg_end": 183,
+    "overlap_s": 0.22,
+    "text": "Let it drift, let it go."
+   },
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 183,
+    "seg_end": 184,
+    "overlap_s": 0.8,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.78,
+  "majority": "agree"
+ },
+ {
+  "id": "L104",
+  "section": "Final Chorus",
+  "text": "We're good where we are",
+  "start": 183.8,
+  "end": 185.02,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.8,
+  "pyin_cat_frac": 0.057,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.829,
+  "aubio_median": 70.7,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 183,
+    "seg_end": 184,
+    "overlap_s": 0.2,
+    "text": "Easy now, easy now."
+   },
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 184,
+    "seg_end": 184,
+    "overlap_s": 1.0,
+    "text": "We're good where we are."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.82,
+  "majority": "agree"
+ },
+ {
+  "id": "L105",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 185.02,
+  "end": 186.46,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 66.1,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": null,
+  "gemini_overlap": [],
+  "coarse": false,
+  "agreement": "dropped",
+  "majority_owner": null,
+  "majority_cover": 0.0,
+  "majority": "dropped"
+ },
+ {
+  "id": "L106",
+  "section": "Final Chorus",
+  "text": "Just two small sparks",
+  "start": 186.46,
+  "end": 188.04,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 116.0,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 187,
+    "seg_end": 195,
+    "overlap_s": 1.04,
+    "text": "Just two small sparks. This is now, this is now, this is now"
+   }
+  ],
+  "coarse": true,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.66,
+  "majority": "conflict"
+ },
+ {
+  "id": "L107",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 190.42,
+  "end": 194.72,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.4,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 1.0,
+  "aubio_median": 65.2,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 187,
+    "seg_end": 195,
+    "overlap_s": 4.3,
+    "text": "Just two small sparks. This is now, this is now, this is now"
+   }
+  ],
+  "coarse": false,
+  "agreement": "agree",
+  "majority_owner": "GIRL",
+  "majority_cover": 1.0,
+  "majority": "agree"
+ },
+ {
+  "id": "L108",
+  "section": "Final Chorus",
+  "text": "We ride, we ride",
+  "start": 194.72,
+  "end": 197.58,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.8,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.9,
+  "aubio_median": 65.5,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 187,
+    "seg_end": 195,
+    "overlap_s": 0.28,
+    "text": "Just two small sparks. This is now, this is now, this is now"
+   },
+   {
+    "speaker": "spk_2",
+    "owner": "GIRL",
+    "seg_start": 196,
+    "seg_end": 197,
+    "overlap_s": 1,
+    "text": "Easy now, easy now."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.35,
+  "majority": "thin"
+ },
+ {
+  "id": "L109",
+  "section": "Final Chorus",
+  "text": "Easy now, easy now",
+  "start": 197.58,
+  "end": 203.42,
+  "v1_owner": "GIRL",
+  "v1_confidence": "inferred",
+  "pyin_median": 65.8,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.973,
+  "aubio_median": 62.3,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_0",
+    "owner": "CAT",
+    "seg_start": 200,
+    "seg_end": 200,
+    "overlap_s": 1.0,
+    "text": "Till the morning comes."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "CAT",
+  "majority_cover": 0.17,
+  "majority": "thin"
+ },
+ {
+  "id": "L110",
+  "section": "Final Chorus",
+  "text": "Till the morning comes",
+  "start": 203.42,
+  "end": 205.58,
+  "v1_owner": "CAT",
+  "v1_confidence": "inferred",
+  "pyin_median": 69.3,
+  "pyin_cat_frac": 0.0,
+  "pyin_girl_frac": 0.0,
+  "pyin_bass_frac": 0.938,
+  "aubio_median": null,
+  "gemini_overlap": [
+   {
+    "speaker": "spk_1",
+    "owner": "GIRL",
+    "seg_start": 204,
+    "seg_end": 206,
+    "overlap_s": 1.58,
+    "text": "Till the morning comes."
+   }
+  ],
+  "coarse": false,
+  "agreement": "conflict",
+  "majority_owner": "GIRL",
+  "majority_cover": 0.73,
+  "majority": "conflict"
+ }
+]
