@@ -1,0 +1,23 @@
+mv13_kinetic_part1.ass: 414 events
+mv13_kinetic_part2.ass: 320 events
+straddling events (clamped/split): 11
+   ('0:01:34.02', '0:01:36.02', '{\\an7\\1c&H1EC6FF\\bord0\\shad0\\move(-153,6')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(106,576)\\f')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(218,576)\\f')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(331,576)\\f')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(611,576)\\f')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(752,576)\\f')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(864,576)\\f')
+   ('0:01:34.02', '0:01:36.02', '{\\fnNoto Sans Display\\an4\\pos(1089,576)\\')
+   ('0:01:34.14', '0:01:34.40', '{\\fnNoto Sans Display\\an4\\pos(218,576)\\f')
+   ('0:01:34.28', '0:01:34.90', '{\\fnNoto Sans Display\\an4\\pos(331,576)\\f')
+   ('0:00:00.00', '0:03:05.60', '{\\an3\\pos(1252,692)\\fs22\\alpha&H80&}~ Wu')
+final_concat_part1.txt: 35 files (S01, S02, S03...S35)
+final_concat_part2.txt: 35 files (S36, S37, S38...S70)
+half1 frames: 2263 (expect 2263); half2 frames: 2191 (expect 2191); total 4454 (expect 4454)
+encoding half 1 ...
+half 1: 2263f (expect 2263), 81637807 B
+encoding half 2 ...
+half 2: 2191f (expect 2191), 87086266 B
+SPLIT ENCODE OK
+EXIT=0

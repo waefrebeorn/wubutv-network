@@ -1,0 +1,21 @@
+master: masters/mv11_water_hit_my_balls_rebuild2_16x9.mp4
+size: 200502407
+md5: 3e914df3d92fabab317268d24609149e
+[PASS] video codec h264 h264
+[PASS] resolution 1280x720 1280x720
+[PASS] fps 24 24/1
+[PASS] frames exactly 4138 4138
+[PASS] duration 172.42s 172.417000
+[PASS] audio AAC aac
+[PASS] audio 48k stereo 48000 2ch
+[PASS] x264 SEI crf=18.0 x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option
+[PASS] faststart moov before mdat moov@36 mdat@120013
+audio agreement (master vs track.mp4, 16k mono, 5 windows):
+  lengths: master 172.44s track 172.42s
+  @5s corr=0.9977
+  @45s corr=0.9981
+  @90s corr=0.9977
+  @135s corr=0.9986
+  @160s corr=0.9983
+[PASS] audio agreement corr > 0.99 all windows min=0.9977
+ALL GATES PASS

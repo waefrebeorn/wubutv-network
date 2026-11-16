@@ -1,0 +1,33 @@
+MV-14 'CLIP IT' DELIVERED 2026-11-12 ~04:04 EST
+House master: masters/mv14_clip_it_16x9.mp4
+  md5 04a1bd09cb9daf3bc93342a6dace3d65 | 101,581,926 B | 3878f | 161.600s
+  1280x720 24fps libx264 CRF 18 (SEI crf=18.0) | AAC 48k stereo | faststart (moov@36)
+Chat copy: masters/mv14_clip_it_16x9_50mb.mp4
+  md5 bbfef6429885a0a345a7e2821d53e09c | 40,195,261 B (38.3 MB) | 3878f | 161.600s
+  1800k video, AAC copied (audio md5 60447fab18ea5e29f886d38a8d5d518d == house)
+Gates (work/assembly/gate.log, 03:28:16 EST): ALL GATES PASS
+  frames exactly 3878 | duration 161.60s | audio agreement min corr 0.9989 (>= 0.998)
+Motion audit (work/assembly/motion_audit.log): FAIL-RANGE runs >=24f during words: none
+  14f @44.00s during words (held Editor close-up, under the 24f bar)
+  39f @153.54s wordless (S63 comedown by design)
+Build: 65/65 KEEP -> 65 segments; 39 per-word warps, 22 uniform-wordless,
+  S37 mouth-anchor, S39 bad-word, S40 three-part, S43 uniform+tail.
+  Kinetic: 410 events, 32 lines, CLIP title gains a word per chorus.
+  One interruption: runtime restart killed the split-encode mid-half-1,
+  leaving a corrupt moov-less part1 - deleted, re-ran clean (halves 1837f + 2041f exact).
+Parent verification (2026-11-12 ~04:04 EST): ffprobe + SEI + faststart + audio
+  agreement + motion audit all re-checked on disk; 6 full-res burned kinetic frames
+  read (20.0 / 47.5 / 76.6 / 110.0 / 149.5 / 155.0s) - no overflow, no cut-off words,
+  no misplaced type. L18 straddle at 76.54s reads clean.
+Disclosed flaws (from assembly coordinator e7039b48, final report 03:55:26 EST):
+  - S39 "Clip" warp 2.08x (4% past the 2x cap)
+  - S43 tail mouths 3 silent "No"s during the wordless gap
+  - S55 "Don't" 0.12s early / "overthink" 0.41s late
+  - S28 words ~0.3s early; S38 "Help" 0.22s early; S08 line onset 0.70s early
+  - S37 mouth-anchored (audio lags 0.88s by design)
+  - L18 HIGHLIGHT straddles the 76.54s split (replays Dim fade / accent slide /
+    last-word pop at part-2 start)
+  - 14f near-still @44.00s during words (under the 24f bar)
+  - 39f near-still @153.54s wordless S63 comedown by design
+  - "We'll be right back." tag dropped (ASR hallucination, no scene built on it)
+MV-14 CLOSED - awaiting user's verdict.

@@ -1,0 +1,64 @@
+MV-11 REBUILD S23 t1 — "Last Drop" (the final frame rhymes with the first) — CONTINUITY volley 6 (FINAL SCENE)
+Song window: 165.06–172.42 (7.36s slot). Scene: OUT-B. Tag: CUTAWAY
+(outro, no vocal — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN from S22 t1 @10.00s (work/stills/stack/chain_s22_last.png,
+md5 2028e65a75f152f6f971778a961a2e41 — the settled bowl, duck at centre,
+warm soft light, floor puddle with rings).
+End ref: s23_end (generated this volley, conditioned on the S22
+slot-end frame — one single drop falling toward the still bowl, one
+last ring blooming, duck still at the centre, same toilet-bowl room;
+read back PASS, md5 50abab1e62422e5ed1d1131238cb4dff).
+Lines: final "Balls" (turbo-measured 170.9, take 5.84s) + last two
+stabs, cut clean. No mouth on screen — CUTAWAY.
+Kinetic in post: none (the last drop plays clean; the final "Balls"
+is carried by the ring at its widest).
+Images:
+[1] work/stills/stack/chain_s22_last.png (md5 2028e65a75f152f6f971778a961a2e41)
+[2] work/stills/stack/s23_end_1248x704.webp (md5 50abab1e62422e5ed1d1131238cb4dff — read back PASS:
+same toilet-bowl room, one drop falling, one last ring blooming,
+duck still at the centre, warm lamp light)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.07/0.52/0.98/1.44/1.89/2.35/2.81/3.26/3.72/4.17/4.63/5.08/5.54/
+6.00/6.45/6.91/7.36.
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The bowl stays fully visible at all times; the duck
+stays visible in the foreground, still.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, calm and still, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, a toilet-paper holder on the left wall, a floor puddle with faint rings. The water has settled after the great splash — the bowl is glassy, the yellow rubber duck with an orange beak sitting still in the centre, the room warm and quiet. Wide 16:9 video, exactly 7 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the settled bowl, the duck still at the centre, the lamp warm. The picture is already moving at frame 0 — the water shimmering gently, a single drop beginning to fall from above. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s22_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full seven seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 3 seconds the bowl holds its calm — the water shimmering gently, the duck sitting perfectly still at the centre, one single water drop falling from above in slow motion, growing closer to the water with each beat. From 3 to 5.5 seconds the drop lands in the centre of the still bowl and one last ring blooms outward, wide and slow, the duck riding the ring out in perfect stillness, the floor puddle's rings echoing it faintly. From 5.5 to 7.36 seconds the ring reaches its widest as the final brass stabs land, then the water settles back to glass, the duck still at the centre, the room holding its breath — the picture ends on the calm bowl exactly as the video began. The camera holds this exact wide framing for the full take — it does NOT push in, it does NOT circle the duck, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s23_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: one single drop fallen, one last ring blooming wide and slow across the still bowl, the yellow duck sitting still at the centre, the lamp light soft and warm — the final frame rhyming with the very first frame of the video.
+
+NOTES: S23 is the LAST scene of the rebuild — when it KEEPs, S01–S23
+all hold KEEP and assembly is next. The take is a calm scene BY
+DESIGN (the settle after the peak): judge the settle by eye — the
+frame rule only fails near-still runs DURING words, and the only word
+is the final "Balls" at take 5.84s, where the ring must be visibly
+widening, never a frozen frame. The drop MUST fall and the ring MUST
+bloom inside the 7.36s slot (not in a surplus tail past it). Request
+7 seconds (the slot length, per the S07 lesson) — slot-length
+requests are unreliable both ways, always ffprobe; if it returns
+10s, assembly uses the first 7.36s.
+QC focus: the drop FALLING and the ring BLOOMING inside the slot;
+the ring WIDE and SLOW, at its widest around the final "Balls"
+(5.84s); the duck STILL and VISIBLE in every sampled frame, never
+filling more than ~20% of frame height; ONE duck throughout; framing
+HELD WIDE (bowl fully visible at all times); rim BONE WHITE
+throughout (the S22 orange-rim gate — v1 S23's hard gate); room
+identity = the SAME toilet-bowl room as the S22 slot end (white
+porcelain toilet, teal tiles, vermilion towel, dome lamp, window,
+toilet-paper holder — NO bathtub, NO sink, NO door, NO plant).
+Joint J22 is CHAIN: frame 0 must match chain_s22_last.png (same
+framing, lighting, subject — the settled bowl). Assembly uses the
+first 7.36s. This is video 1 of 6 in the volley-6 cap.

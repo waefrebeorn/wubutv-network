@@ -1,0 +1,18 @@
+mv20_s16_t1: G7=1.000 PASS span=0.00-8.10
+  raw: Pants are clean, but they're wrinkled as hell. And I'm still not putting them away, I can tell.
+  frame: frames=240 dur=10.00 vocal_mean_diff=7.06 worst_neardup_run=0f (0.00s) PASS
+mv20_s17_t1: G7=1.000 PASS span=0.00-2.02
+  raw: Clean is clean.
+  frame: frames=120 dur=5.00 vocal_mean_diff=5.65 worst_neardup_run=2f (0.08s) PASS
+mv20_s18_t1: G7=1.000 PASS span=0.00-2.18
+  raw: but it's still on the floor
+  frame: frames=120 dur=5.00 vocal_mean_diff=9.91 worst_neardup_run=0f (0.00s) PASS
+mv20_s19_t1: G7=1.000 PASS span=2.04-7.12
+  raw: the laundry is clean but it's still on the floor
+  frame: frames=240 dur=10.00 vocal_mean_diff=6.71 worst_neardup_run=0f (0.00s) PASS
+mv20_s08_t2: G7=1.000 PASS span=0.00-7.02
+  raw: But it's still on the floor But it's still on the floor
+  frame: frames=240 dur=10.00 vocal_mean_diff=4.54 worst_neardup_run=1f (0.04s) PASS
+mv20_s13b_t1: G7=1.000 PASS span=0.00-2.92
+  raw: Still on the floor.
+  frame: frames=120 dur=5.00 vocal_mean_diff=11.21 worst_neardup_run=0f (0.00s) PASS

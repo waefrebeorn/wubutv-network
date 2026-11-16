@@ -1,0 +1,173 @@
+{
+  "MV-13": {
+    "measured": {
+      "bpm": 97.0,
+      "period_s": 0.619,
+      "phase_s": 0.25
+    },
+    "flux_median": 0.1295,
+    "tempo_plateau_top": [
+      [
+        0.5094,
+        97.0
+      ],
+      [
+        0.5094,
+        96.5
+      ],
+      [
+        0.5094,
+        96.0
+      ],
+      [
+        0.5094,
+        95.5
+      ],
+      [
+        0.5094,
+        95.0
+      ],
+      [
+        0.4263,
+        200.0
+      ]
+    ],
+    "phase_at_measured_period_s": 0.19,
+    "c_tempo_bpm": 95.0,
+    "c_tempo_ac": 0.5094,
+    "c_period_s": 0.6316,
+    "c_phase_s": 0.25,
+    "n_beats_floor0": 298,
+    "n_beats_floor1.0": 292,
+    "dropped_by_floor": 6,
+    "dropped_beat_times_s": [
+      8.272,
+      21.328,
+      36.304,
+      87.456,
+      92.448,
+      185.536
+    ],
+    "dp_floor0_vs_grid": {
+      "n": 298,
+      "median_abs_offset_s": 0.1375,
+      "mean_offset_s": 0.0179,
+      "std_offset_s": 0.1642,
+      "max_abs_offset_s": 0.309,
+      "frac_within_50ms": 0.215,
+      "frac_within_100ms": 0.406,
+      "drift_s": -0.013,
+      "median_ibi_s": 0.624,
+      "median_ibi_bpm": 96.15
+    },
+    "dp_floor1_vs_grid": {
+      "n": 292,
+      "median_abs_offset_s": 0.139,
+      "mean_offset_s": 0.0174,
+      "std_offset_s": 0.1652,
+      "max_abs_offset_s": 0.309,
+      "frac_within_50ms": 0.209,
+      "frac_within_100ms": 0.401,
+      "drift_s": -0.016,
+      "median_ibi_s": 0.624,
+      "median_ibi_bpm": 96.15
+    },
+    "librosa_tempo_bpm": 96.15384615384616,
+    "librosa_n_beats": 295,
+    "librosa_vs_grid": {
+      "n": 295,
+      "median_abs_offset_s": 0.137,
+      "mean_offset_s": 0.0235,
+      "std_offset_s": 0.1683,
+      "max_abs_offset_s": 0.309,
+      "frac_within_50ms": 0.19,
+      "frac_within_100ms": 0.349,
+      "drift_s": -0.02,
+      "median_ibi_s": 0.624,
+      "median_ibi_bpm": 96.15
+    }
+  },
+  "MV-12": {
+    "measured": {
+      "bpm": 131.5,
+      "period_s": 0.456,
+      "phase_s": 0.25
+    },
+    "flux_median": 0.1593,
+    "tempo_plateau_top": [
+      [
+        0.7328,
+        131.5
+      ],
+      [
+        0.7328,
+        131.0
+      ],
+      [
+        0.7328,
+        130.5
+      ],
+      [
+        0.7328,
+        130.0
+      ],
+      [
+        0.7328,
+        129.5
+      ],
+      [
+        0.7328,
+        129.0
+      ]
+    ],
+    "phase_at_measured_period_s": 0.29,
+    "c_tempo_bpm": 127.5,
+    "c_tempo_ac": 0.7328,
+    "c_period_s": 0.4706,
+    "c_phase_s": 0.47,
+    "n_beats_floor0": 247,
+    "n_beats_floor1.0": 246,
+    "dropped_by_floor": 1,
+    "dropped_beat_times_s": [
+      113.968
+    ],
+    "dp_floor0_vs_grid": {
+      "n": 247,
+      "median_abs_offset_s": 0.11,
+      "mean_offset_s": -0.0044,
+      "std_offset_s": 0.1265,
+      "max_abs_offset_s": 0.226,
+      "frac_within_50ms": 0.231,
+      "frac_within_100ms": 0.462,
+      "drift_s": 0.053,
+      "median_ibi_s": 0.464,
+      "median_ibi_bpm": 129.31
+    },
+    "dp_floor1_vs_grid": {
+      "n": 246,
+      "median_abs_offset_s": 0.108,
+      "mean_offset_s": -0.0051,
+      "std_offset_s": 0.1262,
+      "max_abs_offset_s": 0.226,
+      "frac_within_50ms": 0.232,
+      "frac_within_100ms": 0.463,
+      "drift_s": 0.049,
+      "median_ibi_s": 0.464,
+      "median_ibi_bpm": 129.31
+    },
+    "librosa_tempo_bpm": 129.31034482758622,
+    "librosa_n_beats": 246,
+    "librosa_vs_grid": {
+      "n": 246,
+      "median_abs_offset_s": 0.11,
+      "mean_offset_s": 0.0095,
+      "std_offset_s": 0.1262,
+      "max_abs_offset_s": 0.226,
+      "frac_within_50ms": 0.224,
+      "frac_within_100ms": 0.463,
+      "drift_s": 0.064,
+      "median_ibi_s": 0.464,
+      "median_ibi_bpm": 129.31
+    }
+  }
+}

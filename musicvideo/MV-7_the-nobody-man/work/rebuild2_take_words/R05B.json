@@ -1,0 +1,64 @@
+{
+ "track": "work/rebuild2_qc/R05B_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 8,
+ "words": [
+  {
+   "word": "Got",
+   "start": 0.0,
+   "end": 1.24,
+   "prob": 0.466
+  },
+  {
+   "word": "a",
+   "start": 1.24,
+   "end": 1.48,
+   "prob": 0.946
+  },
+  {
+   "word": "thousand",
+   "start": 1.48,
+   "end": 2.0,
+   "prob": 0.964
+  },
+  {
+   "word": "posts",
+   "start": 2.0,
+   "end": 2.66,
+   "prob": 0.975
+  },
+  {
+   "word": "in",
+   "start": 2.66,
+   "end": 3.1,
+   "prob": 0.989
+  },
+  {
+   "word": "a",
+   "start": 3.1,
+   "end": 3.24,
+   "prob": 0.997
+  },
+  {
+   "word": "folder",
+   "start": 3.24,
+   "end": 3.68,
+   "prob": 0.998
+  },
+  {
+   "word": "file",
+   "start": 3.68,
+   "end": 4.28,
+   "prob": 0.974
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.28,
+   "text": "Got a thousand posts in a folder file"
+  }
+ ]
+}

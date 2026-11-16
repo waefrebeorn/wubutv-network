@@ -1,0 +1,22 @@
+# MV-8 REBUILD v2 — Volley 3 vehicle: FH-A "The Synchronised Flush" (SINGING)
+# Scene: FH-A, song 120.06–133.46 (2881–3203f). 13.40s scene; one 10s take.
+# Song lines: L20 "Wipe and you're still there" 120.06–123.18 (performed
+# "you're" variant); L21 "Wipe and it's still there" 124.68–127.18; L22
+# "Paper comes back dirty" 127.18–132.14 + "Dirty" echo ~130.50–133.46.
+# Synchronised flush (F20 world) as the section's visual rhyme; loudest
+# section energy.
+# Anchors: F_HERO_TEST_v2.jpg FIRST (identity anchor). Single-anchor call.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: already in motion at frame 0 — camera already pushing in, water
+# already surging. No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, text entry):
+"16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting, a golden palace plaza where a whole fleet of toilet seats flushes in perfect unison, tidal water and foam surging in rhythm. The Champion, an adult woman in her late twenties with a long dark braid, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, sings facing camera at the centre of the synchronised flush, her mouth opening and closing clearly on every word, already in motion as the clip opens, the camera already pushing in: 'Wipe and you're still there' twice, then 'Paper comes back dirty' with a 'dirty' echo, her voice carrying over the loudest section of the song, water and foam surging around her in time with the music, continuous motion to the last frame. No text, no logos, no children."
+
+IMAGE ORDER: [F_HERO_TEST_v2.jpg] then the text above.

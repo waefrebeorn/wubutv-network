@@ -1,0 +1,31 @@
+{
+ "take": "takes/mv19_s17_t1.mp4",
+ "words": [
+  {
+   "w": "Checked",
+   "start": 1.02,
+   "end": 2.0,
+   "p": 0.764
+  },
+  {
+   "w": "the",
+   "start": 2.0,
+   "end": 2.22,
+   "p": 0.984
+  },
+  {
+   "w": "closet.",
+   "start": 2.22,
+   "end": 2.98,
+   "p": 0.986
+  }
+ ],
+ "segments": [
+  {
+   "start": 1.02,
+   "end": 2.98,
+   "text": "Checked the closet.",
+   "avg_logprob": -0.505
+  }
+ ]
+}

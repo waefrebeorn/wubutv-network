@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv18_s18_t1.mp4",
+ "words": [
+  {
+   "w": "Now",
+   "start": 0.0,
+   "end": 0.54,
+   "p": 0.853
+  },
+  {
+   "w": "she's",
+   "start": 0.54,
+   "end": 0.86,
+   "p": 0.983
+  },
+  {
+   "w": "asking",
+   "start": 0.86,
+   "end": 1.3,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 1.3,
+   "end": 1.48,
+   "p": 0.991
+  },
+  {
+   "w": "neighbour",
+   "start": 1.48,
+   "end": 1.86,
+   "p": 0.675
+  },
+  {
+   "w": "and",
+   "start": 1.86,
+   "end": 2.18,
+   "p": 0.949
+  },
+  {
+   "w": "the",
+   "start": 2.18,
+   "end": 2.34,
+   "p": 0.997
+  },
+  {
+   "w": "neighbour's",
+   "start": 2.34,
+   "end": 2.88,
+   "p": 0.973
+  },
+  {
+   "w": "dog.",
+   "start": 2.88,
+   "end": 3.36,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.36,
+   "text": "Now she's asking the neighbour and the neighbour's dog.",
+   "avg_logprob": -0.132
+  }
+ ]
+}

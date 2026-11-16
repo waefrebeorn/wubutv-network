@@ -1,0 +1,114 @@
+{
+  "mv2_gapb_v6gap2_t1.mp4": {
+    "take": "mv2_gapb_v6gap2_t1.mp4",
+    "sid": "GAPB",
+    "volley": "15",
+    "vocal_span": [
+      0.0,
+      7.62
+    ],
+    "vocal_transitions": 184,
+    "vocal_near_dup_run": 3,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 1.208,
+    "frame_gate": "PASS"
+  },
+  "mv2_hook_v6gap2_t1.mp4": {
+    "take": "mv2_hook_v6gap2_t1.mp4",
+    "sid": "HOOK",
+    "volley": "15",
+    "vocal_span": [
+      0.0,
+      4.46
+    ],
+    "vocal_transitions": 108,
+    "vocal_near_dup_run": 7,
+    "vocal_frozen_run": 7,
+    "vocal_mean_diff": 1.044,
+    "frame_gate": "PASS"
+  },
+  "mv2_s02baby_v6gap2_t1.mp4": {
+    "take": "mv2_s02baby_v6gap2_t1.mp4",
+    "sid": "S02BABY",
+    "volley": "15",
+    "vocal_span": [
+      4.48,
+      7.28
+    ],
+    "vocal_transitions": 69,
+    "vocal_near_dup_run": 19,
+    "vocal_frozen_run": 9,
+    "vocal_mean_diff": 0.309,
+    "frame_gate": "FAIL"
+  },
+  "mv2_s11lexus_v6gap2_t1.mp4": {
+    "take": "mv2_s11lexus_v6gap2_t1.mp4",
+    "sid": "S11LEX",
+    "volley": "15",
+    "vocal_span": [
+      1.44,
+      5.14
+    ],
+    "vocal_transitions": 91,
+    "vocal_near_dup_run": 0,
+    "vocal_frozen_run": 0,
+    "vocal_mean_diff": 0.866,
+    "frame_gate": "PASS"
+  },
+  "mv2_s12mid_v6gap2_t1.mp4": {
+    "take": "mv2_s12mid_v6gap2_t1.mp4",
+    "sid": "S12MID",
+    "volley": "15",
+    "vocal_span": [
+      0.0,
+      10.0
+    ],
+    "vocal_transitions": 239,
+    "vocal_near_dup_run": 25,
+    "vocal_frozen_run": 17,
+    "vocal_mean_diff": 1.001,
+    "frame_gate": "FAIL"
+  },
+  "mv2_gape_v6gap2_t1.mp4": {
+    "take": "mv2_gape_v6gap2_t1.mp4",
+    "sid": "GAPE",
+    "volley": "15",
+    "vocal_span": [
+      0.0,
+      3.48
+    ],
+    "vocal_transitions": 84,
+    "vocal_near_dup_run": 9,
+    "vocal_frozen_run": 5,
+    "vocal_mean_diff": 1.4,
+    "frame_gate": "PASS"
+  },
+  "mv2_hook_v6gap2_t1_warped.mp4": {
+    "take": "mv2_hook_v6gap2_t1_warped.mp4",
+    "sid": "HOOK_WARPED",
+    "volley": "15",
+    "vocal_span": [
+      0.0,
+      3.3
+    ],
+    "vocal_transitions": 80,
+    "vocal_near_dup_run": 6,
+    "vocal_frozen_run": 6,
+    "vocal_mean_diff": 1.004,
+    "frame_gate": "PASS"
+  },
+  "mv2_gape_v6gap2_t1_warped.mp4": {
+    "take": "mv2_gape_v6gap2_t1_warped.mp4",
+    "sid": "GAPE_WARPED",
+    "volley": "15",
+    "vocal_span": [
+      0.0,
+      2.8
+    ],
+    "vocal_transitions": 67,
+    "vocal_near_dup_run": 7,
+    "vocal_frozen_run": 3,
+    "vocal_mean_diff": 1.696,
+    "frame_gate": "PASS"
+  }
+}

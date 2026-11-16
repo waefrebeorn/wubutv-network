@@ -1,0 +1,88 @@
+{
+  "file": "mv5_s12_t1.wav",
+  "kind": "Take",
+  "totalWords": 12,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Your",
+      "start": 0.1,
+      "end": 0.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "laugh",
+      "start": 0.2,
+      "end": 0.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "hit",
+      "start": 0.8,
+      "end": 1.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 1.1,
+      "end": 1.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "air.",
+      "start": 1.4,
+      "end": 2.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "I",
+      "start": 4.2,
+      "end": 4.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "forgot",
+      "start": 4.4,
+      "end": 5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 5,
+      "end": 5.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "list,",
+      "start": 5.1,
+      "end": 5.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "forgot",
+      "start": 5.9,
+      "end": 6.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 6.5,
+      "end": 6.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "bills.",
+      "start": 6.6,
+      "end": 7.5,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.1,
+      "end": 7.5,
+      "text": "Your laugh hit the air. I forgot the list, forgot the bills."
+    }
+  ]
+}

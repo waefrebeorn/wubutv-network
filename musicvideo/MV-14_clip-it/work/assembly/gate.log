@@ -1,0 +1,22 @@
+master: /home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/masters/mv14_clip_it_16x9.mp4
+size: 101581926
+md5: 04a1bd09cb9daf3bc93342a6dace3d65
+[PASS] video codec h264 h264
+[PASS] resolution 1280x720 1280x720
+[PASS] fps 24 24/1
+[PASS] frames exactly 3878 3878
+[PASS] duration 161.60s 161.600000
+[PASS] audio AAC aac
+[PASS] audio 48k stereo 48000 2ch
+[PASS] x264 SEI crf=18.0 x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option
+[PASS] faststart moov before mdat moov@36 mdat@112113
+audio agreement (master vs track.mp4, 16k mono, 6 windows):
+  lengths: master 161.60s track 161.60s
+  @5s corr=0.9989
+  @30s corr=0.9994
+  @60s corr=0.9997
+  @90s corr=0.9993
+  @120s corr=0.9997
+  @150s corr=0.9997
+[PASS] audio agreement min corr >= 0.998 min=0.9989
+ALL GATES PASS

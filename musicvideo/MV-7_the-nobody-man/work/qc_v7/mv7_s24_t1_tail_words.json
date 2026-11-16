@@ -1,0 +1,27 @@
+{
+ "track": "mv7_s24_t1_tail.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 2,
+ "words": [
+  {
+   "word": "Nobody,",
+   "start": 0.0,
+   "end": 0.8,
+   "prob": 0.69
+  },
+  {
+   "word": "man.",
+   "start": 0.98,
+   "end": 1.24,
+   "prob": 0.992
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.24,
+   "text": "Nobody, man."
+  }
+ ]
+}

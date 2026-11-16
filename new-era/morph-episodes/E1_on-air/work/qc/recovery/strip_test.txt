@@ -1,0 +1,4 @@
+[0:a]asplit=2[am][as];
+[as]atrim=start=0.4,asetpts=PTS-STARTPTS,showwaves=s=1280x56:mode=cline:rate=24:colors=0x0047AB,format=yuv420p[wv];
+[0:v][wv]overlay=0:664[v1];
+[v1]drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='~ WuBu ~':fontcolor=0xF2C230@0.9:fontsize=24:borderw=1:bordercolor=black@0.6:x=w-text_w-18:y=16[vout]

@@ -1,0 +1,257 @@
+{
+ "lines": [
+  {
+   "id": "I01",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 1.4,
+   "end": 3.72
+  },
+  {
+   "id": "I02",
+   "section": "Intro",
+   "text": "We ride, we ride",
+   "start": 3.84,
+   "end": 5.76
+  },
+  {
+   "id": "I03",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 6.34,
+   "end": 8.04
+  },
+  {
+   "id": "I04",
+   "section": "Intro",
+   "text": "Till the morning comes",
+   "start": 8.04,
+   "end": 10.04
+  },
+  {
+   "id": "I05",
+   "section": "Intro",
+   "text": "Easy now, easy now",
+   "start": 10.6,
+   "end": 12.72
+  },
+  {
+   "id": "I08",
+   "section": "Intro",
+   "text": "Till the morning comes",
+   "start": 12.72,
+   "end": 17.52
+  },
+  {
+   "id": "I09",
+   "section": "Intro",
+   "text": "ta-da, ta-da, ta-da, ta-da, ta-da, ta-da",
+   "start": 18.7,
+   "end": 21.4
+  }
+ ],
+ "words": [
+  {
+   "word": "Easy",
+   "start": 1.4,
+   "end": 2.16,
+   "src": "STEM"
+  },
+  {
+   "word": "now,",
+   "start": 2.16,
+   "end": 2.54,
+   "src": "STEM"
+  },
+  {
+   "word": "easy",
+   "start": 2.68,
+   "end": 3.04,
+   "src": "STEM"
+  },
+  {
+   "word": "now",
+   "start": 3.04,
+   "end": 3.72,
+   "src": "STEM"
+  },
+  {
+   "word": "We",
+   "start": 3.84,
+   "end": 4.0,
+   "src": "STEM"
+  },
+  {
+   "word": "ride,",
+   "start": 4.0,
+   "end": 4.56,
+   "src": "STEM"
+  },
+  {
+   "word": "we",
+   "start": 4.74,
+   "end": 4.9,
+   "src": "STEM"
+  },
+  {
+   "word": "ride",
+   "start": 4.9,
+   "end": 5.76,
+   "src": "STEM"
+  },
+  {
+   "word": "Easy",
+   "start": 6.34,
+   "end": 6.76,
+   "src": "STEM"
+  },
+  {
+   "word": "now,",
+   "start": 6.76,
+   "end": 7.14,
+   "src": "STEM"
+  },
+  {
+   "word": "easy",
+   "start": 7.4,
+   "end": 7.56,
+   "src": "STEM"
+  },
+  {
+   "word": "now",
+   "start": 7.56,
+   "end": 8.04,
+   "src": "STEM"
+  },
+  {
+   "word": "Till",
+   "start": 8.04,
+   "end": 8.34,
+   "src": "STEM"
+  },
+  {
+   "word": "the",
+   "start": 8.34,
+   "end": 8.58,
+   "src": "STEM"
+  },
+  {
+   "word": "morning",
+   "start": 8.58,
+   "end": 8.96,
+   "src": "STEM"
+  },
+  {
+   "word": "comes",
+   "start": 8.96,
+   "end": 10.04,
+   "src": "STEM"
+  },
+  {
+   "word": "Easy",
+   "start": 10.6,
+   "end": 11.32,
+   "src": "STEM"
+  },
+  {
+   "word": "now,",
+   "start": 11.32,
+   "end": 11.7,
+   "src": "STEM"
+  },
+  {
+   "word": "easy",
+   "start": 11.94,
+   "end": 12.18,
+   "src": "STEM"
+  },
+  {
+   "word": "now",
+   "start": 12.18,
+   "end": 12.72,
+   "src": "STEM"
+  },
+  {
+   "word": "Till",
+   "start": 12.72,
+   "end": 14.14,
+   "src": "STEM"
+  },
+  {
+   "word": "the",
+   "start": 14.14,
+   "end": 15.84,
+   "src": "STEM"
+  },
+  {
+   "word": "morning",
+   "start": 15.84,
+   "end": 16.6,
+   "src": "STEM"
+  },
+  {
+   "word": "comes",
+   "start": 16.6,
+   "end": 17.52,
+   "src": "STEM"
+  },
+  {
+   "word": "ta-da,",
+   "start": 18.7,
+   "end": 19.15,
+   "src": "STEM-ENV"
+  },
+  {
+   "word": "ta-da,",
+   "start": 19.15,
+   "end": 19.58,
+   "src": "STEM-ENV"
+  },
+  {
+   "word": "ta-da,",
+   "start": 19.58,
+   "end": 19.98,
+   "src": "STEM-ENV"
+  },
+  {
+   "word": "ta-da,",
+   "start": 19.98,
+   "end": 20.3,
+   "src": "STEM-ENV"
+  },
+  {
+   "word": "ta-da,",
+   "start": 20.3,
+   "end": 20.88,
+   "src": "STEM-ENV"
+  },
+  {
+   "word": "ta-da",
+   "start": 20.88,
+   "end": 21.4,
+   "src": "STEM-ENV"
+  }
+ ],
+ "dropped": [
+  [
+   "I06",
+   "NOT SUNG \u2014 P1+P2+stem all lack 'We ride' here; only NOP/base hallucinates it"
+  ],
+  [
+   "I07",
+   "NOT SUNG \u2014 stem hears 'until the morning comes' from 12.72; no 'Easy now' at 15.40"
+  ]
+ ],
+ "report": [],
+ "params": {
+  "stem": "words_stem_intro.json",
+  "drift": "drift",
+  "falling": "yes",
+  "itstime": "no",
+  "ice": 3,
+  "held": "Easy",
+  "tail": "stem",
+  "sections": "Intro",
+  "out": "grid_intro.json"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s39-t1-0-1a012437-00a6-44bc-8ba5-51ae0f19318e.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.76,
+   "text": "Clip it!",
+   "avg_logprob": -0.724,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Clip",
+     "start": 0.0,
+     "end": 0.54,
+     "probability": 0.853
+    },
+    {
+     "word": " it!",
+     "start": 0.54,
+     "end": 0.76,
+     "probability": 0.617
+    }
+   ]
+  }
+ ]
+}

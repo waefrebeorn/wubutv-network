@@ -1,0 +1,57 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s05_t3b_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 7,
+ "words": [
+  {
+   "word": "Little",
+   "start": 0.0,
+   "end": 2.0,
+   "prob": 0.613
+  },
+  {
+   "word": "by",
+   "start": 2.0,
+   "end": 2.54,
+   "prob": 0.985
+  },
+  {
+   "word": "little,",
+   "start": 2.54,
+   "end": 3.38,
+   "prob": 0.978
+  },
+  {
+   "word": "I",
+   "start": 5.28,
+   "end": 5.54,
+   "prob": 0.993
+  },
+  {
+   "word": "learned",
+   "start": 5.54,
+   "end": 6.02,
+   "prob": 0.874
+  },
+  {
+   "word": "the",
+   "start": 6.02,
+   "end": 6.28,
+   "prob": 0.998
+  },
+  {
+   "word": "sound.",
+   "start": 6.28,
+   "end": 7.02,
+   "prob": 0.996
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.02,
+   "text": "Little by little, I learned the sound."
+  }
+ ]
+}

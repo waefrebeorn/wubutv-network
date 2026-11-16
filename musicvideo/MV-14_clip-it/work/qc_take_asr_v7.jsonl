@@ -1,0 +1,204 @@
+{
+ "file": "work/qc_S25t3_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.54,
+   "text": "There's a whole hard drive full.",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " There's",
+     "start": 0.0,
+     "end": 0.78,
+     "prob": 0.893
+    },
+    {
+     "word": " a",
+     "start": 0.78,
+     "end": 0.86,
+     "prob": 0.998
+    },
+    {
+     "word": " whole",
+     "start": 0.86,
+     "end": 1.26,
+     "prob": 0.991
+    },
+    {
+     "word": " hard",
+     "start": 1.26,
+     "end": 1.72,
+     "prob": 0.978
+    },
+    {
+     "word": " drive",
+     "start": 1.72,
+     "end": 2.08,
+     "prob": 0.992
+    },
+    {
+     "word": " full.",
+     "start": 2.08,
+     "end": 2.54,
+     "prob": 0.992
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S33_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.24,
+   "text": ".",
+   "avg_logprob": -1.286,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " .",
+     "start": 0.0,
+     "end": 1.24,
+     "prob": 0.013
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S34_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.76,
+   "text": "Clip it, post it.",
+   "avg_logprob": -0.447,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Clip",
+     "start": 0.0,
+     "end": 0.74,
+     "prob": 0.86
+    },
+    {
+     "word": " it,",
+     "start": 0.74,
+     "end": 0.88,
+     "prob": 0.97
+    },
+    {
+     "word": " post",
+     "start": 1.04,
+     "end": 1.54,
+     "prob": 0.951
+    },
+    {
+     "word": " it.",
+     "start": 1.54,
+     "end": 1.76,
+     "prob": 0.999
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S35_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.78,
+   "text": "Keep the work alive.",
+   "avg_logprob": -0.499,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Keep",
+     "start": 0.0,
+     "end": 1.16,
+     "prob": 0.593
+    },
+    {
+     "word": " the",
+     "start": 1.16,
+     "end": 1.28,
+     "prob": 0.997
+    },
+    {
+     "word": " work",
+     "start": 1.28,
+     "end": 1.48,
+     "prob": 0.998
+    },
+    {
+     "word": " alive.",
+     "start": 1.48,
+     "end": 1.78,
+     "prob": 0.997
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S36_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.98,
+   "text": ".",
+   "avg_logprob": -0.735,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " .",
+     "start": 0.0,
+     "end": 1.98,
+     "prob": 0.05
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S37_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.88,
+   "end": 2.08,
+   "text": "Clip it, post it.",
+   "avg_logprob": -0.451,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Clip",
+     "start": 0.88,
+     "end": 1.28,
+     "prob": 0.789
+    },
+    {
+     "word": " it,",
+     "start": 1.28,
+     "end": 1.42,
+     "prob": 0.978
+    },
+    {
+     "word": " post",
+     "start": 1.58,
+     "end": 1.84,
+     "prob": 0.97
+    },
+    {
+     "word": " it.",
+     "start": 1.84,
+     "end": 2.08,
+     "prob": 0.997
+    }
+   ]
+  }
+ ]
+}

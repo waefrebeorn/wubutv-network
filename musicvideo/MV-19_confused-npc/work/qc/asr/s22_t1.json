@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv19_s22_t1.mp4",
+ "words": [
+  {
+   "w": "What",
+   "start": 4.72,
+   "end": 5.64,
+   "p": 0.764
+  },
+  {
+   "w": "did",
+   "start": 5.64,
+   "end": 5.94,
+   "p": 0.992
+  },
+  {
+   "w": "I",
+   "start": 5.94,
+   "end": 6.4,
+   "p": 0.963
+  },
+  {
+   "w": "want?",
+   "start": 6.4,
+   "end": 7.18,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 4.72,
+   "end": 7.18,
+   "text": "What did I want?",
+   "avg_logprob": -0.192
+  }
+ ]
+}

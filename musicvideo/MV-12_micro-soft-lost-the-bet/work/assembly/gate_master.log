@@ -1,0 +1,21 @@
+master: /home/hatch/workspace/wubutv-network/musicvideo/MV-12_micro-soft-lost-the-bet/masters/mv12_micro_soft_lost_the_bet_16x9.mp4
+size: 92877987
+md5: a074f68bbfdc6be7bca0b6afc1adf370
+[PASS] video codec h264 h264
+[PASS] resolution 1280x720 1280x720
+[PASS] fps 24 24/1
+[PASS] frames exactly 2741 2741
+[PASS] duration 114.20s 114.208333
+[PASS] audio AAC aac
+[PASS] audio 48k stereo 48000 2ch
+[PASS] x264 SEI crf=18.0 x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option
+[PASS] faststart moov before mdat moov@36 mdat@79149
+audio agreement (master vs track.mp4, 16k mono, 5 windows):
+  lengths: master 114.22s track 114.22s
+  @5s corr=0.9997
+  @30s corr=0.9987
+  @60s corr=0.9986
+  @90s corr=0.9994
+  @110s corr=0.9986
+[PASS] audio agreement corr > 0.99 all windows min=0.9986
+ALL GATES PASS

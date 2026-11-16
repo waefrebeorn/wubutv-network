@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv16_s12_t1.mp4",
+ "words": [
+  {
+   "w": "Nobody",
+   "start": 0.0,
+   "end": 1.12,
+   "p": 0.827
+  },
+  {
+   "w": "stopped",
+   "start": 1.12,
+   "end": 1.56,
+   "p": 0.868
+  },
+  {
+   "w": "me",
+   "start": 1.56,
+   "end": 2.2,
+   "p": 0.999
+  },
+  {
+   "w": "Wrong",
+   "start": 2.82,
+   "end": 3.48,
+   "p": 0.264
+  },
+  {
+   "w": "for",
+   "start": 3.48,
+   "end": 4.02,
+   "p": 0.819
+  },
+  {
+   "w": "years",
+   "start": 4.02,
+   "end": 4.7,
+   "p": 0.999
+  },
+  {
+   "w": "And",
+   "start": 4.7,
+   "end": 5.94,
+   "p": 0.761
+  },
+  {
+   "w": "I'm",
+   "start": 5.94,
+   "end": 6.24,
+   "p": 0.982
+  },
+  {
+   "w": "still",
+   "start": 6.24,
+   "end": 6.56,
+   "p": 0.998
+  },
+  {
+   "w": "going",
+   "start": 6.56,
+   "end": 7.24,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.2,
+   "text": "Nobody stopped me",
+   "avg_logprob": -0.506
+  },
+  {
+   "start": 2.94,
+   "end": 4.7,
+   "text": "Wrong for years",
+   "avg_logprob": -0.506
+  },
+  {
+   "start": 4.7,
+   "end": 7.24,
+   "text": "And I'm still going",
+   "avg_logprob": -0.506
+  }
+ ]
+}

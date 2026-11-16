@@ -1,0 +1,11 @@
+{
+  "run": "2026-10-20 13:30 EDT",
+  "factory": "wubutv-bumper-factory (Q2)",
+  "numbers": ["B-1300", "B-1302", "B-1303"],
+  "details": {
+    "B-1300": "RESERVED reclaim FIRST — 'The Shuttered Booth' (0315 B-2490); v2 vehicle slate/fire_b1300_20261020_1315_v2.txt md5 41aed12614a747bc9dfc879a5a65ecc9; TEXT-ONLY named TEXT correction; attempt at most once per run",
+    "B-1302": "freed pool number per the B-814 precedent (retired 'The Cut Ice' 1315, never the retired draft) — 0315 B-2496 'THE UNMANNED GATE', beat-gated at claim: title grep-zero except source PREPRO; line 'The empty gate.' — one IDEAS_BANK prose hit ('the empty gate to camera', film-gate jargon in LABS episode draft 7999) adjudicated non-conflict (different medium, not a directed bumper line); lineage vs shipped B-250 'Always Closed' DISTINCT per bell-family (opened-and-empty vs closed — flagged at draft)",
+    "B-1303": "fresh pool number (max shipped B-1301) — 0315 B-2497 'THE HUNG SAIL', beat-gated at claim: title + line 'Hung true.' grep-zero except source PREPRO; replaces the struck 'THE FOLDED FLAG' candidate; no shipped sail beats"
+  },
+  "notes": "B-2498 'THE SERVED ROPE' remains next FIFO for a future run. B-854 skipped (standing beat-gate hold); B-974 RESERVED (Q1 restage); B-767 needs Q1 restage; B-881/B-882 freed reserved. B-376 pipeline-DENIED. STALE-QUEUE FLAG: outage-era durable prompts B-1115..B-1201 stay queued."
+}

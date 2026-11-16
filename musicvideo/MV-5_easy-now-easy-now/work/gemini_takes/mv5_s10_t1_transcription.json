@@ -1,0 +1,22 @@
+{
+  "file": "mv5_s10_t1.wav",
+  "kind": "Take",
+  "totalWords": 1,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "2018",
+      "start": 5.6,
+      "end": 5.9,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 5.6,
+      "end": 5.9,
+      "text": "2018"
+    }
+  ]
+}

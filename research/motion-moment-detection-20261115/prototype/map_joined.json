@@ -1,0 +1,163 @@
+{
+ "file": "joined.mp4",
+ "frames": 1444,
+ "steps": 1443,
+ "curve_stats": {
+  "25": 0.89,
+  "50": 2.29,
+  "75": 3.84,
+  "90": 5.99,
+  "95": 7.99,
+  "99": 15.4
+ },
+ "th_lo_median": 2.29,
+ "th_hi_p75": 3.84,
+ "events": [
+  {
+   "onset_step": 0,
+   "peak_step": 6,
+   "peak_val": 17.36,
+   "end_step": 73,
+   "dur_steps": 74,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 239,
+   "peak_step": 241,
+   "peak_val": 9.12,
+   "end_step": 356,
+   "dur_steps": 118,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 523,
+   "peak_step": 568,
+   "peak_val": 6.82,
+   "end_step": 585,
+   "dur_steps": 63,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 634,
+   "peak_step": 720,
+   "peak_val": 12.86,
+   "end_step": 722,
+   "dur_steps": 89,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 730,
+   "peak_step": 756,
+   "peak_val": 15.33,
+   "end_step": 826,
+   "dur_steps": 97,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 961,
+   "peak_step": 962,
+   "peak_val": 8.23,
+   "end_step": 1100,
+   "dur_steps": 140,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 1202,
+   "peak_step": 1224,
+   "peak_val": 8.51,
+   "end_step": 1273,
+   "dur_steps": 72,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 1384,
+   "peak_step": 1402,
+   "peak_val": 4.35,
+   "end_step": 1426,
+   "dur_steps": 43,
+   "class": "GESTURE"
+  }
+ ],
+ "head": {
+  "class": "IN-MOTION",
+  "mean_0_12": 12.09,
+  "mean_0_24": 12.29,
+  "first_onset_step": 0
+ },
+ "tail": {
+  "final12_mean": 1.6,
+  "last_event": {
+   "onset_step": 1384,
+   "peak_step": 1402,
+   "peak_val": 4.35,
+   "end_step": 1426,
+   "dur_steps": 43,
+   "class": "GESTURE"
+  },
+  "settled_from_step": 1427,
+  "phase_at_final_step": "SETTLED"
+ },
+ "joints": [
+  {
+   "cut_frame": 240,
+   "seam_step_mae": 7.46,
+   "upstream_phase_before_seam": "SETTLED",
+   "upstream_final12_mean": 1.21,
+   "downstream_phase_at_head": "PEAK",
+   "downstream_head12_mean": 4.06,
+   "downstream_first_onset_after_cut": 283,
+   "j12_local_peak_step": 239,
+   "j12_peak_offset_from_seam": 0,
+   "j12_peak_val": 7.46
+  },
+  {
+   "cut_frame": 480,
+   "seam_step_mae": 0.35,
+   "upstream_phase_before_seam": "SETTLED",
+   "upstream_final12_mean": 0.34,
+   "downstream_phase_at_head": "DRIFT",
+   "downstream_head12_mean": 2.49,
+   "downstream_first_onset_after_cut": 43,
+   "j12_local_peak_step": 478,
+   "j12_peak_offset_from_seam": -1,
+   "j12_peak_val": 0.54
+  },
+  {
+   "cut_frame": 720,
+   "seam_step_mae": 3.91,
+   "upstream_phase_before_seam": "PEAK",
+   "upstream_final12_mean": 2.38,
+   "downstream_phase_at_head": "PEAK",
+   "downstream_head12_mean": 3.89,
+   "downstream_first_onset_after_cut": 10,
+   "j12_local_peak_step": 719,
+   "j12_peak_offset_from_seam": 0,
+   "j12_peak_val": 3.91
+  },
+  {
+   "cut_frame": 960,
+   "seam_step_mae": 0.18,
+   "upstream_phase_before_seam": "SETTLED",
+   "upstream_final12_mean": 0.23,
+   "downstream_phase_at_head": "SETTLED",
+   "downstream_head12_mean": 3.41,
+   "downstream_first_onset_after_cut": 1,
+   "j12_local_peak_step": 947,
+   "j12_peak_offset_from_seam": -12,
+   "j12_peak_val": 0.28
+  },
+  {
+   "cut_frame": 1200,
+   "seam_step_mae": 1.1,
+   "upstream_phase_before_seam": "SETTLED",
+   "upstream_final12_mean": 1.25,
+   "downstream_phase_at_head": "SETTLED",
+   "downstream_head12_mean": 3.33,
+   "downstream_first_onset_after_cut": 2,
+   "j12_local_peak_step": 1192,
+   "j12_peak_offset_from_seam": -7,
+   "j12_peak_val": 1.36
+  }
+ ],
+ "episode_BASE_p95_inunit": 7.24
+}

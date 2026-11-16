@@ -1,0 +1,15 @@
+== s15-t2 ==
+codec_name=h264
+width=1280
+height=720
+r_frame_rate=24/1
+codec_name=aac
+r_frame_rate=0/0
+duration=10.000000
+size=7564919
+MD5 b753dec1d276509eacf6f5b8218a5e53  takes/media-generation-mv9-s15-t2-0-fd91721a-4bcc-445c-8729-e81743e081fd.mp4
+MOTION frames=240 mean_diff=7.51 longest_near_dup_run=0f first12=[2.99, 4.03, 4.01, 4.08, 3.99, 4.0, 3.76, 3.99, 3.54, 3.89, 3.8, 3.84]
+DOUBLING even_med=7.87 odd_med=7.99
+AUDIO rms=0.025
+WORDS n=0
+

@@ -1,0 +1,1289 @@
+{
+ "reference_onsets": 212,
+ "reference_source": "MV-14_clip-it/analysis/SONG_WORDS.json word starts",
+ "peak_rule": "local max (strict left), normalised ODF >= threshold; judged threshold 0.20",
+ "odfs": {
+  "superflux": {
+   "hop_s": 0.032,
+   "thresholds": {
+    "0.10": {
+     "n_peaks": 499,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 23,
+       "fp": 476,
+       "fn": 189,
+       "precision": 0.0461,
+       "recall": 0.1085,
+       "f_measure": 0.0647,
+       "fp_instrumental": 92
+      },
+      "50ms": {
+       "tp": 59,
+       "fp": 440,
+       "fn": 153,
+       "precision": 0.1182,
+       "recall": 0.2783,
+       "f_measure": 0.166,
+       "fp_instrumental": 91
+      },
+      "100ms": {
+       "tp": 106,
+       "fp": 393,
+       "fn": 106,
+       "precision": 0.2124,
+       "recall": 0.5,
+       "f_measure": 0.2982,
+       "fp_instrumental": 88
+      },
+      "150ms": {
+       "tp": 142,
+       "fp": 357,
+       "fn": 70,
+       "precision": 0.2846,
+       "recall": 0.6698,
+       "f_measure": 0.3994,
+       "fp_instrumental": 87
+      },
+      "200ms": {
+       "tp": 160,
+       "fp": 339,
+       "fn": 52,
+       "precision": 0.3206,
+       "recall": 0.7547,
+       "f_measure": 0.4501,
+       "fp_instrumental": 87
+      }
+     }
+    },
+    "0.15": {
+     "n_peaks": 317,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 12,
+       "fp": 305,
+       "fn": 200,
+       "precision": 0.0379,
+       "recall": 0.0566,
+       "f_measure": 0.0454,
+       "fp_instrumental": 52
+      },
+      "50ms": {
+       "tp": 29,
+       "fp": 288,
+       "fn": 183,
+       "precision": 0.0915,
+       "recall": 0.1368,
+       "f_measure": 0.1096,
+       "fp_instrumental": 51
+      },
+      "100ms": {
+       "tp": 63,
+       "fp": 254,
+       "fn": 149,
+       "precision": 0.1987,
+       "recall": 0.2972,
+       "f_measure": 0.2382,
+       "fp_instrumental": 48
+      },
+      "150ms": {
+       "tp": 93,
+       "fp": 224,
+       "fn": 119,
+       "precision": 0.2934,
+       "recall": 0.4387,
+       "f_measure": 0.3516,
+       "fp_instrumental": 47
+      },
+      "200ms": {
+       "tp": 113,
+       "fp": 204,
+       "fn": 99,
+       "precision": 0.3565,
+       "recall": 0.533,
+       "f_measure": 0.4272,
+       "fp_instrumental": 47
+      }
+     }
+    },
+    "0.20": {
+     "n_peaks": 208,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 7,
+       "fp": 201,
+       "fn": 205,
+       "precision": 0.0337,
+       "recall": 0.033,
+       "f_measure": 0.0333,
+       "fp_instrumental": 31
+      },
+      "50ms": {
+       "tp": 17,
+       "fp": 191,
+       "fn": 195,
+       "precision": 0.0817,
+       "recall": 0.0802,
+       "f_measure": 0.081,
+       "fp_instrumental": 30
+      },
+      "100ms": {
+       "tp": 45,
+       "fp": 163,
+       "fn": 167,
+       "precision": 0.2163,
+       "recall": 0.2123,
+       "f_measure": 0.2143,
+       "fp_instrumental": 27
+      },
+      "150ms": {
+       "tp": 64,
+       "fp": 144,
+       "fn": 148,
+       "precision": 0.3077,
+       "recall": 0.3019,
+       "f_measure": 0.3048,
+       "fp_instrumental": 26
+      },
+      "200ms": {
+       "tp": 81,
+       "fp": 127,
+       "fn": 131,
+       "precision": 0.3894,
+       "recall": 0.3821,
+       "f_measure": 0.3857,
+       "fp_instrumental": 26
+      }
+     }
+    },
+    "0.25": {
+     "n_peaks": 137,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 5,
+       "fp": 132,
+       "fn": 207,
+       "precision": 0.0365,
+       "recall": 0.0236,
+       "f_measure": 0.0287,
+       "fp_instrumental": 16
+      },
+      "50ms": {
+       "tp": 9,
+       "fp": 128,
+       "fn": 203,
+       "precision": 0.0657,
+       "recall": 0.0425,
+       "f_measure": 0.0516,
+       "fp_instrumental": 16
+      },
+      "100ms": {
+       "tp": 27,
+       "fp": 110,
+       "fn": 185,
+       "precision": 0.1971,
+       "recall": 0.1274,
+       "f_measure": 0.1547,
+       "fp_instrumental": 14
+      },
+      "150ms": {
+       "tp": 41,
+       "fp": 96,
+       "fn": 171,
+       "precision": 0.2993,
+       "recall": 0.1934,
+       "f_measure": 0.235,
+       "fp_instrumental": 13
+      },
+      "200ms": {
+       "tp": 53,
+       "fp": 84,
+       "fn": 159,
+       "precision": 0.3869,
+       "recall": 0.25,
+       "f_measure": 0.3037,
+       "fp_instrumental": 13
+      }
+     }
+    },
+    "0.30": {
+     "n_peaks": 103,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 5,
+       "fp": 98,
+       "fn": 207,
+       "precision": 0.0485,
+       "recall": 0.0236,
+       "f_measure": 0.0317,
+       "fp_instrumental": 13
+      },
+      "50ms": {
+       "tp": 6,
+       "fp": 97,
+       "fn": 206,
+       "precision": 0.0583,
+       "recall": 0.0283,
+       "f_measure": 0.0381,
+       "fp_instrumental": 13
+      },
+      "100ms": {
+       "tp": 20,
+       "fp": 83,
+       "fn": 192,
+       "precision": 0.1942,
+       "recall": 0.0943,
+       "f_measure": 0.127,
+       "fp_instrumental": 11
+      },
+      "150ms": {
+       "tp": 29,
+       "fp": 74,
+       "fn": 183,
+       "precision": 0.2816,
+       "recall": 0.1368,
+       "f_measure": 0.1841,
+       "fp_instrumental": 10
+      },
+      "200ms": {
+       "tp": 39,
+       "fp": 64,
+       "fn": 173,
+       "precision": 0.3786,
+       "recall": 0.184,
+       "f_measure": 0.2476,
+       "fp_instrumental": 10
+      }
+     }
+    }
+   }
+  },
+  "complex": {
+   "hop_s": 0.032,
+   "thresholds": {
+    "0.10": {
+     "n_peaks": 1070,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 67,
+       "fp": 1003,
+       "fn": 145,
+       "precision": 0.0626,
+       "recall": 0.316,
+       "f_measure": 0.1045,
+       "fp_instrumental": 185
+      },
+      "50ms": {
+       "tp": 117,
+       "fp": 953,
+       "fn": 95,
+       "precision": 0.1093,
+       "recall": 0.5519,
+       "f_measure": 0.1825,
+       "fp_instrumental": 184
+      },
+      "100ms": {
+       "tp": 197,
+       "fp": 873,
+       "fn": 15,
+       "precision": 0.1841,
+       "recall": 0.9292,
+       "f_measure": 0.3073,
+       "fp_instrumental": 182
+      },
+      "150ms": {
+       "tp": 205,
+       "fp": 865,
+       "fn": 7,
+       "precision": 0.1916,
+       "recall": 0.967,
+       "f_measure": 0.3198,
+       "fp_instrumental": 182
+      },
+      "200ms": {
+       "tp": 207,
+       "fp": 863,
+       "fn": 5,
+       "precision": 0.1935,
+       "recall": 0.9764,
+       "f_measure": 0.3229,
+       "fp_instrumental": 182
+      }
+     }
+    },
+    "0.15": {
+     "n_peaks": 989,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 63,
+       "fp": 926,
+       "fn": 149,
+       "precision": 0.0637,
+       "recall": 0.2972,
+       "f_measure": 0.1049,
+       "fp_instrumental": 169
+      },
+      "50ms": {
+       "tp": 109,
+       "fp": 880,
+       "fn": 103,
+       "precision": 0.1102,
+       "recall": 0.5142,
+       "f_measure": 0.1815,
+       "fp_instrumental": 168
+      },
+      "100ms": {
+       "tp": 187,
+       "fp": 802,
+       "fn": 25,
+       "precision": 0.1891,
+       "recall": 0.8821,
+       "f_measure": 0.3114,
+       "fp_instrumental": 166
+      },
+      "150ms": {
+       "tp": 197,
+       "fp": 792,
+       "fn": 15,
+       "precision": 0.1992,
+       "recall": 0.9292,
+       "f_measure": 0.3281,
+       "fp_instrumental": 166
+      },
+      "200ms": {
+       "tp": 202,
+       "fp": 787,
+       "fn": 10,
+       "precision": 0.2042,
+       "recall": 0.9528,
+       "f_measure": 0.3364,
+       "fp_instrumental": 166
+      }
+     }
+    },
+    "0.20": {
+     "n_peaks": 886,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 58,
+       "fp": 828,
+       "fn": 154,
+       "precision": 0.0655,
+       "recall": 0.2736,
+       "f_measure": 0.1056,
+       "fp_instrumental": 148
+      },
+      "50ms": {
+       "tp": 97,
+       "fp": 789,
+       "fn": 115,
+       "precision": 0.1095,
+       "recall": 0.4575,
+       "f_measure": 0.1767,
+       "fp_instrumental": 147
+      },
+      "100ms": {
+       "tp": 173,
+       "fp": 713,
+       "fn": 39,
+       "precision": 0.1953,
+       "recall": 0.816,
+       "f_measure": 0.3151,
+       "fp_instrumental": 145
+      },
+      "150ms": {
+       "tp": 187,
+       "fp": 699,
+       "fn": 25,
+       "precision": 0.2111,
+       "recall": 0.8821,
+       "f_measure": 0.3406,
+       "fp_instrumental": 145
+      },
+      "200ms": {
+       "tp": 194,
+       "fp": 692,
+       "fn": 18,
+       "precision": 0.219,
+       "recall": 0.9151,
+       "f_measure": 0.3534,
+       "fp_instrumental": 145
+      }
+     }
+    },
+    "0.25": {
+     "n_peaks": 762,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 50,
+       "fp": 712,
+       "fn": 162,
+       "precision": 0.0656,
+       "recall": 0.2358,
+       "f_measure": 0.1027,
+       "fp_instrumental": 107
+      },
+      "50ms": {
+       "tp": 82,
+       "fp": 680,
+       "fn": 130,
+       "precision": 0.1076,
+       "recall": 0.3868,
+       "f_measure": 0.1684,
+       "fp_instrumental": 106
+      },
+      "100ms": {
+       "tp": 153,
+       "fp": 609,
+       "fn": 59,
+       "precision": 0.2008,
+       "recall": 0.7217,
+       "f_measure": 0.3142,
+       "fp_instrumental": 104
+      },
+      "150ms": {
+       "tp": 173,
+       "fp": 589,
+       "fn": 39,
+       "precision": 0.227,
+       "recall": 0.816,
+       "f_measure": 0.3552,
+       "fp_instrumental": 104
+      },
+      "200ms": {
+       "tp": 185,
+       "fp": 577,
+       "fn": 27,
+       "precision": 0.2428,
+       "recall": 0.8726,
+       "f_measure": 0.3799,
+       "fp_instrumental": 104
+      }
+     }
+    },
+    "0.30": {
+     "n_peaks": 650,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 39,
+       "fp": 611,
+       "fn": 173,
+       "precision": 0.06,
+       "recall": 0.184,
+       "f_measure": 0.0905,
+       "fp_instrumental": 93
+      },
+      "50ms": {
+       "tp": 67,
+       "fp": 583,
+       "fn": 145,
+       "precision": 0.1031,
+       "recall": 0.316,
+       "f_measure": 0.1555,
+       "fp_instrumental": 92
+      },
+      "100ms": {
+       "tp": 135,
+       "fp": 515,
+       "fn": 77,
+       "precision": 0.2077,
+       "recall": 0.6368,
+       "f_measure": 0.3132,
+       "fp_instrumental": 90
+      },
+      "150ms": {
+       "tp": 159,
+       "fp": 491,
+       "fn": 53,
+       "precision": 0.2446,
+       "recall": 0.75,
+       "f_measure": 0.3689,
+       "fp_instrumental": 90
+      },
+      "200ms": {
+       "tp": 172,
+       "fp": 478,
+       "fn": 40,
+       "precision": 0.2646,
+       "recall": 0.8113,
+       "f_measure": 0.3991,
+       "fp_instrumental": 90
+      }
+     }
+    }
+   }
+  },
+  "hpss_harm_gated": {
+   "hop_s": 0.016,
+   "thresholds": {
+    "0.10": {
+     "n_peaks": 2681,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 170,
+       "fp": 2511,
+       "fn": 42,
+       "precision": 0.0634,
+       "recall": 0.8019,
+       "f_measure": 0.1175,
+       "fp_instrumental": 430
+      },
+      "50ms": {
+       "tp": 200,
+       "fp": 2481,
+       "fn": 12,
+       "precision": 0.0746,
+       "recall": 0.9434,
+       "f_measure": 0.1383,
+       "fp_instrumental": 429
+      },
+      "100ms": {
+       "tp": 208,
+       "fp": 2473,
+       "fn": 4,
+       "precision": 0.0776,
+       "recall": 0.9811,
+       "f_measure": 0.1438,
+       "fp_instrumental": 429
+      },
+      "150ms": {
+       "tp": 210,
+       "fp": 2471,
+       "fn": 2,
+       "precision": 0.0783,
+       "recall": 0.9906,
+       "f_measure": 0.1452,
+       "fp_instrumental": 429
+      },
+      "200ms": {
+       "tp": 210,
+       "fp": 2471,
+       "fn": 2,
+       "precision": 0.0783,
+       "recall": 0.9906,
+       "f_measure": 0.1452,
+       "fp_instrumental": 429
+      }
+     }
+    },
+    "0.15": {
+     "n_peaks": 2474,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 155,
+       "fp": 2319,
+       "fn": 57,
+       "precision": 0.0627,
+       "recall": 0.7311,
+       "f_measure": 0.1154,
+       "fp_instrumental": 393
+      },
+      "50ms": {
+       "tp": 186,
+       "fp": 2288,
+       "fn": 26,
+       "precision": 0.0752,
+       "recall": 0.8774,
+       "f_measure": 0.1385,
+       "fp_instrumental": 393
+      },
+      "100ms": {
+       "tp": 203,
+       "fp": 2271,
+       "fn": 9,
+       "precision": 0.0821,
+       "recall": 0.9575,
+       "f_measure": 0.1512,
+       "fp_instrumental": 393
+      },
+      "150ms": {
+       "tp": 206,
+       "fp": 2268,
+       "fn": 6,
+       "precision": 0.0833,
+       "recall": 0.9717,
+       "f_measure": 0.1534,
+       "fp_instrumental": 392
+      },
+      "200ms": {
+       "tp": 208,
+       "fp": 2266,
+       "fn": 4,
+       "precision": 0.0841,
+       "recall": 0.9811,
+       "f_measure": 0.1549,
+       "fp_instrumental": 392
+      }
+     }
+    },
+    "0.20": {
+     "n_peaks": 2134,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 127,
+       "fp": 2007,
+       "fn": 85,
+       "precision": 0.0595,
+       "recall": 0.5991,
+       "f_measure": 0.1083,
+       "fp_instrumental": 338
+      },
+      "50ms": {
+       "tp": 163,
+       "fp": 1971,
+       "fn": 49,
+       "precision": 0.0764,
+       "recall": 0.7689,
+       "f_measure": 0.139,
+       "fp_instrumental": 338
+      },
+      "100ms": {
+       "tp": 191,
+       "fp": 1943,
+       "fn": 21,
+       "precision": 0.0895,
+       "recall": 0.9009,
+       "f_measure": 0.1628,
+       "fp_instrumental": 338
+      },
+      "150ms": {
+       "tp": 196,
+       "fp": 1938,
+       "fn": 16,
+       "precision": 0.0918,
+       "recall": 0.9245,
+       "f_measure": 0.1671,
+       "fp_instrumental": 338
+      },
+      "200ms": {
+       "tp": 198,
+       "fp": 1936,
+       "fn": 14,
+       "precision": 0.0928,
+       "recall": 0.934,
+       "f_measure": 0.1688,
+       "fp_instrumental": 338
+      }
+     }
+    },
+    "0.25": {
+     "n_peaks": 1738,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 94,
+       "fp": 1644,
+       "fn": 118,
+       "precision": 0.0541,
+       "recall": 0.4434,
+       "f_measure": 0.0964,
+       "fp_instrumental": 261
+      },
+      "50ms": {
+       "tp": 131,
+       "fp": 1607,
+       "fn": 81,
+       "precision": 0.0754,
+       "recall": 0.6179,
+       "f_measure": 0.1344,
+       "fp_instrumental": 261
+      },
+      "100ms": {
+       "tp": 170,
+       "fp": 1568,
+       "fn": 42,
+       "precision": 0.0978,
+       "recall": 0.8019,
+       "f_measure": 0.1744,
+       "fp_instrumental": 259
+      },
+      "150ms": {
+       "tp": 177,
+       "fp": 1561,
+       "fn": 35,
+       "precision": 0.1018,
+       "recall": 0.8349,
+       "f_measure": 0.1815,
+       "fp_instrumental": 259
+      },
+      "200ms": {
+       "tp": 185,
+       "fp": 1553,
+       "fn": 27,
+       "precision": 0.1064,
+       "recall": 0.8726,
+       "f_measure": 0.1897,
+       "fp_instrumental": 259
+      }
+     }
+    },
+    "0.30": {
+     "n_peaks": 1351,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 73,
+       "fp": 1278,
+       "fn": 139,
+       "precision": 0.054,
+       "recall": 0.3443,
+       "f_measure": 0.0934,
+       "fp_instrumental": 203
+      },
+      "50ms": {
+       "tp": 104,
+       "fp": 1247,
+       "fn": 108,
+       "precision": 0.077,
+       "recall": 0.4906,
+       "f_measure": 0.1331,
+       "fp_instrumental": 203
+      },
+      "100ms": {
+       "tp": 144,
+       "fp": 1207,
+       "fn": 68,
+       "precision": 0.1066,
+       "recall": 0.6792,
+       "f_measure": 0.1843,
+       "fp_instrumental": 201
+      },
+      "150ms": {
+       "tp": 157,
+       "fp": 1194,
+       "fn": 55,
+       "precision": 0.1162,
+       "recall": 0.7406,
+       "f_measure": 0.2009,
+       "fp_instrumental": 201
+      },
+      "200ms": {
+       "tp": 172,
+       "fp": 1179,
+       "fn": 40,
+       "precision": 0.1273,
+       "recall": 0.8113,
+       "f_measure": 0.2201,
+       "fp_instrumental": 201
+      }
+     }
+    }
+   }
+  },
+  "f0_gated": {
+   "hop_s": 0.016,
+   "thresholds": {
+    "0.10": {
+     "n_peaks": 445,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 29,
+       "fp": 416,
+       "fn": 183,
+       "precision": 0.0652,
+       "recall": 0.1368,
+       "f_measure": 0.0883,
+       "fp_instrumental": 109
+      },
+      "50ms": {
+       "tp": 49,
+       "fp": 396,
+       "fn": 163,
+       "precision": 0.1101,
+       "recall": 0.2311,
+       "f_measure": 0.1492,
+       "fp_instrumental": 108
+      },
+      "100ms": {
+       "tp": 61,
+       "fp": 384,
+       "fn": 151,
+       "precision": 0.1371,
+       "recall": 0.2877,
+       "f_measure": 0.1857,
+       "fp_instrumental": 107
+      },
+      "150ms": {
+       "tp": 66,
+       "fp": 379,
+       "fn": 146,
+       "precision": 0.1483,
+       "recall": 0.3113,
+       "f_measure": 0.2009,
+       "fp_instrumental": 107
+      },
+      "200ms": {
+       "tp": 71,
+       "fp": 374,
+       "fn": 141,
+       "precision": 0.1596,
+       "recall": 0.3349,
+       "f_measure": 0.2161,
+       "fp_instrumental": 106
+      }
+     }
+    },
+    "0.15": {
+     "n_peaks": 300,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 17,
+       "fp": 283,
+       "fn": 195,
+       "precision": 0.0567,
+       "recall": 0.0802,
+       "f_measure": 0.0664,
+       "fp_instrumental": 89
+      },
+      "50ms": {
+       "tp": 32,
+       "fp": 268,
+       "fn": 180,
+       "precision": 0.1067,
+       "recall": 0.1509,
+       "f_measure": 0.125,
+       "fp_instrumental": 88
+      },
+      "100ms": {
+       "tp": 45,
+       "fp": 255,
+       "fn": 167,
+       "precision": 0.15,
+       "recall": 0.2123,
+       "f_measure": 0.1758,
+       "fp_instrumental": 88
+      },
+      "150ms": {
+       "tp": 50,
+       "fp": 250,
+       "fn": 162,
+       "precision": 0.1667,
+       "recall": 0.2358,
+       "f_measure": 0.1953,
+       "fp_instrumental": 88
+      },
+      "200ms": {
+       "tp": 54,
+       "fp": 246,
+       "fn": 158,
+       "precision": 0.18,
+       "recall": 0.2547,
+       "f_measure": 0.2109,
+       "fp_instrumental": 87
+      }
+     }
+    },
+    "0.20": {
+     "n_peaks": 172,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 7,
+       "fp": 165,
+       "fn": 205,
+       "precision": 0.0407,
+       "recall": 0.033,
+       "f_measure": 0.0365,
+       "fp_instrumental": 61
+      },
+      "50ms": {
+       "tp": 15,
+       "fp": 157,
+       "fn": 197,
+       "precision": 0.0872,
+       "recall": 0.0708,
+       "f_measure": 0.0781,
+       "fp_instrumental": 60
+      },
+      "100ms": {
+       "tp": 28,
+       "fp": 144,
+       "fn": 184,
+       "precision": 0.1628,
+       "recall": 0.1321,
+       "f_measure": 0.1458,
+       "fp_instrumental": 60
+      },
+      "150ms": {
+       "tp": 34,
+       "fp": 138,
+       "fn": 178,
+       "precision": 0.1977,
+       "recall": 0.1604,
+       "f_measure": 0.1771,
+       "fp_instrumental": 60
+      },
+      "200ms": {
+       "tp": 37,
+       "fp": 135,
+       "fn": 175,
+       "precision": 0.2151,
+       "recall": 0.1745,
+       "f_measure": 0.1927,
+       "fp_instrumental": 59
+      }
+     }
+    },
+    "0.25": {
+     "n_peaks": 104,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 5,
+       "fp": 99,
+       "fn": 207,
+       "precision": 0.0481,
+       "recall": 0.0236,
+       "f_measure": 0.0316,
+       "fp_instrumental": 40
+      },
+      "50ms": {
+       "tp": 11,
+       "fp": 93,
+       "fn": 201,
+       "precision": 0.1058,
+       "recall": 0.0519,
+       "f_measure": 0.0696,
+       "fp_instrumental": 39
+      },
+      "100ms": {
+       "tp": 20,
+       "fp": 84,
+       "fn": 192,
+       "precision": 0.1923,
+       "recall": 0.0943,
+       "f_measure": 0.1266,
+       "fp_instrumental": 39
+      },
+      "150ms": {
+       "tp": 23,
+       "fp": 81,
+       "fn": 189,
+       "precision": 0.2212,
+       "recall": 0.1085,
+       "f_measure": 0.1456,
+       "fp_instrumental": 39
+      },
+      "200ms": {
+       "tp": 24,
+       "fp": 80,
+       "fn": 188,
+       "precision": 0.2308,
+       "recall": 0.1132,
+       "f_measure": 0.1519,
+       "fp_instrumental": 38
+      }
+     }
+    },
+    "0.30": {
+     "n_peaks": 70,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 2,
+       "fp": 68,
+       "fn": 210,
+       "precision": 0.0286,
+       "recall": 0.0094,
+       "f_measure": 0.0142,
+       "fp_instrumental": 34
+      },
+      "50ms": {
+       "tp": 4,
+       "fp": 66,
+       "fn": 208,
+       "precision": 0.0571,
+       "recall": 0.0189,
+       "f_measure": 0.0284,
+       "fp_instrumental": 33
+      },
+      "100ms": {
+       "tp": 9,
+       "fp": 61,
+       "fn": 203,
+       "precision": 0.1286,
+       "recall": 0.0425,
+       "f_measure": 0.0638,
+       "fp_instrumental": 33
+      },
+      "150ms": {
+       "tp": 11,
+       "fp": 59,
+       "fn": 201,
+       "precision": 0.1571,
+       "recall": 0.0519,
+       "f_measure": 0.078,
+       "fp_instrumental": 33
+      },
+      "200ms": {
+       "tp": 13,
+       "fp": 57,
+       "fn": 199,
+       "precision": 0.1857,
+       "recall": 0.0613,
+       "f_measure": 0.0922,
+       "fp_instrumental": 32
+      }
+     }
+    }
+   }
+  },
+  "flux_mix": {
+   "hop_s": 0.016,
+   "thresholds": {
+    "0.10": {
+     "n_peaks": 1862,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 118,
+       "fp": 1744,
+       "fn": 94,
+       "precision": 0.0634,
+       "recall": 0.5566,
+       "f_measure": 0.1138,
+       "fp_instrumental": 298
+      },
+      "50ms": {
+       "tp": 164,
+       "fp": 1698,
+       "fn": 48,
+       "precision": 0.0881,
+       "recall": 0.7736,
+       "f_measure": 0.1581,
+       "fp_instrumental": 297
+      },
+      "100ms": {
+       "tp": 198,
+       "fp": 1664,
+       "fn": 14,
+       "precision": 0.1063,
+       "recall": 0.934,
+       "f_measure": 0.1909,
+       "fp_instrumental": 296
+      },
+      "150ms": {
+       "tp": 204,
+       "fp": 1658,
+       "fn": 8,
+       "precision": 0.1096,
+       "recall": 0.9623,
+       "f_measure": 0.1967,
+       "fp_instrumental": 296
+      },
+      "200ms": {
+       "tp": 204,
+       "fp": 1658,
+       "fn": 8,
+       "precision": 0.1096,
+       "recall": 0.9623,
+       "f_measure": 0.1967,
+       "fp_instrumental": 296
+      }
+     }
+    },
+    "0.15": {
+     "n_peaks": 1418,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 85,
+       "fp": 1333,
+       "fn": 127,
+       "precision": 0.0599,
+       "recall": 0.4009,
+       "f_measure": 0.1043,
+       "fp_instrumental": 197
+      },
+      "50ms": {
+       "tp": 130,
+       "fp": 1288,
+       "fn": 82,
+       "precision": 0.0917,
+       "recall": 0.6132,
+       "f_measure": 0.1595,
+       "fp_instrumental": 196
+      },
+      "100ms": {
+       "tp": 185,
+       "fp": 1233,
+       "fn": 27,
+       "precision": 0.1305,
+       "recall": 0.8726,
+       "f_measure": 0.227,
+       "fp_instrumental": 194
+      },
+      "150ms": {
+       "tp": 197,
+       "fp": 1221,
+       "fn": 15,
+       "precision": 0.1389,
+       "recall": 0.9292,
+       "f_measure": 0.2417,
+       "fp_instrumental": 194
+      },
+      "200ms": {
+       "tp": 199,
+       "fp": 1219,
+       "fn": 13,
+       "precision": 0.1403,
+       "recall": 0.9387,
+       "f_measure": 0.2442,
+       "fp_instrumental": 194
+      }
+     }
+    },
+    "0.20": {
+     "n_peaks": 992,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 61,
+       "fp": 931,
+       "fn": 151,
+       "precision": 0.0615,
+       "recall": 0.2877,
+       "f_measure": 0.1013,
+       "fp_instrumental": 136
+      },
+      "50ms": {
+       "tp": 87,
+       "fp": 905,
+       "fn": 125,
+       "precision": 0.0877,
+       "recall": 0.4104,
+       "f_measure": 0.1445,
+       "fp_instrumental": 135
+      },
+      "100ms": {
+       "tp": 154,
+       "fp": 838,
+       "fn": 58,
+       "precision": 0.1552,
+       "recall": 0.7264,
+       "f_measure": 0.2558,
+       "fp_instrumental": 133
+      },
+      "150ms": {
+       "tp": 176,
+       "fp": 816,
+       "fn": 36,
+       "precision": 0.1774,
+       "recall": 0.8302,
+       "f_measure": 0.2924,
+       "fp_instrumental": 133
+      },
+      "200ms": {
+       "tp": 184,
+       "fp": 808,
+       "fn": 28,
+       "precision": 0.1855,
+       "recall": 0.8679,
+       "f_measure": 0.3056,
+       "fp_instrumental": 133
+      }
+     }
+    },
+    "0.25": {
+     "n_peaks": 731,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 46,
+       "fp": 685,
+       "fn": 166,
+       "precision": 0.0629,
+       "recall": 0.217,
+       "f_measure": 0.0976,
+       "fp_instrumental": 108
+      },
+      "50ms": {
+       "tp": 68,
+       "fp": 663,
+       "fn": 144,
+       "precision": 0.093,
+       "recall": 0.3208,
+       "f_measure": 0.1442,
+       "fp_instrumental": 107
+      },
+      "100ms": {
+       "tp": 131,
+       "fp": 600,
+       "fn": 81,
+       "precision": 0.1792,
+       "recall": 0.6179,
+       "f_measure": 0.2778,
+       "fp_instrumental": 105
+      },
+      "150ms": {
+       "tp": 158,
+       "fp": 573,
+       "fn": 54,
+       "precision": 0.2161,
+       "recall": 0.7453,
+       "f_measure": 0.3351,
+       "fp_instrumental": 105
+      },
+      "200ms": {
+       "tp": 170,
+       "fp": 561,
+       "fn": 42,
+       "precision": 0.2326,
+       "recall": 0.8019,
+       "f_measure": 0.3606,
+       "fp_instrumental": 105
+      }
+     }
+    },
+    "0.30": {
+     "n_peaks": 570,
+     "by_tolerance": {
+      "25ms": {
+       "tp": 35,
+       "fp": 535,
+       "fn": 177,
+       "precision": 0.0614,
+       "recall": 0.1651,
+       "f_measure": 0.0895,
+       "fp_instrumental": 93
+      },
+      "50ms": {
+       "tp": 55,
+       "fp": 515,
+       "fn": 157,
+       "precision": 0.0965,
+       "recall": 0.2594,
+       "f_measure": 0.1407,
+       "fp_instrumental": 92
+      },
+      "100ms": {
+       "tp": 110,
+       "fp": 460,
+       "fn": 102,
+       "precision": 0.193,
+       "recall": 0.5189,
+       "f_measure": 0.2813,
+       "fp_instrumental": 90
+      },
+      "150ms": {
+       "tp": 138,
+       "fp": 432,
+       "fn": 74,
+       "precision": 0.2421,
+       "recall": 0.6509,
+       "f_measure": 0.3529,
+       "fp_instrumental": 90
+      },
+      "200ms": {
+       "tp": 151,
+       "fp": 419,
+       "fn": 61,
+       "precision": 0.2649,
+       "recall": 0.7123,
+       "f_measure": 0.3862,
+       "fp_instrumental": 90
+      }
+     }
+    }
+   }
+  }
+ },
+ "bar": "SuperFlux F >= 0.80 at +-50 ms (thr 0.20) AND superflux fp_instrumental < flux fp_instrumental",
+ "judged": {
+  "superflux_f_50ms": 0.081,
+  "superflux_fp_instrumental": 30,
+  "flux_fp_instrumental": 135
+ },
+ "pass": false
+}

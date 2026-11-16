@@ -1,0 +1,54 @@
+## === STATION PIECE 02 P1 "THE DEMAND" : v3 — NAMED WORDMARK-CORRECTION-BAR + HUE-WORD-LEAK CORRECTION ===
+
+Production note: v2 (slate/fire_station_p1_onair_v2_correction.txt) REJECTED on TWO breaks
+— (1) the wordmark hard gate: v2's named WORDMARK+HUE+TEXT correction held the hue
+axis (INK black hoodie) and the glyph axis (single `~WuBu~`, six glyphs, both tildes
+single) but SUMMONED the deterministic solid-gold underline bar under the wordmark,
+which v1 never had. Per the 2026-10-23 WORDMARK-CORRECTION-BAR datum (fourteenth
+case): name the FULL anti-bar stack in EVERY wordmark correction, even when the
+prior fire showed no bar — the bar is per-shape random and a correction that does
+not forbid it can summon it. (2) TEXT: naming the hue as a bare dictionary word in
+SUBJECTS ("the hoodie is INK BLACK, never blue") leaked as on-screen text — a red
+"INK" plaque on the studio door. Per the 2026-10-23 HUE-WORD-LEAK datum: a hue name
+that is also a common word must be bound to its object in one clause ("the
+INK-black hoodie") AND the bare word added to TEXT/NEGATIVE ("no 'INK' text
+anywhere") — never leave a dictionary-word hue standing alone. This v3: full
+anti-bar stack in SUBJECTS + TEXT + NEGATIVE; every standalone INK rebound to its
+object; "no 'INK' text anywhere" in TEXT + NEGATIVE. All other axes identical to v2.
+
+---
+
+PROMPT
+SHOT & CAMERA: wide, eye level, ONE slow push-in toward the desk.
+SUBJECTS: UNC (the INK-black hoodie — the hoodie is black like ink, never blue, never cadmium-blue — with EXACTLY ONE instance of the wordmark `~ WuBu ~` on the chest: exactly SIX glyphs total (tilde, W, u, B, u, tilde) on ONE STRAIGHT HORIZONTAL BASELINE, both tildes single and present, the leading tilde at the same height as the trailing tilde, the glyphs colored CADMIUM-yellow paint, no second instance, no stacking, no "CADMIUM" word above the letters, no extra words anywhere on the hoodie; ABSOLUTELY NO BAR, LINE, STRIPE, PLATE, UNDERLINE, or GRAPHIC of any kind beneath, behind, or touching the six glyphs, in any frame — the bare INK-black fabric runs uninterrupted directly under the ~WuBu~ glyphs; deadpan station manager, arms folded) at the BONE station desk (a plain blank BONE desk — no words, no labels, no lettering on the desk's edge or surface of any kind); PETER (VERMILION blazer, clipboard in hand) hovering at frame right; the ADVERTISER (grey INK-black suit, BONE shirt, seated in the swivelled BONE chair, one finger raised); the lit VERMILION ON AIR lamp above the INK-black door.
+ACTION (beat-labelled):
+  (0-1.5s)  HOOK FRAME  - the lit VERMILION ON AIR lamp fills the top of frame;
+              below it, the advertiser's raised finger enters. The question:
+              what is he asking for?
+  (1.5-4s)  STATE       - PETER slides his clipboard across the desk toward the
+              advertiser; UNC stands motionless, arms folded, watching.
+  (4-7s)    TURN        - the advertiser does not touch the clipboard; he sets
+              an INK-black briefcase on his lap and thumbs both latches open.
+  (7-9s)    LINE        - PETER: "We have two."
+  (9-10s)   CLIFF FRAME - tight on the open briefcase mouth, dark inside;
+              UNC's hand frozen mid-reach above it. Save this frame.
+LIGHT: one hard VERMILION practical from the ON AIR lamp, spilling down the
+       door; everything else flat shadow.
+AUDIO: one briefcase latch double-click at 4s; native dialogue as written above.
+STYLE: VERMILION + CADMIUM primaries, BONE chair and desk, INK-black everything else;
+       the CADMIUM appears ONLY in the `~ WuBu ~` wordmark glyphs and the ON AIR lamp — UNC's hoodie itself is INK-black;
+       flat fills, ink outline on every edge, 1970s broadcast texture.
+TEXT: NONE on screen. No digits, no labels, no card, no subtitle, no watermark.
+      The BONE desk is unlettered — no "BONE station desk" label on the desk edge
+      or anywhere on the furniture; the walls bare; no furniture text of any kind.
+      No 'INK' text anywhere — no INK plaque, no INK door sign, no INK label on
+      any prop, wall, or door.
+NEGATIVE: NO fisheye, NO plastic skin, NO commercial gloss, NO on-screen text,
+          NO title cards, NO third primary hue, NO gradients, NO crowd,
+          NO second voice event, NO lip movement outside 7-9s,
+          NO stacked wordmark, NO three-line wordmark, NO second WuBu instance,
+          NO missing tildes, NO tilde-less wordmark, NO blue hoodie,
+          NO desk labels, NO "BONE station desk" text,
+          NO bar, NO line, NO stripe, NO plate, NO underline, NO graphic
+          beneath, behind, or touching the six wordmark glyphs, in any frame,
+          NO 'INK' text anywhere — no INK plaque, no INK door sign, no INK label.

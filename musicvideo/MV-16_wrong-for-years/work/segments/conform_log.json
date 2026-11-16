@@ -1,0 +1,1404 @@
+[
+ {
+  "scene": "S01",
+  "chunk": "L1",
+  "src": [
+   0.0,
+   2.46
+  ],
+  "tgt": [
+   0.0,
+   3.14
+  ],
+  "factor": 0.783,
+  "flag": false
+ },
+ {
+  "scene": "S01",
+  "chunk": "L2",
+  "src": [
+   2.46,
+   3.78
+  ],
+  "tgt": [
+   3.14,
+   5.56
+  ],
+  "factor": 0.545,
+  "flag": false
+ },
+ {
+  "scene": "S01",
+  "chunk": "L3",
+  "src": [
+   3.78,
+   6.65
+  ],
+  "tgt": [
+   5.56,
+   7.64
+  ],
+  "factor": 1.38,
+  "flag": false
+ },
+ {
+  "scene": "S02",
+  "chunk": "L4",
+  "src": [
+   0.0,
+   3.1
+  ],
+  "tgt": [
+   7.64,
+   9.96
+  ],
+  "factor": 1.336,
+  "flag": false
+ },
+ {
+  "scene": "S02",
+  "chunk": "L5",
+  "src": [
+   3.1,
+   4.44
+  ],
+  "tgt": [
+   9.96,
+   10.5
+  ],
+  "factor": 2.481,
+  "flag": true
+ },
+ {
+  "scene": "S02",
+  "chunk": "L6",
+  "src": [
+   4.44,
+   7.77
+  ],
+  "tgt": [
+   10.5,
+   14.15
+  ],
+  "factor": 0.912,
+  "flag": false
+ },
+ {
+  "scene": "S03",
+  "chunk": "head",
+  "src": [
+   8.66,
+   9.07
+  ],
+  "tgt": [
+   14.15,
+   14.56
+  ],
+  "factor": 1.0,
+  "flag": false
+ },
+ {
+  "scene": "S03",
+  "chunk": "L7",
+  "src": [
+   0.0,
+   4.0
+  ],
+  "tgt": [
+   14.56,
+   15.96
+  ],
+  "factor": 2.857,
+  "flag": true
+ },
+ {
+  "scene": "S03",
+  "chunk": "L8",
+  "src": [
+   6.28,
+   8.36
+  ],
+  "tgt": [
+   15.96,
+   17.3
+  ],
+  "factor": 1.552,
+  "flag": false
+ },
+ {
+  "scene": "S03",
+  "chunk": "L9",
+  "src": [
+   4.0,
+   6.43
+  ],
+  "tgt": [
+   17.3,
+   19.56
+  ],
+  "factor": 1.075,
+  "flag": false
+ },
+ {
+  "scene": "S04",
+  "chunk": "L10",
+  "src": [
+   0.3,
+   2.28
+  ],
+  "tgt": [
+   19.56,
+   22.58
+  ],
+  "factor": 0.656,
+  "flag": false
+ },
+ {
+  "scene": "S04",
+  "chunk": "L11",
+  "src": [
+   2.28,
+   3.98
+  ],
+  "tgt": [
+   22.58,
+   23.76
+  ],
+  "factor": 1.441,
+  "flag": false
+ },
+ {
+  "scene": "S04",
+  "chunk": "L12",
+  "src": [
+   3.98,
+   6.1
+  ],
+  "tgt": [
+   23.76,
+   26.13
+  ],
+  "factor": 0.895,
+  "flag": false
+ },
+ {
+  "scene": "S04",
+  "chunk": "L12-gap",
+  "src": [
+   6.1,
+   6.65
+  ],
+  "tgt": [
+   26.13,
+   26.83
+  ],
+  "factor": 0.786,
+  "flag": false
+ },
+ {
+  "scene": "S05",
+  "chunk": "head",
+  "src": [
+   8.34,
+   9.29
+  ],
+  "tgt": [
+   26.83,
+   27.78
+  ],
+  "factor": 1.0,
+  "flag": false
+ },
+ {
+  "scene": "S05",
+  "chunk": "L13",
+  "src": [
+   0.0,
+   3.8
+  ],
+  "tgt": [
+   27.78,
+   30.16
+  ],
+  "factor": 1.597,
+  "flag": false
+ },
+ {
+  "scene": "S05",
+  "chunk": "L14",
+  "src": [
+   3.8,
+   6.94
+  ],
+  "tgt": [
+   30.16,
+   31.26
+  ],
+  "factor": 2.855,
+  "flag": true
+ },
+ {
+  "scene": "S05",
+  "chunk": "L15",
+  "src": [
+   6.94,
+   8.34
+  ],
+  "tgt": [
+   31.26,
+   32.01
+  ],
+  "factor": 1.867,
+  "flag": false
+ },
+ {
+  "scene": "S05",
+  "chunk": "L15-gap",
+  "src": [
+   8.34,
+   8.89
+  ],
+  "tgt": [
+   32.01,
+   32.46
+  ],
+  "factor": 1.222,
+  "flag": false
+ },
+ {
+  "scene": "S06",
+  "chunk": "head",
+  "src": [
+   6.04,
+   6.74
+  ],
+  "tgt": [
+   32.46,
+   33.16
+  ],
+  "factor": 1.0,
+  "flag": false
+ },
+ {
+  "scene": "S06",
+  "chunk": "L16",
+  "src": [
+   0.0,
+   3.42
+  ],
+  "tgt": [
+   33.16,
+   36.2
+  ],
+  "factor": 1.125,
+  "flag": false
+ },
+ {
+  "scene": "S06",
+  "chunk": "L17",
+  "src": [
+   3.42,
+   5.89
+  ],
+  "tgt": [
+   36.2,
+   38.68
+  ],
+  "factor": 0.996,
+  "flag": false
+ },
+ {
+  "scene": "S07",
+  "chunk": "L18",
+  "src": [
+   0.0,
+   1.42
+  ],
+  "tgt": [
+   38.68,
+   41.24
+  ],
+  "factor": 0.555,
+  "flag": false
+ },
+ {
+  "scene": "S07",
+  "chunk": "L19",
+  "src": [
+   1.42,
+   3.92
+  ],
+  "tgt": [
+   41.24,
+   43.96
+  ],
+  "factor": 0.919,
+  "flag": false
+ },
+ {
+  "scene": "S07",
+  "chunk": "L20",
+  "src": [
+   3.92,
+   6.16
+  ],
+  "tgt": [
+   43.96,
+   46.4
+  ],
+  "factor": 0.918,
+  "flag": false
+ },
+ {
+  "scene": "S07",
+  "chunk": "L21",
+  "src": [
+   6.16,
+   8.19
+  ],
+  "tgt": [
+   46.4,
+   49.67
+  ],
+  "factor": 0.62,
+  "flag": false
+ },
+ {
+  "scene": "S07",
+  "chunk": "L21-hold",
+  "src": [
+   8.5,
+   10.0
+  ],
+  "tgt": [
+   49.67,
+   51.88
+  ],
+  "factor": 0.68,
+  "flag": false
+ },
+ {
+  "scene": "S08",
+  "chunk": "L22",
+  "src": [
+   0.0,
+   1.72
+  ],
+  "tgt": [
+   51.88,
+   54.36
+  ],
+  "factor": 0.694,
+  "flag": false
+ },
+ {
+  "scene": "S08",
+  "chunk": "L23",
+  "src": [
+   1.72,
+   4.0
+  ],
+  "tgt": [
+   54.36,
+   55.72
+  ],
+  "factor": 1.676,
+  "flag": false
+ },
+ {
+  "scene": "S08",
+  "chunk": "L24",
+  "src": [
+   4.0,
+   5.7
+  ],
+  "tgt": [
+   55.72,
+   57.3
+  ],
+  "factor": 1.076,
+  "flag": false
+ },
+ {
+  "scene": "S08",
+  "chunk": "L25",
+  "src": [
+   5.7,
+   7.51
+  ],
+  "tgt": [
+   57.3,
+   58.84
+  ],
+  "factor": 1.175,
+  "flag": false
+ },
+ {
+  "scene": "S09",
+  "chunk": "L26",
+  "src": [
+   0.0,
+   2.22
+  ],
+  "tgt": [
+   58.84,
+   61.22
+  ],
+  "factor": 0.933,
+  "flag": false
+ },
+ {
+  "scene": "S09",
+  "chunk": "L27",
+  "src": [
+   2.22,
+   4.08
+  ],
+  "tgt": [
+   61.22,
+   63.64
+  ],
+  "factor": 0.769,
+  "flag": false
+ },
+ {
+  "scene": "S09",
+  "chunk": "L28",
+  "src": [
+   4.08,
+   5.85
+  ],
+  "tgt": [
+   63.64,
+   65.7
+  ],
+  "factor": 0.859,
+  "flag": false
+ },
+ {
+  "scene": "S10",
+  "chunk": "L29",
+  "src": [
+   1.34,
+   5.94
+  ],
+  "tgt": [
+   65.7,
+   67.66
+  ],
+  "factor": 2.347,
+  "flag": true
+ },
+ {
+  "scene": "S10",
+  "chunk": "L30",
+  "src": [
+   5.94,
+   7.82
+  ],
+  "tgt": [
+   67.66,
+   70.06
+  ],
+  "factor": 0.783,
+  "flag": false
+ },
+ {
+  "scene": "S10",
+  "chunk": "L31",
+  "src": [
+   7.82,
+   9.43
+  ],
+  "tgt": [
+   70.06,
+   72.3
+  ],
+  "factor": 0.719,
+  "flag": false
+ },
+ {
+  "scene": "S11",
+  "chunk": "L32",
+  "src": [
+   4.62,
+   7.03
+  ],
+  "tgt": [
+   72.3,
+   73.82
+  ],
+  "factor": 1.586,
+  "flag": false
+ },
+ {
+  "scene": "S11",
+  "chunk": "L33",
+  "src": [
+   0.0,
+   2.27
+  ],
+  "tgt": [
+   73.82,
+   75.0
+  ],
+  "factor": 1.924,
+  "flag": false
+ },
+ {
+  "scene": "S11",
+  "chunk": "L34",
+  "src": [
+   2.64,
+   4.77
+  ],
+  "tgt": [
+   75.0,
+   77.58
+  ],
+  "factor": 0.826,
+  "flag": false
+ },
+ {
+  "scene": "S12",
+  "chunk": "L35",
+  "src": [
+   0.0,
+   3.04
+  ],
+  "tgt": [
+   77.58,
+   80.56
+  ],
+  "factor": 1.02,
+  "flag": false
+ },
+ {
+  "scene": "S12",
+  "chunk": "L36",
+  "src": [
+   3.04,
+   5.05
+  ],
+  "tgt": [
+   80.56,
+   81.7
+  ],
+  "factor": 1.763,
+  "flag": false
+ },
+ {
+  "scene": "S12",
+  "chunk": "L37",
+  "src": [
+   5.05,
+   7.24
+  ],
+  "tgt": [
+   81.7,
+   85.31
+  ],
+  "factor": 0.607,
+  "flag": false
+ },
+ {
+  "scene": "S12",
+  "chunk": "L37-gap",
+  "src": [
+   7.24,
+   7.79
+  ],
+  "tgt": [
+   85.31,
+   86.65
+  ],
+  "factor": 0.41,
+  "flag": true
+ },
+ {
+  "scene": "S13",
+  "chunk": "head",
+  "src": [
+   2.21,
+   3.8
+  ],
+  "tgt": [
+   86.65,
+   88.24
+  ],
+  "factor": 1.0,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L38",
+  "src": [
+   3.8,
+   6.18
+  ],
+  "tgt": [
+   88.24,
+   90.68
+  ],
+  "factor": 0.975,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L39",
+  "src": [
+   6.18,
+   8.1
+  ],
+  "tgt": [
+   90.68,
+   94.13
+  ],
+  "factor": 0.557,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L39-gap",
+  "src": [
+   8.1,
+   8.65
+  ],
+  "tgt": [
+   94.13,
+   95.36
+  ],
+  "factor": 0.447,
+  "flag": true
+ },
+ {
+  "scene": "S13",
+  "tpad_frames": 1
+ },
+ {
+  "scene": "S14",
+  "chunk": "L40",
+  "src": [
+   0.0,
+   2.22
+  ],
+  "tgt": [
+   95.36,
+   97.14
+  ],
+  "factor": 1.247,
+  "flag": false
+ },
+ {
+  "scene": "S14",
+  "chunk": "L41",
+  "src": [
+   2.22,
+   5.02
+  ],
+  "tgt": [
+   97.14,
+   98.64
+  ],
+  "factor": 1.867,
+  "flag": false
+ },
+ {
+  "scene": "S14",
+  "chunk": "L42",
+  "src": [
+   8.06,
+   8.7
+  ],
+  "tgt": [
+   98.64,
+   98.88
+  ],
+  "factor": 2.667,
+  "flag": true
+ },
+ {
+  "scene": "S15",
+  "chunk": "L43",
+  "src": [
+   0.0,
+   2.2
+  ],
+  "tgt": [
+   98.88,
+   100.7
+  ],
+  "factor": 1.209,
+  "flag": false
+ },
+ {
+  "scene": "S15",
+  "chunk": "L44",
+  "src": [
+   2.2,
+   3.6
+  ],
+  "tgt": [
+   100.7,
+   101.82
+  ],
+  "factor": 1.25,
+  "flag": false
+ },
+ {
+  "scene": "S15",
+  "chunk": "L45",
+  "src": [
+   3.6,
+   6.72
+  ],
+  "tgt": [
+   101.82,
+   104.2
+  ],
+  "factor": 1.311,
+  "flag": false
+ },
+ {
+  "scene": "S15",
+  "chunk": "L46",
+  "src": [
+   6.72,
+   8.21
+  ],
+  "tgt": [
+   104.2,
+   105.06
+  ],
+  "factor": 1.733,
+  "flag": false
+ },
+ {
+  "scene": "S16",
+  "chunk": "L47",
+  "src": [
+   0.0,
+   1.98
+  ],
+  "tgt": [
+   105.06,
+   106.6
+  ],
+  "factor": 1.286,
+  "flag": false
+ },
+ {
+  "scene": "S16",
+  "chunk": "L48",
+  "src": [
+   1.98,
+   5.51
+  ],
+  "tgt": [
+   106.6,
+   108.7
+  ],
+  "factor": 1.681,
+  "flag": false
+ },
+ {
+  "scene": "S17",
+  "chunk": "L49",
+  "src": [
+   0.0,
+   1.6
+  ],
+  "tgt": [
+   108.7,
+   110.5
+  ],
+  "factor": 0.889,
+  "flag": false
+ },
+ {
+  "scene": "S17",
+  "chunk": "L50",
+  "src": [
+   1.6,
+   3.56
+  ],
+  "tgt": [
+   110.5,
+   111.74
+  ],
+  "factor": 1.581,
+  "flag": false
+ },
+ {
+  "scene": "S17",
+  "chunk": "L51",
+  "src": [
+   3.56,
+   5.18
+  ],
+  "tgt": [
+   111.74,
+   113.1
+  ],
+  "factor": 1.191,
+  "flag": false
+ },
+ {
+  "scene": "S17",
+  "chunk": "L52",
+  "src": [
+   5.18,
+   7.11
+  ],
+  "tgt": [
+   113.1,
+   114.0
+  ],
+  "factor": 2.144,
+  "flag": false
+ },
+ {
+  "scene": "S18",
+  "chunk": "L53",
+  "src": [
+   0.0,
+   3.22
+  ],
+  "tgt": [
+   114.0,
+   117.48
+  ],
+  "factor": 0.925,
+  "flag": false
+ },
+ {
+  "scene": "S18",
+  "chunk": "L54",
+  "src": [
+   3.22,
+   5.32
+  ],
+  "tgt": [
+   117.48,
+   118.78
+  ],
+  "factor": 1.615,
+  "flag": false
+ },
+ {
+  "scene": "S18",
+  "chunk": "L55",
+  "src": [
+   5.32,
+   7.49
+  ],
+  "tgt": [
+   118.78,
+   121.92
+  ],
+  "factor": 0.691,
+  "flag": false
+ },
+ {
+  "scene": "S19",
+  "chunk": "L56",
+  "src": [
+   0.0,
+   2.78
+  ],
+  "tgt": [
+   121.92,
+   123.88
+  ],
+  "factor": 1.418,
+  "flag": false
+ },
+ {
+  "scene": "S19",
+  "chunk": "L57",
+  "src": [
+   2.78,
+   4.6
+  ],
+  "tgt": [
+   123.88,
+   126.24
+  ],
+  "factor": 0.771,
+  "flag": false
+ },
+ {
+  "scene": "S19",
+  "chunk": "L58",
+  "src": [
+   4.6,
+   6.63
+  ],
+  "tgt": [
+   126.24,
+   128.48
+  ],
+  "factor": 0.906,
+  "flag": false
+ },
+ {
+  "scene": "S20",
+  "chunk": "L59",
+  "src": [
+   0.0,
+   1.48
+  ],
+  "tgt": [
+   128.48,
+   130.1
+  ],
+  "factor": 0.914,
+  "flag": false
+ },
+ {
+  "scene": "S20",
+  "chunk": "L60",
+  "src": [
+   4.0,
+   6.4
+  ],
+  "tgt": [
+   130.1,
+   131.56
+  ],
+  "factor": 1.644,
+  "flag": false
+ },
+ {
+  "scene": "S20",
+  "chunk": "L61",
+  "src": [
+   1.48,
+   4.15
+  ],
+  "tgt": [
+   131.56,
+   133.78
+  ],
+  "factor": 1.203,
+  "flag": false
+ },
+ {
+  "scene": "S21",
+  "chunk": "L62",
+  "src": [
+   0.0,
+   2.86
+  ],
+  "tgt": [
+   133.78,
+   136.7
+  ],
+  "factor": 0.979,
+  "flag": false
+ },
+ {
+  "scene": "S21",
+  "chunk": "L63",
+  "src": [
+   2.86,
+   4.32
+  ],
+  "tgt": [
+   136.7,
+   139.4
+  ],
+  "factor": 0.541,
+  "flag": false
+ },
+ {
+  "scene": "S21",
+  "chunk": "L64",
+  "src": [
+   4.32,
+   7.12
+  ],
+  "tgt": [
+   139.4,
+   141.71
+  ],
+  "factor": 1.212,
+  "flag": false
+ },
+ {
+  "scene": "S21",
+  "chunk": "L64-gap",
+  "src": [
+   7.12,
+   7.67
+  ],
+  "tgt": [
+   141.71,
+   141.96
+  ],
+  "factor": 2.2,
+  "flag": false
+ },
+ {
+  "scene": "S22",
+  "chunk": "head",
+  "src": [
+   8.34,
+   8.84
+  ],
+  "tgt": [
+   141.96,
+   142.46
+  ],
+  "factor": 1.0,
+  "flag": false
+ },
+ {
+  "scene": "S22",
+  "chunk": "L65",
+  "src": [
+   0.0,
+   1.52
+  ],
+  "tgt": [
+   142.46,
+   144.42
+  ],
+  "factor": 0.776,
+  "flag": false
+ },
+ {
+  "scene": "S22",
+  "chunk": "L66",
+  "src": [
+   1.52,
+   3.08
+  ],
+  "tgt": [
+   144.42,
+   145.96
+  ],
+  "factor": 1.013,
+  "flag": false
+ },
+ {
+  "scene": "S22",
+  "chunk": "L67",
+  "src": [
+   3.08,
+   5.06
+  ],
+  "tgt": [
+   145.96,
+   148.94
+  ],
+  "factor": 0.664,
+  "flag": false
+ },
+ {
+  "scene": "S22",
+  "chunk": "L68",
+  "src": [
+   5.06,
+   6.6
+  ],
+  "tgt": [
+   148.94,
+   151.08
+  ],
+  "factor": 0.72,
+  "flag": false
+ },
+ {
+  "scene": "S22",
+  "chunk": "L69",
+  "src": [
+   6.6,
+   8.19
+  ],
+  "tgt": [
+   151.08,
+   152.7
+  ],
+  "factor": 0.981,
+  "flag": false
+ },
+ {
+  "scene": "S23",
+  "chunk": "L70",
+  "src": [
+   1.2,
+   3.21
+  ],
+  "tgt": [
+   152.7,
+   156.16
+  ],
+  "factor": 0.581,
+  "flag": false
+ },
+ {
+  "scene": "S24",
+  "chunk": "L71",
+  "src": [
+   0.0,
+   2.56
+  ],
+  "tgt": [
+   156.16,
+   159.08
+  ],
+  "factor": 0.877,
+  "flag": false
+ },
+ {
+  "scene": "S24",
+  "chunk": "L72",
+  "src": [
+   2.56,
+   4.04
+  ],
+  "tgt": [
+   159.08,
+   160.43
+  ],
+  "factor": 1.096,
+  "flag": false
+ },
+ {
+  "scene": "S24",
+  "chunk": "L72-gap",
+  "src": [
+   4.04,
+   4.76
+  ],
+  "tgt": [
+   160.43,
+   161.48
+  ],
+  "factor": 0.686,
+  "flag": false
+ },
+ {
+  "scene": "S24",
+  "chunk": "L73",
+  "src": [
+   4.76,
+   6.45
+  ],
+  "tgt": [
+   161.48,
+   163.52
+  ],
+  "factor": 0.828,
+  "flag": false
+ },
+ {
+  "scene": "S25",
+  "chunk": "L74",
+  "src": [
+   0.0,
+   2.3
+  ],
+  "tgt": [
+   163.52,
+   165.86
+  ],
+  "factor": 0.983,
+  "flag": false
+ },
+ {
+  "scene": "S25",
+  "chunk": "L75",
+  "src": [
+   2.3,
+   4.0
+  ],
+  "tgt": [
+   165.86,
+   167.86
+  ],
+  "factor": 0.85,
+  "flag": false
+ },
+ {
+  "scene": "S25",
+  "chunk": "L76",
+  "src": [
+   4.0,
+   5.39
+  ],
+  "tgt": [
+   167.86,
+   170.14
+  ],
+  "factor": 0.61,
+  "flag": false
+ },
+ {
+  "scene": "S26",
+  "chunk": "L77",
+  "src": [
+   0.0,
+   2.3
+  ],
+  "tgt": [
+   170.14,
+   171.6
+  ],
+  "factor": 1.575,
+  "flag": false
+ },
+ {
+  "scene": "S26",
+  "chunk": "L78",
+  "src": [
+   4.48,
+   6.76
+  ],
+  "tgt": [
+   171.6,
+   172.96
+  ],
+  "factor": 1.676,
+  "flag": false
+ },
+ {
+  "scene": "S26",
+  "chunk": "L79",
+  "src": [
+   2.3,
+   5.33
+  ],
+  "tgt": [
+   172.96,
+   175.59
+  ],
+  "factor": 1.152,
+  "flag": false
+ },
+ {
+  "scene": "S27",
+  "chunk": "head",
+  "src": [
+   6.06,
+   6.43
+  ],
+  "tgt": [
+   175.59,
+   175.96
+  ],
+  "factor": 1.0,
+  "flag": false
+ },
+ {
+  "scene": "S27",
+  "chunk": "L80",
+  "src": [
+   0.0,
+   2.28
+  ],
+  "tgt": [
+   175.96,
+   178.82
+  ],
+  "factor": 0.797,
+  "flag": false
+ },
+ {
+  "scene": "S27",
+  "chunk": "L81",
+  "src": [
+   2.28,
+   4.18
+  ],
+  "tgt": [
+   178.82,
+   182.3
+  ],
+  "factor": 0.546,
+  "flag": false
+ },
+ {
+  "scene": "S27",
+  "chunk": "L82",
+  "src": [
+   4.18,
+   5.91
+  ],
+  "tgt": [
+   182.3,
+   184.73
+  ],
+  "factor": 0.712,
+  "flag": false
+ },
+ {
+  "scene": "S28",
+  "chunk": "L83",
+  "src": [
+   0.0,
+   1.82
+  ],
+  "tgt": [
+   184.73,
+   186.14
+  ],
+  "factor": 1.291,
+  "flag": false
+ },
+ {
+  "scene": "S28",
+  "chunk": "L84",
+  "src": [
+   1.82,
+   4.06
+  ],
+  "tgt": [
+   186.14,
+   189.28
+  ],
+  "factor": 0.713,
+  "flag": false
+ },
+ {
+  "scene": "S28",
+  "chunk": "L85/86",
+  "src": [
+   4.06,
+   5.54
+  ],
+  "tgt": [
+   189.28,
+   191.5
+  ],
+  "factor": 0.667,
+  "flag": false
+ },
+ {
+  "scene": "S28",
+  "chunk": "tail-A",
+  "src": [
+   5.54,
+   8.5
+  ],
+  "tgt": [
+   191.5,
+   196.1
+  ],
+  "factor": 0.643,
+  "flag": false
+ },
+ {
+  "scene": "S28",
+  "chunk": "tail-B",
+  "src": "pose frame @8.75 (zoompan)",
+  "tgt": [
+   196.1,
+   198.1
+  ],
+  "factor": null,
+  "flag": false,
+  "note": "push-in 1.00->1.10 replaces frozen held-pose tail (motion probe fix)"
+ }
+]

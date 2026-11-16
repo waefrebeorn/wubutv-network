@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv17_s33_t1.mp4",
+ "words": [
+  {
+   "w": "Never",
+   "start": 2.74,
+   "end": 4.14,
+   "p": 0.748
+  },
+  {
+   "w": "on,",
+   "start": 4.14,
+   "end": 5.0,
+   "p": 0.943
+  },
+  {
+   "w": "never",
+   "start": 5.34,
+   "end": 7.14,
+   "p": 0.918
+  },
+  {
+   "w": "on",
+   "start": 7.14,
+   "end": 8.18,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 2.74,
+   "end": 8.18,
+   "text": "Never on, never on",
+   "avg_logprob": -0.189
+  }
+ ]
+}

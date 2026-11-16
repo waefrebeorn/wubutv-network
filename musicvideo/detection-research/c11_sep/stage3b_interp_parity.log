@@ -1,0 +1,40 @@
+gcc -O3 -march=native -std=c11 -Wall -Wextra -fopenmp -ffast-math -o test_interp test_interp.c sep_interp.c sep_ops.c sep_gemm.c -fopenmp -lm
+OMP_NUM_THREADS=2 ./test_interp .
+checkpoints: 24
+node   0: sample max|diff| 2.265e-06 (bar 2.0e-03) corr 1.000000 | mean 0.15552 vs 0.15552  std 0.4301 vs 0.4301  -> PASS
+node   3: sample max|diff| 5.245e-06 (bar 2.0e-03) corr 1.000000 | mean 0.75247 vs 0.75247  std 0.8523 vs 0.8523  -> PASS
+node   9: sample max|diff| 7.019e-04 (bar 1.0e-02) corr 1.000000 | mean -1.56152 vs -1.56152  std 12.7356 vs 12.7356  -> PASS
+node  12: sample max|diff| 6.866e-05 (bar 2.6e-03) corr 1.000000 | mean -1.31521 vs -1.31521  std 4.9503 vs 4.9503  -> PASS
+node  15: sample max|diff| 1.621e-05 (bar 2.0e-03) corr 1.000000 | mean 0.86293 vs 0.86293  std 0.9693 vs 0.9693  -> PASS
+node  30: sample max|diff| 3.016e-05 (bar 2.0e-03) corr 1.000000 | mean 1.05394 vs 1.05394  std 1.0129 vs 1.0129  -> PASS
+node  45: sample max|diff| 3.207e-05 (bar 2.0e-03) corr 1.000000 | mean 0.88673 vs 0.88673  std 0.9455 vs 0.9455  -> PASS
+node  46: sample max|diff| 1.860e-05 (bar 2.0e-03) corr 1.000000 | mean -0.19162 vs -0.19162  std 0.9895 vs 0.9895  -> PASS
+node  48: sample max|diff| 1.335e-05 (bar 2.0e-03) corr 1.000000 | mean -0.17431 vs -0.17431  std 0.9869 vs 0.9869  -> PASS
+node  50: sample max|diff| 1.347e-05 (bar 2.0e-03) corr 1.000000 | mean -0.18154 vs -0.18154  std 0.9804 vs 0.9804  -> PASS
+node  52: sample max|diff| 1.466e-05 (bar 2.0e-03) corr 1.000000 | mean 0.09701 vs 0.09701  std 1.1931 vs 1.1931  -> PASS
+node  54: sample max|diff| 4.768e-05 (bar 2.0e-03) corr 1.000000 | mean -2.74549 vs -2.74549  std 7.2538 vs 7.2538  -> PASS
+node  55: sample max|diff| 9.179e-06 (bar 2.0e-03) corr 1.000000 | mean 0.17845 vs 0.17845  std 0.9208 vs 0.9208  -> PASS
+node  57: sample max|diff| 1.514e-05 (bar 2.0e-03) corr 1.000000 | mean -0.51753 vs -0.51753  std 1.7897 vs 1.7897  -> PASS
+node  58: sample max|diff| 1.073e-05 (bar 2.0e-03) corr 1.000000 | mean -0.04647 vs -0.04647  std 0.9351 vs 0.9351  -> PASS
+node  60: sample max|diff| 1.454e-05 (bar 2.0e-03) corr 1.000000 | mean 0.81785 vs 0.81785  std 0.9024 vs 0.9024  -> PASS
+node  75: sample max|diff| 1.478e-05 (bar 2.0e-03) corr 1.000000 | mean 0.74303 vs 0.74303  std 0.8391 vs 0.8391  -> PASS
+node  90: sample max|diff| 7.451e-06 (bar 2.0e-03) corr 1.000000 | mean 0.70059 vs 0.70059  std 0.7404 vs 0.7404  -> PASS
+node 107: sample max|diff| 1.147e-05 (bar 2.0e-03) corr 1.000000 | mean 0.77875 vs 0.77875  std 0.8733 vs 0.8733  -> PASS
+node 124: sample max|diff| 1.585e-05 (bar 2.0e-03) corr 1.000000 | mean 0.89052 vs 0.89052  std 1.0132 vs 1.0132  -> PASS
+node 141: sample max|diff| 2.670e-05 (bar 2.0e-03) corr 1.000000 | mean 0.70321 vs 0.70321  std 1.0914 vs 1.0914  -> PASS
+node 158: sample max|diff| 4.196e-05 (bar 2.0e-03) corr 1.000000 | mean 0.48498 vs 0.48498  std 1.0175 vs 1.0175  -> PASS
+node 175: sample max|diff| 2.429e-05 (bar 2.0e-03) corr 1.000000 | mean 0.20147 vs 0.20147  std 0.7571 vs 0.7571  -> PASS
+node 177 (final): full max|diff| 8.631e-05  corr 1.000000  -> PASS
+chunk-0 forward: 129.39 s total
+top-10 instructions by time:
+  instr   3 op 2: 18.43 s
+  instr 162 op 2: 10.69 s
+  instr   5 op 2: 10.49 s
+  instr 158 op 2: 9.18 s
+  instr 160 op 2: 8.12 s
+  instr   7 op 2: 6.40 s
+  instr 146 op 2: 5.42 s
+  instr  18 op 2: 4.09 s
+  instr  22 op 2: 4.00 s
+  instr 142 op 2: 3.71 s
+INTERP: PASS

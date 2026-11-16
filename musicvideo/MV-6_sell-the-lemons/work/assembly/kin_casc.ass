@@ -1,0 +1,50 @@
+[Script Info]
+Title: WuBuTV kinetic type (kinetic_ass.py)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bone,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Cadmium,Noto Sans,54,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Dim,Noto Sans,54,&H64DCEEF4,&H64DCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Draw,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:53.78,0:00:57.47,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-209,610,51,610,0,220)\p1}m 0 0 l 1179 0 l 1179 7 l 0 7{\p0}
+Dialogue: 2,0:00:53.78,0:00:57.47,Bone,,0,0,0,,{\an4\move(-369,576,50,576,0,200)\fad(60,0)}CLICK,
+Dialogue: 2,0:00:54.22,0:00:57.47,Bone,,0,0,0,,{\an4\move(891,576,246,576,0,200)\fad(60,0)}UPGRADE,
+Dialogue: 2,0:00:54.74,0:00:57.47,Bone,,0,0,0,,{\an4\move(79,576,499,576,0,200)\fad(60,0)}SELL,
+Dialogue: 2,0:00:55.28,0:00:57.47,Bone,,0,0,0,,{\an4\move(1228,576,668,576,0,200)\fad(60,0)}DON'T
+Dialogue: 2,0:00:55.70,0:00:57.47,Bone,,0,0,0,,{\an4\move(416,576,836,576,0,200)\fad(60,0)}STOP
+Dialogue: 2,0:00:55.96,0:00:57.47,Bone,,0,0,0,,{\an4\move(1481,576,976,576,0,200)\fad(60,0)}THE
+Dialogue: 2,0:00:56.32,0:00:57.47,Bone,,0,0,0,,{\an4\move(669,576,1089,576,0,200)\fad(60,0)}PLAY.
+Dialogue: 0,0:01:47.14,0:01:50.75,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-209,610,51,610,0,220)\p1}m 0 0 l 1179 0 l 1179 7 l 0 7{\p0}
+Dialogue: 2,0:01:47.14,0:01:50.75,Bone,,0,0,0,,{\an4\move(-369,576,50,576,0,200)\fad(60,0)}CLICK,
+Dialogue: 2,0:01:47.58,0:01:50.75,Bone,,0,0,0,,{\an4\move(891,576,246,576,0,200)\fad(60,0)}UPGRADE,
+Dialogue: 2,0:01:48.10,0:01:50.75,Bone,,0,0,0,,{\an4\move(79,576,499,576,0,200)\fad(60,0)}SELL,
+Dialogue: 2,0:01:48.62,0:01:50.75,Bone,,0,0,0,,{\an4\move(1228,576,668,576,0,200)\fad(60,0)}DON'T
+Dialogue: 2,0:01:49.04,0:01:50.75,Bone,,0,0,0,,{\an4\move(416,576,836,576,0,200)\fad(60,0)}STOP
+Dialogue: 2,0:01:49.38,0:01:50.75,Bone,,0,0,0,,{\an4\move(1481,576,976,576,0,200)\fad(60,0)}THE
+Dialogue: 2,0:01:49.72,0:01:50.75,Bone,,0,0,0,,{\an4\move(669,576,1089,576,0,200)\fad(60,0)}PLAY.
+Dialogue: 0,0:02:01.00,0:02:04.06,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(1,610,261,610,0,220)\p1}m 0 0 l 758 0 l 758 7 l 0 7{\p0}
+Dialogue: 2,0:02:01.00,0:02:04.06,Bone,,0,0,0,,{\an4\move(-159,576,260,576,0,200)\fad(60,0)}CLICK,
+Dialogue: 2,0:02:01.52,0:02:04.06,Bone,,0,0,0,,{\an4\move(1017,576,457,576,0,200)\fad(60,0)}SELL,
+Dialogue: 2,0:02:02.02,0:02:04.06,Bone,,0,0,0,,{\an4\move(205,576,625,576,0,200)\fad(60,0)}UPGRADE,
+Dialogue: 2,0:02:02.84,0:02:04.06,Bone,,0,0,0,,{\an4\move(1439,576,878,576,0,200)\fad(60,0)}SELL,
+Dialogue: 0,0:02:04.08,0:02:07.29,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(1,610,261,610,0,220)\p1}m 0 0 l 758 0 l 758 7 l 0 7{\p0}
+Dialogue: 2,0:02:04.08,0:02:07.29,Bone,,0,0,0,,{\an4\move(-159,576,260,576,0,200)\fad(60,0)}CLICK,
+Dialogue: 2,0:02:04.66,0:02:07.29,Bone,,0,0,0,,{\an4\move(1017,576,457,576,0,200)\fad(60,0)}SELL,
+Dialogue: 2,0:02:05.14,0:02:07.29,Bone,,0,0,0,,{\an4\move(205,576,625,576,0,200)\fad(60,0)}UPGRADE,
+Dialogue: 2,0:02:05.98,0:02:07.29,Bone,,0,0,0,,{\an4\move(1439,576,878,576,0,200)\fad(60,0)}SELL.
+Dialogue: 0,0:03:02.66,0:03:06.19,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-209,610,51,610,0,220)\p1}m 0 0 l 1179 0 l 1179 7 l 0 7{\p0}
+Dialogue: 2,0:03:02.66,0:03:06.19,Bone,,0,0,0,,{\an4\move(-369,576,50,576,0,200)\fad(60,0)}CLICK,
+Dialogue: 2,0:03:02.98,0:03:06.19,Bone,,0,0,0,,{\an4\move(891,576,246,576,0,200)\fad(60,0)}UPGRADE,
+Dialogue: 2,0:03:03.50,0:03:06.19,Bone,,0,0,0,,{\an4\move(79,576,499,576,0,200)\fad(60,0)}SELL,
+Dialogue: 2,0:03:04.06,0:03:06.19,Bone,,0,0,0,,{\an4\move(1228,576,668,576,0,200)\fad(60,0)}DON'T
+Dialogue: 2,0:03:04.44,0:03:06.19,Bone,,0,0,0,,{\an4\move(416,576,836,576,0,200)\fad(60,0)}STOP
+Dialogue: 2,0:03:04.78,0:03:06.19,Bone,,0,0,0,,{\an4\move(1481,576,976,576,0,200)\fad(60,0)}THE
+Dialogue: 2,0:03:05.20,0:03:06.19,Bone,,0,0,0,,{\an4\move(669,576,1089,576,0,200)\fad(60,0)}PLAY.

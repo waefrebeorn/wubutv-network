@@ -1,0 +1,26 @@
+{
+ "factory": "wubutv-bumper-factory",
+ "run": "2026-10-17 04:15 EDT",
+ "claim_time": "2026-10-17T04:16:00-04:00",
+ "numbers": [
+  1130,
+  1131,
+  1132
+ ],
+ "subjects": {
+  "B-1130": "0215 B-1616 \"THE MONITOR BANK\"",
+  "B-1131": "0215 B-1617 \"THE ASH DOOR\"",
+  "B-1132": "0215 B-1618 \"THE HALLWAY CABINET\""
+ },
+ "beat_gate": {
+  "B-1130": "title grep-zero vs BUMPERS.md + EPISODE_LEDGER.md + COMMERCIALS.md + IDEAS_BANK.md (case-insensitive PREPRO hits are prior drafts only, incl. 0315 lowercase mention and old 10-13 drafts, all unshot); lineage vs shipped B-662 \"The Master Switch\" adjudicated DISTINCT per the bell-family precedent \u2014 the master-throw with the pattern UNCHANGED on all screens (verdict = unchanged pattern, line \"We are on the air.\") vs the toggle flip that LIGHTS the one dark monitor (verdict = the lighting, line \"The bank is lit.\") \u2014 distinct object + verb + verdict; vs B-567/B-828 fader beats (moved fader vs flipped switch) flagged per 0215 header",
+  "B-1131": "title grep-zero vs all four tables (only the 0215 sheet itself); lineage vs shipped B-725 \"The Boiler\" flagged \u2014 the ash-removal beat (open the base ash door, rake the ash out, close; emptied-verdict, line \"Emptied.\") is a distinct verb + verdict from the boiler beat; the 0215-retired \"The Boiler Gauge\" was the beat-adjacent one, not this",
+  "B-1132": "title grep-zero vs all four tables (only the 0215 sheet itself); no cabinet/extinguisher beats shipped anywhere \u2014 clean beat; lineage vs B-1094 \"The Storm Shutter\" (cabinet-door + tag check vs shutter + latch, distinct object + setting, flagged)"
+ },
+ "durable_prompts": {
+  "B-1130": "slate/fire_b1130_20261017_0415_v1.txt (md5 d51315240db2f2007d80df74c758d877, verbatim 0215 B-1616 extract)",
+  "B-1131": "slate/fire_b1131_20261017_0415_v1.txt (md5 55eacd221825cbea655623793e22b257, verbatim 0215 B-1617 extract)",
+  "B-1132": "slate/fire_b1132_20261017_0415_v1.txt (md5 39109212b01638f48f5b085b3d953dbc, verbatim 0215 B-1618 extract)"
+ },
+ "note": "B-854 skipped (standing beat-gate hold); B-974 RESERVED (Q1 restage, new shape); B-767 number still needs a Q1 restage; B-881/B-882 freed numbers reserved; B-376 \"The Stamp Card\" stays pipeline-DENIED/unshot"
+}

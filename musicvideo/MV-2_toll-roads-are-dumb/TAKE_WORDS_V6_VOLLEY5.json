@@ -1,0 +1,363 @@
+{
+  "R1": {
+    "take": "mv2_r1_t2.mp4",
+    "beat": "pay to go faster the rest of us slow",
+    "song_dur": 6.36,
+    "take_words": [
+      [
+        "paid",
+        0.0,
+        0.8
+      ],
+      [
+        "to",
+        0.8,
+        0.92
+      ],
+      [
+        "go",
+        0.92,
+        1.26
+      ],
+      [
+        "faster",
+        1.26,
+        2.34
+      ],
+      [
+        "the",
+        3.82,
+        4.32
+      ],
+      [
+        "rest",
+        4.32,
+        4.82
+      ],
+      [
+        "of",
+        4.82,
+        5.06
+      ],
+      [
+        "us",
+        5.06,
+        5.28
+      ],
+      [
+        "slow",
+        5.28,
+        5.96
+      ]
+    ],
+    "matched": [],
+    "vocal_span": null,
+    "ratio": null
+  },
+  "S08": {
+    "take": "mv2_s08_t5.mp4",
+    "beat": "they just keep coming",
+    "song_dur": 4.62,
+    "take_words": [
+      [
+        "they",
+        1.08,
+        2.06
+      ],
+      [
+        "just",
+        2.06,
+        2.42
+      ],
+      [
+        "keep",
+        2.42,
+        2.82
+      ],
+      [
+        "coming",
+        2.82,
+        3.44
+      ],
+      [
+        "they",
+        3.44,
+        5.06
+      ],
+      [
+        "just",
+        5.06,
+        5.42
+      ],
+      [
+        "keep",
+        5.42,
+        5.8
+      ],
+      [
+        "coming",
+        5.8,
+        6.38
+      ]
+    ],
+    "matched": [
+      [
+        "they",
+        1.08,
+        2.06
+      ],
+      [
+        "just",
+        2.06,
+        2.42
+      ],
+      [
+        "keep",
+        2.42,
+        2.82
+      ],
+      [
+        "coming",
+        2.82,
+        3.44
+      ]
+    ],
+    "vocal_span": [
+      1.08,
+      3.44
+    ],
+    "ratio": 1.96
+  },
+  "S10": {
+    "take": "mv2_s10_t6.mp4",
+    "beat": "speed up cut over somebody gets caught",
+    "song_dur": 3.18,
+    "take_words": [
+      [
+        "speed",
+        0.0,
+        0.38
+      ],
+      [
+        "up",
+        0.38,
+        0.74
+      ],
+      [
+        "cut",
+        1.12,
+        1.5
+      ],
+      [
+        "over",
+        1.5,
+        1.86
+      ],
+      [
+        "somebody",
+        2.32,
+        2.78
+      ],
+      [
+        "gets",
+        2.78,
+        3.12
+      ],
+      [
+        "caught",
+        3.12,
+        3.54
+      ]
+    ],
+    "matched": [
+      [
+        "speed",
+        0.0,
+        0.38
+      ],
+      [
+        "up",
+        0.38,
+        0.74
+      ],
+      [
+        "cut",
+        1.12,
+        1.5
+      ],
+      [
+        "over",
+        1.5,
+        1.86
+      ],
+      [
+        "somebody",
+        2.32,
+        2.78
+      ],
+      [
+        "gets",
+        2.78,
+        3.12
+      ],
+      [
+        "caught",
+        3.12,
+        3.54
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      3.54
+    ],
+    "ratio": 0.9
+  },
+  "S23": {
+    "take": "mv2_s23_t6.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.38,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        1.06
+      ],
+      [
+        "roads",
+        1.06,
+        1.32
+      ],
+      [
+        "are",
+        1.32,
+        2.04
+      ],
+      [
+        "dumb",
+        2.04,
+        2.58
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        1.06
+      ],
+      [
+        "roads",
+        1.06,
+        1.32
+      ],
+      [
+        "are",
+        1.32,
+        2.04
+      ],
+      [
+        "dumb",
+        2.04,
+        2.58
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      2.58
+    ],
+    "ratio": 0.53
+  },
+  "R2": {
+    "take": "mv2_r2_t1.mp4",
+    "beat": "we have been slamming the danger roads",
+    "song_dur": 5.28,
+    "take_words": [
+      [
+        "we've",
+        0.0,
+        1.16
+      ],
+      [
+        "been",
+        1.16,
+        1.4
+      ],
+      [
+        "slamming",
+        1.4,
+        2.14
+      ],
+      [
+        "the",
+        2.14,
+        2.4
+      ],
+      [
+        "danger",
+        2.4,
+        3.18
+      ],
+      [
+        "roads",
+        3.18,
+        4.38
+      ]
+    ],
+    "matched": [],
+    "vocal_span": null,
+    "ratio": null
+  },
+  "R3": {
+    "take": "mv2_r3_t1.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.16,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        1.04
+      ],
+      [
+        "roads",
+        1.04,
+        1.96
+      ],
+      [
+        "are",
+        1.96,
+        3.06
+      ],
+      [
+        "done",
+        3.06,
+        3.88
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        1.04
+      ],
+      [
+        "roads",
+        1.04,
+        1.96
+      ],
+      [
+        "are",
+        1.96,
+        3.06
+      ],
+      [
+        "done",
+        3.06,
+        3.88
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      3.88
+    ],
+    "ratio": 0.56
+  }
+}

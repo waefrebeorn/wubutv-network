@@ -1,0 +1,12 @@
+{
+ "method": "by construction from corrected_build.py + gate frame reads at cut-adjacent onsets",
+ "in_phrase_warp_steps": 0,
+ "detail": "Every corrected scene is ONE piece with ONE constant setpts factor (phrase-smooth) \u2014 no per-word stepping anywhere. The only multi-piece corrected scene is S02 (2 pieces); its single factor step sits exactly on the mantra phrase boundary (master 14.22s), which is a sanctioned phrase edge, and both pieces are the SAME take (s02_t2) joined mid-shot: the gate frames at 14.22 show the mantra attack landing on the join with no visual discontinuity (same framing, mic, lighting).",
+ "piece_factors": {
+  "S02-A": 1.4096,
+  "S02-B": 0.825,
+  "shifts (single factor, head trim only)": "S07 +5f, S08 +4f, S09 +9f, S10 +9f, S12 +4f, S14 +12f, S18 +4f, S19 +4f, S27 +12f, S28 +8f, S29 +16f, S34 +4f, S38 +4f (take-frames; warp factor unchanged from the retimed build)"
+ },
+ "cut_points": "Identical frame positions to the retimed base (every segment enforced to its exact frame count; total 8516f). Post-cut frames at line onsets were read in gate (b): no closed-mouth pop was introduced at any cut \u2014 the only closed onset at a scene head is S13 (structural, disclosed). The two onset-level trades (S28 L30 O->T, S29 247.10 O->T) are mid-scene articulation changes, not cuts.",
+ "verdict": "PASS"
+}

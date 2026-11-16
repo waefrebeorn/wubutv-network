@@ -1,0 +1,181 @@
+{
+ "s01": {
+  "take": "mv5_s01_t1.mp4",
+  "song_slot": 8.38,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 0.482,
+   "longest_neardup_run": 11,
+   "exact_dup_frames": 0
+  },
+  "whisper_text": "Easy now, easy now, we ride, we ride, easy now, easy now till the morning comes",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now,",
+   " we",
+   " ride,",
+   " we",
+   " ride,",
+   " easy",
+   " now,",
+   " easy",
+   " now",
+   " till",
+   " the",
+   " morning",
+   " comes"
+  ],
+  "whisper_nwords": 16,
+  "repeat_bigrams": [
+   " easy  now",
+   " we  ride",
+   " now  easy"
+  ]
+ },
+ "s02": {
+  "take": "mv5_s02_t1.mp4",
+  "song_slot": 8.6,
+  "motion": {
+   "frames": 216,
+   "mean_diff": 14.994,
+   "longest_neardup_run": 0,
+   "exact_dup_frames": 0
+  }
+ },
+ "s03": {
+  "take": "mv5_s03_t1.mp4",
+  "song_slot": 3.36,
+  "motion": {
+   "frames": 120,
+   "mean_diff": 1.27,
+   "longest_neardup_run": 3,
+   "exact_dup_frames": 0
+  },
+  "whisper_text": "Ta-da, ta-da, ta-da, ta-da, ta-da, ta-da",
+  "whisper_words": [
+   " Ta",
+   "-da,",
+   " ta",
+   "-da,",
+   " ta",
+   "-da,",
+   " ta",
+   "-da,",
+   " ta",
+   "-da,",
+   " ta",
+   "-da"
+  ],
+  "whisper_nwords": 12,
+  "repeat_bigrams": [
+   " ta -da",
+   "-da  ta"
+  ]
+ },
+ "s04": {
+  "take": "mv5_s04_t1.mp4",
+  "song_slot": 9.48,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 8.324,
+   "longest_neardup_run": 0,
+   "exact_dup_frames": 0
+  },
+  "whisper_text": "Bare feet on the boardwalk, salt on my skin, you came in laughing, said, come on, let's begin, blue shirt, red bicycle",
+  "whisper_words": [
+   " Bare",
+   " feet",
+   " on",
+   " the",
+   " boardwalk,",
+   " salt",
+   " on",
+   " my",
+   " skin,",
+   " you",
+   " came",
+   " in",
+   " laughing,",
+   " said,",
+   " come",
+   " on,",
+   " let's",
+   " begin,",
+   " blue",
+   " shirt,",
+   " red",
+   " bicycle"
+  ],
+  "whisper_nwords": 22,
+  "repeat_bigrams": []
+ },
+ "s05": {
+  "take": "mv5_s05_t1.mp4",
+  "song_slot": 8.96,
+  "motion": {
+   "frames": 216,
+   "mean_diff": 1.231,
+   "longest_neardup_run": 7,
+   "exact_dup_frames": 0
+  },
+  "whisper_text": "Rolling past the pier, I was posted up right here, now you're pulling near, backpack half-zipped",
+  "whisper_words": [
+   " Rolling",
+   " past",
+   " the",
+   " pier,",
+   " I",
+   " was",
+   " posted",
+   " up",
+   " right",
+   " here,",
+   " now",
+   " you're",
+   " pulling",
+   " near,",
+   " backpack",
+   " half",
+   "-zipped"
+  ],
+  "whisper_nwords": 17,
+  "repeat_bigrams": []
+ },
+ "s08": {
+  "take": "mv5_s08_t1.mp4",
+  "song_slot": 9.54,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 1.057,
+   "longest_neardup_run": 6,
+   "exact_dup_frames": 0
+  },
+  "whisper_text": "Easy now, easy now We ride, we ride With you by my side No need to run",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now",
+   " We",
+   " ride,",
+   " we",
+   " ride",
+   " With",
+   " you",
+   " by",
+   " my",
+   " side",
+   " No",
+   " need",
+   " to",
+   " run"
+  ],
+  "whisper_nwords": 17,
+  "repeat_bigrams": [
+   " easy  now",
+   " we  ride"
+  ]
+ }
+}

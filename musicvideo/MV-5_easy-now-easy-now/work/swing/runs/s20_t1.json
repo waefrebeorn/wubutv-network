@@ -1,0 +1,261 @@
+{
+ "take": "mv5_s20_t1.mp4",
+ "take_duration_s": 5.035,
+ "prompted_line": "Heart in the breeze, and the bass move slow",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 155.72-158.06",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Heart",
+    0.0,
+    0.88
+   ],
+   [
+    "in",
+    0.88,
+    1.4
+   ],
+   [
+    "the",
+    1.4,
+    1.66
+   ],
+   [
+    "breeze",
+    1.66,
+    2.54
+   ]
+  ],
+  "prompted": [
+   [
+    "Heart",
+    0.0,
+    0.88
+   ],
+   [
+    "in",
+    0.88,
+    1.4
+   ],
+   [
+    "the",
+    1.4,
+    1.66
+   ],
+   [
+    "breeze",
+    1.66,
+    2.54
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.169,
+ "words": [
+  {
+   "song_word": "in",
+   "song_start": 155.72,
+   "song_end": 156.08,
+   "take_word": "in",
+   "take_start": 0.88,
+   "take_end": 1.4,
+   "source": "unprompted",
+   "raw_offset": -154.84,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.52,
+    "song_interval_s": 0.36,
+    "playback_speed": 1.444,
+    "setpts_factor": 0.6923,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 156.08,
+   "song_end": 156.26,
+   "take_word": "the",
+   "take_start": 1.4,
+   "take_end": 1.66,
+   "source": "unprompted",
+   "raw_offset": -154.68,
+   "swing_offset": 0.16,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.26,
+    "song_interval_s": 0.18,
+    "playback_speed": 1.444,
+    "setpts_factor": 0.6923,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "breeze",
+   "song_start": 156.26,
+   "song_end": 156.4,
+   "take_word": "breeze",
+   "take_start": 1.66,
+   "take_end": 2.54,
+   "source": "unprompted",
+   "raw_offset": -154.6,
+   "swing_offset": 0.24,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.88,
+    "song_interval_s": 0.14,
+    "playback_speed": 6.286,
+    "setpts_factor": 0.1591,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 6.29x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "And",
+   "song_start": 156.4,
+   "song_end": 156.7,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "the",
+   "song_start": 156.7,
+   "song_end": 157.0,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "bass",
+   "song_start": 157.0,
+   "song_end": 157.18,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "move",
+   "song_start": 157.18,
+   "song_end": 157.38,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "slow",
+   "song_start": 157.38,
+   "song_end": 157.66,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "word": "Heart",
+   "start": 0.0,
+   "end": 0.88,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "in",
+   "song_time": 155.72,
+   "take_time": 0.88
+  },
+  {
+   "word": "the",
+   "song_time": 156.08,
+   "take_time": 1.4
+  },
+  {
+   "word": "breeze",
+   "song_time": 156.26,
+   "take_time": 1.66
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "And",
+    "the",
+    "bass",
+    "move",
+    "slow"
+   ],
+   "span_song": [
+    156.4,
+    157.66
+   ],
+   "cut_out_beat": 156.131,
+   "return_onset": null,
+   "return_beat": 157.826,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "WARPABLE": 3,
+  "BAD-missing": 5
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

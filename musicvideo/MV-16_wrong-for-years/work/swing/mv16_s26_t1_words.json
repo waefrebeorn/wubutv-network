@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv16_s26_t1.mp4",
+ "words": [
+  {
+   "w": "Wrong",
+   "start": 0.0,
+   "end": 0.48,
+   "p": 0.535
+  },
+  {
+   "w": "for",
+   "start": 0.48,
+   "end": 0.8,
+   "p": 0.99
+  },
+  {
+   "w": "years,",
+   "start": 0.8,
+   "end": 1.54,
+   "p": 0.992
+  },
+  {
+   "w": "and",
+   "start": 2.3,
+   "end": 2.78,
+   "p": 0.922
+  },
+  {
+   "w": "I'm",
+   "start": 2.78,
+   "end": 3.08,
+   "p": 0.989
+  },
+  {
+   "w": "still",
+   "start": 3.08,
+   "end": 3.5,
+   "p": 0.998
+  },
+  {
+   "w": "going",
+   "start": 3.5,
+   "end": 4.48,
+   "p": 0.998
+  },
+  {
+   "w": "wrong",
+   "start": 4.48,
+   "end": 5.6,
+   "p": 0.387
+  },
+  {
+   "w": "for",
+   "start": 5.6,
+   "end": 6.04,
+   "p": 0.995
+  },
+  {
+   "w": "years.",
+   "start": 6.04,
+   "end": 6.76,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.76,
+   "text": "Wrong for years, and I'm still going wrong for years.",
+   "avg_logprob": -0.376
+  }
+ ]
+}

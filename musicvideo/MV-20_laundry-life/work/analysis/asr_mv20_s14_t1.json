@@ -1,0 +1,55 @@
+{
+ "take": "takes/mv20_s14_t1.mp4",
+ "words": [
+  {
+   "w": "Like",
+   "start": 0.0,
+   "end": 0.78,
+   "p": 0.748
+  },
+  {
+   "w": "a",
+   "start": 0.78,
+   "end": 1.02,
+   "p": 0.991
+  },
+  {
+   "w": "raccoon",
+   "start": 1.02,
+   "end": 2.0,
+   "p": 0.989
+  },
+  {
+   "w": "Like",
+   "start": 3.82,
+   "end": 5.22,
+   "p": 0.467
+  },
+  {
+   "w": "a",
+   "start": 5.22,
+   "end": 5.46,
+   "p": 0.995
+  },
+  {
+   "w": "raccoon",
+   "start": 5.46,
+   "end": 6.46,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Like a raccoon",
+   "avg_logprob": -0.23
+  },
+  {
+   "start": 3.82,
+   "end": 6.46,
+   "text": "Like a raccoon",
+   "avg_logprob": -0.23
+  }
+ ]
+}

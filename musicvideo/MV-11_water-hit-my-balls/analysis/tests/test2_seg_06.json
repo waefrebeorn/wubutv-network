@@ -1,0 +1,74 @@
+{
+ "segment": 6,
+ "start": 69.27,
+ "end": 82.12,
+ "mix": {
+  "words": [
+   {
+    "word": "Why",
+    "start": 69.27,
+    "end": 71.79,
+    "prob": 0.129
+   },
+   {
+    "word": "don't",
+    "start": 71.79,
+    "end": 77.19,
+    "prob": 0.512
+   },
+   {
+    "word": "you",
+    "start": 77.19,
+    "end": 77.19,
+    "prob": 0.818
+   },
+   {
+    "word": "fall?",
+    "start": 77.19,
+    "end": 77.21,
+    "prob": 0.752
+   }
+  ],
+  "text": " Why don't you fall?",
+  "wall_s": 33.0,
+  "score": {
+   "expected": 8,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 4,
+   "n_words": 4
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Why",
+    "start": 69.27,
+    "end": 71.75,
+    "prob": 0.142
+   },
+   {
+    "word": "For",
+    "start": 71.75,
+    "end": 72.69,
+    "prob": 0.01
+   },
+   {
+    "word": "Splash",
+    "start": 77.03,
+    "end": 78.43,
+    "prob": 0.491
+   }
+  ],
+  "text": " Why  For  Splash",
+  "wall_s": 42.8,
+  "score": {
+   "expected": 8,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 2,
+   "n_words": 3
+  }
+ },
+ "winner": "vocals"
+}

@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv19_s05_t1.mp4",
+ "words": [
+  {
+   "w": "Now",
+   "start": 0.0,
+   "end": 0.88,
+   "p": 0.796
+  },
+  {
+   "w": "I'm",
+   "start": 0.88,
+   "end": 1.24,
+   "p": 0.954
+  },
+  {
+   "w": "just",
+   "start": 1.24,
+   "end": 1.46,
+   "p": 0.996
+  },
+  {
+   "w": "standing",
+   "start": 1.46,
+   "end": 2.0,
+   "p": 0.999
+  },
+  {
+   "w": "in",
+   "start": 2.0,
+   "end": 2.34,
+   "p": 0.991
+  },
+  {
+   "w": "the",
+   "start": 2.34,
+   "end": 2.48,
+   "p": 0.998
+  },
+  {
+   "w": "middle",
+   "start": 2.48,
+   "end": 2.84,
+   "p": 0.999
+  },
+  {
+   "w": "of",
+   "start": 2.84,
+   "end": 3.24,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 3.24,
+   "end": 3.4,
+   "p": 0.997
+  },
+  {
+   "w": "room",
+   "start": 3.4,
+   "end": 3.8,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.8,
+   "text": "Now I'm just standing in the middle of the room",
+   "avg_logprob": -0.285
+  }
+ ]
+}

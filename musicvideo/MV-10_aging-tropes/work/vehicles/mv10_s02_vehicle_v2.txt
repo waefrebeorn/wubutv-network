@@ -1,0 +1,17 @@
+MV-10 S02 — "Gotta Pee Again" (verse 1, sit-up singing) — REROLL v2
+Song window: 16.68–29.82 (line 16.68–27.12, held pose to 29.82). Scene: V1-A. Tag: SINGING.
+Vehicle v2. Fired in volley 2, first.
+REROLL AXIS: facing/staging (v1 REJECT: G4 — head turned to profile + camera drifted during the vocal window; "Prostate" 6.50 / "check." 7.12–7.54 sung while turning away). ONE variable changed: the head stays locked facing camera and the camera stays locked-off for the entire clip. Everything else identical to v1.
+Image-conditioned on work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A dark bedroom at night, the old man from the reference image sitting upright in bed, facing camera in medium close-up, mouth clearly visible and unobstructed — lean, sharp nose, dark messy hair grey at the temples, deeper lines, grey stubble, navy cardigan, reading glasses on a chain around his neck, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand, water glass glowing on the nightstand.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[3] TEXT:
+From 0.0 to 10.0 seconds he sings clearly and articulately, mouth opening and closing on the words "Gotta pee again, nighttime every hour, prostate check", sitting upright in bed facing camera, hushed close-mic energy. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. His head stays facing camera for the entire clip — he never turns to profile, never looks away, his face stays front-on through the final words "prostate check" at the end of the line, mouth open on those words. The camera is locked-off for the entire clip — steady, no drift, no pan, no push-in, no movement at all during the singing. His mouth remains closed and still before the first word. After the final word the mouth closes and stays closed for the remainder of the clip, a clean held pose, his eyes toward the bathroom door. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: line verified against analysis/SONG_WORDS.json: "Gotta pee again" 16.68–18.80, "nighttime" 18.82–22.00, "every hour" 22.00–23.18, "prostate check" 23.88–27.42 (ASR hears "price state didn't check" — sheet is "prostate check"). V1 take sang the full line once 0–7.54s (ratio 1.38, grey zone — re-measure at QC with forced alignment + ear check on first/last words); the fail was G4 facing only, not ratio. Performance window is static MCU during the line per Slopcannon staging; the shuffle to the bathroom is assembly/held-pose territory, not stacked on the vocal window.

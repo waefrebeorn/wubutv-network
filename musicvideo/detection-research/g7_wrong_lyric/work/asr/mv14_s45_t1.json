@@ -1,0 +1,44 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s45-t1-0-1aaf7264-5f51-44ef-b102-5c2b071e93c4.mp4",
+ "segments": [
+  {
+   "start": 2.04,
+   "end": 3.9,
+   "text": "Tired of spelling it out.",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Tired",
+     "start": 2.04,
+     "end": 2.68,
+     "probability": 0.685
+    },
+    {
+     "word": " of",
+     "start": 2.68,
+     "end": 2.86,
+     "probability": 0.997
+    },
+    {
+     "word": " spelling",
+     "start": 2.86,
+     "end": 3.26,
+     "probability": 0.994
+    },
+    {
+     "word": " it",
+     "start": 3.26,
+     "end": 3.5,
+     "probability": 0.997
+    },
+    {
+     "word": " out.",
+     "start": 3.5,
+     "end": 3.9,
+     "probability": 0.998
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv19_s18_t1.mp4",
+ "words": [
+  {
+   "w": "Then",
+   "start": 0.0,
+   "end": 0.94,
+   "p": 0.667
+  },
+  {
+   "w": "checked",
+   "start": 0.94,
+   "end": 1.52,
+   "p": 0.929
+  },
+  {
+   "w": "the",
+   "start": 1.52,
+   "end": 1.9,
+   "p": 0.997
+  },
+  {
+   "w": "door...",
+   "start": 1.9,
+   "end": 3.06,
+   "p": 0.643
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.06,
+   "text": "Then checked the door...",
+   "avg_logprob": -0.382
+  }
+ ]
+}

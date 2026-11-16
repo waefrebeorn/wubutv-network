@@ -1,0 +1,400 @@
+{
+ "U1": {
+  "expected": "The mouth moved, UNC. Nothing came out.",
+  "asr": "The mouth moved UNC. Nothing came out.",
+  "segments": [
+   {
+    "start": 5.12,
+    "end": 8.8,
+    "text": "The mouth moved UNC. Nothing came out.",
+    "avg_logprob": -0.473,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " The",
+      "start": 5.12,
+      "end": 5.96,
+      "probability": 0.782
+     },
+     {
+      "word": " mouth",
+      "start": 5.96,
+      "end": 6.26,
+      "probability": 0.983
+     },
+     {
+      "word": " moved",
+      "start": 6.26,
+      "end": 6.72,
+      "probability": 0.998
+     },
+     {
+      "word": " UNC.",
+      "start": 6.72,
+      "end": 7.22,
+      "probability": 0.513
+     },
+     {
+      "word": " Nothing",
+      "start": 7.64,
+      "end": 8.2,
+      "probability": 0.996
+     },
+     {
+      "word": " came",
+      "start": 8.2,
+      "end": 8.46,
+      "probability": 1.0
+     },
+     {
+      "word": " out.",
+      "start": 8.46,
+      "end": 8.8,
+      "probability": 1.0
+     }
+    ]
+   }
+  ]
+ },
+ "U2": {
+  "expected": "Cut to the mouth, Laura. Mouth is the record.",
+  "asr": "Cut to the mouth, Laura. Mouth is the record.",
+  "segments": [
+   {
+    "start": 5.16,
+    "end": 6.48,
+    "text": "Cut to the mouth, Laura.",
+    "avg_logprob": -0.239,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " Cut",
+      "start": 5.16,
+      "end": 5.62,
+      "probability": 0.805
+     },
+     {
+      "word": " to",
+      "start": 5.62,
+      "end": 5.8,
+      "probability": 0.998
+     },
+     {
+      "word": " the",
+      "start": 5.8,
+      "end": 5.9,
+      "probability": 0.997
+     },
+     {
+      "word": " mouth,",
+      "start": 5.9,
+      "end": 6.14,
+      "probability": 0.978
+     },
+     {
+      "word": " Laura.",
+      "start": 6.26,
+      "end": 6.48,
+      "probability": 0.982
+     }
+    ]
+   },
+   {
+    "start": 7.58,
+    "end": 8.92,
+    "text": "Mouth is the record.",
+    "avg_logprob": -0.239,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " Mouth",
+      "start": 7.58,
+      "end": 8.04,
+      "probability": 0.989
+     },
+     {
+      "word": " is",
+      "start": 8.04,
+      "end": 8.36,
+      "probability": 0.996
+     },
+     {
+      "word": " the",
+      "start": 8.36,
+      "end": 8.52,
+      "probability": 0.999
+     },
+     {
+      "word": " record.",
+      "start": 8.52,
+      "end": 8.92,
+      "probability": 0.998
+     }
+    ]
+   }
+  ],
+  "note": "Re-transcribed after finisher assembly correction (black tail 235-239f trimmed, 235f stretched to 240f); line intact."
+ },
+ "U3": {
+  "expected": "It sang a word that isn't written, UNC.",
+  "asr": "It sang a word that isn't written UNC.",
+  "segments": [
+   {
+    "start": 4.28,
+    "end": 6.42,
+    "text": "It sang a word that isn't written UNC.",
+    "avg_logprob": -0.407,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " It",
+      "start": 4.28,
+      "end": 4.76,
+      "probability": 0.871
+     },
+     {
+      "word": " sang",
+      "start": 4.76,
+      "end": 5.0,
+      "probability": 0.735
+     },
+     {
+      "word": " a",
+      "start": 5.0,
+      "end": 5.18,
+      "probability": 0.99
+     },
+     {
+      "word": " word",
+      "start": 5.18,
+      "end": 5.38,
+      "probability": 0.995
+     },
+     {
+      "word": " that",
+      "start": 5.38,
+      "end": 5.52,
+      "probability": 0.993
+     },
+     {
+      "word": " isn't",
+      "start": 5.52,
+      "end": 5.74,
+      "probability": 0.994
+     },
+     {
+      "word": " written",
+      "start": 5.74,
+      "end": 5.98,
+      "probability": 0.999
+     },
+     {
+      "word": " UNC.",
+      "start": 5.98,
+      "end": 6.42,
+      "probability": 0.346
+     }
+    ]
+   }
+  ]
+ },
+ "U4": {
+  "expected": "File it under the singer. Singer's the record.",
+  "asr": "File it under the singer. Singer's the record.",
+  "segments": [
+   {
+    "start": 5.24,
+    "end": 6.52,
+    "text": "File it under the singer.",
+    "avg_logprob": -0.506,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " File",
+      "start": 5.24,
+      "end": 5.74,
+      "probability": 0.901
+     },
+     {
+      "word": " it",
+      "start": 5.74,
+      "end": 5.9,
+      "probability": 0.986
+     },
+     {
+      "word": " under",
+      "start": 5.9,
+      "end": 6.1,
+      "probability": 0.997
+     },
+     {
+      "word": " the",
+      "start": 6.1,
+      "end": 6.22,
+      "probability": 0.592
+     },
+     {
+      "word": " singer.",
+      "start": 6.22,
+      "end": 6.52,
+      "probability": 0.804
+     }
+    ]
+   },
+   {
+    "start": 7.72,
+    "end": 8.66,
+    "text": "Singer's the record.",
+    "avg_logprob": -0.506,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " Singer's",
+      "start": 7.72,
+      "end": 8.22,
+      "probability": 0.802
+     },
+     {
+      "word": " the",
+      "start": 8.22,
+      "end": 8.32,
+      "probability": 0.983
+     },
+     {
+      "word": " record.",
+      "start": 8.32,
+      "end": 8.66,
+      "probability": 0.995
+     }
+    ]
+   }
+  ]
+ },
+ "U5": {
+  "expected": "It fixed a take we haven't broken yet.",
+  "asr": "It fixed a take we haven't broken yet.",
+  "segments": [
+   {
+    "start": 4.96,
+    "end": 7.22,
+    "text": "It fixed a take we haven't broken yet.",
+    "avg_logprob": -0.332,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " It",
+      "start": 4.96,
+      "end": 5.48,
+      "probability": 0.832
+     },
+     {
+      "word": " fixed",
+      "start": 5.48,
+      "end": 5.76,
+      "probability": 0.99
+     },
+     {
+      "word": " a",
+      "start": 5.76,
+      "end": 5.94,
+      "probability": 0.926
+     },
+     {
+      "word": " take",
+      "start": 5.94,
+      "end": 6.14,
+      "probability": 0.993
+     },
+     {
+      "word": " we",
+      "start": 6.14,
+      "end": 6.3,
+      "probability": 0.979
+     },
+     {
+      "word": " haven't",
+      "start": 6.3,
+      "end": 6.58,
+      "probability": 0.995
+     },
+     {
+      "word": " broken",
+      "start": 6.58,
+      "end": 6.84,
+      "probability": 0.998
+     },
+     {
+      "word": " yet.",
+      "start": 6.84,
+      "end": 7.22,
+      "probability": 0.996
+     }
+    ]
+   }
+  ]
+ },
+ "U6": {
+  "expected": "It knows our names now. Cut it anyway.",
+  "asr": "It knows our names now. Cut it anyway.",
+  "segments": [
+   {
+    "start": 6.42,
+    "end": 9.8,
+    "text": "It knows our names now. Cut it anyway.",
+    "avg_logprob": -0.31,
+    "no_speech_prob": 0.0,
+    "words": [
+     {
+      "word": " It",
+      "start": 6.42,
+      "end": 7.0,
+      "probability": 0.852
+     },
+     {
+      "word": " knows",
+      "start": 7.0,
+      "end": 7.22,
+      "probability": 0.997
+     },
+     {
+      "word": " our",
+      "start": 7.22,
+      "end": 7.44,
+      "probability": 0.998
+     },
+     {
+      "word": " names",
+      "start": 7.44,
+      "end": 7.86,
+      "probability": 0.997
+     },
+     {
+      "word": " now.",
+      "start": 7.86,
+      "end": 8.2,
+      "probability": 0.949
+     },
+     {
+      "word": " Cut",
+      "start": 8.82,
+      "end": 9.4,
+      "probability": 0.994
+     },
+     {
+      "word": " it",
+      "start": 9.4,
+      "end": 9.56,
+      "probability": 0.999
+     },
+     {
+      "word": " anyway.",
+      "start": 9.56,
+      "end": 9.8,
+      "probability": 0.957
+     }
+    ]
+   }
+  ],
+  "note": "Re-transcribed after finisher assembly correction (window widened 210f->216f); full line lands, anyway complete p=0.957."
+ }
+}

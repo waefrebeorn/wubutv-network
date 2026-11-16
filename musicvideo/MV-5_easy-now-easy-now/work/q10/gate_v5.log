@@ -1,0 +1,75 @@
+master: /home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5.mp4
+size: 115936038
+md5: 395c314080d7bfc33ff6f0808b7463cd
+[PASS] video codec h264 h264
+[PASS] resolution 1280x720 1280x720
+[PASS] fps 24 24/1
+[PASS] frames exactly 4954 4954
+[PASS] duration 206.417s 206.416667
+[PASS] audio AAC aac
+[PASS] audio 48k stereo 48000 2ch
+[PASS] x264 SEI crf=18.0 x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option
+[PASS] faststart moov before mdat moov@36 mdat@144036
+audio agreement (master vs track.mp3, 16k mono, 7 windows):
+  lengths: master 206.40s track 206.40s
+  @5s corr=0.9992
+  @30s corr=0.9992
+  @60s corr=0.9982
+  @90s corr=0.9989
+  @120s corr=0.9984
+  @150s corr=0.9992
+  @180s corr=0.9988
+[PASS] audio agreement corr > 0.99 all windows min=0.9982
+motion 160x90: 4954 frames, overall mean 5.411, longest near-dup run 18f
+  S01 phrase-I01a            mv5_s01_t1          1.42-   2.54 longest-neardup 7f
+  S01 phrase-I01b            mv5_s01_t1          2.79-   3.83 longest-neardup 4f
+  S01 phrase-I02a            mv5_s01_t1          3.83-   4.54 longest-neardup 4f
+  S01 phrase-I02b            mv5_s01_t1          4.54-   5.67 longest-neardup 9f
+  S01 phrase-I03             mv5_s01_t1          6.29-   8.00 longest-neardup 4f
+  S01 phrase-I04a            mv5_s01_t1          8.00-   8.29 longest-neardup 3f
+  S01 phrase-I04b            mv5_s01_t1          8.29-  10.04 longest-neardup 6f
+  S04 phrase-L01             mv5_q10_s04        22.00-  22.96 longest-neardup 0f
+  S04 phrase-L02a            mv5_q10_s04        22.96-  24.08 longest-neardup 0f
+  S04 phrase-L02b            mv5_q10_s04        24.08-  25.50 longest-neardup 1f
+  S04 phrase-L03a            mv5_q10_s04        25.50-  26.46 longest-neardup 0f
+  S04 phrase-L04a            mv5_q10_s04        27.58-  29.00 longest-neardup 0f
+  S04 phrase-L04b            mv5_q10_s04        29.00-  29.29 longest-neardup 1f
+  S04 phrase-L05             mv5_s04_t1         30.08-  31.50 longest-neardup 0f
+  S05 phrase-L06-L09         mv5_s05_t1         31.50-  40.46 longest-neardup 6f
+  S06 phrase-L10             mv5_s06_t1         40.46-  43.29 longest-neardup 2f
+  S06 phrase-L12a            mv5_s06_t2         44.54-  45.12 longest-neardup 1f
+  S06 phrase-L12b            mv5_s06_t2         45.12-  45.75 longest-neardup 0f
+  S06 phrase-L12c            mv5_s06_t2         45.75-  46.83 longest-neardup 3f
+  S07 phrase-L13             mv5_s07_t1         47.62-  49.54 longest-neardup 2f
+  S07 phrase-L14             mv5_s07_t1         49.54-  51.25 longest-neardup 3f
+  S07 phrase-L15             mv5_q10_s07_l15    51.25-  52.79 longest-neardup 1f
+  S08 phrase-L17-L20         mv5_s08_t2         57.50-  62.88 longest-neardup 1f
+  S08 phrase-L21-L23         mv5_s08_t2         62.88-  66.04 longest-neardup 2f
+  S09 phrase-chorus1b        mv5_s09_t1         67.04-  76.79 longest-neardup 4f
+  S11 phrase-L38             mv5_s11_t4         86.50-  87.58 longest-neardup 0f
+  S11 phrase-L39             mv5_s11_t4         87.58-  89.08 longest-neardup 2f
+  S11 phrase-L40d            mv5_s11_t4         91.17-  92.92 longest-neardup 3f
+  S12 phrase-L41             mv5_s12_t1         93.79-  95.42 longest-neardup 0f
+  S12 phrase-L43a            mv5_q10_s12_l43    96.75-  97.62 longest-neardup 1f
+  S12 phrase-L43b            mv5_q10_s12_l43    97.62-  98.46 longest-neardup 0f
+  S15 phrase-L56             mv5_s15_t1        116.00- 121.29 longest-neardup 4f
+  S17 phrase-L65-L68         mv5_s17_t1        130.79- 135.42 longest-neardup 1f
+  S17 phrase-L70             mv5_s28_t1        136.38- 137.75 longest-neardup 15f
+  S17 phrase-L71-L72         mv5_s17_t1        137.75- 140.50 longest-neardup 1f
+  S19b phrase-L77-L79         mv5_s19b_t1       152.38- 155.71 longest-neardup 6f
+  S20 phrase-L80             mv5_s20_t1        155.71- 158.04 longest-neardup 1f
+  S22 phrase-L90             mv5_s21_t3        167.50- 169.17 longest-neardup 16f
+  S23 phrase-L91-L95         mv5_s23_t1        169.17- 174.46 longest-neardup 3f
+  S23 phrase-L96             mv5_s23_t1        174.46- 176.04 longest-neardup 2f
+  S24 phrase-L97             mv5_s24_t1        176.04- 176.92 longest-neardup 1f
+  S24 phrase-L99             mv5_s24_t1        178.25- 179.12 longest-neardup 1f
+  S24 phrase-L101-L102       mv5_s24_t3        180.29- 182.79 longest-neardup 1f
+  S25 phrase-L103-L105       mv5_s25_t1        182.79- 186.46 longest-neardup 3f
+  S25 phrase-L106            mv5_s28_t3        186.46- 190.42 longest-neardup 5f
+  S27 phrase-L108            mv5_s27_t1        193.00- 197.92 longest-neardup 1f
+  S28 phrase-L110            mv5_s28_t1        203.83- 205.38 longest-neardup 5f
+[PASS] motion: no frozen run >=24f in any sung piece 0 failing pieces
+motion 320x180: 4954 frames, overall mean 6.322, longest near-dup run 18f
+
+wrote /home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/work/q10/gate_v5.json
+ALL GATES PASS

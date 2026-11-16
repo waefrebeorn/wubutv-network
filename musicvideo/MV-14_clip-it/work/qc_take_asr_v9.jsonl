@@ -1,0 +1,170 @@
+{
+ "file": "work/qc_S38t2_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.46,
+   "text": "Help me stay online.",
+   "avg_logprob": -0.569,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Help",
+     "start": 0.0,
+     "end": 1.34,
+     "prob": 0.757
+    },
+    {
+     "word": " me",
+     "start": 1.34,
+     "end": 1.56,
+     "prob": 0.981
+    },
+    {
+     "word": " stay",
+     "start": 1.56,
+     "end": 1.94,
+     "prob": 0.982
+    },
+    {
+     "word": " online.",
+     "start": 1.94,
+     "end": 2.46,
+     "prob": 0.958
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S44t1_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.86,
+   "text": "I'm tired of explaining it",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " I'm",
+     "start": 0.0,
+     "end": 1.36,
+     "prob": 0.899
+    },
+    {
+     "word": " tired",
+     "start": 1.36,
+     "end": 1.7,
+     "prob": 0.998
+    },
+    {
+     "word": " of",
+     "start": 1.7,
+     "end": 1.88,
+     "prob": 0.998
+    },
+    {
+     "word": " explaining",
+     "start": 1.88,
+     "end": 2.48,
+     "prob": 0.998
+    },
+    {
+     "word": " it",
+     "start": 2.48,
+     "end": 2.86,
+     "prob": 0.997
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S45t1_t1/audio.wav",
+ "segments": [
+  {
+   "start": 2.04,
+   "end": 3.9,
+   "text": "Tired of spelling it out.",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Tired",
+     "start": 2.04,
+     "end": 2.68,
+     "prob": 0.667
+    },
+    {
+     "word": " of",
+     "start": 2.68,
+     "end": 2.86,
+     "prob": 0.997
+    },
+    {
+     "word": " spelling",
+     "start": 2.86,
+     "end": 3.26,
+     "prob": 0.994
+    },
+    {
+     "word": " it",
+     "start": 3.26,
+     "end": 3.5,
+     "prob": 0.997
+    },
+    {
+     "word": " out.",
+     "start": 3.5,
+     "end": 3.9,
+     "prob": 0.998
+    }
+   ]
+  }
+ ]
+}
+{
+ "file": "work/qc_S46t1_t1/audio.wav",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.18,
+   "text": "if you wanna help me.",
+   "avg_logprob": -0.49,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " if",
+     "start": 0.0,
+     "end": 0.94,
+     "prob": 0.416
+    },
+    {
+     "word": " you",
+     "start": 0.94,
+     "end": 1.12,
+     "prob": 0.999
+    },
+    {
+     "word": " wanna",
+     "start": 1.12,
+     "end": 1.38,
+     "prob": 0.598
+    },
+    {
+     "word": " help",
+     "start": 1.38,
+     "end": 1.78,
+     "prob": 0.997
+    },
+    {
+     "word": " me.",
+     "start": 1.78,
+     "end": 2.18,
+     "prob": 0.999
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+MV-12 v3 DELIVERED (Q2 bridge-density re-cut) — 2026-11-12 ~05:55 EST, parent-verified in full.
+House master: masters/mv12_micro_soft_lost_the_bet_v3_16x9.mp4
+  md5 87cad49658d1cb41a110a69e3e9f85f3, 94,007,898 B, 2741f / 114.208s, 1280x720 24fps h264, AAC 48k stereo, SEI crf=18.0, faststart moov@36
+Chat copy: masters/mv12_micro_soft_lost_the_bet_v3_16x9_50mb.mp4
+  md5 847bdaaa9f08e4bc60718ca4a74cf252, 38,182,616 B (36.4 MB)
+Gates ALL PASS (parent re-ran gate_master_mv12.py independently, identical numbers): audio agreement min corr 0.9986 (windows @5s 0.9997 / @30s 0.9987 / @60s 0.9986 / @90s 0.9994 / @110s 0.9986)
+Density audit v3 PASS (parent re-ran density_audit_v3.py independently, identical numbers): bridge 63.42-76.74 = 16 shots -> 72.1 cuts/min vs 66 target (v2: 9 shots -> 40.5/min). All 7 sub-shot cuts verified REAL on-master. S33-S42 span 17 shots -> 59.5/min (S42 sanctioned gap).
+Parent full-res frame reads: 70.00s (S37 cut) "Microsoft, he had to name it" clean, "he" highlighted; 64.00s (S33 cut) "lost a" clean. Kinetic layer holds after the re-cut.
+Disclosed carry-overs: 13f near-still @38.58s (S20 settle, same as v1/v2); S33 flash peak re-times 64.69->63.96s (re-cut consequence); first word of each line mid-fade faint at exact line-start frames against bright backgrounds (Q1 carry-over, same as v1/v2).
+V1 master untouched (md5 a074f68bbfdc6be7bca0b6afc1adf370). V2 master untouched (md5 361396c2d80e273f3be1ab1b97beaf13).
+Q2 coordinator: original 84137522 died 05:10:02 EST (sqlx pool-timeout); MV revive detector revived as 831bd358 ~05:13 EST; completed 05:50:07 EST.

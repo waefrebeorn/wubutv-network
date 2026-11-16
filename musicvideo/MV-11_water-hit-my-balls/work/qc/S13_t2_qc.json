@@ -1,0 +1,63 @@
+{
+ "take": "media-generation-mv11-r2-s13-t2-0-856286a3-a17a-4a58-9ee9-322c72712640.mp4",
+ "scene": "S13",
+ "take_no": "2",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Thank",
+   "start": 6.82,
+   "end": 8.22,
+   "prob": 0.001
+  },
+  {
+   "word": "you",
+   "start": 8.22,
+   "end": 9.62,
+   "prob": 0.897
+  },
+  {
+   "word": "for",
+   "start": 9.62,
+   "end": 10.0,
+   "prob": 0.526
+  },
+  {
+   "word": "watching!",
+   "start": 10.0,
+   "end": 10.0,
+   "prob": 0.854
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "39d17cb13eaf",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 2.5,
+   "md5": "6c49dc447392",
+   "mean_abs_diff_from_prev": 31.46
+  },
+  {
+   "t": 5.0,
+   "md5": "5f28c202f44b",
+   "mean_abs_diff_from_prev": 51.66
+  },
+  {
+   "t": 7.5,
+   "md5": "b7a25a73ce0b",
+   "mean_abs_diff_from_prev": 48.32
+  },
+  {
+   "t": 9.5,
+   "md5": "c34d67d26f77",
+   "mean_abs_diff_from_prev": 25.12
+  }
+ ],
+ "frames_distinct": true
+}

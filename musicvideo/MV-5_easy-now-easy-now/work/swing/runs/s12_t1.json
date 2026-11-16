@@ -1,0 +1,687 @@
+{
+ "take": "mv5_s12_t1.mp4",
+ "take_duration_s": 9.003,
+ "prompted_line": "Your laugh hit the air, like a hand drum roll, I forgot the list forgot the bills, forgot what I was told",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 93.8-102.4",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Your",
+    0.0,
+    0.22
+   ],
+   [
+    "laugh",
+    0.22,
+    0.58
+   ],
+   [
+    "hit",
+    0.58,
+    1.0
+   ],
+   [
+    "the",
+    1.0,
+    1.36
+   ],
+   [
+    "air",
+    1.36,
+    2.06
+   ],
+   [
+    "I",
+    3.56,
+    4.32
+   ],
+   [
+    "forgot",
+    4.32,
+    4.78
+   ],
+   [
+    "the",
+    4.78,
+    5.16
+   ],
+   [
+    "list,",
+    5.16,
+    5.68
+   ],
+   [
+    "forgot",
+    5.88,
+    6.26
+   ],
+   [
+    "the",
+    6.26,
+    6.62
+   ],
+   [
+    "bills",
+    6.62,
+    7.28
+   ]
+  ],
+  "prompted": [
+   [
+    "Your",
+    0.0,
+    0.22
+   ],
+   [
+    "laugh",
+    0.22,
+    0.58
+   ],
+   [
+    "hit",
+    0.58,
+    1.0
+   ],
+   [
+    "the",
+    1.0,
+    1.38
+   ],
+   [
+    "air,",
+    1.38,
+    2.08
+   ],
+   [
+    "I",
+    2.64,
+    4.32
+   ],
+   [
+    "forgot",
+    4.32,
+    4.56
+   ],
+   [
+    "the",
+    4.56,
+    5.18
+   ],
+   [
+    "list",
+    5.18,
+    5.64
+   ],
+   [
+    "forgot",
+    5.64,
+    6.22
+   ],
+   [
+    "the",
+    6.22,
+    6.62
+   ],
+   [
+    "bills",
+    6.62,
+    7.28
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.258,
+ "words": [
+  {
+   "song_word": "Your",
+   "song_start": 93.8,
+   "song_end": 94.28,
+   "take_word": "Your",
+   "take_start": 0.0,
+   "take_end": 0.22,
+   "source": "unprompted",
+   "raw_offset": -93.8,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.22,
+    "song_interval_s": 0.48,
+    "playback_speed": 0.458,
+    "setpts_factor": 2.1818,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-out-of-caps",
+   "notes": [
+    "interval needs playback 0.46x \u2014 past the 2x-slow cap; montage, never stretch"
+   ]
+  },
+  {
+   "song_word": "laugh",
+   "song_start": 94.28,
+   "song_end": 94.46,
+   "take_word": "laugh",
+   "take_start": 0.22,
+   "take_end": 0.58,
+   "source": "unprompted",
+   "raw_offset": -94.06,
+   "swing_offset": -0.26,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.18,
+    "playback_speed": 2.0,
+    "setpts_factor": 0.5,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "hit",
+   "song_start": 94.46,
+   "song_end": 94.66,
+   "take_word": "hit",
+   "take_start": 0.58,
+   "take_end": 1.0,
+   "source": "unprompted",
+   "raw_offset": -93.88,
+   "swing_offset": -0.08,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.42,
+    "song_interval_s": 0.2,
+    "playback_speed": 2.1,
+    "setpts_factor": 0.4762,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 94.66,
+   "song_end": 94.84,
+   "take_word": "the",
+   "take_start": 1.0,
+   "take_end": 1.36,
+   "source": "unprompted",
+   "raw_offset": -93.66,
+   "swing_offset": 0.14,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.18,
+    "playback_speed": 2.0,
+    "setpts_factor": 0.5,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "air",
+   "song_start": 94.84,
+   "song_end": 95.12,
+   "take_word": "air",
+   "take_start": 1.36,
+   "take_end": 2.06,
+   "source": "unprompted",
+   "raw_offset": -93.48,
+   "swing_offset": 0.32,
+   "interval_to_next_anchor": {
+    "take_interval_s": 2.2,
+    "song_interval_s": 2.02,
+    "playback_speed": 1.089,
+    "setpts_factor": 0.9182,
+    "spans_song_words": 6
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Like",
+   "song_start": 95.82,
+   "song_end": 95.96,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "a",
+   "song_start": 95.96,
+   "song_end": 96.2,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "hand",
+   "song_start": 96.2,
+   "song_end": 96.4,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "drum",
+   "song_start": 96.4,
+   "song_end": 96.86,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "roll",
+   "song_start": 96.86,
+   "song_end": 97.16,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "I",
+   "song_start": 96.86,
+   "song_end": 97.16,
+   "take_word": "I",
+   "take_start": 3.56,
+   "take_end": 4.32,
+   "source": "unprompted",
+   "raw_offset": -93.3,
+   "swing_offset": 0.5,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.76,
+    "song_interval_s": 0.3,
+    "playback_speed": 2.533,
+    "setpts_factor": 0.3947,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "forgot",
+   "song_start": 97.16,
+   "song_end": 97.44,
+   "take_word": "forgot",
+   "take_start": 4.32,
+   "take_end": 4.78,
+   "source": "unprompted",
+   "raw_offset": -92.84,
+   "swing_offset": 0.96,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.28,
+    "playback_speed": 1.643,
+    "setpts_factor": 0.6087,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 97.44,
+   "song_end": 97.64,
+   "take_word": "the",
+   "take_start": 4.78,
+   "take_end": 5.16,
+   "source": "unprompted",
+   "raw_offset": -92.66,
+   "swing_offset": 1.14,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.38,
+    "song_interval_s": 0.2,
+    "playback_speed": 1.9,
+    "setpts_factor": 0.5263,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "list",
+   "song_start": 97.64,
+   "song_end": 97.8,
+   "take_word": "list,",
+   "take_start": 5.16,
+   "take_end": 5.68,
+   "source": "unprompted",
+   "raw_offset": -92.48,
+   "swing_offset": 1.32,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.72,
+    "song_interval_s": 0.18,
+    "playback_speed": 4.0,
+    "setpts_factor": 0.25,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 4.00x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "forgot",
+   "song_start": 97.82,
+   "song_end": 97.94,
+   "take_word": "forgot",
+   "take_start": 5.88,
+   "take_end": 6.26,
+   "source": "unprompted",
+   "raw_offset": -91.94,
+   "swing_offset": 1.86,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.38,
+    "song_interval_s": 0.12,
+    "playback_speed": 3.167,
+    "setpts_factor": 0.3158,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.17x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "the",
+   "song_start": 97.94,
+   "song_end": 98.08,
+   "take_word": "the",
+   "take_start": 6.26,
+   "take_end": 6.62,
+   "source": "unprompted",
+   "raw_offset": -91.68,
+   "swing_offset": 2.12,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.14,
+    "playback_speed": 2.571,
+    "setpts_factor": 0.3889,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "bills",
+   "song_start": 98.08,
+   "song_end": 98.2,
+   "take_word": "bills",
+   "take_start": 6.62,
+   "take_end": 7.28,
+   "source": "unprompted",
+   "raw_offset": -91.46,
+   "swing_offset": 2.34,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.66,
+    "song_interval_s": 0.12,
+    "playback_speed": 5.5,
+    "setpts_factor": 0.1818,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 5.50x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "Forgot",
+   "song_start": 98.2,
+   "song_end": 98.44,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "what",
+   "song_start": 98.44,
+   "song_end": 98.84,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "I",
+   "song_start": 98.84,
+   "song_end": 99.18,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "was",
+   "song_start": 99.18,
+   "song_end": 99.7,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "told",
+   "song_start": 99.7,
+   "song_end": 101.44,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "Ice",
+   "song_start": 102.38,
+   "song_end": 102.96,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  }
+ ],
+ "extras": [],
+ "keyframes": [
+  {
+   "word": "laugh",
+   "song_time": 94.28,
+   "take_time": 0.22
+  },
+  {
+   "word": "hit",
+   "song_time": 94.46,
+   "take_time": 0.58
+  },
+  {
+   "word": "the",
+   "song_time": 94.66,
+   "take_time": 1.0
+  },
+  {
+   "word": "air",
+   "song_time": 94.84,
+   "take_time": 1.36
+  },
+  {
+   "word": "I",
+   "song_time": 96.86,
+   "take_time": 3.56
+  },
+  {
+   "word": "forgot",
+   "song_time": 97.16,
+   "take_time": 4.32
+  },
+  {
+   "word": "the",
+   "song_time": 97.44,
+   "take_time": 4.78
+  },
+  {
+   "word": "list",
+   "song_time": 97.64,
+   "take_time": 5.16
+  },
+  {
+   "word": "forgot",
+   "song_time": 97.82,
+   "take_time": 5.88
+  },
+  {
+   "word": "the",
+   "song_time": 97.94,
+   "take_time": 6.26
+  },
+  {
+   "word": "bills",
+   "song_time": 98.08,
+   "take_time": 6.62
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "Your"
+   ],
+   "span_song": [
+    93.8,
+    94.28
+   ],
+   "cut_out_beat": 93.762,
+   "return_onset": 94.28,
+   "return_beat": 94.319,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "Like",
+    "a",
+    "hand",
+    "drum",
+    "roll"
+   ],
+   "span_song": [
+    95.82,
+    97.16
+   ],
+   "cut_out_beat": 95.457,
+   "return_onset": 96.86,
+   "return_beat": 97.176,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "Forgot",
+    "what",
+    "I",
+    "was",
+    "told",
+    "Ice"
+   ],
+   "span_song": [
+    98.2,
+    102.96
+   ],
+   "cut_out_beat": 97.733,
+   "return_onset": null,
+   "return_beat": 103.422,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "BAD-out-of-caps": 1,
+  "WARPABLE": 11,
+  "BAD-missing": 11
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

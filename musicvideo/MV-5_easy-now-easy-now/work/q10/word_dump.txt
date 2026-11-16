@@ -1,0 +1,390 @@
+== GRID WORDS (per line) ==
+I01 1.4-3.72 'Easy now, easy now' words=None
+I02 3.84-5.76 'We ride, we ride' words=None
+I03 6.34-8.04 'Easy now, easy now' words=None
+I04 8.04-10.04 'Till the morning comes' words=None
+I05 10.6-12.72 'Easy now, easy now' words=None
+I08 12.72-17.52 'Till the morning comes' words=None
+I09 18.7-21.4 'ta-da, ta-da, ta-da, ta-da, ta-da, ta-da' words=None
+L01 22.0-23.64 'Bare feet on the boardwalk' words=None
+L02 22.96-25.24 'Salt on my skin' words=None
+L03 25.5-26.76 'You came in laughing' words=None
+L04 27.6-29.74 "Said, come on, let's begin" words=None
+L05 30.1-31.48 'Blue shirt, red bicycle' words=None
+L10 40.82-42.84 'Keys in your hand' words=None
+L11 43.28-44.58 'You nodded at the waves like' words=None
+L12 44.58-46.86 'Yeah, they already understand' words=None
+L13 47.62-49.56 'Slow down, take your time' words=None
+L14 49.56-51.24 'Let the hard week fade' words=None
+L15 51.24-52.8 'One small look from you' words=None
+L16 52.8-57.74 'And my whole head replays' words=None
+L37 85.16-86.5 'Vendor at the corner' words=None
+L38 86.5-87.6 'Calling mango sweet' words=None
+L39 87.6-89.1 'Socks in the sand' words=None
+L40 89.1-92.92 'And the tide tapping time with our feet' words=None
+L41 93.7-95.28 'Your laugh hit the air' words=None
+L42 95.44-96.78 'Like a hand drum roll' words=None
+L43 96.78-98.46 'I forgot the list, forgot the bills' words=None
+L44 98.46-102.14 'Forgot what I was told' words=None
+L65 130.8-131.88 'Easy now, easy now' words=None
+L66 131.68-133.1 'Keep it loose, keep it low' words=None
+L67 133.1-134.06 'Easy now, easy now' words=None
+L68 134.08-135.4 'Let it drift, let it go' words=None
+L69 135.4-136.42 'Easy now, easy now' words=None
+L70 136.34-137.72 "We're good where we are" words=None
+L71 137.72-139.04 'Easy now, easy now' words=None
+L72 138.82-140.52 'Just two small sparks' words=None
+L80 155.68-156.84 'Heart in the breeze' words=None
+L81 157.02-157.94 'And the bass moves slow' words=None
+L91 168.72-170.16 'Easy now, easy now' words=None
+L92 169.58-171.52 'We ride, we ride' words=None
+L93 171.52-172.56 'Easy now, easy now' words=None
+L94 171.46-173.74 'With you by my side' words=None
+L95 173.74-174.78 'Easy now, easy now' words=None
+L96 174.44-175.98 'No need to run' words=None
+L97 176.04-176.9 'Easy now, easy now' words=None
+L98 176.04-178.24 'We hold the sun' words=None
+L99 178.24-179.12 'Easy now, easy now' words=None
+L100 178.3-180.5 'Keep it loose, keep it low' words=None
+L101 180.5-181.54 'Easy now, easy now' words=None
+L102 180.54-182.74 'Let it drift, let it go' words=None
+L103 182.78-183.74 'Easy now, easy now' words=None
+L104 182.7-185.06 "We're good where we are" words=None
+L105 185.02-186.64 'Easy now, easy now' words=None
+L106 186.46-188.04 'Just two small sparks' words=None
+L108 193.2-201.12 'Easy now, easy now, easy now, easy now, easy now, easy now, easy now, easy now, easy now' words=None
+L109 201.74-203.1 'Till the morning comes' words=None
+L110 203.84-205.62 'Till the morning comes' words=None
+
+== GRID WORDS structure sample ==
+[
+ {
+  "word": "Easy",
+  "start": 1.4,
+  "end": 2.16,
+  "src": "STEM"
+ },
+ {
+  "word": "now,",
+  "start": 2.16,
+  "end": 2.54,
+  "src": "STEM"
+ },
+ {
+  "word": "easy",
+  "start": 2.68,
+  "end": 3.04,
+  "src": "STEM"
+ }
+]
+
+== TAKE WORDS ==
+Q10_S04_prompted.json take=q10_s04 dur=10.0 n=18
+   Bare           0.00-  0.48
+   feet           0.48-  0.96
+   on             0.96-  1.32
+   the            1.32-  1.50
+   boardwalk      1.50-  1.90
+   salt           2.54-  3.68
+   on             3.68-  3.92
+   my             3.92-  4.14
+   skin           4.14-  4.44
+   You            4.44-  4.64
+   came           4.64-  4.88
+   in             4.88-  5.08
+   laughing       5.08-  5.54
+   said           5.54-  5.96
+   come           5.96-  6.26
+   on             6.26-  6.64
+   let's          6.64-  6.96
+   begin          6.96-  7.10
+Q10_S07_L15_prompted.json take=mv5_q10_s07_l15 dur=5.0 n=5
+   One            0.00-  0.50
+   small          0.50-  0.96
+   look           0.96-  1.46
+   from           1.46-  1.94
+   you            1.94-  2.46
+Q10_S12_L43_prompted.json take=q10_s12_l43 dur=5.0 n=7
+   I              0.00-  0.20
+   forgot         0.20-  0.56
+   the            0.56-  0.84
+   list           0.84-  1.44
+   forgot         1.44-  1.74
+   the            1.74-  2.04
+   bills          2.04-  2.40
+S01_prompted.json take=mv5_s01_t1 dur=10.027 n=16
+   Easy           0.00-  0.58
+   now,           0.58-  1.08
+   easy           1.64-  2.14
+   now.           2.14-  2.66
+   We             3.04-  3.10
+   ride,          3.10-  3.54
+   we             4.06-  4.26
+   ride.          4.26-  4.74
+   Easy           5.24-  5.52
+   now,           5.52-  5.98
+   easy           6.16-  6.20
+   now.           6.20-  6.62
+   Till           7.44-  7.96
+   the            7.96-  8.20
+   morning        8.20-  8.60
+   comes.         8.60-  9.28
+S03_prompted.json take=mv5_s03_t1 dur=5.035 n=10
+   Ta             0.00-  0.30
+   -da,           0.30-  0.58
+   ta             1.02-  1.18
+   -da,           1.18-  1.48
+   ta             1.66-  2.24
+   -da,           2.24-  2.24
+   ta             2.24-  2.86
+   -da,           2.86-  3.14
+   ta             3.28-  3.48
+   -da.           3.48-  3.78
+S04_prompted.json take=mv5_s04_t1 dur=10.027 n=22
+   Bare           0.00-  0.26
+   feet           0.26-  0.58
+   on             0.58-  0.88
+   the            0.88-  1.04
+   boardwalk.     1.04-  1.72
+   Salt           2.12-  2.30
+   on             2.30-  2.60
+   my             2.60-  2.82
+   skin.          2.82-  3.22
+   You            3.60-  3.68
+   came           3.68-  3.94
+   in             3.94-  4.22
+   laughing.      4.22-  4.60
+   Said,          4.88-  5.04
+   come           5.04-  5.34
+   on,            5.34-  5.60
+   let's          5.74-  5.96
+   begin.         5.96-  6.36
+   Blue           7.10-  7.28
+   shirt,         7.28-  7.64
+   red            7.82-  7.98
+   bicycle.       7.98-  8.52
+S05_prompted.json take=mv5_s05_t1 dur=9.003 n=17
+   Rolling        0.00-  0.54
+   past           0.54-  0.98
+   the            0.98-  1.32
+   pier.          1.32-  1.74
+   I              2.94-  3.08
+   was            3.08-  3.26
+   posted         3.26-  3.70
+   up             3.70-  3.98
+   right          3.98-  4.26
+   here.          4.26-  4.76
+   Now            5.20-  5.42
+   you're         5.42-  5.68
+   pulling        5.68-  6.02
+   near.          6.02-  6.48
+   Backpack       7.12-  7.70
+   half           7.70-  8.20
+   -zipped.       8.20-  8.70
+S06_T2_prompted.json take=s06_t2 dur=5.0 n=4
+   Yeah           0.00-  0.42
+   they           0.80-  0.98
+   already        0.98-  1.58
+   understand     1.58-  2.42
+S06_prompted.json take=mv5_s06_t1 dur=10.027 n=14
+   Keys           0.00-  0.42
+   in             0.42-  0.78
+   your           0.78-  1.10
+   hand.          1.10-  2.24
+   You            2.80-  3.58
+   nodded         3.58-  4.20
+   at             4.20-  4.42
+   the            4.42-  4.68
+   waves          4.68-  5.10
+   like.          5.10-  5.56
+   Yeah,          5.80-  6.00
+   they           6.14-  6.26
+   already        6.26-  6.90
+   understand.    6.90-  8.10
+S07_T2_prompted.json take=s07_t2 dur=5.0 n=5
+   One            0.00-  0.72
+   small          0.72-  1.24
+   look           1.24-  1.76
+   from           1.76-  2.16
+   you            2.16-  2.60
+S07_prompted.json take=mv5_s07_t1 dur=10.027 n=20
+   Slow           0.00-  0.40
+   down,          0.40-  0.86
+   take           0.86-  1.68
+   your           1.68-  1.96
+   time.          1.96-  2.68
+   Let            3.16-  3.30
+   the            3.30-  3.56
+   hard           3.56-  3.96
+   week           3.96-  4.28
+   fade.          4.28-  4.84
+   One            5.24-  5.38
+   small          5.38-  5.78
+   look           5.78-  6.12
+   from           6.12-  6.38
+   you.           6.38-  6.88
+   And            7.52-  7.64
+   my             7.64-  7.86
+   whole          7.86-  8.24
+   head           8.24-  8.76
+   replays.       8.76-  9.96
+S08_prompted.json take=mv5_s08_t2 dur=10.027 n=12
+   Easy           0.00-  0.74
+   now,           0.74-  1.32
+   easy           2.06-  2.48
+   now.           2.48-  3.22
+   Easy           4.32-  5.60
+   now,           5.60-  6.24
+   easy           6.52-  6.80
+   now.           6.80-  7.08
+   Easy           7.08-  7.08
+   now,           7.08-  7.08
+   easy           7.08-  7.08
+   now.           7.08-  7.38
+S09_prompted.json take=mv5_s09_t1 dur=10.027 n=10
+   Easy           0.00-  0.54
+   now,           0.54-  1.04
+   easy           1.58-  2.06
+   now,           2.06-  2.80
+   easy           3.30-  3.76
+   now.           3.76-  4.48
+   Easy           5.02-  5.32
+   now.           5.32-  5.64
+   Easy           5.64-  5.64
+   now.           5.64-  5.92
+S11_prompted.json take=mv5_s11_t4 dur=10.027 n=11
+   Calling        1.16-  2.18
+   mango          2.18-  2.72
+   sweet.         2.72-  3.80
+   Socks          5.20-  6.22
+   in             6.22-  6.44
+   the            6.44-  6.66
+   sand.          6.66-  7.14
+   Time           7.56-  7.86
+   with           7.86-  8.20
+   our            8.20-  8.56
+   feet.          8.56-  9.12
+S12_prompted.json take=mv5_s12_t1 dur=9.003 n=12
+   Your           0.00-  0.22
+   laugh          0.22-  0.60
+   hit            0.60-  1.00
+   the            1.00-  1.38
+   air.           1.38-  1.98
+   I              3.52-  4.32
+   forgot         4.32-  4.54
+   the            4.54-  5.16
+   list,          5.16-  5.66
+   forgot         5.94-  6.26
+   the            6.26-  6.64
+   bills.         6.64-  7.28
+S15_prompted.json take=mv5_s15_t1 dur=5.035 n=10
+   And            0.00-  0.56
+   my             0.56-  0.96
+   whole          0.96-  1.54
+   head           1.54-  2.42
+   replays.       2.42-  4.40
+   And            4.40-  5.00
+   my             5.00-  5.00
+   whole          5.00-  5.00
+   head           5.00-  5.00
+   replays.       5.00-  5.00
+S17_prompted.json take=mv5_s17_t1 dur=10.027 n=8
+   Easy           0.00-  0.60
+   now,           0.60-  1.18
+   easy           1.72-  2.28
+   now.           2.28-  3.26
+   Easy           4.60-  6.00
+   now.           6.00-  6.82
+   Easy           8.20-  8.78
+   now.           8.78-  8.78
+S19b_prompted.json take=mv5_s19b_t1 dur=5.035 n=13
+   We             0.00-  0.00
+   still          0.00-  0.08
+   move           0.08-  0.26
+   with           0.26-  0.70
+   it.            0.70-  1.18
+   Hand           1.56-  1.78
+   in             1.78-  2.00
+   my             2.00-  2.24
+   hand.          2.24-  2.84
+   No             2.96-  3.06
+   speech,        3.06-  3.42
+   no             3.64-  3.80
+   show.          3.80-  4.16
+S20_prompted.json take=mv5_s20_t1 dur=5.035 n=4
+   Heart          0.00-  0.88
+   in             0.88-  1.40
+   the            1.40-  1.66
+   breeze.        1.66-  2.54
+S21_prompted.json take=mv5_s21_t3 dur=10.027 n=23
+   If             0.00-  0.20
+   the            0.20-  0.38
+   sky            0.38-  0.76
+   turns          0.76-  1.32
+   gray.          1.32-  1.64
+   We             2.02-  2.16
+   don't          2.16-  2.44
+   fold           2.44-  2.78
+   in.            2.78-  3.22
+   We             3.58-  3.68
+   lean           3.68-  3.96
+   right          3.96-  4.22
+   back.          4.22-  4.82
+   Let            5.08-  5.16
+   the            5.16-  5.40
+   whole          5.40-  5.68
+   thing          5.68-  6.10
+   spin.          6.10-  6.46
+   You            6.84-  6.98
+   and            6.98-  7.18
+   me,            7.18-  7.38
+   same           7.68-  7.86
+   pace.          7.86-  8.24
+S22_prompted.json take=mv5_s22_t3 dur=5.035 n=2
+   No,            0.00-  0.98
+   no.            1.72-  2.32
+S23_prompted.json take=mv5_s23_t1 dur=7.04 n=9
+   Easy           0.00-  0.54
+   now,           0.54-  1.06
+   easy           1.46-  1.96
+   now,           1.96-  2.70
+   easy           3.20-  3.70
+   now.           3.70-  4.36
+   No             5.24-  6.24
+   need           6.24-  6.58
+   to.            6.58-  6.98
+S24_T1_prompted.json take=s24_t1 dur=7.0 n=4
+   Easy           0.00-  0.58
+   now            0.58-  1.34
+   easy           1.64-  2.32
+   now            2.32-  3.30
+S24_T3_prompted.json take=s24_t3 dur=7.0 n=4
+   Easy           0.00-  0.64
+   now            0.64-  1.38
+   easy           1.68-  2.50
+   now            2.50-  3.30
+S25_prompted.json take=mv5_s25_t1 dur=6.016 n=4
+   Easy           0.00-  0.78
+   now,           0.78-  1.38
+   easy           1.90-  2.40
+   now.           2.40-  3.22
+S26_prompted.json take=mv5_s26_t1 dur=8.021 n=4
+   Easy           0.00-  0.82
+   now,           0.82-  1.54
+   easy           2.22-  2.94
+   now.           2.94-  3.82
+S27_prompted.json take=mv5_s27_t1 dur=6.016 n=4
+   Easy           0.00-  0.78
+   now,           0.78-  1.74
+   easy           2.72-  4.14
+   now.           4.14-  4.74
+S28_T3_prompted.json take=s28_t3 dur=10.0 n=4
+   Till           0.00-  0.44
+   the            0.44-  0.80
+   morning        0.80-  1.52
+   comes          1.52-  2.74
+S28_prompted.json take=mv5_s28_t1 dur=5.035 n=4
+   Till           0.00-  0.38
+   the            0.38-  0.80
+   morning        0.80-  1.80
+   comes.         1.80-  2.76

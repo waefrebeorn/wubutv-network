@@ -1,0 +1,155 @@
+{
+ "episode_BASE_gate_log": 6.74,
+ "joints": [
+  {
+   "joint": "J1 U1->U2",
+   "seam_mae_measured": 21.12,
+   "upstream_final12_mean": 0.62,
+   "upstream_phase_at_last_step": "SETTLED",
+   "upstream_last_event": {
+    "onset_step": 0,
+    "peak_step": 5,
+    "peak_val": 17.36,
+    "end_step": 83,
+    "dur_steps": 84,
+    "class": "SUSTAINED"
+   },
+   "upstream_settled_from_step": 84,
+   "j12_peak_in_last24": {
+    "step": 229,
+    "val": 0.71,
+    "steps_before_end": 9
+   },
+   "downstream_head_class": "RAMP",
+   "downstream_head12_mean": 3.04,
+   "downstream_first_event": {
+    "onset_step": 1,
+    "peak_step": 77,
+    "peak_val": 4.04,
+    "end_step": 120,
+    "dur_steps": 120,
+    "class": "SUSTAINED"
+   }
+  },
+  {
+   "joint": "J2 U2->U3",
+   "seam_mae_measured": 21.64,
+   "upstream_final12_mean": 0.34,
+   "upstream_phase_at_last_step": "SETTLED",
+   "upstream_last_event": {
+    "onset_step": 1,
+    "peak_step": 77,
+    "peak_val": 4.04,
+    "end_step": 120,
+    "dur_steps": 120,
+    "class": "SUSTAINED"
+   },
+   "upstream_settled_from_step": 121,
+   "j12_peak_in_last24": {
+    "step": 237,
+    "val": 0.54,
+    "steps_before_end": 1
+   },
+   "downstream_head_class": "SETTLED-HEAD",
+   "downstream_head12_mean": 0.87,
+   "downstream_first_event": {
+    "onset_step": 48,
+    "peak_step": 86,
+    "peak_val": 6.82,
+    "end_step": 98,
+    "dur_steps": 51,
+    "class": "SUSTAINED"
+   }
+  },
+  {
+   "joint": "J3 U3->U4",
+   "seam_mae_measured": 30.41,
+   "upstream_final12_mean": 2.4,
+   "upstream_phase_at_last_step": "SETTLED",
+   "upstream_last_event": {
+    "onset_step": 234,
+    "peak_step": 237,
+    "peak_val": 3.91,
+    "end_step": 237,
+    "dur_steps": 4,
+    "class": "BLIP"
+   },
+   "upstream_settled_from_step": 238,
+   "j12_peak_in_last24": {
+    "step": 221,
+    "val": 4.31,
+    "steps_before_end": 17
+   },
+   "downstream_head_class": "RAMP",
+   "downstream_head12_mean": 1.43,
+   "downstream_first_event": {
+    "onset_step": 12,
+    "peak_step": 34,
+    "peak_val": 15.33,
+    "end_step": 103,
+    "dur_steps": 92,
+    "class": "SUSTAINED"
+   }
+  },
+  {
+   "joint": "J4 U4->U5",
+   "seam_mae_measured": 24.29,
+   "upstream_final12_mean": 0.24,
+   "upstream_phase_at_last_step": "SETTLED",
+   "upstream_last_event": {
+    "onset_step": 12,
+    "peak_step": 34,
+    "peak_val": 15.33,
+    "end_step": 103,
+    "dur_steps": 92,
+    "class": "SUSTAINED"
+   },
+   "upstream_settled_from_step": 104,
+   "j12_peak_in_last24": {
+    "step": 218,
+    "val": 0.58,
+    "steps_before_end": 20
+   },
+   "downstream_head_class": "RAMP",
+   "downstream_head12_mean": 2.07,
+   "downstream_first_event": {
+    "onset_step": 12,
+    "peak_step": 88,
+    "peak_val": 6.4,
+    "end_step": 131,
+    "dur_steps": 120,
+    "class": "SUSTAINED"
+   }
+  },
+  {
+   "joint": "J5 U5->U6",
+   "seam_mae_measured": 9.24,
+   "upstream_final12_mean": 1.21,
+   "upstream_phase_at_last_step": "SETTLED",
+   "upstream_last_event": {
+    "onset_step": 12,
+    "peak_step": 88,
+    "peak_val": 6.4,
+    "end_step": 131,
+    "dur_steps": 120,
+    "class": "SUSTAINED"
+   },
+   "upstream_settled_from_step": 132,
+   "j12_peak_in_last24": {
+    "step": 229,
+    "val": 1.36,
+    "steps_before_end": 9
+   },
+   "downstream_head_class": "RAMP",
+   "downstream_head12_mean": 4.22,
+   "downstream_first_event": {
+    "onset_step": 1,
+    "peak_step": 20,
+    "peak_val": 8.51,
+    "end_step": 70,
+    "dur_steps": 70,
+    "class": "SUSTAINED"
+   }
+  }
+ ]
+}

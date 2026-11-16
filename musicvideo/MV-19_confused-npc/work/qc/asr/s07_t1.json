@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv19_s07_t1.mp4",
+ "words": [
+  {
+   "w": "Brain",
+   "start": 0.0,
+   "end": 0.48,
+   "p": 0.333
+  },
+  {
+   "w": "went",
+   "start": 0.48,
+   "end": 0.84,
+   "p": 0.995
+  },
+  {
+   "w": "blank,",
+   "start": 0.84,
+   "end": 1.4,
+   "p": 0.991
+  },
+  {
+   "w": "brain",
+   "start": 1.58,
+   "end": 2.06,
+   "p": 0.945
+  },
+  {
+   "w": "went",
+   "start": 2.06,
+   "end": 2.54,
+   "p": 0.999
+  },
+  {
+   "w": "blank,",
+   "start": 2.54,
+   "end": 3.02,
+   "p": 0.999
+  },
+  {
+   "w": "what",
+   "start": 3.24,
+   "end": 3.38,
+   "p": 0.908
+  },
+  {
+   "w": "did",
+   "start": 3.38,
+   "end": 3.62,
+   "p": 0.999
+  },
+  {
+   "w": "I",
+   "start": 3.62,
+   "end": 3.88,
+   "p": 0.826
+  },
+  {
+   "w": "want?",
+   "start": 3.88,
+   "end": 4.28,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.28,
+   "text": "Brain went blank, brain went blank, what did I want?",
+   "avg_logprob": -0.38
+  }
+ ]
+}

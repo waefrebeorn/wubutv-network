@@ -1,0 +1,804 @@
+{
+ "model": "large-v3-turbo",
+ "wall_s": 249.8,
+ "words_total": 132,
+ "words_102_172": 33,
+ "words_110_155": 30,
+ "max_same_word_run": 5,
+ "words_over_2s": 6,
+ "words": [
+  {
+   "word": "Water",
+   "start": 13.36,
+   "end": 14.76,
+   "prob": 0.262
+  },
+  {
+   "word": "hits",
+   "start": 14.76,
+   "end": 15.18,
+   "prob": 0.982
+  },
+  {
+   "word": "my",
+   "start": 15.18,
+   "end": 15.5,
+   "prob": 0.998
+  },
+  {
+   "word": "balls",
+   "start": 15.5,
+   "end": 16.34,
+   "prob": 0.998
+  },
+  {
+   "word": "When",
+   "start": 19.56,
+   "end": 20.96,
+   "prob": 0.245
+  },
+  {
+   "word": "I",
+   "start": 20.96,
+   "end": 22.36,
+   "prob": 0.982
+  },
+  {
+   "word": "poop",
+   "start": 22.36,
+   "end": 22.76,
+   "prob": 0.997
+  },
+  {
+   "word": "it",
+   "start": 22.76,
+   "end": 22.96,
+   "prob": 0.827
+  },
+  {
+   "word": "splashes",
+   "start": 22.96,
+   "end": 23.86,
+   "prob": 0.999
+  },
+  {
+   "word": "Balls,",
+   "start": 26.12,
+   "end": 26.92,
+   "prob": 0.975
+  },
+  {
+   "word": "balls,",
+   "start": 26.92,
+   "end": 27.34,
+   "prob": 0.989
+  },
+  {
+   "word": "balls",
+   "start": 27.42,
+   "end": 28.28,
+   "prob": 0.992
+  },
+  {
+   "word": "Balls,",
+   "start": 28.28,
+   "end": 28.52,
+   "prob": 0.521
+  },
+  {
+   "word": "balls,",
+   "start": 28.56,
+   "end": 28.92,
+   "prob": 0.885
+  },
+  {
+   "word": "done.",
+   "start": 29.18,
+   "end": 29.32,
+   "prob": 0.083
+  },
+  {
+   "word": "Water",
+   "start": 29.6,
+   "end": 29.86,
+   "prob": 0.97
+  },
+  {
+   "word": "hits",
+   "start": 29.86,
+   "end": 30.26,
+   "prob": 0.995
+  },
+  {
+   "word": "my",
+   "start": 30.26,
+   "end": 30.58,
+   "prob": 0.994
+  },
+  {
+   "word": "balls.",
+   "start": 30.58,
+   "end": 30.94,
+   "prob": 0.978
+  },
+  {
+   "word": "Water",
+   "start": 31.38,
+   "end": 31.7,
+   "prob": 0.285
+  },
+  {
+   "word": "hits,",
+   "start": 31.7,
+   "end": 32.08,
+   "prob": 0.995
+  },
+  {
+   "word": "my",
+   "start": 32.36,
+   "end": 32.4,
+   "prob": 0.946
+  },
+  {
+   "word": "balls,",
+   "start": 32.4,
+   "end": 33.0,
+   "prob": 0.993
+  },
+  {
+   "word": "water",
+   "start": 33.26,
+   "end": 33.58,
+   "prob": 0.933
+  },
+  {
+   "word": "hits",
+   "start": 33.58,
+   "end": 33.98,
+   "prob": 0.988
+  },
+  {
+   "word": "my",
+   "start": 33.98,
+   "end": 34.28,
+   "prob": 0.722
+  },
+  {
+   "word": "ball.",
+   "start": 34.28,
+   "end": 34.7,
+   "prob": 0.003
+  },
+  {
+   "word": "Flash",
+   "start": 35.1,
+   "end": 35.5,
+   "prob": 0.229
+  },
+  {
+   "word": "back",
+   "start": 35.5,
+   "end": 35.86,
+   "prob": 0.61
+  },
+  {
+   "word": "all",
+   "start": 35.86,
+   "end": 36.08,
+   "prob": 0.42
+  },
+  {
+   "word": "the",
+   "start": 36.08,
+   "end": 36.22,
+   "prob": 0.994
+  },
+  {
+   "word": "balls.",
+   "start": 36.22,
+   "end": 37.0,
+   "prob": 0.997
+  },
+  {
+   "word": "Balls",
+   "start": 37.2,
+   "end": 37.54,
+   "prob": 0.993
+  },
+  {
+   "word": "balls,",
+   "start": 37.54,
+   "end": 37.94,
+   "prob": 0.005
+  },
+  {
+   "word": "ball,",
+   "start": 38.1,
+   "end": 38.28,
+   "prob": 0.051
+  },
+  {
+   "word": "balls.",
+   "start": 38.44,
+   "end": 38.44,
+   "prob": 0.607
+  },
+  {
+   "word": "Balls.",
+   "start": 40.06,
+   "end": 40.8,
+   "prob": 0.51
+  },
+  {
+   "word": "Sitting",
+   "start": 45.42,
+   "end": 46.16,
+   "prob": 0.235
+  },
+  {
+   "word": "on",
+   "start": 46.16,
+   "end": 46.62,
+   "prob": 0.991
+  },
+  {
+   "word": "the",
+   "start": 46.62,
+   "end": 46.76,
+   "prob": 0.998
+  },
+  {
+   "word": "toilet,",
+   "start": 46.76,
+   "end": 47.22,
+   "prob": 0.999
+  },
+  {
+   "word": "water",
+   "start": 47.46,
+   "end": 48.14,
+   "prob": 0.944
+  },
+  {
+   "word": "hit",
+   "start": 48.14,
+   "end": 48.6,
+   "prob": 0.001
+  },
+  {
+   "word": "my",
+   "start": 48.6,
+   "end": 49.42,
+   "prob": 0.546
+  },
+  {
+   "word": "balls",
+   "start": 49.42,
+   "end": 50.12,
+   "prob": 0.887
+  },
+  {
+   "word": "Flash,",
+   "start": 50.12,
+   "end": 51.34,
+   "prob": 0.0
+  },
+  {
+   "word": "flash,",
+   "start": 51.98,
+   "end": 52.1,
+   "prob": 0.057
+  },
+  {
+   "word": "flash.",
+   "start": 53.02,
+   "end": 53.02,
+   "prob": 0.396
+  },
+  {
+   "word": "Water",
+   "start": 53.52,
+   "end": 53.6,
+   "prob": 0.382
+  },
+  {
+   "word": "hits.",
+   "start": 53.6,
+   "end": 56.12,
+   "prob": 0.968
+  },
+  {
+   "word": "My",
+   "start": 56.38,
+   "end": 57.04,
+   "prob": 0.887
+  },
+  {
+   "word": "balls.",
+   "start": 57.04,
+   "end": 57.58,
+   "prob": 0.788
+  },
+  {
+   "word": "Call,",
+   "start": 57.58,
+   "end": 57.98,
+   "prob": 0.012
+  },
+  {
+   "word": "call,",
+   "start": 58.2,
+   "end": 58.4,
+   "prob": 0.87
+  },
+  {
+   "word": "call",
+   "start": 58.54,
+   "end": 59.1,
+   "prob": 0.993
+  },
+  {
+   "word": "Call,",
+   "start": 59.1,
+   "end": 59.98,
+   "prob": 0.011
+  },
+  {
+   "word": "let's",
+   "start": 60.24,
+   "end": 60.5,
+   "prob": 0.189
+  },
+  {
+   "word": "go",
+   "start": 60.5,
+   "end": 60.84,
+   "prob": 0.949
+  },
+  {
+   "word": "Why?",
+   "start": 61.58,
+   "end": 62.64,
+   "prob": 0.13
+  },
+  {
+   "word": "Water",
+   "start": 66.28,
+   "end": 67.4,
+   "prob": 0.469
+  },
+  {
+   "word": "hits",
+   "start": 67.4,
+   "end": 67.86,
+   "prob": 0.974
+  },
+  {
+   "word": "Water",
+   "start": 70.44,
+   "end": 71.56,
+   "prob": 0.409
+  },
+  {
+   "word": "It",
+   "start": 71.56,
+   "end": 72.2,
+   "prob": 0.007
+  },
+  {
+   "word": "falls",
+   "start": 72.2,
+   "end": 73.58,
+   "prob": 0.26
+  },
+  {
+   "word": "Strike",
+   "start": 77.22,
+   "end": 78.34,
+   "prob": 0.019
+  },
+  {
+   "word": "Water",
+   "start": 81.52,
+   "end": 82.08,
+   "prob": 0.003
+  },
+  {
+   "word": "hits",
+   "start": 82.08,
+   "end": 82.78,
+   "prob": 0.811
+  },
+  {
+   "word": "my",
+   "start": 82.78,
+   "end": 83.14,
+   "prob": 0.774
+  },
+  {
+   "word": "balls",
+   "start": 83.14,
+   "end": 83.64,
+   "prob": 0.962
+  },
+  {
+   "word": "Water",
+   "start": 83.64,
+   "end": 84.14,
+   "prob": 0.82
+  },
+  {
+   "word": "hits",
+   "start": 84.14,
+   "end": 85.58,
+   "prob": 0.971
+  },
+  {
+   "word": "Water",
+   "start": 85.58,
+   "end": 86.1,
+   "prob": 0.813
+  },
+  {
+   "word": "hits",
+   "start": 86.1,
+   "end": 86.5,
+   "prob": 0.981
+  },
+  {
+   "word": "my",
+   "start": 86.5,
+   "end": 86.84,
+   "prob": 0.996
+  },
+  {
+   "word": "balls",
+   "start": 86.84,
+   "end": 87.42,
+   "prob": 0.889
+  },
+  {
+   "word": "When",
+   "start": 87.42,
+   "end": 87.8,
+   "prob": 0.657
+  },
+  {
+   "word": "I",
+   "start": 87.8,
+   "end": 88.04,
+   "prob": 0.96
+  },
+  {
+   "word": "poop",
+   "start": 88.04,
+   "end": 88.38,
+   "prob": 0.988
+  },
+  {
+   "word": "it",
+   "start": 88.38,
+   "end": 88.6,
+   "prob": 0.627
+  },
+  {
+   "word": "splashes",
+   "start": 88.6,
+   "end": 89.54,
+   "prob": 0.997
+  },
+  {
+   "word": "Balls,",
+   "start": 89.54,
+   "end": 90.66,
+   "prob": 0.623
+  },
+  {
+   "word": "balls",
+   "start": 90.7,
+   "end": 91.02,
+   "prob": 0.958
+  },
+  {
+   "word": "Water",
+   "start": 91.02,
+   "end": 91.68,
+   "prob": 0.796
+  },
+  {
+   "word": "hits",
+   "start": 91.68,
+   "end": 92.14,
+   "prob": 0.998
+  },
+  {
+   "word": "the",
+   "start": 92.14,
+   "end": 92.38,
+   "prob": 0.0
+  },
+  {
+   "word": "balls",
+   "start": 92.38,
+   "end": 92.96,
+   "prob": 0.836
+  },
+  {
+   "word": "Water",
+   "start": 92.96,
+   "end": 93.34,
+   "prob": 0.128
+  },
+  {
+   "word": "hits",
+   "start": 93.34,
+   "end": 94.04,
+   "prob": 0.992
+  },
+  {
+   "word": "ma",
+   "start": 94.04,
+   "end": 94.34,
+   "prob": 0.0
+  },
+  {
+   "word": "balls",
+   "start": 94.34,
+   "end": 94.84,
+   "prob": 0.798
+  },
+  {
+   "word": "Splash",
+   "start": 94.84,
+   "end": 95.52,
+   "prob": 0.944
+  },
+  {
+   "word": "back",
+   "start": 95.52,
+   "end": 95.86,
+   "prob": 0.968
+  },
+  {
+   "word": "on",
+   "start": 95.86,
+   "end": 96.1,
+   "prob": 0.955
+  },
+  {
+   "word": "the",
+   "start": 96.1,
+   "end": 96.22,
+   "prob": 0.894
+  },
+  {
+   "word": "balls",
+   "start": 96.22,
+   "end": 97.08,
+   "prob": 0.988
+  },
+  {
+   "word": "Balls",
+   "start": 97.08,
+   "end": 98.02,
+   "prob": 0.829
+  },
+  {
+   "word": "Balls",
+   "start": 98.54,
+   "end": 99.0,
+   "prob": 0.524
+  },
+  {
+   "word": "Balls",
+   "start": 99.0,
+   "end": 99.14,
+   "prob": 0.557
+  },
+  {
+   "word": "Balls",
+   "start": 99.14,
+   "end": 100.38,
+   "prob": 0.737
+  },
+  {
+   "word": "Water",
+   "start": 104.74,
+   "end": 104.76,
+   "prob": 0.001
+  },
+  {
+   "word": "Water",
+   "start": 108.7,
+   "end": 109.62,
+   "prob": 0.728
+  },
+  {
+   "word": "Water,",
+   "start": 110.68,
+   "end": 111.72,
+   "prob": 0.411
+  },
+  {
+   "word": "water,",
+   "start": 111.72,
+   "end": 111.9,
+   "prob": 0.834
+  },
+  {
+   "word": "water",
+   "start": 112.04,
+   "end": 113.68,
+   "prob": 0.988
+  },
+  {
+   "word": "hits",
+   "start": 116.92,
+   "end": 123.6,
+   "prob": 0.0
+  },
+  {
+   "word": "my",
+   "start": 123.6,
+   "end": 124.2,
+   "prob": 0.983
+  },
+  {
+   "word": "bones",
+   "start": 124.2,
+   "end": 128.66,
+   "prob": 0.855
+  },
+  {
+   "word": "When",
+   "start": 128.66,
+   "end": 129.02,
+   "prob": 0.469
+  },
+  {
+   "word": "I",
+   "start": 129.02,
+   "end": 129.2,
+   "prob": 0.774
+  },
+  {
+   "word": "poop",
+   "start": 129.2,
+   "end": 129.64,
+   "prob": 0.794
+  },
+  {
+   "word": "it",
+   "start": 129.64,
+   "end": 129.92,
+   "prob": 0.575
+  },
+  {
+   "word": "splashes",
+   "start": 129.92,
+   "end": 130.68,
+   "prob": 0.897
+  },
+  {
+   "word": "Balls,",
+   "start": 130.68,
+   "end": 131.74,
+   "prob": 0.531
+  },
+  {
+   "word": "balls,",
+   "start": 131.8,
+   "end": 132.2,
+   "prob": 0.923
+  },
+  {
+   "word": "balls",
+   "start": 132.28,
+   "end": 134.92,
+   "prob": 0.866
+  },
+  {
+   "word": "What",
+   "start": 134.92,
+   "end": 136.08,
+   "prob": 0.221
+  },
+  {
+   "word": "I",
+   "start": 136.08,
+   "end": 138.56,
+   "prob": 0.731
+  },
+  {
+   "word": "hit",
+   "start": 138.56,
+   "end": 138.84,
+   "prob": 0.813
+  },
+  {
+   "word": "my",
+   "start": 138.84,
+   "end": 139.2,
+   "prob": 0.556
+  },
+  {
+   "word": "balls",
+   "start": 139.2,
+   "end": 139.9,
+   "prob": 0.983
+  },
+  {
+   "word": "What",
+   "start": 139.9,
+   "end": 140.46,
+   "prob": 0.205
+  },
+  {
+   "word": "I",
+   "start": 140.46,
+   "end": 142.3,
+   "prob": 0.991
+  },
+  {
+   "word": "hits",
+   "start": 142.3,
+   "end": 142.58,
+   "prob": 0.0
+  },
+  {
+   "word": "my",
+   "start": 142.58,
+   "end": 142.92,
+   "prob": 0.99
+  },
+  {
+   "word": "balls",
+   "start": 142.92,
+   "end": 143.68,
+   "prob": 0.993
+  },
+  {
+   "word": "When",
+   "start": 145.2,
+   "end": 145.76,
+   "prob": 0.725
+  },
+  {
+   "word": "I'm",
+   "start": 145.76,
+   "end": 146.1,
+   "prob": 0.876
+  },
+  {
+   "word": "pooping",
+   "start": 146.1,
+   "end": 146.58,
+   "prob": 0.667
+  },
+  {
+   "word": "splicing",
+   "start": 146.58,
+   "end": 148.9,
+   "prob": 0.283
+  },
+  {
+   "word": "Balls,",
+   "start": 152.84,
+   "end": 154.24,
+   "prob": 0.665
+  },
+  {
+   "word": "balls",
+   "start": 154.26,
+   "end": 154.64,
+   "prob": 0.929
+  },
+  {
+   "word": "Balls",
+   "start": 170.92,
+   "end": 172.32,
+   "prob": 0.643
+  }
+ ],
+ "text": " Water hits my balls  When I poop it splashes  Balls, balls, balls  Balls, balls, balls done.  Water hits my balls.  Water hits, my balls, water hits my ball.  Flash back all the balls.  Balls balls, ball, balls.  Balls.  Sitting on the toilet, water hit my balls  Flash, flash, flash.  Water hits.  My balls.  Call, call, call  Call, let's go  Why?  Water hits  Water  It falls  Strike  Water hits my balls  Water hits  Water hits my balls  When I poop it splashes  Balls, balls  Water hits the balls  Water hits ma balls  Splash back on the balls  Balls  Balls  Balls  Balls  Balls  Balls  Water  Water  Water, water, water  Water, Water,  Water,  Water hits my bones  When I poop it splashes  Balls, balls, balls  What I hit my balls  What I hits my balls  When I'm pooping splicing  Balls, balls  Balls"
+}

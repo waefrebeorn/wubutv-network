@@ -1,0 +1,44 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s11-t1-0-c2c17d73-0dfa-48b6-b030-93199c579e4c.mp4",
+ "segments": [
+  {
+   "start": 0.5,
+   "end": 1.92,
+   "text": "I don't need a pitch.",
+   "avg_logprob": -0.509,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " I",
+     "start": 0.5,
+     "end": 0.96,
+     "probability": 0.696
+    },
+    {
+     "word": " don't",
+     "start": 0.96,
+     "end": 1.18,
+     "probability": 0.931
+    },
+    {
+     "word": " need",
+     "start": 1.18,
+     "end": 1.34,
+     "probability": 0.936
+    },
+    {
+     "word": " a",
+     "start": 1.34,
+     "end": 1.54,
+     "probability": 0.996
+    },
+    {
+     "word": " pitch.",
+     "start": 1.54,
+     "end": 1.92,
+     "probability": 0.989
+    }
+   ]
+  }
+ ]
+}

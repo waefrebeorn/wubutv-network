@@ -1,0 +1,26 @@
+{
+  "run": "2026-10-17 07:30 EDT",
+  "factory": "wubutv-bumper-factory",
+  "claim_time": "2026-10-17T07:30:00-04:00",
+  "numbers": [
+    1169,
+    1170,
+    1171
+  ],
+  "subjects": {
+    "1169": "0515 B-1656 \"THE STREET SWEEPER\"",
+    "1170": "0515 B-1657 \"THE ARCHIVE THERMOMETER\" (NO-LINE)",
+    "1171": "0515 B-1658 \"THE DEAD LAMP\""
+  },
+  "durable_prompts": {
+    "1169": "slate/fire_b1169_20261017_0730_v1.txt (md5 147b49e47afcc935de7155a0d1371914, verbatim 0515 0515 B-1656 extract, line \"The street keeps.\")",
+    "1170": "slate/fire_b1170_20261017_0730_v1.txt (md5 bec4f097a59eebcd7a49c37811896af4, verbatim 0515 0515 B-1657 extract, line NO-LINE)",
+    "1171": "slate/fire_b1171_20261017_0730_v1.txt (md5 911fc46453b801f59b15d4c5124a8022, verbatim 0515 0515 B-1658 extract, line \"New bulb.\")"
+  },
+  "beat_gate": {
+    "B-1169": "title grep-zero vs slate/BUMPERS.md + EPISODE_LEDGER.md + slate/COMMERCIALS.md + ideas/IDEAS_BANK.md (case-insensitive, quoted titles; bank matches are intake/research origin lines only, not collisions); lineage vs shipped sweep/broom beats B-507 \"The Swept Bay\" / B-551 \"The Swept Apron\" / B-676 \"The Sweeper's Leaf\" adjudicated DISTINCT per the bell-family precedent - the stop-at-4s + one look at the lens + resume-at-9s pause + line \"The street keeps.\" (LORE - THE STREET: the street is kept by the sweep, named by the pause; the pause is the work made visible) vs the cleared-surface verdicts + the sweeper's truck; distinct verb + distinct verdict",
+    "B-1170": "title grep-zero vs slate/BUMPERS.md + EPISODE_LEDGER.md + slate/COMMERCIALS.md + ideas/IDEAS_BANK.md (case-insensitive, quoted titles; bank matches are intake/research origin lines only, not collisions); lineage vs claimed-but-unshot B-1168 \"THE WARM CABINET\" (0715 run, behind the budget outage - not a collision; adjudicated at the 0715 claim: the read-by-hand palm-press NO-LINE vs the read-by-glass + one nod NO-LINE, distinct); no shipped thermometer beats; NO-LINE per the 0515 staging",
+    "B-1171": "title grep-zero vs slate/BUMPERS.md + EPISODE_LEDGER.md + slate/COMMERCIALS.md + ideas/IDEAS_BANK.md (case-insensitive, quoted titles; bank matches are intake/research origin lines only, not collisions); lineage vs retired-shape B-1116 \"The Loft Light\" (never shipped; adjudicated: the dead-bulb swap + new-bulb lit verdict vs the work-light pull-descent over empty boards, \"light for no one\"; distinct object + verb + verdict); vs shipped lamp beats B-231/B-234/B-143/B-147 flagged per the 0115 draft headers - the control-room socket + technician-hands swap + line \"New bulb.\" vs those lighting beats, distinct"
+  },
+  "note": "B-854 skipped (standing beat-gate hold); B-974 RESERVED (Q1 restage, new shape); B-767 number still needs a Q1 restage; B-881/B-882 freed numbers reserved; B-376 \"The Stamp Card\" stays pipeline-DENIED/unshot. Live bumper outage claims B-1115..B-1168 (0300..0715 runs) all queued behind video_daily_budget_exhausted since ~03:03 EDT - this run continues FIFO after 0715's B-1655; the 0515 PREPRO (FIRE-READY) supplies B-1656..B-1658, then the 0615 B-1659..B-1670 provisionals."
+}

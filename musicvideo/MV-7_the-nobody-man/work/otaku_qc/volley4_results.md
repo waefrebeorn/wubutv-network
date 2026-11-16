@@ -1,0 +1,10 @@
+# Volley 4 Results (U19-U24, otaku rebuild, t1 each)
+
+| unit | take path | md5 | ffprobe | take words found | motion stats | visual QC verdict |
+|---|---|---|---|---|---|---|
+| U19 | takes/otaku/mv7o_u19_t1.mp4 | 62f504b6019f31d0e1fdb0cc91967707 | 1248x704, 5.0s, 120f | "Tiny" 0.0s – "room" 4.0s (7 words; first line only, second line not in take audio) | frames=120 mean_diff=1.47 min_diff=0.23 max_neardup_run=3 | PASS — identity/room correct, no readable text, no stubble/creepy, mouth visibly open/moving |
+| U20 | takes/otaku/mv7o_u20_t1.mp4 | 35d2da887b479ec33492b868a410ed31 | 1248x704, 10.0s, 240f | "Everybody" 0.0s – "out." 7.0s (14 words, full line) | frames=240 mean_diff=1.62 min_diff=0.39 max_neardup_run=1 | PASS — identity/room correct, no readable text, strong open-mouth singing; note 10s duration vs 5s spec |
+| U21 | takes/otaku/mv7o_u21_t1.mp4 | 55f5ef0cffb77c45dd6ba8e0347c86bd | 1248x704, 10.0s, 240f | "I" 0.0s – "sound" 8.56s (13 words, full line) | frames=240 mean_diff=1.29 min_diff=0.13 max_neardup_run=13 | PASS — identity/room correct, no readable text, mouth moving throughout; note 10s duration |
+| U22 | takes/otaku/mv7o_u22_t1.mp4 | 6f57c8264bf1061fe7b81de6d53d83a9 | 1248x704, 10.0s, 240f | "No" 0.0s – "to." 6.8s (8 words, full line) | frames=240 mean_diff=1.66 min_diff=0.13 max_neardup_run=11 | PASS — identity/room correct, no readable text, wide open mouth; cat ears worn on head in most frames, headphones still around neck; note 10s duration |
+| U23 | takes/otaku/mv7o_u23_t1.mp4 | 149b50df61d06abb8ca62627795e7978 | 1248x704, 5.0s, 120f | "I" 0.0s – "too" 3.56s (7 words, full line) | frames=120 mean_diff=1.86 min_diff=0.16 max_neardup_run=1 | PASS — identity/room correct, no readable text, clear open-mouth singing |
+| U24 | takes/otaku/mv7o_u24_t1.mp4 | 6290ea86bf04bdae75a1b82e4e92d652 | 1248x704, 5.0s, 120f | "I'm" 0.0s – "man." 2.84s (4 words; first line only, "Still here, still stand" not in take audio) | frames=120 mean_diff=1.56 min_diff=0.18 max_neardup_run=2 | PASS — identity/room correct, no readable text, mouth visibly open/moving; lyric partial in take audio |

@@ -1,0 +1,31 @@
+{
+ "take": "takes/mv18_s03_t1.mp4",
+ "words": [
+  {
+   "w": "What's",
+   "start": 1.22,
+   "end": 2.14,
+   "p": 0.977
+  },
+  {
+   "w": "a",
+   "start": 2.14,
+   "end": 2.52,
+   "p": 0.999
+  },
+  {
+   "w": "sigma?",
+   "start": 2.52,
+   "end": 2.82,
+   "p": 0.738
+  }
+ ],
+ "segments": [
+  {
+   "start": 1.22,
+   "end": 2.82,
+   "text": "What's a sigma?",
+   "avg_logprob": -0.359
+  }
+ ]
+}

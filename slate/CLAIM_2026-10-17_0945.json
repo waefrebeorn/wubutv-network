@@ -1,0 +1,26 @@
+{
+ "factory": "wubutv-bumper-factory",
+ "run": "2026-10-17 09:45 EDT",
+ "claim_time": "2026-10-17T09:45:00-04:00",
+ "numbers": [
+  1196,
+  1197,
+  1198
+ ],
+ "subjects": {
+  "1196": "0815 B-1684 \"THE THUMBS-UP\"",
+  "1197": "0815 B-1685 \"THE RING THAT JUDGES\"",
+  "1198": "0815 B-1686 \"THE LONG IDLE\""
+ },
+ "beat_gate": {
+  "B-1196": "title grep-zero vs slate/BUMPERS.md + EPISODE_LEDGER.md + slate/COMMERCIALS.md (case-insensitive quoted titles; IDEAS_BANK.md hits are bank lines 10726/10750/10757 \u2014 this exact draft's source intake, not collisions); lineage vs DRAFTED \"The Announcer\" (the emergency vs the listing \u2014 the dash vs the telling \u2014 flagged) + shipped N-40 \"The Apology Card\" (the happening vs the card \u2014 the dash vs the wording \u2014 flagged) per 0815 draft header; no prior thumbs-up territory in the shipped tables",
+  "B-1197": "title grep-zero vs slate/BUMPERS.md + EPISODE_LEDGER.md + slate/COMMERCIALS.md (case-insensitive quoted titles; IDEAS_BANK.md hits are bank lines 10819/10820/10837 \u2014 this exact draft's source intake, not collisions); lineage vs shipped B-1095 \"The Crab Measure\" (the ring vs the slot \u2014 the automatic vs the measured \u2014 the escape verdict vs the measured verdict \u2014 flagged) per 0815 draft header; canon riff v2 #43 staged here",
+  "B-1198": "title grep-zero vs slate/BUMPERS.md + EPISODE_LEDGER.md + slate/COMMERCIALS.md + ideas/IDEAS_BANK.md (case-insensitive quoted titles; zero hits); fresh world-expansion subject \u2014 no prior idle-engine territory in the shipped tables"
+ },
+ "durable_prompts": {
+  "1196": "slate/fire_b1196_20261017_0945_v1.txt (md5 99525dd96522679b339a3f9b1bab04fd, verbatim 0815 B-1684 extract, NO-LINE)",
+  "1197": "slate/fire_b1197_20261017_0945_v1.txt (md5 e23465eac283dbb6b08a651e177d1330, verbatim 0815 B-1685 extract, NO-LINE)",
+  "1198": "slate/fire_b1198_20261017_0945_v1.txt (md5 dc21bdf298dcae23cc366baa626c9948, verbatim 0815 B-1686 extract, NO-LINE)"
+ },
+ "note": "B-854 skipped (standing beat-gate hold); B-974 RESERVED (Q1 restage, new shape); B-767 number still needs a Q1 restage; B-881/B-882 freed numbers reserved; B-376 \"The Stamp Card\" stays pipeline-DENIED/unshot. Live bumper outage claims B-1115..B-1195 (0300..0930 runs) all queued behind video_daily_budget_exhausted since ~03:03 EDT (~41 refusals at 0932) - this run continues FIFO after 0930's B-1683; the 0815 PREPRO (FIRE-READY) supplies B-1684..B-1686, then the 0815 B-1687..B-1694 provisionals, then the 0915 B-1695..B-1706 provisionals - beat-gate at claim."
+}

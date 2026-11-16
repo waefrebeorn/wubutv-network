@@ -1,0 +1,691 @@
+{
+  "method": "Bounded whole-clip video warp to the band edge (warp TO band, not to 1.0), both streams by the same factor. Ratio = song span / take vocal span. Band 0.80-1.25. Ratio verdicts use the volley method: ratio rounded to 2dp (all volley QC scripts rounded this way; S16 t4 at 0.7989 was accepted as a borderline candidate on that basis). Frame gate is strict and unrounded: FAIL if vocal near-dup run >=24 or vocal mean diff <0.5. Exactly-once checked on the RAW word list including beat-word subsequence scan. Warped files are NEW files in takes/; no source take, master, or record was modified; nothing was committed.",
+  "video": "ffmpeg setpts=PTS/factor (video) + atempo=factor (audio), libx264 crf 18, yuv420p, 1280x720, 24fps, AAC 192k 48kHz stereo. Assembly later uses video only over untouched track.mp3.",
+  "rows": [
+    {
+      "slot": "S16",
+      "take": "t7",
+      "source": "mv2_s16_t7.mp4",
+      "source_md5": "cf675eaa451956107f170cec69fbc230",
+      "orig_ratio": 0.755,
+      "orig_span": [
+        0.0,
+        4.0
+      ],
+      "beat": "sell you speed for a dollar and a dime",
+      "song": 3.02,
+      "factor": 1.059603,
+      "warped": "mv2_s16_t7_warped.mp4",
+      "warped_md5": "7395f5bcaab5099381cffbbb2fae447c",
+      "frames": 228,
+      "duration": 9.5,
+      "measured_span": [
+        0.0,
+        3.76
+      ],
+      "measured_ratio": 0.8031914893617021,
+      "scaled_span": [
+        0.0,
+        3.775
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          3.76
+        ],
+        "transitions": 91,
+        "changed_gt_0_5": 90,
+        "near_dup_run": 1,
+        "mean_diff": 1.0555181623931624,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank ticket, no signage)",
+      "verdict": "CANDIDATE",
+      "notes": "Pocket square blue, not CADMIUM (nit, as in original)."
+    },
+    {
+      "slot": "S16",
+      "take": "t8",
+      "source": "mv2_s16_t8.mp4",
+      "source_md5": "1671c4590bc69dae195932ac09415d19",
+      "orig_ratio": 0.599206,
+      "orig_span": null,
+      "beat": "sell you speed for a dollar and a dime",
+      "song": 3.02,
+      "factor": 1.335099,
+      "warped": "mv2_s16_t8_warped.mp4",
+      "warped_md5": "19ef0469bac47a16b79ac329a1f15bf4",
+      "frames": 182,
+      "duration": 7.583333,
+      "measured_span": [
+        0.0,
+        3.78
+      ],
+      "measured_ratio": 0.798941798941799,
+      "scaled_span": [
+        null,
+        null
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          3.78
+        ],
+        "transitions": 91,
+        "changed_gt_0_5": 90,
+        "near_dup_run": 1,
+        "mean_diff": 1.9012148962148963,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank ticket, no signage)",
+      "verdict": "CANDIDATE (borderline)",
+      "notes": "Original span length 5.04s (per-word timestamps lost with volley-13 QC agent's /tmp files; onset not recorded, so no scaled span asserted). Measured ratio 0.798942 rounds to 0.80 on the volley 2dp method \u2014 same figure as the accepted S16 t4 borderline precedent. Pocket square blue nit. Slot already covered by t7 warped, so this verdict does not affect coverage."
+    },
+    {
+      "slot": "S22",
+      "take": "t4",
+      "source": "mv2_s22_t4.mp4",
+      "source_md5": "2cc8337fdd3632a8885e4b1727891aee",
+      "orig_ratio": 1.294118,
+      "orig_span": [
+        3.16,
+        4.86
+      ],
+      "beat": "toll roads are done",
+      "song": 2.2,
+      "factor": 0.965909,
+      "warped": "mv2_s22_t4_warped.mp4",
+      "warped_md5": "f51384f1804e05ae841bdd9cdc7f05be",
+      "frames": 248,
+      "duration": 10.366,
+      "measured_span": [
+        2.88,
+        5.22
+      ],
+      "measured_ratio": 0.9401709401709403,
+      "scaled_span": [
+        3.2715,
+        5.0315
+      ],
+      "scaled_ratio": 1.25,
+      "frame_gate": {
+        "span": [
+          2.88,
+          5.22
+        ],
+        "transitions": 59,
+        "changed_gt_0_5": 33,
+        "near_dup_run": 2,
+        "mean_diff": 1.460710922787194,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank ticket, no signage)",
+      "verdict": "CANDIDATE",
+      "notes": "TOWROADS slur: Whisper hears toll+roads as one token (volley-12 precedent); matched as toll+roads. First-word onset snapped early (measured 2.88 vs scaled 3.27); both measured (0.94) and scaled (1.25) ratios are in band, so the verdict does not depend on the snap. Warped duration 10.366s exceeds 10s \u2014 assembly must trim to the vocal segment."
+    },
+    {
+      "slot": "R4",
+      "take": "t2",
+      "source": "mv2_r4_t2.mp4",
+      "source_md5": "cfc623dc501fe1a36dce02b252583302",
+      "orig_ratio": 0.733333,
+      "orig_span": [
+        0.0,
+        3.3
+      ],
+      "beat": "toll roads are done",
+      "song": 2.42,
+      "factor": 1.090909,
+      "warped": "mv2_r4_t2_warped.mp4",
+      "warped_md5": "3cfbc8c573651d847a2124b181159297",
+      "frames": 222,
+      "duration": 9.25,
+      "measured_span": [
+        0.0,
+        2.52
+      ],
+      "measured_ratio": 0.9603174603174602,
+      "scaled_span": [
+        0.0,
+        3.025
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          2.52
+        ],
+        "transitions": 61,
+        "changed_gt_0_5": 60,
+        "near_dup_run": 1,
+        "mean_diff": 1.0917281420765028,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank ticket, no signage)",
+      "verdict": "CANDIDATE",
+      "notes": "Final-word truncation: Whisper ends 'done' at 2.52 vs scaled 3.025 (first three boundaries match scaled within 0.03s). Both measured (0.96) and scaled (0.80) ratios in band, so verdict unaffected. Pocket square CADMIUM."
+    },
+    {
+      "slot": "R3",
+      "take": "t4",
+      "source": "mv2_r3_t4.mp4",
+      "source_md5": "a140ce5cba6be57f8c1ee91f8f0625b8",
+      "orig_ratio": 0.662577,
+      "orig_span": [
+        0.0,
+        3.26
+      ],
+      "beat": "toll roads are done",
+      "song": 2.16,
+      "factor": 1.207407,
+      "warped": "mv2_r3_t4_warped.mp4",
+      "warped_md5": "b07f87e1a1b82e5888fa1024dc514d9c",
+      "frames": 201,
+      "duration": 8.375,
+      "measured_span": [
+        0.0,
+        2.7
+      ],
+      "measured_ratio": 0.8,
+      "scaled_span": [
+        0.0,
+        2.7
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          2.7
+        ],
+        "transitions": 66,
+        "changed_gt_0_5": 60,
+        "near_dup_run": 1,
+        "mean_diff": 1.655886994949495,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank ticket, no signage)",
+      "verdict": "CANDIDATE",
+      "notes": "Measured ratio exactly 0.80; measured span identical to scaled span. Pocket square blue (nit)."
+    },
+    {
+      "slot": "R6",
+      "take": "t4",
+      "source": "mv2_r6_t4.mp4",
+      "source_md5": "f45c2309fb656612d4f3f97f1e038c83",
+      "orig_ratio": 0.630058,
+      "orig_span": [
+        1.72,
+        5.18
+      ],
+      "beat": "toll roads are done",
+      "song": 2.18,
+      "factor": 1.269725,
+      "warped": "mv2_r6_t4_warped.mp4",
+      "warped_md5": "9d3264445459c7c3ada4e6966441cf87",
+      "frames": 191,
+      "duration": 7.958333,
+      "measured_span": [
+        0.0,
+        4.04
+      ],
+      "measured_ratio": 0.5396039603960396,
+      "scaled_span": [
+        1.3546,
+        4.0796
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          1.3546,
+          4.0796
+        ],
+        "transitions": 68,
+        "changed_gt_0_5": 62,
+        "near_dup_run": 1,
+        "mean_diff": 2.223704044117647,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank ticket, no signage)",
+      "verdict": "CANDIDATE*",
+      "notes": "MEASUREMENT REJECTED, parent confirmation requested: Whisper snaps the first word onset 1.3546->0.0 on warped audio (segment 'Told roads are done' 0.0-4.04). Proof: (1) original re-transcription reproduces 1.72-5.18 exactly; (2) all later warped boundaries match scaled within 0.26s (roads end 3.0 vs 2.882, are end 3.54 vs 3.544, done end 4.04 vs 4.080); (3) visual: mouth CLOSED at warped 0.7s and 1.0s (pre-vocal), OPEN at 2.0s and 3.8s. Frame gate also PASS on the measured span (71/98, run 9, mean 1.6898). Verdict uses the scaled ratio 0.80. If the parent rejects this rejection, R6 falls back to FAIL and the slot is uncovered."
+    },
+    {
+      "slot": "S23",
+      "take": "t4",
+      "source": "mv2_s23_t4.mp4",
+      "source_md5": "224777466655a5a6e54c7d9504e9ea8a",
+      "orig_ratio": 0.634921,
+      "orig_span": [
+        0.0,
+        2.52
+      ],
+      "beat": "toll roads are dumb",
+      "song": 1.6,
+      "factor": 1.26,
+      "warped": "mv2_s23_t4_warped.mp4",
+      "warped_md5": "2a1312b0b9692bae35a909803a879cb0",
+      "frames": 192,
+      "duration": 8.0,
+      "measured_span": [
+        0.0,
+        1.94
+      ],
+      "measured_ratio": 0.8247422680412372,
+      "scaled_span": [
+        0.0,
+        2.0
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          1.94
+        ],
+        "transitions": 47,
+        "changed_gt_0_5": 28,
+        "near_dup_run": 1,
+        "mean_diff": 0.9386524822695037,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (fog only, no signage)",
+      "verdict": "CANDIDATE",
+      "notes": "Normalization disclosed: Whisper on warped audio hears 'done' for 'dumb'; normalized done->dumb (established v5 mishear class, WORD_MATCH_V5.json). The same performances unwarped were heard as 'dumb' (t4 exact, t5 'told roads are dumb'). Raw words recorded in TAKE_WORDS_WARP_RESCUE_S23NORM.json. If the parent rejects this normalization, S23 t4/t5 both fail and S23 coverage collapses (t6 is character-failed)."
+    },
+    {
+      "slot": "S23",
+      "take": "t5",
+      "source": "mv2_s23_t5.mp4",
+      "source_md5": "6a2d34f87954c664be31efef8675841c",
+      "orig_ratio": 0.629921,
+      "orig_span": [
+        0.0,
+        2.54
+      ],
+      "beat": "toll roads are dumb",
+      "song": 1.6,
+      "factor": 1.27,
+      "warped": "mv2_s23_t5_warped.mp4",
+      "warped_md5": "8b1c3c1744beca2fe5c33c7b8a7f3bac",
+      "frames": 191,
+      "duration": 7.958333,
+      "measured_span": [
+        0.0,
+        1.92
+      ],
+      "measured_ratio": 0.8333333333333334,
+      "scaled_span": [
+        0.0,
+        2.0
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          1.92
+        ],
+        "transitions": 47,
+        "changed_gt_0_5": 47,
+        "near_dup_run": 0,
+        "mean_diff": 1.2616445035460995,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (fog only, no signage)",
+      "verdict": "CANDIDATE",
+      "notes": "Same done->dumb normalization as S23 t4 (see that row). Pocket square orange-red (nit)."
+    },
+    {
+      "slot": "S23",
+      "take": "t6",
+      "source": "mv2_s23_t6.mp4",
+      "source_md5": "28b73f65850df8cb71986d6630ebf69c",
+      "orig_ratio": 0.620155,
+      "orig_span": [
+        0.0,
+        2.58
+      ],
+      "beat": "toll roads are dumb",
+      "song": 1.6,
+      "factor": 1.29,
+      "warped": "mv2_s23_t6_warped.mp4",
+      "warped_md5": "ba6b73a3a6ad8f0cfaadd86be7ee234a",
+      "frames": 188,
+      "duration": 7.833333,
+      "measured_span": [
+        0.0,
+        2.0
+      ],
+      "measured_ratio": 0.8,
+      "scaled_span": [
+        0.0,
+        2.0
+      ],
+      "scaled_ratio": 0.8,
+      "frame_gate": {
+        "span": [
+          0.0,
+          2.0
+        ],
+        "transitions": 49,
+        "changed_gt_0_5": 30,
+        "near_dup_run": 1,
+        "mean_diff": 0.938703231292517,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (fog only, no signage)",
+      "verdict": "FAIL (character)",
+      "notes": "Passes ratio, frame gate, exactly-once, and text \u2014 but the face is visibly NOT THE VOICE (darker skin, different structure, gold chain, orange-red pocket square), confirming the original v5/v6 character-drift flag. Precedent: R1 t2 (in band, motion pass, text clean, CHARACTER FAIL -> not a candidate). Slot still covered by warped t4/t5."
+    },
+    {
+      "slot": "S09",
+      "take": "t2",
+      "source": "mv2_s09_t2.mp4",
+      "source_md5": "63285b1bb87e5dabdc7174741ad186c1",
+      "orig_ratio": 0.737778,
+      "orig_span": [
+        0.0,
+        4.5
+      ],
+      "beat": "express lanes look clean merges get hot",
+      "song": 3.32,
+      "factor": 1.0843,
+      "warped": "mv2_s09_t2_warped.mp4",
+      "warped_md5": "05aac6c0df6404be19a3ff1f86274b0e",
+      "frames": 223,
+      "duration": 9.291667,
+      "measured_span": [
+        0.0,
+        4.18
+      ],
+      "measured_ratio": 0.7942583732057417,
+      "scaled_span": [
+        0.0,
+        4.1501
+      ],
+      "scaled_ratio": 0.799972,
+      "frame_gate": {
+        "span": [
+          0.0,
+          4.18
+        ],
+        "transitions": 101,
+        "changed_gt_0_5": 54,
+        "near_dup_run": 1,
+        "mean_diff": 1.6289493949394935,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank sign panels, no legible words)",
+      "verdict": "FAIL (ratio)",
+      "notes": "Measured 0.794258 rounds to 0.79 on the volley 2dp method \u2014 below band. Scaled ratio 0.799972; the miss is a 0.03s span difference, within Whisper boundary jitter (per-word boundaries match scaled within 0.07s). NOT overruled by this pass: parent overrule would cover S09. v5-era slot only; no v6 coverage is lost by this fail."
+    },
+    {
+      "slot": "S20",
+      "take": "t2",
+      "source": "mv2_s20_t2.mp4",
+      "source_md5": "2ab569408800d5b9edd076501414d83e",
+      "orig_ratio": 0.712,
+      "orig_span": [
+        4.96,
+        7.46
+      ],
+      "beat": "toll roads are dumb",
+      "song": 1.78,
+      "factor": 1.1236,
+      "warped": "mv2_s20_t2_warped.mp4",
+      "warped_md5": "4b4d43adfd4f83e0ba25d3a1769146a6",
+      "frames": 215,
+      "duration": 8.958008,
+      "measured_span": [
+        4.28,
+        6.66
+      ],
+      "measured_ratio": 0.7478991596638656,
+      "scaled_span": [
+        4.4144,
+        6.6394
+      ],
+      "scaled_ratio": 0.800003,
+      "frame_gate": {
+        "span": [
+          4.4144,
+          6.6394
+        ],
+        "transitions": 56,
+        "changed_gt_0_5": 44,
+        "near_dup_run": 1,
+        "mean_diff": 1.5793675595238095,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (toll plaza, blank panels, pocket ticket illegible)",
+      "verdict": "CANDIDATE*",
+      "notes": "MEASUREMENT REJECTED, parent confirmation requested: Whisper places 'toll' onset at 4.28, but visual shows mouth CLOSED at warped 4.0s and 4.3s and OPEN at 4.6s \u2014 onset is ~4.41, i.e. the scaled onset. Later boundaries match scaled within 0.04s (roads end 5.74 vs 5.679, are end 6.28 vs 6.264, dumb end 6.66 vs 6.639). Frame gate also PASS on the measured span (47/60, run 1, mean 1.5645). Verdict uses scaled ratio 0.80. If rejected, S20 falls back to FAIL. Pocket square orange-red (nit)."
+    },
+    {
+      "slot": "S17",
+      "take": "t2",
+      "source": "mv2_s17_t2.mp4",
+      "source_md5": "51d656b9cc0ad6b1698e2a0a2cdfd45f",
+      "orig_ratio": 0.611354,
+      "orig_span": [
+        0.0,
+        9.16
+      ],
+      "beat": "road gets meaner every time one lane flying other stuck",
+      "song": 5.6,
+      "factor": 1.3085,
+      "warped": "mv2_s17_t2_warped.mp4",
+      "warped_md5": "aa5e5a9b7e0c4d4ab79b911de6361669",
+      "frames": 185,
+      "duration": 7.708008,
+      "measured_span": [
+        0.0,
+        7.0
+      ],
+      "measured_ratio": 0.8,
+      "scaled_span": [
+        0.0,
+        7.0004
+      ],
+      "scaled_ratio": 0.799956,
+      "frame_gate": {
+        "span": [
+          0.0,
+          7.0
+        ],
+        "transitions": 169,
+        "changed_gt_0_5": 100,
+        "near_dup_run": 10,
+        "mean_diff": 1.477508218277449,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank panels, no legible words)",
+      "verdict": "CANDIDATE",
+      "notes": "Original v5 class was 'LINE-LEVEL, meaner garbled' ('me in her'); on warped audio Whisper hears 'meaner' cleanly with NO normalization applied \u2014 all 10 beat words matched in order. The warp itself resolved the garble perception. Gap 2.76-4.64 between 'time' and 'one' is the original mid-line pause, preserved by the warp."
+    },
+    {
+      "slot": "S14",
+      "take": "t2",
+      "source": "mv2_s14_t2.mp4",
+      "source_md5": "32302a49f6d3c9d0f95876700899655e",
+      "orig_ratio": 1.286853,
+      "orig_span": [
+        0.0,
+        5.02
+      ],
+      "beat": "fast lanes make crashes wrecks just come",
+      "song": 6.46,
+      "factor": 0.9713,
+      "warped": "mv2_s14_t2_warped.mp4",
+      "warped_md5": "1e4f1ac0006335d6e8b29409f3e9a005",
+      "frames": 247,
+      "duration": 10.316,
+      "measured_span": [
+        0.0,
+        5.16
+      ],
+      "measured_ratio": 1.251937984496124,
+      "scaled_span": [
+        0.0,
+        5.1683
+      ],
+      "scaled_ratio": 1.24992,
+      "frame_gate": {
+        "span": [
+          0.0,
+          5.16
+        ],
+        "transitions": 125,
+        "changed_gt_0_5": 56,
+        "near_dup_run": 9,
+        "mean_diff": 0.6330355555555555,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank panels; signal pictograms/arrows only, no legible words)",
+      "verdict": "CANDIDATE (borderline)",
+      "notes": "Measured 1.251938 rounds to 1.25 on the volley 2dp method \u2014 in band, borderline disclosed (miss +0.0019, span diff 0.008s, under one video frame). Frame mean 0.6330 is the lowest Batch2 gate value but comfortably above the 0.5 hard line. Warped duration 10.316s \u2014 assembly must trim."
+    },
+    {
+      "slot": "S19",
+      "take": "t2",
+      "source": "mv2_s19_t2.mp4",
+      "source_md5": "529a38d7d2096af7563e2dcdf29cc953",
+      "orig_ratio": 1.292969,
+      "orig_span": [
+        0.0,
+        5.12
+      ],
+      "beat": "fast lanes make crashes wrecks just come",
+      "song": 6.62,
+      "factor": 0.9667,
+      "warped": "mv2_s19_t2_warped.mp4",
+      "warped_md5": "31d7467e10f3422c0debc1d4ebb2a2f7",
+      "frames": 248,
+      "duration": 10.361,
+      "measured_span": [
+        0.0,
+        5.4
+      ],
+      "measured_ratio": 1.2259259259259259,
+      "scaled_span": [
+        0.0,
+        5.2964
+      ],
+      "scaled_ratio": 1.249913,
+      "frame_gate": {
+        "span": [
+          0.0,
+          5.4
+        ],
+        "transitions": 130,
+        "changed_gt_0_5": 63,
+        "near_dup_run": 2,
+        "mean_diff": 1.044503205128205,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank panels, no legible words)",
+      "verdict": "CANDIDATE",
+      "notes": "Measured ratio 1.2259 (in band); scaled 1.2499. Warped duration 10.361s \u2014 assembly must trim."
+    },
+    {
+      "slot": "S15",
+      "take": "t2",
+      "source": "mv2_s15_t2.mp4",
+      "source_md5": "b9fba786fec5b7b90827a62c1a67e2c1",
+      "orig_ratio": 1.350649,
+      "orig_span": [
+        0.0,
+        3.08
+      ],
+      "beat": "they just keep coming",
+      "song": 4.16,
+      "factor": 0.9255,
+      "warped": "mv2_s15_t2_warped.mp4",
+      "warped_md5": "3d61a2891fd36fe4e6e1c13d797ca6db",
+      "frames": 259,
+      "duration": 10.819,
+      "measured_span": [
+        0.0,
+        3.08
+      ],
+      "measured_ratio": 1.3506493506493507,
+      "scaled_span": [
+        0.0,
+        3.3279
+      ],
+      "scaled_ratio": 1.250026,
+      "frame_gate": {
+        "span": [
+          0.0,
+          3.3279
+        ],
+        "transitions": 81,
+        "changed_gt_0_5": 75,
+        "near_dup_run": 1,
+        "mean_diff": 2.671025377229081,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank sign panels, blank ticket)",
+      "verdict": "CANDIDATE*",
+      "notes": "MEASUREMENT REJECTED, parent confirmation requested: Whisper truncates the final word ('coming' end 3.08 vs scaled 3.328; first three boundaries match scaled within 0.02s \u2014 same signature as R4 t2's accepted truncation). Visual: mouth OPEN at warped 3.2s and 3.4s, past the measured end, where the original note says post-vocal hold is closed \u2014 so the vocal extends past 3.08. Frame gate also PASS on the measured span (69/75, run 1, mean 2.7499). Verdict uses scaled ratio 1.25. If rejected, S15 falls back to FAIL. Warped duration 10.819s \u2014 assembly must trim."
+    },
+    {
+      "slot": "S18",
+      "take": "t1",
+      "source": "mv2_s18_t1.mp4",
+      "source_md5": "343f3d893ebd56981460ca31a405a504",
+      "orig_ratio": 1.434783,
+      "orig_span": [
+        3.3,
+        8.36
+      ],
+      "beat": "somebody's going to get it when timing's up oh toll roads are dumb",
+      "song": 7.26,
+      "factor": 0.8712,
+      "warped": "mv2_s18_t1_warped.mp4",
+      "warped_md5": "7e08ca228eff093f1ac85a3a83e96f53",
+      "frames": 275,
+      "duration": 11.496,
+      "measured_span": [
+        3.84,
+        9.66
+      ],
+      "measured_ratio": 1.2474226804123711,
+      "scaled_span": [
+        3.7879,
+        9.596
+      ],
+      "scaled_ratio": 1.249983,
+      "frame_gate": {
+        "span": [
+          3.84,
+          9.66
+        ],
+        "transitions": 143,
+        "changed_gt_0_5": 62,
+        "near_dup_run": 2,
+        "mean_diff": 2.381635101010101,
+        "gate": "PASS"
+      },
+      "exactly_once": "PASS",
+      "text": "clean (blank panels, blank paper, no legible words)",
+      "verdict": "CANDIDATE",
+      "notes": "Measured 1.2474 is in band unrounded (not just on rounding). All 13 beat words matched; 'timing\\'s' normalized from take word 'timings' per the v5 record ('timings covers timing\\'s'); 'down'->'dumb' v5 class was available but not needed (Whisper heard 'dumb'). Warped duration 11.496s \u2014 assembly must trim to the vocal segment."
+    }
+  ]
+}

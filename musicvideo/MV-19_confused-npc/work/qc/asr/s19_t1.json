@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv19_s19_t1.mp4",
+ "words": [
+  {
+   "w": "Still",
+   "start": 0.0,
+   "end": 0.9,
+   "p": 0.781
+  },
+  {
+   "w": "nothing,",
+   "start": 0.9,
+   "end": 1.56,
+   "p": 0.978
+  },
+  {
+   "w": "still",
+   "start": 2.52,
+   "end": 3.52,
+   "p": 0.983
+  },
+  {
+   "w": "nothing.",
+   "start": 3.52,
+   "end": 3.98,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.98,
+   "text": "Still nothing, still nothing.",
+   "avg_logprob": -0.373
+  }
+ ]
+}

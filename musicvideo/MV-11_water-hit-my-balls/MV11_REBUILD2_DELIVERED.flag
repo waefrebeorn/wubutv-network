@@ -1,0 +1,58 @@
+MV-11 REBUILD 2 "THE BALL PARK" — DELIVERED
+User order: Telegram msg 305 (2026-11-12 03:38:43 EST) — full rebuild, no ducky,
+no toilet-becomes-bathtub, montage-first, puns + balls. 23/23 scenes KEEP.
+Assembly coordinator: fef733aa. Old MV-11 master untouched (new version filename).
+
+HOUSE MASTER
+  file: masters/mv11_water_hit_my_balls_rebuild2_16x9.mp4
+  md5:  3e914df3d92fabab317268d24609149e
+  size: 200502407 B (191.2 MB)
+  frames: 4138 exact / 172.417s / 1280x720 24fps h264 / AAC 48k stereo
+  encode: libx264 CRF 18 (x264 SEI crf=18.0), yuv420p, faststart moov@36
+  audio: track.mp4 sole master audio (take audio discarded)
+
+CHAT COPY (<=50 MB)
+  file: masters/mv11_water_hit_my_balls_rebuild2_16x9_50mb.mp4
+  md5:  06aef1d49ff3d33d26398624bdffd050
+  size: 40728025 B (38.8 MB), 4138f
+  audio md5 identical to house: 339ee5e99019926f9717f91bc53ac996 (AAC copied untouched)
+
+GATES (all PASS)
+  audio agreement vs track.mp4 (min corr >0.99): min 0.9977
+    @5s 0.9977 / @45s 0.9981 / @90s 0.9977 / @135s 0.9986 / @160s 0.9983
+  motion audit: 4138f, mean diff 17.06, ZERO near-still runs >=12f,
+    no FAIL-RANGE runs >=24f (during words or otherwise)
+  kinetic: 7 burned frames read at full res (15.0 / 22.5 / 27.0 / 47.5 /
+    99.0 / 133.0 / 171.5s) — no overflow, no cut words, no misplaced type;
+    0 double-backslash lines in the .ass (191 events, 33 lines, 125 words);
+    L15b 8-word CASCADE scaled fs 54->39 by the MV-13 FIT RULE (est 1516px -> 1095px)
+
+BUILD
+  23 segments, per-scene CRF-14 intermediates, manifest-checkpointed;
+  split final encode at S12/S13 (78.66s): half 1 1888f, half 2 2250f.
+  S07 mouth-anchored pieces (visible mouth at take 2.0s + 3.5s anchors the
+  song onsets; audio-phrase warp 0.53x rejected — would put the mouth 0.65s early).
+  Warps: max 1.0833x (S11), min 0.9722x (S07 p2) — inside the 2x / 0.5x caps.
+  Incidents: EDQUOT crash at S05 (12:02 EST, resumed, no data lost);
+  split-encode SIGTERM at the tail (both halves already complete on disk,
+  verified 1888f / 2250f before mux).
+
+REBUILD TALLY: volleys 1-5 closed 6/6, 5/6, 4/6, 5/6, 3/3 = 23 KEEP.
+  Rerolled rejects: S09 t1 (G2 booth signage), S13/S14 t1 (retired world —
+  bathtub+duck / toilet+duck), S17 t1 (not fired, internal worker error).
+
+DISCLOSED FLAWS (carried, all from the plan/ledger)
+  - S07: first ~0.9s of "Sitting" plays over the wide back view (mouth not
+    visible at the 0.00 onset; first visible mouth opens at take 2.0s).
+  - S16: freeze ~3-7s / shatter ~7s land early vs plan (~5.22 / ~8.92) —
+    disclosed soft alignment; CUTAWAY slot.
+  - S21: drop lands ~song 153.5, crown rises through the 153.60-155.06 patter
+    (take-time 2.0-6.06 placed onto the slot per the ledger note).
+  - S22: the 158s peak lands on the collapse, not the eruption (whole 10s used).
+  - S23: drop at take ~0.5s (song ~165.5s), calm bobbing tail to the last stab.
+  - Kinetic: "my" 72.34 dropped (zero-duration ASR merge artifact, not sung);
+    S16 "BALLS!" shout unmeasured in every pass — no slam; S17 has NO kinetic
+    (loop zone, no measurable words 111.82-122.38); L12a reads "Water hits balls".
+  - Split straddle: L12b "hits" slam (78.34-82.78) straddles the 78.66 half-split —
+    pops at 78.34, replays its 60ms scale-in at the S12/S13 cut, holds to 82.78.
+    Same class as MV-14's L18 straddle.

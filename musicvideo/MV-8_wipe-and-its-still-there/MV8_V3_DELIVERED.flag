@@ -1,0 +1,21 @@
+MV-8 v3 DELIVERED 2026-11-09 ~07:22 EST
+
+House master: masters/mv8_wipe_and_its_still_there_v3_16x9.mp4
+  md5 ef48baee7ef9e5d8c4b50fbe5b24f8e5
+  193,608,471 B, h264 1280x720 24fps, 4493 frames, 187.208008s
+  AAC 48k stereo 187.208000s, x264 SEI crf=18.0 (x2, split encode), faststart (moov@36)
+  Apex: crest on song frame 3826 by eye (apex-window take crest 6.04s, trim-in 2.605s)
+  No-reuse audit PASS; WIPE counter fixed, 0 mismatches; mouths open at word onsets (eye)
+
+Chat copy: masters/mv8_wipe_and_its_still_there_v3_16x9_50mb.mp4
+  md5 07ee1c9c9df93b3302850e7c1a54ad32
+  43,459,184 B, h264 1280x720 24fps, 4493 frames, 187.208008s
+  AAC copied untouched (audio md5 9825074e71692e4715dce62b1d9ad77b = house master), faststart (moov@36)
+
+Volleys: V1 5/6 KEEP + 1 REJECT (O-A apex horse), V2 5/6 KEEP + 1 REJECT (O-A approach c2 horse),
+  V3/V4/V5 6/6 KEEP. 28 KEEP + 2 REJECT. Stills G00-G15 16/16 PASS.
+Assembly coordinator c05ffc29 cancelled ~06:26 EST after building the master; parent finished delivery.
+Disclosed flaws: (1) style mismatch — 6 v2 inserts keep glossy-3D look vs flat bold 2D v3 montage (~27s);
+  (2) three transient PCHIP dips H2-B L16/L17, FH-A L20 (interval means >=0.5); (3) H2-A 3f held frame (take frame 0, no-word window);
+  (4) D-A dismount ~1.0s into duel (contiguous span kept); (5) O-B dam close shots: Champion's skin bright yellow.
+v1 and v2 both delivered and rejected — never re-deliver either.

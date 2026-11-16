@@ -1,0 +1,18 @@
+# MV-8 REBUILD v2 — Volley 1 vehicle: H1-A c2 (SINGING, image-line)
+# Scene: H1-A "Still There", song 5.97–22.08 (143–530f). This take covers L3 + dirty echoes.
+# Song line: L3 "Paper comes back dirty" 16.12–22.08 (+ "dirty" echoes to 22.08).
+# The line is SUNG (singer's mouth) AND an image-line: she holds up the white sheet
+# with the single glossy chocolate marker stroke (F01 prop) while she sings it.
+# Anchors: F_HERO_TEST_v2.jpg FIRST (identity anchor). Single-anchor call.
+# Duration: exactly 5 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white tunic,
+# full-length white trousers, white boots, bright yellow rubber gloves. The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — the sheet is already rising
+# in her hand and the camera already moving when the clip opens. No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, text entry):
+"16:9 widescreen, 1280x720, exactly 5 seconds. Glossy stylised 3D cartoon, soft studio lighting, porcelain white and warm gold world, chocolate brown as the antagonist colour, bright yellow the sole accent colour. Medium close-up, facing camera: the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, defined cheekbones and jaw, warm determined expression, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves. She holds up a plain white sheet of toilet paper with one single glossy chocolate-brown marker stroke across it, the sheet already rising in her yellow-gloved hand as the clip opens, camera already slowly pushing in, never still. From 0.5 to 4.5 seconds she sings clearly and articulately, mouth opening and closing on the words 'Paper comes back dirty', clear open mouth shapes on every syllable, visible jaw movement, no whispering, no mumbling. Her mouth is clearly visible and unobstructed throughout. After the final word her mouth closes and stays closed. No text, no logos, no extra limbs, no morphing, no children, no other characters."
+
+IMAGE ORDER: [F_HERO_TEST_v2.jpg] then the text above.

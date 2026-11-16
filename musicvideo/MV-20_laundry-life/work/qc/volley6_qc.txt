@@ -1,0 +1,18 @@
+mv20_s23_t2: G7=1.000 PASS span=0.00-8.54
+  raw: Still on the floor, I washed it, I dried it.
+  frame: frames=240 dur=10.00 vocal_mean_diff=0.73 worst_neardup_run=204f (8.50s) FAIL
+mv20_s24_t1: G7=1.000 PASS span=0.00-3.80
+  raw: And now I'm living out the basket
+  frame: frames=120 dur=5.00 vocal_mean_diff=5.47 worst_neardup_run=0f (0.00s) PASS
+mv20_s25_t1: G7=1.000 PASS span=0.00-3.74
+  raw: The laundry is clean, but it's still on the floor.
+  frame: frames=120 dur=5.00 vocal_mean_diff=14.51 worst_neardup_run=0f (0.00s) PASS
+mv20_s26_t1: G7=1.000 PASS span=0.00-7.82
+  raw: The laundry is clean but it's still on the floor floor
+  frame: frames=240 dur=10.00 vocal_mean_diff=5.77 worst_neardup_run=0f (0.00s) PASS
+mv20_s27_t1: G7=0.857 PASS span=0.00-8.44
+  raw: Living out the basket like a raccoon, like a raccoon.
+  frame: frames=240 dur=10.00 vocal_mean_diff=4.17 worst_neardup_run=7f (0.29s) PASS
+mv20_s28_t1: G7=1.000 PASS span=3.42-7.78
+  raw: the laundry is clean but it's still on the floor
+  frame: frames=240 dur=10.00 vocal_mean_diff=4.92 worst_neardup_run=0f (0.00s) PASS

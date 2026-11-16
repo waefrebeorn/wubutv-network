@@ -1,0 +1,48 @@
+## === AD-332 "NOTARIZED" (The Notary Desk) : v2 — NAMED VOICE CORRECTION ===
+
+CORRECTION (single axis — VOICE-TIMING, completion-bound): v1's utterance "Duly noted." ran ~8.0-9.2s with the mouth verified OPEN at 9.0s and voice-grade sound (harm 0.75) at 8.9-9.3s — past the 8.75s completion bound (COMPLETION-BOUND class). Everything else in v1 HELD (bug exact two lines, TEXT=none, crimp a plain mark, verdict reads, Colonel identity holds, camera frozen) and is carried over UNCHANGED. The ONLY change: the line is spoken SHORT and SNAPPY — the utterance's LAST sound lands NO LATER than 8.6s; his mouth is fully CLOSED by 8.75s and STAYS closed through 10s; NO voice-grade sound after 8.75s, ever; exactly ONE mouth opening for the line. The v2 re-fire changes NOTHING else — same desk, same document, same embosser, same tray, same Colonel, same framing, same bug.
+
+---
+
+
+Hand-painted 2D cartoon, thick black outlines, flat comic palette, 1970s public-access broadcast, VHS chroma bleed, scanlines. STYLE IS LOAD-BEARING: painted wood, painted paper, painted brass, thick black outlines on every edge — never photorealistic, never photographic shading, never camera grain. MOTION IS LOAD-BEARING: this is NOT a still — the embosser press at 4s-6s MUST render as visible motion and a visible state change; a take where the 0.5s and 9.5s documents match is a failed take.
+
+---
+
+SUBJECTS: the notary desk — one dark wooden desk (plain wood, unlettered), one green desk blotter (plain, unlettered), one unsigned document (one sheet of plain paper, blank, unlettered, lying flat on the blotter at 0.5s), one brass embosser press (a plain hand embosser, unlettered, standing on the desk at 0.5s), one wooden out-tray (plain wood, unlettered, empty at 0.5s). The document, the embosser, the tray exist ONLY on the desk — never on his person, never floating, never detached from the desk. This is NOTARIZING — pressing the document in the embosser to crimp a dry seal into the paper: one press, the crimp a plain raised mark, never letterforms, never an ink stamp, never a wax seal, never a stamp pad, never a signature — the seal is a dry crimp, the paper stays blank. The Colonel (stocky older man, full grey/white beard, navy dress uniform with plain brass buttons, bare-headed; irony in the words, deadpan throughout). He sits square to the lens behind the desk from 0s, the blotter before him, the document at hand. He never reacts beyond the deadpan line; his composure is the joke.
+
+---
+
+TIMELINE: [0s-10s] Locked off medium on the Colonel, the desk, the blotter, the document. OBJECT-FIRST opening: frame 1 lands on the unsigned blank document on the blotter before the Colonel. [0s-3s] the blank unsigned document on the blotter, the embosser standing idle, the out-tray empty — setup. [4s-6s] ONE notarizing — he takes up the document, feeds it into the brass embosser, presses the handle down ONCE with both hands, lifts the document out showing the crimped dry seal (a plain raised mark, no letterforms), never a frozen take; his hands staged at the desk through the sequence; the work stays at desk height, arms only, chest square. [6s-8s] the crimped document in his hand, the embosser standing idle again. [8s] he faces the lens deadpan, the document held flat, and says exactly one line: "Duly noted." — the line's first mouth-synced sound lands no earlier than 7.5s, the utterance COMPLETE BY 8.6s — the line spoken SHORT and SNAPPY, its LAST sound landing NO LATER than 8.6s; mouth fully CLOSED by 8.75s and STAYS closed through 10s; exactly ONE mouth opening for the line, mouth closed before and after; NO voice-grade sound after 8.75s, ever. [9.5s] the crimped document lying in the out-tray, his hands empty at rest on the desk, him facing the lens deadpan, mouth CLOSED — the filed paper is the verdict; the press bed at 4s-6s (one dull metal clunk, non-speech — directed sound), the ONE voice event at ~8s (the ONLY speech in the take, ever).
+
+---
+
+CAMERA: the framing is FROZEN — the same locked-off medium framing in every frame from 0s to 10s, no push in at any time, no pan, no cuts, no reframing, no progressive tightening; the 9.5s framing identical to the 0.5s framing; the Colonel, the desk, and the document fully visible in every frame including the 9.5s verdict frame.
+
+---
+
+AUDIO: quiet room tone 0s-10s; the press bed at 4s-6s (one dull metal clunk, non-speech — directed sound); exactly ONE voice event at ~8s = "Duly noted." (the ONLY vocalization in the take, ever). No music, no audience, no SFX not listed here.
+
+---
+
+LOAD-BEARING DETAIL: the blank unsigned document on the blotter at 0.5s; the notarizing in motion at 4-6s (the document fed into the embosser, the handle pressed down once, the document lifted out with the crimped dry seal — a plain raised mark, no letterforms); the crimped document lying in the out-tray at 9.5s, his hands empty at rest; exactly ONE mouth opening synced to the ONE voice event at ~8s (onset no earlier than 7.5s, LAST sound NO LATER than 8.6s, mouth fully closed by 8.75s and staying closed), mouth closed in every other frame; at 9.5s the filed paper — the crimped document in the tray is the verdict. The Colonel wears no hoodie — no wordmark gate applies to his uniform (navy dress uniform, plain brass buttons, unlettered).
+
+---
+
+SILENT-FRAME GAMBLE: blank sheet at 0.5s, crimped sheet in the tray at 9.5s — the notarizing reads with the sound off.
+
+---
+
+TEXT: allowlist = none — the document blank and unlettered in every frame, the crimp a plain raised mark with no letterforms, the embosser unlettered, the desk and blotter and tray bare and unlettered, the walls bare. The document and desk are TEXT MAGNETS — described as plain and unlettered in SUBJECTS + TEXT + NEGATIVE. Any desk dressing renders as wordless wood and paper, never lettering, never script (the wordless-wood clause, baked in by default).
+
+---
+
+Corner bug: EXACTLY TWO lines of plain WHITE text printed directly over the picture, no background, no plaque, no panel, no shape, no outline, no white box, no white chip, no dark letters, no television shape, no antennae, never red, never orange, never yellow, never gold, never pink, no words spelling corner, no word bug rendered, no meta-text describing the bug's spelling, no spelling-out of the tilde instruction as words, the doubled ~~ form forbidden in the bug, no third line under the bug — line one "~ WuBu ~" with exactly one tilde on each side, never doubled, nothing before the first tilde, nothing after the last tilde, the bug's line one spelled WITH SPACES — tilde, space, W-u-B-u, space, tilde; line two "WuBuTV" in full, never "TV" alone; bottom-right, never at the top, never at the left, every frame, fully opaque from frame 0, fixed position, never animated, identical in all 240 frames. The bug is legal ONLY at the frame's bottom-right corner — name BOTH the backing (none) and the placement (bottom-right corner).
+
+---
+
+CANON: the Colonel feeds the paper, presses once, files it, says the line deadpan — duly noted. LORE — THE NOTARY DESK: paper, pressed, becomes true.
+
+---
+
+NEGATIVE: no dissolves, no subtitles, no watermark other than the two-line overlay, no boxed bug, no chip-style bug, no dark-on-white bug, no background plate behind the bug, no words spelling corner, no word bug, no meta-text describing the bug's spelling, no spelling-out of the tilde instruction as words, no ~~ anywhere in the bug, no VHS caption, no third line under the bug, no invented text, no dark letters, no television shape, no antennae, never red, never orange, never yellow, never gold, never pink, no letter-shaped noise, no block lettering, no desk lettering, no blotter lettering, no document lettering, no wall lettering, no ink stamp, no stamp pad, no wax seal, no sealing wax, no signature, no signed name, no letterforms in the crimp, no ring letterforms anywhere, no second document, no second embosser, no second tray, no document on his person, no UNC, no hoodie, no wordmark, no second man, no second figure, no background extra, no quote marks, no apostrophes, no production-slate overlays, no day stamps, no time stamps, no REC indicators, no corner timecodes, no overlay graphics of any kind, no version tokens, no number tokens, no citation-style text, no voice event outside the ~8s line, no second utterance, no open mouth outside the line, no open mouth at or after 8.75s, no voice-grade sound at or after 8.75s ever, no photorealism, no photographic shading, no camera grain, no cloth mask, no licensed cartoon characters, no franchise faces, no animal mascots, no real people, no real logos, no voiceover, no music, no stinger.

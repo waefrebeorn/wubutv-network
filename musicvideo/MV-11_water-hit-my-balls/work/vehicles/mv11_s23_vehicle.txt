@@ -1,0 +1,17 @@
+MV-11 S23 — "Last Drop" (the final frame rhymes with the first)
+Song window: 165.06–172.42 (7.36s). Scene: OUT-B. Tag: CUTAWAY (outro,
+no vocal — user order 2026-11-09 ~22:04 EST).
+Vehicle v1. Fired in volley 5 — the FINAL scene of the build.
+Image-conditioned on work/stills/anchor_bowl_1248x704.webp (md5 c48c1079d5f254eb8114dc3a1720b686).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 7 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A toilet bowl made of BONE-WHITE porcelain — the rim and the whole porcelain body are pure bone white, NOT gold, NOT orange, NOT amber — filled with deep cobalt-blue water, calm and still, seen from above and to the side, in a stylized cartoon bathroom with deep teal wall tiles, warm lamp gold light, a vermilion towel on a hook, a small window with daylight. A yellow rubber duck with an orange beak sits still in the centre of the water. The picture is already moving at frame 0.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/anchor_bowl_1248x704.webp
+
+[3] TEXT:
+THE LAST DROP — the final frame rhymes with the first: the bowl is calm and still, the yellow duck sitting motionless in the centre, the lamp warm. One single water drop falls from above in slow motion and lands in the centre of the still bowl; one last ring blooms outward, wide and slow, and fades. The duck does not move — it rides the ring out in perfect stillness. The room holds its breath, the water settles back to glass, and the picture ends on the calm bowl exactly as the video began. The camera holds steady, never stopping, the water shimmering gently. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing. Cut clean on the last stab.
+
+NOTES: lines covered: final "Balls" + last two stabs, cut clean. Kinetic in post: — (no words). ASSEMBLY: slot is 7.36s; request 7s, use the first ~7.4s. QC HARD GATE: the rim must read bone white throughout — same bowl-identity gate as S22 t2.

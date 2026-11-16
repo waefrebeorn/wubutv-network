@@ -1,0 +1,7 @@
+mix: 161.60s (7126560 samples), sr 44100
+peak 0.8769
+mixture 7145472 samples, step 195840, chunks 37
+input slot 0, output slot 0, 173 instructions
+  chunk 25/37  121.2s (model 119.8s, stft 0.9s)
+  chunk 30/37  212.5s (model 210.3s, stft 1.7s)
+dump done: 10 chunks written, 0 skipped (already on disk), 212.5s wall; chunks 20-29 of 37

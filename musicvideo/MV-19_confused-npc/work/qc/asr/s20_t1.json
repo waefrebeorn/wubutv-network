@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv19_s20_t1.mp4",
+ "words": [
+  {
+   "w": "Might",
+   "start": 1.06,
+   "end": 2.02,
+   "p": 0.701
+  },
+  {
+   "w": "as",
+   "start": 2.02,
+   "end": 2.28,
+   "p": 0.995
+  },
+  {
+   "w": "well",
+   "start": 2.28,
+   "end": 2.64,
+   "p": 0.996
+  },
+  {
+   "w": "just",
+   "start": 2.64,
+   "end": 3.1,
+   "p": 0.988
+  },
+  {
+   "w": "leave",
+   "start": 3.1,
+   "end": 3.62,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 3.62,
+   "end": 4.14,
+   "p": 0.933
+  },
+  {
+   "w": "try",
+   "start": 4.14,
+   "end": 4.5,
+   "p": 0.998
+  },
+  {
+   "w": "it",
+   "start": 4.5,
+   "end": 5.0,
+   "p": 0.987
+  },
+  {
+   "w": "again.",
+   "start": 5.0,
+   "end": 5.38,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 1.06,
+   "end": 5.38,
+   "text": "Might as well just leave and try it again.",
+   "avg_logprob": -0.223
+  }
+ ]
+}

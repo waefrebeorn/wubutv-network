@@ -1,0 +1,164 @@
+{
+ "track": "work/qc_v7/mv7_s04_t1_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 24,
+ "words": [
+  {
+   "word": "Been",
+   "start": 0.0,
+   "end": 0.6,
+   "prob": 0.543
+  },
+  {
+   "word": "here",
+   "start": 0.6,
+   "end": 1.06,
+   "prob": 0.999
+  },
+  {
+   "word": "so",
+   "start": 1.06,
+   "end": 1.42,
+   "prob": 0.993
+  },
+  {
+   "word": "long",
+   "start": 1.42,
+   "end": 1.9,
+   "prob": 0.998
+  },
+  {
+   "word": "I",
+   "start": 1.9,
+   "end": 2.3,
+   "prob": 0.663
+  },
+  {
+   "word": "could",
+   "start": 2.3,
+   "end": 2.46,
+   "prob": 0.992
+  },
+  {
+   "word": "sign",
+   "start": 2.46,
+   "end": 2.86,
+   "prob": 0.977
+  },
+  {
+   "word": "back",
+   "start": 2.86,
+   "end": 3.22,
+   "prob": 0.997
+  },
+  {
+   "word": "in",
+   "start": 3.22,
+   "end": 3.7,
+   "prob": 0.992
+  },
+  {
+   "word": "Made",
+   "start": 4.44,
+   "end": 5.16,
+   "prob": 0.749
+  },
+  {
+   "word": "a",
+   "start": 5.16,
+   "end": 5.36,
+   "prob": 0.999
+  },
+  {
+   "word": "joke",
+   "start": 5.36,
+   "end": 5.68,
+   "prob": 0.996
+  },
+  {
+   "word": "at",
+   "start": 5.68,
+   "end": 5.9,
+   "prob": 0.956
+  },
+  {
+   "word": "a",
+   "start": 5.9,
+   "end": 6.02,
+   "prob": 0.985
+  },
+  {
+   "word": "quarter",
+   "start": 6.02,
+   "end": 6.32,
+   "prob": 0.997
+  },
+  {
+   "word": "past",
+   "start": 6.32,
+   "end": 6.76,
+   "prob": 0.986
+  },
+  {
+   "word": "eight",
+   "start": 6.76,
+   "end": 7.24,
+   "prob": 0.907
+  },
+  {
+   "word": "watched",
+   "start": 7.24,
+   "end": 8.02,
+   "prob": 0.525
+  },
+  {
+   "word": "it",
+   "start": 8.02,
+   "end": 8.24,
+   "prob": 0.996
+  },
+  {
+   "word": "sit",
+   "start": 8.24,
+   "end": 8.42,
+   "prob": 0.994
+  },
+  {
+   "word": "there",
+   "start": 8.42,
+   "end": 8.82,
+   "prob": 0.998
+  },
+  {
+   "word": "while",
+   "start": 8.82,
+   "end": 9.08,
+   "prob": 0.995
+  },
+  {
+   "word": "I",
+   "start": 9.08,
+   "end": 9.32,
+   "prob": 0.983
+  },
+  {
+   "word": "wait",
+   "start": 9.32,
+   "end": 9.68,
+   "prob": 0.982
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.7,
+   "text": "Been here so long I could sign back in"
+  },
+  {
+   "start": 4.44,
+   "end": 9.68,
+   "text": "Made a joke at a quarter past eight watched it sit there while I wait"
+  }
+ ]
+}

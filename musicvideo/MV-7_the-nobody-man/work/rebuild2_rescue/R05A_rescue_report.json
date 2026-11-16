@@ -1,0 +1,58 @@
+{
+ "take": "R05A",
+ "line": "V1.1 I got a profile, got a pile",
+ "song_window": [
+  19.58,
+  22.38
+ ],
+ "song_span_s": 2.8,
+ "take_span_s": 5.3,
+ "overall_speedup": 1.893,
+ "head_reanchor": {
+  "audio_onset": 0.0,
+  "visible_mouth_frame": 0,
+  "visible_mouth_t": 0.0,
+  "shift_s": 0.0,
+  "mouth_score_thr": 0.015
+ },
+ "anchors_used": 7,
+ "words": 7,
+ "keyframes_take_to_song": [
+  [
+   0.0,
+   0.0
+  ],
+  [
+   1.5,
+   0.72
+  ],
+  [
+   1.78,
+   1.1
+  ],
+  [
+   2.0,
+   1.22
+  ],
+  [
+   3.66,
+   2.06
+  ],
+  [
+   4.5,
+   2.28
+  ],
+  [
+   4.66,
+   2.42
+  ],
+  [
+   5.3,
+   2.8
+  ]
+ ],
+ "rescue_frames": 67,
+ "motion_mean_diff_small": 2.685,
+ "motion_max_neardup_run_frames": 1,
+ "mouthgate_grid": "R05A_mouthgate.jpg (rows = song words in order; left = onset, right = onset+1; crop x30-62% y26-60%)"
+}

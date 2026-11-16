@@ -1,0 +1,46 @@
+{
+ "take": "R35",
+ "line": "FC.7 I'm The Nobody Man",
+ "song_window": [
+  157.84,
+  159.7
+ ],
+ "song_span_s": 1.86,
+ "take_span_s": 3.5,
+ "overall_speedup": 1.882,
+ "head_reanchor": {
+  "audio_onset": 0.0,
+  "visible_mouth_frame": 0,
+  "visible_mouth_t": 0.0,
+  "shift_s": 0.0,
+  "mouth_score_thr": 0.0687
+ },
+ "anchors_used": 4,
+ "words": 4,
+ "keyframes_take_to_song": [
+  [
+   0.0,
+   0.0
+  ],
+  [
+   1.82,
+   0.36
+  ],
+  [
+   2.34,
+   0.52
+  ],
+  [
+   2.86,
+   1.28
+  ],
+  [
+   3.5,
+   1.86
+  ]
+ ],
+ "rescue_frames": 45,
+ "motion_mean_diff_small": 5.674,
+ "motion_max_neardup_run_frames": 1,
+ "mouthgate_grid": "R35_mouthgate.jpg (rows = song words in order; left = onset, right = onset+1; crop x30-62% y26-60%)"
+}

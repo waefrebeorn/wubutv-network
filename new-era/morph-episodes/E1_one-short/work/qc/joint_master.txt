@@ -1,0 +1,8 @@
+master: frames decoded: 1441, mae series: 1440
+baseline 95th pct: 11.46  median: 5.86 (n=54)
+head-window p25: 2.74
+J1 cut@240: seam MAE 1.13 [PASS]  head-12 8.86 item6(dist-relative) PASS
+J2 cut@480: seam MAE 1.90 [PASS]  head-12 15.15 item6(dist-relative) PASS
+J3 cut@720: seam MAE 0.80 [PASS]  head-12 8.60 item6(dist-relative) PASS
+J4 cut@960: seam MAE 1.87 [PASS]  head-12 14.97 item6(dist-relative) PASS
+J5 cut@1200: seam MAE 0.89 [PASS]  head-12 14.05 item6(dist-relative) PASS

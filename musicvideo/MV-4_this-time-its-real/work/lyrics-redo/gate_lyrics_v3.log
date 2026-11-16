@@ -1,0 +1,41 @@
+NEW: 5731f 238.805s 1280x720 h264 24/1 aac=aac 48000Hz 2ch crf=18.0 faststart=True size=129340998
+BASE: 5731f 238.805s 1280x720 h264 24/1 aac=aac 48000Hz 2ch crf=18.0 faststart=True size=130091539
+audio PCM md5: new=dc29cad83fa22b35a17cc3bf1de85d7a base=dc29cad83fa22b35a17cc3bf1de85d7a match=True
+motion audit (runs >=12f):
+  NEW    30.92-  32.04  27f
+  NEW    74.25-  74.79  13f
+  NEW    76.42-  77.08  16f
+  NEW   130.12- 130.62  12f
+  NEW   141.58- 142.12  13f
+  NEW   155.79- 156.62  20f
+  NEW   158.17- 158.92  18f
+  BASE   25.92-  26.46  13f
+  BASE   30.92-  32.04  27f
+  BASE   74.25-  74.75  12f
+  BASE   76.42-  77.08  16f
+  BASE  133.21- 133.79  14f
+  BASE  155.79- 156.62  20f
+  BASE  158.17- 158.79  15f
+  no NEW >=24f runs
+regression — alignment-aware (top half, 640x360 gray):
+  For each sample time, NEW's center frame vs BASE's center +-2.
+  PASS = offset 0 is the best match (or tied within 0.10) AND
+  offset-0 top-half mean|diff| < 1.5. A real frame offset or
+  content change shows as a large jump at offset 0 (6-14 on
+  fast-motion frames) and the best match moving to +-1/+-2.
+  (Measured 2026-11-12: x264 re-encode noise at offset 0 runs
+  0.000-1.117 on these samples; a <1.0 FULL-RES bar was too
+  strict for a re-encode and is retired.)
+    20.00s  offsets -2:0.244 -1:0.150 +0:0.000 +1:0.044 +2:0.328  best=+0  PASS
+    63.59s  offsets -2:2.606 -1:6.006 +0:0.878 +1:1.250 +2:3.028  best=+0  PASS
+   100.00s  offsets -2:0.789 -1:0.589 +0:0.617 +1:0.628 +2:0.661  best=-1  PASS
+   156.89s  offsets -2:0.300 -1:0.078 +0:0.000 +1:0.017 +2:0.056  best=+0  PASS
+   200.00s  offsets -2:2.183 -1:1.072 +0:0.000 +1:0.000 +2:1.478  best=+0  PASS
+   225.91s  offsets -2:14.694 -1:12.906 +0:1.117 +1:11.006 +2:13.928  best=+0  PASS
+regression — wordless/captionless gaps (full frame, 1280x720 RGB, bar <2.0):
+  (bar raised: full-res re-encode noise on moving frames runs 1.0-1.7;
+  the 221.26-230.56 gap is excluded — the old L57 block covers it.)
+    31.61s  mean|diff|=0.759  PASS
+    63.59s  mean|diff|=1.737  PASS
+   156.89s  mean|diff|=0.682  PASS
+GATES: ALL PASS

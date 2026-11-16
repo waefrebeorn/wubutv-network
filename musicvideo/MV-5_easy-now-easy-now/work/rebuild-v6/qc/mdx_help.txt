@@ -1,0 +1,14 @@
+usage: mdx_onnx_cpu.py [-h] [--out-inst OUT_INST] [--excerpt EXCERPT]
+                       [--threads THREADS]
+                       model input_wav out_vocals
+
+positional arguments:
+  model
+  input_wav
+  out_vocals
+
+options:
+  -h, --help           show this help message and exit
+  --out-inst OUT_INST
+  --excerpt EXCERPT    only process the first N seconds (validation)
+  --threads THREADS

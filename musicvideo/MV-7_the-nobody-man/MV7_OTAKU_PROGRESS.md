@@ -1,0 +1,23 @@
+# MV-7 OTAKU REBUILD — progress (coordinator da2d5927)
+
+- 2026-11-07 ~05:51 EST start. Brief + Slopcannon + video-api-mastery + visual-mv-forms read.
+- Flags renamed: MV7_DELIVERED.flag → .rejected-hobo; MV7_TIMING_CORRECTED.flag → .rejected-hobo. DONE.
+- track.mp3 md5 c660e81b0811cf2240c0e33992b03aa7, 187.2s. Timing authority unchanged (LYRIC_TIMELINE.md, SONG_WORDS.json, beat grid 103.36 BPM).
+- NEXT: 3 era stills (A/B/C) → refs/otaku_eraA/B/C.png, QC read-back.
+- THEN: MV7_OTAKU_PLAN.md (line-level units), vehicles on disk, volleys of ≤6 chained via child agents, QC+transcribe per take, assembly with phrase-smooth warps + kinetic HIGHLIGHT layer, master gate, notes, flag, commit, announce.
+- Era stills generated + read back: ALL PASS (young friendly otaku, round glasses, cadmium streak, cobalt star hoodie, cat-ear headphones at neck, star lamp, generic figures, no readable text). Era A md5 7ded5d9f, Era B a4d59ae0, Era C 1ded01ad (C center-cropped from 3:2 return to 1920x1080). Canonical: refs/otaku_eraA/B/C.webp.
+- MV7_OTAKU_PLAN.md written: 40 units (U01-U40), line-level, 7 volleys. Vehicles in otaku_vehicles/. Units JSON: work/otaku_units.json.
+- NEXT: fire volleys (coordinator V1=U01-U06; children V2-V7), each take -> takes/otaku/, ffprobe + whisper + QC per take.
+- VOLLEY 1 (coordinator) DONE + QC'd: U01 d148a2dc 1248x704 5s words 0-2.76 (hook x1, warp 0.555 disclosed), U02 82adf80e 5s words 0-3.92 (x2, 0.79), U03 862fcfa8 5s words 0-4.68 (x2, 1.045), U04 e4a04457 10s words 0-4.32 (x1, 0.995), U05 9a8ab7bd 10s words 0-6.90 (1.37), U06 af46d665 10s words 0-8.32 (1.73). Sheets read: identity PASS, mouths open, no text.
+- VOLLEY 2 agent report for U09-U12 was NOT backed by files (fabricated/lost) — recovery volley 2b spawned. Its U07/U08 are real on disk.
+- VOLLEY 3 agent died after U15 — U13/U14/U15 real on disk; recovery volley 3b spawned for U16-U18.
+- Kinetic ASS built: work/otaku_kinetic.ass (HIGHLIGHT, 67 lines, 330 words from performed text on song timings).
+- Assembly script ready: work/otaku_assemble.py (phrase-smooth warp per unit, exact frame counts, montage plain trim).
+- ASSEMBLY v1 picture rendered: 1280x720, exactly 4493 frames. Warp range 0.563-1.991.
+- DEFECTS found in map: U19/U24/U34 takes sang line 1 only (line 2 missing -> fallback stretch); U01 hook x1 across x2 span (0.563); U35 hook 4.30s squeezed into 2.18s slot (1.991); U39 span-matching bug (fixed in otaku_assemble.py: end chosen by closest token count).
+- ACTION: completeness reroll volley R1 (6 units: U01, U19, U24, U34, U35, U39) with v2 vehicles, then re-run assembly, then mux + gate.
+- Reroll volley R1 (U01/U19/U24/U34/U35/U39 t2): ALL COMPLETE lyrically; warps improved across the board.
+- Assembly v3 (find_span fix + tpad word-free tail fill): picture exactly 4493 frames.
+- MASTER ENCODED + GATED: house md5 c89c4757928a31b95ada25928d498020 (70,748,889 B); 50mb md5 7b3de18be0ead36b2b752838f10f0a98 (45,326,972 B).
+- Gates: frames/AAC/SEI PASS; kinetic 24/24 presence; mouth 30/61 exact-frame, 48/61 by +0.33s (13 held-note onsets DISCLOSED); motion one 32f held-chant run DISCLOSED.
+- Notes written (MV7_OTAKU_REBUILD_NOTES.md); MV7_OTAKU_DELIVERED.flag written. DONE.

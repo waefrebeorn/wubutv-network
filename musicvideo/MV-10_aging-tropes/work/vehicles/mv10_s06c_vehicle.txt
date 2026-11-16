@@ -1,0 +1,16 @@
+MV-10 S06c — "It Sucks to Get Old / Bass Don't Quit" (verse 2, tail)
+Song window: 79.74–87.88 (line 79.74–87.88). Scene: V2-A. Tag: SINGING.
+Vehicle v1. Fired in volley 3, second.
+Image-conditioned on work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A quiet bedroom at night, deep night blue, warm lamp gold light, a water glass glowing on the nightstand by the bed. The old man from the reference image — lean, sharp nose, dark messy hair grey at the temples, deeper lines, grey stubble, navy cardigan, slippers, reading glasses on a chain around his neck, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — stands facing camera in medium close-up, mouth clearly visible and unobstructed, the bass thumping softly under the floor, his cardigan swaying on the downbeats.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[3] TEXT:
+From 0.0 to 8.1 seconds he sings clearly and articulately, mouth opening and closing on the words "It sucks to get old, it sucks to get old, but the bass don't quit", facing camera, slow and tired, swaying gently on the downbeats. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. His head stays facing camera for the entire clip — he never turns to profile, never looks away, his face stays front-on through the final words "bass don't quit" at the end of the line, mouth open on those words. The camera is locked-off for the entire clip — steady, no drift, no pan, no push-in, no movement at all during the singing. His black phone with the cracked corner stays in his right hand for the entire clip, and the plain solid cadmium yellow wristband with no numbers and no text stays on his left wrist for the entire clip. His mouth remains closed and still before the first word. After the final word the mouth closes and stays closed for the remainder of the clip, a clean held pose, his eyes toward the water glass on the nightstand. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: line verified against analysis/SONG_WORDS.json: "it sucks to get old" 79.74–82.08, "it sucks to get old" 82.26–85.42, "but the bass don't quit" 85.90–87.88 (ASR hears "base" — sheet is "bass"). Same facing/staging discipline as the S02 v2 fix: head locked front-on, camera locked-off, no turn, no walk during the vocal window. The "sucks" hits are 80.12 / 82.52 — mouth open on both.

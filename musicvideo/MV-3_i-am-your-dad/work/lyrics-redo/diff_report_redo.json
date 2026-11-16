@@ -1,0 +1,2069 @@
+{
+ "lines": [
+  {
+   "line": "L01",
+   "old_span": [
+    2.82,
+    9.0
+   ],
+   "new_span": [
+    2.82,
+    9.12
+   ],
+   "old_text": "Listen, all of you",
+   "new_text": "Listen, all of you",
+   "old_words": 4,
+   "new_words": 4,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L02",
+   "old_span": [
+    9.32,
+    18.34
+   ],
+   "new_span": [
+    9.32,
+    18.38
+   ],
+   "old_text": "You already know, I am your dad",
+   "new_text": "You already know, I am your dad",
+   "old_words": 7,
+   "new_words": 7,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": [
+    [
+     3,
+     "i",
+     14.22,
+     13.56,
+     -0.66
+    ]
+   ]
+  },
+  {
+   "line": "L03",
+   "old_span": [
+    32.16,
+    35.72
+   ],
+   "new_span": [
+    32.16,
+    36.36
+   ],
+   "old_text": "I been here the whole time, kid, looking right at you",
+   "new_text": "I been here the whole time, kid, looking right at you",
+   "old_words": 11,
+   "new_words": 11,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L04",
+   "old_span": [
+    36.56,
+    39.74
+   ],
+   "new_span": [
+    36.56,
+    40.06
+   ],
+   "old_text": "Old man on the corner, old man in the room",
+   "new_text": "Old man on the corner, old man in the room",
+   "old_words": 10,
+   "new_words": 10,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L05",
+   "old_span": [
+    40.06,
+    44.26
+   ],
+   "new_span": [
+    40.06,
+    44.08
+   ],
+   "old_text": "You walk by, you scroll by, you turn the radio on",
+   "new_text": "You walk by, you scroll by, you turn the radio on",
+   "old_words": 11,
+   "new_words": 11,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L06",
+   "old_span": [
+    44.26,
+    47.6
+   ],
+   "new_span": [
+    44.1,
+    47.6
+   ],
+   "old_text": "And the voice in the speaker says the same thing all along",
+   "new_text": "And the voice in the speaker says the same thing all along",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L07",
+   "old_span": [
+    48.12,
+    50.96
+   ],
+   "new_span": [
+    48.12,
+    51.3
+   ],
+   "old_text": "I raised you in the dark, I raised you in the light",
+   "new_text": "I raised you in the dark, I raised you in the light",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L08",
+   "old_span": [
+    51.76,
+    54.38
+   ],
+   "new_span": [
+    51.76,
+    55.14
+   ],
+   "old_text": "I raised every face that is listening tonight",
+   "new_text": "I raised every face that is listening tonight",
+   "old_words": 8,
+   "new_words": 8,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L09",
+   "old_span": [
+    55.14,
+    62.2
+   ],
+   "new_span": [
+    55.14,
+    62.2
+   ],
+   "old_text": "You don't have to like it, you don't have to stay, but the words keep coming and they won't go away",
+   "new_text": "You don't have to like it, you don't have to stay, but the words keep coming and they won't go away",
+   "old_words": 21,
+   "new_words": 21,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L10",
+   "old_span": [
+    62.64,
+    67.9
+   ],
+   "new_span": [
+    62.64,
+    69.94
+   ],
+   "old_text": "I am your dad, I am your dad, say it with me",
+   "new_text": "I am your dad, I am your dad, say it with me, I am your dad",
+   "old_words": 12,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [],
+   "added": [
+    [
+     12,
+     "i",
+     68.36
+    ],
+    [
+     13,
+     "am",
+     68.5
+    ],
+    [
+     14,
+     "your",
+     69.02
+    ],
+    [
+     15,
+     "dad",
+     69.26
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L11",
+   "old_span": [
+    68.36,
+    75.48
+   ],
+   "new_span": [
+    70.28,
+    76.28
+   ],
+   "old_text": "I am your dad, you're hearing once, you're hearing twice, now it lives inside",
+   "new_text": "You hear it once, you hear it twice, now it lives inside, I am your dad",
+   "old_words": 14,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [
+    [
+     0,
+     "i",
+     "you",
+     70.28
+    ],
+    [
+     1,
+     "am",
+     "hear",
+     70.7
+    ],
+    [
+     2,
+     "your",
+     "it",
+     70.92
+    ],
+    [
+     3,
+     "dad",
+     "once",
+     71.28
+    ],
+    [
+     4,
+     "you're",
+     "you",
+     71.7
+    ],
+    [
+     5,
+     "hearing",
+     "hear",
+     72.64
+    ],
+    [
+     6,
+     "once",
+     "it",
+     72.84
+    ],
+    [
+     7,
+     "you're",
+     "twice",
+     73.18
+    ],
+    [
+     8,
+     "hearing",
+     "now",
+     73.62
+    ],
+    [
+     9,
+     "twice",
+     "it",
+     74.24
+    ],
+    [
+     10,
+     "now",
+     "lives",
+     74.46
+    ],
+    [
+     11,
+     "it",
+     "inside",
+     74.84
+    ],
+    [
+     12,
+     "lives",
+     "i",
+     75.55
+    ],
+    [
+     13,
+     "inside",
+     "am",
+     75.75
+    ]
+   ],
+   "added": [
+    [
+     14,
+     "your",
+     75.95
+    ],
+    [
+     15,
+     "dad",
+     76.15
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L12",
+   "old_span": [
+    76.28,
+    82.9
+   ],
+   "new_span": [
+    76.28,
+    85.06
+   ],
+   "old_text": "I am your dad, I am your dad, don't fight the feeling, I am your dad",
+   "new_text": "I am your dad, I am your dad, every one of you, I am your dad",
+   "old_words": 16,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [
+    [
+     8,
+     "don't",
+     "every",
+     81.6
+    ],
+    [
+     9,
+     "fight",
+     "one",
+     81.95
+    ],
+    [
+     10,
+     "the",
+     "of",
+     82.32
+    ],
+    [
+     11,
+     "feeling",
+     "you",
+     82.6
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L13",
+   "old_span": [
+    82.92,
+    87.5
+   ],
+   "new_span": [
+    85.26,
+    92.9
+   ],
+   "old_text": "I am your dad, I am your dad",
+   "new_text": "Don't fight the feeling, just let it in, I am your dad, I am your dad",
+   "old_words": 8,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [
+    [
+     0,
+     "i",
+     "don't",
+     85.26
+    ],
+    [
+     1,
+     "am",
+     "fight",
+     85.96
+    ],
+    [
+     2,
+     "your",
+     "the",
+     86.4
+    ],
+    [
+     3,
+     "dad",
+     "feeling",
+     86.7
+    ],
+    [
+     4,
+     "i",
+     "just",
+     87.52
+    ],
+    [
+     5,
+     "am",
+     "let",
+     87.74
+    ],
+    [
+     6,
+     "your",
+     "it",
+     88.26
+    ],
+    [
+     7,
+     "dad",
+     "in",
+     88.56
+    ]
+   ],
+   "added": [
+    [
+     8,
+     "i",
+     89.42
+    ],
+    [
+     9,
+     "am",
+     89.74
+    ],
+    [
+     10,
+     "your",
+     90.24
+    ],
+    [
+     11,
+     "dad",
+     90.7
+    ],
+    [
+     12,
+     "i",
+     91.58
+    ],
+    [
+     13,
+     "am",
+     91.9
+    ],
+    [
+     14,
+     "your",
+     92.22
+    ],
+    [
+     15,
+     "dad",
+     92.42
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L14",
+   "old_span": [
+    90.66,
+    97.7
+   ],
+   "new_span": [
+    92.96,
+    97.7
+   ],
+   "old_text": "You got your real one maybe, or maybe you don't",
+   "new_text": "You got your real one, maybe, or maybe you don't",
+   "old_words": 10,
+   "new_words": 10,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L15",
+   "old_span": [
+    98.5,
+    99.76
+   ],
+   "new_span": [
+    97.7,
+    101.4
+   ],
+   "old_text": "Matter to me, the message is the point",
+   "new_text": "Don't matter to me, the message is the point",
+   "old_words": 8,
+   "new_words": 9,
+   "stem_pending": false,
+   "changed": [
+    [
+     0,
+     "matter",
+     "don't",
+     97.7
+    ],
+    [
+     1,
+     "to",
+     "matter",
+     98.42
+    ],
+    [
+     2,
+     "me",
+     "to",
+     98.78
+    ],
+    [
+     3,
+     "the",
+     "me",
+     99.1
+    ],
+    [
+     4,
+     "message",
+     "the",
+     99.68
+    ],
+    [
+     5,
+     "is",
+     "message",
+     99.78
+    ],
+    [
+     6,
+     "the",
+     "is",
+     100.22
+    ],
+    [
+     7,
+     "point",
+     "the",
+     100.58
+    ]
+   ],
+   "added": [
+    [
+     8,
+     "point",
+     100.84
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L16",
+   "old_span": [
+    99.68,
+    108.92
+   ],
+   "new_span": [
+    101.4,
+    108.96
+   ],
+   "old_text": "I walk through the speakers, brass hits on the one and the three",
+   "new_text": "I walk through the speakers, I sit in the beat, slap bass under, brass hits on the one and the three",
+   "old_words": 13,
+   "new_words": 21,
+   "stem_pending": false,
+   "changed": [
+    [
+     5,
+     "brass",
+     "i",
+     103.5
+    ],
+    [
+     6,
+     "hits",
+     "sit",
+     103.88
+    ],
+    [
+     7,
+     "on",
+     "in",
+     104.18
+    ],
+    [
+     9,
+     "one",
+     "beat",
+     104.84
+    ],
+    [
+     10,
+     "and",
+     "slap",
+     105.36
+    ],
+    [
+     11,
+     "the",
+     "bass",
+     105.54
+    ],
+    [
+     12,
+     "three",
+     "under",
+     105.86
+    ]
+   ],
+   "added": [
+    [
+     13,
+     "brass",
+     106.2
+    ],
+    [
+     14,
+     "hits",
+     106.7
+    ],
+    [
+     15,
+     "on",
+     107.12
+    ],
+    [
+     16,
+     "the",
+     107.48
+    ],
+    [
+     17,
+     "one",
+     107.68
+    ],
+    [
+     18,
+     "and",
+     108.04
+    ],
+    [
+     19,
+     "the",
+     108.42
+    ],
+    [
+     20,
+     "three",
+     108.64
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L17",
+   "old_span": [
+    108.92,
+    115.9
+   ],
+   "new_span": [
+    108.92,
+    115.9
+   ],
+   "old_text": "You try to skip it, but you try to change the song, but the phrase comes back and it doesn't take long",
+   "new_text": "You try to skip it, but you try to change the song, but the phrase comes back and it doesn't take long",
+   "old_words": 22,
+   "new_words": 22,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L18",
+   "old_span": [
+    116.14,
+    123.4
+   ],
+   "new_span": [
+    116.14,
+    123.6
+   ],
+   "old_text": "Short words, easy words, the kind that sticks fast, I am your dad, and the song will last",
+   "new_text": "Short words, easy words, the kind that sticks fast, I am your dad, and the song will last",
+   "old_words": 18,
+   "new_words": 18,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L19",
+   "old_span": [
+    123.74,
+    128.9
+   ],
+   "new_span": [
+    123.74,
+    129.38
+   ],
+   "old_text": "I am your dad, I am your dad, say it with me",
+   "new_text": "I am your dad, I am your dad, say it with me",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L20",
+   "old_span": [
+    129.46,
+    135.8
+   ],
+   "new_span": [
+    129.46,
+    136.52
+   ],
+   "old_text": "I am your dad, you're hearing once, you're hearing twice, now it lives inside",
+   "new_text": "I am your dad, you hear it once, you hear it twice, now it lives inside",
+   "old_words": 14,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [
+    [
+     4,
+     "you're",
+     "you",
+     131.06
+    ],
+    [
+     5,
+     "hearing",
+     "hear",
+     131.8
+    ],
+    [
+     6,
+     "once",
+     "it",
+     132.06
+    ],
+    [
+     7,
+     "you're",
+     "once",
+     132.36
+    ],
+    [
+     8,
+     "hearing",
+     "you",
+     132.8
+    ],
+    [
+     9,
+     "twice",
+     "hear",
+     133.72
+    ],
+    [
+     10,
+     "now",
+     "it",
+     133.94
+    ],
+    [
+     11,
+     "it",
+     "twice",
+     134.2
+    ],
+    [
+     12,
+     "lives",
+     "now",
+     134.66
+    ],
+    [
+     13,
+     "inside",
+     "it",
+     135.3
+    ]
+   ],
+   "added": [
+    [
+     14,
+     "lives",
+     135.56
+    ],
+    [
+     15,
+     "inside",
+     135.9
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L21",
+   "old_span": [
+    136.52,
+    143.8
+   ],
+   "new_span": [
+    136.52,
+    146.08
+   ],
+   "old_text": "I am your dad, I am your dad, I am your dad, say it with me",
+   "new_text": "I am your dad, I am your dad, every one of you, I am your dad",
+   "old_words": 16,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [
+    [
+     8,
+     "i",
+     "every",
+     143.18
+    ],
+    [
+     9,
+     "am",
+     "one",
+     143.35
+    ],
+    [
+     10,
+     "your",
+     "of",
+     143.46
+    ],
+    [
+     11,
+     "dad",
+     "you",
+     143.68
+    ],
+    [
+     12,
+     "say",
+     "i",
+     144.08
+    ],
+    [
+     13,
+     "it",
+     "am",
+     144.92
+    ],
+    [
+     14,
+     "with",
+     "your",
+     145.34
+    ],
+    [
+     15,
+     "me",
+     "dad",
+     145.62
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L22",
+   "old_span": [
+    143.76,
+    149.1
+   ],
+   "new_span": [
+    146.08,
+    150.3
+   ],
+   "old_text": "I am your dad, you're hearing twice, now it lives inside",
+   "new_text": "Don't fight the feeling, just let it in",
+   "old_words": 11,
+   "new_words": 8,
+   "stem_pending": false,
+   "changed": [
+    [
+     0,
+     "i",
+     "don't",
+     146.08
+    ],
+    [
+     1,
+     "am",
+     "fight",
+     146.92
+    ],
+    [
+     2,
+     "your",
+     "the",
+     147.42
+    ],
+    [
+     3,
+     "dad",
+     "feeling",
+     147.72
+    ],
+    [
+     4,
+     "you're",
+     "just",
+     148.28
+    ],
+    [
+     5,
+     "hearing",
+     "let",
+     148.74
+    ],
+    [
+     6,
+     "twice",
+     "it",
+     149.24
+    ],
+    [
+     7,
+     "now",
+     "in",
+     149.68
+    ]
+   ],
+   "added": [],
+   "dropped": [
+    [
+     8,
+     "it"
+    ],
+    [
+     9,
+     "lives"
+    ],
+    [
+     10,
+     "inside"
+    ]
+   ],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L23",
+   "old_span": [
+    150.3,
+    159.5
+   ],
+   "new_span": [
+    150.3,
+    160.02
+   ],
+   "old_text": "I am your dad, I am your dad, I am your dad",
+   "new_text": "I am your dad, I am your dad, I am your dad",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": [
+    [
+     5,
+     "am",
+     154.72,
+     152.76,
+     -1.96
+    ],
+    [
+     6,
+     "your",
+     155.08,
+     153.2,
+     -1.88
+    ],
+    [
+     7,
+     "dad",
+     155.34,
+     153.4,
+     -1.94
+    ]
+   ]
+  },
+  {
+   "line": "L24",
+   "old_span": [
+    160.7,
+    166.5
+   ],
+   "new_span": [
+    160.7,
+    167.5
+   ],
+   "old_text": "I am your dad, I am your dad",
+   "new_text": "I am your dad, I am your dad",
+   "old_words": 8,
+   "new_words": 8,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L25",
+   "old_span": [
+    168.76,
+    182.12
+   ],
+   "new_span": [
+    168.76,
+    182.5
+   ],
+   "old_text": "You can close your eyes, you can plug your ears, the words still bounce around inside your head",
+   "new_text": "You can close your eyes, you can plug your ears, the words still bounce around inside your head",
+   "old_words": 18,
+   "new_words": 18,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L26",
+   "old_span": [
+    183.06,
+    191.94
+   ],
+   "new_span": [
+    183.0,
+    191.94
+   ],
+   "old_text": "I am your dad",
+   "new_text": "I am your dad, I am your dad, I am your dad, I am your dad, I am your dad",
+   "old_words": 4,
+   "new_words": 20,
+   "stem_pending": false,
+   "changed": [],
+   "added": [
+    [
+     4,
+     "i",
+     184.7
+    ],
+    [
+     5,
+     "am",
+     185.7
+    ],
+    [
+     6,
+     "your",
+     185.82
+    ],
+    [
+     7,
+     "dad",
+     186.06
+    ],
+    [
+     8,
+     "i",
+     186.82
+    ],
+    [
+     9,
+     "am",
+     187.86
+    ],
+    [
+     10,
+     "your",
+     188.42
+    ],
+    [
+     11,
+     "dad",
+     188.52
+    ],
+    [
+     12,
+     "i",
+     188.58
+    ],
+    [
+     13,
+     "am",
+     189.62
+    ],
+    [
+     14,
+     "your",
+     189.8
+    ],
+    [
+     15,
+     "dad",
+     190.0
+    ],
+    [
+     16,
+     "i",
+     190.6
+    ],
+    [
+     17,
+     "am",
+     190.78
+    ],
+    [
+     18,
+     "your",
+     190.96
+    ],
+    [
+     19,
+     "dad",
+     191.16
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L27",
+   "old_span": [
+    195.24,
+    214.9
+   ],
+   "new_span": [
+    194.0,
+    201.8
+   ],
+   "old_text": "I am your dad, I am your dad, I am your dad, I am your dad",
+   "new_text": "Just a low voice, telling every listener what they already know, I am your dad",
+   "old_words": 16,
+   "new_words": 15,
+   "stem_pending": false,
+   "changed": [
+    [
+     0,
+     "i",
+     "just",
+     194.0
+    ],
+    [
+     1,
+     "am",
+     "a",
+     194.3
+    ],
+    [
+     2,
+     "your",
+     "low",
+     194.7
+    ],
+    [
+     3,
+     "dad",
+     "voice",
+     195.3
+    ],
+    [
+     4,
+     "i",
+     "telling",
+     196.08
+    ],
+    [
+     5,
+     "am",
+     "every",
+     196.38
+    ],
+    [
+     6,
+     "your",
+     "listener",
+     196.88
+    ],
+    [
+     7,
+     "dad",
+     "what",
+     197.42
+    ],
+    [
+     8,
+     "i",
+     "they",
+     198.1
+    ],
+    [
+     9,
+     "am",
+     "already",
+     198.38
+    ],
+    [
+     10,
+     "your",
+     "know",
+     198.96
+    ],
+    [
+     11,
+     "dad",
+     "i",
+     199.66
+    ],
+    [
+     12,
+     "i",
+     "am",
+     200.22
+    ],
+    [
+     13,
+     "am",
+     "your",
+     200.7
+    ],
+    [
+     14,
+     "your",
+     "dad",
+     201.38
+    ]
+   ],
+   "added": [],
+   "dropped": [
+    [
+     15,
+     "dad"
+    ]
+   ],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L28",
+   "old_span": [
+    215.4,
+    220.64
+   ],
+   "new_span": [
+    215.4,
+    220.64
+   ],
+   "old_text": "They study the hooks, they study the loops, they say simple words",
+   "new_text": "They study the hooks, they study the loops, they say simple words",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L29",
+   "old_span": [
+    220.64,
+    230.0
+   ],
+   "new_span": [
+    220.7,
+    230.12
+   ],
+   "old_text": "Make the brain stay true, repeat the same, I make it easy to sing, and the mind can play it on its own string",
+   "new_text": "Make the brain stay tuned, repeat the same line, make it easy to sing, and the mind can play it on its own string",
+   "old_words": 24,
+   "new_words": 24,
+   "stem_pending": false,
+   "changed": [
+    [
+     4,
+     "true",
+     "tuned",
+     221.86
+    ],
+    [
+     8,
+     "i",
+     "line",
+     223.94
+    ]
+   ],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L30",
+   "old_span": [
+    230.52,
+    236.8
+   ],
+   "new_span": [
+    230.52,
+    238.24
+   ],
+   "old_text": "I don't need a story, I don't need a name, just the one short claim that never changes",
+   "new_text": "I don't need a story, I don't need a name, just the one short claim that never changes",
+   "old_words": 18,
+   "new_words": 18,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L31",
+   "old_span": [
+    238.24,
+    245.1
+   ],
+   "new_span": [
+    238.24,
+    245.1
+   ],
+   "old_text": "You wake up tomorrow and the first thing you hear is the old man saying it crystal clear",
+   "new_text": "You wake up tomorrow and the first thing you hear is the old man saying it crystal clear",
+   "old_words": 18,
+   "new_words": 18,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L32",
+   "old_span": [
+    245.1,
+    250.7
+   ],
+   "new_span": [
+    245.1,
+    251.04
+   ],
+   "old_text": "I am your dad, I am your dad, say it with me",
+   "new_text": "I am your dad, I am your dad, say it with me",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L33",
+   "old_span": [
+    251.04,
+    258.32
+   ],
+   "new_span": [
+    251.04,
+    258.32
+   ],
+   "old_text": "I am your dad, you're hearing once, you're hearing twice, now it lives inside",
+   "new_text": "I am your dad, you hear it once, you hear it twice, now it lives inside",
+   "old_words": 14,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [
+    [
+     4,
+     "you're",
+     "you",
+     252.82
+    ],
+    [
+     5,
+     "hearing",
+     "hear",
+     253.48
+    ],
+    [
+     6,
+     "once",
+     "it",
+     253.84
+    ],
+    [
+     7,
+     "you're",
+     "once",
+     254.12
+    ],
+    [
+     8,
+     "hearing",
+     "you",
+     255.34
+    ],
+    [
+     9,
+     "twice",
+     "hear",
+     255.4
+    ],
+    [
+     10,
+     "now",
+     "it",
+     255.72
+    ],
+    [
+     11,
+     "it",
+     "twice",
+     256.04
+    ],
+    [
+     12,
+     "lives",
+     "now",
+     256.48
+    ],
+    [
+     13,
+     "inside",
+     "it",
+     257.1
+    ]
+   ],
+   "added": [
+    [
+     14,
+     "lives",
+     257.32
+    ],
+    [
+     15,
+     "inside",
+     257.7
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L34",
+   "old_span": [
+    258.32,
+    287.8
+   ],
+   "new_span": [
+    258.0,
+    287.8
+   ],
+   "old_text": "I am your dad",
+   "new_text": "I am your dad, I am your dad, every one of you, I am your dad, don't fight the feeling, just let it in, I am your dad, I am your dad, I am your dad, I am your dad, I am your dad, I am your dad, I am your dad",
+   "old_words": 4,
+   "new_words": 52,
+   "stem_pending": false,
+   "changed": [],
+   "added": [
+    [
+     4,
+     "i",
+     262.86
+    ],
+    [
+     5,
+     "am",
+     263.12
+    ],
+    [
+     6,
+     "your",
+     263.5
+    ],
+    [
+     7,
+     "dad",
+     263.86
+    ],
+    [
+     8,
+     "every",
+     264.68
+    ],
+    [
+     9,
+     "one",
+     264.92
+    ],
+    [
+     10,
+     "of",
+     265.18
+    ],
+    [
+     11,
+     "you",
+     265.48
+    ],
+    [
+     12,
+     "i",
+     266.22
+    ],
+    [
+     13,
+     "am",
+     266.68
+    ],
+    [
+     14,
+     "your",
+     267.1
+    ],
+    [
+     15,
+     "dad",
+     267.38
+    ],
+    [
+     16,
+     "don't",
+     268.1
+    ],
+    [
+     17,
+     "fight",
+     268.74
+    ],
+    [
+     18,
+     "the",
+     269.22
+    ],
+    [
+     19,
+     "feeling",
+     269.46
+    ],
+    [
+     20,
+     "just",
+     270.04
+    ],
+    [
+     21,
+     "let",
+     270.5
+    ],
+    [
+     22,
+     "it",
+     271.08
+    ],
+    [
+     23,
+     "in",
+     271.44
+    ],
+    [
+     24,
+     "i",
+     272.28
+    ],
+    [
+     25,
+     "am",
+     272.56
+    ],
+    [
+     26,
+     "your",
+     272.96
+    ],
+    [
+     27,
+     "dad",
+     273.34
+    ],
+    [
+     28,
+     "i",
+     275.94
+    ],
+    [
+     29,
+     "am",
+     276.32
+    ],
+    [
+     30,
+     "your",
+     276.86
+    ],
+    [
+     31,
+     "dad",
+     277.42
+    ],
+    [
+     32,
+     "i",
+     278.04
+    ],
+    [
+     33,
+     "am",
+     278.28
+    ],
+    [
+     34,
+     "your",
+     278.56
+    ],
+    [
+     35,
+     "dad",
+     279.1
+    ],
+    [
+     36,
+     "i",
+     279.66
+    ],
+    [
+     37,
+     "am",
+     280.12
+    ],
+    [
+     38,
+     "your",
+     280.7
+    ],
+    [
+     39,
+     "dad",
+     281.1
+    ],
+    [
+     40,
+     "i",
+     281.8
+    ],
+    [
+     41,
+     "am",
+     282.1
+    ],
+    [
+     42,
+     "your",
+     282.46
+    ],
+    [
+     43,
+     "dad",
+     282.92
+    ],
+    [
+     44,
+     "i",
+     283.58
+    ],
+    [
+     45,
+     "am",
+     284.04
+    ],
+    [
+     46,
+     "your",
+     284.5
+    ],
+    [
+     47,
+     "dad",
+     284.96
+    ],
+    [
+     48,
+     "i",
+     285.42
+    ],
+    [
+     49,
+     "am",
+     286.0
+    ],
+    [
+     50,
+     "your",
+     286.6
+    ],
+    [
+     51,
+     "dad",
+     287.2
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L35",
+   "old_span": [
+    287.8,
+    296.0
+   ],
+   "new_span": [
+    287.8,
+    295.26
+   ],
+   "old_text": "I am your dad, I am your dad, just a low voice",
+   "new_text": "I am your dad, I am your dad, just a low voice",
+   "old_words": 12,
+   "new_words": 12,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L36",
+   "old_span": [
+    296.7,
+    308.56
+   ],
+   "new_span": [
+    296.7,
+    309.02
+   ],
+   "old_text": "I am your dad, I am your dad, I am your dad, I am your dad",
+   "new_text": "I am your dad, I am your dad, I am your dad, I am your dad",
+   "old_words": 16,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L37",
+   "old_span": [
+    309.88,
+    321.44
+   ],
+   "new_span": [
+    309.88,
+    322.08
+   ],
+   "old_text": "All of you, every single one, I am your dad, you know it now",
+   "new_text": "All of you, every single one, I am your dad, you know it now",
+   "old_words": 14,
+   "new_words": 14,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L38",
+   "old_span": [
+    322.08,
+    338.44
+   ],
+   "new_span": [
+    322.0,
+    338.55
+   ],
+   "old_text": "I am your dad",
+   "new_text": "I am your dad, I am your dad, I am your dad, I am your dad, I am your dad, I am your dad",
+   "old_words": 4,
+   "new_words": 24,
+   "stem_pending": false,
+   "changed": [],
+   "added": [
+    [
+     4,
+     "i",
+     323.32
+    ],
+    [
+     5,
+     "am",
+     324.08
+    ],
+    [
+     6,
+     "your",
+     324.46
+    ],
+    [
+     7,
+     "dad",
+     324.66
+    ],
+    [
+     8,
+     "i",
+     325.22
+    ],
+    [
+     9,
+     "am",
+     325.88
+    ],
+    [
+     10,
+     "your",
+     326.3
+    ],
+    [
+     11,
+     "dad",
+     326.66
+    ],
+    [
+     12,
+     "i",
+     327.54
+    ],
+    [
+     13,
+     "am",
+     327.82
+    ],
+    [
+     14,
+     "your",
+     328.18
+    ],
+    [
+     15,
+     "dad",
+     328.46
+    ],
+    [
+     16,
+     "i",
+     331.02
+    ],
+    [
+     17,
+     "am",
+     331.68
+    ],
+    [
+     18,
+     "your",
+     332.08
+    ],
+    [
+     19,
+     "dad",
+     332.3
+    ],
+    [
+     20,
+     "i",
+     333.08
+    ],
+    [
+     21,
+     "am",
+     333.54
+    ],
+    [
+     22,
+     "your",
+     337.76
+    ],
+    [
+     23,
+     "dad",
+     338.08
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  },
+  {
+   "line": "L39",
+   "old_span": [
+    338.55,
+    343.91
+   ],
+   "new_span": [
+    338.84,
+    344.55
+   ],
+   "old_text": "Say it back to me, I am your dad, say it to yourself",
+   "new_text": "Say it back to me, I am your dad, say it to yourself",
+   "old_words": 13,
+   "new_words": 13,
+   "stem_pending": false,
+   "changed": [],
+   "added": [],
+   "dropped": [],
+   "shifted_gt_0.3s": [
+    [
+     5,
+     "i",
+     340.55,
+     340.2,
+     -0.35
+    ]
+   ]
+  },
+  {
+   "line": "L40",
+   "old_span": [
+    344.55,
+    353.71
+   ],
+   "new_span": [
+    344.55,
+    353.71
+   ],
+   "old_text": "I am your dad",
+   "new_text": "I am your dad, I am your dad, I am your dad, I am your dad",
+   "old_words": 4,
+   "new_words": 16,
+   "stem_pending": false,
+   "changed": [],
+   "added": [
+    [
+     4,
+     "i",
+     346.35
+    ],
+    [
+     5,
+     "am",
+     347.09
+    ],
+    [
+     6,
+     "your",
+     347.27
+    ],
+    [
+     7,
+     "dad",
+     347.49
+    ],
+    [
+     8,
+     "i",
+     348.29
+    ],
+    [
+     9,
+     "am",
+     348.67
+    ],
+    [
+     10,
+     "your",
+     349.21
+    ],
+    [
+     11,
+     "dad",
+     349.59
+    ],
+    [
+     12,
+     "i",
+     351.55
+    ],
+    [
+     13,
+     "am",
+     352.61
+    ],
+    [
+     14,
+     "your",
+     352.95
+    ],
+    [
+     15,
+     "dad",
+     353.21
+    ]
+   ],
+   "dropped": [],
+   "shifted_gt_0.3s": []
+  }
+ ],
+ "summary": {
+  "words_changed": 94,
+  "words_added": 123,
+  "words_dropped": 4,
+  "words_shifted_gt_0.3s": 5,
+  "old_word_count": 493,
+  "new_word_count": 612
+ }
+}

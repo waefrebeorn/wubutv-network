@@ -1,0 +1,490 @@
+{
+ "take": "mv5_s19b_t1.mp4",
+ "take_duration_s": 5.035,
+ "prompted_line": "We still move with it, hand in my hand, no speech no show",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 152.36-155.72",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Move",
+    0.0,
+    0.24
+   ],
+   [
+    "with",
+    0.24,
+    0.7
+   ],
+   [
+    "it",
+    0.7,
+    1.16
+   ],
+   [
+    "hand",
+    1.16,
+    1.74
+   ],
+   [
+    "in",
+    1.74,
+    2.0
+   ],
+   [
+    "my",
+    2.0,
+    2.26
+   ],
+   [
+    "hand",
+    2.26,
+    2.84
+   ],
+   [
+    "no",
+    2.84,
+    3.06
+   ],
+   [
+    "speech",
+    3.06,
+    3.44
+   ],
+   [
+    "no",
+    3.44,
+    3.8
+   ],
+   [
+    "show",
+    3.8,
+    4.16
+   ]
+  ],
+  "prompted": [
+   [
+    "We",
+    0.0,
+    0.0
+   ],
+   [
+    "still",
+    0.0,
+    0.08
+   ],
+   [
+    "move",
+    0.08,
+    0.26
+   ],
+   [
+    "with",
+    0.26,
+    0.7
+   ],
+   [
+    "it,",
+    0.7,
+    1.2
+   ],
+   [
+    "hand",
+    1.42,
+    1.78
+   ],
+   [
+    "in",
+    1.78,
+    2.0
+   ],
+   [
+    "my",
+    2.0,
+    2.24
+   ],
+   [
+    "hand,",
+    2.24,
+    2.82
+   ],
+   [
+    "no",
+    2.96,
+    3.06
+   ],
+   [
+    "speech",
+    3.06,
+    3.42
+   ],
+   [
+    "no",
+    3.42,
+    3.8
+   ],
+   [
+    "show",
+    3.8,
+    4.16
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 0.808,
+ "words": [
+  {
+   "song_word": "still",
+   "song_start": 152.36,
+   "song_end": 152.56,
+   "take_word": "still",
+   "take_start": 0.0,
+   "take_end": 0.08,
+   "source": "prompted+rms",
+   "raw_offset": -152.36,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": null,
+   "verdict": "WARPABLE",
+   "notes": [
+    "prompted-only, RMS 0.155 >= 0.35x median 0.145 \u2014 credited",
+    "zero-length interval stamp \u2014 warp by neighbours"
+   ]
+  },
+  {
+   "song_word": "move",
+   "song_start": 152.56,
+   "song_end": 152.76,
+   "take_word": "Move",
+   "take_start": 0.0,
+   "take_end": 0.24,
+   "source": "unprompted",
+   "raw_offset": -152.56,
+   "swing_offset": -0.2,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.24,
+    "song_interval_s": 0.2,
+    "playback_speed": 1.2,
+    "setpts_factor": 0.8333,
+    "spans_song_words": 1
+   },
+   "verdict": "GOOD",
+   "notes": []
+  },
+  {
+   "song_word": "with",
+   "song_start": 152.76,
+   "song_end": 153.04,
+   "take_word": "with",
+   "take_start": 0.24,
+   "take_end": 0.7,
+   "source": "unprompted",
+   "raw_offset": -152.52,
+   "swing_offset": -0.16,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.28,
+    "playback_speed": 1.643,
+    "setpts_factor": 0.6087,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "it",
+   "song_start": 153.04,
+   "song_end": 153.42,
+   "take_word": "it",
+   "take_start": 0.7,
+   "take_end": 1.16,
+   "source": "unprompted",
+   "raw_offset": -152.34,
+   "swing_offset": 0.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.38,
+    "playback_speed": 1.211,
+    "setpts_factor": 0.8261,
+    "spans_song_words": 1
+   },
+   "verdict": "GOOD",
+   "notes": []
+  },
+  {
+   "song_word": "Hand",
+   "song_start": 153.42,
+   "song_end": 153.58,
+   "take_word": "hand",
+   "take_start": 1.16,
+   "take_end": 1.74,
+   "source": "unprompted",
+   "raw_offset": -152.26,
+   "swing_offset": 0.1,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.58,
+    "song_interval_s": 0.16,
+    "playback_speed": 3.625,
+    "setpts_factor": 0.2759,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.62x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "in",
+   "song_start": 153.58,
+   "song_end": 153.8,
+   "take_word": "in",
+   "take_start": 1.74,
+   "take_end": 2.0,
+   "source": "unprompted",
+   "raw_offset": -151.84,
+   "swing_offset": 0.52,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.26,
+    "song_interval_s": 0.22,
+    "playback_speed": 1.182,
+    "setpts_factor": 0.8462,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "my",
+   "song_start": 153.8,
+   "song_end": 154.0,
+   "take_word": "my",
+   "take_start": 2.0,
+   "take_end": 2.26,
+   "source": "unprompted",
+   "raw_offset": -151.8,
+   "swing_offset": 0.56,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.26,
+    "song_interval_s": 0.2,
+    "playback_speed": 1.3,
+    "setpts_factor": 0.7692,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "hand",
+   "song_start": 154.0,
+   "song_end": 154.18,
+   "take_word": "hand",
+   "take_start": 2.26,
+   "take_end": 2.84,
+   "source": "unprompted",
+   "raw_offset": -151.74,
+   "swing_offset": 0.62,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.58,
+    "song_interval_s": 0.18,
+    "playback_speed": 3.222,
+    "setpts_factor": 0.3103,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.22x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "No",
+   "song_start": 154.18,
+   "song_end": 154.42,
+   "take_word": "no",
+   "take_start": 2.84,
+   "take_end": 3.06,
+   "source": "unprompted",
+   "raw_offset": -151.34,
+   "swing_offset": 1.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.22,
+    "song_interval_s": 0.24,
+    "playback_speed": 0.917,
+    "setpts_factor": 1.0909,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "speech",
+   "song_start": 154.42,
+   "song_end": 154.82,
+   "take_word": "speech",
+   "take_start": 3.06,
+   "take_end": 3.44,
+   "source": "unprompted",
+   "raw_offset": -151.36,
+   "swing_offset": 1.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.38,
+    "song_interval_s": 0.4,
+    "playback_speed": 0.95,
+    "setpts_factor": 1.0526,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "no",
+   "song_start": 154.82,
+   "song_end": 155.08,
+   "take_word": "no",
+   "take_start": 3.44,
+   "take_end": 3.8,
+   "source": "unprompted",
+   "raw_offset": -151.38,
+   "swing_offset": 0.98,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.26,
+    "playback_speed": 1.385,
+    "setpts_factor": 0.7222,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "show",
+   "song_start": 155.08,
+   "song_end": 155.42,
+   "take_word": "show",
+   "take_start": 3.8,
+   "take_end": 4.16,
+   "source": "unprompted",
+   "raw_offset": -151.28,
+   "swing_offset": 1.08,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.34,
+    "playback_speed": 1.059,
+    "setpts_factor": 0.9444,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Heart",
+   "song_start": 155.42,
+   "song_end": 155.72,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  }
+ ],
+ "extras": [],
+ "keyframes": [
+  {
+   "word": "still",
+   "song_time": 152.36,
+   "take_time": 0.0
+  },
+  {
+   "word": "move",
+   "song_time": 152.56,
+   "take_time": 0.0
+  },
+  {
+   "word": "with",
+   "song_time": 152.76,
+   "take_time": 0.24
+  },
+  {
+   "word": "it",
+   "song_time": 153.04,
+   "take_time": 0.7
+  },
+  {
+   "word": "Hand",
+   "song_time": 153.42,
+   "take_time": 1.16
+  },
+  {
+   "word": "in",
+   "song_time": 153.58,
+   "take_time": 1.74
+  },
+  {
+   "word": "my",
+   "song_time": 153.8,
+   "take_time": 2.0
+  },
+  {
+   "word": "hand",
+   "song_time": 154.0,
+   "take_time": 2.26
+  },
+  {
+   "word": "No",
+   "song_time": 154.18,
+   "take_time": 2.84
+  },
+  {
+   "word": "speech",
+   "song_time": 154.42,
+   "take_time": 3.06
+  },
+  {
+   "word": "no",
+   "song_time": 154.82,
+   "take_time": 3.44
+  },
+  {
+   "word": "show",
+   "song_time": 155.08,
+   "take_time": 3.8
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "Heart"
+   ],
+   "span_song": [
+    155.42,
+    155.72
+   ],
+   "cut_out_beat": 155.016,
+   "return_onset": null,
+   "return_beat": 156.131,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "WARPABLE": 10,
+  "GOOD": 2,
+  "BAD-missing": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

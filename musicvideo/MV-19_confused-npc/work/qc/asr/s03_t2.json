@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv19_s03_t2.mp4",
+ "words": [
+  {
+   "w": "Open",
+   "start": 0.0,
+   "end": 1.14,
+   "p": 0.692
+  },
+  {
+   "w": "the",
+   "start": 1.14,
+   "end": 1.46,
+   "p": 0.985
+  },
+  {
+   "w": "door",
+   "start": 1.46,
+   "end": 1.86,
+   "p": 0.998
+  },
+  {
+   "w": "with",
+   "start": 1.86,
+   "end": 2.4,
+   "p": 0.954
+  },
+  {
+   "w": "the",
+   "start": 2.4,
+   "end": 2.58,
+   "p": 0.706
+  },
+  {
+   "w": "thing",
+   "start": 2.58,
+   "end": 2.96,
+   "p": 0.998
+  },
+  {
+   "w": "in",
+   "start": 2.96,
+   "end": 3.26,
+   "p": 0.998
+  },
+  {
+   "w": "my",
+   "start": 3.26,
+   "end": 3.56,
+   "p": 1.0
+  },
+  {
+   "w": "head",
+   "start": 3.56,
+   "end": 4.1,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.1,
+   "text": "Open the door with the thing in my head",
+   "avg_logprob": -0.324
+  }
+ ]
+}

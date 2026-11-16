@@ -1,0 +1,49 @@
+{
+ "take": "takes/mv16_s23_t1.mp4",
+ "words": [
+  {
+   "w": "And",
+   "start": 0.0,
+   "end": 0.4,
+   "p": 0.692
+  },
+  {
+   "w": "I'm",
+   "start": 0.4,
+   "end": 0.66,
+   "p": 0.988
+  },
+  {
+   "w": "still",
+   "start": 0.66,
+   "end": 1.04,
+   "p": 0.998
+  },
+  {
+   "w": "going",
+   "start": 1.04,
+   "end": 1.88,
+   "p": 0.997
+  },
+  {
+   "w": "for",
+   "start": 1.88,
+   "end": 2.5,
+   "p": 0.975
+  },
+  {
+   "w": "years",
+   "start": 2.5,
+   "end": 3.3,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.3,
+   "text": "And I'm still going for years",
+   "avg_logprob": -0.457
+  }
+ ]
+}

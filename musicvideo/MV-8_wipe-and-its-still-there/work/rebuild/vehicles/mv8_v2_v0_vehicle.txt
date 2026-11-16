@@ -1,0 +1,18 @@
+# MV-8 REBUILD v2 — Volley 2 vehicle: V-0 "Sitting on the Toilet" (SINGING)
+# Scene: V-0, song 60.46–65.12 (1451–1563f). 4.67s scene; one 5s take.
+# Song lines: L9 "Sitting on the toilet" 60.46–63.30; L10 "Wipe once, still brown"
+# 63.00–65.00. Strongest hit 63.32s = throne-slam beat (lands ~2.9s into the take).
+# Anchors: F_HERO_TEST_v2.jpg FIRST (identity anchor). Single-anchor call.
+# Duration: exactly 5 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white tunic,
+# full-length white trousers, white boots, bright yellow rubber gloves. The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — she is already seated
+# and swaying gently with the groove, camera already drifting, when the clip opens.
+# No frozen lead-in.
+
+PROMPT (verbatim for media.generate_video, text entry):
+"16:9 widescreen, 1280x720, exactly 5 seconds. Glossy stylised 3D cartoon, soft studio lighting, porcelain palace city golden hour behind her. Medium shot, facing camera: the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, defined cheekbones and jaw, warm determined expression, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, sits on a grand porcelain throne at the palace gate, a golden plunger in one hand. She is already swaying gently with the groove as the clip opens, the camera already slowly drifting, never still. From 0 to 2.5 seconds she sings clearly and articulately 'Sitting on the toilet', mouth opening and closing on every syllable, visible jaw movement. Then she sings 'Wipe once, still brown', and on the final beat she slams the golden flush handle and the throne shudders with the hit, her mouth closing as the slam lands. Her mouth is clearly visible and unobstructed throughout. No text, no logos, no extra limbs, no morphing, no children, no other characters."
+
+IMAGE ORDER: [F_HERO_TEST_v2.jpg] then the text above.

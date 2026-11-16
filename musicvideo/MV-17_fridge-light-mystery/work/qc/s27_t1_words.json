@@ -1,0 +1,43 @@
+{
+ "take": "takes/mv17_s27_t1.mp4",
+ "words": [
+  {
+   "w": "When",
+   "start": 0.0,
+   "end": 0.58,
+   "p": 0.613
+  },
+  {
+   "w": "I",
+   "start": 0.58,
+   "end": 0.9,
+   "p": 0.976
+  },
+  {
+   "w": "close",
+   "start": 0.9,
+   "end": 1.62,
+   "p": 0.943
+  },
+  {
+   "w": "the",
+   "start": 1.62,
+   "end": 1.88,
+   "p": 0.998
+  },
+  {
+   "w": "door...",
+   "start": 1.88,
+   "end": 3.16,
+   "p": 0.883
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.16,
+   "text": "When I close the door...",
+   "avg_logprob": -0.391
+  }
+ ]
+}

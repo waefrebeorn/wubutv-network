@@ -1,0 +1,31 @@
+{
+ "take": "takes/mv20_s07b_t1.mp4",
+ "words": [
+  {
+   "w": "clean",
+   "start": 0.0,
+   "end": 1.92,
+   "p": 0.2
+  },
+  {
+   "w": "is",
+   "start": 1.92,
+   "end": 2.64,
+   "p": 0.99
+  },
+  {
+   "w": "clean",
+   "start": 2.64,
+   "end": 3.1,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.1,
+   "text": "clean is clean",
+   "avg_logprob": -0.51
+  }
+ ]
+}

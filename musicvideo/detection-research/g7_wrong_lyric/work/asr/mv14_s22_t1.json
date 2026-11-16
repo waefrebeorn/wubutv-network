@@ -1,0 +1,50 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s22-t1-0-9db98a75-e1c0-43f9-8852-65b6ecacce6e.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "Post it. Don't overthink the cut.",
+   "avg_logprob": -0.414,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Post",
+     "start": 0.0,
+     "end": 0.64,
+     "probability": 0.713
+    },
+    {
+     "word": " it.",
+     "start": 0.64,
+     "end": 0.88,
+     "probability": 0.815
+    },
+    {
+     "word": " Don't",
+     "start": 1.08,
+     "end": 1.66,
+     "probability": 0.993
+    },
+    {
+     "word": " overthink",
+     "start": 1.66,
+     "end": 2.04,
+     "probability": 0.983
+    },
+    {
+     "word": " the",
+     "start": 2.04,
+     "end": 2.18,
+     "probability": 0.991
+    },
+    {
+     "word": " cut.",
+     "start": 2.18,
+     "end": 2.52,
+     "probability": 0.989
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "sprint": "c11_casa",
+ "date": "2026-11-12",
+ "verdict": "FAIL FAST \u2014 step 1 fails on both bars with the correct (stem-derived) voice-lag seed; no gate build; loop 5 takes the adoption branch (MDX-Net ONNX as-is + c11_sep)",
+ "held_bar": ">=80% of vocal-activity boundaries within +/-0.5s (sprint 8 bar, NOT lowered) \u2014 never reached: experiment step failed first",
+ "step1_v2": {
+  "seed": "stem autocorrelation top in-range peak, 11-frame median smoothed, trusted where stem RMS > 1% max and stem r_max > 0.2 (10,659 trusted sung frames)",
+  "barA_mix_clean": "0/22",
+  "barA_mix_pass": false,
+  "barA_pooled_sung_median_r_voice": 0.25336511928202304,
+  "barA_pooled_instr_median_r_max": 0.504905395588563,
+  "barA_mannwhitney_sung_gt_instr_p": 1.0,
+  "barA_all_incl_bleed": "0/24",
+  "barE_mix_confusion_octave_aware": 0.5605591518904212,
+  "barE_pass": false,
+  "tau_max_breakdown_trusted_sung": {
+   "at_voice_lag": 0.339,
+   "at_octave": 0.048,
+   "at_half": 0.052,
+   "at_bass_range_145_200": 0.097,
+   "other": 0.464
+  },
+  "median_r_voice_sung": 0.2534,
+  "median_r_second_sung": 0.4611,
+  "median_r_max_sung": 0.5079,
+  "frac_sung_frames_r_voice_gt_r_second": 0.3195,
+  "wide_range_50_800Hz_pooled_sung_median_r_max": 0.5668132456047301,
+  "wide_range_50_800Hz_pooled_instr_median_r_max": 0.5286365723810738,
+  "stem_stability_frac_raw_top_peak_within_2_of_smoothed_ref": 0.7296181630546955,
+  "stem_stability_frac_raw_top_peak_at_octave_of_ref": 0.024111079838634017,
+  "stem_ref_F0_median_Hz": 238.80597014925374,
+  "stem_ref_F0_IQR_Hz": [
+   177.77777777777777,
+   290.90909090909093
+  ],
+  "stem_ref_F0_per_segment_median_Hz": {
+   "1": 146.11872146118722,
+   "2": 253.96825396825398,
+   "3": 235.2941176470588,
+   "4": 144.14414414414415,
+   "5": 145.45454545454547,
+   "6": 266.6666666666667,
+   "7": 266.6666666666667,
+   "8": 262.2950819672131,
+   "9": 195.1219512195122,
+   "10": 235.2941176470588
+  }
+ },
+ "step1_v1_WITHDRAWN": {
+  "reason": "seeded the voice lag from the mix pYIN Viterbi path, which is pinned at the 50 Hz fmin floor (see seed_audit) \u2014 v1 measured a bass lag, not a voice lag",
+  "barA_mix_clean": "0/22",
+  "barE_mix_confusion_strict": 0.9554,
+  "barA_pooled_sung_median_r_voice": 0.1842251376026865,
+  "barA_pooled_instr_median_r_max": 0.504905395588563,
+  "barA_stem_clean": "18/22",
+  "barE_stem_confusion_strict": 0.6664,
+  "file": "step1_experiment_v1_seedmix.json (archived, superseded)"
+ },
+ "seed_audit_pYIN_pinning": {
+  "mix": {
+   "voiced_frames": 3101,
+   "at_fmin_50Hz": 2525,
+   "at_fmax_800Hz": 35,
+   "median_f0_voiced": 50.0,
+   "frac_voiced_in_125_350Hz": 0.025153176394711384
+  },
+  "stem": {
+   "voiced_frames": 1825,
+   "at_fmin_50Hz": 0,
+   "at_fmax_800Hz": 1148,
+   "median_f0_voiced": 800.0,
+   "frac_voiced_in_125_350Hz": 0.343013698630137
+  }
+ },
+ "controls": {
+  "voice_only_220Hz": {
+   "r_at_voice_lag_220Hz": 0.9656327202033678,
+   "r_max_vocal_range": 0.9656327202033678,
+   "tau_max_median": 73.0
+  },
+  "mixture_220_98_147": {
+   "r_at_voice_lag_220Hz": 0.0573189530716673,
+   "r_max_vocal_range": 0.3352085953850146,
+   "tau_max_median": 146.0
+  },
+  "accompaniment_only_98_147": {
+   "r_at_voice_lag_220Hz": -0.4325766705087082,
+   "r_max_vocal_range": 0.35807414113248304,
+   "tau_max_median": 109.0
+  }
+ },
+ "files": {
+  "step1_experiment_v2_script": "step1_experiment_v2.py",
+  "step1_experiment_v1_script": "step1_experiment.py (superseded seed)",
+  "step1_curves_v2": "step1_curves.npz",
+  "step1_curves_v1": "step1_curves_v1_seedmix.npz",
+  "plot": "step1_plot.svg"
+ }
+}

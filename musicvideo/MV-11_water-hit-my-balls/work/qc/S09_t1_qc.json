@@ -1,0 +1,68 @@
+{
+ "take": "media-generation-mv11-r2-s09-t1-0-3b1f0763-7c34-475c-8fa7-53bff729e591.mp4",
+ "scene": "S09",
+ "take_no": "1",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Water.",
+   "start": 0.0,
+   "end": 0.78,
+   "prob": 0.524
+  },
+  {
+   "word": "Water.",
+   "start": 1.56,
+   "end": 1.98,
+   "prob": 0.766
+  },
+  {
+   "word": "My",
+   "start": 3.36,
+   "end": 4.5,
+   "prob": 0.949
+  },
+  {
+   "word": "balls.",
+   "start": 4.5,
+   "end": 5.1,
+   "prob": 0.891
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "581e5a0edbfb",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 1.0,
+   "md5": "aa4cf5d924a0",
+   "mean_abs_diff_from_prev": 16.76
+  },
+  {
+   "t": 2.3,
+   "md5": "d0ffcec0cc7d",
+   "mean_abs_diff_from_prev": 41.14
+  },
+  {
+   "t": 5.0,
+   "md5": "4fbbf2f432e9",
+   "mean_abs_diff_from_prev": 45.99
+  },
+  {
+   "t": 7.5,
+   "md5": "56a8fbda56cf",
+   "mean_abs_diff_from_prev": 45.78
+  },
+  {
+   "t": 9.5,
+   "md5": "0c9d89a05316",
+   "mean_abs_diff_from_prev": 54.56
+  }
+ ],
+ "frames_distinct": true
+}

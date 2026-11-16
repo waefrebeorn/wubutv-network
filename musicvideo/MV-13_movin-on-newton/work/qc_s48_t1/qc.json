@@ -1,0 +1,28 @@
+{
+ "video": "takes/media-generation-mv13-s48-t1-0-c5e6c3a3-385f-48d7-b231-c2547bb10dd1.mp4",
+ "duration": 5.0,
+ "width": 1248,
+ "height": 704,
+ "times": [
+  0.0,
+  0.5,
+  1.1,
+  1.6,
+  2.2,
+  3.3,
+  4.4
+ ],
+ "frames_distinct": true,
+ "motion_mean": 39.34,
+ "motion_min": 18.02,
+ "motion_diffs": [
+  18.02,
+  53.69,
+  30.52,
+  36.91,
+  61.07,
+  35.84
+ ],
+ "near_still_pairs": [],
+ "audio_db": -33.7
+}

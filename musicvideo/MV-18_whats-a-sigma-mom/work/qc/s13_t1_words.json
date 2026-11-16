@@ -1,0 +1,49 @@
+{
+ "take": "takes/mv18_s13_t1.mp4",
+ "words": [
+  {
+   "w": "What's",
+   "start": 0.0,
+   "end": 0.76,
+   "p": 0.952
+  },
+  {
+   "w": "a",
+   "start": 0.76,
+   "end": 1.12,
+   "p": 0.997
+  },
+  {
+   "w": "sigma?",
+   "start": 1.12,
+   "end": 1.64,
+   "p": 0.697
+  },
+  {
+   "w": "What's",
+   "start": 2.02,
+   "end": 2.88,
+   "p": 0.977
+  },
+  {
+   "w": "a",
+   "start": 2.88,
+   "end": 3.1,
+   "p": 0.999
+  },
+  {
+   "w": "sigma?",
+   "start": 3.1,
+   "end": 3.6,
+   "p": 0.993
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "What's a sigma? What's a sigma?",
+   "avg_logprob": -0.425
+  }
+ ]
+}

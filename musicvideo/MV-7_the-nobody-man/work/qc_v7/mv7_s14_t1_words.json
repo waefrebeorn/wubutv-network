@@ -1,0 +1,105 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s14_t1_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 15,
+ "words": [
+  {
+   "word": "No",
+   "start": 0.0,
+   "end": 1.26,
+   "prob": 0.51
+  },
+  {
+   "word": "one",
+   "start": 1.26,
+   "end": 1.74,
+   "prob": 0.974
+  },
+  {
+   "word": "crowned",
+   "start": 1.74,
+   "end": 2.44,
+   "prob": 0.988
+  },
+  {
+   "word": "me,",
+   "start": 2.44,
+   "end": 2.62,
+   "prob": 0.997
+  },
+  {
+   "word": "no",
+   "start": 2.98,
+   "end": 3.32,
+   "prob": 0.929
+  },
+  {
+   "word": "one",
+   "start": 3.32,
+   "end": 3.7,
+   "prob": 0.995
+  },
+  {
+   "word": "had",
+   "start": 3.7,
+   "end": 4.06,
+   "prob": 0.997
+  },
+  {
+   "word": "to.",
+   "start": 4.06,
+   "end": 4.46,
+   "prob": 0.971
+  },
+  {
+   "word": "I",
+   "start": 5.1,
+   "end": 5.88,
+   "prob": 0.993
+  },
+  {
+   "word": "made",
+   "start": 5.88,
+   "end": 6.14,
+   "prob": 0.988
+  },
+  {
+   "word": "this",
+   "start": 6.14,
+   "end": 6.46,
+   "prob": 0.998
+  },
+  {
+   "word": "mess",
+   "start": 6.46,
+   "end": 6.78,
+   "prob": 0.999
+  },
+  {
+   "word": "on",
+   "start": 6.78,
+   "end": 7.08,
+   "prob": 0.996
+  },
+  {
+   "word": "purpose",
+   "start": 7.08,
+   "end": 7.52,
+   "prob": 0.999
+  },
+  {
+   "word": "too.",
+   "start": 7.52,
+   "end": 8.02,
+   "prob": 0.828
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.02,
+   "text": "No one crowned me, no one had to. I made this mess on purpose too."
+  }
+ ]
+}

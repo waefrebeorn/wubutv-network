@@ -1,0 +1,80 @@
+{
+ "segment": 4,
+ "start": 55.14,
+ "end": 65.68,
+ "mix": {
+  "words": [
+   {
+    "word": "But",
+    "start": 55.14,
+    "end": 55.8,
+    "prob": 0.367
+   },
+   {
+    "word": "it's",
+    "start": 55.8,
+    "end": 56.32,
+    "prob": 0.977
+   },
+   {
+    "word": "my",
+    "start": 56.32,
+    "end": 57.12,
+    "prob": 0.724
+   },
+   {
+    "word": "fault",
+    "start": 57.12,
+    "end": 57.72,
+    "prob": 0.973
+   }
+  ],
+  "text": " But it's my fault",
+  "wall_s": 23.4,
+  "score": {
+   "expected": 4,
+   "hit": 1,
+   "coverage": 0.25,
+   "non_lyric_words": 3,
+   "n_words": 4
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Light",
+    "start": 55.14,
+    "end": 55.88,
+    "prob": 0.114
+   },
+   {
+    "word": "it,",
+    "start": 55.88,
+    "end": 56.16,
+    "prob": 0.671
+   },
+   {
+    "word": "my",
+    "start": 56.54,
+    "end": 57.1,
+    "prob": 0.571
+   },
+   {
+    "word": "balls.",
+    "start": 57.1,
+    "end": 57.66,
+    "prob": 0.318
+   }
+  ],
+  "text": " Light it, my balls.",
+  "wall_s": 25.7,
+  "score": {
+   "expected": 4,
+   "hit": 2,
+   "coverage": 0.5,
+   "non_lyric_words": 1,
+   "n_words": 4
+  }
+ },
+ "winner": "vocals"
+}

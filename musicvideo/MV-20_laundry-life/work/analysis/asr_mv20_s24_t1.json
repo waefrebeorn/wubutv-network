@@ -1,0 +1,55 @@
+{
+ "take": "takes/mv20_s24_t1.mp4",
+ "words": [
+  {
+   "w": "And",
+   "start": 0.0,
+   "end": 1.36,
+   "p": 0.542
+  },
+  {
+   "w": "now",
+   "start": 1.36,
+   "end": 1.72,
+   "p": 0.995
+  },
+  {
+   "w": "I'm",
+   "start": 1.72,
+   "end": 2.02,
+   "p": 0.956
+  },
+  {
+   "w": "living",
+   "start": 2.02,
+   "end": 2.4,
+   "p": 0.952
+  },
+  {
+   "w": "out",
+   "start": 2.4,
+   "end": 2.84,
+   "p": 0.998
+  },
+  {
+   "w": "the",
+   "start": 2.84,
+   "end": 3.06,
+   "p": 0.995
+  },
+  {
+   "w": "basket",
+   "start": 3.06,
+   "end": 3.8,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.8,
+   "text": "And now I'm living out the basket",
+   "avg_logprob": -0.343
+  }
+ ]
+}

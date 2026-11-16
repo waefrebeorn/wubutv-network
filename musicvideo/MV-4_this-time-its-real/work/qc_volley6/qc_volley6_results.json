@@ -1,0 +1,144 @@
+{
+  "mv4_s23_t2": {
+    "words": 11,
+    "expected": 14,
+    "ratio": 0.79,
+    "text": "Good news everyone, pause, good news everyone. The ride is done.",
+    "vocal_mean_diff": 3.812,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "Good",
+        "start": 0.0,
+        "end": 0.4
+      },
+      {
+        "word": "news",
+        "start": 0.4,
+        "end": 0.88
+      },
+      {
+        "word": "everyone,",
+        "start": 0.88,
+        "end": 1.62
+      },
+      {
+        "word": "pause,",
+        "start": 2.16,
+        "end": 2.38
+      },
+      {
+        "word": "good",
+        "start": 2.82,
+        "end": 3.0
+      },
+      {
+        "word": "news",
+        "start": 3.0,
+        "end": 3.5
+      },
+      {
+        "word": "everyone.",
+        "start": 3.5,
+        "end": 4.34
+      },
+      {
+        "word": "The",
+        "start": 4.86,
+        "end": 5.2
+      },
+      {
+        "word": "ride",
+        "start": 5.2,
+        "end": 5.66
+      },
+      {
+        "word": "is",
+        "start": 5.66,
+        "end": 6.14
+      },
+      {
+        "word": "done.",
+        "start": 6.14,
+        "end": 6.56
+      }
+    ]
+  },
+  "mv4_s28_t1": {
+    "words": 0,
+    "expected": null,
+    "ratio": null,
+    "text": "",
+    "vocal_mean_diff": 14.569,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": []
+  },
+  "mv4_s29_t1": {
+    "words": 7,
+    "expected": 7,
+    "ratio": 1.0,
+    "text": "Good news, everyone, for real this time.",
+    "vocal_mean_diff": 2.582,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": [
+      {
+        "word": "Good",
+        "start": 0.0,
+        "end": 0.66
+      },
+      {
+        "word": "news,",
+        "start": 0.66,
+        "end": 1.32
+      },
+      {
+        "word": "everyone,",
+        "start": 1.84,
+        "end": 2.44
+      },
+      {
+        "word": "for",
+        "start": 3.52,
+        "end": 6.14
+      },
+      {
+        "word": "real",
+        "start": 6.14,
+        "end": 6.7
+      },
+      {
+        "word": "this",
+        "start": 6.7,
+        "end": 7.24
+      },
+      {
+        "word": "time.",
+        "start": 7.24,
+        "end": 7.84
+      }
+    ]
+  },
+  "mv4_s30a_t1": {
+    "words": 0,
+    "expected": null,
+    "ratio": null,
+    "text": "",
+    "vocal_mean_diff": 6.511,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": []
+  },
+  "mv4_s30b_t1": {
+    "words": 0,
+    "expected": null,
+    "ratio": null,
+    "text": "",
+    "vocal_mean_diff": 4.466,
+    "longest_near_dup_run": 0,
+    "exact_dup": 0,
+    "word_times": []
+  }
+}

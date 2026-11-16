@@ -1,0 +1,325 @@
+{
+ "tool": "c11_vibrato (loop 3 top-1) \u2014 DAY-1 FALSIFIER ONLY; no gate built",
+ "date": "2026-11-12",
+ "track": "MV-14 'CLIP IT', 161.6 s, 16 kHz mono; F0 from sprint-8 voice_mv14.json / voice_mv14_stem.json (10 ms hop, 16161 frames)",
+ "method": {
+  "contour": "pYIN f0_hz (0=unvoiced; log-F0 interpolated across gaps; trusted = within 0.25 s of a voiced frame) and raw YIN f0_yin (continuous)",
+  "detrend": "subtract 0.51 s moving average; 5-frame median (octave-spike kill); re-detrend",
+  "bandpass": "Butterworth order 4, 4-8 Hz, filtfilt, contour fs 100 Hz",
+  "depth": "RMS of bandpassed cents over 0.5 s sliding window, smoothed ~100 ms; per-frame cents RMS",
+  "sung_spans": "ref segments 1-10 (hpss_mv14_ref.json); instrumental = outside all ref segments; bleed = ref 11-12 (wordless-outro Demucs bleed)",
+  "classical_reference": "Nix et al. 2016: vibrato 5.0-5.16 Hz, 50-120 cents peak-to-peak; <20 cents = straight tone; +/-50 cents sine -> 35.4 cents RMS"
+ },
+ "synthetic_pipeline_validation": {
+  "vib6Hz_pm50": {
+   "median_cents": 35.16,
+   "mean_cents": 35.15
+  },
+  "vib6Hz_pm5": {
+   "median_cents": 3.52,
+   "mean_cents": 3.52
+  },
+  "straight": {
+   "median_cents": 0.0,
+   "mean_cents": 0.0
+  },
+  "wobble3Hz_pm50": {
+   "median_cents": 0.3,
+   "mean_cents": 0.3
+  },
+  "vib6Hz_pm50_plus_noise10": {
+   "median_cents": 33.65,
+   "mean_cents": 33.6
+  }
+ },
+ "mix_pyin": {
+  "pyin_voiced_frames": 3101,
+  "pyin_voiced_frac": 0.1919,
+  "coverage_sung_trusted_frac": 0.518,
+  "coverage_instr_trusted_frac": 0.445,
+  "sung": {
+   "n_frames": 6143,
+   "median_cents": 2.55,
+   "q1_cents": 0.27,
+   "q3_cents": 6.66,
+   "mean_cents": 4.29
+  },
+  "instrumental": {
+   "n_frames": 1336,
+   "median_cents": 3.32,
+   "q1_cents": 0.45,
+   "q3_cents": 10.36,
+   "mean_cents": 6.64
+  },
+  "bleed_ref11_12": {
+   "n_frames": 665,
+   "median_cents": 3.06,
+   "q1_cents": 0.54,
+   "q3_cents": 16.16,
+   "mean_cents": 11.83
+  },
+  "outro": {
+   "n_frames": 2352,
+   "median_cents": 5.66,
+   "q1_cents": 0.88,
+   "q3_cents": 12.5,
+   "mean_cents": 8.87
+  },
+  "psd_sung": {
+   "peak_hz": 3.0,
+   "power_4_8hz": 42.8429,
+   "power_2_4hz": 705.7301,
+   "power_8_12hz": 7.8931
+  },
+  "psd_instrumental": {
+   "peak_hz": 3.0,
+   "power_4_8hz": 23.9598,
+   "power_2_4hz": 72.8104,
+   "power_8_12hz": 5.0981
+  },
+  "per_segment_median_cents": [
+   {
+    "seg": 1,
+    "start": 14.14,
+    "end": 21.29,
+    "median": 1.72,
+    "trusted_frac": 0.521
+   },
+   {
+    "seg": 2,
+    "start": 22.01,
+    "end": 34.95,
+    "median": 2.39,
+    "trusted_frac": 0.432
+   },
+   {
+    "seg": 3,
+    "start": 36.23,
+    "end": 55.13,
+    "median": 2.13,
+    "trusted_frac": 0.554
+   },
+   {
+    "seg": 4,
+    "start": 56.11,
+    "end": 60.53,
+    "median": 0.08,
+    "trusted_frac": 0.641
+   },
+   {
+    "seg": 5,
+    "start": 61.17,
+    "end": 65.87,
+    "median": 1.26,
+    "trusted_frac": 0.662
+   },
+   {
+    "seg": 6,
+    "start": 66.4,
+    "end": 82.38,
+    "median": 5.76,
+    "trusted_frac": 0.654
+   },
+   {
+    "seg": 7,
+    "start": 81.78,
+    "end": 103.86,
+    "median": 1.98,
+    "trusted_frac": 0.509
+   },
+   {
+    "seg": 8,
+    "start": 104.29,
+    "end": 131.16,
+    "median": 3.22,
+    "trusted_frac": 0.318
+   },
+   {
+    "seg": 9,
+    "start": 133.49,
+    "end": 136.74,
+    "median": 6.26,
+    "trusted_frac": 0.862
+   },
+   {
+    "seg": 10,
+    "start": 139.09,
+    "end": 141.95,
+    "median": 5.13,
+    "trusted_frac": 0.906
+   },
+   {
+    "seg": 11,
+    "start": 143.88,
+    "end": 152.5,
+    "median": 1.8,
+    "trusted_frac": 0.619
+   },
+   {
+    "seg": 12,
+    "start": 155.21,
+    "end": 159.53,
+    "median": 27.5,
+    "trusted_frac": 0.303
+   }
+  ],
+  "frac_sung_gt20c": 0.0182,
+  "frac_sung_gt35c": 0.001,
+  "frac_instr_gt20c": 0.0591,
+  "frac_instr_gt35c": 0.024,
+  "sung_p95_cents": 14.33,
+  "sung_p99_cents": 24.58
+ },
+ "stem_pyin": {
+  "pyin_voiced_frames": 1825,
+  "pyin_voiced_frac": 0.1129,
+  "coverage_sung_trusted_frac": 0.37,
+  "coverage_instr_trusted_frac": 0.24,
+  "sung": {
+   "n": 4388,
+   "median": 2.68,
+   "q1": 0.83,
+   "q3": 7.0
+  },
+  "instrumental": {
+   "n": 720,
+   "median": 0.0,
+   "q1": 0.0,
+   "q3": 0.0
+  },
+  "bleed_ref11_12": {
+   "n": 750,
+   "median": 0.0,
+   "q1": 0.0,
+   "q3": 0.0
+  },
+  "outro": {
+   "n": 2227,
+   "median": 0.0,
+   "q1": 0.0,
+   "q3": 0.0
+  },
+  "psd_sung_blocks": {
+   "peak_hz": 3.0,
+   "p_4_8": 54.1315,
+   "p_2_4": 954.67808,
+   "p_8_12": 6.14978,
+   "n_blocks": 9
+  },
+  "psd_instr_blocks": {
+   "peak_hz": 3.0,
+   "p_4_8": 0.0,
+   "p_2_4": 0.0,
+   "p_8_12": 0.0,
+   "n_blocks": 5
+  },
+  "per_segment_median": [
+   {
+    "seg": 1,
+    "median": 1.15
+   },
+   {
+    "seg": 2,
+    "median": 4.41
+   },
+   {
+    "seg": 3,
+    "median": 2.47
+   },
+   {
+    "seg": 4,
+    "median": null
+   },
+   {
+    "seg": 5,
+    "median": 8.29
+   },
+   {
+    "seg": 6,
+    "median": 7.1
+   },
+   {
+    "seg": 7,
+    "median": 4.47
+   },
+   {
+    "seg": 8,
+    "median": 2.27
+   },
+   {
+    "seg": 9,
+    "median": 0.0
+   },
+   {
+    "seg": 10,
+    "median": 0.0
+   },
+   {
+    "seg": 11,
+    "median": 0.0
+   },
+   {
+    "seg": 12,
+    "median": 0.0
+   }
+  ],
+  "frac_sung_gt20c": 0.0422,
+  "frac_sung_gt35c": 0.0041,
+  "frac_instr_gt20c": 0.0,
+  "frac_instr_gt35c": 0.0,
+  "sung_p95_cents": 18.89,
+  "sung_p99_cents": 28.63
+ },
+ "mix_block_psd": {
+  "sung": {
+   "peak_hz": 3.0,
+   "p_4_8": 52.01038,
+   "p_2_4": 735.24732,
+   "p_8_12": 12.3375,
+   "n_blocks": 9
+  },
+  "instr": {
+   "peak_hz": 4.0,
+   "p_4_8": 222.74883,
+   "p_2_4": 282.58229,
+   "p_8_12": 28.29436,
+   "n_blocks": 5
+  }
+ },
+ "raw_yin_unusable": {
+  "mix_sung_median_cents": 288.34,
+  "mix_instr_median_cents": 270.42,
+  "stem_sung_median_cents": 332.84,
+  "note": "Raw YIN contour is estimator noise on this mix (octave jumps): 270-430 cents RMS in the 4-8 Hz band on both tracks. Not a fallback."
+ },
+ "bars": {
+  "A_separation": {
+   "bar": "median depth sung > instrumental, non-overlapping IQRs, MIX F0",
+   "result": "sung 2.55 [0.27,6.66] vs instr 3.32 [0.45,10.36] \u2014 IQRs overlap, wrong direction",
+   "verdict": "FAIL"
+  },
+  "B_boundaries": {
+   "bar": ">=80% boundaries within +/-0.5 s (>=16/20 clean ref)",
+   "result": "not reached \u2014 no gate built (Bar E stop)",
+   "verdict": "NOT RUN"
+  },
+  "C_no_contamination": {
+   "bar": "no instrumental-only span exceeds the sung median depth",
+   "result": "instrumental median 3.32 > sung 2.55; outro median 5.66; instr frac>20c 5.9% vs sung 1.8%",
+   "verdict": "FAIL"
+  },
+  "D_absence": {
+   "bar": "straight-tone/instrumental spans report below threshold",
+   "result": "moot \u2014 the detector cannot say 'here' in the first place (sung depth ~2.6c everywhere)",
+   "verdict": "MOOT"
+  },
+  "E_fail_fast": {
+   "bar": "if step 1 fails fast, report FAIL FAST with the depth plot and stop",
+   "result": "step 1 failed on both tracks; plot day1_falsifier_plot.svg; no gate built",
+   "verdict": "PASS (method) / FAIL (entry)"
+  }
+ },
+ "diagnosis": "The chant is straight-tone. The isolated Demucs-stem voice itself reads 2.68 cents median in the 4-8 Hz band \u2014 the same null as the mix (2.55c) \u2014 so this is NOT a mix-dominance artifact: the voice carries no vibrato to detect. Classical vibrato would read ~35c RMS; the voice reads ~2.6c, an order of magnitude below the 20c straight-tone boundary (Nix et al.). The accompaniment carries MORE 4-8 Hz F0 modulation than the voice (outro 5.66c, instrumental 3.32c, instr frac>20c 5.9% vs sung 1.8%), so the feature is inverted on this track, not merely absent.",
+ "overall_verdict": "FAIL FAST \u2014 Bar E. Vibrato signature is dead as the vocal-activity sensor for MV-14. Do not build c11_vibrato. Loop 4: formant experiment + birdsong-entropy decision in parallel; scope the CASA correlogram experiment as the next sprint.",
+ "reproducibility": "day1_falsifier.py + day1_controls.py + day1_plot.py in c11_vibrato/; inputs voice_mv14.json, voice_mv14_stem.json, hpss_mv14_ref.json (all on disk, unchanged). Depth curves day1_depth_*.npy regenerable in seconds; NOT committed (129 KB each)."
+}

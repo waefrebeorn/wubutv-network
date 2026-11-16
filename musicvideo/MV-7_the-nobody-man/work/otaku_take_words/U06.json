@@ -1,0 +1,112 @@
+{
+ "track": "work/otaku_qc/U06_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 16,
+ "words": [
+  {
+   "word": "Old",
+   "start": 0.0,
+   "end": 1.28,
+   "prob": 0.625
+  },
+  {
+   "word": "meme",
+   "start": 1.28,
+   "end": 1.64,
+   "prob": 0.951
+  },
+  {
+   "word": "face",
+   "start": 1.64,
+   "end": 2.14,
+   "prob": 0.955
+  },
+  {
+   "word": "and",
+   "start": 2.14,
+   "end": 2.6,
+   "prob": 0.9
+  },
+  {
+   "word": "a",
+   "start": 2.6,
+   "end": 2.72,
+   "prob": 0.989
+  },
+  {
+   "word": "busted",
+   "start": 2.72,
+   "end": 3.2,
+   "prob": 0.984
+  },
+  {
+   "word": "grin",
+   "start": 3.2,
+   "end": 3.76,
+   "prob": 0.997
+  },
+  {
+   "word": "Been",
+   "start": 3.76,
+   "end": 5.02,
+   "prob": 0.696
+  },
+  {
+   "word": "here",
+   "start": 5.02,
+   "end": 5.36,
+   "prob": 0.999
+  },
+  {
+   "word": "so",
+   "start": 5.36,
+   "end": 5.78,
+   "prob": 0.994
+  },
+  {
+   "word": "long",
+   "start": 5.78,
+   "end": 6.34,
+   "prob": 0.996
+  },
+  {
+   "word": "I",
+   "start": 6.34,
+   "end": 6.72,
+   "prob": 0.745
+  },
+  {
+   "word": "could",
+   "start": 6.72,
+   "end": 6.92,
+   "prob": 0.997
+  },
+  {
+   "word": "sign",
+   "start": 6.92,
+   "end": 7.34,
+   "prob": 0.987
+  },
+  {
+   "word": "back",
+   "start": 7.34,
+   "end": 7.72,
+   "prob": 0.994
+  },
+  {
+   "word": "in",
+   "start": 7.72,
+   "end": 8.32,
+   "prob": 0.987
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.32,
+   "text": "Old meme face and a busted grin Been here so long I could sign back in"
+  }
+ ]
+}

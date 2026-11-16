@@ -1,0 +1,25 @@
+# MV-8 REBUILD v2 — Volley 2 vehicle: H2-A "The Quest Begins" (SINGING)
+# Scene: H2-A, song 67.26–81.08 (1614–1946f). 13.83s scene; one 10s take.
+# Song lines: L12 "Wipe and it's still there" 67.38–70.28 + "Never clean"
+# 69.36–70.28; L13 "Wipe and it's still there" 70.28–73.00; L14 "Wipe and it's
+# still there" 73.00–76.98; L15 "Endless wipe forever" 76.98–81.08. All four
+# lines sung in order, briskly paced so all fit the 10s take (per-line ratios
+# measured at QC; grey-zone ratios disclosed, rescue envelope <=1.75x).
+# Arming completes (full armour) and the adult Squire joins: tall lanky grown
+# man, paper-white tabard, receding hair, anxious brows, satchel. Mounted
+# departure on Sir Swirl at the end of the take.
+# Anchors: F_HERO_TEST_v2.jpg FIRST (identity anchor). Single-anchor call.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white tunic,
+# full-length white trousers, white boots, bright yellow rubber gloves. The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — she is already turning
+# toward camera with her cape streaming and the Squire already hurrying into frame.
+# No frozen lead-in.
+# Critic loop runs on the departure shot at QC (contact sheet, score 1–10, fix worst 3).
+
+PROMPT (verbatim for media.generate_video, text entry):
+"16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting, porcelain palace city golden hour. Medium close-up, facing camera: the Champion, an adult woman in her late twenties with a long dark braid over one shoulder, defined cheekbones and jaw, warm determined expression, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, a golden plunger in one hand and a toilet-paper cape streaming behind her. Beside her stands the Squire, a tall lanky grown man with receding hair and anxious brows, wearing a paper-white tabard and carrying a satchel. She is already in motion as the clip opens, turning toward camera with her cape streaming and the camera already slowly pushing in, never still. She sings clearly and articulately, mouth opening and closing on every syllable, visible jaw movement: 'Wipe and it's still there, never clean', then 'Wipe and it's still there' twice more, then 'Endless wipe forever', her mouth clearly visible and unobstructed throughout. As the last line ends she swings up onto a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles, the Squire climbing on behind her, and they ride off over the palace city, cape and scarf streaming, continuous motion to the last frame. No text, no logos, no extra limbs, no morphing, no children."
+
+IMAGE ORDER: [F_HERO_TEST_v2.jpg] then the text above.

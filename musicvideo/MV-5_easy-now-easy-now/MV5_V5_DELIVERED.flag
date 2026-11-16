@@ -1,0 +1,22 @@
+MV-5 'Easy now, easy now (THE VOICE)' — Q10 REPAIR v5 DELIVERED 2026-11-13 ~04:45 EST (parent-verified)
+User verdict answered (2026-11-13 02:31 EST, on the lyrics-redo master a3e65922): "bad timing, cat talking when she is, low grab for song intro, this one is the weakest" — gates had passed, the master was still wrong. v5 fixes all three defects; a3e65922 is SUPERSEDED — do NOT re-deliver it.
+
+House master: masters/mv5_easy_now_easy_now_16x9_v5.mp4
+  md5 395c314080d7bfc33ff6f0808b7463cd, 115,936,038 B, 4954f exact, 206.417s, SEI crf=18.0, AAC 48k stereo, faststart
+  Gates ALL PASS (work/q10/gate_v5.log): audio agreement min corr 0.9982; motion: no frozen run >=24f in any sung piece, longest near-dup run 18f
+Chat copy: masters/mv5_easy_now_easy_now_16x9_v5_chat.mp4
+  md5 e6773bce49280609573db9ed6cbe9829, 40,349,390 B (<=50 MB), delivered as main-chat attachment 2026-11-13
+
+What changed vs the lyrics-redo master (same captions/.ass, new pictures + re-anchored timing):
+- Intro rebuilt: motion from frame 0 (girl riding, CAT in basket); v4's frozen/wrong-mouth intro inserts gone; I08/L16 carried as montage covers with captions.
+- Singer fixes: S04 re-fired CAT take sings L01-L04 (model stopped at 6.96s; L05 stays on old s04_t1); S06 L11 structural — montage cover 43.28-44.58 + s06_t2 girl insert re-anchored; S12 L43 new GIRL take; S07 L15 GIRL insert re-fired under a parent cap lift (girl alone, no CAT) — the "cat talking when she is" frames are gone (parent full-res reads: L12 44.63s GIRL sings "Yeah" with CAT mouth closed; L15 51.29s GIRL alone singing "One"; intro 1.45s CAT singing the hook over the riding shot).
+- Coordinator visual gate Q10_V5_VISUAL_GATE.md: PASS, 34 frames read; parent spot reads 3/3 confirm.
+
+Disclosed (carried, not hidden):
+- L104: the CAT's lead line stays mouth-less (v4 picture kept; no take of the CAT singing it exists). The Q10 program item for L104 stays OPEN.
+- L38 "Calling" is the weakest sung picture in v5 (wide market shot, CAT back turned; caption + timing carry it; take s11_t4 also has a duplicate-cat background artifact). No fix available without a new take (cap exhausted).
+- Montage/cover lines (no singing picture, captions carry): I08, L16, L69, L98, L100, L109.
+- S24 caption flicker 176.05-176.26s (pre-existing lyrics-redo .ass overlap artifact, also in a3e65922; correct by 176.50s).
+- Onset-frame lag: L01 "Bare" and L96 "No" open 0.10-0.16s after the exact onset frame. Cosmetic.
+- L70 "good" carries the take's "comes" tail mouth (small); L102 "drift" stands as the unresolved tie from the lyrics redo.
+- Volley record: 3 KEEP (q10_s04 with limitation, q10_s12_l43, q10_s07_l15 cap-lift), 1 REJECT (q10_s06_l11, pacing structural), 3 integrity-blocked not retried (q10_i08, q10_l104, q10_s07_l16 — montage-cover fallbacks used).
