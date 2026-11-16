@@ -52,3 +52,4 @@ DEDUP_STATUS: resolved
 | B-1270 | The Standing Pressure | 2026-10-23 10:48 EDT | 17889298884477257 | B-1270 "The Standing Pressure" — ~ WuBu ~. ~ WuBu ~ #WuBuTV #dryhumor #comedy | B | posted |
 | B-1269 | The Glued Hinge | 2026-10-23 17:47 EDT | 17962526106236345 | B-1269 "The Glued Hinge" — ~ WuBu ~. ~ WuBu ~ #WuBuTV #absurdist #shortfilm | C | posted |
 | B-1266 | The Unpaid Unit | 2026-10-23 18:17 EDT | 18702230917007272 | B-1266 "The Unpaid Unit" — ~ WuBu ~. ~ WuBu ~ #WuBuTV #surreal #indiefilm | D | posted |
+| MV-21 | Wowie Pants That Fit | 2026-11-16 10:51 EDT | 18117205103035898 | MV-21 — "Wowie Pants That Fit" · [ARC-1 · THE ONE VIEWER] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
