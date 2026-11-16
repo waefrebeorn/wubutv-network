@@ -101,8 +101,11 @@ UNTESTED test.
   approximated. The MAR approximation is cruder than a learned viseme
   embedding (no distinction between near-visemes). Needs phoneme-level
   alignment, which our current word timings don't give.
-- **Status:** UNTESTED (paper-only; approximation untested). Test: hand
-  -check the /p/ /b/ /m/ closure rule on one MV-7 insert with a known
+- **Status:** UNTESTED — STILL UNRELEASED upstream (re-verified
+  2026-11-16, finder sprint: arXiv 2610.09223 still reads "Code and
+  benchmark data will be released upon acceptance"; no public repo).
+  See FINDER_TEST_RESULTS_2026-11-16.md. Test: hand-check the
+  /p/ /b/ /m/ closure rule on one MV-7 insert with a known
   bilabial line, then watch for the PVSync code release.
 - **UPDATE 2026-11-12:** code release CHECKED — still unreleased. The
   arXiv page (2610.09223, last updated ~316 days ago) still reads "Code
@@ -120,6 +123,10 @@ UNTESTED test.
   The arXiv page (2610.09223) still reads "Code and benchmark data
   will be released upon acceptance"; no public repo found today
   either.
+- **UPDATE 2026-11-16:** code release re-CHECKED — still unreleased.
+  The arXiv HTML/PDF (2610.09223) still reads "Code and benchmark
+  data will be released upon acceptance"; no public repo found
+  today either.
 
 ## 2026-11-09 — F-03 MediaPipe Face Mesh mouth aspect ratio (MAR) curve vs word onsets
 
@@ -227,10 +234,19 @@ UNTESTED test.
   ECCV 2020, https://github.com/princeton-vl/RAFT, arXiv:2003.12039)
   is the sharper but heavier alternative if Farneback's noise floor
   proves unusable.
-- **Status:** UNTESTED. Test: compute the curve on one MV-8 v3 montage
-  segment with a known good cut and one v2 segment the user called
-  badly timed; pass bar is a visible energy-contrast difference at the
-  cut.
+- **Status:** TESTED 2026-11-16 (finder sprint) — WEAK / SPLIT.
+  Full run on both masters (cv2 Farneback, 24fps, 160x90;
+  finder-tests/flow_and_signature.py + f05_f30_analysis.py; results
+  FINDER_TEST_RESULTS_2026-11-16.md). Freeze side separates: in-segment
+  share of pairs below the 0.25 floor v2 25.1% vs v3 14.4%; longest
+  below-floor run 1.38s (v2, 1 run >=1s) vs 0.96s (v3, none) — but this
+  is the same signal family as F-17 M6, which separates 4.0x and stays
+  the gate. Headline claim FAILS: cut-point energy contrast does not
+  separate — mean cut ratio v2 0.474 vs v3 0.363, both-sides-above-floor
+  share 0.875 vs 0.812, both the WRONG way; both masters contain cuts
+  from action into near-stillness (v2 @163.0s: 2.54->0.03; v3 @105.94s:
+  1.19->0.04). Do NOT adopt cut-energy contrast as a gate; the flow
+  curve remains a shared input for other measures.
 
 ## 2026-11-09 — F-06 FFmpeg MPEG-7 signature + videohash2 perceptual-hash reuse detection
 
@@ -980,6 +996,20 @@ UNTESTED test.
   from the master-level v2/v3 split, not proven at take level (no
   halted take exists in this sample). Re-check the bar on volley 10's
   takes (S47–S52) when the budget resets.
+  TEMPORAL-SIGNATURE LEG RUN 2026-11-16 (finder sprint — the owed
+  cross-check above; finder-tests/f17_signature.py, results
+  FINDER_TEST_RESULTS_2026-11-16.md): machinery exact (10s excerpt of
+  the v3 series localises at rho=1.000, exact offset). Take
+  localisation with 4s windows: I-B_v3_river rho=0.969 inside its
+  ledger span, O-B_v3_wave 0.845 inside, H2-B_v3_canal 0.899 with
+  argmax 1.7s early (two-KEEP-take scene), D-B 0.745 outside — warped
+  (slowed) spans degrade slope-1 correlation as expected. Within-v2
+  reuse scan: the ONLY off-home hit at rho>=0.9 is IN-A matching at
+  179.9s (rho=0.941) — the closing segment's DESIGNED bookend rhyme
+  with the opening bathroom. Verdict: signature = localisation aid
+  for ledger audits, NOT a reuse gate (false-flags designed rhymes;
+  cannot separate same-set-similar-action from same footage). F-17's
+  adopted form stays M6-only.
 
 ## 2026-11-12 — F-18 VBench temporal dimensions (dynamic degree / motion smoothness / temporal flickering / subject consistency)
 
@@ -1044,6 +1074,20 @@ UNTESTED test.
   segments the user flagged, and the (smoothness-high, degree-zero) pair
   isolating v2's static takes. Subject-consistency first-vs-last check
   on one identity-drift take vs one stable take.
+- **UPDATE 2026-11-16 (independent eval, SteerLab, Nov 12 2026):**
+  checked against Rapidata / benchmark.ai human votes (800 realism
+  pairs plus known-answer broken copies), VBench++'s subject and
+  background consistency, motion smoothness and temporal flickering
+  PREFER A FROZEN COPY of the input photo 25 times out of 25, and
+  score below the CLIP baseline on the realism pairs — consistency
+  and smoothness reward stillness by construction. Rule for this
+  bank: F-18's consistency and smoothness dimensions must NEVER be
+  read as halt evidence; only dynamic degree carries motion
+  information (its mean flow size agreed 0.608 with voters), and it
+  must be paired with F-17's M6 or F-29's subject trajectories.
+  The same eval's one motion scorer at human level was the graded
+  CoTracker check — banked below as F-29. Source:
+  https://albertlieyingadrian.github.io/steerlab/experiments/image-to-video-eval/report/
 
 ## 2026-11-12 — F-19 Synchformer AV offset estimation + synchronizability (transformer, sparse-cue robust)
 
@@ -1530,13 +1574,16 @@ UNTESTED test.
   at, never auto-fails. EvalCrafter's 0.1 / 0.3 bands are T2V
   benchmark bands on RAFT flow, not calibrated on our masters or on
   Farneback flow — local calibration on the v2/v3 pair comes first.
-- **Status:** UNTESTED. Test: add the residual output to the
-  c11_flow tooling, compute per-segment warping error on the MV-8
-  v2 (rejected) and v3 (accepted) masters with cut pairs excluded;
-  pass bar is v2's mean residual visibly above v3's, v3 sitting
-  mostly under the 0.1 smooth band after any needed rescaling, and
-  v2's spike frames coinciding on eye check with morph/boil spans
-  rather than with cuts or fast legitimate motion.
+- **Status:** TESTED 2026-11-14 — DOES NOT SEPARATE (INVERTED).
+  Full report F27_TEST_2026-11-14.md (integrated into
+  FINDER_TEST_RESULTS_2026-11-16.md). Kept-pair mean warping residual
+  v2 0.0403 vs v3 0.0640 (median 0.0352/0.0558; share >0.1: 2.2% vs
+  16.7%) — the REJECTED master reads more consistent. Cut-pair means
+  (0.119/0.136) prove the machinery works; 8 of the top-15 spike pairs
+  are identical in both masters, i.e. spikes track song energy, not
+  instability. Verdict: DEAD in mean-residual form (energy-confounded);
+  revival would need the forward-backward occlusion-masked form,
+  which is a new finder, not this one.
 
 ## 2026-11-15 — F-28 SSCD per-frame copy descriptors + video copy localization (similarity-matrix diagonal)
 
@@ -1617,14 +1664,242 @@ UNTESTED test.
   segment at native rate before quoting frame-exact boundaries.
   PyTorch inference on this VM is CPU-only — per-master, not
   per-frame interactive work.
-- **Status:** UNTESTED. Test: embed the MV-8 v3 master against
-  itself and against its takes; pass bar is (a) the one segment
-  known to appear once producing exactly one diagonal at its
-  true location, (b) a deliberately duplicated segment spliced
-  into a copy of the master producing a second, off-diagonal
-  run at the spliced location, and (c) distinct takes of the
-  same scene staying below the flag threshold. Then run the
-  v2 master the same way and eye-check every flagged diagonal.
+- **Status:** TESTED 2026-11-16 (finder sprint) — ADOPT-CANDIDATE.
+  Released sscd_disc_mixup TorchScript model, 2fps embeddings,
+  diagonal runs at cos>0.75, run>=6f (finder-tests/f28_driver.py;
+  results FINDER_TEST_RESULTS_2026-11-16.md). (b) SPLICE TEST —
+  EXACT PASS: the fixture's top run sits at offset 209f = 104.5s
+  (true splice offset 104.49s), start 91f = 45.5s (true source
+  start 45.51s), length 20f = the full 10s inserted segment, mean
+  cosine 0.939. (a/c) Self-scans: v3 zero runs (off-diag max 0.962 —
+  single-frame echoes like the designed bookend never sustain 3s);
+  v2 also zero runs (max 0.915) — neither master contains
+  within-master reuse; v2's reuse defect lived across versions/
+  takes, which is the scan this finder should gate. Distinct
+  same-scene takes: cross max 0.201, 0/400 pairs over threshold.
+  Cost: ~8 min embedding per master on this CPU (embeddings cache
+  to .npy; re-scans free). Adopt as the localiser behind F-31.
+
+## 2026-11-16 — F-29 CoTracker3 joint point tracking (subject-vs-background trajectory speed)
+
+- **Detects:** (a) whether the SUBJECT is moving at a cut, measured
+  separately from camera and background motion — the split GAP-1's
+  percept needs; (b) a frozen subject inside a moving shot — the
+  masked-freeze case GAP-3's frame-mean audits cannot see; (c)
+  whether the camera actually made the planned move (pan / tilt /
+  zoom) in a shot. GAP-1 + GAP-3. This is the bank's first
+  point-TRAJECTORY finder: F-05 measures dense flow between frame
+  pairs (no point identity across time, and its own stated limit is
+  that a pan inflates the magnitude — "a pan is not subject
+  motion"); F-09/F-17 average over the whole frame, so a small
+  moving element masks a frozen subject (the S-16 dilution lesson).
+  Trajectories keep the two apart by construction.
+- **How it works:** CoTracker3 (Karaev et al., Meta AI / Oxford
+  VGG, arXiv:2410.11831, ICCV 2025) is a transformer that tracks
+  many query points JOINTLY — cross-track attention lets points on
+  the same surface share motion evidence — and outputs each point's
+  trajectory plus a visibility prediction through occlusions. It is
+  trained on synthetic Kubric data and fine-tuned with pseudo-labels
+  on 15,000 real videos (vs BootsTAPIR's 15 million) in online and
+  offline variants. Our application: seed two point groups per shot
+  — points on the subject (face/body, via the F-03 face mesh or a
+  segmentation mask) and points on the background — and emit each
+  group's mean trajectory speed per frame. The common mode shared
+  by both groups is camera motion; the subject group's speed after
+  removing that common mode is true subject motion. A span where
+  subject-residual speed sits at the floor while background speed
+  is healthy is a frozen subject, whatever the frame mean says; a
+  cut is subject-locked when subject speed is non-trivial on both
+  sides of it. The mechanism is already a product metric: VBench++
+  reads camera motion from a CoTracker 10×10 point grid, and an
+  independent eval (SteerLab, Nov 12 2026, against Rapidata /
+  benchmark.ai votes, 400 camera pairs) found a GRADED CoTracker
+  score — mean tracked-point shift from first to last frame in the
+  move's direction, as a share of the short side — agreed with
+  voters 0.734 [0.696, 0.770], level with one more human voter
+  (0.71), against 0.593 for VBench++'s own yes/no heuristic and
+  0.420 for CLIP. Production corroboration (product avenue):
+  MatteDesk, from the October 2026 Comfy open-source contest,
+  ships CoTracker3 as its tracking engine for roto/matting work.
+- **Run / replicate here:** code + checkpoints (online and offline
+  variants): https://github.com/facebookresearch/co-tracker —
+  paper https://arxiv.org/abs/2410.11831 — eval:
+  https://albertlieyingadrian.github.io/steerlab/experiments/image-to-video-eval/report/
+  Pipeline: per shot (segmentation from F-04/F-10/F-12), run the
+  offline predictor on a background grid plus subject-seeded query
+  points, export per-point trajectories + visibility to JSON, and
+  compute the two group speed curves alongside F-05's flow curve.
+  PyTorch; CPU inference on this VM is per-segment background work.
+- **What it would have caught in MV-8 v2:** the halted-moment
+  variant no banked finder isolates — takes where the shot still
+  "moves" (background morph, a slow pan, clothes/hair shimmer
+  lifting the frame-diff mean and the flow magnitude) while the
+  singer/subject is effectively still, and cuts whose motion
+  energy was real but belonged to the background while the subject
+  sat at rest through the cut. UNTESTED — this paragraph is the
+  hypothesis the test below checks, not a result.
+- **Limits:** trained on real camera video, not AI-generated
+  morphing footage or stylised faces — trajectory survival on our
+  material is unmeasured; a high lost-track share (visibility
+  collapse) on morph texture is itself a flag, not a silent pass.
+  The subject/background split needs subject seeding: grid-only
+  mode still gives the camera-move check but not the frozen-subject
+  split. Slow deliberate subject drift can sit near the speed
+  floor — calibrate the floor per project on a known-moving vs
+  known-still pair, as with F-05/F-17. Heavy: transformer inference,
+  slower than every diff-based finder in this bank.
+- **Status:** TESTED 2026-11-16 (finder sprint) — DEAD on this VM +
+  footage class. Offline predictor OOM-killed (exit 137) at
+  11-12s/256x144 even running alone on this ~6GB box; the largest
+  surviving form is 4s clips (48f) at 12fps/192x108, 6x6 grid,
+  simplified centre-vs-border seeding (finder-tests/f29_cotracker.py;
+  results FINDER_TEST_RESULTS_2026-11-16.md). Pass bar (a) FAILS on
+  both controls: track survival v3 clip 0.283, v2 clip 0.587 vs >0.80
+  required — the tracker loses most points within a second on
+  morphing AI footage, biasing every group median (the v3 flight
+  clip's background median reads 0.159 px/f, at the floor). The
+  target pattern appears in miniature in the v2 O-B window
+  (background 2.59 px/f vs subject-residual p10 0.037, 1.0s frozen
+  run vs v3's 0.5s) but the instrument is not trustworthy here.
+  Revival condition: GPU / much larger memory ceiling.
+
+## 2026-11-16 — F-30 BeatAlign motion-peak-to-beat alignment score (MVAA)
+
+- **Detects:** whether the picture's salient motion peaks — the
+  steps, jumps, gestures and action hits INSIDE a shot — land on
+  the song's beats. GAP-1's in-shot half, plus GAP-4 support.
+  Every banked GAP-1 finder scores the CUT (F-05's energy contrast
+  across the boundary, F-12's cut list) or a whole section (F-08's
+  envelope correlation); none scores the timing of the action
+  between cuts, which is where a beat-locked cut list can still
+  produce a badly timed feel.
+- **How it works:** BeatAlign (Li et al., as adopted and specified
+  by MVAA — Zhang et al., Univ. of Adelaide / UNSW, 2025,
+  arXiv:2506.18881) extracts motion peaks from the video — motion
+  energy as frame-to-frame pixel difference, Gaussian-smoothed,
+  local maxima kept as peaks V = {v1..vN} (a peak "corresponds to
+  a step, jump, or gesture") — and beats B = {b1..bM} from the
+  audio (the paper uses librosa spectral flux + Ellis DP tracking;
+  our c11_mir DP grid is the local equivalent). A greedy monotonic
+  one-to-one matching minimises the total |b_i − v_pi(i)|, and the
+  score is built from the mean absolute error between the matched
+  motion-peak timestamps and their beat positions (the paper
+  reports it normalised, higher = better: unedited videos 0.204
+  vs MVAA-edited 0.312 on its 50-pair generated-video benchmark,
+  with user-study win rates tracking the score). Practitioner
+  corroboration (creators avenue): Blossom's 180-day TikTok /
+  Instagram library analysis (checked 2026-11-13) tracks exactly
+  this distinction — videos whose cuts AND movements land on the
+  beats reached 6.34× their account's typical views (12,991
+  videos) vs 0.93× for videos whose cuts fight the music (3,895).
+- **Run / replicate here:** no new model — replicate the metric on
+  our stack: motion curve from `flow_curve.py` (F-05 flow
+  magnitude, preferred over the paper's RGB diff on morph-heavy
+  material) or the TSM frame-diff decode; peaks via local maxima
+  on the smoothed curve; beats from the measured grid / c11_mir;
+  monotonic matching via the snapper's DP chassis (c11_mir `snap`)
+  rather than the paper's greedy pass. Report BOTH the raw MAE in
+  frames/ms and the matched-peak share per segment. Paper:
+  https://arxiv.org/abs/2506.18881 (MVAA itself is a diffusion
+  inpainting EDITOR — not banked; only its metric is). Creator
+  data: https://www.blossai.com/blog/editing-to-the-beat-audio-analysis-viral-pacing
+- **What it would have caught in MV-8 v2:** segments whose cuts
+  sat exactly on the grid while the action inside the shot peaked
+  between beats — the "bad montage timing" percept surviving
+  correct cut arithmetic, now as a per-segment MAE instead of a
+  playback verdict. UNTESTED — hypothesis, not a result.
+- **Limits:** the paper's motion peaks come from raw RGB frame
+  diff, which on our morphing AI texture fires on texture boil as
+  readily as on action — substituting the flow-magnitude curve is
+  our change and is unvalidated. One-to-one matching under-credits
+  dense motion (several real peaks per beat) and says nothing
+  about peaks that SHOULD exist but don't (a dead span has no
+  peaks to misalign — pair with F-17/F-29, never read BeatAlign
+  alone on a still segment). The paper defines the score as an
+  MAE yet reports higher = better without printing the
+  normalisation, so cross-paper score comparison is not possible;
+  our raw MAE is the portable number. A deliberate off-beat accent
+  can be a valid choice — flag for eye review, never auto-fail.
+- **Status:** TESTED 2026-11-16 (finder sprint) — DEAD on this pair.
+  Both signal forms computed against the measured beat grid (368
+  beats; finder-tests/f05_f30_analysis.py; results
+  FINDER_TEST_RESULTS_2026-11-16.md): flow-curve peaks MAE v2 101.9ms
+  vs v3 106.0ms, matched share 0.497/0.462; frame-diff peaks (the
+  paper's original form) 110.8 vs 112.2ms. No separation either way —
+  both edits' action peaks sit ~100ms off the beats equally (both
+  assembled to the same grid; the metric measures the generator's
+  peak lag, not the edit). Do not adopt as a v2/v3-class gate.
+
+## 2026-11-16 — F-31 vPDQ per-frame PDQ hash sequence + subsequence matching
+
+- **Detects:** a clip appearing as a SUBSEQUENCE inside a longer
+  master — and which segment matches — plus whole-take
+  near-duplicates, using per-frame perceptual hashes instead of
+  learned descriptors. Standing weak spot (4). This is the cheap,
+  deterministic first pass beside F-28: F-06's videohash stage
+  collapses a whole video into one collage hash (it cannot say
+  WHERE a take recurs) and its MPEG-7 signature stage is
+  block-based with limited robustness; F-28's SSCD localises
+  properly but needs PyTorch ResNet-50 inference on every sampled
+  frame — CPU-heavy on this VM. vPDQ matching is hash-distance
+  arithmetic only, so it can run over every volley as a screen
+  before SSCD confirms a hit.
+- **How it works:** vPDQ (Meta, ThreatExchange — open-sourced
+  2019 alongside TMK+PDQF) computes a PDQ perceptual hash for
+  sampled frames of a video, producing a variable-length hash
+  sequence per video instead of one fixed signature. Two videos
+  are compared on the share of frames whose PDQ hashes match
+  under a Hamming-distance threshold, and because the hashes stay
+  per-frame, the positions of the matching frames identify WHICH
+  segment of one video occurs inside the other. That subsequence
+  behaviour is the design split from its sibling TMK+PDQF, which
+  compresses a whole video into a single fixed ~256KB signature
+  optimised for identical-length whole-video matching (FAISS-
+  indexable, near-constant-time lookup) and cannot localise a
+  clip inside a longer video. vPDQ's raw comparison is linear —
+  O(n · Fc · Fq) over candidate/frame counts per its docs — with
+  a FAISS filtering pass integrated in python-threatexchange.
+- **Run / replicate here:** `pip install vpdq` (PyPI: vpdq, with
+  the C++ reference implementation in the ThreatExchange repo) or
+  the integrated form `pip install threatexchange` — which
+  requires Python ≥3.11, so this box's 3.12 is fine (NOT the
+  F-07/F-13 madmom wall). Hash every take and the master, match
+  master-vs-takes and master-vs-itself, and report each matching
+  segment's timestamp range. Repo:
+  https://github.com/facebook/ThreatExchange — package:
+  https://pypi.org/project/vpdq/
+- **What it would have caught in MV-8 v2:** the same reuse class
+  F-28 targets — a take or shot range the assembly used twice,
+  with the two locations named — at a small fraction of F-28's
+  compute, early enough to run on takes before assembly rather
+  than only on the finished master. UNTESTED — hypothesis, not a
+  result.
+- **Limits:** PDQ is an image hash, not a learned copy
+  descriptor: two genuinely different takes of the same locked-off
+  scene can hash close, so calibrate the frame-match threshold on
+  distinct takes of one scene and treat every hit as an
+  eye-review flag, never an auto-fail (same rule as F-28).
+  Cropping, mirroring and strong re-framing degrade PDQ faster
+  than SSCD. Sampled-frame hashing bounds localisation precision
+  to the sampling interval (~1s at 1fps) — refine a flagged
+  segment with F-28 or the F-06 signature stage before quoting
+  frame-exact boundaries. Bleed note: PDQ was built for
+  trust-and-safety hash sharing; this is internal QC use of the
+  algorithm only, no hash sharing.
+- **Status:** TESTED 2026-11-16 (finder sprint) — ADOPT-CANDIDATE
+  with a sampling law. The `vpdq` C++ wheel cannot build here
+  (needs libav*-dev); SLERM form used: per-frame PDQ via
+  python-threatexchange's reference pdq_hasher + numpy Hamming
+  matching (finder-tests/f31_vpdq.py; results
+  FINDER_TEST_RESULTS_2026-11-16.md). At 1fps the splice test FAILS
+  (best Hamming ~100-112 = random) — sampling-phase trap: the splice
+  offset is non-integer (104.49s) and this footage changes fully in
+  0.5s. At 4fps with phase-tolerant windowed-min matching it PASSES
+  decisively: 40/40 inserted frames match the source window at
+  Hamming 0-4 (threshold <=31). Controls clean: v3 self-match zero
+  off-diagonal pairs <=31 (min 60); distinct same-scene takes cross
+  min 104. LAW: >=4fps sampling + phase-tolerant matching required;
+  hits are eye-review flags, never auto-rejects.
 
 ## Run log
 
@@ -2373,3 +2648,49 @@ UNTESTED test.
   check, and F-27's warping-error test; F-28's test joins that
   queue. Rotate emphasis next run: creators/practitioners +
   product tooling.
+
+- 2026-11-16 (run 25 — daily research run): 3 new finders banked
+  (F-29 CoTracker3 joint point tracking, F-30 BeatAlign
+  motion-peak alignment, F-31 vPDQ subsequence hash matching).
+  Emphasis: creators/practitioners + product tooling, per run
+  24's rotation. F-29 is the bank's first point-trajectory
+  finder: CoTracker3 tracks seeded points jointly through
+  occlusion, so subject-seeded vs background-seeded trajectory
+  speed separates subject motion from camera/background motion —
+  the split F-05's magnitude (pan-inflated) and F-09/F-17's frame
+  means (mean dilution) cannot make; an independent Nov 12 2026
+  eval (SteerLab, against benchmark.ai human votes) found its
+  graded camera check at human-voter level (0.734 vs 0.71), and
+  MatteDesk ships it in production tooling. F-30 formalises
+  GAP-1's in-shot half: BeatAlign (MVAA, arXiv:2506.18881) scores
+  motion PEAKS against beats via monotonic matching, so cuts on
+  the grid with action peaks between beats get a number;
+  Blossom's creator-library data (cuts+movements on beat at
+  6.34× typical views vs 0.93× off-beat) corroborates the axis.
+  F-31 is the cheap reuse first pass: vPDQ's per-frame PDQ
+  hashes localise a copied segment inside a master with hash
+  comparisons only, where F-28's SSCD needs per-frame ResNet
+  inference. Updates, not new entries: F-02 PVSync code release
+  re-checked — still "will be released upon acceptance", no
+  repo; F-18 gains the SteerLab warning (VBench++ consistency /
+  smoothness / flickering prefer a frozen photo 25/25 and score
+  below chance — never read them as halt evidence). Avenues
+  checked, NOT banked: DOVER / DOVER++ disentangled VQA
+  (technical/aesthetic scores — no gap-specific mechanism beyond
+  the F-18 family); FFmpeg `blurdetect` + `blockdetect`
+  (verified present in this VM's FFmpeg 8.1.2 today —
+  zero-install blur/blockiness traces, but blur was not in the
+  v2 verdict; noted as a companion signal beside F-27's spikes,
+  not a standalone finder); SameFace (Oct 2026 Comfy contest —
+  face drift as % of head size via RAFT + Grounding DINO + SAM
+  2.1, a single-image edit-drift tool overlapping F-18's identity
+  axis); FaceSim-Arc QC practice (ArcFace cosine vs a reference
+  face — a face-specific variant of F-18's embedding-consistency
+  replication, not a new mechanism); CapCut Auto Cut, DaVinci
+  Resolve AI Beat Detector and Vidova (closed beat-sync product
+  features, no runnable detector — same verdict as runs 3/21/23).
+  Still owed (sprint-scale, not daily-run work): F-05 Farneback
+  cut-energy on the v2/v3 pair, the F-17 temporal-signature reuse
+  check, F-27's warping-error test and F-28's SSCD test;
+  F-29/F-30/F-31 tests join that queue. Rotate emphasis next
+  run: academic/papers + song-as-authority.
