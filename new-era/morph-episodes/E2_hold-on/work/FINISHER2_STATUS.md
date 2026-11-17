@@ -162,9 +162,15 @@ Under 50 MB → no delivery encode needed.
   strips EYE-PASS (detail in GATE_LOG). JOINTS: ALL PASS.
 - GATE_LOG.md appended with the full repair-build gate
   record.
-- F-9: input written (work/GATE_E_F9_REPAIR_INPUT.md);
-  fresh-context cold reader spawned, verdict to land at
-  work/GATE_E_F9_REPAIR_VERDICT.md. Delivery (flag +
-  LEDGER + commit) happens ONLY on F-9 PASS.
+- F-9 VERDICT: **PASS — ALL TWELVE ITEMS** (fresh-context
+  cold reader; work/GATE_E_F9_REPAIR_VERDICT.md, 6,704 B,
+  verified on disk). Deletion count 1/16; the appointment
+  hanger exempt under clarification (i); the Courier's
+  settlement reads in her own U5 concession line.
+- **DELIVERED 2026-11-17:** E2_DELIVERED.flag raised;
+  LEDGER.md delivery addendum appended (delivered-canon
+  deltas recorded); repo commit c443ce61. Master
+  29,914,050 B < 50 MB → no delivery encode needed.
+  JOB COMPLETE.
 
 ## Calls spent: 4 / 8. Next: joint eye-pass, GATE_LOG, F-9.
