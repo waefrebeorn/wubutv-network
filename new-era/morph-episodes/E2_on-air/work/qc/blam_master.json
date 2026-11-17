@@ -1,0 +1,35 @@
+{
+ "label": "E2-master-final",
+ "path": "masters/ON_AIR_E2_MASTER.mp4",
+ "audio_median_dbfs": -21.6,
+ "t50_s": 0.0,
+ "t90_s": 1.8,
+ "lead_silence_s": 0.0,
+ "head_db_per_0.5s": [
+  -25.3,
+  -26.3,
+  -29.0,
+  -26.8,
+  -16.4,
+  -18.5
+ ],
+ "hf_bursts_0_1.5s": 0,
+ "hf_bursts_control_30s": 10,
+ "mae_buckets_0_3s": [
+  0.84,
+  5.03,
+  5.25,
+  5.2,
+  6.24,
+  6.56,
+  7.24,
+  8.4,
+  7.56,
+  7.55,
+  7.11,
+  4.81
+ ],
+ "mae_baseline_3_10s": 2.97,
+ "mae_head_0_0.5s_ratio": 0.99,
+ "mae_first_bucket_vs_max_0_3s": 0.1
+}

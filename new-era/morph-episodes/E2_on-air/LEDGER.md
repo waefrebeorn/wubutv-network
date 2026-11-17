@@ -210,3 +210,28 @@ re-rank (NUMBER FIVE) printed as the new sheet's second line. Delta classes: Δp
 (U2 badge, U5 cancellation), Δinfo (U1 sheet true, U5 advertiser
 heard), STATUS (UNC un-billed; PETER product). Mouth handoff:
 2 fires (U3 in/out) — the signature ration holds.
+
+## PRODUCTION RECORD — E2 (replacement coordinator, 2026-11-17)
+
+Master: masters/ON_AIR_E2_MASTER.mp4 — md5
+9f2790f480e4d6b32850ad0a028981d1, 30,719,181 B, 1280×720,
+24fps, 1440f / 60.000s, CRF 18 (1.75× size differential vs
+the CRF-23 chain), AAC 48k, faststart, −16.51 LUFS / TP
+−1.49, Broadcast Strip + corner bug. Full record:
+work/GATE_LOG.md.
+
+Shipped takes: U1 take1 · U2 take1 · U3 take2 (wordmark
+refire) · U4 take2 (identity/deadpan refire) · U5 take1 ·
+U6 take1. Refires used: 3 of the 8 allowed (U2's refire was
+also fired and ASR-compared; take1 retained — see GATE_LOG
+F-a). The singer credit ships as a Method C post graphic
+(the U6 call-sheet composite: SINGER: PETER / NUMBER FIVE:
+CHAMPION).
+
+Production-side continuity notes for E3 (beyond the facts
+above): UNC's face has two variants in the shipped episode —
+the grey-stubbled man (U1–U4) and a younger variant (U5–U6,
+inherited from the first coordinator's U4 take1 anchor
+chain); the grey-stubbled man is the gated CHAR identity and
+the E3 anchor. PETER likewise has a curly-haired variant in
+U6 only; the slicked-dark-hair PETER is canonical.

@@ -263,3 +263,33 @@ KNOWS/STATUS/WORLD only) — no delta class hits 3-in-5.
   UNCHANGED (see §3 invasion note). E3 anchors: unchanged —
   Ep. 3 U1 still opens on the shelf state and keys load
   above; the Champion is not an E3 anchor.
+- **PRODUCTION delta (2026-11-17):** Ep. 2 PRODUCED and
+  DELIVERED. Master: masters/oneshort_E2_master.mp4 —
+  22,401,297 B, md5 0d57f2c57f47c6447cf2278ad001c140,
+  1440f / 60.000s video, CRF 18 (size differential 1.69× vs
+  the same chain at CRF 23). All 16 locked lines verified
+  verbatim on the finished master by ASR (hand-checks:
+  numbers as digits; "What do you get?" for "what'd you
+  get?"). F-9 second Gate E on the finished master: PASS —
+  on the SECOND fresh-context cold read. The first read
+  returned FAIL on the Champion's disposition because the
+  input's U6 picture summary had omitted two visible beats
+  (the foam X, the chalked foam 4); the summary was
+  corrected to describe all visible picture and a fresh
+  reader passed all nine questions with citations. Full
+  record: work/GATE_LOG.md. Production deviations from the locked
+  script's staging, all disclosed in work/GATE_LOG.md:
+  the Champion's entrance is staged in U2's frame 0 rather
+  than at its tail (his claim still lands last in U2); the
+  U3 chairs render pre-marked with X's (the marking round
+  still plays in full in U4, and the two-X proof object
+  lands exactly as scripted); the foam 4 in U6 was rendered
+  by the generator on the foam's back face during his
+  profile exit rather than applied as a post decal (the
+  counted-fourth beat and the exit-before-freeze both hold);
+  the office-door X (GAP 3) renders on the glass door beside
+  the Champion's exit rather than as a separate CCTV beat,
+  and the final freeze holds on the shelf without the
+  Clerk's face at frame edge. Shelf verified against §5 at
+  assembly: 1 umbrella + 1 folded chair, two X's — EXACT.
+  E3 anchors above stand as written.
