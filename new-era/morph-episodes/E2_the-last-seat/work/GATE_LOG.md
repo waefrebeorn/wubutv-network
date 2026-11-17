@@ -12,8 +12,12 @@ refires). Fires so far: **0**. Any 429 / budget error = hard stop.
   CHAR-USHER-hero 0aaca18f…, CHAR-USHER-face 22be47a3…,
   CHAR-OCCUPANT 6b99de74…, PROP-seat 9a5e660a…, WORLD-seatroom
   b44bbe1d…. (E1 REFERENCE_STACK.md md5s match exactly.)
-- New panels owed before the volley: CHAR-COLLECTOR, CHAR-FRUIT,
-  PEAK-U01…U06 (8 image generations, eye-gated on read-back).
+- New panels generated + eye-gated 2026-11-17: CHAR-COLLECTOR,
+  CHAR-FRUIT, PEAK-U01…U06 — ALL PASS (md5s + gate reads in
+  REFERENCE_STACK.md; nits disclosed there: two keys read on U1's
+  ring at still scale; cat sits in the box, not on its lid, U2;
+  barn-wood door, U4; hand at forearm not elbow + illegible
+  programme texture + motion-loosened hair, U5).
 - VEHICLES.md + REFERENCE_STACK.md written and committed pre-firing.
 - Joints J1–J5 are BREAK-less continuations per the script's JOINT
   NOTEs (this episode's upgrade over E1's declared BREAKs): each unit

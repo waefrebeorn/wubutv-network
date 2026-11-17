@@ -21,18 +21,18 @@ EYE-verified in work/GATE_LOG.md (seam MAE logged, never sufficient).
 | PNL-PROP-seat.png | 9a5e660a77943c6125413145a9b1a2b9 | THE seat — the house's constant |
 | PNL-WORLD-seatroom.png | b44bbe1dbf3deb27c97fd0cb3d3f6386 | House world (carried, not fired this episode) |
 
-## NEW THIS EPISODE (to be generated + eye-gated before the video volley)
+## NEW THIS EPISODE (generated + eye-gated 2026-11-17 — ALL PASS)
 
-| Panel | Content (script production note 1) |
-|---|---|
-| PNL-CHAR-COLLECTOR.png | The Collector: heavyset man in his fifties, grey overcoat, flat cap, holding a small wooden cash box; standing at a theatre box-office door. |
-| PNL-CHAR-FRUIT.png | The fruit couple together: Peach (round fuzzy peach-pink suit, green leaf tilted like a hat, blushing cheeks) arm in arm with the Lime (bright green lime suit, wedge grin), maximum expression, handmade costumes. |
-| PNL-PEAK-U01.png | From behind the Occupant's hat: the Dancer MID-DESCENT in a leap at the seat (past the apex, travelling down), vermilion against the shadowed hat; lamp lit; Collector entering down the aisle with the cash box. |
-| PNL-PEAK-U02.png | From the seat's POV: the Dancer standing centre breathing hard; the open cash box on the aisle table with a theatre cat sitting on its lid; the Usher holding a blank tally card toward camera. |
-| PNL-PEAK-U03.png | The Collector looping a heavy chain through the box-office door handles behind the seat row; the Dancer centre with an empty envelope in her left hand; tally propped on the box. |
-| PNL-PEAK-U04.png | The Occupant's foot tapping under the brass armrest, one gloved hand raised mid-teach; the Dancer crouching into her start position downstage; lamp half-warm. |
-| PNL-PEAK-U05.png | The third landing: the Dancer landing clean as a wave of house seats slams down behind her, programmes flapping up; the Occupant's gloved hand extended steadying the Dancer's elbow; lamp fully warm. |
-| PNL-PEAK-U06.png | The letter held over the seat's lamp, light glowing through the blank paper in the Occupant's gloved hand; the Dancer beyond, empty key ring raised on her right wrist catching the light. |
+| Panel | md5 | Gate read |
+|---|---|---|
+| PNL-CHAR-COLLECTOR.png | 964a17e4707324a276ce512ee923d25e | PASS — heavyset fifties, grey overcoat, flat cap, wooden cash box with brass clasp in his left hand, blank folded paper, box-office booth, no legible text. |
+| PNL-CHAR-FRUIT.png | 89fda06e95c77280d488b34a46a0aca5 | PASS — Peach (fuzzy peach-pink suit, leaf tilted like a hat, blushing cheeks, beaming) arm in arm with the Lime (bright green suit, wedge grin), handmade stitched costumes, theatre aisle, no text. Nit: the Lime's suit carries round segment bumps; green + leaf + grin carries the read. |
+| PNL-PEAK-U01.png | 6ef7e1ba21f8b3f6f09c3448d9e7a67a | PASS — from behind the hat: Occupant shadowed with gloves + blank programme, brass lamp lit, white stub on the armrest; the Dancer MID-DESCENT in the leap, vermilion, SHORT skirt, key ring visible in her right hand; the Collector entering down the aisle with the box. Nit: two keys read on the ring at still scale. |
+| PNL-PEAK-U02.png | dbbc349377e6dc5bd5119a2fa20411bd | PASS — Usher (ink-navy, brass buttons, white gloves) holding a BLANK tally card to camera; cat sitting IN the open box on the brass table, short coin row; Dancer centre, key ring in hand, breathing hard. Nit: cat sits in the box rather than on the lid — same gag (in the money). |
+| PNL-PEAK-U03.png | 52671cb7e5ad8090f9ad6227451d4154 | PASS — the Collector looping the chain through the door handles, chain over his shoulder; Dancer centre, envelope in her left hand, flat key on the ring on her right wrist; open box with blank card. |
+| PNL-PEAK-U04.png | 825551679044b068340df7cfd71432ad | PASS — Occupant shadowed, gloved hand raised mid-teach, lamp lit, stub on the armrest, shoe under the seat; Dancer crouched in her start position, key ring catching the light; padlocked chain on the door behind. Nit: door reads barn-wood rather than box-office — inside the theatre world. |
+| PNL-PEAK-U05.png | a96b49bf234e3f22c71f2897d1c673eb | PASS — the landing: Dancer striking the boards mid-turn, programmes flapping up like birds, the Occupant's gloved hand extended to her arm from the seat, lamp lit, stub on the armrest. Nits: hand at the forearm rather than the elbow; programme print is illegible texture (E1's disclosed class); hair loosened from the bun mid-motion. |
+| PNL-PEAK-U06.png | eb714a69cd072df56fa42d41947e0813 | PASS — the letter glowing over the brass lamp in the Occupant's glove, stub on the armrest; the Dancer in final pose, the EMPTY ring visible at her raised right hand; door ajar with warm light through the crack; torn notice halves on the floor. |
 
 ## LOOK BLOCKS (verbatim in every prompt)
 
