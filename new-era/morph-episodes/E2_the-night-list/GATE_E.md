@@ -372,3 +372,201 @@ Minimum changes to pass
 1. Twine the U2 want declarations: change DISPATCHER's and/or BLOB PRINCE's U2 line so each answers or references the line/rule immediately before it (the count, the log, or the door test), so that swapping the adjacent pair breaks the exchange.
 2. Make the U4 money rule decisive and U4's causality legible in one change: add a line or picture beat in U4/U5 showing UNC readying the bed in defiance of Peter's failed test and KEEPER's "carrying hands hold no money" rule actually stopping the sale — this makes that rule non-deletable and explains why a failed claimant's bed is being readied.
 3. Give DISPATCHER's log a stated disbelief and an on-screen acceptance that the final count entry depends on (a line/picture change in U2 and U5) — this supplies her missing blocker and motive, gives her want a decisive resolution, and makes "I want my log believed." non-deletable, bringing the deletable-line count to 3 or fewer.
+
+
+---
+
+## GATE E — RE-ROOM READ 1 (fresh-context cold read, 2026-11-16)
+
+Cold read of the RE-ROOM script (110 words, 18 lines as first
+drafted). Reader saw GATE_E_INPUT.md only. **VERDICT: FAIL** —
+but the story spine passed: Q1–Q4 answerable with citations
+(PASS; the reader recovered all four wants, all blockers, the
+held bed, the desk, the floor settlement, and Peter's
+unclaimed bag; Q4 noted only that the Keeper's own bed
+question is unanswered — which is the booked hanger, not a
+defect), **F-2 PASS** (Elias's bed fought over and won in U5,
+confirmed not revoked in U6; Peter's claim lost irreversibly),
+**F-3 PASS** (all four speakers' wants spoken by them by
+U2). Failed items, verbatim substance:
+
+- **SHUFFLE FAIL** — 4 freely-swapping adjacent pairs: U2
+  Laura ("Without it, Elias sleeps in rain.")→UNC ("I want
+  it sold. Peter!") — "introduces a separate Peter claim";
+  U4 Keeper (money rule)→UNC (slip) — the slip "does not
+  quote, answer, or contradict the money rule"; U5 Keeper
+  (count)→Keeper (teach) — "a self-contained rope
+  explanation"; U5 Keeper (teach)→Keeper (floor rule) — "a
+  separate dry-floor ruling for a different claimant."
+- **COLD-JOIN FAIL** — from U4 alone: (a) the central want
+  (Laura's, for Elias) is not recoverable — she speaks no
+  line in U4; (c) what has been tried is not recoverable —
+  "'Last rule' implies earlier rules but does not state
+  them."
+- **DELETION FAIL — count 5**: Laura U3 ("Peter's never
+  stood here, boss." — failure already established); Keeper
+  U3 ("Carried it. He never spoke." — restates U2's ruling);
+  UNC's slip (no later line refers to it); the teach
+  (outcome already decided); the U6 hanger (question
+  unanswered, outcome pictured).
+
+### Repair round 1 applied (script changes, aimed at the named failures)
+
+1. UNC U2: "**Rain?** I want it sold. Peter!" — the want now
+   quotes and dismisses Laura's stake; the pair no longer
+   swaps.
+2. Keeper's U3 ruling CUT. U3 is now Laura's fact alone;
+   the Keeper's silence grades it, and the fact becomes the
+   load-bearing statement of Peter's second failure.
+3. Slip reworded: "**These hands** weren't at that board
+   tonight." — it now hangs on the money rule's "carrying
+   hands"; the pair no longer swaps. (P-001's wording
+   conformed in the ledger.)
+4. NEW Laura line closing U4: "**Elias hasn't. Peter's
+   hands failed twice.**" — the cold-join unit now carries
+   her counter-claim and the two prior failures; it borrows
+   "hands" from the slip it answers.
+5. U5 reordered (pass → teach → count → floor rule) and the
+   teach reworded: "**Tight ropes, same hands: sleep
+   tight.**" — "same hands" quotes Laura's pass; the count
+   follows as the teach's verdict.
+6. Floor rule reworded: "**Who stays refused: dry floor.**"
+   — hooked to the count (the ten are counted; whoever
+   stays, refused, gets the floor).
+7. Funded by: the U3 cut (−5) and compressing Laura's U1
+   want ("I want it for Elias." — the brother relation is
+   pictured in U1 and U5).
+
+Repaired totals: **110 words, 18 lines, longest 8, sub-4 =
+0** (mechanically counted; SCRIPT.md ≡ GATE_E_INPUT.md
+verified both directions). Re-test with a fresh reader
+follows.
+
+
+## GATE E — RE-ROOM RE-TEST 1 (fresh-context cold read, 2026-11-16)
+
+Cold read of the repair-round-1 script (110 words, 18 lines).
+**VERDICT: FAIL.** Q1–Q4 answerable with citations (PASS —
+all four wants, blockers, the held bed, the desk, the floor
+settlement, Peter's unclaimed bag, and the Keeper's cost all
+recovered); **F-2 PASS** (Elias's bed won at the U5 tag,
+confirmed not revoked in U6; Peter's loss corroborated).
+Failed items, verbatim substance:
+
+- **F-3 FAIL** — on a NEW ground: all four speakers' wants
+  pass ("by U1/U2"), but this reader applies the
+  silent-character clause to the ABSENT principals: "Elias
+  never speaks and never acts in any picture; only his bag
+  acts as a prop… Peter never speaks and never acts." (The
+  read-1 reader had ruled the opposite on the same clause —
+  absent references are not silent characters. The room
+  answers the objection by script change regardless, per
+  F-1: see repair round 2, item 4.)
+- **SHUFFLE FAIL** — 2 pairs, both in U5: teach→count and
+  count→floor rule ("three consecutive Keeper pronouncements
+  carry no quotation, answer, contradiction, or textual
+  dependency"). All round-1 repairs elsewhere held (U2's
+  "Rain?" pair and U4's "These hands" pair explicitly
+  credited as dependent).
+- **COLD-JOIN FAIL** — from U4 alone: (a) Laura's want is
+  not stated ("her only U4 line contains no want and no bed
+  claim for Elias"); (c) what was tried is "not recoverable
+  in substance" — "failed twice" is a bare count without the
+  attempts' content.
+- **DELETION FAIL — count 4**: Laura U3 (her fact is stated
+  in U3's own picture summary: "the door its owner never
+  stood at"); the teach ("same hands" already in the
+  preceding line; the grant fully pictured); the count
+  (restated in U6; bedlessness pictured); the floor rule
+  (outcome pictured in U6).
+
+### Repair round 2 applied (the final Critic round)
+
+1. U5 chain rebuilt to quote itself: teach → "**Held
+   tight: ten names, ten beds.**" (the count as the teach's
+   verdict, in its words) → "**Full ten — who stays
+   refused: dry floor.**" (the floor rule quoting the
+   count). The Keeper's "I'm downstairs" is cut from the
+   count; his price is pictured (the desk) and spoken as
+   U6's question.
+2. Laura's U4 line rebuilt: "**Elias wants it. Peter's
+   hands carried, never spoke.**" — the want stated in the
+   cold-join unit, and one prior attempt's substance (the
+   carrying was done by other hands; the man never spoke).
+3. U3's picture summary no longer duplicates Laura's fact
+   (the doorway is shown empty; the fact is hers alone) —
+   her line is no longer deletable on duplication.
+4. U6 picture: both absent principals now ACT — Elias
+   comes in out of the rain and lies down on the held bed
+   (the grant claimed in person); Peter stands outside the
+   door in the rain, too late, and turns away (his loss
+   given a body and a cost). No allocation changes (ledger
+   F-019).
+5. Funded by: "sleeps in rain" → "sleeps wet" (and UNC's
+   quote follows: "Wet? I want it sold." — the buyer named
+   from U3 on), the slip's "tonight" cut, and UNC's U4
+   attack compressed to a fragment ("Peter's bed — pays
+   tonight.").
+
+Repaired totals: **110 words, 18 lines, longest 8, sub-4 =
+0** (mechanically counted; SCRIPT.md ≡ GATE_E_INPUT.md
+verified both directions). Final re-test with a fresh reader
+follows.
+
+
+## GATE E — RE-ROOM RE-TEST 2 (fresh-context cold read, 2026-11-16)
+
+Cold read of the repair-round-2 script (110 words, 18 lines).
+Reader saw GATE_E_INPUT.md only.
+
+**VERDICT: PASS.**
+
+- **Q1 PASS** — all four speakers' wants recovered with
+  citations (Laura for Elias; the Keeper's quiet; UNC's
+  sale; the Blob Prince's dry bed), plus Elias's want as
+  reported in U4.
+- **Q2 PASS** — the strike and the door test; the
+  spoken/carried distinction; the money rule with its
+  pictured enforcement ("the clerk pushes the envelope back
+  into the old man's chest"); the blob's unliftable sack.
+- **Q3 PASS** — Elias's bed held and then occupied by Elias
+  himself; the sale refused and staying refused; the blob
+  on the dry floor; the Keeper become the eleventh name.
+- **Q4 PASS** — the stake (a dry bed vs sleeping wet) and
+  its outcome "shown, not merely announced, for each
+  party," including the Keeper's cost in his own final
+  line. (The reader noted the U6 picture does not name the
+  man in the rain as Peter, and cited the loss for Peter's
+  claim/bag rather than the man's identity — the picture
+  summary's restraint is recorded here as read.)
+- **F-2 PASS** — Elias's bed fought over across U1–U5,
+  decided at the U5 HELD tag, "not revoked in U6, where it
+  is completed" (Elias in the bed); Peter's loss
+  corroborated (envelope refused; bag unclaimed).
+- **F-3 PASS** — all four speakers' wants spoken by them by
+  U2 (table in the reader's report); the non-speaking
+  characters accounted for: Elias's decisive action (he
+  comes in and lies down on the held bed — "the win is
+  sealed on screen") and Peter's reported carrying as the
+  ground of his failure.
+- **SHUFFLE PASS** — no freely-swapping adjacent pairs;
+  the reader traced the dependence in every pair, including
+  the rebuilt U5 chain ("same hands" → "tight" → "Full
+  ten").
+- **COLD-JOIN PASS** — from U4 alone: both wants (UNC's
+  purchase; "Elias wants it"), the blockers (the money
+  rule, enforced in picture; the speaking condition), and
+  what was tried (the carrying; the payment; the verbal
+  exception).
+- **DELETION PASS — count 3** (limit ≤3): Laura's U3 fact
+  (its absence is pictured and its consequence restated in
+  U4 — kept as the questioning job's NAME beat, F-8), the
+  teach (kept by doctrine: the msg-524 teach beat, spoken
+  at the moment of use), and the count (kept: the verdict
+  the floor rule and the hanger both quote). Every other
+  line was found to carry unique, load-bearing information.
+
+**GATE E: PASS. The script is LOCKED** (see SCRIPT.md status
+and the DECISION_LOG re-room entry). The blocked candidate's
+four failed reads and this re-room's two failed reads are
+preserved above, in order.

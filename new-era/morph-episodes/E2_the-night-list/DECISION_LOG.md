@@ -1104,3 +1104,146 @@ repair round 2, recovery-completed + Gate E repair round 3).*
   the self-written-name hanger are worth carrying over.
 - This directory is committed as WIP for persistence, clearly
   labeled BLOCKED — it is not a locked script.
+
+
+---
+
+## RE-ROOM + LOCK (2026-11-16) — supersedes the BLOCKED entry above
+
+**What was wrong (the blocked candidate, four failed cold
+reads):** the round-3 read was close — Q1–Q4, F-2, F-3 and
+cold-join passed on the main thread — but four defects held:
+(1) the Dispatcher's want ("I want my log believed") had no
+blocker, no motive, and no on-screen resolution — a dangling
+subplot in a five-speaker episode; (2) the U2 wants were
+stacked announcements that swapped freely (shuffle fail);
+(3) four lines were deletable, including the money rule —
+stated but never visibly applied; (4) U4's causality failed:
+the clerk's bed was stripped for a claimant who had already
+failed the test both ways, with no stated reason the sale
+could proceed.
+
+**What changed (the re-room):**
+- **The Dispatcher is CUT as a speaker** (the coordinator's
+  sanctioned option; the bible's cast rotation is Keeper +
+  one fighter + one pressure). The count and the HELD tag
+  become the Keeper's own acts — the count is now spoken by
+  the man it costs, which also killed one deletable line and
+  the U2 want-stack.
+- **The money rule BITES in U4:** UNC strips Bed 10 in
+  picture as defiance with a stated destination and a price,
+  and the Keeper pushes Peter's envelope back into UNC's
+  chest in the same unit — the rule visibly stops the sale.
+- **Laura's U3 line carries a new fact** ("Peter's never
+  stood here, boss.") instead of restating the ruling; it
+  plants the absence that U6's picture pays.
+- **U2's wants are twined as answers,** each borrowing the
+  line before it ("Quiet?" / "Rain?"→"Wet?" / "outside").
+- **Carried over, per the coordinator's ruling:** the Blob
+  Prince invasion, the floor rule (sign → spoken → cashed),
+  the self-written-name hanger, the door test, the SR-1
+  complaint.
+- **Gate E path:** re-room read 1 passed Q1–Q4/F-2/F-3 and
+  failed the three master tests (shuffle 4; cold-join;
+  deletion 5) → repair round 1 (UNC's want quotes the
+  stake; the Keeper's U3 mirror ruling cut; the slip hung
+  on the rule's word "hands"; a Laura line closing U4; U5
+  reordered) → re-test 1 passed Q1–Q4/F-2, failed F-3 (a new
+  ground: the absent principals perform no action), shuffle
+  (the U5 pronouncements still swapped), cold-join (want
+  and substance), deletion (4) → repair round 2 (the U5
+  chain rebuilt to quote itself — teach → "Held tight" →
+  "Full ten"; Laura's U4 line states the want and one
+  attempt's substance; U6's picture gives both absent
+  principals a decisive action — Elias takes the bed in
+  person, Peter turns away outside too late; U3's picture
+  summary de-duplicated) → **re-test 2: PASS, all items,
+  deletion count 3.** Full record in GATE_E.md; the blocked
+  attempt's four reads are preserved above it.
+
+**Lock data:** 110 words, 18 lines, longest line 8,
+sub-4-word lines 0, connective lines 7. Cast: 4 speaking
+(Keeper, Laura, UNC, Blob Prince) + 2 absent principals who
+act in U6 picture (Elias, Peter). The Dispatcher does not
+speak in E2.
+- **Irreversible payoff (F-2):** Bed 10 is held for Elias
+  under the stated door test — Laura speaks the name and
+  carries the bag herself in U5; the Keeper hangs the HELD
+  tag; U6 completes it in picture (Elias in the bed), never
+  revoked. Peter's purchase is irreversibly refused (the
+  envelope pushed back, U4; the bag unclaimed, U6). The
+  win's price: the Keeper's own name goes fresh at the
+  board's foot and he sleeps at his desk.
+- **Teach beat:** the ropes (U5, the Keeper, as Laura
+  tightens them): "Tight ropes, same hands: sleep tight."
+  — the real rope-bed origin of "sleep tight," and the
+  grant's mechanism, spoken at the moment of use.
+- **Whimsy set-piece:** the Blob Prince entire — a
+  maximum-expression heir oozing under the door with his
+  crown slipping, ending the night asleep in the dry corner
+  on a dragged doormat, his sack for a pillow, snoring in
+  bubbles; plus U3's bags lined at the stair foot like a
+  second, sadder queue.
+- **Direct-address beat (1):** U6, the Keeper to camera —
+  the hanger itself: "Eleven names, ten beds — which bed's
+  mine?" (the episode's designated quotable line).
+- **Closing order:** verdict (U5: pass → teach → count →
+  floor rule) → the win's price pictured (desk, board) →
+  hanger (U6, QUESTION).
+
+**MSG-528 SAUCE MAP (which reference-format mechanics this
+script uses, and where):**
+- **Dookie empire — persistent situation, power-only
+  moves, worn continuity:** one legible system (the board,
+  the door test) with zero exposition; the situation
+  persists and only the power moves (Keeper prices Laura →
+  UNC prices the house → the test out-prices money →
+  Laura's pass out-prices the Keeper, who ends bedless);
+  continuity is worn (the bags' tracked journeys; the
+  board's states; the vermilion chalk, strike and
+  self-writing in the same colour); ends mid-consequence.
+- **Number-on-head empire — stated ranks, call-outs, spoken
+  moral:** the count is spoken aloud at every turn
+  (eleven names; held tight, ten and ten; eleven names,
+  ten beds); rank is legible at a glance (the HELD tag; the
+  name at the foot of the board); the house's principle is
+  spoken as law at the grant (the floor rule); the close
+  is a formal challenge — the Keeper's question, to camera.
+- **Fruit love island soaps — twined claims, one value
+  change + one open question:** exactly one value change
+  (the eleventh name: struck → held for Elias) and exactly
+  one open question (which bed is the Keeper's?); the hook
+  line states the conflict in the first breath (the SR-1
+  complaint, with the count in it); claims are twined —
+  Laura's, UNC's, and the blob's all pull on the same bed
+  and are graded by the same stated test; the hanger is
+  booked for E3's first beat (SR-1).
+- **Brainrot — maximum expression, load-bearing
+  outlandishness:** the Blob Prince entire (an empire's
+  heir, refused by a door test, settled on a doormat); the
+  bags' sadder queue; every beat readable cold off the
+  picture.
+
+**INVASION LOG (msgs 529/530/532 — reference formats, our
+cosplay/parody originals per msg-486):**
+- **Invader:** THE BLOB PRINCE — a round, permanently damp
+  blob creature, grey-green, wearing a slipping crown; heir
+  and envoy of a body-world colony and its Queen (claimed
+  by him, gestured at in the wet dark, never shown closer,
+  never explained).
+- **Source format:** the dookie empire (a maximum-expression
+  blob creature from a body-world colony, arriving with a
+  rank claim on the house's resources).
+- **Want:** a dry bed — "Mine's outside. I want a dry bed."
+  (U2, twined on the Peter ruling) — colliding with the
+  host plot: the same contested bed.
+- **Lore function:** the second control case — a claimant
+  with everything except the test's terms. The house
+  processes the empire's heir by its own rules and the
+  house wins: refused a bed by the door test, settled by
+  the floor rule (pictured on the sign from U2, spoken U5,
+  cashed U6 — asleep in the dry corner under the stair on
+  the dragged doormat, his sack for a pillow). The invasion
+  costs the house a corner and costs him his rank for the
+  night. His colony's claim stands unanswered — planted as
+  P-008, payoff E4 (THE INVASION CIRCUIT).
