@@ -219,3 +219,31 @@ is a continuity defect of word-count class)
   Eli's never did" (F-013); the queue showing what the town
   is holding (PL-10, the citizenship offer honoured).
 - PL-2's remind is due inside E3's docket.
+
+---
+
+## PRODUCTION STATUS — 2026-11-17 (delivery record, not canon)
+
+E2 was produced end to end by the replacement coordinator
+(master: masters/E2_hold-on_16x9.mp4, md5
+a33c76810b015174863fb66acf8490e4, 1440f, all format/BLAM/
+joint gates measured — work/GATE_LOG.md). **The F-9 story
+gate FAILED on the finished master in two independent cold
+reads** (run 1 on a procedurally defective unattributed
+input; run 2 on the protocol-correct attributed input —
+work/GATE_E_F9_VERDICT2.md). Per F-9 law the episode is
+**NOT DELIVERED** and no E2_DELIVERED.flag exists.
+
+Consequence for this ledger: the facts above (F-009..
+F-016, PL-9..PL-11, the E3 anchors) stand as the LOCKED
+SCRIPT's canon design, but they are NOT delivered canon —
+the episode that would have enacted them did not pass its
+story gate. Until a repaired E2 passes F-9 and ships, E3's
+room must treat the marriage, the key handover, and the
+cook's-tin hanger as BOOKED-BUT-UNAIRED: the hanger's due
+date (E3 U1) cannot be paid by an episode that has not
+aired. Picture-level note for any repair build: in the
+gated-out master, the Fruit Couple's noon-bell slip
+(F-016's settling beat) never reads on screen — U5 shows
+them still holding; the drop is visible only as U6
+aftermath.
