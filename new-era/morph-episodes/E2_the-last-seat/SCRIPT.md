@@ -1,7 +1,6 @@
 # SCRIPT — THE LAST SEAT · Night Two: The Landlord's Test
 
-**Status: LOCKED-CANDIDATE — GATE E REPAIR APPLIED —
-[INVASION] PASS APPLIED 2026-11-16, pending Gate E re-test** —
+**Status: LOCKED — Gate E re-test PASS; [INVASION] PASS APPLIED 2026-11-16; Gate E POST-INVASION RE-TEST PASS (GATE_E.md, third section)** —
 Writers Room Passes 1–5 complete; the fresh-context Gate E
 reader FAILED the candidate (see GATE_E.md), and the repair
 pass below applied that reader's minimum changes surgically
