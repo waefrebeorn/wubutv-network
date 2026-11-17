@@ -705,4 +705,74 @@ picture summaries of the REPAIRED picture — the input defect
 of the first run repaired as mandated. Fresh-context cold
 read; verdict appended below.
 
+### F-9 RE-RUN — VERDICT: **FAIL** (2026-11-17) — EPISODE DOES NOT SHIP
+
+Fresh-context cold read on GATE_E_MASTER_INPUT2.md only.
+Full text: GATE_E_MASTER2.md. Tally against the five PASS
+requirements: (1) retell coherent — NOT MET · (2) every
+speaker's want spoken by them — NOT MET · (3) payoff won/lost
+irreversibly — **MET** · (4) the creature's fate + the
+deciding rule clear — NOT MET · (5) the count change clear —
+NOT MET.
+
+**What the repair fixed, per the reader:** requirement (3)
+failed on the first master and is MET now — Elias's win is
+on screen and irreversible (the HELD tag hung by the
+Keeper's own hand in U5; Elias asleep on the held bed in
+U6), the blob's loss and UNC's refused bid both read as
+losses, and the board states (ELIAS at the foot; KEEPER
+fresh at the very foot) are pictured facts, no longer
+gibberish. The attribution defect is gone — every want the
+reader could assign, they assigned correctly (Laura, the
+Keeper, the Blob Prince all PASS Q2).
+
+**Why it still fails — the reader's specifics, recorded
+plainly:**
+- **Q2/UNC:** "I want it sold" has no antecedent for "it"
+  and sits against his pictured act (offering money =
+  buying); "Peter's bed — pays tonight" is a fragment. His
+  want is never stated in one plain sentence. (Script-level
+  line; the script Gate E passed it, the master cold read
+  does not.)
+- **Q4/the rule:** the door test is never stated in one
+  plain sentence — only its fragments across U1/U2/U4/U5 —
+  and no line states the proxy distinction: Laura claims
+  for Elias and passes; UNC handles Peter's claim and
+  fails; the difference is performable from the lines but
+  never stated, so equal application "cannot be verified."
+- **Q5/the count:** the reader's arithmetic: opening 11 →
+  U5's "ten names, ten beds" → U6's 11 with KEEPER named
+  "the eleventh name" — while the U6 picture shows ELIAS
+  fresh over the strike remnant, which the reader takes as
+  Elias restored (making the Keeper twelfth). The intended
+  arithmetic (strike −1, ELIAS into the struck slot = still
+  ten, KEEPER fresh = eleven) is not the read the material
+  forces. What removed a name between the opening and U5
+  "is never stated."
+- **Q1/links:** "him" in Laura's first line resolves only
+  retroactively at U6; UNC's identity/relation to Peter
+  never stated; Peter never appears and his fate is never
+  stated; the man in the wet tan overcoat is unnamed (the
+  deletion test's Peter reading stands invited-but-
+  unsupported); and Elias is never shown arriving — **the
+  conform cut his entrance with the doubled span, a real
+  cost of the U6r base, now confirmed by the cold read** —
+  he is simply asleep on the bed in U6. The Keeper's closing
+  question also lacks a set-up referent: no Keeper bed was
+  ever established (U5's desk corner: "no bed").
+
+**Ruling per the brief: second F-9 FAIL = STOP. No third
+run. No disclosure-shipping. E2_DELIVERED.flag NOT SET.**
+The v2 master stands on disk as the repaired-but-unshipped
+master; the failed first master keeps its name and record.
+Any further repair is a new authorization: the reader's own
+minimum-repair list (GATE_E_MASTER2.md) is mostly
+script-level (UNC's want stated plainly; the test stated in
+one sentence incl. the proxy rule; the count arithmetic
+made forcible; the overcoat man identified or cut; Elias's
+arrival pictured) — i.e. a room decision plus new takes,
+not another conform. The replacement coordinator's mandate
+ends here; specifics reported to the parent in full.
+
+
 

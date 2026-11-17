@@ -281,3 +281,41 @@ canon.
   defect). No ship. Repair path: U6 refire, then fresh F-9.
 - E2_DELIVERED.flag NOT SET — blocked by the F-9 FAIL and the
   parent's refire rulings above.
+
+## 7. REPAIR OUTCOME (2026-11-17, repair coordinators)
+
+- Repair executed under the parent's mandate (3 of 8 repair
+  video calls used; the rest of the repair was an edit):
+  U5 refired (takes/u5r.mp4 — Keeper/UNC merge gone, canon
+  blob restored, single-level beds, HELD tag legible); U6
+  refired twice (u6r kept as base — blank board, clean
+  Peter, verbatim line; u6r2 rejected — burned-in subtitles
+  + the Elias double persisted). First repair coordinator
+  died on a transport error after logging the conform plan;
+  the replacement executed it: U6 conform = held-board
+  freeze (GAP 3 realized) → writing at the blank board →
+  Elias asleep on the held bed → final-board plate (KEEPER
+  fresh at the foot, the restore READ) → the take's tableau;
+  the doubled doorway span cut; audio continuous.
+- Repaired master: masters/E2_the-night-list_v2.mp4 —
+  1280×720, 24fps, exactly 1440f / 60.000s, CRF 18 (1.89×
+  differential), AAC 48k, faststart, bug, 20,755,422 B,
+  md5 97bf385fefface7ea199cf9f5b690096. Gates: loudness
+  −18.50 LUFS / TP −1.49; BLAM A1/A2/A4/V1/V2/E1 PASS, A3
+  letter-fail carried + disclosed; ASR verbatim all units;
+  wordmark PASS; joints J1–J5 PASS (J5 eye; MAE calibration
+  logged). Full record: work/GATE_LOG.md, REPAIR sections.
+- **F-9 RE-RUN on the repaired master (house-format
+  attributed input, GATE_E_MASTER_INPUT2.md): FAIL**
+  (GATE_E_MASTER2.md). Requirement (3) payoff now MET —
+  the repair's central fix landed — but (1) retell, (2)
+  UNC's want, (4) the rule stated/equal application, and
+  (5) the count arithmetic still fail a cold read. The
+  remaining defects are script-level legibility (plus
+  Elias's arrival, lost when the doubled span was cut).
+- **E2_DELIVERED.flag NOT SET. No ship, no third F-9 run**
+  (the brief's stop rule). Any further repair needs a new
+  authorization and, per the reader's minimum-repair list,
+  room-level script decisions plus new takes — not another
+  conform. Canon above (§§1–5) is unaffected: it records
+  the story as scripted; the episode simply has not shipped.
