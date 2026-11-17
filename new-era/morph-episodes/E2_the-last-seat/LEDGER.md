@@ -234,3 +234,20 @@ and paid inside the episode (claim tested and lost, E2 U4;
 loss accepted, E2 U5–U6). Fact added: F-014. The seat's
 owed status, the cash tallies (32 / 41), the shows-left
 counter (4), and all E3 anchors are unchanged by the pass.
+
+**E2 DELIVERY (2026-11-17).** The episode shipped as
+masters/E2_the-last-seat_MASTER.mp4 (md5
+9635a098436ccdf1d0ad39f4f499b827; 1280×720, 24fps,
+1440f/60.000s, CRF 18, AAC 48k, faststart, −19.62 LUFS).
+The forecast above landed on screen in full: P-201 encore
+PAID (phrase clean ×3, tapped), P-202 key plant PAID (box +
+flat key to the Collector at U5; ring EMPTY into E3),
+P-203 price-of-staying PAID (the Occupant stayed), P-205
+invasion PAID (claim lost U4, back-row seats U5–U6),
+P-204 stands BOOKED due E3's first beat (letter read on
+screen; the debt — the house owes the Occupant its seat —
+declared in the closer). F-9 story gate on the finished
+master: PASS (work/qc/F9_GATE_E.md). Delivery record:
+work/GATE_LOG.md. E3 inherits exactly what §6–§8 record:
+counter 4, no cash box, empty key ring, read letter, the
+owed seat, the couple in the back row, face WITHHELD.
