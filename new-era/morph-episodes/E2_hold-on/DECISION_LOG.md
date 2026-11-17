@@ -987,3 +987,132 @@ The room does not self-certify Gate E.
   architecture are worth carrying into the re-room.
 - This directory is committed as WIP for persistence, clearly
   labeled BLOCKED — it is not a locked script.
+
+
+---
+
+## RE-ROOM + LOCK (2026-11-16) — supersedes the BLOCKED entry above
+
+**What was wrong (the blocked candidate, three failed cold
+reads):** the failure was structural, per the coordinator's
+ruling — too many machines for 110 words: the Courier
+belief-subplot as an engine, the KEPT coda (pocketed
+bell-flower, an unanswered closing question), the
+bouquet→brass transformation meter, and the cake cart/catch,
+around a room stake that was only ever discussed and never
+shown resolved. Each line-level repair closed the named
+items and the next reader found the density failing
+elsewhere (deletion 5 → 8 → 7 against a limit of 3).
+
+**What changed (the re-room):**
+- **New skeleton: S1 THE DOOR TEST** (was S3 Wish Ladder).
+  Keeper states the test → claimant fails on the stated
+  evidence → adapts exactly one thing → retries → third
+  attempt resolves. One machine only: the hold.
+- **Dropped entirely:** the brass meter, the cake cart and
+  catch, the KEPT coda and pocketed bell-flower, the
+  Courier belief-subplot as engine (her series want is now
+  REFUSED BY RULE in U2 — decided in the open, not orbited),
+  and the blocked draft's ledger machinery (struck on the
+  record in LEDGER.md).
+- **The room stake resolves ON SCREEN:** bags set out (U4,
+  cost beat), key into June's hand and bags carried INTO
+  the room (U6 picture) — the exact Q4 failure of the
+  blocked reads, closed in picture.
+- **The win is caused:** two failures with two distinct
+  pictured causes (the load, the startle), one teach (the
+  thumb-lock) that names the second cause, and a third
+  attempt that applies exactly the taught variable.
+- **Carried over, per the coordinator's ruling:** the Fruit
+  Couple invasion and the spoken-want architecture.
+- **Gate E path:** re-room read 1 FAILED (F-3 — the
+  Watcher's want unspoken; shuffle 4; cold-join; deletion
+  6) → repair round 1 (his want spoken as the U2 ruling;
+  pairs twined; U3 deadline line cut; June's U4 line rebuilt
+  for the cold-join; hanger answers the moral) → re-test 1
+  passed everything except deletion (6) → repair round 2
+  (Courier's U5 line cut; the diagnosis made an imperative
+  June obeys; the direct address's question answered by the
+  moral) → **re-test 2: PASS, all items, deletion count 2.**
+  Full record in GATE_E.md; the blocked attempt's three
+  reads are preserved above it.
+
+**Lock data:** 102 words, 14 lines, longest line 10,
+sub-4-word lines 0, connective lines 5. Cast: 4 speaking
+principals + the Fruit Couple in unison; 2 silent (Eli —
+the F-3 silent principal, decisive bag deed U4; Laura —
+the chalk hand-off U5).
+- **Irreversible payoff (F-2):** June and Eli are written
+  MARRIED at the noon bell under the stated rule, beating
+  the Fruit Couple's rival claim to the same room; U6
+  confirms in picture (key in June's hand, bags carried
+  in). The Courier's want is irreversibly refused by rule
+  in U2.
+- **Teach beat:** the thumb-lock (U3, the Courier): a
+  startle opens fingers; locked thumbs don't open — taught
+  inside the problem, used at the winning bell.
+- **Whimsy set-piece:** U3's statue-freeze — the whole
+  queue frozen at the bell holding its proofs (ladder, fish
+  tank, the frog in a morning suit with a tiny ring box);
+  only June's hand moves.
+- **Direct-address beat (1):** U4, the Courier to camera —
+  "Hold yours with both hands. Tell us — who else can?" —
+  answered in U6 by her own moral, "Nobody holds your life
+  for you." (the episode's designated quotable line).
+- **Closing order:** verdict (U5) → moral (U6) → hanger
+  (U6, QUESTION: the cook's empty tin — E3's theft docket,
+  booked in the ledger).
+
+**MSG-528 SAUCE MAP (which reference-format mechanics this
+script uses, and where):**
+- **Dookie empire — persistent situation, power-only
+  moves, worn continuity:** one legible system (hold at the
+  bell; the wall writes) with zero exposition; the
+  situation never resets — only the power moves (Watcher
+  prices June → June's earned hold out-prices the Watcher →
+  the Watcher prices a Holder's hands next, via the
+  hanger); continuity is worn on bodies and props (the
+  ring's journey palm → arms → ground → locked hands →
+  finger; the room key hook → hand); the episode ends
+  mid-consequence on a situation hanger.
+- **Number-on-head empire — stated ranks, call-outs, spoken
+  moral:** standings are spoken aloud (the failure count in
+  June's U4 line; the deadline; the rival claim); rank is
+  legible at a glance (MARRIED chalked in two-hand span;
+  the key changing hands); the moral is spoken in plain
+  words by the figure who paid for it; the close is a
+  formal challenge (the Watcher's "Nobody?" aimed at the
+  Courier's hands).
+- **Fruit love island soaps — twined claims, one value
+  change + one open question:** the two couples' claims are
+  twined on the same room and settled by the same test at
+  the same bell; exactly one value change (unmarried →
+  married, with the room kept) and exactly one open
+  question (the cook's tin); the hook line states the
+  conflict and the stake in the first breath; every want
+  and fact is spoken plainly; the hanger is booked for
+  E3's first beat (SR-1).
+- **Brainrot — maximum expression, load-bearing
+  outlandishness:** the Fruit Couple's maximum-expression
+  faces at every bell; the statue-freeze pageant (a frog in
+  a morning suit with a ring box is the queue's normal);
+  every beat readable cold off the picture alone.
+
+**INVASION LOG (msgs 529/530/532 — reference formats, our
+cosplay/parody originals per msg-486):**
+- **Invader:** THE FRUIT COUPLE — a Peach and a Lime in
+  wedding clothes, clutching one shared bouquet.
+- **Source format:** the fruit love island soaps (fruit
+  characters arriving with soap-opera relationship claims).
+- **Want:** to be written coupled FIRST — "Write us coupled
+  first." (U2, in unison) — colliding head-on with June's
+  want: the same wall, the same chalk, the same one room.
+- **Lore function:** the rival claimants are the control
+  experiment for the win — same stated test, same bell,
+  opposite result: at the noon bell both their hands slip
+  off the shared stem and each lets go entirely to blame
+  the other; the house system processes their claim by its
+  own rules and the house wins. Their claim is left unpaid
+  and travelling: THE INVASION CIRCUIT (LEDGER PL-9) — the
+  same couple recurs in THE LAST SEAT E2 chasing a seat
+  there.

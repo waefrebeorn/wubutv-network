@@ -296,3 +296,175 @@ F-3: PASS on the letter of the test. Caveat carried into Story Sense: the Watche
 8. Cold-join: add one line in U4 recapping what has already been tried (two failed holds at the bell; her hand opened, his did not) so a U4 joiner recovers the attempts, not only the admission in U5.
 
 GATE E ROUND-2 RE-TEST: FAIL
+
+
+---
+
+## GATE E — RE-ROOM READ 1 (fresh-context cold read, 2026-11-16)
+
+Cold read of the RE-ROOM script (S1 THE DOOR TEST; 110 words,
+16 lines as first drafted). Reader saw GATE_E_INPUT.md only.
+**VERDICT: FAIL** — Q1–Q4 answerable with citations (PASS);
+F-2 PASS (the room / being written first, fought over by
+June's couple and the Fruit Couple, decided U5, confirmed not
+revoked U6: key in the bride's hand, bags carried in). Failed
+items, verbatim substance:
+
+- **F-3 FAIL** — "WATCHER — Never spoken. By end of U2 he has
+  spoken only instructions/rules… No line states a want of his
+  own." (June U1, Courier U1, Peach and Lime U2 all passed;
+  the silent woman's chalk hand-off and the groom's bag deed
+  were both credited as decisive physical actions.)
+- **SHUFFLE FAIL** — 4 freely-swapping adjacent pairs: U1
+  Watcher→Courier (her want does not answer his instruction);
+  U2 Watcher ("One room. First written keeps it.")→Courier
+  (her observation does not answer the room rule); U3
+  Courier→Watcher (his time announcement does not answer the
+  snap explanation); U6 Courier→Watcher (his next-case
+  announcement does not answer her moral).
+- **COLD-JOIN FAIL** — from U4 alone: the want to be *written
+  married* is not recoverable (U4 mentions neither married,
+  writing, nor the wall); the Courier's want is not
+  recoverable; what was tried on the two bells (ring hold,
+  loaded arms, bare hands) cannot be recovered — "U4 says
+  only that two bells were opened."
+- **DELETION FAIL — count 6**: Watcher U2 ruling ("no
+  hired-hands claim is ever decided"); Courier U2 diagnosis
+  (picture carries the load); Watcher U3 deadline line (noon
+  already in U1/U4); June U4 line (content duplicated);
+  Courier U6 moral (post-outcome coda); Watcher U6 hanger
+  (next-case teaser, pictured anyway).
+
+### Repair round 1 applied (script changes, aimed at the named failures)
+
+1. Courier U1: "I want **that hold** believed without the
+   wall." — quotes the Watcher's test line; the U1 pair no
+   longer swaps.
+2. Watcher U2: "**I want couples written.** Not hired
+   hands." — the authority's want spoken by him, in plain
+   words, by U2 (F-3); the ruling is now a desire, not only
+   a rule, and it decides the Courier's claim in the open.
+3. Courier U2: "Bouquet, veil, sleeve — **she won't be
+   first**." — the diagnosis now quotes and prices the room
+   rule; the pair no longer swaps, and the line states a
+   consequence the picture does not.
+4. Watcher U3 deadline line CUT — the noon deadline is
+   carried by U1 and the U5 noon bell; U3's pressure is
+   pictured.
+5. June U4: "**Loaded, then bare, I opened — write us
+   married, thumbs locked.**" — cold-join rebuilt: tried
+   (both ways), want (married), method (locked) in one
+   breath; the room stake is U4's picture.
+6. Watcher U6: "**Nobody?** Next: the cook. Who brought his
+   tin back empty?" — the hanger now answers the moral with
+   a counter-case; moral and hanger are mutually
+   load-bearing.
+
+Repaired totals: **105 words, 15 lines, longest 10, sub-4 =
+0** (mechanically counted; SCRIPT.md ≡ GATE_E_INPUT.md
+verified both directions). Re-test with a fresh reader
+follows.
+
+
+## GATE E — RE-ROOM RE-TEST 1 (fresh-context cold read, 2026-11-16)
+
+Cold read of the repair-round-1 script (105 words, 15 lines).
+**VERDICT: FAIL — on one item only.** Q1–Q4 answerable with
+citations (PASS — the reader recovered all four wants
+including the Watcher's, both failure causes, the thumb-lock
+win, and the room outcome shown in U6 picture); **F-2 PASS**;
+**F-3 PASS** (all four speakers' wants spoken by them by U2;
+silent characters' decisive deeds credited); **SHUFFLE
+PASS** (every adjacent pair shown to quote, answer, or
+depend — including the repaired U1, U2, and U6 pairs);
+**COLD-JOIN PASS** (from U4 alone: want = "write us
+married, thumbs locked"; blocker = her opening hand + the
+bags at the door; tried = "loaded, then bare"). Failed item:
+
+- **DELETION FAIL — count 6**: Courier U2 diagnosis ("a
+  prediction only; no one acts on the prediction"); June U3
+  question (picture shows it; U4 restates); June U4 line
+  ("a recap of U2–U3 plus a repeat of the U1 request");
+  Courier U4 direct address ("no answer to 'Tell us what'
+  ever appears"); Courier U5 ("Thumbs locked. Count with
+  me." — picture carries it); Watcher U6 hanger
+  ("post-resolution next-case material").
+
+### Repair round 2 applied (the final Critic round)
+
+1. Courier U5 line CUT — U5's speech is the verdict alone;
+   her arrangement and finger-count are picture business
+   (the U5 picture summary now says so).
+2. Courier U2 diagnosis → imperative: "Bouquet, veil,
+   sleeve — **drop them, be first**." June obeys it on
+   screen at U3's first frame; the line is acted on.
+3. Direct address → "**Hold yours with both hands. Tell us
+   — who else can?**" — the question is now answered in
+   U6's dialogue by her own moral: "Nobody holds your life
+   for you." (The ONE SHORT pattern: an address answered
+   and used in later dialogue.)
+4. Kept, by law, accepting the ≤3 budget: June's U4 line
+   (the cold-join test passes BECAUSE it recaps — the two
+   master tests are in tension and the addendum budgets
+   ≤3 deletable, not 0), June's U3 question (the teach's
+   prompt), and the hanger (SR-1/SR-2 require it; it
+   answers the moral in-episode via "Nobody?").
+
+Repaired totals: **102 words, 14 lines, longest 10, sub-4 =
+0** (mechanically counted; SCRIPT.md ≡ GATE_E_INPUT.md
+verified both directions). Final re-test with a fresh reader
+follows.
+
+
+## GATE E — RE-ROOM RE-TEST 2 (fresh-context cold read, 2026-11-16)
+
+Cold read of the repair-round-2 script (102 words, 14 lines).
+Reader saw GATE_E_INPUT.md only.
+
+**VERDICT: PASS.**
+
+- **Q1 PASS** — all four wants recovered with citations:
+  June ("Write us married, or noon loses our room."), the
+  Watcher ("I want couples written. Not hired hands."), the
+  Courier ("I want that hold believed without the wall."),
+  the Fruit Couple ("Write us coupled first.").
+- **Q2 PASS** — the failing hold in its three pictured
+  stages (slip, load, startle), the Courier's stated cause
+  ("The snap startles fingers. Lock thumbs."), and the
+  one-room contest.
+- **Q3 PASS** — the locked hold holds, the hired hands are
+  withdrawn before the bell, MARRIED is chalked, the key
+  changes hands, the rivals remain unwritten.
+- **Q4 PASS** — the stake (the sole room, the noon deadline)
+  and its outcome SHOWN, not merely announced: "the outcome
+  was shown, not merely announced: … the keeper takes the
+  room key off its hook and puts it in the bride's hand."
+- **F-2 PASS** — the room / first writing, fought over by
+  both couples under the stated rule, decided at the U5
+  bell and confirmed not revoked in U6 (key in hand, bags
+  carried in, rivals unwritten).
+- **F-3 PASS** — every speaker's want spoken by them in
+  plain words by U2 (table in the reader's report); the
+  non-speaking characters' decisive deeds credited (the
+  groom's bag deed, the silent woman's chalk hand-off, the
+  Courier's hand withdrawal).
+- **SHUFFLE PASS** — no freely-swapping adjacent pairs;
+  the reader traced the dependence in every pair, including
+  the repaired U1 ("that hold"), U2 ("be first"), and U6
+  ("Nobody?") pairs.
+- **COLD-JOIN PASS** — from U4 alone: want ("write us
+  married, thumbs locked"), blocker (her opening hand; the
+  bags at the door), tried ("loaded, then bare").
+- **DELETION PASS — count 2** (limit ≤3): June's U4 line
+  ("a pure recap" — kept by law: the cold-join test passes
+  because it recaps; the two master tests' tension is
+  budgeted by the addendum at ≤3, not 0) and the Watcher's
+  U6 hanger (the SR-1/SR-2 booked promise; it answers the
+  moral in-episode). Every other line was found to carry a
+  unique want, rule, causal step, the verdict, or the
+  episode's stated point.
+
+**GATE E: PASS. The script is LOCKED** (see SCRIPT.md status
+and the DECISION_LOG re-room entry). The blocked candidate's
+three failed reads and this re-room's two failed reads are
+preserved above, in order.
