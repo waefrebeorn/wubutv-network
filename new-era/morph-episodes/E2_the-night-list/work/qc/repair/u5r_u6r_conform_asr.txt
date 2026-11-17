@@ -1,0 +1,222 @@
+== u5r_c.mp4
+[
+ {
+  "start": 0.0,
+  "end": 6.92,
+  "text": "Elias spoken carried same hands tight rope same hands sleep tight held tight ten names ten beds",
+  "avg_logprob": -0.283,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Elias",
+    "start": 0.0,
+    "end": 0.5,
+    "probability": 0.621
+   },
+   {
+    "word": " spoken",
+    "start": 0.5,
+    "end": 0.9,
+    "probability": 0.348
+   },
+   {
+    "word": " carried",
+    "start": 0.9,
+    "end": 1.36,
+    "probability": 0.621
+   },
+   {
+    "word": " same",
+    "start": 1.36,
+    "end": 1.72,
+    "probability": 0.736
+   },
+   {
+    "word": " hands",
+    "start": 1.72,
+    "end": 2.14,
+    "probability": 0.986
+   },
+   {
+    "word": " tight",
+    "start": 2.14,
+    "end": 2.78,
+    "probability": 0.625
+   },
+   {
+    "word": " rope",
+    "start": 2.78,
+    "end": 3.12,
+    "probability": 0.648
+   },
+   {
+    "word": " same",
+    "start": 3.12,
+    "end": 3.44,
+    "probability": 0.943
+   },
+   {
+    "word": " hands",
+    "start": 3.44,
+    "end": 3.74,
+    "probability": 0.824
+   },
+   {
+    "word": " sleep",
+    "start": 3.74,
+    "end": 4.06,
+    "probability": 0.972
+   },
+   {
+    "word": " tight",
+    "start": 4.06,
+    "end": 4.4,
+    "probability": 0.997
+   },
+   {
+    "word": " held",
+    "start": 4.4,
+    "end": 5.2,
+    "probability": 0.85
+   },
+   {
+    "word": " tight",
+    "start": 5.2,
+    "end": 5.54,
+    "probability": 0.999
+   },
+   {
+    "word": " ten",
+    "start": 5.54,
+    "end": 5.98,
+    "probability": 0.677
+   },
+   {
+    "word": " names",
+    "start": 5.98,
+    "end": 6.32,
+    "probability": 0.988
+   },
+   {
+    "word": " ten",
+    "start": 6.32,
+    "end": 6.54,
+    "probability": 0.947
+   },
+   {
+    "word": " beds",
+    "start": 6.54,
+    "end": 6.92,
+    "probability": 0.99
+   }
+  ]
+ },
+ {
+  "start": 7.44,
+  "end": 9.54,
+  "text": "full ten who stays refused dry floor",
+  "avg_logprob": -0.283,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " full",
+    "start": 7.39,
+    "end": 7.74,
+    "probability": 0.911
+   },
+   {
+    "word": " ten",
+    "start": 7.74,
+    "end": 8.0,
+    "probability": 0.874
+   },
+   {
+    "word": " who",
+    "start": 8.0,
+    "end": 8.2,
+    "probability": 0.987
+   },
+   {
+    "word": " stays",
+    "start": 8.2,
+    "end": 8.46,
+    "probability": 0.993
+   },
+   {
+    "word": " refused",
+    "start": 8.46,
+    "end": 8.9,
+    "probability": 0.776
+   },
+   {
+    "word": " dry",
+    "start": 8.9,
+    "end": 9.18,
+    "probability": 0.98
+   },
+   {
+    "word": " floor",
+    "start": 9.18,
+    "end": 9.54,
+    "probability": 0.99
+   }
+  ]
+ }
+]
+FULL: 'Elias spoken carried same hands tight rope same hands sleep tight held tight ten names ten beds full ten who stays refused dry floor'
+== u6r_c.mp4
+[
+ {
+  "start": 6.2,
+  "end": 8.94,
+  "text": "11 names, 10 beds. Which bed's mine?",
+  "avg_logprob": -0.467,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " 11",
+    "start": 6.2,
+    "end": 6.82,
+    "probability": 0.248
+   },
+   {
+    "word": " names,",
+    "start": 6.82,
+    "end": 7.3,
+    "probability": 0.973
+   },
+   {
+    "word": " 10",
+    "start": 7.5,
+    "end": 7.68,
+    "probability": 0.88
+   },
+   {
+    "word": " beds.",
+    "start": 7.68,
+    "end": 8.04,
+    "probability": 0.997
+   },
+   {
+    "word": " Which",
+    "start": 8.16,
+    "end": 8.28,
+    "probability": 0.991
+   },
+   {
+    "word": " bed's",
+    "start": 8.28,
+    "end": 8.62,
+    "probability": 0.888
+   },
+   {
+    "word": " mine?",
+    "start": 8.62,
+    "end": 8.94,
+    "probability": 0.999
+   }
+  ]
+ }
+]
+FULL: "11 names, 10 beds. Which bed's mine?"
+ASR DONE

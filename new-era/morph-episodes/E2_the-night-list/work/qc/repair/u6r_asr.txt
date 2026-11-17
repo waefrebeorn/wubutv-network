@@ -1,0 +1,56 @@
+== u6r.mp4
+[
+ {
+  "start": 6.2,
+  "end": 8.94,
+  "text": "11 names, 10 beds. Which bed's mine?",
+  "avg_logprob": -0.497,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " 11",
+    "start": 6.2,
+    "end": 6.82,
+    "probability": 0.256
+   },
+   {
+    "word": " names,",
+    "start": 6.82,
+    "end": 7.3,
+    "probability": 0.966
+   },
+   {
+    "word": " 10",
+    "start": 7.5,
+    "end": 7.68,
+    "probability": 0.895
+   },
+   {
+    "word": " beds.",
+    "start": 7.68,
+    "end": 8.04,
+    "probability": 0.997
+   },
+   {
+    "word": " Which",
+    "start": 8.12,
+    "end": 8.28,
+    "probability": 0.993
+   },
+   {
+    "word": " bed's",
+    "start": 8.28,
+    "end": 8.62,
+    "probability": 0.888
+   },
+   {
+    "word": " mine?",
+    "start": 8.62,
+    "end": 8.94,
+    "probability": 0.999
+   }
+  ]
+ }
+]
+FULL: "11 names, 10 beds. Which bed's mine?"
+ASR DONE
