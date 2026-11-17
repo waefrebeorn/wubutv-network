@@ -32,3 +32,4 @@ DEDUP_STATUS: resolved
 | B-1288 | The Coat Ticket | 2026-10-23 19:28 EDT | 17992650495054891 | B-1288 "The Coat Ticket" — ~ WuBu ~. ~ WuBu ~ #WuBuTV #dryhumor #comedy | B | posted |
 | B-1287 | The Letter Box | 2026-10-23 19:39 EDT | 18120335369284971 | B-1287 "The Letter Box" — ~ WuBu ~. ~ WuBu ~ #WuBuTV #absurdist #shortfilm | C | posted |
 | B-1286 | The Loft Door | 2026-10-23 19:59 EDT | 18111694253227744 | B-1286 "The Loft Door" — ~ WuBu ~. ~ WuBu ~ #WuBuTV #surreal #indiefilm | D | posted |
+| MV-10 | Aging tropes | 2026-11-16 22:19 EDT | 17974811796191771 | MV-10 — "Aging tropes" · [ARC-3 · THE COUNT] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
