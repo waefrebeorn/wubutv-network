@@ -1116,3 +1116,286 @@ cosplay/parody originals per msg-486):**
   and travelling: THE INVASION CIRCUIT (LEDGER PL-9) — the
   same couple recurs in THE LAST SEAT E2 chasing a seat
   there.
+
+---
+
+## F-9 REPAIR (2026-11-17 — Story Repair Coordinator; answers
+work/GATE_E_F9_VERDICT2.md item by item)
+
+**Trigger:** the produced master (masters/E2_hold-on_16x9.mp4,
+from the previous lock — preserved as SCRIPT_F9_FAILED.md)
+FAILED F-9 twice: run 1 on a procedurally defective
+unattributed input (void), run 2 on the merits. Per E2 law
+the failure is repaired, never disclosure-shipped. Passed
+items were NOT touched in substance: Q1, Q2 (block), Q3,
+F-2 payoff, F-3 wants by U2, Event Decisiveness, skeleton
+S1, the teach, the gaps, the BLAM opening, the moral.
+
+- **R-1 · Q4 — the Courier's want settled; her challenge
+  answered (verdict §1 Q4, §6 fix 1).** Before: her want
+  ("believed without the wall") was refused in U2 and never
+  settled; the settlement arrived only BY the wall; her U4
+  question ("who else can?") was never answered. After:
+  (a) U5 gains COURIER: "Hired hands off — believe theirs."
+  — she names herself the hired hand, withdraws her hands
+  BECAUSE she wants the hold believed on its own (the want
+  now DRIVES the episode's decisive staging beat); (b) the
+  verdict line becomes WATCHER: "I believe it. Wall writes
+  married." — the belief is spoken as its own act, from the
+  held hands, BEFORE the wall writes: her claim is settled
+  on stated terms in the open; (c) her U4 line is trimmed to
+  "Hold yours with both hands — who else can?" and is
+  answered twice in U6: her own moral (kept verbatim) and
+  the Watcher's new hanger (R-7), which brings the shown
+  counter-case — the cook had his held by another hand and
+  it came back empty.
+- **R-2 · SHUFFLE — the opening cluster twined (verdict §4,
+  §6 fix 2).** Before: L2↔L3, L4↔L5, L5↔L6 all swapped with
+  sense intact. After: every line in L2–L6 answers the line
+  before it with a borrowed word — L2 "Then:" rules on
+  June's demand and states the test; L3 "that hold" quotes
+  L2; L4 "believed isn't" negates L3's word; L5 "Couples?"
+  quotes L4; L6 "First?" echoes L5's "first". Each swapped
+  pair now dangles a reference. The attempt chain (L7–L9)
+  and the U6 echo pair already broke and are preserved.
+- **R-3 · COLD-JOIN — U4 onward carries the whole board
+  (verdict §4, §6 fix 3).** Before: from U4, the room/noon/
+  one-room stake and the Fruit Couple's claim were
+  unrecoverable. After: June's U4 line carries tried-history
+  + the rivals ("fruit pair next") + the want; a NEW Watcher
+  U4 line — "Married by noon, or rooms empty — first
+  written wins." — restates deadline, room stake and the
+  first-written rule in-window; the moral (R-1) is now a
+  load-bearing link in the U4→U6 answer chain.
+- **R-4 · CAUSALITY — four holes closed (verdict §5a, §6
+  fix 5).** (a) THE SNAP: pictured in U2 (the bell's clapper
+  snaps back with a crack; June's fingers jump at the sound
+  before the load drags them) and DEFINED in the teach line
+  itself — "The bell-snap startles fingers. Lock thumbs."
+  (b) PORTER/BAGS: the Watcher's new U4 line states the
+  emptying rule ("or rooms empty") in the same unit and
+  beat as the porter acts. (c) CHALK HANDOFF: pictured
+  cause in U5 — the Watcher's stub, worn to a nub, crumbles
+  on his first stroke; Laura hands him her fresh stick;
+  his rule requires his own hand (LEDGER F-014 preserved).
+  (d) QUALIFYING RULE: see R-5.
+- **R-5 · The rivals' loss given its stated basis + the U5
+  slip pictured (verdict §5a; GATE_LOG take flaw 5).**
+  The U1 test line now defines the qualifying hold in
+  universal terms ("one ring, both hands, at the bell");
+  U2 staging applies it to every pair in picture (the
+  Watcher taps the ring and points at the Fruit Couple —
+  their stem-holds are visibly not the test); U5 staging
+  is rewritten: at the noon bell the Fruit Couple LUNGE for
+  the palm and their hands SLIP OFF the stem together, the
+  bouquet drops, each lets go to blame the other. Their
+  loss's basis is stated (never held the ring; June written
+  first) and their slip is a binding production requirement
+  (SCRIPT production notes).
+- **R-6 · MOTIVE — stated reasons (verdict §5b, §6 fix 6).**
+  (a) THE COURIER: her U2 coaching line gains its reason —
+  "my record rides": the holds her palm hosts are her
+  record, which is why the hired Holder coaches the
+  claimant on her palm and why her own hands must come off
+  the winning hold. Her finger-counting tell is pictured in
+  U2 at the coaching moment. (b) ELI: June states his want
+  in plain words in U3 — "Eli wants us written — …" — the
+  verdict's own sanctioned alternative to giving the silent
+  principal a line; he remains silent (one silent principal,
+  decisive deed in U4, unchanged). (c) THE PORTER and LAURA:
+  covered by R-4(b)/(c) — the stated house rule and the
+  pictured chalk cause.
+- **R-7 · DELETION — count brought under the line (verdict
+  §4: 4 of 14 flagged — L3, L10, L13, L14).** L3 now drives
+  U5's decisive beat and is settled there (R-1) — deleting
+  it orphans the settlement. L10 now carries unique
+  in-window facts (rivals, tried-history) (R-3). L13 (the
+  moral, verbatim) is now the premise of the hanger's
+  "Nobody?" and the answer to the U4 question — deleting it
+  breaks the chain at two points. L14 is REWORDED — "Nobody?
+  The cook had his held — tin's empty." — it now also
+  ANSWERS the U4 challenge with a shown case, work no other
+  line does; as a hanger it remains booked for E3 (theft
+  docket, the Courier the tin's last Holder — PL-11
+  unchanged in substance; LEDGER hanger row conformed to
+  the new wording). Room's count of honestly deletable
+  lines: ≤1.
+- **R-8 · Budget.** 102 words / 14 lines → **115 words /
+  16 lines** (band 95–110, hard cap 115 — at the cap, not
+  over; the two added lines are the U4 stake line and the
+  U5 settlement line, both verdict-mandated). Longest line
+  10 (cap 12). Sub-4-word lines 0 (limit 2). Connective
+  lines 11 (floor 4). Per unit: U1 23 · U2 26 · U3 14 ·
+  U4 27 · U5 11 · U6 14. Counts verified mechanically
+  against SCRIPT.md's dialogue blocks.
+- **Protected surface verified:** F-2 payoff (hold holds at
+  noon, MARRIED chalked, key + bags-in in U6, not revoked);
+  F-3 (June U1, Courier U1, Watcher U2, Fruit U2 — all by
+  U2); the teach (bell-snap/thumb-lock, U3 → U5); GAPs 1–3
+  and carriers unchanged; BLAM frame 0 unchanged; the moral
+  verbatim; PL-4 picture payment in U1 unchanged; the
+  invasion's one unison line kept (reworded only for the
+  twine, R-2 — same want, same unit, same speakers).
+- **Files:** SCRIPT.md (this revision; the failed lock
+  preserved as SCRIPT_F9_FAILED.md, its Gate E input as
+  GATE_E_INPUT_LOCKED.md) · GATE_E_INPUT_REPAIR.md
+  (regenerated from the revised script) · DECISION_LOG.md
+  (this entry) · LEDGER.md (hanger wording conformed at
+  delivery, if the repair ships). Status: pending a FRESH
+  Gate E cold read on GATE_E_INPUT_REPAIR.md — the room
+  does not self-certify.
+
+---
+
+## F-9 REPAIR ROUND 2 (2026-11-17, Story Repair Coordinator)
+
+Round 1 of the repair FAILED its fresh Gate E on items 4, 7,
+9, 10, 11 (verdict: work/GATE_E_REPAIR_VERDICT.md; passes on
+Q1–Q3, F-2, F-3, cold-join, decisiveness are preserved).
+Round 2 answers that verdict's own minimum fixes. Revised
+script: SCRIPT.md (114 words / 16 lines, mechanically
+counted; longest line 9; sub-4-word lines 0). Gate input:
+GATE_E_INPUT_REPAIR2.md.
+
+- R2-1 (verdict item 4 — Q4 audit): (a) the Courier CONCEDES
+  the wall in her own U5 line — "Hands off — believe theirs,
+  wall and all" — withdrawing her U1 "no wall" condition in
+  the open before the Watcher's verdict. (b) The record is
+  DEFINED at introduction (U2: "my backed couples held" —
+  her streak is the record) and its OUTCOME is stated in U6
+  ("my couple held" — this couple held, the streak stands).
+  (c) The cook's-tin hanger is DELETED, cook and all: it
+  asserted a past claim ("had his held") that nothing in
+  the episode settled. The new hanger — "Nobody? Tomorrow's
+  docket reads thefts." — is a forward appointment (the
+  LEDGER's existing E3 anchor), raising no unsettled claim.
+- R2-2 (verdict item 7 — shuffle): all six clean swaps from
+  the round-1 read are broken with quote-locks, per the
+  verdict's own prescription — L3 opens "Both hands?"
+  (quotes L2), L4 opens "'Believed'?" (quotes L3), L7 opens
+  "Keeps the room?" (quotes L6), L10 carries "thumbs" (a
+  word only L9 supplies), L11 opens "'Next'?" (quotes L10),
+  L12 opens "Rooms empty?" (quotes L11's unique phrase).
+  Every adjacent pair now dangles when swapped.
+- R2-3 (verdict item 9 — deletion 5 → target ≤3): three of
+  the five deletable lines are made load-bearing with
+  information stated nowhere else — L8 carries the doorway
+  rule, L12 carries the disqualifying term ("Stems don't
+  count"), L15 carries the record settlement. The moral is
+  KEPT (bible closing order) but now carries a settlement
+  in its second clause. Remaining arguably-deletable: L11
+  (in-window stake restatement, kept for cold-join) and L16
+  (the hanger) = 2 ≤ 3.
+- R2-4 (verdict item 10 — causality): (a) the doorway rule
+  is STATED in U3 ("Bags inside till noon") before the
+  porter/bags turn pays it off in U4. (b) Laura is PLANTED
+  in U2's picture as the wall's chalk-keeper with her fresh
+  stick at her belt (see R2-5). (c) Unexplained terms
+  removed or defined: "Eli" is named as the groom in the U1
+  and U4 pictures; "my record" is replaced by its
+  definition ("my backed couples held"); "Hired hands" is
+  deleted — the Courier's U5 line is now "Hands off", and
+  the picture shows her own hands sliding out; "tin's
+  empty" is deleted with the cook.
+- R2-5 (verdict items 10/11 — the chalk-keeper): Laura is
+  planted in U2 with role and reason stated in the picture
+  (the wall's chalk-keeper; the writing is her job; the
+  fresh stick is kept for the noon name), and U5's picture
+  recalls her by name and role at the handover. Her action
+  now has a previous turn, a stated role, and a stated
+  reason.
+- R2-6 (verdict item 11 — motive): the U1 down-street pair
+  is identified in the picture WITH its reason — yesterday's
+  held couple, her ring back on her finger since yesterday's
+  bell, opening her door to her husband at the room they
+  won. The cook's raised-tin beat is cut (R2-1c). Eli's
+  bags-back deed follows from the rule stated in U3 (R2-4a)
+  and serves the couple's joint spoken want (U1: "us", "our
+  room").
+
+Production impact if round 2 passes: dialogue changed in
+all six units again (U1 L3; U2 L4+L7; U3 L8+L9 wording; U4
+all three lines; U5 L13; U6 L15+L16) — all six units refire
+under VEHICLES_REPAIR.md (to be conformed to round-2 lines
+before firing). Staging deltas: Laura VISIBLE at the wall
+in U2 (binding plant), Eli named the groom, U6 has NO cook.
+
+## REPAIR OUTCOME (2026-11-17) — BLOCKED AT THE SCRIPT GATE
+
+Gate E round 2 (work/GATE_E_REPAIR2_VERDICT.md): FAIL items
+4, 7, 9, 10; PASS Q1–Q3, F-2, F-3, cold-join, motive,
+decisiveness. Both permitted Gate E rounds are spent, so
+per the repair brief production does NOT proceed: no takes
+fired, no video calls spent, the F-9-failed master stays
+unshipped, no flag. Full analysis and the two decision
+options (Gate E protocol clarification + one-line L15
+quote-lock + re-read, vs. accept the block) are recorded in
+work/REPAIR_STATUS.md.
+
+---
+
+## CONTINUATION (2026-11-17 — Continuation Coordinator, under the
+GATE PROTOCOL CLARIFICATION, parent ruling 2026-11-17)
+
+The parent ruled option (a) of work/REPAIR_STATUS.md: the Gate
+Protocol Clarification is issued (addendum, 2026-11-17) —
+(i) forward hangers stated as appointments are exempt from the
+Q4 settlement audit; (ii) the deletion test counts lines whose
+restatement is mandated by F-3 / cold-join as a pair, once;
+(iii) gate inputs use transcript speaker names in picture
+summaries. This continuation applies the one remaining
+script fix and re-reads the script ONCE under the clarified
+protocol.
+
+- **C-1 · L15 QUOTE-LOCK (the round-2 verdict's own specified
+  fix for its item 7).** The round-2 read's only clean shuffle
+  swap was L14–L15: the moral quoted nothing of the verdict.
+  Before: COURIER: "Nobody holds your life for you — my
+  couple held." (9w). After: COURIER: "'I believe it'? Nobody
+  holds your life for you — my couple held." (12w) — the line
+  now opens by quoting L14's exact words ("I believe it")
+  back at the Watcher as a question, the verdict's own
+  example form. Swapped ahead of L14, the quote dangles.
+  No other line, staging beat, or picture was changed.
+- **C-2 · Counts (mechanical, over SCRIPT.md's dialogue
+  blocks).** 114 → **117 words**, 16 lines; longest line 12
+  (L15, at the per-line cap of 12); sub-4-word lines 0;
+  connective lines 13 (unchanged). **Budget note, recorded
+  plainly:** the F-5 hard cap is 115; the quote-lock's three
+  quoted words put the episode 2 over it, and the
+  continuation brief forbade compensating trims ("no other
+  script changes"). The overage is the direct cost of the
+  verdict-mandated fix and is flagged here for the parent's
+  record; the Gate E audit's twelve items do not score word
+  budget.
+- **C-3 · Gate input conformed to clarification (iii).**
+  GATE_E_INPUT_REPAIR3.md: same transcript (L15 as fixed)
+  and the same staged pictures as the round-2 input, with
+  picture summaries rewritten to name pictured speakers by
+  their transcript names — the Courier (was "the woman"),
+  the Watcher (was "the keeper"), June (was "the bride") —
+  so no reader must map role nouns onto speakers. Non-speakers
+  keep their names (Eli, Laura, Bruno, Rosa, the porter,
+  Peach and Lime).
+- **C-4 · Re-read.** ONE fresh-context Gate E cold read on
+  GATE_E_INPUT_REPAIR3.md under the clarified protocol;
+  verdict: work/GATE_E_REPAIR3_VERDICT.md. Production fires
+  only on a PASS (or on failures covered solely by the
+  clarification, cited clause by clause).
+- **C-5 · GATE E REPAIR3 — PASS (2026-11-17).** Fresh-context
+  cold read of GATE_E_INPUT_REPAIR3.md under the clarified
+  protocol: **all twelve items PASS** (verdict:
+  work/GATE_E_REPAIR3_VERDICT.md). The reader applied clause
+  (i) to exempt L16's docket hanger inside its Q4 audit and
+  clause (ii) to audit the mandated restatement pairs (L1/L10,
+  L6/L11, L8/L10) once each inside its deletion test, which
+  found 2 deletable of 16 (L15 as post-outcome gloss, L16 as
+  the exempt hanger) — under the limit. No item failed, so no
+  clause was needed to rescue a failure. SCRIPT.md is the
+  GATED repair script; production fires from it under
+  VEHICLES_REPAIR.md (six units — dialogue changed in all six
+  vs the gated-out build). Video budget note: the generation
+  tool contract caps this session at 6 successful calls (the
+  same cap the first build hit), so the six first-pass t2
+  takes are the build; any QC-fatal take is reported, not
+  silently re-fired past the cap.

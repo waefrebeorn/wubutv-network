@@ -416,3 +416,74 @@ generation cap is exhausted (6/6) — no repair is possible
 inside this build. The repair path is a parent-level call:
 re-room the script through Gate E, then a continuation
 build with fresh generation allowance.
+
+---
+
+## REPAIR BUILD (t2 takes) — REPLACEMENT FINISHER, 2026-11-17
+
+Master: masters/E2_hold-on_REPAIR.mp4 — 29,914,050 B, md5
+a6f6102c5c5b93a3239b0e89ef315996. Takes: U1_t2 (predecessor,
+QC PASS confirmed), U2_t2, U3_t2 (predecessor-fired, QC'd
+this session), U4_t2, U5_t2 (refire; first pass REJECTED —
+Fruit Couple rendered as humans, no slip — kept as
+takes/U5_t2_rej1.mp4), U6_t2. Calls this session: 4.
+
+FORMAT: 1280x720, 24fps, exactly 1440 frames (count_frames
+verified), 60.000s video, AAC 48k stereo, faststart.
+joined.mp4 verified 1440f = segment sum BEFORE encode;
+single assembly pass. CRF-23 differential 16,825,396 B vs
+master 29,914,050 B = 1.78x (genuine CRF 18; the SEI crf
+string is not a valid gate on this ffmpeg build).
+
+BLAM (work/blam_master.py on the master): A1 t50 0.0s /
+t90 0.3s PASS · A2 dead head 0.0s PASS · A3 head -3.4 dB vs
+median PASS · A4 HF bursts head 2, x0.91 vs control PASS ·
+V1 head motion 0.72x baseline PASS · V2 first bucket 23.1,
+motion from frame 0 PASS · E1 hands-slam + slip is the
+frame-0 action PASS · E2 bell GFX ring draws on frames
+5-19 PASS. BLAM: ALL PASS.
+
+DIALOGUE: master ASR (work/asr/MASTER_REPAIR.json) — all
+16 script lines, in order, verbatim-grade. PASS.
+
+WORDMARK: full-span sweep (work/qc/master_repair/, every
+4s): post bug "~ WuBu ~" gold bottom-right, exact glyphs
+incl. tildes, every frame; no chest-borne wordmark anywhere
+in the picture (the Watcher's apron is plain throughout).
+PASS.
+
+JOINTS (work/joint_gate.py on joined.mp4; BASE 95th pct
+in-unit MAE 19.87; strips work/joints_t2/):
+- J1 U1->U2 @f240: seam 2.32 (0.12x). EYE PASS — cut to a
+  new framing of the same street/morning; the test at the
+  palm continues; world, wardrobe, light continuous.
+- J2 U2->U3 @f480: seam 2.47 (0.12x). EYE PASS — wider on
+  the same queue; June's bouquet is on the ground in the
+  foreground, exactly the state U3 opens on.
+- J3 U3->U4 @f720: seam 19.34 (0.97x). EYE PASS — motivated
+  reframing (finger close-up -> June at the wall); she is
+  practising the thumb-lock U3 just taught her; action and
+  state continuous.
+- J4 U4->U5 @f960: seam 0.86 (0.04x). EYE PASS — Watcher's
+  close-up cuts to the noon hand-stack; the challenge he
+  just spoke is answered by the attempt.
+- J5 U5->U6 @f1200: seam 1.77 (0.09x). EYE PASS — chalking
+  tail cuts to the key handoff in the same street light;
+  the fruit couple stand over their dropped bouquet behind,
+  Eli carries the bags in.
+JOINTS: ALL EYE-PASS.
+
+TAKE-LEVEL NOTES (honest record): U5 first pass rejected
+(human "peach/lime", bouquet never dropped) — refire shows
+the slip on a 0.2s-step strip (work/qc/U5_t2/slip/): 4.6s
+both of Lime's hands on the shared stem mid-lunge; 4.8s
+bouquet on the stones, both hands empty. U1 carries no
+chalk insert (no speech gap >=0.8s in U1_t2; documented in
+FINISHER2_STATUS). U6's board shows faint list-writing at
+distance (the couples-list board); no finished verdict word
+in the take picture — the MARRIED verdict is carried by the
+U5/U6 chalk inserts as designed.
+
+F-9: input work/GATE_E_F9_REPAIR_INPUT.md (attributed
+master transcript + picture summaries of the delivered
+master). Verdict: work/GATE_E_F9_REPAIR_VERDICT.md.

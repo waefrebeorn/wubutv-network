@@ -247,3 +247,44 @@ gated-out master, the Fruit Couple's noon-bell slip
 (F-016's settling beat) never reads on screen — U5 shows
 them still holding; the drop is visible only as U6
 aftermath.
+
+---
+
+## DELIVERY — REPAIR MASTER, 2026-11-17 (supersedes the
+## non-delivery status above)
+
+The story repair passed its script gate (Gate E REPAIR3,
+all twelve items, under the gate-protocol clarification)
+and the repair build has now PASSED F-9 on the finished
+master (fresh cold read, work/GATE_E_F9_REPAIR_VERDICT.md —
+ALL TWELVE ITEMS PASS). **E2 IS DELIVERED.**
+E2_DELIVERED.flag is raised. Delivered master:
+masters/E2_hold-on_REPAIR.mp4, md5
+a6f6102c5c5b93a3239b0e89ef315996, 29,914,050 B, exactly
+1440f. The gated-out master (a33c7681…) stays on disk as a
+gated-out build, never a delivery.
+
+Delivered-canon deltas vs the entries above (the repair
+script's wording is what aired):
+- The Fruit Couple's settling beat (F-016) IS pictured in
+  the delivered U5: at the noon bell both their hands slip
+  off the shared bouquet's stem in the lunge, the bouquet
+  drops to the ground, and they point at each other. Their
+  spoken claim as aired: "Couples? Write us first."
+- The Courier's want is settled in the open in U5 in her
+  own words — "Hands off — believe theirs, wall and all." —
+  she takes her hands off, concedes the wall, and the
+  Watcher's verdict follows: "I believe it. Wall writes
+  married." Her U6 moral as aired quotes the verdict:
+  "'I believe it'? Nobody holds your life for you — my
+  couple held."
+- The hanger as aired is the appointment form: "Nobody?
+  Tomorrow's docket reads thefts." E3 = the theft docket
+  stands as booked (the cook's-tin machinery of the blocked
+  draft remains struck; the docket itself is the debt).
+- F-009's test as aired, Watcher U1: "Then: one ring, both
+  hands, at the bell." F-010 (married on the wall), F-013
+  (thumb-lock), F-014 (Laura hands the fresh chalk, planted
+  at her belt in U2), F-015 (room stake resolved on screen:
+  bags out in U4, key in June's hand and bags in in U6) all
+  stand as delivered canon.

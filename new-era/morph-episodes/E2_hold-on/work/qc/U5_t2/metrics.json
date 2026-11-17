@@ -1,0 +1,27 @@
+{
+ "unit": "U5",
+ "frames_decoded": 40,
+ "mae_buckets_0_3s": [
+  13.26,
+  18.49,
+  23.87,
+  27.09,
+  39.9,
+  46.89,
+  46.39,
+  53.48,
+  46.61,
+  38.99,
+  33.43,
+  31.19
+ ],
+ "mae_baseline_3_10s": 26.35,
+ "mae_head_0_0.5s": 15.88,
+ "head_motion_ratio": 0.6,
+ "audio_median_db": -37.5,
+ "t50": 0.0,
+ "t90": 0.0,
+ "leading_near_silence_s": 0.0,
+ "head_mean_0_1s_db": -28.6,
+ "head_vs_median_db": 8.9
+}

@@ -1,0 +1,22 @@
+JUNE: Write us married, or noon loses our room.
+WATCHER: Then: one ring, both hands, at the bell.
+COURIER: I want that hold believed, no wall.
+[U1 picture: at a chalk wall of couples' names, a bride and groom slap their hands down together onto a ring resting on a woman's open palm as a bell rings; the bride's fingers slip visibly on the ring while the groom's hand stays flat; behind them a door signed ROOMS with a key on a hook; down the street a man knocks on a woman's door and she opens it, a ring back on her finger; a peach and a lime in wedding clothes queue behind the couple, clutching one shared bouquet and pointing at the wall.]
+WATCHER: I want couples written — believed isn't.
+PEACH AND LIME: Couples? Write us first.
+WATCHER: First? First written keeps the room.
+COURIER: Bouquet, veil, sleeve — drop them, be first: my record rides.
+[U2 picture: the keeper taps the ring on the woman's palm and points down the queue at the peach and lime — the same test for every pair. The bride attempts the hold at a second bell with her arms loaded — a bouquet wedged in one elbow, a veil over one forearm; as the bell rings its clapper snaps back with a sharp crack and the bride's fingers visibly jump at the sound a beat before the load drags her hand open off the ring, while the groom's hand stays flat; the peach and the lime keep both hands clamped on their shared bouquet stem, grinning; the woman watches the bride's hand and counts on her fingers.]
+JUNE: Eli wants us written — bouquet's down, still opening.
+COURIER: The bell-snap startles fingers. Lock thumbs.
+[U3 picture: the bride's bouquet lies on the ground and her hands are bare; the woman folds the couple's thumbs over each other's wrists; at a third bell the whole queue freezes holding its proofs — a ladder upright, a fish tank, a frog in a morning suit with a tiny ring box — and only the bride's hand moves, her bare fingers flying open at the bell's snap; the peach and lime stay frozen with both hands on their stem.]
+JUNE: Loaded, bare, I opened — fruit pair next: write us married.
+WATCHER: Married by noon, or rooms empty — first written wins.
+COURIER: Hold yours with both hands — who else can?
+[U4 picture: through the doorway a porter sets the couple's two bags down outside the room door and steps away, emptying the unwritten couple's room as the keeper states the rule; the peach and lime glance from the bags to the door; the groom crosses, carries both bags back inside the threshold, and stands in the doorway; at the wall the bride practises locking her thumbs over her own wrist, jaw set, the dropped bouquet with the ring still on the ground beside her; the woman turns and speaks straight into the camera.]
+COURIER: Hired hands off — believe theirs.
+WATCHER: I believe it. Wall writes married.
+[U5 picture: in noon light, in the same positions, the woman sets the ring on her palm; the couple's hands come down on it, their thumbs locking over each other's wrists, and she slides her own hands out from under theirs before the bell and counts on her fingers, silently. A silent woman in a green work shirt stands at the wall's edge holding a fresh stick of white chalk. At the noon bell the couple's locked hands do not move. At the same bell, down the queue, the peach and lime lunge toward the palm — both their hands slip off their shared bouquet's stem together in the lunge, the bouquet drops to the ground, and each lets go entirely to point at the other. The keeper looks at the held hands and speaks; then he turns to the wall, his own chalk stub — worn to a nub — crumbles on the first stroke, the woman in green hands him her fresh stick, and he chalks MARRIED across the couple's names.]
+COURIER: Nobody holds your life for you.
+WATCHER: Nobody? The cook had his held — tin's empty.
+[U6 picture: MARRIED stands finished across the couple's names on the wall. The keeper takes the brass room key off its iron hook and puts it in the bride's hand; the ring is now on the bride's finger. Behind them the bride and groom carry their bags into the room, the door open. Down the queue the peach and lime stand over their shared bouquet lying dropped on the ground, arguing and pointing at each other, nothing written for them. The woman looks at her own empty hands, then at the wall. The keeper turns to the next in line — a cook holding up an empty tin — and at the frame's edge the woman goes still. The picture freezes: the key in the bride's hand, the cook's empty tin raised.]
