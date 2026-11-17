@@ -9,6 +9,7 @@ PETER: Then hear him live. I want the advertiser renewed.
 U2
 UNC: I want one quiet shift. My mouth stays shut, mine.
 PETER: Your mouth shut pays nobody. Red means live, UNC.
+CHAMPION: Number Four. The singer's place is mine.
 COLONEL: I want billable truth. A false name and I cancel the advertiser.
 
 U3
@@ -29,8 +30,8 @@ U6
 ## Picture turns
 
 U1: A printed sheet's first line has already happened on the big screen: a cat is singing. A man wheels a microphone stand in and locks it in front of the seated man's chair.
-U2: The seller takes the seated man's name badge off his chest and drops it in the out tray. The desk microphone's red light is glowing. The boss's voice comes over the desk intercom.
-U3: The true video plays full-screen: the cat singing. The seated man stands and leaves the printed order face up instead of filing it away.
-U4: The seller states the desk rule, then performs a big song-and-dance demonstration at the desk; the cat jumps on the console and duets; every screen shows him in a different costume singing backup. He leans into the glowing microphone to brag.
+U2: The seller takes the seated man's name badge off his chest and drops it in the out tray. The desk microphone's red light is glowing. A broad stranger with a huge foam FOUR strapped to his forehead points through the room's glass at the desk and shouts a challenge; the people in the corridor stand up to watch. The boss's voice comes over the desk intercom.
+U3: The challenger waits at the glass watching, so the demonstration cannot be put off. The true video plays full-screen: the cat singing. The seated man stands and leaves the printed order face up instead of filing it away.
+U4: The seller states the desk rule, then performs a big song-and-dance demonstration at the desk, in front of the challenger at the glass; the cat jumps on the console and duets; every screen shows him in a different costume singing backup. He leans into the glowing microphone to brag.
 U5: The seated man stands and points at the seller in silence. The woman slams the sound fader open and locks it so the seller cannot cut the desk. The boss stamps the invoice CANCELLED, tears it, crosses the seated man's name off the sheet, and clips his badge back onto his chest.
-U6: Following the desk rule the seller stated, a new video plays: the cat singing in the seller's voice, wearing the seller's mouth. A fresh printed sheet slides out naming the seller as the singer.
+U6: Following the desk rule the seller stated, a new video plays: the cat singing in the seller's voice, wearing the seller's mouth. A fresh printed sheet slides out naming the seller as the singer, and its second line ranks the challenger as number five. The challenger's grin drops and he backs away.

@@ -180,3 +180,65 @@ YES — PASS, all four speakers:
 Total deletable without changing the story: 0 — at or under the three-line limit.
 
 GATE E RE-TEST: PASS
+
+## POST-INVASION RE-TEST — fresh cold read
+
+Source judged: the transcript (U1–U6, dialogue verbatim) and the one picture summary per unit in the Gate E input only. The host story reads first: the name/singer dispute is fully established in U1, before any newcomer appears in U2.
+
+### 1. The four questions
+
+**Q1 — Who wanted what (every speaker)?**
+- LAURA wanted the seated man's name taken off the printed sheet — U1: "This sheet knew yesterday. I want his name off it."
+- PETER wanted the advertiser contract renewed — U1: "Then hear him live. I want the advertiser renewed."
+- UNC (the seated man) wanted a quiet shift in which he does not sing/speak — U2: "I want one quiet shift. My mouth stays shut, mine."
+- CHAMPION (the newcomer, the broad stranger with a foam FOUR on his forehead, U2 picture) wanted / claimed the singer's place for himself — U2: "Number Four. The singer's place is mine."
+- COLONEL (the boss, heard over the desk intercom, U2 picture) wanted truth he could bill for — U2: "I want billable truth. A false name and I cancel the advertiser."
+
+**Q2 — What blocked them?**
+- LAURA was blocked because the credit was false but still stood on the sheet: the demo credited to the sheet was Peter's work — U3: "You wrote this demo, Peter. The sheet never did." Peter's counter-move in U1 was to keep the credit alive by a live hearing: "Then hear him live."
+- PETER was blocked by UNC's refusal to perform — U2 UNC: "My mouth stays shut, mine." — answered by U2 Peter: "Your mouth shut pays nobody. Red means live, UNC." He was also blocked by the Colonel's condition — U2: "A false name and I cancel the advertiser."
+- UNC was blocked by Peter and the live desk: a microphone stand is wheeled in and locked in front of his chair (U1 picture), his name badge is taken off and dropped in the out tray, and the desk microphone's red light is glowing (U2 picture).
+- CHAMPION was blocked by Peter taking the desk himself: under Peter's own stated rule (U4, below), Peter performs the song-and-dance demonstration at the desk in front of the challenger at the glass (U4 picture), so the singer's place is earned by Peter, not handed to the challenger.
+- COLONEL was blocked by the false name itself: the sheet's demo was written by Peter, not by the sheet or the named man — U3 Laura: "You wrote this demo, Peter. The sheet never did."
+
+**Q3 — What changed by the final unit?**
+By U6 the advertiser is cancelled and the seated man's name is off the sheet — U5 Colonel: "Advertiser cancelled. Name comes off." — pictured in U5: the boss stamps the invoice CANCELLED, tears it, crosses the seated man's name off the sheet and clips his badge back onto his chest. Peter, not UNC and not the Champion, is the named singer: U6 picture — a fresh printed sheet slides out naming the seller (Peter) as the singer, and a new video plays with the cat singing in the seller's voice. The Champion is demoted: the same U6 sheet's second line ranks the challenger as number five, his grin drops and he backs away. UNC never sang: in U5's picture he stands and points at the seller in silence.
+
+**Q4 — Why does it matter; what is concretely won/lost; is the newcomer's claim settled, and how?**
+Concretely: a paid advertiser contract is lost (cancelled and torn up, U5 picture), a singer's credit is reassigned on the printed sheet and in the next video (U6 picture), and a man's name badge/name are restored to him (U5 picture). Laura wins her U1 want (name off). UNC wins the substance of his U2 want (he does not sing; his name comes off). Peter loses his U1 want (no advertiser renewal) but becomes the named singer. The Colonel acts on his U2 want (billable truth: false name, advertiser cancelled). The newcomer's claim IS settled, inside the episode: he claimed "The singer's place is mine" (U2), and the final sheet names Peter as the singer and ranks the challenger as number five — down from his U2 "Number Four" — and he backs away (U6 picture). The claim is not left open.
+
+### 2. F-2 check — irreversible win/loss inside the episode
+
+YES. The singer's place is fought over (Champion's claim, U2: "The singer's place is mine."; Peter's rule, U4: "Whoever sings here goes in the next video and sheet.") and settled irreversibly on screen: Peter sings the demonstration (U4 picture), the advertiser invoice is stamped CANCELLED and torn and the seated man's name is crossed off the sheet (U5 picture, settling line U5 Colonel: "Advertiser cancelled. Name comes off."), and the fresh sheet names Peter as singer (U6 picture). The final unit does NOT revoke any of it: U6 confirms Peter as singer, keeps UNC's name off the singer credit, does not restore the advertiser, and demotes the challenger to number five (U6 picture).
+
+### 3. F-3 check — every speaker states their own want in plain words by U2
+
+YES — every speaker:
+- LAURA — U1: "I want his name off it."
+- PETER — U1: "I want the advertiser renewed."
+- UNC — U2: "I want one quiet shift. My mouth stays shut, mine."
+- CHAMPION — U2: "The singer's place is mine." (a plain-words statement of what he wants: the singer's place, claimed as his — stated, not merely implied by his pointing/challenge in the U2 picture)
+- COLONEL — U2: "I want billable truth."
+
+### 4. The three master tests
+
+**(a) SHUFFLE.** Swaps tried, and each breaks the exchange:
+- U2 pair — UNC: "I want one quiet shift. My mouth stays shut, mine." / Peter: "Your mouth shut pays nobody. Red means live, UNC." Swapped, Peter is rebutting the words "your mouth shut" before UNC has said them; the rebuttal loses its target. BREAKS.
+- U1 pair — Laura: "This sheet knew yesterday. I want his name off it." / Peter: "Then hear him live. I want the advertiser renewed." Swapped, Peter's "Then hear him live" is a response with nothing to respond to. BREAKS.
+- U3 pair — Laura: "You wrote this demo, Peter. The sheet never did." / UNC: "I don't know how. Show me how, Peter." Swapped, UNC asks Peter to show him how before the reveal that Peter wrote the demo — the reason he turns to Peter is gone. BREAKS.
+- U5 pair — Laura: "Viewers, red means live. You heard his confession?" / Colonel: "I want billable truth. Advertiser cancelled. Name comes off." Swapped, the Colonel's cancellation decision lands before the live confession exposure that triggers it in the episode's order. BREAKS.
+No swap tried left the exchange's sense intact.
+
+**(b) COLD-JOIN (from U4 onward only).** Want: the singer's place in the next video and on the sheet — U4 Peter: "Whoever sings here goes in the next video and sheet."; and truthful billing — U5 Colonel: "I want billable truth." Obstacle: the credit was paperwork, not singing — U4 Peter: "A singer is just a mouth with paperwork, Laura!" — which U5 Laura treats as a live-heard confession: "Viewers, red means live. You heard his confession?" Already tried: the live demonstration itself — Peter performs a big song-and-dance at the desk and the cat duets (U4 picture), and the woman then slams the fader open and locks it so the seller cannot cut the desk (U5 picture). The NEWCOMER's claim is recoverable in gist from U4 onward — he is intelligible, not unintelligible: a challenger stands at the glass watching the singing demonstration (U4 picture), the prize is the singer's place in the next video/sheet (U4 line), and in U6 the sheet names the seller as singer, ranks the challenger as number five, and his grin drops and he backs away (U6 picture) — a cold joiner gets that he came for the singer's place and lost it. (His exact prior rank, "Number Four," and his exact claim line are U2 material and are not restated from U4 on; the gist of the claim and its loss are.)
+
+**(c) DELETION.** Line by line, no dialogue line can be deleted without changing the story: U1 Laura carries the premise and her want; U1 Peter carries his want and the live-hearing move; U2 UNC carries his want/refusal; U2 Peter carries the rebuttal and the "Red means live" rule that U5 depends on; U2 Champion carries the newcomer's claim that U6 settles; U2 Colonel carries his want and the cancellation threat that U5 fulfils; U3 Laura carries the authorship reveal; U3 UNC carries the "Show me how, Peter." request that causes the U4 demonstration; U4 Peter's rule carries the mechanism of the U6 video/sheet; U4 Peter's "A singer is just a mouth with paperwork, Laura!" is the confession U5 Laura refers to ("You heard his confession?"); U5 Laura carries the live exposure; U5 Colonel carries the settlement. Deletable lines: none. Count: 0. (Limit is 3 — PASS.)
+
+### 5. STORY SENSE
+
+**(a) Causality.** No objection found. The newcomer's arrival is tied to the dispute already established before he appears — a singing cat is already on the big screen and a name is already contested on the sheet (U1 picture; U1 Laura: "I want his name off it.") — and he claims that same singer's place (U2). He does not evaporate: his waiting at the glass is what makes the demonstration unavoidable (U3 picture: "The challenger waits at the glass watching, so the demonstration cannot be put off."), he watches the demonstration (U4 picture), and his settlement is caused by the stated desk rule (U4 Peter: "Whoever sings here goes in the next video and sheet.") plus Peter's performance under it (U4 picture), producing the U6 sheet that names Peter as singer and ranks the challenger number five — one place below the "Number Four" he announced in U2 — whereupon he backs away (U6 picture). The cancellation is likewise caused: threat (U2 Colonel), false-authorship reveal (U3 Laura), live confession (U4–U5), decision (U5 Colonel).
+
+**(b) Motive legibility.** No objection found. Every speaker's reason for acting is stated in their own lines: Laura acts because the sheet's credit is false (U1, U3); Peter acts to renew the advertiser (U1); UNC acts to keep one quiet shift (U2); the Champion acts on his stated claim, as Number Four, that "The singer's place is mine" (U2); the Colonel acts for billable truth and against a false name (U2, repeated U5).
+
+**(c) Event decisiveness.** No objection found. Decisive things happen on screen, not only in talk: Peter performs the song-and-dance demonstration at the desk with the cat duetting (U4 picture); the woman slams the fader open and locks it (U5 picture); the boss stamps the invoice CANCELLED, tears it, crosses the name off the sheet and restores the badge (U5 picture); the new video plays and the fresh sheet naming Peter as singer and the challenger as number five slides out, and the challenger backs away (U6 picture).
+
+GATE E POST-INVASION RE-TEST: PASS

@@ -356,6 +356,22 @@ script uses, and where:
   is spoken mid-episode as the antagonist's boast, not as a
   closing moral. Noted, not patched: the script is Gate E-locked
   and the close is a declared picture hanger.
+  **[INVASION PASS extension, 2026-11-16 — see INVASION LOG
+  below:]** the format's mechanics are now also carried by an
+  actual number-on-head figure in the episode: status worn as
+  a number (a huge foam FOUR strapped to the forehead) AND
+  spoken aloud by the claimant himself in U2 ("Number Four.
+  The singer's place is mine."); pointed call-outs aimed at
+  whoever currently holds the status (UNC, the sheet's singer,
+  then PETER at the desk); a formal challenge demanded in
+  public (through the glass, corridor crowd standing to watch);
+  and the house system re-ranking the claimant one worse than
+  he claims — the new sheet's second line reads NUMBER FIVE
+  (U6), the desk/sheet doing here what the format's bracket
+  does there. The doubted-figure inversion stays with PETER
+  (the mocker re-ranked as singer); the Champion is the
+  format's challenger run through the same machinery and
+  re-ranked by it too.
 - **FRUIT SOAPS** — One value change (false credit held by the
   seller → credit stripped and reassigned on screen) + one open
   question (Peter as named singer, booked to E3 in LEDGER §1).
@@ -374,3 +390,106 @@ script uses, and where:
   evidenced by the Gate E re-test itself: PASS with zero
   story-sense objections from transcript + picture summaries
   alone.
+
+## INVASION LOG (2026-11-16 — invasion pass, post-lock)
+
+Per the user's directive (Telegram msgs 529/530, corrected by
+msg 532): invaders come from the REFERENCE FORMATS, rendered
+as our own cosplay/parody originals under the standing IP
+transform ruling — no actual copyrighted character, and no
+format or franchise name is spoken or written in the script.
+
+- **Invader:** THE NUMBER CHAMPION — a broad, maximum-expression
+  competitor with a huge foam number strapped to his forehead.
+  Original design in the format's spirit; he never enters the
+  room, gets no direct address, and nobody explains him.
+- **Source FORMAT:** the number-on-head empire format (status
+  worn as a forehead number, announced out loud, call-outs
+  pointed at the status holder, rank settled by formal
+  contest — mechanics per the king-pauper / Dookie Bowl
+  studies, `research_notes/king-pauper-20261116/` and
+  `research_notes/lilypads/dookie-champions-20261116/`).
+- **The want he brings:** the singer's place, claimed as
+  NUMBER FOUR — spoken by him, in plain words, in U2 (F-3
+  satisfied at first appearance): "Number Four. The singer's
+  place is mine." (7 words.)
+- **How it collides:** the singer's place is the exact object
+  the host plot is already fighting over (LAURA wants UNC's
+  name off it; PETER wants UNC heard live in it; COLONEL cancels
+  for a false name). The Champion's public claim through the
+  glass makes it a three-way contest and a formal one: with a
+  challenger waiting and a corridor crowd watching, the
+  demonstration cannot be put off (U3 picture), and PETER
+  performs it himself, at full size, in front of the challenger
+  (U4 picture) instead of coaching from the side.
+- **How he loses (serves the payoff, never touches it):** the
+  house system here is the desk/sheet — the singer credit IS
+  the ranking, and PETER's U4 desk rule is what processes any
+  claim to it. The U5 payoff is unaltered (advertiser
+  cancelled, name off, badge restored). On top of it, the new
+  sheet in U6 ranks the Champion on its second line as NUMBER
+  FIVE — one worse than he claimed, below the man who actually
+  sang. His loss is printed by the same machinery that settled
+  the hosts' fight.
+- **Lore function:** plants **THE INVASION CIRCUIT** thread —
+  the Champion also invades ONE SHORT E2, and in every world
+  the house system re-ranks him one worse than he claims
+  (here: the desk/sheet, 4→5). Lore, never exposition: hosts
+  react to the claim, not the cosmology. Ledgered as F-021 /
+  PL-15; his standing state (sheet rank FIVE, foam still FOUR)
+  is carried in LEDGER §1/§5.
+- **Twine:** his line answers PETER's U2 line (the shut mouth
+  that "pays nobody" — the Champion claims the paying place)
+  and is answered in turn by COLONEL's U2 line, whose "false
+  name" condition lands directly on a self-declared claim.
+  Order-dependent both ways.
+- **Deletion test (room's own check):** remove him and three
+  things change — his F-3 want and its U6 settlement (the
+  second line's NUMBER FIVE has no claim to answer), the U3
+  urgency (no public challenger, so the demonstration can
+  wait), and the U4 shape (no formal contest to answer, so
+  PETER's full-size self-performance loses its witness and
+  its second motive). He is load-bearing, not a cameo.
+- **Budget math (mechanical, verified by script against
+  SCRIPT.md — verbatim match, in order):** 103 + 7 (Champion,
+  U2) = **110 words, 12 lines** — at the F-5 band ceiling
+  (95–110), under the 115 hard cap. Max line still 12 words.
+  Sub-4-word lines: **0**. Connective lines: 7 (his line
+  added, marked ◆C). Per-unit: U1 19, U2 38, U3 17, U4 19,
+  U5 17, U6 0.
+- **Protected beats verified untouched:** the teach beat
+  (red means live, U2), the quotable ("A singer is just a
+  mouth with paperwork, Laura!"), LAURA's U5 direct address
+  (still the episode's only one), all three gaps and their
+  carriers, every joint's last-frame→first-frame description
+  (the Champion is corridor/glass dressing mid-unit in U2–U4
+  and exits before the U6 freeze; no joint tableau changed),
+  and the BLAM opening (his arrival is U2 — nothing of him in
+  the first second). Cold-join from U4 still recovers the host
+  plot: U4's picture and lines are Peter's demonstration and
+  rule, with the Champion present only as its witness.
+- **Files updated in this pass:** SCRIPT.md (header counts +
+  status, U2 line + staging, U3/U4 staging pressure, U6
+  re-rank — all marked [INVASION]), GATE_E_INPUT.md
+  (regenerated; verified line-by-line against SCRIPT.md:
+  12/12 dialogue lines verbatim and in order, picture turns
+  updated for U2/U3/U4/U6, U1/U5 unchanged), LEDGER.md
+  (F-021, PL-15, Champion state card, §1 anchor 5, counters,
+  beat registry), DECISION_LOG.md (this entry + the MSG 528
+  SEASONING MAP number-on-head extension above).
+- **Status after this pass:** invasion pass applied — pending
+  Gate E re-test. NOT locked, NOT certified, no git commit,
+  per brief.
+
+## LOCK (POST-INVASION) — Showrunner (coordinator), 2026-11-16
+
+- Gate E POST-INVASION RE-TEST (fresh cold reader,
+  GATE_E_INPUT.md only): **PASS** — all four questions cited
+  (incl. the Champion's want, U2), F-2 PASS, F-3 PASS (five
+  speakers, all wants by U2), shuffle/cold-join/deletion all
+  PASS (deletion count 0), NO story-sense objections under any
+  sub-heading. The Champion reads cold as a stranger with a
+  claim and his claim is settled on screen (U6 sheet ranks him
+  NUMBER FIVE).
+- Script LOCKED at 110 words / 12 lines with the invasion beat.
+  This lock supersedes the pre-invasion lock (commit 512ffe84).

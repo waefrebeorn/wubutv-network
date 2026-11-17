@@ -20,6 +20,10 @@ locked-candidate lock, from the locked-candidate script only.
 4. Reminds due in E3: UNC's fed word (PL-1, payoff E5) and the
    billing book naming UNC (PL-6, payoff E6) both take their
    ledgered E3 remind in E3's room.
+5. **The Number Champion's house rank here is FIVE** (F-021,
+   invasion pass). If he recurs in this show, he arrives still
+   wearing FOUR — the gap between his foam and this sheet's
+   ranking is his standing state, not a reset.
 
 ## 2. NEW CANON FACTS (E2)
 
@@ -66,6 +70,24 @@ locked-candidate lock, from the locked-candidate script only.
   human act at the desk was a fader held open, not a slot fired:
   LAURA tape-locked the broadcast fader open so a live confession
   could not be cut. *(E2 U5.)*
+- **F-021** — **The Number Champion's claim, and its re-rank
+  (invasion pass, 2026-11-16).** A broad competitor with a huge
+  foam FOUR strapped to his forehead appeared at the control-room
+  glass in E2 U2, pointed a call-out at the desk, and claimed the
+  singer's place in plain words ("Number Four. The singer's place
+  is mine."). Nobody explained him; the room answered the claim
+  with its own machinery — COLONEL's false-name condition (U2),
+  a demonstration that could not wait and was performed in front
+  of him (U3–U4), and the desk rule PETER stated in U4. The new
+  call sheet printed at E2's close ranks him on its second line
+  as **NUMBER FIVE** — one worse than he claimed, below PETER.
+  **State fact left behind: in this house system the Champion's
+  rank is FIVE, whatever his foam says (the foam still reads
+  FOUR).** His claim is lost, settled on paper in U6; the U5
+  payoff (F-016) is untouched by it. He left down the corridor
+  before the U6 freeze. *(E2 U2/U6. THE INVASION CIRCUIT thread —
+  he also invades ONE SHORT E2, where that house system likewise
+  re-ranks him one worse.)*
 
 ## 3. FACT BANK — E2 MOVEMENTS
 
@@ -83,6 +105,7 @@ locked-candidate lock, from the locked-candidate script only.
 | PL-2 | Strip ahead → strip level (finale) | E1 (rule shown) | E4 | E8 | PLANTED |
 | PL-13 | Tomorrow's sheet names PETER; cat wears PETER's mouth (F-017/F-018) | E2 U6 | — | E3 | PLANTED |
 | PL-14 | The desk rule (F-020) | E2 U4 | — | E2 U6 | **SPENT** (stated by PETER pre-demonstration; paid by the U6 video + sheet) |
+| PL-15 | THE INVASION CIRCUIT — the Number Champion's claim (F-021) | E2 U2 | — | E2 U6 (re-rank to NUMBER FIVE) + ONE SHORT E2 (recurrence) | **PART-SPENT** — claim fought and lost in-episode (U6 second line); the circuit thread stays open across the slate |
 
 No empty payoff cells.
 
@@ -129,6 +152,14 @@ paper and a marker. *LAST CHANGE:* E2 (repair).
 the demonstration (U4); closed the episode wearing PETER's mouth
 (F-017). Face unchanged throughout.
 
+**THE NUMBER CHAMPION** *(invader — invasion pass)* — *KNOWS:*
+the desk ranked him fifth, below the man who sang (F-021).
+*WANTS:* the singer's place, claimed in plain words E2 U2 as
+"Number Four" — **lost in E2 U6**. *OWES:* —. *STATUS:* ranked
+**NUMBER FIVE** by this house's sheet; his foam still reads
+FOUR. Gone down the corridor before the U6 freeze. *LAST
+CHANGE:* E2 (invasion pass).
+
 ## 6. RELATIONSHIP DELTAS — E2
 
 - **LAURA–UNC:** E2 — she traps the seller instead of prosecuting
@@ -156,6 +187,9 @@ the demonstration (U4); closed the episode wearing PETER's mouth
   the next one, E2 U6 — naming PETER).
 - Name badges in the OUT tray: **0** (UNC's restored, E2 U5).
 - Singer contracts with the advertiser: **0 live** (cancelled E2).
+- Invader claims processed by the desk: **1** — the Number
+  Champion, claimed FOUR (E2 U2), re-ranked **FIVE** on the new
+  sheet (E2 U6, F-021).
 - Strip state at E2 close: **leading**.
 
 ## 8. BEAT REGISTRY — E2
@@ -164,12 +198,15 @@ Opening beat type: *the printed future, already airing* (sheet's
 first item live in frame 0). Engine: **S7 Demonstration Trap**
 (want-vs-want contest; NOT the B1 accusation chain — rotation per
 F-6 logged). Pair shapes: U1 want-vs-want (declare/declare),
-U2 want-vs-rule (declare/refuse), U3 name + request, U4 solo
+U2 want-vs-rule (declare/refuse) **[INVASION]** plus the
+Champion's glass-side challenge inserted between PETER's rule
+and COLONEL's pricing of it (declare/challenge/price), U3 name + request, U4 solo
 demonstration (declared aired-segment exception in U3 aside, the
 episode's exchanges stay two-handed, TW-7), U5 silent point +
 direct address, then a NEW exchange for the authority execution,
 U6 silent picture hanger (no dialogue; the transfer is caused by
-the U4 desk rule, F-020). Delta classes: Δpower
+the U4 desk rule, F-020) **[INVASION]** with the Champion's
+re-rank (NUMBER FIVE) printed as the new sheet's second line. Delta classes: Δpower
 (U2 badge, U5 cancellation), Δinfo (U1 sheet true, U5 advertiser
 heard), STATUS (UNC un-billed; PETER product). Mouth handoff:
 2 fires (U3 in/out) — the signature ration holds.

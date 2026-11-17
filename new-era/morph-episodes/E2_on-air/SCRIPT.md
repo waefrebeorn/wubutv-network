@@ -1,10 +1,16 @@
 # ON AIR — Episode 2: "Show Me How"
 
-**Status: LOCKED** — Gate E re-test PASS (fresh cold reader, GATE_E.md re-test section); Gate E repair applied (Writers Room, Passes 1–5,
-2026-11-16; repair pass same day per GATE_E.md FAIL — changes
-marked **[GATE E REPAIR]** inline; full repair record in
-DECISION_LOG.md). Not Gate E-certified — the re-test runs
-separately, from the regenerated GATE_E_INPUT.md only. Show
+**Status: LOCKED** — Gate E post-invasion re-test PASS (fresh cold reader, GATE_E.md post-invasion section); invasion pass applied —
+was LOCKED (Gate E re-test PASS, fresh cold reader, GATE_E.md
+re-test section; Gate E repair applied, Writers Room Passes 1–5,
+2026-11-16, changes marked **[GATE E REPAIR]** inline). The
+invasion pass (2026-11-16, user msgs 529/530 + correction 532)
+adds ONE invader beat — the NUMBER CHAMPION, marked
+**[INVASION]** inline, full record in DECISION_LOG.md
+(INVASION LOG) — and nothing else; the locked dialogue is
+otherwise verbatim. Not re-locked and not Gate E-certified —
+the re-test runs separately, from the regenerated
+GATE_E_INPUT.md only. Show
 bible: `new-era/morph/MORPH_SHOW-1.md`. Governing law:
 E2 Speech and Story Addendum (ST/SR/TW/CH) + Post-mortem Fix List
 F-1..F-12. Skeleton: **S7 — The Demonstration Trap** (BOARD.md).
@@ -12,12 +18,14 @@ F-1..F-12. Skeleton: **S7 — The Demonstration Trap** (BOARD.md).
 **Format:** 60s, 6 units × 10s, 16:9, one conversation, one room
 (the control room). **Speaking cast:** LAURA, UNC, PETER +
 COLONEL (authority — voice via desk intercom in U2 **[GATE E
-REPAIR]**, in person U5 only).
-**Word total: 103** (F-5 band 95–110, hard cap 115 ✓ — counted
-mechanically, DECISION_LOG). **Lines: 11.** Per line ≤12 words ✓.
+REPAIR]**, in person U5 only) + the NUMBER CHAMPION
+(**[INVASION]** — one line, U2, shouted through the
+control-room glass; never enters the room, no direct address).
+**Word total: 110** (F-5 band 95–110, hard cap 115 ✓ — counted
+mechanically, DECISION_LOG). **Lines: 12.** Per line ≤12 words ✓.
 **Sub-4-word lines: 0** (F-5 ✓; no refrain exception needed —
 the refrain "Red means live" is a full sentence inside its lines).
-**Connective lines: 6** (≥4 required, F-5) — marked ◆C.
+**Connective lines: 7** (≥4 required, F-5) — marked ◆C.
 **Digestion gaps:** ◆GAP 1 end of U2 · ◆GAP 2 end of U4 ·
 ◆GAP 3 final 2–3s of U6. Each has a named carrier; none is bare air.
 **Mouth handoff:** fires exactly twice (bible §2) — into the U3
@@ -80,7 +88,7 @@ monitor mid-video behind them, mic light red. U2 opens on that
 exact tableau, camera unchanged; only the monitor's video ends
 and the room tone drops.
 
-## U2 — 31 words · the rule, stated by the man it will hang
+## U2 — 38 words · the rule, stated by the man it will hang
 
 **Staging.** Texture beat (world, dressing only): through the
 control-room glass, the corridor bench where retired meme stars
@@ -104,6 +112,25 @@ beside it — UNC LEAVES AT SIX. UNC looks at the tray, not at PETER.
 > and "shut" to refuse the want)*:
 > "Your mouth shut pays nobody. Red means live, UNC."
 
+**[INVASION]** *At the control-room glass, from the corridor: a
+broad, maximum-expression competitor with a huge foam FOUR
+strapped to his forehead — the NUMBER CHAMPION, an original in
+the number-on-head format's spirit (status worn as a number,
+announced out loud, settled by formal contest). He points his
+call-out first at UNC — the man the sheet currently ranks as
+singer — then at the desk itself, and shouts his challenge
+through the glass. The bench figures stand to watch: the
+challenge is public. Nobody in the room explains who he is or
+where he came from; they answer the claim, not the man. His
+line answers PETER's placement of the singer (the shut mouth
+that "pays nobody") by claiming that place for himself:*
+
+> **CHAMPION** *(want-statement ◆C **[INVASION]**; plain, by U2
+> per F-3 — his number announced aloud and his want in the
+> same breath; borrows "singer's place" from the contest
+> PETER and LAURA are already fighting over)*:
+> "Number Four. The singer's place is mine."
+
 **[GATE E REPAIR — F-3 / Colonel motive]** *The desk phone's
 speaker crackles — COLONEL's voice only, via the intercom. He
 does not enter; his physical entrance stays U5. His want is
@@ -113,7 +140,10 @@ repair section):*
 
 > **COLONEL** *(want-statement ◆C, voice via desk intercom only;
 > borrows "name" from LAURA's U1 want and "advertiser" from
-> PETER's U1 want, and prices both)*:
+> PETER's U1 want, and prices both **[INVASION]** — and, landing
+> immediately after the CHAMPION's claim, its "false name"
+> condition prices his claim too: a self-declared singer's
+> place is exactly the false name he cancels for)*:
 > "I want billable truth. A false name and I cancel the advertiser."
 
 ◆ **GAP 1 — 2–3s held on the proof objects:** the badge sitting
@@ -128,7 +158,11 @@ light is still red; the badge is still in the tray.
 
 ## U3 — 17 words · THE AIRED SEGMENT + the request
 
-**Staging.** PETER slaps the sheet's demo page flat — its printed
+**Staging.** **[INVASION]** The CHAMPION stays at the glass,
+foam FOUR high, the corridor crowd still standing behind him:
+a formal challenge for the singer's place is now open in
+public, so the demonstration cannot wait for a quieter moment —
+if nobody sings here now, his claim stands unopposed. PETER slaps the sheet's demo page flat — its printed
 order reads DEMO: UNC SINGS ONE NOTE, LIVE — and points at the
 mic (his order, delivered as deed and paper, starting this
 exchange). LAURA answers the order, not the man:
@@ -162,7 +196,12 @@ angles the mic stand toward PETER as he sits back down.
 
 ## U4 — 19 words · THE DEMONSTRATION (peak turn; whimsy set-piece)
 
-**Staging — THE SET-PIECE.** PETER taps his invoice twice on the
+**Staging — THE SET-PIECE.** **[INVASION]** The CHAMPION is
+still at the glass, pointing his call-out at PETER now: the
+demonstration is also PETER's formal answer to the challenge,
+performed in front of the challenger and the corridor crowd —
+which is why PETER performs it himself, at full size, instead
+of coaching from the side. PETER taps his invoice twice on the
 desk (tell fires, CH-5) and performs the demonstration like a
 one-man music-video audition: chair spin, jazz hands, a full
 selling-song strut around the desk — and the room joins the act
@@ -257,7 +296,17 @@ own voice, wearing **PETER's mouth**. Nobody in the room fed the
 desk a recording; the demonstration was live, not recorded (the
 shared wrong belief takes its logged dent; its break stays
 booked for E5). At the desk printer, tomorrow's call sheet
-slides out. Its first line reads SINGER: PETER. **[GATE E
+slides out. Its first line reads SINGER: PETER. **[INVASION]**
+Its second line reads NUMBER FIVE: CHAMPION — the desk has
+processed his U2 challenge through its own machinery (the
+singer credit is the ranking here, and PETER stated its rule
+in U4 before singing): the CHAMPION is re-ranked one worse
+than the FOUR he claimed, and below the man who actually sang
+at this desk. His claim is lost inside the same transaction
+that settles the host payoff; the payoff itself (U5) is
+untouched by him. At the door glass, at frame edge, his grin
+drops and he backs down the corridor, gone before the freeze.
+**[GATE E
 REPAIR]** PETER's direct-address line ("Now the cat wears my
 mouth. Would you buy that song?") is CUT per the reader's
 deletion test — the picture turn already shows the cat and the
