@@ -1247,3 +1247,256 @@ cosplay/parody originals per msg-486):**
   costs the house a corner and costs him his rank for the
   night. His colony's claim stands unanswered — planted as
   P-008, payoff E4 (THE INVASION CIRCUIT).
+
+
+---
+
+## REPAIR ROUND v3 — SCRIPT-LEVEL REPAIR (2026-11-17)
+
+Authorized by WuBu as the episode's one script-level repair
+round, against the F-9 re-run verdict (GATE_E_MASTER2.md,
+FAIL: requirements 1, 2, 4, 5 not met; 3 met). The v2
+picture repair fixed the payoff and the board legibility;
+the failures that remained were all statement gaps in the
+dialogue itself. The GATE PROTOCOL CLARIFICATION (2026-11-17)
+governs this round's gates; it does not rescue any item
+below — every item is a never-stated want, rule, or count,
+repaired by stating it. Role-separated room discipline:
+Storyliner identified the gaps from the verdict; Dialogue
+Writer drafted the minimal line repairs; Continuity Editor
+checked every repair against BOARD.md canon, the plates,
+and the twine chain; the Critic's check is the fresh Gate E
+(GATE_E_REPAIR.md), run cold under the clarified protocol.
+
+**PRESERVED UNTOUCHED (verdict-confirmed MET):** the payoff
+— Elias's win, won through Laura's hands in U5 and not
+revoked (req 3 MET); the attribution (Laura, Keeper, Blob
+Prince wants PASS Q2 in the re-run); Laura's U1 opener (the
+SR-1 signature line), her want, her U2 stakes, her U3 fact,
+her U5 pass line; the teach line; UNC's slip (P-001); the
+money rule's substance; the U6 hanger line. Eight dialogue
+lines changed; ten lines stand verbatim.
+
+### R3-1 — UNC's want (verdict Q2: "I want it sold" has no antecedent and contradicts his pictured act; "Peter's bed — pays tonight" is a fragment)
+
+- U2 UNC: "Wet? I want it sold." → **"Wet? I want that
+  bed sold."** The object is named (that bed — the tenth
+  bed, pictured stripped in U4); the direction is SOLD,
+  and the buyer is Peter (BOARD character card: UNC is
+  Peter's broker — he carried Peter's bag in and offers
+  Peter's envelope; his want is Bed 10 sold, to Peter, for
+  cash tonight).
+- U4 UNC: "Peter's bed — pays tonight." → **"Peter's cash
+  buys it tonight."** A full sentence; the money's
+  direction now agrees with the U2 want: Peter's cash is
+  the price that buys the bed UNC is selling. The pictured
+  act (offering the envelope) now matches the spoken want.
+
+### R3-2 — The door test stated whole (verdict Q4: never stated in one plain sentence — only fragments across U1/U2/U4/U5)
+
+- U1 KEEPER: "Door test: spoken, carried, same hands." →
+  **"Door test: name spoken, bag carried, same hands — he
+  comes himself."** One sentence, in U1, before the test
+  decides anything (ST-4 placement preserved): the name
+  spoken, the bag carried, both by the same hands, and the
+  named man must come himself. The presence prong is the
+  design's own: BOARD's Peter card ("its man never came")
+  and U6's pictured arrival have always graded on it; it
+  was simply never in the stated rule. LEDGER F-011 is
+  conformed by this entry: the test's spoken form now
+  carries the presence clause.
+
+### R3-3 — The proxy distinction stated (verdict Q4: Laura claims for Elias and passes; UNC handles Peter's claim and fails; the difference is never stated)
+
+- U2 KEEPER ruling: "Spoken, not carried. Bag outside." →
+  **"Carried, never spoken. Bag outside."** The locked
+  ruling contradicted both the picture (the bag WAS
+  carried in, by UNC) and the dialogue (no one had spoken
+  Peter's name at the door — UNC spoke only of selling).
+  The repaired grade is exact: Peter's claim fails the
+  SPOKEN prong at its presentation.
+- U4 LAURA: "Elias wants it. Peter's hands carried, never
+  spoke." → **"Elias wants it. Money speaks — Peter
+  doesn't."** The locked wording was also factually wrong
+  (Peter's hands never carried anything). The repair
+  states the distinction at the operative moment: what
+  spoke for Peter was his money, in a broker's hands —
+  barred by the money rule applied in the same unit —
+  while Peter himself has spoken nothing, carried
+  nothing, and never stood here (U3). Laura's claim
+  stands on the opposite posture, performed in U5: her
+  own empty hands speak and carry, and Elias comes
+  himself (U6). The three grades now follow from the one
+  stated rule (R3-2) with no unstated difference.
+
+### R3-4 — The count made exact (verdict Q5: opening 11 → "ten names, ten beds" → 11 with KEEPER "the eleventh", while ELIAS fresh over the strike reads as a restore making him twelfth; what removed a name is never stated)
+
+- U1 KEEPER: "I want quiet: name off ends arguing." →
+  **"I want quiet: my name off."** What removed a name is
+  now stated in the unit where it happens: the struck
+  name is the Keeper's OWN (the audience already sees it
+  at frame 0; the dialogue now says it).
+- U5 staging + plate: the grant is now pictured on the
+  board — **the Keeper strikes PETER's name through and
+  writes ELIAS fresh in Peter's place** as he speaks the
+  count. Chain: 11 names → Keeper's own struck (10
+  standing) → Peter struck, Elias written in his place
+  (still 10 standing) → Keeper written fresh at the foot
+  in U6 (11 standing, 10 beds). No name is ever restored
+  into a struck slot: Elias takes a LIVE name's place,
+  not the Keeper's struck one.
+- U5 KEEPER count: "Held tight: ten names, ten beds." →
+  **"Held tight: ten names, ten beds — none mine."** The
+  cost is stated in the count itself (see R3-5).
+- U5 KEEPER floor rule: "Full ten — who stays refused:
+  dry floor." → **"Full ten — uncarried refused: dry
+  floor."** The line now grades the claim it settles
+  (verdict Q4: "nor is it ever said which prong of the
+  test the blob prince failed"): the Blob Prince spoke
+  his want and came himself, but his sack was never
+  carried in — "Mine's outside" (U2) — so his claim is
+  UNCARRIED and refused a bed under the stated rule.
+- PLATES REBUILT (consequence): the v1/v2 plates carried
+  E1's geometry — HAROLD in the tenth row, no PETER row,
+  and ELIAS written over the Keeper's struck foot slot in
+  the held state (the plate design itself invited the
+  twelfth-name reading). The v3 plates are built on the
+  script's roster: nine lodgers (ANNA, MOSS, JUNE, COLE,
+  RUTH, SOL, LAURA, EMMETT, TESS) + PETER in the tenth
+  row + KEEPER at the foot; states: open (11) → struck
+  (Keeper, U1) → grant (Peter struck, Elias in his place,
+  U5) → final (grant state + KEEPER fresh at the foot,
+  U6). The pictured count and the spoken count are now
+  the same count. (The standing disclosure "the plates
+  carry E1's board geometry — the spoken counts govern"
+  is retired for v3: the plates now govern too.)
+
+### R3-5 — The Keeper's closing question gains its referent (verdict Q1 item 7: "no Keeper bed was ever established; U5's desk corner: 'no bed'")
+
+- The "none mine" of R3-4 states, in the count line
+  itself, that the Keeper holds no bed among the ten —
+  before the U6 question is asked. U5's picture (the
+  desk: chair, lamp, no bed) and the stated count now
+  agree, and "which bed's mine?" has its set-up on the
+  record.
+
+### R3-6 — Peter does not appear (verdict Q1 item 6 + deletion reading 2: the unnamed man in the wet tan overcoat "invites, but does not support" the Peter reading)
+
+- U6 staging: the overcoat man is CUT. The repair takes
+  the verdict's own alternative ("identify the man … or
+  cut him") and restores the BOARD's character-card canon:
+  Peter is the absent principal — never appears, never
+  speaks; his fate is stated by the struck name (U5), the
+  refused cash (U4), and his bag still unclaimed at the
+  stair foot in the final picture. The U6 vehicle will
+  carry an explicit negative: no other man appears; the
+  doorway stays empty after Elias enters.
+
+### R3-7 — Elias's arrival shown (verdict Q1: "Elias is never shown arriving … he is simply asleep on the bed in U6" — the v2 conform cut his entrance with the doubled span)
+
+- U6 staging now carries the entrance as a REQUIRED
+  pictured beat, and the v3 U6 vehicle demands it of the
+  take: the made bed EMPTY at the open (bag on it), Elias
+  enters through the door out of the rain and lies down
+  on it. The conform may not cut the entrance span. The
+  v3 U6 is anchored on the new U5 tail frame — NOT on
+  PNL-PEAK-U6, which depicts Elias already on the bed and
+  conditioned the doubling in both v2 U6 rolls (the
+  anchor carried the defect the refire was meant to cure).
+
+### R3-8 — Money rule trimmed for budget (no verdict item; budget discipline)
+
+- U4 KEEPER: "Last rule: carrying hands hold no money."
+  → **"Carrying hands hold no money."** The rule's
+  substance, application, and twine ("carrying hands"
+  quotes the test) are unchanged; "Last rule:" was a
+  label, not content. The trim funds the R3-2/R3-4
+  additions inside the 95–115 budget.
+
+**Budget (mechanical count):** 114 words (was 110), 18
+lines, longest line 11 words, sub-4-word lines 0,
+connective lines 8. Twine chain re-checked end to end:
+"Quiet?" (U1 L3) quotes the Keeper's want; "Wet?" (U2)
+quotes Laura's stakes; the U2 ruling grades by the U1
+test's words; the slip (U4) hangs on "these hands"; "Money
+speaks" (U4) answers the money rule in the same unit; the
+teach (U5) quotes the pass ("same hands"); the count
+quotes the teach ("Held tight"); the floor rule quotes
+the count ("Full ten") and grades by the test ("uncarried"
+answers U2's "Mine's outside"). Shuffle pairs all break on
+quoted matter or on facts only one line states.
+
+
+### REPAIR ROUND v3 — GATE E ROUND 2 (2026-11-17)
+
+Gate E round 1 on the repair (GATE_E_REPAIR.md) PASSED Q1,
+Q2, Q3, F-2, F-3 and requirements (1), (2), (3), (5) — the
+four F-9 statement gaps are closed — and FAILED Q4,
+requirement (4), SHUFFLE and COLD-JOIN on second-order
+items. Round 2 applies that verdict's own minimum fixes,
+compressed where the reader's suggested wordings would
+have broken the 95–115 budget (their verbatim set ran
+~+20 words; the budget is F-5 law and part of the repair
+brief). Final mechanical count: 115 words, 18 lines,
+longest line 9, sub-4-word lines 1, connective lines 9.
+
+- **Fix 1 (Q4 / req 4 / story sense — the Keeper's claim):**
+  U6 closer "Eleven names, ten beds — which bed's mine?"
+  → **"Eleven names, ten beds — desk tonight; tomorrow,
+  mine."** The bare question was not an appointment, so
+  clarification (i) did not exempt it and the restored
+  name read as an unsettled, unmotivated reversal. The
+  new closer settles tonight on screen (the desk — he
+  takes no bed; Elias's win is not revoked), states why
+  the name stands (his claim, filed for the decision),
+  and dockets the claim to a named tomorrow — an
+  appointment under clarification (i). LEDGER conformed:
+  E3's SR-1 anchor is now the DECISION NIGHT (the claim
+  coming due), replacing "the question wearing its work
+  clothes"; P-006's ruling sits there unchanged.
+- **Fix 2 (req 4 — the rule's equal application):** the
+  presence clause "— he comes himself" is DELETED from
+  the U1 test, which now reads **"Door test: name spoken,
+  bag carried, same hands."** As a stated prong it graded
+  Elias's U5 grant before his U6 arrival. The remaining
+  test is exactly the one Laura's U5 performance quotes
+  and satisfies, Peter fails (unspoken; money-barred),
+  and the Blob Prince fails (nothing carried). Presence
+  remains pictured fact (Elias comes and takes the bed in
+  person; Peter never comes) but is no longer a prong.
+  This supersedes R3-2's LEDGER F-011 conformance: the
+  test's spoken form is the three-prong form.
+- **Fix 3i (cold-join — UNC's want):** U4 UNC "Peter's
+  cash buys it tonight." → **"Want it sold — Peter's
+  cash."** His want is restated in his mouth in the back
+  half (compressed echo of U2's "I want that bed sold" —
+  an F-3 mandated restatement pair under clarification
+  (ii)).
+- **Fixes 3ii + 4ii (cold-join — the Blob Prince's want;
+  shuffle — count/floor pair):** U5 floor line → **"None
+  mine — dry bed wanted, nothing carried: dry floor."**
+  It opens by quoting the count's tail (cannot precede
+  the count), restates the invader's want in the back
+  half, and keeps the R3-4 grade ("nothing carried" —
+  the failed prong in the test's own word).
+- **Fix 4i (shuffle — slip/closer pair; story sense —
+  the unanswered slip):** U4 LAURA → **"Board hands?
+  Elias wants it. Money speaks — Peter doesn't."** The
+  opener answers "These hands weren't at that board", so
+  the closer cannot precede the slip, and the slip no
+  longer hangs unanswered.
+- **Fix 4iii (shuffle — U2/U3 pair):** U3 LAURA →
+  **"Outside too — Peter's never stood here."** The
+  opener quotes "Mine's outside" (Peter's bag sits
+  outside too), so the line cannot precede the Blob
+  Prince's.
+- **Budget trims (no verdict item; each logged so the
+  record shows what paid for the fixes):** U1 LAURA loses
+  the vocative ", Keeper" (7 words; she speaks facing
+  him, his answer identifies the addressee); U2 ruling
+  compressed to "Unspoken. Bag outside." (3 words — the
+  verdict word + the order; the carried fact is pictured
+  and stated in U5's pass line); U3 loses Laura's "boss"
+  tell; U4 UNC loses "buys it tonight" (the envelope is
+  pictured in his hand; "tonight" is the episode's frame,
+  stated in U2's ruling beat and the one-night premise).

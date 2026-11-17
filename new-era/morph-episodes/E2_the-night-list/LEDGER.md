@@ -319,3 +319,43 @@ canon.
   room-level script decisions plus new takes — not another
   conform. Canon above (§§1–5) is unaffected: it records
   the story as scripted; the episode simply has not shipped.
+
+## 8. V3 OUTCOME — DELIVERED (2026-11-17, replacement repair finisher)
+
+- The one authorized script-level repair round ran: SCRIPT.md
+  revised (115 words, 18 lines — UNC's want given its
+  antecedent, the door test in one plain sentence, the proxy
+  distinction stated, the count made resolvable, the U6
+  closer changed to the appointment "desk tonight; tomorrow,
+  mine", Elias's arrival restored to U6). Gate E round 2 on
+  the repaired script: PASS (work/GATE_E_REPAIR2.md).
+- V3 master: masters/E2_the-night-list_v3.mp4 — 1280×720,
+  24fps, exactly 1440f / 60.000s, CRF 18 (1.99× size
+  differential vs CRF 23), AAC 48k, faststart, corner bug,
+  15,475,354 B, md5 7be7d8b8702a019ac19f95100b9d285c.
+- Gates on the master: BLAM ALL SIX PASS (A3 fixed: head
+  −4.1 dB vs median; v2 carried −12.7); loudness −17.2 LUFS;
+  wordmark PASS (exact "~ WuBu ~" legible at frames
+  959/960); joints eye-verified J1–J5 (GATE_LOG).
+- **F-9 on the finished master: PASS — all twelve items,
+  all five prior substantive failures verified fixed**
+  (work/GATE_E_F9_V3_INPUT.md / GATE_E_F9_V3_VERDICT.md).
+- Build defects on the record: (a) two scripted lines (L8,
+  L9) do not sound — three U2 refires capped at L7 in the
+  10s unit; their content is carried by U3's picture, U4's
+  statements and U5's verdict; (b) the handed-down v3
+  build's U1/U2 takes carried rotated dialogue (U2's lines
+  split across the U1/U2 slots, L1/L2 spoken by no take) —
+  found by the finisher's own ASR, repaired by refire; the
+  predecessor's U1/U2 QC entries in GATE_LOG are corrected
+  there; (c) Laura's hair reads red in U3–U5 takes (drift
+  class, disclosed); (d) U6's bed reads two-tier in the
+  closing angle (set-dressing nit, disclosed).
+- The delivered master follows the REPAIRED script: the U6
+  closer is the appointment, and no figure stands at the
+  door in U6 (the repair round-2 script cut Peter's doorway
+  appearance — §1 F-019 records the earlier script's
+  version; canon reconciliation is the next room's work).
+- **E2_DELIVERED.flag SET.** v1 (E2_the-night-list.mp4) and
+  v2 (E2_the-night-list_v2.mp4) masters are F-9-failed and
+  were never delivered; v3 supersedes both.

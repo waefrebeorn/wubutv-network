@@ -1,0 +1,71 @@
+== u6v3b.mp4
+[
+ {
+  "start": 4.68,
+  "end": 7.5,
+  "text": "11 names, 10 beds, desk tonight.",
+  "avg_logprob": -0.299,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " 11",
+    "start": 4.68,
+    "end": 5.36,
+    "probability": 0.445
+   },
+   {
+    "word": " names,",
+    "start": 5.36,
+    "end": 5.88,
+    "probability": 0.995
+   },
+   {
+    "word": " 10",
+    "start": 6.0,
+    "end": 6.16,
+    "probability": 0.982
+   },
+   {
+    "word": " beds,",
+    "start": 6.16,
+    "end": 6.58,
+    "probability": 0.999
+   },
+   {
+    "word": " desk",
+    "start": 6.92,
+    "end": 7.16,
+    "probability": 0.994
+   },
+   {
+    "word": " tonight.",
+    "start": 7.16,
+    "end": 7.5,
+    "probability": 0.99
+   }
+  ]
+ },
+ {
+  "start": 7.84,
+  "end": 8.8,
+  "text": "Tomorrow mine.",
+  "avg_logprob": -0.299,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Tomorrow",
+    "start": 7.84,
+    "end": 8.36,
+    "probability": 0.998
+   },
+   {
+    "word": " mine.",
+    "start": 8.36,
+    "end": 8.8,
+    "probability": 0.285
+   }
+  ]
+ }
+]
+FULL: '11 names, 10 beds, desk tonight. Tomorrow mine.'
+ASR DONE

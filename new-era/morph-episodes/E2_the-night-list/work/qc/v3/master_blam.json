@@ -1,0 +1,42 @@
+{
+ "file": "E2_the-night-list_v3.mp4",
+ "audio": {
+  "median_dbfs": -24.7,
+  "t50_s": 0.1,
+  "t90_s": 0.2,
+  "lead_silence_s": 0.0,
+  "head_db_0_1s": -28.8,
+  "head_minus_median_db": -4.1,
+  "hf_bursts_head": 3,
+  "hf_bursts_control": 9
+ },
+ "video": {
+  "buckets_0_3s": {
+   "0.00-0.25": 2.51,
+   "0.25-0.50": 3.04,
+   "0.50-0.75": 3.53,
+   "0.75-1.00": 4.06,
+   "1.00-1.25": 4.27,
+   "1.25-1.50": 4.01,
+   "1.50-1.75": 3.6,
+   "1.75-2.00": 3.5,
+   "2.00-2.25": 3.37,
+   "2.25-2.50": 3.03,
+   "2.50-2.75": 2.32,
+   "2.75-3.00": 1.65
+  },
+  "baseline_mae_3_10s": 0.72,
+  "motion_0_0.5s": 2.78,
+  "v1_ratio": 3.86,
+  "first_bucket": 2.51,
+  "strongest_bucket_0_3s": 4.27
+ },
+ "checks": {
+  "A1": true,
+  "A2": true,
+  "A3": true,
+  "A4": true,
+  "V1": true,
+  "V2": true
+ }
+}
