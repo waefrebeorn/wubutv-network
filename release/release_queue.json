@@ -1,14 +1,14 @@
 {
  "version": 1,
- "computed_utc": "2026-11-17T00:24:48Z",
+ "computed_utc": "2026-11-17T05:05:25Z",
  "rotation_next": "ARC-1",
  "entries": [
   {
-   "item": "MV-14",
+   "item": "MV-15",
    "platform": "instagram",
-   "title": "CLIP IT",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/masters/mv14_clip_it_16x9_50mb.mp4",
-   "md5": "bbfef6429885a0a345a7e2821d53e09c",
+   "title": "Unread DMs",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9_50mb.mp4",
+   "md5": "c74137d0da6ea4633d0ed4d438bebf93",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -19,11 +19,11 @@
    "rank": 1
   },
   {
-   "item": "MV-15",
+   "item": "MV-16",
    "platform": "instagram",
-   "title": "Unread DMs",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9.mp4",
-   "md5": "0bef4ae5dd2217e481b3ccff840100ac",
+   "title": "Wrong for Years",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_50mb.mp4",
+   "md5": "134fc9afc7024a0c58b745fa56416734",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -34,11 +34,11 @@
    "rank": 2
   },
   {
-   "item": "MV-16",
+   "item": "MV-17",
    "platform": "instagram",
-   "title": "Wrong for Years",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9.mp4",
-   "md5": "e9a64e89395534c74729f164ae19e76a",
+   "title": "Fridge Light Mystery",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9_50mb.mp4",
+   "md5": "4f9a44cea97bc274dc28671ad6b9a927",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -49,11 +49,11 @@
    "rank": 3
   },
   {
-   "item": "MV-17",
+   "item": "MV-5",
    "platform": "instagram",
-   "title": "Fridge Light Mystery",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9.mp4",
-   "md5": "844dde83a366c412aed4268fb7c8dca4",
+   "title": "Easy now, easy now",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6_50mb.mp4",
+   "md5": "800be18f221154aeb97615587166ce87",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -62,21 +62,6 @@
     "verdict:approve"
    ],
    "rank": 4
-  },
-  {
-   "item": "MV-5",
-   "platform": "instagram",
-   "title": "Easy now, easy now",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6.mp4",
-   "md5": "2071388f3fb5672849e29462cb3f2b64",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 5
   },
   {
    "item": "MV-7",
@@ -91,7 +76,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 6
+   "rank": 5
   },
   {
    "item": "MV-8",
@@ -106,14 +91,14 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 7
+   "rank": 6
   },
   {
    "item": "MV-9",
    "platform": "instagram",
    "title": "Gotta hold it",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2.mp4",
-   "md5": "345e658bea3c72dbcd6f89675c1390b4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2_50mb.mp4",
+   "md5": "c40054a0cb78f586f94d7326abf84e4d",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -121,7 +106,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 8
+   "rank": 7
   },
   {
    "item": "MV-11-ALT-1",
@@ -138,7 +123,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 9
+   "rank": 8
   },
   {
    "item": "MV-11-ALT-2",
@@ -155,7 +140,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 10
+   "rank": 9
   },
   {
    "item": "MV-16-ALT-wrongtake",
@@ -172,7 +157,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 11
+   "rank": 10
   },
   {
    "item": "MV-2-ALT-viewing",
@@ -189,7 +174,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 12
+   "rank": 11
   },
   {
    "item": "MV-5-ALT-lyrics",
@@ -206,7 +191,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 13
+   "rank": 12
   },
   {
    "item": "MV-5-ALT-v1",
@@ -223,7 +208,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 14
+   "rank": 13
   },
   {
    "item": "MV-5-ALT-v2",
@@ -240,7 +225,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 15
+   "rank": 14
   },
   {
    "item": "MV-5-ALT-v3",
@@ -257,7 +242,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 16
+   "rank": 15
   },
   {
    "item": "MV-5-ALT-v4",
@@ -274,7 +259,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 17
+   "rank": 16
   },
   {
    "item": "MV-5-ALT-v5",
@@ -291,7 +276,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 18
+   "rank": 17
   },
   {
    "item": "MV-7-ALT-otaku",
@@ -308,7 +293,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 19
+   "rank": 18
   },
   {
    "item": "MV-7-ALT-v1",
@@ -325,7 +310,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 20
+   "rank": 19
   },
   {
    "item": "MV-8-ALT-v2",
@@ -342,7 +327,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 21
+   "rank": 20
   },
   {
    "item": "MORPH-LAST-SEAT-E1",
@@ -358,7 +343,7 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 22
+   "rank": 21
   },
   {
    "item": "MORPH-ON-AIR-E1",
@@ -374,7 +359,7 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 23
+   "rank": 22
   },
   {
    "item": "MORPH-NIGHT-LIST-E1",
@@ -390,7 +375,7 @@
     "new:delivered-24h",
     "arc:ARC-2"
    ],
-   "rank": 24
+   "rank": 23
   },
   {
    "item": "MORPH-ONE-SHORT-E1",
@@ -406,7 +391,7 @@
     "new:delivered-24h",
     "arc:ARC-3"
    ],
-   "rank": 25
+   "rank": 24
   },
   {
    "item": "E2-SHOW-1-THE-MACHINE",
@@ -421,7 +406,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 26
+   "rank": 25
   },
   {
    "item": "E2-SHOW-2-THE-TENTH-SECOND",
@@ -436,7 +421,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 27
+   "rank": 26
   },
   {
    "item": "E2-SHOW-5-THE-LAST-SEAT",
@@ -451,7 +436,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 28
+   "rank": 27
   },
   {
    "item": "PILOT-1-THE-MACHINE",
@@ -466,7 +451,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 29
+   "rank": 28
   },
   {
    "item": "PILOT-2-THE-TENTH-SECOND",
@@ -481,7 +466,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 30
+   "rank": 29
   },
   {
    "item": "PILOT-5-THE-LAST-SEAT",
@@ -496,7 +481,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 31
+   "rank": 30
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -511,7 +496,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 32
+   "rank": 31
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -526,7 +511,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 33
+   "rank": 32
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -541,7 +526,7 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 34
+   "rank": 33
   },
   {
    "item": "MV-11",
@@ -554,7 +539,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 34
   },
   {
    "item": "MV-12",
@@ -567,7 +552,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 35
   },
   {
    "item": "MV-13",
@@ -580,7 +565,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 36
   },
   {
    "item": "MV-18",
@@ -593,7 +578,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 37
   },
   {
    "item": "MV-19",
@@ -606,7 +591,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 38
   },
   {
    "item": "MV-2",
@@ -619,7 +604,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 40
+   "rank": 39
   },
   {
    "item": "MV-20",
@@ -632,7 +617,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 41
+   "rank": 40
   },
   {
    "item": "MV-3",
@@ -645,20 +630,20 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 42
+   "rank": 41
   },
   {
    "item": "MV-4",
    "platform": "instagram",
    "title": "This Time It's Real",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics.mp4",
-   "md5": "1456487dde2be81577fbb0b69c07acd4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics_50mb.mp4",
+   "md5": "35a8beda0f9d078733776415b3bda05f",
    "tier": "current",
    "arc": null,
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 43
+   "rank": 42
   },
   {
    "item": "MV-6",
@@ -671,7 +656,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 44
+   "rank": 43
   },
   {
    "item": "PILOT-4-THE-COUNT",
@@ -686,7 +671,7 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 45
+   "rank": 44
   },
   {
    "item": "ST-002",
@@ -699,7 +684,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 46
+   "rank": 45
   },
   {
    "item": "ST-003",
@@ -712,7 +697,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 47
+   "rank": 46
   },
   {
    "item": "ST-004",
@@ -725,7 +710,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 48
+   "rank": 47
   },
   {
    "item": "ST-005",
@@ -738,7 +723,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 49
+   "rank": 48
   },
   {
    "item": "ST-006",
@@ -751,7 +736,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 50
+   "rank": 49
   },
   {
    "item": "ST-007",
@@ -764,7 +749,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 51
+   "rank": 50
   },
   {
    "item": "ST-008",
@@ -777,7 +762,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 52
+   "rank": 51
   },
   {
    "item": "ST-009",
@@ -790,7 +775,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 53
+   "rank": 52
   },
   {
    "item": "ST-010",
@@ -803,7 +788,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 54
+   "rank": 53
   },
   {
    "item": "ST-011",
@@ -816,7 +801,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 55
+   "rank": 54
   },
   {
    "item": "ST-012",
@@ -829,7 +814,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 56
+   "rank": 55
   },
   {
    "item": "ST-013",
@@ -842,7 +827,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 57
+   "rank": 56
   },
   {
    "item": "ST-014",
@@ -855,7 +840,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 58
+   "rank": 57
   },
   {
    "item": "ST-015",
@@ -868,7 +853,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 59
+   "rank": 58
   },
   {
    "item": "ST-016",
@@ -881,7 +866,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 60
+   "rank": 59
   },
   {
    "item": "ST-017",
@@ -894,7 +879,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 61
+   "rank": 60
   },
   {
    "item": "ST-078",
@@ -907,7 +892,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 62
+   "rank": 61
   },
   {
    "item": "ST-079",
@@ -920,7 +905,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 63
+   "rank": 62
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -937,7 +922,7 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 64
+   "rank": 63
   },
   {
    "item": "MV-12-ALT-v1",
@@ -1232,11 +1217,11 @@
    ]
   },
   {
-   "item": "MV-10",
+   "item": "MV-15",
    "platform": "threads",
-   "title": "Aging tropes",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/masters/mv10_aging_tropes_16x9.mp4",
-   "md5": "38757f349778010cb4431f7ab948ffb6",
+   "title": "Unread DMs",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9_50mb.mp4",
+   "md5": "c74137d0da6ea4633d0ed4d438bebf93",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -1247,11 +1232,11 @@
    "rank": 1
   },
   {
-   "item": "MV-14",
+   "item": "MV-16",
    "platform": "threads",
-   "title": "CLIP IT",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/masters/mv14_clip_it_16x9_50mb.mp4",
-   "md5": "bbfef6429885a0a345a7e2821d53e09c",
+   "title": "Wrong for Years",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_50mb.mp4",
+   "md5": "134fc9afc7024a0c58b745fa56416734",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -1262,11 +1247,11 @@
    "rank": 2
   },
   {
-   "item": "MV-15",
+   "item": "MV-17",
    "platform": "threads",
-   "title": "Unread DMs",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9.mp4",
-   "md5": "0bef4ae5dd2217e481b3ccff840100ac",
+   "title": "Fridge Light Mystery",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9_50mb.mp4",
+   "md5": "4f9a44cea97bc274dc28671ad6b9a927",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -1275,36 +1260,6 @@
     "verdict:approve"
    ],
    "rank": 3
-  },
-  {
-   "item": "MV-16",
-   "platform": "threads",
-   "title": "Wrong for Years",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9.mp4",
-   "md5": "e9a64e89395534c74729f164ae19e76a",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 4
-  },
-  {
-   "item": "MV-17",
-   "platform": "threads",
-   "title": "Fridge Light Mystery",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9.mp4",
-   "md5": "844dde83a366c412aed4268fb7c8dca4",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 5
   },
   {
    "item": "MV-21",
@@ -1319,14 +1274,14 @@
    "reasons": [
     "verdict:rating:85"
    ],
-   "rank": 6
+   "rank": 4
   },
   {
    "item": "MV-9",
    "platform": "threads",
    "title": "Gotta hold it",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2.mp4",
-   "md5": "345e658bea3c72dbcd6f89675c1390b4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2_50mb.mp4",
+   "md5": "c40054a0cb78f586f94d7326abf84e4d",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -1334,7 +1289,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 7
+   "rank": 5
   },
   {
    "item": "MV-11-ALT-1",
@@ -1351,7 +1306,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 8
+   "rank": 6
   },
   {
    "item": "MV-11-ALT-2",
@@ -1368,7 +1323,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 9
+   "rank": 7
   },
   {
    "item": "MV-16-ALT-wrongtake",
@@ -1385,7 +1340,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 10
+   "rank": 8
   },
   {
    "item": "MV-2-ALT-viewing",
@@ -1402,7 +1357,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 11
+   "rank": 9
   },
   {
    "item": "MV-5-ALT-lyrics",
@@ -1419,7 +1374,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 12
+   "rank": 10
   },
   {
    "item": "MV-5-ALT-v1",
@@ -1436,7 +1391,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 13
+   "rank": 11
   },
   {
    "item": "MV-5-ALT-v2",
@@ -1453,7 +1408,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 14
+   "rank": 12
   },
   {
    "item": "MV-5-ALT-v3",
@@ -1470,7 +1425,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 15
+   "rank": 13
   },
   {
    "item": "MV-5-ALT-v4",
@@ -1487,7 +1442,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 16
+   "rank": 14
   },
   {
    "item": "MV-5-ALT-v5",
@@ -1504,7 +1459,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 17
+   "rank": 15
   },
   {
    "item": "MV-7-ALT-otaku",
@@ -1521,7 +1476,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 18
+   "rank": 16
   },
   {
    "item": "MV-7-ALT-v1",
@@ -1538,7 +1493,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 19
+   "rank": 17
   },
   {
    "item": "MV-8-ALT-v2",
@@ -1555,7 +1510,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 20
+   "rank": 18
   },
   {
    "item": "MORPH-LAST-SEAT-E1",
@@ -1571,7 +1526,7 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 21
+   "rank": 19
   },
   {
    "item": "MORPH-ON-AIR-E1",
@@ -1587,7 +1542,7 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 22
+   "rank": 20
   },
   {
    "item": "MORPH-NIGHT-LIST-E1",
@@ -1603,7 +1558,7 @@
     "new:delivered-24h",
     "arc:ARC-2"
    ],
-   "rank": 23
+   "rank": 21
   },
   {
    "item": "MORPH-ONE-SHORT-E1",
@@ -1619,7 +1574,7 @@
     "new:delivered-24h",
     "arc:ARC-3"
    ],
-   "rank": 24
+   "rank": 22
   },
   {
    "item": "E2-SHOW-1-THE-MACHINE",
@@ -1634,7 +1589,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 25
+   "rank": 23
   },
   {
    "item": "E2-SHOW-2-THE-TENTH-SECOND",
@@ -1649,7 +1604,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 26
+   "rank": 24
   },
   {
    "item": "E2-SHOW-5-THE-LAST-SEAT",
@@ -1664,7 +1619,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 27
+   "rank": 25
   },
   {
    "item": "PILOT-1-THE-MACHINE",
@@ -1679,7 +1634,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 28
+   "rank": 26
   },
   {
    "item": "PILOT-2-THE-TENTH-SECOND",
@@ -1694,7 +1649,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 29
+   "rank": 27
   },
   {
    "item": "PILOT-5-THE-LAST-SEAT",
@@ -1709,7 +1664,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 30
+   "rank": 28
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -1724,7 +1679,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 31
+   "rank": 29
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -1739,7 +1694,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 32
+   "rank": 30
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -1754,7 +1709,7 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 33
+   "rank": 31
   },
   {
    "item": "MV-11",
@@ -1767,7 +1722,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 34
+   "rank": 32
   },
   {
    "item": "MV-12",
@@ -1780,7 +1735,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 33
   },
   {
    "item": "MV-13",
@@ -1793,7 +1748,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 34
   },
   {
    "item": "MV-18",
@@ -1806,7 +1761,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 35
   },
   {
    "item": "MV-19",
@@ -1819,7 +1774,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 36
   },
   {
    "item": "MV-20",
@@ -1832,7 +1787,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 37
   },
   {
    "item": "MV-3",
@@ -1845,20 +1800,20 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 40
+   "rank": 38
   },
   {
    "item": "MV-4",
    "platform": "threads",
    "title": "This Time It's Real",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics.mp4",
-   "md5": "1456487dde2be81577fbb0b69c07acd4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics_50mb.mp4",
+   "md5": "35a8beda0f9d078733776415b3bda05f",
    "tier": "current",
    "arc": null,
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 41
+   "rank": 39
   },
   {
    "item": "PILOT-4-THE-COUNT",
@@ -1873,33 +1828,7 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 42
-  },
-  {
-   "item": "ST-001",
-   "platform": "threads",
-   "title": "Station episode ST-001",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep001_1m_16x9.mp4",
-   "md5": "d708b352a1b61ec3f67cd604ba948856",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 43
-  },
-  {
-   "item": "ST-002",
-   "platform": "threads",
-   "title": "Station episode ST-002",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep002_1m_16x9.mp4",
-   "md5": "be308239a8ad162004c4a10670208c22",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 44
+   "rank": 40
   },
   {
    "item": "ST-003",
@@ -1912,7 +1841,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 45
+   "rank": 41
   },
   {
    "item": "ST-004",
@@ -1925,7 +1854,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 46
+   "rank": 42
   },
   {
    "item": "ST-005",
@@ -1938,7 +1867,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 47
+   "rank": 43
   },
   {
    "item": "ST-006",
@@ -1951,7 +1880,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 48
+   "rank": 44
   },
   {
    "item": "ST-007",
@@ -1964,7 +1893,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 49
+   "rank": 45
   },
   {
    "item": "ST-008",
@@ -1977,7 +1906,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 50
+   "rank": 46
   },
   {
    "item": "ST-009",
@@ -1990,7 +1919,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 51
+   "rank": 47
   },
   {
    "item": "ST-010",
@@ -2003,7 +1932,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 52
+   "rank": 48
   },
   {
    "item": "ST-011",
@@ -2016,7 +1945,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 53
+   "rank": 49
   },
   {
    "item": "ST-012",
@@ -2029,7 +1958,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 54
+   "rank": 50
   },
   {
    "item": "ST-013",
@@ -2042,7 +1971,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 55
+   "rank": 51
   },
   {
    "item": "ST-014",
@@ -2055,7 +1984,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 56
+   "rank": 52
   },
   {
    "item": "ST-015",
@@ -2068,7 +1997,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 57
+   "rank": 53
   },
   {
    "item": "ST-016",
@@ -2081,7 +2010,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 58
+   "rank": 54
   },
   {
    "item": "ST-017",
@@ -2094,7 +2023,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 59
+   "rank": 55
   },
   {
    "item": "ST-018",
@@ -2107,7 +2036,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 60
+   "rank": 56
   },
   {
    "item": "ST-019",
@@ -2120,7 +2049,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 61
+   "rank": 57
   },
   {
    "item": "ST-020",
@@ -2133,7 +2062,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 62
+   "rank": 58
   },
   {
    "item": "ST-021",
@@ -2146,7 +2075,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 63
+   "rank": 59
   },
   {
    "item": "ST-022",
@@ -2159,7 +2088,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 64
+   "rank": 60
   },
   {
    "item": "ST-023",
@@ -2172,7 +2101,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 65
+   "rank": 61
   },
   {
    "item": "ST-024",
@@ -2185,7 +2114,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 66
+   "rank": 62
   },
   {
    "item": "ST-025",
@@ -2198,7 +2127,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 67
+   "rank": 63
   },
   {
    "item": "ST-026",
@@ -2211,7 +2140,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 68
+   "rank": 64
   },
   {
    "item": "ST-027",
@@ -2224,7 +2153,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 69
+   "rank": 65
   },
   {
    "item": "ST-028",
@@ -2237,7 +2166,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 70
+   "rank": 66
   },
   {
    "item": "ST-029",
@@ -2250,7 +2179,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 71
+   "rank": 67
   },
   {
    "item": "ST-030",
@@ -2263,7 +2192,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 72
+   "rank": 68
   },
   {
    "item": "ST-031",
@@ -2276,7 +2205,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 73
+   "rank": 69
   },
   {
    "item": "ST-032",
@@ -2289,7 +2218,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 74
+   "rank": 70
   },
   {
    "item": "ST-033",
@@ -2302,7 +2231,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 75
+   "rank": 71
   },
   {
    "item": "ST-078",
@@ -2315,7 +2244,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 76
+   "rank": 72
   },
   {
    "item": "ST-079",
@@ -2328,7 +2257,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 77
+   "rank": 73
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -2345,7 +2274,7 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 78
+   "rank": 74
   },
   {
    "item": "MV-12-ALT-v1",
@@ -2688,8 +2617,8 @@
    "item": "MV-15",
    "platform": "tiktok",
    "title": "Unread DMs",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9.mp4",
-   "md5": "0bef4ae5dd2217e481b3ccff840100ac",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9_50mb.mp4",
+   "md5": "c74137d0da6ea4633d0ed4d438bebf93",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -2703,8 +2632,8 @@
    "item": "MV-16",
    "platform": "tiktok",
    "title": "Wrong for Years",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9.mp4",
-   "md5": "e9a64e89395534c74729f164ae19e76a",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_50mb.mp4",
+   "md5": "134fc9afc7024a0c58b745fa56416734",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -2718,8 +2647,8 @@
    "item": "MV-17",
    "platform": "tiktok",
    "title": "Fridge Light Mystery",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9.mp4",
-   "md5": "844dde83a366c412aed4268fb7c8dca4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9_50mb.mp4",
+   "md5": "4f9a44cea97bc274dc28671ad6b9a927",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -2748,8 +2677,8 @@
    "item": "MV-5",
    "platform": "tiktok",
    "title": "Easy now, easy now",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6.mp4",
-   "md5": "2071388f3fb5672849e29462cb3f2b64",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6_50mb.mp4",
+   "md5": "800be18f221154aeb97615587166ce87",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -2793,8 +2722,8 @@
    "item": "MV-9",
    "platform": "tiktok",
    "title": "Gotta hold it",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2.mp4",
-   "md5": "345e658bea3c72dbcd6f89675c1390b4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2_50mb.mp4",
+   "md5": "c40054a0cb78f586f94d7326abf84e4d",
    "tier": "current",
    "arc": null,
    "state": "queued",
@@ -3349,8 +3278,8 @@
    "item": "MV-4",
    "platform": "tiktok",
    "title": "This Time It's Real",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics.mp4",
-   "md5": "1456487dde2be81577fbb0b69c07acd4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics_50mb.mp4",
+   "md5": "35a8beda0f9d078733776415b3bda05f",
    "tier": "current",
    "arc": null,
    "state": "queued",
