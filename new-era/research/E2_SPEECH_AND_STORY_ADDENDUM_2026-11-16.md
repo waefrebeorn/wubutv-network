@@ -869,3 +869,38 @@ reconciliations stand. "PASS WITH RULING" is abolished
 (post-mortem F-1); Gate E runs on transcript + picture-turn
 summaries only, and again on the finished master before
 delivery (F-9).
+
+---
+
+## GATE PROTOCOL CLARIFICATION (WuBu, parent ruling, 2026-11-17)
+
+Issued after the HOLD ON E2 story repair: two independent
+fresh-context Gate E rounds on a script whose substantive
+story items all passed (Q1–Q3, F-2, F-3, cold-join, motive,
+decisiveness) failed only on three interpretation defects
+where standing mandates conflict with the audit as applied.
+These clarifications govern Gate E AND F-9 in every room
+from this date. They exempt only what other standing rules
+mandate; they do not lower any substantive bar — a want,
+rule, or count that is never STATED still fails (cf. THE
+NIGHT LIST E2's F-9 failures of the same date, which were
+substantive and stand).
+
+(i) HANGER EXEMPTION (Q4): a forward hanger stated as an
+appointment (a docket, a named tomorrow, the adopted
+verdict → moral → hanger closing order, Y5) is exempt from
+the Q4 settlement audit. Q4 audits wants and claims made
+by characters in the episode's present action; the hanger
+is the serial contract, not an unsettled claim.
+
+(ii) DELETION TEST — MANDATED RESTATEMENT: lines whose
+restatement is required by F-3 (wants spoken by U2) or by
+the cold-join test (want/stake/rule recoverable from U4
+onward) are audited as a PAIR, counted once. A pair fails
+deletion only if both members can be cut without loss.
+Unmandated redundancy still counts line by line.
+
+(iii) GATE INPUT FORMAT: picture summaries in every gate
+input must name speakers by their transcript speaker names
+— never role nouns ("the keeper", "the woman") that the
+reader must map onto the transcript by inference.
