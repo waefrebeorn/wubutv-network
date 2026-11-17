@@ -1,0 +1,44 @@
+== u3.mp4
+[
+ {
+  "start": 5.26,
+  "end": 6.82,
+  "text": "Peter's never stood here, boss.",
+  "avg_logprob": -0.347,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Peter's",
+    "start": 5.26,
+    "end": 5.78,
+    "probability": 0.888
+   },
+   {
+    "word": " never",
+    "start": 5.78,
+    "end": 5.96,
+    "probability": 0.999
+   },
+   {
+    "word": " stood",
+    "start": 5.96,
+    "end": 6.22,
+    "probability": 0.999
+   },
+   {
+    "word": " here,",
+    "start": 6.22,
+    "end": 6.46,
+    "probability": 0.999
+   },
+   {
+    "word": " boss.",
+    "start": 6.56,
+    "end": 6.82,
+    "probability": 0.954
+   }
+  ]
+ }
+]
+FULL: "Peter's never stood here, boss."
+ASR DONE

@@ -252,3 +252,32 @@ canon.
   (P-008's remind).
 - The questioning job rotates off Laura's E2 U1/U3/U5
   placement.
+
+## 6. PRODUCTION STATE (2026-11-17, production coordinator)
+
+- All six units fired first-pass (6 of the brief's 14 authorized
+  video calls; 8 remain for refires on a follow-up authorization).
+  Every unit's dialogue ASR-verified verbatim against SCRIPT.md
+  (U5 line 2 carries one ASR merge ambiguity, disclosed in
+  work/GATE_LOG.md).
+- Master assembled in ONE pass: masters/E2_the-night-list.mp4,
+  1280×720, 24fps, exactly 1440f / 60.000s, CRF 18 (1.90× size
+  differential vs CRF 23), AAC, faststart, corner bug,
+  22,074,882 B, md5 23dc0731c24f49bc2eea2fec68470c87.
+- Joint gate (EYE): J1–J4 PASS, J5 CONDITIONAL. Wordmark: PASS
+  (U2 exact-glyph, disclosed letterspacing; U4 shadowed).
+  BLAM: A2/A4/V1/V2/E1 PASS; A1 (t90 1.6 vs 1.5) and A3 (head
+  −13.6 dB) FAIL by the letter, structural, disclosed in full in
+  work/GATE_LOG.md.
+- Open rulings for the parent: U6's board renders legible
+  gibberish as focal content (production-rule breach; refire spec
+  in GATE_LOG) — REFIRE CANDIDATE #1. U5's invader renders as a
+  clothed goblin variant and the bed-working face merges
+  Keeper/UNC (beats intact) — REFIRE CANDIDATE #2. GAP 3's held
+  board freeze not realized (rides with the U6 refire).
+- F-9 master Gate E: cold read run on GATE_E_MASTER_INPUT.md;
+  verdict **FAIL** (GATE_E_MASTER.md; analysis in GATE_LOG —
+  part input-attribution artifact, part the real U6 board
+  defect). No ship. Repair path: U6 refire, then fresh F-9.
+- E2_DELIVERED.flag NOT SET — blocked by the F-9 FAIL and the
+  parent's refire rulings above.
