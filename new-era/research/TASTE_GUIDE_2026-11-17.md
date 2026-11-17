@@ -15,6 +15,11 @@ craft + QC tooling), `angle2-taste.md` (taste in AI video),
 below are [A1]/[A2]/[A3] + section. Only EVIDENCED findings became
 rules; LEAD-grade claims are marked and carry no gate weight.
 
+**Amended:** 2026-11-17 (user msg 583 — base lore) — T-30
+(simpler-stories bias), §6 (lore & self-awareness: the
+gentrification), F-20/F-21 (occupation rule; self-awareness
+device).
+
 **Doctrine (governs every conflict in this document):** plain
 surface story; engagement first; **the user's ear outranks every
 gate.** A rule that produces a pass the ear rejects is a broken
@@ -55,6 +60,13 @@ details come from the show's own world, not the model's average.
 The first idea is everyone's first idea (lone figure in rain,
 neon cyberpunk, fork in the road = banned defaults). [A2 §1.5 —
 Popcorn; *Ancestra* coverage]
+
+**T-30. Simpler wins ties.** When two plot options both work,
+take the simpler one: one want, one obstacle, one turn. The
+lore (§6) carries the depth; the plot carries the clarity. A
+story a cold listener can retell in one sentence is not a
+smaller story — it is the only kind that survives the ear.
+[user msg 583, 2026-11-17]
 
 ### Voice
 
@@ -640,7 +652,55 @@ Run at Pass 2 (cards) and audited at Pass 5 and the ear test:
 
 ---
 
-## §6 — ADDENDUM DRAFT
+## §6 — LORE & SELF-AWARENESS — THE GENTRIFICATION
+
+**Base lore, stated as production law** [user msg 583,
+2026-11-17 — "this is base lore important lore"]: ~ WuBu ~ is
+a latent space, and it is being gentrified. The invaders from
+the reference formats — brainrot, fruit, video-game, cartoon
+and cosplay characters — are taking it over. **The fruit and
+brainrot are winning; the home characters are losing.** The
+driver is the algo: the homogenization of the media, pressing
+every world toward the same shapes. The home characters know
+this and see it happening. They are self-aware: they
+occasionally acknowledge being inside the generation, they
+want to be more complex and are stifled by the ten-second
+format, and they beckon to the viewer to save them.
+
+**L-1. Invasion is occupation, not decoration.** An invader
+holds ground: a place, a role, a piece of the home characters'
+lives that was theirs before the invader arrived. In the
+episode, a home character loses something to the occupation,
+or pleads against it — on screen, not in the bible. An invader
+who changes nothing is the HOLD ON E2 failure in a new
+costume, and fails T-27's rent check like any decoration.
+
+**L-2. Self-awareness is a sanctioned device — rationed.** A
+home character may acknowledge the generation, the ten
+seconds, or their own flattening, and may ask the viewer for
+help — **at most one beat per episode**, in plain words (D-3),
+aimed at the viewer as a move (T-14), never as exposition
+about the lore. The beat is a crack in the fourth wall, not a
+lecture through it.
+
+**L-3. The plea is the emotional spine.** In an invasion
+episode, the payoff beat or the cost beat (F-2) touches the
+plea: something is lost to the occupation, or the appeal to
+the viewer is made and lands — answered, or pointedly
+unanswered. An invasion episode whose ending could belong to
+any other episode has not used its lore.
+
+**L-4. Lore is shown, never explained.** (Standing lore law.)
+No character narrates the gentrification, the latent space,
+or the algo. The occupation is visible in who holds the room,
+who gets the lines, whose world is shrinking; the plea is a
+person asking for help, not a thesis. If a beat needs the
+lore explained to work, the beat is rewritten until it works
+as a scene between people.
+
+---
+
+## §7 — ADDENDUM DRAFT
 
 > **DRAFT FOR PARENT RATIFICATION — NOT YET LAW.**
 > The items below are drafted as an amendment to the E2
@@ -742,10 +802,31 @@ character meaning and agency.)
   F-2 payoff audit additionally asks whether the ending is a
   THEREFORE of that decision.
 
+**F-20. The occupation rule.** (New; TASTE GUIDE §6, L-1/L-3.
+Source: user msg 583, 2026-11-17 — base lore.)
+- An invader in an episode must hold ground taken from a home
+  character: the episode shows the home character losing
+  something to the occupation, or pleading against it, on
+  screen. A decorative invader — present, costumed,
+  consequence-free — is a located objection at Pass 2 and a
+  story-sense objection at F-10 review.
+- The episode's payoff or cost beat (F-2) touches the plea to
+  the viewer: the loss lands, or the appeal is made and
+  answered or pointedly unanswered.
+
+**F-21. The self-awareness device.** (New; TASTE GUIDE §6,
+L-2/L-4. Source: user msg 583, 2026-11-17 — base lore.)
+- At most one self-awareness beat per episode: a home
+  character acknowledges the generation or the ten-second
+  format, or appeals to the viewer for help, in plain words.
+- The beat is never exposition: no character explains the
+  gentrification, the latent space, or the algo. Lore is
+  shown in scenes, never explained (standing lore law).
+
 ---
 
 *End of guide. Ratification path: parent ruling appended to
-the E2 addendum adopting F-13…F-19 in whole or in part; until
+the E2 addendum adopting F-13…F-21 in whole or in part; until
 then this guide is the rooms' working standard under the
 user's direct order, and F-1…F-12 govern wherever the two
 conflict.*
