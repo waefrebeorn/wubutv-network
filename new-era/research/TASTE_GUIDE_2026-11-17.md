@@ -1000,7 +1000,23 @@ are gated individually before assembly: **completeness**
 (every line of the half present in two concurring ASR
 passes) AND **span** (the halves' word-timestamp spans must
 sum to the unit's 240f). A half failing either gate is never
-assembled.
+assembled. *Round-6 corollary (2026-11-18, FINAL — the repair
+closed on this evidence):* round 6 ran the cap-compliant
+design — U2 trimmed to 33 words, split 2+2 — and both halves
+passed completeness simultaneously for the first time in
+eleven attempts, yet their delivered spans were ~9.7s and
+~9.0s (~18.7s against the 240f budget). A generation's
+delivered speech expands toward the full take length
+regardless of directed pace or word count in this range, so
+**a composite of two spoken halves is arithmetically
+unassemblable**: a planned composite is viable only when at
+most one half carries speech (the other half silent or
+visual). Splitting a unit's spoken dialogue across two
+generations of the same unit is not a repair path — the
+unit is written to one generation's capacity, or the
+dialogue moves to another unit. ON AIR E2's U2 repair ended
+UNREPAIRED on this evidence; the episode stands
+ear-test-failed and shelved.
 
 **F-26. The fruit-soap method; hear-before-it-moves.** For
 soap-format dialogue (the fruit / brainrot serial register),
