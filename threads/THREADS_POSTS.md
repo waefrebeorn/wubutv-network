@@ -38,3 +38,4 @@ DEDUP_STATUS: resolved
 | MV-16 | Wrong for Years | 2026-11-17 07:14 EDT | 18017397185756510 | MV-16 — "Wrong for Years" · [ARC-1 · THE ONE VIEWER] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-17 | Fridge Light Mystery | 2026-11-17 10:02 EDT | 18129522979903119 | MV-17 — "Fridge Light Mystery" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-17 | Fridge Light Mystery | 2026-11-17 10:03 EDT | 18125786353938316 | MV-17 — "Fridge Light Mystery" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
+| MV-21 | Wowie Pants That Fit | 2026-11-18 02:01 EDT | 18135480656496972 | MV-21 — "Wowie Pants That Fit" · [ARC-1 · THE ONE VIEWER] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
