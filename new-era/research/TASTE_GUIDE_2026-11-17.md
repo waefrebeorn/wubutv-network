@@ -20,6 +20,12 @@ rules; LEAD-grade claims are marked and carry no gate weight.
 gentrification), F-20/F-21 (occupation rule; self-awareness
 device).
 
+**Ratified addendum:** 2026-11-18 — §8: F-13…F-21 ruled on;
+F-22…F-28 added (end-state pin, acting direction, reference
+priority, spoken-load cap, fruit-soap method +
+hear-before-it-moves, Cantina methods, our layer). Governs
+E3 forward; E2 law unchanged.
+
 **Doctrine (governs every conflict in this document):** plain
 surface story; engagement first; **the user's ear outranks every
 gate.** A rule that produces a pass the ear rejects is a broken
@@ -825,8 +831,272 @@ L-2/L-4. Source: user msg 583, 2026-11-17 — base lore.)
 
 ---
 
-*End of guide. Ratification path: parent ruling appended to
-the E2 addendum adopting F-13…F-21 in whole or in part; until
-then this guide is the rooms' working standard under the
-user's direct order, and F-1…F-12 govern wherever the two
-conflict.*
+---
+
+## §8 — RATIFIED ADDENDUM (2026-11-18) — E3 LAW
+
+**Ratified 2026-11-18 by parent ruling, before any E3 room
+opens.** This addendum governs E3 forward. It does not
+rewrite E2: F-1…F-12, the E2 Speech-and-Story Addendum, and
+§§1–7 as applied to E2 stand as they were. Sources beyond
+the taste wave: the Higgsfield studies of 2026-11-17
+(commercial method; Seedance Prompt Writer + Acting Director
+skills), the fruit-gen studies of 2026-11-18 (Clippie tool
+study; the 16-product clone census), the Cantina deep study
+of 2026-11-18, and the ON AIR E2 U2 repair rounds 1–5 (ten
+generation attempts against one 10-second unit).
+
+### Part A — Rulings on the §7 draft (F-13…F-21)
+
+**F-13. The ear test — ADOPTED.** Evidence: the gate has
+already caught what paper gates passed — HOLD ON E2 passed
+F-9 and failed the user's ear; THE NIGHT LIST E2 v3 passed
+F-9 and failed its ear test on the merits (three scripted
+lines absent, an unscripted opener); ON AIR E2's ear test
+localized all three of its findings to one unit, which is
+what made a surgical repair possible. §2's protocol is the
+law text; F-9 and the ear test both run, and neither
+substitutes for the other.
+
+**F-14. Two designed speakers; one speaker per clip —
+ADOPTED.** Evidence: the user's own calibration (msg 581:
+"keep to two designed speakers prolly"); radio and
+AI-generation practice both cap the voices a listener can
+keep apart per scene [A1 §4]; ON AIR E2's four-speaker unit
+starved its last line in every repair round (see F-25). The
+logged-exception path for a third voice stands as drafted.
+
+**F-15. Voice law — ADOPTED AS AMENDED.** The structured
+spec, the verbatim paste, and the embedding voice-match QC
+are adopted as drafted. The C-5 re-voice repair is adopted
+**as a repair only**, with two conditions the draft left
+open: every use is logged in the episode's decision log with
+the failed takes named, and the repair is unavailable as a
+substitute for casting — a character with zero native
+voice-match passes across an episode is re-cast (spec
+rewritten, prior takes re-checked), not re-voiced again.
+Evidence: voice/character mismatch is a named failure class
+from the user's HOLD ON E2 verdict (msg 581); an unlogged
+repair path becomes a silent default, which is how E1's
+gates decayed into ritual.
+
+**F-16. Prompt hygiene — the leak law — ADOPTED.** Evidence:
+HOLD ON E2's characters spoke prompt details aloud on the
+delivered master (msg 581) — the leak is an observed failure
+in our own output, not a hypothetical. A leak found in a
+take's transcript is a prompt defect, fixed in the prompt
+before any re-fire, as drafted.
+
+**F-17. Dialogue construction — ADOPTED AS AMENDED.** The
+breath-chunk construction, the intention test, redundancy of
+content, and the striking of verbal echo-chaining are
+adopted as drafted — the echo-chain ban has been vindicated
+twice over (C-3's ruling; HOLD ON E2's twined lines matched
+ASR and still read as nonsense spoken). **Amendment:** the
+neutral-voice pre-check (D-10) is promoted out of this item
+into a hard room gate of its own — F-26's
+hear-before-it-moves check — because every ear failure so
+far was discovered only after generation spend, and the
+fruit factories run the same gate as the centre of a working
+commercial pipeline.
+
+**F-18. Joint causality and cut law — ADOPTED.** Evidence:
+"the jumping scenes lack of coherence" is a named charge in
+the user's HOLD ON E2 verdict (msg 579); the per-joint
+BUT/THEREFORE audit and the muted watch (K-4) are the
+located instruments for exactly that charge.
+
+**F-19. The rent check — ADOPTED.** Evidence: HOLD ON E2's
+Peach & Lime "said and did nothing" (msg 579) — decoration
+discovered by the user at delivery is a Pass 2 failure that
+shipped. The card-stage force / block / price statement is
+the detector placed where the fix is cheap.
+
+**F-20. The occupation rule — ADOPTED.** Evidence: user msg
+583 — base lore stated as a standing order. §6 L-1/L-3 are
+the law text.
+
+**F-21. The self-awareness device — ADOPTED.** Evidence:
+user msg 583. §6 L-2/L-4 are the law text. The one-beat
+ration is the load-bearing clause: an unrationed device
+becomes the lore lecture L-4 bans.
+
+### Part B — New law from the 2026-11-17/18 research
+
+**F-22. The end-state pin.** (Extends SR1 / Method A6.)
+Every unit's vehicle carries a written **END STATE** block —
+positions, eyelines, props, wardrobe, as the unit's last
+frame must hold them — and the next unit's vehicle **opens
+by quoting the previous unit's END STATE verbatim**, ahead
+of its own scene sentences. Strong Reference is no longer
+image-only: the outgoing frame conditions the next
+generation as image *and* as text contract. *Evidence:* two
+independent Higgsfield sources converge on the written end
+state as the continuity device (the commercial-method study;
+the Seedance Prompt Writer skill) — and it is the
+prompt-text twin of the rule the user's LAST SEAT E1 verdict
+already imposed (msg 507). *Template consequence:* the
+vehicle template gains a mandatory END STATE block; GATE_LOG
+joint checks (SR2) verify the quoted pin against the
+outgoing unit's last frame, per joint, in the log.
+
+**F-23. Acting is objective, obstacle, tactics — never an
+emotion adjective.** (Extends T-13.) A character's acting is
+written as an **objective** — a verb aimed at the partner —
+plus the **obstacle**, plus the **tactics**, which must
+change at least once mid-scene. Emotion adjectives in a
+vehicle ("sadly", "angrily") are banned as acting direction:
+they name a result the model cannot play and the ear cannot
+verify. Every close take carries an explicit **EYE TASK** —
+what the eyes are doing, at what, for how long. Dead eyes
+are the #1 AI-acting tell; a close take with dead eyes is a
+**reject at QC**, not a note. *Evidence:* the Acting
+Director system (from Higgsfield's feature-film brief):
+acting as behaviour under pressure, eye life mandatory;
+converges with T-13 (direct the state, not the adjective)
+and T-14 (every line is a move). *Template consequence:* the
+CHAR panel gains OBJECTIVE / OBSTACLE / TACTICS fields per
+character, and each vehicle carries the scene-level
+instance; a vehicle whose acting direction is an emotion
+adjective is a located objection at vehicle review.
+
+**F-24. Reference priority; states change across cuts.**
+Every vehicle carries a **REFERENCE PRIORITY** block naming
+which reference owns **identity**, which owns **geometry**,
+which owns **wardrobe**. A known defect in a reference is
+overridden in words inside the block — never by refire: the
+conflict is adjudicated in the prompt, where it is cheap,
+instead of at the gate, where it is not. A character or
+object's state change is staged **across a cut**, never as a
+generated morph, unless the morph is the unit's named event.
+*Evidence:* both Higgsfield studies (priority blocks;
+states-not-transitions) — and our own refire history is the
+negative evidence: repair rounds spent re-generating around
+defects a sentence would have overridden. *Template
+consequence:* REFERENCE PRIORITY is a mandatory block in the
+vehicle template — three lines; no vehicle is complete
+without it.
+
+**F-25. The unit spoken-load cap.** A 10-second unit carries
+at most **~30 spoken words** in total, and at most **2
+speakers per single generation**. T-9's ≤2.5 words/second
+still binds each line; this item binds the unit. A script
+whose unit exceeds the cap is fixed at script stage — the
+unit is **split** (planned composite, below) or **trimmed**
+— never discovered at a take gate. *Evidence:* ON AIR E2's
+U2 (38 words, 4 speakers) failed ten generation attempts
+across repair rounds 1–5: the last speaker starved in
+rotation, compression direction did not compress, and round
+5's split-take composite proved each half's content landable
+but the pair unassemblable inside 240f. Measured rate:
+generated speech runs ~0.3s/word and does not speed up on
+instruction; 38 words is ~11.5–12.5s of speech inside a 10s
+unit — an arithmetic failure, not a performance failure.
+*Template consequence:* Pass 4 (timing) audits every unit
+against the cap — word count and speakers-per-generation are
+counted on the locked script, and a breach returns to Pass
+2 (re-split) or Pass 3 (trim). A planned composite's halves
+are gated individually before assembly: **completeness**
+(every line of the half present in two concurring ASR
+passes) AND **span** (the halves' word-timestamp spans must
+sum to the unit's 240f). A half failing either gate is never
+assembled.
+
+**F-26. The fruit-soap method; hear-before-it-moves.** For
+soap-format dialogue (the fruit / brainrot serial register),
+Pass 3 writes to the genre's proven line economy: **8–14
+words per line, one line = one beat, the conflict stated in
+the first line, the reveal placed at ~two-thirds, the final
+line landing as the hanger.** Where the line economy and
+F-25's cap disagree, the cap governs: the economy is a
+per-line discipline, the cap a per-unit ceiling. For **all**
+formats, the room gains a script-stage gate:
+**HEAR-BEFORE-IT-MOVES** — before any vehicle is written,
+the locked script's lines are read aloud cold, in order, by
+a voice that did not write them (the D-10 neutral-voice
+pre-check, promoted to a gate). A line that stumbles read
+flat returns to Pass 3. *Evidence:* the fruit factories'
+published grammar (Clippie study §4; clone census, COMMON
+SAUCE) runs the line economy as its core spec, and
+hear/see-before-animation is the centre of every working
+pipeline in the census; our ear-test era is the same lesson
+learned at master stage, at master prices — this gate moves
+it to script stage, where rewrites are free. *Template
+consequence:* the one-page room checklist gains a Pass 3.5
+line — *hear-before-it-moves run, stumbles returned* —
+ticked before vehicle writing begins; soap-format boards
+additionally carry the beat map (conflict in line 1 / reveal
+at ~⅔ / hanger last) in the breakdown.
+
+**F-27. The Cantina methods — the character is the asset.**
+(Source: Cantina deep study §5 — mechanics restated; no
+Cantina assets, text, or branding copied.)
+- **The character is the asset; everything else is a
+  performance.** Cast cards are versioned production assets
+  in the repo, like code. When a performance fails, the card
+  is debugged first — several E2 ear failures were card-level
+  problems (undefined voices, undeclared relationships)
+  chased as performance fixes.
+- **Consistency is a three-leg stack** — locked look, locked
+  voice (T-6), written persona — and every unit must draw
+  from all three legs. A unit generated from the card alone,
+  with no look anchors and no base-performance reference, is
+  under-referenced by design. The **persona leg is rewritten
+  per scene, never pasted**: a pasted persona is a spec the
+  scene has already stopped obeying.
+- **Anchor-as-contract.** The anchor still is the scene's
+  contract — wardrobe, setting, camera, lighting, finish are
+  decided in the still; the video prompt's remaining job is
+  action + dialogue. Gate the still, not the render.
+- **Mine the banter, then script.** On conversation-heavy
+  episodes, a loose banter draft precedes the locked script;
+  the exchanges that survive being *said* are the ones
+  promoted to units. (The drafting-stage companion to F-26.)
+- **Viewer participation has consequences.** Where a show
+  asks the viewer anything, the bible names what the answer
+  changes in the next episode. Participation that changes
+  nothing is decoration, and fails the same rent check as a
+  decorative character (F-19).
+*Template consequence:* CHAR panels are repo-versioned
+assets with a change log; the persona field is per-scene by
+construction in the vehicle template; conversation-heavy
+boards record the banter draft's existence at Pass 3.
+
+**F-28. Our layer — design the differentiators in.** The
+clone census's gap list is a map of what the entire
+commercial field does *not* do — and what this network
+already does or has banked. For E3 these are standing
+network advantages, named in the show bible at bible stage,
+not discovered after:
+- **Serialization** — parts that chain (quote-chaining,
+  numbered parts, hangers paid on schedule per SR-1/SR-2).
+  The factories sell single episodes and stop.
+- **The FULL STORY vault** — parts compiled into a long-form
+  vault cut on a 48–72h lag (THE FULL STORY VAULT, banked
+  from the clipcraft7 study). No tool in the census assembles
+  one.
+- **The worn-stake device** — a readable number or state
+  worn on the body that other characters can fear and bargain
+  against (THE RIPENING CLOCK family; SR-5's worn continuity,
+  weaponized). Zero product support exists anywhere in the
+  census.
+- **The ear test itself** (F-13) — a QC layer the entire
+  commercial space lacks: every tool checks pictures; none
+  checks the finished episode's actual audio against sense.
+- **The poster-frame discipline** — the EMPTY CAPTION test
+  (the frame must pitch the piece alone, with zero copy)
+  applied as a delivery gate. The census's winners run it by
+  instinct; its tools, not at all.
+*Template consequence:* an E3 show bible is incomplete until
+it names its serialization device, its vault plan, its
+worn-stake device where the format carries one, and its
+poster-frame discipline. A bible silent on all four is a
+factory-format bible — and factory format is the thing the
+field already mass-produces.
+
+---
+
+*End of guide. Ratified: §8 (2026-11-18) rules on F-13…F-21
+and adds F-22…F-28, governing E3 forward. §§1–7 remain the
+rooms' working standard; F-1…F-12 and the E2 addendum are
+unchanged for E2 wherever anything conflicts.*
