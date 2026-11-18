@@ -39,3 +39,4 @@ DEDUP_STATUS: resolved
 | MV-17 | Fridge Light Mystery | 2026-11-17 10:02 EDT | 18129522979903119 | MV-17 — "Fridge Light Mystery" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-17 | Fridge Light Mystery | 2026-11-17 10:03 EDT | 18125786353938316 | MV-17 — "Fridge Light Mystery" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-21 | Wowie Pants That Fit | 2026-11-18 02:01 EDT | 18135480656496972 | MV-21 — "Wowie Pants That Fit" · [ARC-1 · THE ONE VIEWER] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
+| MV-9 | Gotta hold it | 2026-11-18 05:02 EDT | 18102314897389875 | MV-9 — "Gotta hold it" · [ARC-3 · THE COUNT] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
