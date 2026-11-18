@@ -191,8 +191,9 @@ LOOK (bound, not described):
               generated, eye-QC'd, locked at the Sequence Gate, and the sha256
               below is entered — still-layer rerolls uncapped until it locks)
   CANONICAL_FACE_REF: file E3_one-short/panels/PNL-CHAR-PEACH-sheet-16x9.png
-             sha256 PRODUCTION BLOCKER — enter the locked sheet's sha256 here at the
-             Sequence Gate; units U1/U4/U6 may not fire while this field is unfilled
+             sha256 1af522157bde7c18bdd33ff42a41831d326b90bec2cca929c86bd5e07e44eb91
+             (entered at production step 1, 2026-11-18 — sheet generated, eye-QC'd,
+              locked; see work/GATE_LOG.md §3 sign-offs)
   REANCHOR_RULE: never chain a drifted frame; re-anchor to CANONICAL_FACE_REF
   LOOK_BLOCK_VERBATIM: "a woman in her thirties in a peach-satin trouser suit with a giant plain foam peach fascinator, glossy dark hair in a high ponytail, wide maximum-expression eyes, clutching a blank cream folder flat against her chest"
   WARDROBE_STATES: STATE OS-PEACH-WED = ref still E3_one-short/panels/PNL-CHAR-PEACH-sheet-16x9.png

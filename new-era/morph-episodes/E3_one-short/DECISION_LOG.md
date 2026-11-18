@@ -162,3 +162,72 @@ three production blockers are declared in GATE_LOG.md (the
 Planner's face-ref hash, the two supplement sheets, the §3
 production sign-offs). The brief is ready for a production
 coordinator; it is not fireable until those fields close.
+
+---
+
+## Production decisions — 2026-11-18 (production coordinator, WuBu subagent)
+
+P-1 · PNL-PEAK-U1 UNAVAILABLE (deviation, blocking). The PEAK-U1 generation
+call failed at the tool layer: the result wrapper errored and the file its
+payload claimed (panels/media-generation-pnl-peak-u1-0-b3345c68-….webp) does
+not exist on disk. A standing instruction bars repeating that request in any
+form or via any other tool; the panel was not re-issued. Planned mitigation
+had the panel existed only as a conditioning gap: U1 video conditioned
+PEACH sheet (image 1) → WORLD panel (image 2) per the measured two-image
+shape. The §3 gates were run on the set as it stands; both failed on the
+missing U1 story panel (see work/GATE_LOG.md). No video call was made.
+
+P-2 · Video allowance reality. The parent brief allows 12 video generations;
+the media tool contract caps this request at 6 SUCCESSFUL video generations
+total (QC-failed takes count). Noted for the unblock run: the six units get
+one careful fire each under that cap unless the parent re-briefs; a QC-failed
+take that cannot be refired blocks its unit. Zero video generations were used
+in this run — the cap was never reached because the §3 gates blocked first.
+
+P-3 · §3 repair round (priority fix order: identity → wardrobe → prop).
+Round-1 blind review FAILs repaired by still-layer edits: PEAK-U4 Clerk
+wardrobe (all-black → bone blouse + ink vest) + counter-row peach handle →
+black; PEAK-U5 Planner fascinator (small flat oval → giant peach disc);
+PEAK-U6 Clerk wardrobe + crate umbrellas → all black, then the wall-shelf
+umbrella's peach crook handle restored (the collected item must read as
+hers). Superseded originals preserved in panels/rejected/. Round 2 confirmed
+the wardrobe repairs landed; residual PEAK-U6 PROP nit (Planner's disc at
+the door reads small) is first fix on the unblock path.
+
+P-4 · Animatic is a TIMING proxy. No TTS exists on this host; the animatic's
+audio is a generated scratch timing track (per-speaker pitched, syllabic-gated
+tones at the §4.1 line windows), logged as such wherever it is cited. It was
+never represented as dialogue.
+
+P-5 · Streak card 41 → 42 (U6). The card rides the Counter's chest — too
+small and moving to plate reliably per-frame. The board furniture carries
+the settled count state in the animatic and will in the master; if the U6
+take's freeze does not hold the card legibly, the 41→42 flip stays a ledger
+fact for Part 2 rather than a composited plate. (Decision recorded now so
+the unblock run does not re-litigate it.)
+
+P-6 · Gate outcome. SEQUENCE GATE: FAIL (rounds 1–2). ANIMATIC GATE: FAIL
+(rounds 1–2). Both unsigned → production BLOCKED before Step 2, per BRIEF §3
+("A §3 gate with an unsigned SIGNED line blocks every video call") and the
+task's no-disclosure-shipping rule. Full record: work/GATE_LOG.md.
+
+## FINISHER DECISIONS — session af03507c, 2026-11-18
+P-7 §3 SEQUENCE GATE signed by owner measurement ruling: three consecutive
+blind readers contradicted each other on one prop (the Planner's disc in
+PEAK-U6: too big → too small → too big) while every story answer stayed
+unanimous. Visual-grounding measurement on the full-res panels: disc/head
+HEIGHT ratio U5 1.11 vs U6 1.01 — set-consistent; the width delta is a
+profile-vs-three-quarter viewpoint artefact. The measurement governs; the
+ruling and numbers are recorded in GATE_LOG §3. Two REAL identity catches
+by the same gate (U1's grey-haired Counter, round 3; U1's insufficiently
+gaunt Counter, round 5) were repaired at the still layer before signing —
+the gate was not shopped around, it was answered.
+P-8 U1's in-motion disc nit (smaller, fabric-textured) accepted without a
+refire: the session's 6-generation cap is the episode's binding budget and
+is reserved for the six units (P-2). Same character read in motion.
+P-9 U6_t1 FAIL (§5.1: duplicated Planner from 0.5s; Counter identity +
+wardrobe drift) is NOT repairable in this session — the cap is exhausted
+and no post process fixes a duplicated character. The episode blocks at
+Step 4 rather than assembling a failed take. The parent brief's 12-video
+allowance (6+6 refires) exceeds the tool's per-session cap of 6 successful
+generations; the resume is a fresh session firing U6 only.

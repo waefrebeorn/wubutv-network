@@ -1,0 +1,89 @@
+{
+ "deliverables": {
+  "E3_DELIVERED.flag": null,
+  "master": null,
+  "panels/PNL-PEAK-U1.png": {
+   "md5": "249c39e32a6b97fe966a93e87d20573d",
+   "note": "final r3 \u2014 gaunt Counter repaired"
+  },
+  "panels/PNL-PEAK-U6.png": {
+   "md5": "3eba201bfea0f2b0cf56e2c355945a05",
+   "note": "final r3 \u2014 giant tilted disc"
+  },
+  "takes/U1_t1.mp4": {
+   "bytes": 3756948,
+   "md5": "5df49c8e967202342c3991734f0c2abd",
+   "qc": "PASS"
+  },
+  "takes/U2_t1.mp4": {
+   "bytes": 2946508,
+   "md5": "d1cf0f7499f119589e5ae2e3caf02d62",
+   "qc": "PASS"
+  },
+  "takes/U3_t1.mp4": {
+   "bytes": 3165868,
+   "md5": "871192693ba05b556e08bb38b7de08ed",
+   "qc": "PASS"
+  },
+  "takes/U4_t1.mp4": {
+   "bytes": 3857522,
+   "md5": "e0e8a8444dd63d57bc16f55f7e8cd978",
+   "qc": "PASS"
+  },
+  "takes/U5_t1.mp4": {
+   "bytes": 3352619,
+   "md5": "3d0969c5a37d66d4554bd9403b01f430",
+   "qc": "PASS"
+  },
+  "takes/U6_t1.mp4": {
+   "bytes": 4016926,
+   "md5": "b50a02b7f45f343e4f3b1bf3ca38fb21",
+   "qc": "FAIL \u2014 do not assemble"
+  },
+  "work/animatic.mp4": {
+   "duration_s": 60.0,
+   "md5": "a1fa968e98a0af8b439e285f0016e16d"
+  },
+  "work/chain/U5_last.png": {
+   "note": "SR1 chain frame for the U6 refire"
+  },
+  "work/seq_sheet.png": {
+   "md5": "afd3a902a5253b6f7609b943e478f2a7"
+  }
+ },
+ "episode": "ONE SHORT E3 Part 1 \u2014 Thirty-One Umbrellas \u2014 AND ONE BY THE DOOR",
+ "gates": {
+  "F-9": "NOT RUN \u2014 no master",
+  "animatic_gate": "SIGNED PASS (two independent blind PASSes, animatic v3 + v4 artefacts)",
+  "ear_test": "NOT RUN \u2014 no master",
+  "gate_f_cold_run": "NOT RUN \u2014 no master",
+  "per_take_qc": {
+   "U1": "PASS (WARDROBE nit: disc smaller/textured in motion)",
+   "U2": "PASS",
+   "U3": "PASS",
+   "U4": "PASS",
+   "U5": "PASS (PROP nit: faint illegible print texture on envelope)",
+   "U6": "FAIL \u2014 IDENTITY (Planner duplicated from 0.5s) + IDENTITY/WARDROBE (Counter fuller-faced, suit+tie, no tally counter; Planner disc replaced by brimmed hat). DO NOT ASSEMBLE."
+  },
+  "sequence_gate": "SIGNED PASS (round 7 + CONTINUITY_OWNER measurement ruling; rounds 3/5 real U1 Counter identity faults repaired at still layer; rounds 4/6/7 disc-size reads contradicted each other \u2014 measured disc/head height ratio U5 1.11 vs U6 1.01)"
+ },
+ "generation_counts": {
+  "images_allowance": 24,
+  "images_used_by_finisher": 6,
+  "images_used_total": 21,
+  "video_parent_allowance": 12,
+  "video_session_cap": 6,
+  "video_used": 6
+ },
+ "job": "ONE SHORT E3 production FINISHER (session af03507c), 2026-11-18",
+ "records": "work/GATE_LOG.md (\u00a73 finisher rounds 3\u20137 + sign-off; \u00a75.1 per-take QC; \u00a75.3 joints; \u00a75.4 not-run note) \u00b7 DECISION_LOG.md (finisher P-7/P-8/P-9)",
+ "resume_spec": [
+  "Fresh session (fresh 6-generation cap). Refire U6 ONLY: vehicle text in work/vehicles.md \u00a7U6 verbatim; image 1 = work/chain/U5_last.png; image 2 = panels/PNL-PEAK-U6.png. Add one explicit sentence to the framing if desired: exactly ONE Planner exists in the scene; the Counter wears his ink-dark work shirt with the brass tally counter on a chain (no suit, no tie).",
+  "QC the new U6 take per \u00a75.1 (ASR line + four drift classes + duplication check at 0.5s/2.5s/freeze). If it fails again, the unit blocks again \u2014 do not assemble.",
+  "Then Step 5 post layers with the existing plates in work/plates/ (board chain CLAIMED 31 \u2192 COUNTED 20 \u2192 COUNTED 30 | CLAIMED 31 \u2192 held \u2192 settle + stamp30; U6 endcard; ~ WuBu ~ bug bottom-right; streak flip per DECISION_LOG P-5 only if the new take's freeze holds the card legibly).",
+  "Step 6 assembly: conform takes 1248\u00d7704 \u2192 1280\u00d7720; ONE pass owns work/joined.mp4; ffprobe 1440f before encode; master masters/oneshort_E3_master.mp4 (CRF 18, proof = size differential vs CRF-23 control; AAC 48k; faststart; corner bug; one grain pass). Chat copy under a fresh filename if >50 MB.",
+  "Step 7 master gates in order (F-9 attributed transcript + picture summaries; EAR-TEST rebuilt protocol \u2014 note the VM tooling gap: no parakeet/torch/pyannote/speechbrain installed, log instruments honestly; GATE (f) cold run by a fresh reviewer). E3_DELIVERED.flag only after all pass."
+ ],
+ "status": "BLOCKED_AT_U6_TAKE_QC",
+ "summary": "PEAK-U1 issued afresh; both \u00a73 gates SIGNED (Sequence by owner measurement ruling after two real identity repairs; Animatic on two independent blind PASSes). Units U1\u2013U5 fired and gated CLEAN (all 10 lines ASR-verbatim). U6_t1 FAILED per-take QC (duplicated Planner from 0.5s; Counter identity+wardrobe drift) and cannot be refired in this session \u2014 the media tool's cap of 6 successful video generations per session is exhausted by U1\u2013U6. No master assembled; nothing disclosure-shipped."
+}
