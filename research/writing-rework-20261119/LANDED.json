@@ -1,0 +1,383 @@
+{
+  "job": "writing-rework-landing",
+  "date": "2026-11-19",
+  "spec": "research_notes/writing-rework-20261119/LANDING_SPEC.md (sections 1-3 + verification 5 executed; section 4 recorded as owed)",
+  "standard": "research_notes/writing-rework-20261119/THE_NEW_STANDARD.md (ratified in full by parent)",
+  "fold_in_source": "research_notes/lilypads/thecontentlab01-20261119/report.md (COMPLETION.json present at landing start; spec pre-step satisfied)",
+  "preconditions": {
+    "dialogue_method_md5_before_both_copies": "52e3b4ccee1e7c5588b4a7223ca10b57",
+    "template_md5_before": "f3150925027066e568e4ba91b44e5c6b",
+    "taste_guide_md5_before": "791df8b7d0254751e20655ec79be576d"
+  },
+  "edits": [
+    {
+      "spec_ref": "1.1",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Header: 2026-11-19 authority paragraph added after the adoption paragraph — msg 704 verdict quoted; construction passes superseded for taste by THE_NEW_STANDARD.md; section 4 floors stand, demoted to floor checks.",
+      "grep_evidence": "**2026-11-19 — the taste verdict (user, Telegram msg 704):**"
+    },
+    {
+      "spec_ref": "fold-in (a) / standard 2.1",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Story inputs note added at the head of section 1 (the method had no pre-existing storyline/breakdown input note — newly added, not a substitute edit): ONE-SENTENCE PETTY WANT + STATUS CHANGE + FACE_AT_RISK + THE COLLISION TEST sentence citing the thecontentlab01 study (msg 706).",
+      "grep_evidence": "storyline stage. **THE COLLISION TEST (fold-in — the"
+    },
+    {
+      "spec_ref": "1.2",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.0 rewritten: SPEECH_RULE-as-prose replaced by the RIZZ CARD — CARRIER_WORDS / CATCHPHRASE / BRAG / AUDIBLE_TELL / SPECIMEN_LINES (>=3, mandatory, grep-checked) / REGISTER_DEVIATION; length trait (A-9) kept; THE SHOW-OFF designated per episode (default the invader) with the DELIGHT license as a mode, not a quota.",
+      "grep_evidence": "**Pass 3.0 — VOICE RULES BEFORE LINES: THE RIZZ CARD.** Before"
+    },
+    {
+      "spec_ref": "1.3",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.1: transcript rule, proof object and withheld line kept; 'play the show-off hot' clause added (a banter draft with no line the room would be embarrassed to lock is under-played, says why in GATE_LOG); 'the liar's tell is played, not implied' clause added.",
+      "grep_evidence": "**Play the show-off hot.** In the banter draft, the episode's"
+    },
+    {
+      "spec_ref": "1.3",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.1: the B-8 draft-double/cut-half paragraph replaced by a keep-list harvest pointer to the new Pass 3.5; the move ledger still records drafted vs kept counts; harvest record fields named.",
+      "grep_evidence": "until defended. The harvest itself is governed by Pass 3.5 (**THE KEEP-LIST"
+    },
+    {
+      "spec_ref": "1.4a/b",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.2: the audience-target cut sentence deleted and replaced with DELIGHT licensing (show-off unrationed; any character via the one grievance beat); the LEDGER LINE ban in section 2 untouched (its addressee is the gate, a different defect).",
+      "grep_evidence": "in the scene it is aimed at. A line may also carry the target class **DELIGHT** — a line"
+    },
+    {
+      "spec_ref": "1.4c",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.2: per-line line_flavor_tag added beside line_move/line_target/line_genre_move (CATCHPHRASE / TELL / BRAG / LADDER / INSULT / CARRIER / NONE); orphan rule amended — presumed orphan only if genre move AND flavor tag are both NONE, undefended; an episode with no CATCHPHRASE/TELL/BRAG tag at all is flavor-empty and returns to banter before any gate runs.",
+      "grep_evidence": "cross-check, not rival taxonomies. Each harvested line also carries a **FLAVOR TAG**"
+    },
+    {
+      "spec_ref": "1.5",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.4: otherwise unchanged; paragraph added — the episode's QUOTABLE is declared at fact-spend time; the hanger should, where the story allows, hang from a spoken line already made repeatable (the proof's 'ask the street' pattern).",
+      "grep_evidence": "**The QUOTABLE is declared at fact-spend time.** The episode's"
+    },
+    {
+      "spec_ref": "1.6",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Pass 3.5 replaced wholesale with THE KEEP-LIST HARVEST: keep-list marking before compression; compression falls on connective/procedural lines; tell-protection floor (surplus witnesses >=1, surplus detail >=1); re-play the bit shorter, never trim the tell; Pass 3.6 shaping rules stand.",
+      "grep_evidence": "**Pass 3.5 — THE KEEP-LIST HARVEST (replaces the plainness"
+    },
+    {
+      "spec_ref": "1.6 (move)",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "The old Pass 3.5 PLAINNESS text moved to section 3 as the floor check's repair rule (meaning failures only; contractions default; fragments licensed; a meaning failure returns the exchange to banter), with the one-round cap.",
+      "grep_evidence": "**The floor check's repair rule (the plainness discipline,"
+    },
+    {
+      "spec_ref": "1.7",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "New Pass 3.7 — THE BIT + THE QUOTABLE: per-unit BIT field (standing menu: THE COUNT / THE SWORN STACK / THE TOO-SPECIFIC DENIAL / THE ENTRANCE RE-PRICE / THE LADDER / THE KEY WORD LOUDER / STEAL THE INSULT / THE CONFESSION / THE VERSUS, or a room-added bit with a specimen); per-episode QUOTABLE + STANDALONE_BEAT; a unit with no bit is pictured, not spoken, and its dialogue budget moves to bit-carrying units.",
+      "grep_evidence": "**Pass 3.7 — THE BIT + THE QUOTABLE.** Each unit declares its"
+    },
+    {
+      "spec_ref": "1.8",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Section 2: taste failure classes appended for gate logs — HARVEST CUT / SIGNATURE EXECUTION / VOICEPRINT-FREE LINE / PROCEDURE AS STORY / UNREPEATABLE EPISODE.",
+      "grep_evidence": "**Taste failure classes (2026-11-19 — gate logs cite these"
+    },
+    {
+      "spec_ref": "1.9",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Section 3 retitled THE FLOOR CHECK (demoted 2026-11-19); Q1-Q4, FAIL conditions and the Q2 Camp B clarification kept as the plausibility floor; demotion note added (Q3 cannot distinguish a dead maxim from a live signature).",
+      "grep_evidence": "## 3. THE FLOOR CHECK (demoted 2026-11-19) — THE STRANGER TEST"
+    },
+    {
+      "spec_ref": "1.9a",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Section 3: THE SIGNATURE EXEMPTION added — a declared CATCHPHRASE / carrier construction arriving after its earning event is marked SIGNATURE, not STAGE; a world-rule maxim stated before its teaching event remains STAGE (D-4 stands).",
+      "grep_evidence": "**THE SIGNATURE EXEMPTION (2026-11-19).** A line that is a"
+    },
+    {
+      "spec_ref": "1.9b",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Section 3: THE REPAIR CAP added — one repair round at script stage; a repair may not remove a keep-list line, catchphrase instance, or tell without a written showrunner ruling in the GATE_LOG naming what the removal buys.",
+      "grep_evidence": "**THE REPAIR CAP (2026-11-19).** The floor check allows **one"
+    },
+    {
+      "spec_ref": "1.9 / new 3A",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "New section 3A: THE QUOTE-BACK TEST (headline gate) — full protocol from THE_NEW_STANDARD section 6: dialogue only, read aloud once, then without looking back (1) quote back one line, (2) name the show-off + their verbal signature, (3) gossip retell with an attitude; PASS requires all three; placement: locked script before production AND finished master's transcript beside Gate (f); repair at the level that failed, never by polishing the lines read.",
+      "grep_evidence": "## 3A. THE HEADLINE GATE — THE QUOTE-BACK TEST (2026-11-19)"
+    },
+    {
+      "spec_ref": "1.9 (consistency)",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Section 3 'Template fields' paragraph updated to the landed names: FLOOR_CHECK (STRANGER) sign-off block (+ repair_rounds, signature_exemptions), TASTE_TEST headline block, line_flavor_tag in 4.4, the RIZZ CARD block in section 1, FLOOR CHECK (STRANGER) — MASTER + TASTE TEST (MASTER) in 5.4.",
+      "grep_evidence": "`FLOOR_CHECK (STRANGER)` sign-off block in §2 (reader, date,"
+    },
+    {
+      "spec_ref": "1.10",
+      "file": "research_notes/dialogue-method-rebuild-20261118/DIALOGUE_METHOD.md",
+      "change": "Section 4 intro amended: the listed items are FLOOR CHECKS as of 2026-11-19; 'no floor check may be cited as evidence of quality.'",
+      "grep_evidence": "they certify correctness — **no floor check may be cited as"
+    },
+    {
+      "spec_ref": "2.0",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Header line bumped to v6 (2026-11-19, writing rework landed); v6 delta paragraph added in the file's own convention; closing line now 'End of template v6.' Historical rows 1-47 untouched.",
+      "grep_evidence": "# E3 PRODUCTION BRIEF TEMPLATE — v6 (2026-11-19, writing rework landed)"
+    },
+    {
+      "spec_ref": "2.1",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 0 header block: show-level REGISTER declaration added (vernacular name, show-level carrier words, temperature).",
+      "grep_evidence": "REGISTER (v6 — show-level, declared in the show bible: the"
+    },
+    {
+      "spec_ref": "2.1",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 1: episode-level SHOW_OFF field added at the episode cast header (EPISODE CAST HEADER block).",
+      "grep_evidence": "SHOW_OFF: ____  (v6 — the episode's one designated"
+    },
+    {
+      "spec_ref": "2.1",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 1: SPEECH_RULE + length_trait + specimen_lines field block replaced with the RIZZ CARD block — CARRIER_WORDS / CATCHPHRASE / BRAG / AUDIBLE_TELL / length_trait (kept) / SPECIMEN_LINES (>=3, BLOCKING) / REGISTER_DEVIATION.",
+      "grep_evidence": "RIZZ CARD (v6 — how this character SOUNDS; replaces the"
+    },
+    {
+      "spec_ref": "2.2a + fold-in (a)",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 2 storyline declarations: PETTY_WANT (one sentence: person + petty desire + counterparty; the field description carries the COLLISION sentence — character + situation + twist a stranger can picture, never a plot summary — citing the thecontentlab01 study, msg 706) + STATUS_CHANGE (before -> after from the standard's status table) + FACE_AT_RISK.",
+      "grep_evidence": "COLLISION TEST (fold-in — thecontentlab01 study, msg"
+    },
+    {
+      "spec_ref": "2.2b",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 2: STRANGER_TEST sign-off block renamed FLOOR_CHECK (STRANGER) (block header 'PASS 3.7 — STRANGER TEST, SCRIPT STAGE' replaced); fields repair_rounds (max 1) + signature_exemptions (line IDs) added; the stranger_verdict field name kept.",
+      "grep_evidence": "FLOOR_CHECK (STRANGER) — SCRIPT STAGE (v3 gate, DEMOTED to"
+    },
+    {
+      "spec_ref": "2.2c",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 2: headline block TASTE_TEST added — reader, date, quote_back_line (verbatim, or FAIL), show_off_named (character + signature in reader's words, or FAIL), gossip_attitude (the judgment word, or FAIL), taste_verdict: PASS / FAIL.",
+      "grep_evidence": "TASTE_TEST — THE QUOTE-BACK TEST, SCRIPT STAGE (v6 — THE"
+    },
+    {
+      "spec_ref": "2.2d",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 2: QUOTABLE + STANDALONE_BEAT declarations added beside AUDIENCE_SECRET.",
+      "grep_evidence": "QUOTABLE (v6 — the line designed to be repeated: the"
+    },
+    {
+      "spec_ref": "2.3",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 4.2: per-unit BIT field added beside PROOF_OBJECT (menu from THE_NEW_STANDARD 2.4; a unit with no bit is pictured, not spoken).",
+      "grep_evidence": "BIT (v6 — the named repeatable comic/dramatic mechanism this"
+    },
+    {
+      "spec_ref": "2.3",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 4.4: line_flavor_tag added to the line fields beside line_move / line_target / line_genre_move / line_delivery_tag.",
+      "grep_evidence": "line_flavor_tag (v6 — the flavor carrier this line"
+    },
+    {
+      "spec_ref": "2.3",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 4.4: harvest record fields KEEP_LIST (banter line IDs protected) + cut_record (must not list a keep-list ID) added.",
+      "grep_evidence": "KEEP_LIST (the banter line IDs protected BEFORE compression"
+    },
+    {
+      "spec_ref": "2.3 (consistency, flagged)",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "FLAGGED consistency edit (not a numbered spec item): section 4.4 line_target parenthetical restated the retired audience-cut rule — updated to the DELIGHT licensing (DELIGHT unrationed for SHOW_OFF; one logged grievance beat otherwise; a line addressed to the GATE is still a LEDGER LINE). Parent review requested in the final report.",
+      "grep_evidence": "v6 — a line may carry the target class DELIGHT, aimed at"
+    },
+    {
+      "spec_ref": "2.3 (consistency, flagged)",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "FLAGGED consistency edit (not a numbered spec item): section 4.4 line_delivery_tag referenced 'the character's SPEECH_RULE default' — updated to 'the character's RIZZ CARD default (the AUDIBLE_TELL / specimen grain)'. Parent review requested in the final report.",
+      "grep_evidence": "the line's DELIVERY_NOTE, or the character's RIZZ CARD default (the"
+    },
+    {
+      "spec_ref": "2.4",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 5.4: TASTE TEST (MASTER) block added beside Gate (f) and the Stranger master block (same fields as the script-stage TASTE_TEST, run on the master's transcript; taste_master_verdict).",
+      "grep_evidence": "TASTE TEST (MASTER) — THE QUOTE-BACK TEST (v6 — THE HEADLINE"
+    },
+    {
+      "spec_ref": "2.4",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 5.4: the 'STRANGER TEST — MASTER' block relabeled FLOOR CHECK (STRANGER) — MASTER (floor check); stranger_master_verdict field name kept.",
+      "grep_evidence": "FLOOR CHECK (STRANGER) — MASTER (v3 gate, DEMOTED to a floor"
+    },
+    {
+      "spec_ref": "2.4 + fold-in (b)",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 5.5 caption step: the caption cites the episode's QUOTABLE as its source line; fold-in (b) added — if no quotable carries the caption, the caption is EMPTY rather than descriptive (thecontentlab01 premise-caption practice + clipcraft7 EMPTY CAPTION convergence).",
+      "grep_evidence": "quotable carries the caption, the caption is EMPTY rather"
+    },
+    {
+      "spec_ref": "2.5",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Section 6 grep contract updated: CARRIER_WORDS / CATCHPHRASE / BRAG / AUDIBLE_TELL / SPECIMEN_LINES / REGISTER_DEVIATION / SHOW_OFF / REGISTER / PETTY_WANT / STATUS_CHANGE / FACE_AT_RISK / BIT / KEEP_LIST / QUOTABLE / STANDALONE_BEAT / TASTE_TEST added; STRANGER TEST renamed FLOOR_CHECK (STRANGER); SPEECH_RULE removed from the per-character list and lowercase specimen_lines superseded by SPECIMEN_LINES (the section 1 fields no longer exist under those names — recorded decision); length_trait kept.",
+      "grep_evidence": "`FLOOR_CHECK (STRANGER)` (`stranger_verdict`) · `TASTE_TEST` ·"
+    },
+    {
+      "spec_ref": "section 7",
+      "file": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+      "change": "Amendment register: v6 rows 48-55 added in the existing table format (msg 704; T-classes; Quote-Back Test; fold-ins at rows 49 and 55). Historical rows 1-47 not edited.",
+      "grep_evidence": "| 53 | **v6:** the Stranger Test demoted to `FLOOR_CHECK (STRANGER)` (§2 + §5.4) with the SIGNATURE EXEMPTION and the one-round REPAIR CAP; the headline gate is the QUOTE-BACK TEST — `TASTE_TEST` in §2, `TASTE TEST (MASTER)` in §5.4 | Q3 cannot distinguish a dead maxim from a live signature and executed both; iterated cold-reader repair is a one-way gradient that only subtracts (T-0 / T-2) |"
+    },
+    {
+      "spec_ref": "3.1 + fold-in (c)",
+      "file": "wubutv-network/new-era/research/TASTE_GUIDE_TASTE_ADDENDUM_2026-11-19.md",
+      "change": "New file TASTE_GUIDE_TASTE_ADDENDUM_2026-11-19.md modeled on the 2026-11-18 dialogue addendum: msg 704 trigger verbatim; the verdict (fidelity gates measure correctness, never flavor); conflicts named — F-26 repair gradient CAPPED, Stranger Test headline status SUPERSEDED (floor check + signature exemption; Quote-Back headline), Pass 3.2 audience-target rule RETIRED (DELIGHT), B-8 draft-double/cut-half SUPERSEDED (keep-list harvest); checked-and-held floors listed; fold-in (c) field-confirmations — the study's reversal-title / ending-recontextualizes-opening currency CONFIRMS the hanger machinery, and its recognition-first casting CONFIRMS the worn-stake law and the invader layer's design (confirmations, not new rules).",
+      "grep_evidence": "- **Recognition-first casting.** The account runs a"
+    },
+    {
+      "spec_ref": "3.2",
+      "file": "wubutv-network/new-era/research/TASTE_GUIDE_2026-11-17.md",
+      "change": "TASTE_GUIDE_2026-11-17.md: dated pointer note appended at the end of section 8 with the spec's exact text.",
+      "grep_evidence": "2026-11-19 (msg 704): the taste standard is rebuilt in"
+    }
+  ],
+  "dialogue_method_md5_after": {
+    "research_notes_copy": "123a95407f59a1516beb389fe4a13b62",
+    "wubutv_network_copy": "123a95407f59a1516beb389fe4a13b62",
+    "equal": true
+  },
+  "template": {
+    "path": "wubutv-network/new-era/E3_PRODUCTION_BRIEF_TEMPLATE.md",
+    "version_line": "# E3 PRODUCTION BRIEF TEMPLATE — v6 (2026-11-19, writing rework landed)",
+    "version_confirmed_v6": true,
+    "closing_line": [
+      "— End of template v6. Amend by dated addendum; never edit a field"
+    ],
+    "md5_after": "9f9872b6f30ac28ea795ac4af8517405",
+    "section6_field_grep": {
+      "CARRIER_WORDS": {
+        "present": true,
+        "count": 4
+      },
+      "CATCHPHRASE": {
+        "present": true,
+        "count": 7
+      },
+      "BRAG": {
+        "present": true,
+        "count": 6
+      },
+      "AUDIBLE_TELL": {
+        "present": true,
+        "count": 6
+      },
+      "SPECIMEN_LINES": {
+        "present": true,
+        "count": 4
+      },
+      "REGISTER_DEVIATION": {
+        "present": true,
+        "count": 5
+      },
+      "SHOW_OFF": {
+        "present": true,
+        "count": 5
+      },
+      "REGISTER": {
+        "present": true,
+        "count": 10
+      },
+      "PETTY_WANT": {
+        "present": true,
+        "count": 7
+      },
+      "STATUS_CHANGE": {
+        "present": true,
+        "count": 5
+      },
+      "FACE_AT_RISK": {
+        "present": true,
+        "count": 5
+      },
+      "BIT": {
+        "present": true,
+        "count": 4
+      },
+      "KEEP_LIST": {
+        "present": true,
+        "count": 5
+      },
+      "QUOTABLE": {
+        "present": true,
+        "count": 6
+      },
+      "STANDALONE_BEAT": {
+        "present": true,
+        "count": 3
+      },
+      "TASTE_TEST": {
+        "present": true,
+        "count": 5
+      }
+    },
+    "section6_stranger_test_renamed": true,
+    "section6_speech_rule_removed_from_per_character_list": true,
+    "stranger_verdict_field_name_kept": true,
+    "section7_rows_48_55_present": true
+  },
+  "method_grep_verification": {
+    "QUOTE-BACK": {
+      "present": true,
+      "count": 3,
+      "first_line": "the QUOTE-BACK TEST as headline gate). The fidelity floors in"
+    },
+    "SIGNATURE EXEMPTION": {
+      "present": true,
+      "count": 1,
+      "first_line": "**THE SIGNATURE EXEMPTION (2026-11-19).** A line that is a"
+    },
+    "REPAIR CAP": {
+      "present": true,
+      "count": 1,
+      "first_line": "**THE REPAIR CAP (2026-11-19).** The floor check allows **one"
+    },
+    "DELIGHT": {
+      "present": true,
+      "count": 4,
+      "first_line": "DELIGHT (Pass 3.2) without rationing; every other character"
+    },
+    "KEEP LIST": {
+      "present": true,
+      "count": 1,
+      "first_line": "1. **THE KEEP LIST.** Before any compression, the room marks"
+    }
+  },
+  "taste_guide": {
+    "path": "wubutv-network/new-era/research/TASTE_GUIDE_2026-11-17.md",
+    "md5_after": "867d989484e79b237040d470a6f19a77",
+    "pointer_note_present": true
+  },
+  "taste_addendum": {
+    "path": "wubutv-network/new-era/research/TASTE_GUIDE_TASTE_ADDENDUM_2026-11-19.md",
+    "md5_after": "a3a381f667aa8ca91e066aa74c0f364d",
+    "new_file": true
+  },
+  "fold_in": {
+    "a_collision_test": "LANDED — DIALOGUE_METHOD.md story-inputs note (head of section 1) + template section 2 PETTY_WANT field description; thecontentlab01 study cited in both.",
+    "b_empty_caption": "LANDED — template section 5.5 caption step, beside the QUOTABLE citation: caption is EMPTY rather than descriptive when no quotable carries it.",
+    "c_field_confirmations": "LANDED — TASTE_GUIDE_TASTE_ADDENDUM_2026-11-19.md, 'Field confirmations' section: reversal-title / ending-recontextualizes-opening confirms the hanger machinery; recognition-first casting confirms the worn-stake law and the invader layer's design. Cited as confirmations, not new rules."
+  },
+  "flagged_consistency_edits_for_parent_review": [
+    "Template section 4.4 line_target parenthetical restated the retired audience-cut rule; updated to the DELIGHT licensing (spec 2.3 did not list it, but leaving it would have kept the retired rule live in the template).",
+    "Template section 4.4 line_delivery_tag referenced 'the character's SPEECH_RULE default'; updated to the RIZZ CARD default (AUDIBLE_TELL / specimen grain), since the SPEECH_RULE field no longer exists.",
+    "Template section 6: SPEECH_RULE removed from the per-character grep list and lowercase specimen_lines replaced by SPECIMEN_LINES, because spec 2.1 replaces those section 1 fields; recorded here per the spec 2.5 instruction to keep length_trait/specimen_lines entries consistent with 2.1."
+  ],
+  "observations_not_edited": [
+    "DIALOGUE_METHOD.md section 4 (B-1 note) still contains the phrase 'the character's SPEECH_RULE default' in a delivery-tag context. The spec does not direct an edit there (its 1.2 consistency note covers section 3's template-fields paragraph, which was updated); left untouched per the no-improvised-edits rule. Parent may want the same one-line consistency fix as the template's.",
+    "All remaining SPEECH_RULE / specimen_lines mentions in the template are historical (v3/v4/v5 header deltas and section 7 rows 16/25/34) or explicit retirement notes (v6 delta, section 1 RIZZ CARD header, row 48) — no live field carries the retired names."
+  ],
+  "blocked": [],
+  "room_work_owed_spec_section_4": [
+    "Each show bible gains its REGISTER declaration and its cast's RIZZ CARDs at its next room (bible work, not landing work).",
+    "HOLD ON Part 2 is the first room run under the new standard: its brief is the first filled under template v6, and the Peach's 'ask the street' is available as a hanger payment with a voice (PROOF_REWRITE.md)."
+  ],
+  "commits": "none (parent commits after its own grep verification)"
+}

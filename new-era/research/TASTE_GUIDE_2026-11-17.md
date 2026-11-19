@@ -1110,6 +1110,11 @@ poster-frame discipline. A bible silent on all four is a
 factory-format bible — and factory format is the thing the
 field already mass-produces.
 
+2026-11-19 (msg 704): the taste standard is rebuilt in
+research_notes/writing-rework-20261119/; see
+TASTE_GUIDE_TASTE_ADDENDUM_2026-11-19.md for the conflicts and
+the demotions. §8's fidelity items stand as floor checks.
+
 ---
 
 *End of guide. Ratified: §8 (2026-11-18) rules on F-13…F-21

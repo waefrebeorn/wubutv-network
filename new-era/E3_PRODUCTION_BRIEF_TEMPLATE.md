@@ -1,4 +1,4 @@
-# E3 PRODUCTION BRIEF TEMPLATE — v5.1 (2026-11-18, online-research amendments landed; China-tactics liftables added)
+# E3 PRODUCTION BRIEF TEMPLATE — v6 (2026-11-19, writing rework landed)
 
 **Status:** THE working brief skeleton for every E3 room. Supersedes
 the de facto E1/E2 pattern (per-episode SCRIPT + VEHICLES +
@@ -124,11 +124,43 @@ presence, effects only, lore-law safe) recorded as a
 standing direction for the bibles' next storyline pass.
 Full mapping: `research_notes/lilypads/miles-mazy-china-tactics-20261118/report.md`.
 
+**v6 delta (2026-11-19):** the user ruled the writing has
+"no taste no meme no drip no cuh no riss no giga" (Telegram
+msg 704) — the fidelity gates measure correctness, never
+flavor. The complete writing rework
+(`research_notes/writing-rework-20261119/` — `TASTE_DIAGNOSIS.md`
+T-0…T-7, `THE_NEW_STANDARD.md`, `PROOF_REWRITE.md`) lands
+here: cast cards carry a **RIZZ CARD** (`CARRIER_WORDS` /
+`CATCHPHRASE` / `BRAG` / `AUDIBLE_TELL` / `SPECIMEN_LINES` /
+`REGISTER_DEVIATION`, `length_trait` kept) replacing the
+`SPEECH_RULE` + `length_trait` + `specimen_lines` block, plus
+the episode `SHOW_OFF` (§1) and the show `REGISTER` (§0);
+storyline gains `PETTY_WANT` / `STATUS_CHANGE` /
+`FACE_AT_RISK`; every spoken line gains `line_flavor_tag`;
+every unit gains a `BIT`; the harvest is recorded
+(`KEEP_LIST` / `cut_record`) under the keep-list harvest,
+which supersedes B-8's draft-double/cut-half; the Stranger
+Test is **demoted to a floor check** (`FLOOR_CHECK
+(STRANGER)` — signature exemption, one-round repair cap) and
+the headline gate is the **QUOTE-BACK TEST** (`TASTE_TEST`
+at script stage, `TASTE TEST (MASTER)` at the master gate).
+Conflicts are named in
+`research/TASTE_GUIDE_TASTE_ADDENDUM_2026-11-19.md`. The
+thecontentlab01 study (msg 706) folds in at §2 (the
+COLLISION test beside `PETTY_WANT`) and §5.5 (empty caption
+over descriptive).
+
 ## §0 — Episode header (once per brief)
 
 ```
 SHOW: ____            EPISODE / PART: ____
 TITLE (funnel grammar): ____
+REGISTER (v6 — show-level, declared in the show bible: the
+  vernacular this show's dialogue lives in — vernacular
+  name ____ · show-level carrier words ____ · temperature
+  ____ (e.g. dry municipal deadpan; fruit-soap gloss over
+  street slang; mock-formal minutes-speak); every §1 card
+  states its REGISTER_DEVIATION against this declaration):
 CONTINUITY_OWNER: ____        (one named owner per episode — not the director, not "team")
 GENERATOR: model ____  version ____  mode ____
 MODEL_SYNTAX: veo-colon-noquotes / seedance-quotes / kling-quotes / other: ____
@@ -172,6 +204,12 @@ are (F-27). Backstory lives in the series bible; only the active
 fact enters the brief.*
 
 ```
+EPISODE CAST HEADER (once per episode):
+  SHOW_OFF: ____  (v6 — the episode's one designated
+  show-off: licensed to play to the room — brag, strut,
+  DELIGHT lines unrationed; default: the invader. Every
+  other character keeps the one licensed grievance beat.)
+
 CHARACTER: ____            CARD_VERSION: ____
 OFF_SCREEN: Y / N          (discussed but never shown)
 
@@ -215,19 +253,41 @@ PERSONA (behaviour, not adjectives):
   TRAIT → OBSERVABLE_BEHAVIOUR: ____ → ____
   TRAIT → OBSERVABLE_BEHAVIOUR: ____ → ____
   EXAMPLE_LINE (a line only this character would say): "____"
-  SPEECH_RULE (how this character talks — how they ask, lie, refuse;
-  written BEFORE any dialogue is drafted; a character without one
-  does not speak in the episode): "____"
-  length_trait (A-9 — the SPEECH_RULE's habitual line length as a
-  character trait, e.g. "one-word bursts when cornered" / "runs
-  long and volunteers dates when lying"; the two designed
-  speakers' traits MUST differ): ____
-  specimen_lines (B-5 — 2–3 short lines in THIS character's voice,
-  written at card stage from the persona layer; the grain the
-  banter draft is harvested against — a harvested line matching
-  neither the SPEECH_RULE nor the specimens' grain is re-bantered
-  in the speaker's mouth, not polished in place):
-  "____" · "____" · "____"
+  RIZZ CARD (v6 — how this character SOUNDS; replaces the
+  SPEECH_RULE-as-prose block, retired 2026-11-19: tactics are
+  not sound — TASTE_DIAGNOSIS T-3. All six fields written
+  BEFORE any dialogue is drafted; a character without a card
+  does not speak in the episode):
+    CARRIER_WORDS (1–3 words or phrases only this character
+    says — an address habit, a verbal tic, a pet word; a
+    carrier word appears in the character's lines at least
+    once per episode they speak in): ____
+    CATCHPHRASE (one repeatable line or line-shape designed
+    to be quoted — a verdict formula, a sworn stamp, a
+    counting ritual, a greeting; declared before the episode,
+    and the episode gives it one clean instance): "____"
+    BRAG (what this character thinks is cool about
+    themselves, statable in one line in their own voice):
+    "____"
+    AUDIBLE_TELL (how they SOUND when they lie, boast, panic
+    or lose — a behaviour of the voice, not the plot; must be
+    audible in a transcript with the names removed): ____
+    length_trait (A-9, kept — the character's habitual line
+    length as a trait, e.g. "one-word bursts when cornered" /
+    "runs long and volunteers dates when lying"; the two
+    designed speakers' traits MUST differ): ____
+    SPECIMEN_LINES (≥3 — short lines in THIS character's
+    voice, written at card stage from the persona layer;
+    BLOCKING: a card without them is a defect that blocks the
+    room. The grain the banter draft is harvested against — a
+    harvested line matching neither the AUDIBLE_TELL nor the
+    specimens' grain is re-bantered in the speaker's mouth,
+    not polished in place):
+    "____" · "____" · "____"
+    REGISTER_DEVIATION (how this character leans on the
+    show's REGISTER (§0) or against it; two designed speakers
+    must differ in at least three of the six RIZZ CARD fields,
+    audibly): ____
   NEVER_DOES: ____ · ____        (≥2)
   NEVER_SAYS: ____ · ____        (≥2 — the anti-convergence check)
   SECRET: ____
@@ -255,6 +315,27 @@ STATE (per episode):
 
 ```
 STORYLINE DECLARATIONS (written at storyline pass, before dialogue):
+  PETTY_WANT (v6 — one sentence: a PERSON who wants something
+    PETTY from another person — money, a name on a board,
+    revenge for a slight, a seat, a meal, to be believed, to
+    not be laughed at. Procedures — claims, counts, dockets,
+    tests — may carry the plot's mechanics but may never BE
+    the want; if the sentence names a process instead of a
+    desire, the episode is not ready to break down): ____
+    COLLISION TEST (fold-in — thecontentlab01 study, msg
+    706): the sentence must also read as a COLLISION a
+    stranger can picture — character + situation + twist
+    ("Pepe the frog builds something inside Tung Tung
+    sahur's body") — never a plot summary: PASS / FAIL
+  STATUS_CHANGE (v6 — the value-change pair as a change in
+    STANDING between people, from the standard's table:
+    Humiliated → Striking back · Suspected → Trusted ·
+    Trusting → Betrayed · Winning → Losing on a new
+    condition · Unaware → Holding a secret. A record
+    correction — claim denied → claim granted — is NOT a
+    status change): ____ → ____
+  FACE_AT_RISK (v6 — who can lose face in this episode;
+    someone must be able to, named at storyline stage): ____
   AUDIENCE_SECRET (A-5): secret ____ · holder: audience / ____
   AUDIENCE_KNOWLEDGE (Z-4/Z-5): a cold viewer walking into
      this part knows ____ · has never seen ____ ·
@@ -263,6 +344,13 @@ STORYLINE DECLARATIONS (written at storyline pass, before dialogue):
     (the one secret the audience holds that the characters don't,
     or the reverse) · planted_in_unit: U_ (no later than U1's
     close; planted as a SHOWN beat, never an explanatory line)
+  QUOTABLE (v6 — the line designed to be repeated: the
+    catchphrase instance, the verdict with its twist word,
+    or a ladder rung; declared at fact-spend time —
+    DIALOGUE_METHOD Pass 3.4): "____"
+  STANDALONE_BEAT (v6 — the frame + line that could be
+    posted alone as a reaction, the torn-line test):
+    frame ____ · line "____"
   HANGER_PAID (A-7): previous hanger ____ · this episode's beat
     one pays it (at least partly, within the first ~5s, before a
     larger debt opens): ____
@@ -291,9 +379,12 @@ PASS 3.6 — DIALOGUE BUILD (v3 — DIALOGUE_METHOD.md; blocking):
   offer / demand / refusal / complaint / bargain; "I want X" in
   dialogue is banned except one logged plea exception):
     ____ → move: ____      ____ → move: ____
-PASS 3.7 — STRANGER TEST, SCRIPT STAGE (v3 — NEW GATE; blocking;
-  runs after Pass 3.5, BEFORE script lock; input is the dialogue
-  ONLY in colon form — annotations, pictures, premise stripped;
+FLOOR_CHECK (STRANGER) — SCRIPT STAGE (v3 gate, DEMOTED to
+  a floor check 2026-11-19, v6 — it certifies plausibility,
+  never quality, and may not be cited as evidence the writing
+  is good; the headline gate is TASTE_TEST below. Runs after
+  Pass 3.5, BEFORE script lock; input is the dialogue ONLY
+  in colon form — annotations, pictures, premise stripped;
   reader did not write the dialogue):
   reader: ____   date: ____
   Q1 want-recovery per speaker (ANNOUNCED = fail): ____
@@ -304,8 +395,42 @@ PASS 3.7 — STRANGER TEST, SCRIPT STAGE (v3 — NEW GATE; blocking;
   Q4 gossip retell (contradicts the locked story, or needs ≥2 facts
      absent from the dialogue = fail): ____
   stranger_verdict: PASS / FAIL
+  repair_rounds: _ / 1  (v6 REPAIR CAP — one repair round at
+     script stage; a repair may not remove a keep-list line,
+     a catchphrase instance, or a tell without a written
+     showrunner ruling in the GATE_LOG naming what the
+     removal buys; further flags are adjudicated in writing,
+     not by another re-banter)
+  signature_exemptions: ____  (v6 SIGNATURE EXEMPTION — line
+     IDs marked SIGNATURE: a declared CATCHPHRASE / carrier
+     construction arriving after its earning event is
+     SIGNATURE, not STAGE; a world-rule maxim stated before
+     its teaching event remains STAGE)
   (A script may NOT lock without stranger_verdict: PASS. A FAIL
    returns the exchange to the banter draft — never to line-polish.)
+TASTE_TEST — THE QUOTE-BACK TEST, SCRIPT STAGE (v6 — THE
+  HEADLINE GATE; blocking; DIALOGUE_METHOD §3A. The reader
+  did not write the dialogue, has not read this brief, and
+  gets the dialogue only, in order, read aloud once; then,
+  WITHOUT LOOKING BACK):
+  reader: ____   date: ____
+  quote_back_line (one line quoted verbatim or near-verbatim
+    from memory — no line quotable = FAIL): "____"
+  show_off_named (the character the reader would follow into
+    another episode, + their verbal signature — catchphrase /
+    carrier word / tell — in the reader's own words; cannot
+    name one = FAIL): ____
+  gossip_attitude (the scene retold as gossip in two
+    sentences, + the JUDGMENT word the retell carried —
+    petty / shameless / obsessed / due; a neutral summary =
+    FAIL): ____
+  taste_verdict: PASS / FAIL
+  (PASS requires all three. A FAIL is repaired at the level
+   that failed — quotable → the QUOTABLE / the bits;
+   show-off → the RIZZ CARDs and the license; attitude → the
+   story input (PETTY_WANT / STATUS_CHANGE / FACE_AT_RISK) —
+   never by polishing the lines that were read.)
+
 PASS 4 — SPOKEN-LOAD AUDIT: every unit's §4.1 block signed before
   the first video call. SIGNED: ____
 ```
@@ -455,6 +580,15 @@ PROOF_OBJECT (A-2 — the named physical object carrying this
   conflict is fully understandable with the object removed, the
   unit goes back to banter): ____
   (or: NONE — this unit carries no driving claim)
+BIT (v6 — the named repeatable comic/dramatic mechanism this
+  unit runs, with a setup and a payoff INSIDE the scene; from
+  THE_NEW_STANDARD §2.4 menu — THE COUNT / THE SWORN STACK /
+  THE TOO-SPECIFIC DENIAL / THE ENTRANCE RE-PRICE / THE
+  LADDER / THE KEY WORD LOUDER / STEAL THE INSULT / THE
+  CONFESSION / THE VERSUS — or a room-added bit with a
+  specimen. A unit with no bit is a procedure: pictured, not
+  spoken — its dialogue budget moves to the bit-carrying
+  units): ____
 CHAIN: outgoing last frame (harvested after conform) = image 1 ·
   gated PEAK = image 2. Snapshot/resume chaining is NOT a
   continuity mechanism until the video-api lab's specified test is
@@ -514,9 +648,14 @@ DELIVERY_NOTE per line (how THIS line is played — pause / overlap /
 LINE LEDGER (v3 — per spoken line, beside the SPEECH BLOCK):
   line_move (accuse / deny / dodge / plead / offer / refuse /
   demand / expose / decide / react): ____
-  line_target (the person in the scene the line is aimed at; a line
-  targeted at the room / the record / the audience is cut, except
-  the episode's one logged grievance beat): ____
+  line_target (the person in the scene the line is aimed at;
+  v6 — a line may carry the target class DELIGHT, aimed at
+  the audience's delight: licensed unrationed for the
+  episode's SHOW_OFF, and for any other character as the
+  episode's one logged grievance beat. The old audience-
+  target cut rule is retired (DIALOGUE_METHOD Pass 3.2);
+  a line addressed to the GATE is still a LEDGER LINE and
+  is cut): ____
   line_genre_move (A-1 — the genre function the audience receives:
   ACCUSE-WITH-PROOF / DENY / ENTER-CONTRADICT /
   REVEAL-BY-AUTHORITY / NONE; a NONE line is presumed an orphan
@@ -526,10 +665,30 @@ LINE LEDGER (v3 — per spoken line, beside the SPEECH BLOCK):
   words, attached to the line in the model's own syntax at vehicle
   build: Kling tone parenthesis / Seedance delivery phrase before
   the braces / bracket tag where the route reads one; copied from
-  the line's DELIVERY_NOTE, or the character's SPEECH_RULE default
+  the line's DELIVERY_NOTE, or the character's RIZZ CARD default (the
+  AUDIBLE_TELL / specimen grain)
   where the script carries no delivery intent — the absence is
   noted in the GATE_LOG; never invented at prompt time, never
   free-styled per take): ____
+  line_flavor_tag (v6 — the flavor carrier this line
+  performs: CATCHPHRASE / TELL / BRAG / LADDER / INSULT /
+  CARRIER / NONE; a line is presumed an orphan only if
+  line_genre_move AND line_flavor_tag are both NONE,
+  undefended; an episode whose harvested lines carry no
+  CATCHPHRASE, TELL or BRAG tag at all is flavor-empty by
+  construction and returns to banter before any gate runs):
+  ____
+HARVEST RECORD (v6 — the keep-list harvest, DIALOGUE_METHOD
+  Pass 3.5; B-8's draft-double/cut-half is superseded):
+  KEEP_LIST (the banter line IDs protected BEFORE compression
+  — catchphrase candidates, the tell in action, the brag, the
+  insult, carrier-word lines, the ladder's rungs; harvested
+  first, never cut for length): ____
+  cut_record (what compression removed — line IDs + class;
+  must NOT list a KEEP_LIST ID: a keep-list line removed in
+  compression is the HARVEST CUT failure class and needs a
+  written showrunner ruling naming what the removal buys):
+  ____
 SPEECH BLOCK (last, isolated; one speaker per entry):
   Rendered per MODEL_SYNTAX (§0). For veo-colon-noquotes:
     NAME (visible trait, delivery): the line
@@ -716,10 +875,13 @@ POSTER_FRAME (A-11 — the EMPTY CAPTION test; beside Gate (f); the
   poster_pitch_read (cold reviewer sees frame one with captions
   removed: does frame one pitch the episode alone?): ____
   poster_frame_verdict: PASS / FAIL
-STRANGER TEST — MASTER (v3 — NEW; ship blocker; runs beside Gate (f)
-  on the finished master's OWN transcript, dialogue only; Gate (f)
-  owns comprehension, this gate owns plausibility — would a person
-  say that line, to that person, there?):
+FLOOR CHECK (STRANGER) — MASTER (v3 gate, DEMOTED to a floor
+  check 2026-11-19, v6 — plausibility only; never citable as
+  evidence of quality; the headline gate at master stage is
+  TASTE TEST (MASTER) below. Runs beside Gate (f) on the
+  finished master's OWN transcript, dialogue only; Gate (f)
+  owns comprehension, this check owns plausibility — would a
+  person say that line, to that person, there?):
   stranger_master_reader (did not write the dialogue): ____
   Q1 want-recovery per speaker (ANNOUNCED = fail): ____
   Q2 exchange scoring (FILED ITS OWN STATEMENT ×2 = fail): ____
@@ -728,6 +890,26 @@ STRANGER TEST — MASTER (v3 — NEW; ship blocker; runs beside Gate (f)
   stranger_master_verdict: PASS / FAIL
     (FAIL = story-gate failure class: repaired, never
     disclosure-shipped; repair returns to the room's banter draft)
+TASTE TEST (MASTER) — THE QUOTE-BACK TEST (v6 — THE HEADLINE
+  GATE at master stage; ship blocker; DIALOGUE_METHOD §3A;
+  runs beside Gate (f) on the finished master's OWN
+  transcript, dialogue only. The reader did not write the
+  dialogue and has not read the brief; the dialogue is read
+  aloud once, then, WITHOUT LOOKING BACK):
+  taste_master_reader: ____   date: ____
+  quote_back_line (one line quoted verbatim or near-verbatim
+    from memory — no line quotable = FAIL): "____"
+  show_off_named (the character the reader would follow into
+    another episode, + their verbal signature in the reader's
+    own words; cannot name one = FAIL): ____
+  gossip_attitude (the episode retold as gossip in two
+    sentences, + the JUDGMENT word the retell carried; a
+    neutral summary = FAIL): ____
+  taste_master_verdict: PASS / FAIL
+    (PASS requires all three. FAIL = taste failure: repaired
+    at the level that failed — quotable / show-off / story
+    input — never by polishing lines; a taste-failed master
+    does not ship.)
 CALIBRATION LEDGER (cumulative, series-level file): every machine
   flag above is logged with the human verdict it triaged to —
   flag_outcome: true-drift / false-alarm / missed-by-flag-caught-by-eye.
@@ -752,6 +934,13 @@ CAPTION_RULE (one-line platform captions on our own posts REACT;
   (a caption containing a plot summary or the words "in this
   episode" is rewritten before posting; the caption points at the
   episode's closing open question — it does not repeat it)
+  (v6 — the caption's source line is the episode's QUOTABLE
+  (§2): A-12's reaction is written FROM the quotable, never
+  from a description. Fold-in — thecontentlab01 study (msg
+  706) + clipcraft7's EMPTY CAPTION convergence: if no
+  quotable carries the caption, the caption is EMPTY rather
+  than descriptive; the frame and the premise carry it, or
+  the post does not run.)
   INTENDED_ACTION (Z-5/Z-12): the viewer's next step this
   post asks for: ____ (watch Part N+1 / vote in the
   comments / count along / follow the vault) — declared per
@@ -768,26 +957,31 @@ non-blank in its artifact. This list IS the check — if a future
 amendment adds a rule, it adds a label here in the same commit, or
 the rule does not exist.
 
-- Brief header: `VOICE_ROUTE` · `MODEL_SYNTAX` · `CONTINUITY_OWNER`
+- Brief header: `VOICE_ROUTE` · `MODEL_SYNTAX` · `CONTINUITY_OWNER` ·
+  `REGISTER` · `SHOW_OFF`
 - Per character: `CANONICAL_FACE_REF` · `LOOK_BLOCK_VERBATIM` ·
   `VOICE_SPEC_TEXT` (or route fields `VOICE_ID` / `VOICE_REF_CLIP`) ·
-  `NEVER_DOES` · `NEVER_SAYS` · `SPEECH_RULE` · `length_trait` ·
-  `specimen_lines` · `IDENTITY_MODE` ·
+  `NEVER_DOES` · `NEVER_SAYS` · `CARRIER_WORDS` · `CATCHPHRASE` ·
+  `BRAG` · `AUDIBLE_TELL` · `SPECIMEN_LINES` ·
+  `REGISTER_DEVIATION` · `length_trait` · `IDENTITY_MODE` ·
   `RENT` · `MOTION_SIGNATURE` · `STATE_OPEN` · `STATE_CLOSE`
 - Room: `AUDIENCE_SECRET` · `AUDIENCE_KNOWLEDGE` · `HANGER_PAID` · Pass 3.5 sign-off
   (reader named) · `BANTER_DRAFT` ·
-  `WANT_CARRIAGE` · `STRANGER TEST` (`stranger_verdict`) ·
+  `WANT_CARRIAGE` · `PETTY_WANT` · `STATUS_CHANGE` ·
+  `FACE_AT_RISK` · `QUOTABLE` · `STANDALONE_BEAT` ·
+  `FLOOR_CHECK (STRANGER)` (`stranger_verdict`) · `TASTE_TEST` ·
   Pass 4 sign-off
 - Panels: `SEQUENCE GATE` signed · `ANIMATIC GATE` signed
 - Per unit: `SPOKEN-LOAD AUDIT` (incl. `measured_sec`,
   `implied_rate`, `span_cost_sec`) · `PREV END STATE` ·
   `REFERENCE PRIORITY` · `REFS_BOUND` · `STATE_ASSERT` ·
   `LISTENER_STATE` ·
-  `PROOF_OBJECT` · `PERSONA_TRANSLATION` · `OBJECTIVE` ·
+  `PROOF_OBJECT` · `BIT` · `PERSONA_TRANSLATION` · `OBJECTIVE` ·
   `OBSTACLE` · `TACTICS` · `WITHHELD` ·
   `EYE TASK` (close takes) · `END STATE` (four sub-fields) ·
   `SPEECH BLOCK` · `line_move` · `line_target` · `line_genre_move` ·
-  `line_delivery_tag` · `REACTION` · `HOOK_TYPE` (U1)
+  `line_delivery_tag` · `line_flavor_tag` · `KEEP_LIST` ·
+  `cut_record` · `REACTION` · `HOOK_TYPE` (U1)
 - Per take: four drift rows with classes · `motion_at_cut_in` ·
   attempt log (`speaker_order`, `dropped_speaker`,
   `invented_words`, `span_sec`) · tail-drift verdict
@@ -795,7 +989,8 @@ the rule does not exist.
 - Per joint: `joint_eye_verdict` + `joint_mismatch_class`
 - Master: transcription settings block · mechanical diff fields ·
   ear test sign-off · `cold_verdict` · `poster_frame_verdict` ·
-  `stranger_master_verdict` · `ZHE CHECKS` (signed block)
+  `stranger_master_verdict` · `taste_master_verdict` ·
+  `ZHE CHECKS` (signed block)
 - Delivery: `CAPTION_RULE` · `INTENDED_ACTION`
 
 ---
@@ -852,7 +1047,16 @@ the rule does not exist.
 | 46 | **v5.1 (Z-19):** ZHE CHECKS block in §5.4 + §6 — surface accuracy (boards/counts/props right against the locked facts) + next-step legibility at the master gate; the muted pass tightened to sound off AND subtitles off | His nine-question review is stricter than our muted test (subtitles off too) and asks the interface-accuracy question our gates asked only via proof objects (China tactics study, msg 688) |
 | 47 | **v5.1 (Z-10/Z-11, direction recorded):** the personification pass — a show bible names its invisible system's embodiment (CHARACTER / CURSOR / AMBIENT SIGNAL) and writes the operations→interactions mapping once, as a story generator; lands in `new-era/morph/MORPH_SHOW-*.md` at their next storyline pass; first candidate THE ALGO as CURSOR-class presence (effects only — a showing device, lore-law safe). Companion device note (Z-14: EXTREME DEMO / COMPARISON) landed in `DIALOGUE_METHOD.md` Pass 3.1 | We have no named step that translates a system's operations into social interactions; THE ALGO has no sanctioned visual embodiment and is currently shown only by its effects (China tactics study, msg 688) |
 
+| 48 | **v6:** RIZZ CARD on the §1 cast card (`CARRIER_WORDS` / `CATCHPHRASE` / `BRAG` / `AUDIBLE_TELL` / `SPECIMEN_LINES` ≥3, blocking / `REGISTER_DEVIATION`; `length_trait` kept) replacing the `SPEECH_RULE` + `length_trait` + `specimen_lines` block; episode `SHOW_OFF` in §1; show `REGISTER` in §0 | The cards described tactics, never sound — the v6 cards carried no carrier word, no catchphrase, no specimens (TASTE_DIAGNOSIS T-3; writing rework, msg 704) |
+| 49 | **v6:** storyline fields `PETTY_WANT` / `STATUS_CHANGE` / `FACE_AT_RISK` in §2, + the COLLISION test beside `PETTY_WANT` (fold-in) | The story was a procedure, not a petty want, and nobody could lose face (T-5); the premise must be a collision a stranger can picture, not a plot summary (thecontentlab01 study, msg 706) |
+| 50 | **v6:** `line_flavor_tag` per spoken line in §4.4 + §6; the orphan rule widened — presumed orphan only if genre move AND flavor tag are both NONE | The quotable beat is almost always a repetition, a one-word answer, or a verdict line — shapes the four genre moves do not name (T-2 / T-7) |
+| 51 | **v6:** per-unit `BIT` in §4.2 + §6; per-episode `QUOTABLE` + `STANDALONE_BEAT` in §2 — a unit with no bit is pictured, not spoken, and its dialogue budget moves to bit-carrying units | Scenes were built from procedures; nothing in the episode was built to be repeated (T-5 / T-7) |
+| 52 | **v6:** the keep-list harvest — `KEEP_LIST` / `cut_record` harvest record in §4.4 + §6; B-8's draft-double/cut-half superseded as the harvest law (row 37 stands as the historical record of B-8) | The ratio was executed against the flavor carriers, which are surplus by definition — compression removed the tell and kept the claim (T-1) |
+| 53 | **v6:** the Stranger Test demoted to `FLOOR_CHECK (STRANGER)` (§2 + §5.4) with the SIGNATURE EXEMPTION and the one-round REPAIR CAP; the headline gate is the QUOTE-BACK TEST — `TASTE_TEST` in §2, `TASTE TEST (MASTER)` in §5.4 | Q3 cannot distinguish a dead maxim from a live signature and executed both; iterated cold-reader repair is a one-way gradient that only subtracts (T-0 / T-2) |
+| 54 | **v6:** the DELIGHT target class — the audience-target cut rule retired (§4.4 `line_target`); the episode's SHOW-OFF carries DELIGHT unrationed, every other character via the one grievance beat | The move ledger banned charisma by construction: a line aimed at the audience's delight was cut by rule (T-4) |
+| 55 | **v6:** §5.5 caption feedstock — the caption is written from the episode's `QUOTABLE`; if no quotable carries it, the caption is EMPTY rather than descriptive (fold-in) | A-12 named the reaction but not its feedstock; thecontentlab01's premise-captions and clipcraft7's EMPTY CAPTION converge on text-refusal as the mature form (msg 706 study; clipcraft7 study) |
+
 *Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`. v4 rows: `research_notes/case-study-writing-themes-20261118/AMENDMENTS.md` + `WRITINGS.md` + `THEMES.md`. v5 rows: `research_notes/online-writing-research-20261118/REPORT.md` + `SOURCES.md` + `AMENDMENTS_2.md`.*
 
-— End of template v5.1. Amend by dated addendum; never edit a field
+— End of template v6. Amend by dated addendum; never edit a field
 out silently — a removed field is a removed gate.

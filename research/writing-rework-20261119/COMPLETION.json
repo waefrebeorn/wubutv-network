@@ -1,0 +1,39 @@
+{
+ "commissioned_by": "user order, Telegram msg 704 (2026-11-19 ~00:26 EST)",
+ "completed_at_local": "2026-11-19 ~01:20 EST",
+ "constraints_honored": [
+  "no episode script written for production",
+  "locked HOLD ON v6 script untouched",
+  "DIALOGUE_METHOD.md / template / TASTE guide NOT edited (landing spec only)",
+  "nothing committed"
+ ],
+ "deliverables": [
+  {
+   "bytes": 16314,
+   "md5": "00897cb453970674666019cc6210741f",
+   "path": "~/workspace/research_notes/writing-rework-20261119/TASTE_DIAGNOSIS.md"
+  },
+  {
+   "bytes": 15479,
+   "md5": "850723a3e282d5f8418224909ee34f71",
+   "path": "~/workspace/research_notes/writing-rework-20261119/THE_NEW_STANDARD.md"
+  },
+  {
+   "bytes": 7867,
+   "md5": "5d8f6342b897fa4679132698d94753d3",
+   "path": "~/workspace/research_notes/writing-rework-20261119/PROOF_REWRITE.md"
+  },
+  {
+   "bytes": 10484,
+   "md5": "d320bfa398b45b587c30709c56b6ae17",
+   "path": "~/workspace/research_notes/writing-rework-20261119/LANDING_SPEC.md"
+  }
+ ],
+ "gaps": [
+  "thecontentlab01 study (msg 706) still running at synthesis: its directory holds raw pulls only, no COMPLETION.json; no finding in this rework draws on it. LANDING_SPEC pre-step instructs the parent to fold its writing-layer findings in at landing.",
+  "clipcraft7 has no line-level dialogue anywhere in the corpus (empty captions by design) \u2014 cited for frame/poster mechanics only, never for lines.",
+  "Roach node 3 (@RobertTayyy) post text unreachable through every permitted route \u2014 the network map evidence is metadata-level for that node."
+ ],
+ "job": "writing-rework-coordinator",
+ "verdict_summary": "Complete writing rework delivered. Diagnosis: seven taste failure classes (T-0..T-7) evidenced line-by-line from the v6 banter draft, the locked v6 script and its amendment record against the banked field corpus \u2014 the flavor existed in the banter draft and was removed by a one-way repair/harvest gradient that only subtracts; the headline gate (Stranger Test Q3) cannot distinguish a dead maxim from a live signature and executed both; cast cards carried tactics, never sound (no carrier words, catchphrases, or specimen lines); Pass 3.2 banned charisma by construction; the story was a procedure, not a petty want; no show declares a vernacular; nothing was built to be repeated. New standard: RIZZ CARD (charisma written at card stage) + designated SHOW-OFF with DELIGHT license, petty-want + status-change story inputs, named BITs as units of construction, KEEP-LIST harvest replacing draft-double/cut-half, per-show REGISTER, and the QUOTE-BACK TEST as the headline gate (quote back a line / name the show-off and their signature / gossip-retell with an attitude \u2014 all three required). Stranger Test demoted to a floor check with the signature exemption and a one-round repair cap. Proof rewrite of HOLD ON E3 U1+U2 carries identical story facts inside the same word caps (19 / 16 words) and restores the liar's tell (\"ask the street\") as the episode quotable with a Part 2 payoff. Landing spec gives the parent section-by-section edits for DIALOGUE_METHOD.md (both copies), the E3 brief template v5.1 -> v6, and the TASTE guide (new addendum file + section 8 pointer). No production files edited, no episode script written, nothing committed."
+}
