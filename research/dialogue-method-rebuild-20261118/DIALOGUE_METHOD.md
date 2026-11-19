@@ -32,9 +32,15 @@ The rule also carries a habitual **length trait** — how long this
 character's lines run ("answers in one-word bursts when cornered";
 "runs long and volunteers dates when lying") — because line length
 is itself a distinguishing character trait, and the two designed
-speakers' length traits must differ.
+speakers' length traits must differ. The card also carries two or
+three **specimen lines** — short lines in the character's voice,
+written at card stage from the persona layer — because a voice
+shown is a voice a room can harvest against, while a voice only
+described in adjectives produces generic characters; at harvest, a
+line that matches neither the rule nor the specimens' grain is
+re-bantered in the speaker's mouth, not polished in place.
 *(Template: `SPEECH_RULE` field on the §1 cast card, extended with
-a `length_trait` clause.)*
+a `length_trait` clause and `specimen_lines`.)*
 
 **Pass 3.1 — BANTER FIRST (F-27's mine-the-banter, made a step, not
 a slogan).** The scene's exchange is drafted loose, as talk:
@@ -48,7 +54,13 @@ the board by another name. The banter draft
 is kept in the episode's work dir. Lines are then *harvested* into
 the locked script; a locked line that exists in no banter draft
 and was written directly to the board is presumed a ledger line
-until defended. *(Template: `BANTER_DRAFT` field, §2 sign-off.)*
+until defended. The harvest has an expected cut ratio — **draft
+double, cut half**: roughly half the banter draft's lines survive
+to the locked script, and the move ledger (Pass 3.2) records the
+drafted count against the kept count; a harvest that cut nothing
+is presumed under-edited and says why in the GATE_LOG (a two-line
+unit is a defence; silence is not). *(Template: `BANTER_DRAFT`
+field, §2 sign-off.)*
 
 **Banter input — the proof object.** Before the scene is played,
 each unit's driving claim is assigned a named physical proof
@@ -59,6 +71,27 @@ character reporting another's off-screen act is a ledger-line
 risk and is re-bantered around the object. (Pass 3.4 carries the
 other half of this rule: the first spend of a driving fact is the
 object beat.) *(Template: per-unit `PROOF_OBJECT` field, §4.)*
+
+**Scene devices beside the proof object (Z-14, from the
+China tactics study, 2026-11-18).** Two named constructions
+a room may reach for at banter input, as drafting devices,
+not gates: the EXTREME DEMO — a claim stress-tested on
+screen, with a visible score (the bell test is this
+episode-form's native example); and COMPARISON — the same
+scene played twice with two behaviours, where the contrast
+is the argument (a natural staging for home-vs-invader in
+the occupation lore). A device is chosen at input, like the
+proof object; it is never retrofitted at gate stage.
+
+**Banter input — the withheld line.** Banter input for a unit is
+the proof object, the want, and the **withheld line**: the
+sentence each character will not say in this unit, which their
+lines are written around. Naturalness is briefed as intention
+plus constraint, never requested as a quality — information
+without intention is robotic dialogue's root cause. A unit where
+nobody is avoiding anything is re-bantered: flat exchanges are
+diagnosed at input, not at the Stranger Test. *(Template:
+per-unit `WITHHELD` field, §4.3.)*
 
 **Pass 3.2 — THE MOVE LEDGER.** Every harvested line is labelled
 with (a) its MOVE — accuse / deny / dodge / plead / offer / refuse /
@@ -158,7 +191,13 @@ before opening a larger debt. At lock, the showrunner reads the
 previous episode's hanger from the running brief and writes the
 payment beat before U1's dialogue is drafted; an episode whose
 U1 contains no payment beat and no interest payment does not
-lock. *(Template: `HANGER_PAID` sign-off, §2.)*
+lock. The hanger must also pass the **swap test** at lock: if it
+could be pasted onto another episode without rewriting this
+episode's middle, it is decoration and fails — the last beat is
+rewritten before U6's dialogue is drafted, not after the master
+is gated; the GATE_LOG's hanger entry records the test and the
+middle beat a passing hanger hangs from. *(Template:
+`HANGER_PAID` sign-off, §2.)*
 
 **Pass 3.5 — THE PLAINNESS PASS (replaces the stumble repair).**
 The locked dialogue is read aloud cold, in order, by a voice that
@@ -262,6 +301,36 @@ flat. Then answers, in writing:
 4. The Q4 retell contradicts the locked story on any fact, or
    needs ≥2 facts that exist nowhere in the dialogue.
 
+**Q2 under Camp B — the unit of analysis (clarification,
+2026-11-18, parent ruling on the HOLD ON E3 v6 readings).**
+Q2 was written against two-voice banter transcripts. Under
+Camp B (one speaker per unit) and in proceeding-shaped
+scenes, exchanges also live at three other joints, and the
+reader scores all of them: (i) ACROSS UNIT JOINTS — the
+next unit's first line against the previous unit's last
+line; (ii) WITHIN A SPEAKER'S RUN — a run is one move
+advancing (bid -> claim, finding -> attribution -> cost);
+a line that starts an unrelated topic mid-run is FILED;
+(iii) CHAIR-TURNS AND INTERRUPTIONS — a turn to a new
+addressee that the previous line's result causally calls
+for is the answer's consequence, not a filing; an
+interruption that seizes the floor is a move (contact),
+not a filing. A line that answers a PICTURE beat (a reach,
+a spill, a gesture) is answered-in-picture: the script-
+stage test cannot see it, it is noted as such, and the
+master-stage test — where pictures exist — is its final
+judge. FAIL condition 2 is unchanged in substance: a line
+with no verbal caller, no picture caller and no causal
+call is doubly orphaned and fails. The clarification
+names where exchanges live under standing form law; it
+does not lower the bar — the HOLD ON v6 repairs passed
+under it because the repairs added the causal calls the
+early drafts lacked. Q3's "in that situation" likewise
+includes the speaker's trade and the act in front of them:
+a rule's substance spoken as a taunt at the act it names
+is in use, not recitation; the maxim form (the rule stated
+as a rule) remains a STAGE line.
+
 **On FAIL:** the record names the failure class(es) from §2, and
 the repair is at Pass 3.1 (re-banter the exchange) — never
 line-polish toward the test. The reader's Q3 reasons are quoted in
@@ -286,5 +355,62 @@ design (Camp B generation stands — but exchanges are now *written*
 as exchanges in the banter draft, with interruption and overlap
 marked as delivery notes for the edit, instead of being written as
 alternating monologues); the colon form and prompt hygiene (F-16).
+
+**Vehicle-layer notes (online-research wave, 2026-11-18 — these
+govern the prompt, never the script):**
+
+**Delivery tags (B-1).** The colon form governs the *script*; at
+vehicle build, each spoken line carries exactly one short
+delivery tag (1–5 words) attached in the model's own syntax —
+Kling's tone parenthesis, Seedance's delivery phrase before the
+braces, a bracket tag where the route reads one — copied from the
+script's delivery intent: the line's DELIVERY_NOTE, or the
+character's SPEECH_RULE default where the script carries none,
+with the absence noted in the GATE_LOG. Tags are never invented
+at prompt time and never free-styled per take. *(Template:
+`line_delivery_tag` per line, §4.4.)*
+
+**The listener's mouth (B-2).** Camp B generates one speaker per
+clip; this governs the *other* face in that clip. Every vehicle
+framing two characters names the non-speaker's state explicitly —
+"listens silently, mouth closed", plus one micro-action (blink,
+exhale, eyes tighten) — for every beat in which they do not
+speak; an unnamed listener mouths the speaker's line. *(Template:
+`LISTENER_STATE` per unit, §4.2 — the Sequence Gate checks it the
+way it checks END STATE.)*
+
+**Name hygiene (B-4).** A character's name appears inside a
+generation prompt only inside the spoken line's wrapper or as a
+bound reference label (@Image / @Name element) — never as free
+prose, where models render names as on-screen text or speak them.
+A prompt lint joins the vehicle checks: grep the vehicle for cast
+names outside the wrapper and the reference labels; a hit is
+fixed before firing — the same class as the prompt-leak scrub.
+*(Template: §0 MODEL_SYNTAX notes.)*
+
+**One-take performance on the TTS route (B-6).** Camp B governs
+video clips; this governs audio takes. When VOICE_ROUTE is
+TTS-first, the unit's (or scene's) lines are performed as one
+continuous multi-voice take and cut afterward — never generated
+line-by-line and concatenated: line-by-line reads leave every
+reply landing with the same gap, a shout answered calmly, nobody
+in the scene listening to anybody. The ear-test record notes
+whether the exchange was performed whole or assembled; an
+assembled exchange that fails the ear-test is re-performed whole
+before any line is rewritten. *(Template: §0 VOICE_ROUTE
+performance-granularity clause.)*
+
+**Ceiling vs budget (B-12 — FLAGGED, ratified as a budgeting
+rule; the F-25 caps above are unchanged).** The F-25 caps are
+ceilings, not budgets. A unit carrying a REACTION entry or a
+second voice is *budgeted* at ~13–15 words, because tested field
+budgets for generated speech sit at 60–75% of the ceiling
+whenever the clip must also carry reaction and ambience; the
+ceiling is headroom for the plainness pass only, and a loaded
+unit written to the ceiling must be defended in the brief like a
+NONE genre move. Ratified on single-tester-plus-guide evidence
+(Ambience AI's Seedance tests; Dreamdrive's Veo budgets) — an
+application distinction, not a cap change. *(Template: §4.1
+ceiling-vs-budget note.)*
 
 *End of method.*

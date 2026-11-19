@@ -1,4 +1,4 @@
-# E3 PRODUCTION BRIEF TEMPLATE — v4 (2026-11-18, case-study amendments landed)
+# E3 PRODUCTION BRIEF TEMPLATE — v5.1 (2026-11-18, online-research amendments landed; China-tactics liftables added)
 
 **Status:** THE working brief skeleton for every E3 room. Supersedes
 the de facto E1/E2 pattern (per-episode SCRIPT + VEHICLES +
@@ -55,6 +55,36 @@ beside the show bible and lands in `DIALOGUE_METHOD.md` Pass
 end-state pin, want-announcement ban) was tested against the
 same evidence and stands unedited.
 
+**v5 delta (2026-11-18, night):** the user ordered online
+research into how others write the prompts and write the lines
+(Telegram msg 681, 2026-11-18 ~21:44 EST). The research
+(`research_notes/online-writing-research-20261118/REPORT.md` +
+`SOURCES.md` — 40 sources, evidence-graded) produced thirteen
+amendments (`AMENDMENTS_2.md` B-1…B-13), landed here and in
+`DIALOGUE_METHOD.md`: one delivery tag per line in the vehicle
+(B-1), the listener's mouth state as a required field (B-2),
+one verb per character per beat (B-3), name hygiene inside
+prompts (B-4), specimen lines on every cast card (B-5),
+one-take performance on the TTS route (B-6), the withheld line
+in every unit brief (B-7), a draft-double / cut-half harvest
+ratio (B-8), per-model dialogue-form evidence under
+`MODEL_SYNTAX` — Veo ≠ Sora (B-9), the hanger swap test
+(B-11), and two **flagged ratifications**: B-12 splits ceiling
+from budget (loaded units budgeted at ~13–15 words; the F-25
+caps are unchanged) and B-13 splits the identity rule by route
+(identity-bound routes bind by reference and never redescribe
+the face; description-bound routes — ours — keep
+`LOOK_BLOCK_VERBATIM` in full). B-10 is a CONFIRMS filing
+(route-first, verbatim blocks, one-speaker reliability,
+reaction closes), recorded in the TASTE dialogue addendum —
+no change here. The checked-and-held set from wave 1 was
+tested against the online evidence and stands again; the
+online record also holds the want-announcement ban, the
+script-layer colon form, the Stranger Test, and fact spend /
+proof objects / payload-last. Not imported: human micro-drama
+word budgets (a human-actor number), and no universal dialogue
+syntax — the evidence actively forbids one.
+
 ## How the field-presence contract works
 
 - Every field label in this template (the `SCREAMING_SNAKE` labels
@@ -73,6 +103,27 @@ same evidence and stands unedited.
   word alone — that vocabulary is how E2 documented text-carried
   voices as if they were locked.
 
+**v5.1 delta (2026-11-18, late night):** the China tactics
+study (Director Zhe's AI commercial-film process, via
+@miles_mazy — Telegram msg 688) mapped 19 tactics against
+this system: 0 contradictions, 6 liftables. Four land here
+as fields: `AUDIENCE_KNOWLEDGE` in §2 (Z-4/Z-5 — what a
+cold viewer knows walking into this part, declared before
+dialogue), `INTENDED_ACTION` in §5.5 (Z-5/Z-12 — the
+viewer's declared next step per delivery), `HOOK_TYPE` on
+U1 in §4.4 (Z-13 — the opening's named move: CURIOSITY /
+PAIN / CONTRAST / RESULT-FIRST), and the ZHE CHECKS block
+in §5.4 (Z-19 — surface accuracy + next-step legibility at
+the master gate; the muted test tightened to sound off AND
+subtitles off). Two land elsewhere: the EXTREME DEMO /
+COMPARISON scene devices in `DIALOGUE_METHOD.md` Pass 3.1
+(Z-14, drafting devices), and the personification pass
+(Z-10/Z-11 — a show bible names its invisible system's
+embodiment; first candidate THE ALGO as a CURSOR-class
+presence, effects only, lore-law safe) recorded as a
+standing direction for the bibles' next storyline pass.
+Full mapping: `research_notes/lilypads/miles-mazy-china-tactics-20261118/report.md`.
+
 ## §0 — Episode header (once per brief)
 
 ```
@@ -83,10 +134,29 @@ GENERATOR: model ____  version ____  mode ____
 MODEL_SYNTAX: veo-colon-noquotes / seedance-quotes / kling-quotes / other: ____
   (the speech-syntax rule in §4.9 follows THIS field; it is a model
    property, not a universal law — Pass 2, Angle 2)
+  (B-9: this entry carries per-model DIALOGUE-FORM EVIDENCE, dated
+   — the dialogue form the model is documented or tested to take.
+   Veo ≠ Sora: on Veo 3 a pasted two-speaker script block is a
+   TESTED FAILURE — use scene-flow prose, or one speaker per
+   segment; on Sora 2 the Dialogue block is OpenAI's PUBLISHED
+   form. An entry with no cited guide or tested source is UNKNOWN
+   and the unit defaults to Camp B single-speaker segments.
+   B-4 name hygiene: a character's name appears in a prompt only
+   inside the spoken line's wrapper or as a bound reference label
+   (@Image / @Name) — free-prose names render as on-screen text
+   or get spoken.)
 VOICE_ROUTE (per show, mandatory, one of):
   PINNED_TTS / AUDIO_REFERENCE / NATIVE_TEXT_ONLY
   NATIVE_TEXT_ONLY is invalid for a recurring speaking character
   unless this line carries a waiver: WAIVER: ____
+  (B-6 performance granularity — on the PINNED_TTS route this
+   declaration states granularity: the scene is performed WHOLE
+   as one continuous multi-voice take and cut at REACTION
+   entries, never generated line-by-line and concatenated; the
+   ear-test record notes whole vs assembled.)
+  (B-13 identity mode — declared per character on the §1 card as
+   IDENTITY_MODE; the route split lives in §4.2 REFERENCE
+   PRIORITY.)
 CAST_LOG (reproducibility record, completed at delivery):
   model+version ____ · reference/element IDs bound ____ ·
   voice route + IDs ____ · settings ____ · seed (if exposed) ____
@@ -115,6 +185,14 @@ LOOK (bound, not described):
   LOOK_BLOCK_VERBATIM: "____"
              (pasted byte-identically into every unit prompt; appearance
               adjectives outside this block are forbidden)
+  IDENTITY_MODE (B-13): description-bound / identity-bound
+             (description-bound: LOOK_BLOCK_VERBATIM applies in
+              full — our current production route. identity-bound
+              — Soul ID / Kling Elements / Sora characters: the
+              identity is bound by reference and the face is NEVER
+              redescribed in the vehicle; the prompt is spent on
+              wardrobe, action, location, camera, lighting and
+              continuity constraints instead)
   WARDROBE_STATES (named, series-level; units cite a state ID, never
   free-text clothing): STATE ____ = ref still ____ · STATE ____ = ____
 
@@ -144,6 +222,12 @@ PERSONA (behaviour, not adjectives):
   character trait, e.g. "one-word bursts when cornered" / "runs
   long and volunteers dates when lying"; the two designed
   speakers' traits MUST differ): ____
+  specimen_lines (B-5 — 2–3 short lines in THIS character's voice,
+  written at card stage from the persona layer; the grain the
+  banter draft is harvested against — a harvested line matching
+  neither the SPEECH_RULE nor the specimens' grain is re-bantered
+  in the speaker's mouth, not polished in place):
+  "____" · "____" · "____"
   NEVER_DOES: ____ · ____        (≥2)
   NEVER_SAYS: ____ · ____        (≥2 — the anti-convergence check)
   SECRET: ____
@@ -172,6 +256,10 @@ STATE (per episode):
 ```
 STORYLINE DECLARATIONS (written at storyline pass, before dialogue):
   AUDIENCE_SECRET (A-5): secret ____ · holder: audience / ____
+  AUDIENCE_KNOWLEDGE (Z-4/Z-5): a cold viewer walking into
+     this part knows ____ · has never seen ____ ·
+     expects/fears ____ (declared before dialogue; Gate E
+     checks the script reads on the declared knowledge alone)
     (the one secret the audience holds that the characters don't,
     or the reverse) · planted_in_unit: U_ (no later than U1's
     close; planted as a SHOWN beat, never an explanatory line)
@@ -244,6 +332,13 @@ SEQUENCE GATE (Pass 1 §B.5 + Pass 2 animatic-era fields):
   seq_reads_silent: Y / N
   seq_story_in_one_sentence: "____"  (reviewer writes the story from
                    the sheet alone; if it isn't the episode's story, FAIL)
+  seq_verb_count_check: PASS / FAIL  (B-3 — speaking is the action:
+                   in every speaking beat the speaker carries no
+                   second simultaneous action verb, and every other
+                   framed character carries at most one verb, in its
+                   own sentence; a failing beat is split at vehicle
+                   build — the action moves to the REACTION entry or
+                   the next unit — never deleted from the story)
   reviewer (not the panel maker): ____
   SIGNED: ____
 
@@ -288,6 +383,13 @@ SPOKEN-LOAD AUDIT — U_
              2 speakers (Camp A exception) — target 14–16 TOTAL,
              HARD CAP 18 TOTAL, ≤9 words/turn, ≤2 turns, 1 turn change.
              Adding a speaker REDUCES the budget; it never leaves it unchanged.
+  CEILING vs BUDGET (B-12, FLAGGED — ratified as a budgeting rule;
+             the caps above are UNCHANGED): a unit carrying a
+             REACTION entry or a second voice is BUDGETED at
+             ~13–15 words, not written to the ceiling; the ceiling
+             is headroom for the plainness pass only. A loaded unit
+             written to the ceiling must be defended in the brief
+             like a NONE genre move (A-1).
   hard_words: none / ____ (names, numbers, long words — phonetic
              respelling noted where used)
   language_accent (per speaker, explicit — never implicit): ____
@@ -325,6 +427,15 @@ REFERENCE PRIORITY:
   IDENTITY: ____ (panel) · GEOMETRY: ____ (panel) · WARDROBE: ____ (panel)
   known-defect overrides (POSITIVE statements only — bare negations
   are not a permitted override form): ____
+  IDENTITY-MODE SPLIT (B-13): for an identity-bound character
+  (§1 IDENTITY_MODE), IDENTITY above is the bound reference /
+  element ID and NO face description is carried in the vehicle;
+  for a description-bound character, IDENTITY is the panel and
+  LOOK_BLOCK_VERBATIM is pasted in full. The mode is per
+  character; the two modes are never mixed for one character in
+  one unit. Identity-bound vehicles are linted for face
+  redescription the way description-bound vehicles are linted
+  for paraphrase.
 REFS_BOUND: ____ (which LOOK_PACK slots / element IDs are attached
   to THIS generation; an unbound unit is text-only and gets the
   stricter gate)
@@ -333,6 +444,11 @@ PRIMARY_BOUND_CHARACTER (two-character units): ____
 VOICE_REF_CLIP attached (AUDIO_REFERENCE route): ____ / NA
 STATE_ASSERT: at unit start, ____ is in wardrobe state ____,
   holding ____, condition ____.
+LISTENER_STATE (B-2 — mandatory when two characters are framed:
+  the non-speaker's state named explicitly for every beat in
+  which they do not speak — "listens silently, mouth closed"
+  plus one micro-action: blink / exhale / eyes tighten; an
+  unnamed listener mouths the speaker's line): ____
 PROOF_OBJECT (A-2 — the named physical object carrying this
   unit's driving claim: shown in the scene AND named in the
   dialogue; conflict is never reported secondhand; if the unit's
@@ -358,6 +474,11 @@ PERSONA_TRANSLATION (1 line — persona as renderable this unit:
 OBJECTIVE: ____ (a verb aimed at the partner)
 OBSTACLE: ____
 TACTICS: ____ → ____  (must change at least once mid-scene)
+WITHHELD (B-7 — per speaker per unit: the sentence this character
+  will NOT say in this unit; their lines are written and prompted
+  around it. A unit where nobody is avoiding anything is
+  re-bantered — flat exchanges are diagnosed at input, not at the
+  Stranger Test): ____
 EYE TASK (every close take): ____ (what the eyes do, at what, how long)
   (dead eyes on a close take = reject at QC, not a note — F-23)
 PERFORMANCE_SOURCE: DRIVING_CLIP ____ / MOTION_REF ____ / TEXT_ONLY
@@ -380,6 +501,14 @@ ACTION / SCENE SENTENCES: renderable content only — no staging
   non-speech described positively. State changes happen ACROSS the
   cut, never as a generated morph, unless the morph is this unit's
   named event (F-24). Named event (if any): ____
+  HOOK_TYPE (Z-13 — U1 only; the named event's move,
+  declared: CURIOSITY / PAIN / CONTRAST / RESULT-FIRST): ____
+  (B-3 construction note — speaking is the action: in a speaking
+  beat the speaker carries no second simultaneous action verb, and
+  every other framed character carries at most one verb, in its
+  own sentence. A speaking beat with a second action on the
+  speaker is split — the action moves to the REACTION entry or
+  the next unit — never deleted from the story.)
 DELIVERY_NOTE per line (how THIS line is played — pause / overlap /
   whisper — lives here, not in the voice spec): ____
 LINE LEDGER (v3 — per spoken line, beside the SPEECH BLOCK):
@@ -393,6 +522,14 @@ LINE LEDGER (v3 — per spoken line, beside the SPEECH BLOCK):
   REVEAL-BY-AUTHORITY / NONE; a NONE line is presumed an orphan
   until defended at the Stranger Test; the tags are checked in the
   GATE_LOG after the test, against its Q2 scores): ____
+  line_delivery_tag (B-1 — exactly ONE short delivery tag, 1–5
+  words, attached to the line in the model's own syntax at vehicle
+  build: Kling tone parenthesis / Seedance delivery phrase before
+  the braces / bracket tag where the route reads one; copied from
+  the line's DELIVERY_NOTE, or the character's SPEECH_RULE default
+  where the script carries no delivery intent — the absence is
+  noted in the GATE_LOG; never invented at prompt time, never
+  free-styled per take): ____
 SPEECH BLOCK (last, isolated; one speaker per entry):
   Rendered per MODEL_SYNTAX (§0). For veo-colon-noquotes:
     NAME (visible trait, delivery): the line
@@ -562,6 +699,16 @@ GATE (f) — THE COLD RUN (Pass 2, Angle 3 — NEW; ship blocker; runs
     (any NOT-HEARD, HEARD-WRONG or EXTRA-CONFIRMED = REPAIR-AND-
     RERUN, and the re-run is on the REPAIRED master, full section
     re-logged as cold_run_2)
+ZHE CHECKS (Z-19 — beside Gate (f); two questions from the
+  China tactics study's nine-question review):
+  zhe_surface_accuracy: are the world's working surfaces
+    RIGHT? (boards, counts, tallies, props — checked against
+    the locked script's facts): Y / N · misses: ____
+  zhe_next_step_legible: is the viewer's next step legible
+    from the artefact itself (the part's open question /
+    vote / count-along reads without the caption)?: Y / N
+  zhe_muted_test: the cold run's muted pass is run sound
+    OFF and subtitles OFF (tightened form): Y / N
 POSTER_FRAME (A-11 — the EMPTY CAPTION test; beside Gate (f); the
   show's CAPTION_MODE — SERIAL or POSTER — is declared in its
   bible, with the show's rigid title pattern):
@@ -605,6 +752,11 @@ CAPTION_RULE (one-line platform captions on our own posts REACT;
   (a caption containing a plot summary or the words "in this
   episode" is rewritten before posting; the caption points at the
   episode's closing open question — it does not repeat it)
+  INTENDED_ACTION (Z-5/Z-12): the viewer's next step this
+  post asks for: ____ (watch Part N+1 / vote in the
+  comments / count along / follow the vault) — declared per
+  delivery; a post with no declared next step is a brand
+  beat only
 ```
 
 ---
@@ -620,8 +772,9 @@ the rule does not exist.
 - Per character: `CANONICAL_FACE_REF` · `LOOK_BLOCK_VERBATIM` ·
   `VOICE_SPEC_TEXT` (or route fields `VOICE_ID` / `VOICE_REF_CLIP`) ·
   `NEVER_DOES` · `NEVER_SAYS` · `SPEECH_RULE` · `length_trait` ·
+  `specimen_lines` · `IDENTITY_MODE` ·
   `RENT` · `MOTION_SIGNATURE` · `STATE_OPEN` · `STATE_CLOSE`
-- Room: `AUDIENCE_SECRET` · `HANGER_PAID` · Pass 3.5 sign-off
+- Room: `AUDIENCE_SECRET` · `AUDIENCE_KNOWLEDGE` · `HANGER_PAID` · Pass 3.5 sign-off
   (reader named) · `BANTER_DRAFT` ·
   `WANT_CARRIAGE` · `STRANGER TEST` (`stranger_verdict`) ·
   Pass 4 sign-off
@@ -629,11 +782,12 @@ the rule does not exist.
 - Per unit: `SPOKEN-LOAD AUDIT` (incl. `measured_sec`,
   `implied_rate`, `span_cost_sec`) · `PREV END STATE` ·
   `REFERENCE PRIORITY` · `REFS_BOUND` · `STATE_ASSERT` ·
+  `LISTENER_STATE` ·
   `PROOF_OBJECT` · `PERSONA_TRANSLATION` · `OBJECTIVE` ·
-  `OBSTACLE` · `TACTICS` ·
+  `OBSTACLE` · `TACTICS` · `WITHHELD` ·
   `EYE TASK` (close takes) · `END STATE` (four sub-fields) ·
   `SPEECH BLOCK` · `line_move` · `line_target` · `line_genre_move` ·
-  `REACTION`
+  `line_delivery_tag` · `REACTION` · `HOOK_TYPE` (U1)
 - Per take: four drift rows with classes · `motion_at_cut_in` ·
   attempt log (`speaker_order`, `dropped_speaker`,
   `invented_words`, `span_sec`) · tail-drift verdict
@@ -641,8 +795,8 @@ the rule does not exist.
 - Per joint: `joint_eye_verdict` + `joint_mismatch_class`
 - Master: transcription settings block · mechanical diff fields ·
   ear test sign-off · `cold_verdict` · `poster_frame_verdict` ·
-  `stranger_master_verdict`
-- Delivery: `CAPTION_RULE`
+  `stranger_master_verdict` · `ZHE CHECKS` (signed block)
+- Delivery: `CAPTION_RULE` · `INTENDED_ACTION`
 
 ---
 
@@ -679,8 +833,26 @@ the rule does not exist.
 | 27 | **v4 (A-11):** `POSTER_FRAME` check in §5.4 beside Gate (f) + `poster_frame_verdict` in §6 — the EMPTY CAPTION test: frame one, captions removed, must pitch the episode alone; CAPTION_MODE (SERIAL / POSTER) declared per show in its bible | The corpus's two caption poles are both evidenced and were previously unreconciled per-episode; the choice is now declared per show and gated at the master |
 | 28 | **v4 (A-12):** `CAPTION_RULE` delivery step added as §5.5 + §6 — social copy reacts (reaction / torn fragment / cheap question), never describes | The roach network's common recipe: own posts never describe, they react — the payload pitches alone |
 | 29 | **v4 (A-13, FLAGGED):** F-26's 8–14-word line band applied as a ceiling range, not a target band — wording in `DIALOGUE_METHOD.md` Pass 3.6; F-25 caps untouched | The field's specimen lines run 1–5 words; the band describes the container (per-clip target), not the line. Landed as a flagged application change, recorded in the TASTE dialogue addendum |
+| 30 | **v5 (B-1):** `line_delivery_tag` per spoken line in §4.4 + §6 — exactly one 1–5-word delivery tag in the model's own syntax, copied from the script's delivery intent, never invented at prompt time; method §4 note | Three independent surfaces converge: Kling's tone parenthesis, Clippie's performed-not-read bracket tags, Paintbrush's one-tag rule (online research, msg 681) |
+| 31 | **v5 (B-2):** `LISTENER_STATE` per unit in §4.2 + §6 — the non-speaker's mouth state named explicitly ("listens silently, mouth closed" + one micro-action), mandatory when two characters are framed; method §4 note | Three independent sources prescribe the same sentence to stop both faces mouthing one line (online research, msg 681) |
+| 32 | **v5 (B-3):** verb-count check in the §3 Sequence Gate + construction note in §4.4 — speaking is the action: a speaker carries no second simultaneous action verb; every other framed character at most one verb, in its own sentence | Shared-action failure is the named multi-character bug across four sources (online research, msg 681) |
+| 33 | **v5 (B-4):** name hygiene — a character's name appears in a prompt only inside the spoken line's wrapper or as a bound reference label; a prompt lint joins the vehicle checks; method §4 + §0 MODEL_SYNTAX note | Seedance renders free-prose names as on-screen text; Veo troubleshooting removes names from prompt prose (online research, msg 681) |
+| 34 | **v5 (B-5):** `specimen_lines` on the §1 cast card under `SPEECH_RULE` + §6 — 2–3 lines in the character's voice as the harvest grain; method Pass 3.0 sentence | "Show the voice, don't describe it" — adjective lists produce generic characters; example phrases produce distinctive ones (online research, msg 681) |
+| 35 | **v5 (B-6):** `VOICE_ROUTE` performance-granularity clause in §0 + method §4 note — on the TTS route the scene is performed as ONE continuous take and cut at REACTION entries, never line-by-line concatenated | Line-by-line generation is the named cause of robotic dialogue on the TTS route (online research, msg 681) |
+| 36 | **v5 (B-7):** `WITHHELD` per speaker per unit in §4.3 + §6 — the sentence each character is avoiding saying; banter input is proof object + want + withheld line; method Pass 3.1 paragraph | Naturalness is briefed as intention + the withheld line, never requested as a quality; "information without intention" is robotic dialogue's root cause (online research, msg 681) |
+| 37 | **v5 (B-8):** draft double, cut half — the banter harvest targets ~half the drafted lines surviving; drafted vs kept counts recorded in the move ledger (method Pass 3.1; no new template field — the ledger already exists) | "Write 20, then cut 10" — Gigi M. Green's rule via OpenMicroDrama (online research, msg 681) |
+| 38 | **v5 (B-9):** `MODEL_SYNTAX` entries carry per-model dialogue-form evidence, dated — Veo ≠ Sora: a pasted two-speaker script block is a tested failure on Veo 3 and OpenAI's published form on Sora 2; an uncited entry is unknown and the unit defaults to Camp B single-speaker segments | Both forms are primary for their own model; neither generalizes — no universal dialogue syntax exists (online research, msg 681) |
+| 39 | **v5 (B-10, CONFIRMS):** no change — route-first, verbatim identity blocks, one-speaker reliability and reaction closes are independently confirmed online; recorded in the TASTE dialogue addendum's checked-and-held list | The online record confirms all four standing positions; future challenges must argue against banked AND online evidence (online research, msg 681) |
+| 40 | **v5 (B-11):** the hanger swap test at script lock (method Pass 3.4 HANGERS) — a hanger that could be pasted onto another episode without rewriting this episode's middle is decoration and fails; the GATE_LOG's hanger entry records the test | drama.so's swap test; exactly one reversal / one complication per 60-s episode (online research, msg 681) |
+| 41 | **v5 (B-12, FLAGGED):** ceiling-vs-budget split in §4.1 + method §4 — a unit carrying a REACTION entry or a second voice is BUDGETED at ~13–15 words; the F-25 caps are unchanged and the ceiling is headroom for the plainness pass only; a loaded unit written to the ceiling must be defended like a NONE genre move | Tested field budgets sit at 60–75% of our ceiling on loaded units (Ambience AI's Seedance tests; Dreamdrive's Veo budgets). Ratified as a budgeting rule on single-tester-plus-guide evidence, in the A-13 pattern (online research, msg 681) |
+| 42 | **v5 (B-13, FLAGGED):** identity-mode route split — `IDENTITY_MODE` declared per character (§0 note, §1 card) + the §4.2 REFERENCE PRIORITY split + §6: identity-bound routes bind by reference and never redescribe the face; description-bound routes keep `LOOK_BLOCK_VERBATIM` in full | Trained-identity routes (Soul ID / Kling Elements / Sora characters) name verbatim redescription as the mistake; the opposite rule is equally documented on plain routes (online research, msg 681) |
+| 43 | **v5.1 (Z-4/Z-5):** `AUDIENCE_KNOWLEDGE` in §2 storyline declarations + §6 — what a cold viewer knows / has never seen / expects, declared before dialogue; Gate E reads against the declaration | Our cold gates test whether a script reads cold; nothing declared what the viewer already knows walking into a serial part (China tactics study, msg 688) |
+| 44 | **v5.1 (Z-5/Z-12):** `INTENDED_ACTION` in §5.5 + §6 — every delivery declares the viewer's next step (watch Part N+1 / vote / count along / follow the vault) | AIDA's tail: his shorts land Desire → Action; our captions closed on the wordmark with no declared next step (China tactics study, msg 688) |
+| 45 | **v5.1 (Z-13):** `HOOK_TYPE` on U1 in §4.4 + §6 — the opening's named move (CURIOSITY / PAIN / CONTRAST / RESULT-FIRST) declared beside the named event | The BLAM gate measures THAT the opening hits, not WHICH move it makes; RESULT-FIRST (cold-open the outcome, rewind) is a structure U1 design did not choose among (China tactics study, msg 688) |
+| 46 | **v5.1 (Z-19):** ZHE CHECKS block in §5.4 + §6 — surface accuracy (boards/counts/props right against the locked facts) + next-step legibility at the master gate; the muted pass tightened to sound off AND subtitles off | His nine-question review is stricter than our muted test (subtitles off too) and asks the interface-accuracy question our gates asked only via proof objects (China tactics study, msg 688) |
+| 47 | **v5.1 (Z-10/Z-11, direction recorded):** the personification pass — a show bible names its invisible system's embodiment (CHARACTER / CURSOR / AMBIENT SIGNAL) and writes the operations→interactions mapping once, as a story generator; lands in `new-era/morph/MORPH_SHOW-*.md` at their next storyline pass; first candidate THE ALGO as CURSOR-class presence (effects only — a showing device, lore-law safe). Companion device note (Z-14: EXTREME DEMO / COMPARISON) landed in `DIALOGUE_METHOD.md` Pass 3.1 | We have no named step that translates a system's operations into social interactions; THE ALGO has no sanctioned visual embodiment and is currently shown only by its effects (China tactics study, msg 688) |
 
-*Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`. v4 rows: `research_notes/case-study-writing-themes-20261118/AMENDMENTS.md` + `WRITINGS.md` + `THEMES.md`.*
+*Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`. v4 rows: `research_notes/case-study-writing-themes-20261118/AMENDMENTS.md` + `WRITINGS.md` + `THEMES.md`. v5 rows: `research_notes/online-writing-research-20261118/REPORT.md` + `SOURCES.md` + `AMENDMENTS_2.md`.*
 
-— End of template v4. Amend by dated addendum; never edit a field
+— End of template v5.1. Amend by dated addendum; never edit a field
 out silently — a removed field is a removed gate.

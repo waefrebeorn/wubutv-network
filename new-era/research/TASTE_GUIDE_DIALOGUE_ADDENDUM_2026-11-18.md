@@ -164,3 +164,134 @@ the want-announcement ban. The mining's checked-and-held section
 supports each from the field's own record (the clone census, for
 instance, states the field has *no* ear-test — our delivery gates
 are differentiators, not excess). No amendment above edits them.
+
+## Landing of the online-research amendments (2026-11-18, night)
+
+**Trigger — the user's order, Telegram msg 681 (2026-11-18
+~21:44 EST):**
+
+> "bro look online at how others do it / like writing the
+> prompts and writing the lines, maybe online research is the
+> way rn"
+
+The live online record was mined for how others write prompts
+and write lines (40 sources, evidence-graded:
+`research_notes/online-writing-research-20261118/REPORT.md` +
+`SOURCES.md`), producing thirteen amendments (`AMENDMENTS_2.md`,
+B-1…B-13): ten NEW, one CONFIRMS (B-10), and two CONTRADICTS
+flagged for parent ruling (B-12, B-13). Both flagged items were
+ruled on and ratified in qualified form, in the A-13 pattern.
+All thirteen dispositions are landed as of this section: into
+`DIALOGUE_METHOD.md`, into the E3 production brief template
+(**v5**), and into this addendum where named.
+
+| # | Amendment | Disposition / landed at |
+|---|---|---|
+| B-1 | One delivery tag per spoken line in the vehicle (model's own syntax; copied from the script's delivery intent, never invented at prompt time) | LANDED — DIALOGUE_METHOD §4 note; template §4.4 `line_delivery_tag` + §6 |
+| B-2 | The listener's mouth state is a required vehicle element ("listens silently, mouth closed" + one micro-action) | LANDED — DIALOGUE_METHOD §4 note; template §4.2 `LISTENER_STATE` + §6 |
+| B-3 | Speaking is the action — one verb per character per beat in vehicles | LANDED — template §3 Sequence Gate verb-count check + §4.4 construction note (no method landing — vehicle construction, not dialogue construction) |
+| B-4 | Name hygiene inside prompts (names only inside the line wrapper or as bound reference labels; a prompt lint joins the vehicle checks) | LANDED — DIALOGUE_METHOD §4 note; template §0 MODEL_SYNTAX notes |
+| B-5 | SPEECH_RULE gains two or three specimen lines | LANDED — DIALOGUE_METHOD Pass 3.0; template §1 `specimen_lines` + §6 |
+| B-6 | On the voice-first (TTS) route, the scene's audio is performed as ONE take | LANDED — DIALOGUE_METHOD §4 note; template §0 VOICE_ROUTE performance-granularity clause |
+| B-7 | The withheld line — every unit brief names what each speaker is avoiding saying | LANDED — DIALOGUE_METHOD Pass 3.1; template §4.3 `WITHHELD` + §6 |
+| B-8 | Draft double, cut half — the harvest has an expected cut ratio, recorded in the move ledger | LANDED — DIALOGUE_METHOD Passes 3.1/3.2; no template field (the move ledger already exists) |
+| B-9 | MODEL_SYNTAX entries carry per-model dialogue evidence (Veo ≠ Sora) | LANDED — template §0 MODEL_SYNTAX guidance; DIALOGUE_METHOD untouched (the script's form does not change, only the vehicle's rendering of it) |
+| B-10 | CONFIRMS — route-first, verbatim identity blocks, one-speaker reliability, reaction closes | CONFIRMED, no document change — recorded in the checked-and-held list below |
+| B-11 | The hanger swap test at script lock | LANDED — DIALOGUE_METHOD Pass 3.4 (HANGERS) |
+| B-12 | Comfort budgets argue for budgeting BELOW the F-25 ceiling on loaded units | **FLAGGED-AND-RATIFIED** as a budgeting rule — see below |
+| B-13 | Trained-identity routes invert the redescription rule | **FLAGGED-AND-RATIFIED** as a route split — see below |
+
+**B-12 — FLAGGED-AND-RATIFIED application distinction to F-25,
+landed by parent ruling.** The F-25 caps (16–20 words per 10s
+for one speaker) stand as **ceilings**; a unit carrying a
+REACTION entry or a second voice is henceforth **budgeted** at
+~13–15 words, the ceiling serving as headroom for the plainness
+pass only, and a loaded unit written to the ceiling must be
+defended in the brief like a NONE genre move (A-1). Evidence,
+as filed in `AMENDMENTS_2.md` B-12 from `REPORT.md`: Ambience
+AI's Seedance test generations found garbled speech tracking
+*line* length rather than clip duration (a single 21-word quote
+"dissolved into phoneme soup") at ~20 spoken words per 15-second
+clip; Dreamdrive's Veo budget is 6–12 words per 8-second clip;
+Hook Studio caps talking clips at 8s against sync drift — while
+the fit ceilings (~2.5 wps) support F-25 as a maximum that
+leaves no reaction room. **Parent reasoning:** the cap is
+arithmetic and stands — what the tested evidence governs is how
+a unit is budgeted beneath it, and a ceiling treated as a
+target is precisely how loaded units garble, so the
+ceiling/budget split is an application rule in the A-13
+pattern, not a cap change. Landed flagged as ratified on
+single-tester-plus-guide evidence: template §4.1
+ceiling-vs-budget note; DIALOGUE_METHOD §4 distinction. Camp B,
+the Container Law, and single-speaker budgeting are untouched.
+
+**B-13 — FLAGGED-AND-RATIFIED route split to the verbatim
+LOOK_BLOCK rule, landed by parent ruling.** The verbatim rule
+henceforth applies **in full on description-bound routes** —
+our current production route — and **not** on identity-bound
+routes (Soul ID / Kling Elements / Sora characters), where the
+vehicle binds the trained identity by reference and spends the
+prompt on wardrobe, action, location, camera, lighting and
+continuity constraints; a brief declares its identity mode per
+character, and identity-bound vehicles are linted for face
+redescription the way description-bound vehicles are linted for
+paraphrase. Evidence, as filed in `AMENDMENTS_2.md` B-13 from
+`REPORT.md`: "Do not repeatedly redescribe the face after
+selecting a trained identity" (media.io); Soul ID trains a
+persistent face once and carries it across every model
+(Higgsfield); Kling Elements bind face + voice from references;
+Sora characters are referenced by ID — while the opposite rule
+on plain routes is equally documented (B-10), so the
+contradiction was with the *unqualified* form of the law, not
+with the law's home route. **Parent reasoning:** the verbatim
+law was written for routes with no persistent identity, and
+where the route itself carries the face, redescription fights
+the binding — the split keeps the law at full strength on the
+route it was written for, which is our current production
+route. Landed: template §0 note + §1 `IDENTITY_MODE`
+declaration + §4.2 REFERENCE PRIORITY split + §6.
+DIALOGUE_METHOD.md is untouched by B-13 (reference law, not
+dialogue construction). Nothing here weakens
+LOOK_BLOCK_VERBATIM on description-bound routes.
+
+**Checked against the online evidence and held, unedited:**
+B-10's four confirmations — **route-first** ("Pick the route
+first, because the prompt shape is different for each one" —
+our mandatory VOICE_ROUTE declaration), **verbatim identity
+blocks** ("Do not paraphrase the identity block"; description
+"identical in every prompt"; "exactly the same in every prompt
+of an episode, word for word" — LOOK_BLOCK_VERBATIM, B-13's one
+route exception aside), **one-speaker reliability and the
+two-speaker ceiling** (Camp B / F-14), and **reaction closes**
+("end on a reaction or action"; silent beats for reactions —
+A-4's REACTION entries) — plus the wave-1 held set as re-tested
+against the online record: the **want-announcement ban** (the
+nearest field specimen, drama.so's "'I need this contract
+tonight' is a want," is a demand spoken to the counterparty
+under time pressure — want carriage in our terms; no online
+source endorses "I want X" declarations to the granting
+counterparty), the **colon form at the script layer** (held and
+strengthened — the genre's biggest disclosed tool takes scripts
+literally as "Name: line"; the online record adds the *vehicle*
+layer's wrapper, B-9, not a script change), the **Stranger
+Test** (no online source operates a plausibility gate at all;
+field QA remains captions-vs-script — the gap the test fills is
+still ours alone), and **fact spend / proof objects /
+payload-last** (nothing online contradicts them; the
+withheld-line addition, B-7, and the one-take rule, B-6, extend
+the same machinery rather than argue with it). Future challenges
+to the B-10 four must now argue against banked AND online
+evidence.
+
+**Not amended — evidence absent or refused:** **clipcraft7's
+prompts and lines** — still zero disclosure anywhere online
+(REPORT §5); no amendment is drawn from it and the wave-1
+packaging-only limit stands. **A universal dialogue syntax** —
+the evidence actively forbids one (B-9): Veo, Sora, Kling and
+Seedance each take a different documented form, and any future
+"house prompt form" proposal must argue against that record
+first. **Human micro-drama word budgets — explicitly NOT
+imported:** Oakgen's 90–130 words per 60s is a human-actor
+budget (152–170 wpm measured conversation); AI-native sources
+budget generated speech lower (REPORT L-4). The number is
+recorded here so it is never cited naked in a room.
