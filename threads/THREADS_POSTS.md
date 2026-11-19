@@ -41,3 +41,5 @@ DEDUP_STATUS: resolved
 | MV-21 | Wowie Pants That Fit | 2026-11-18 02:01 EDT | 18135480656496972 | MV-21 — "Wowie Pants That Fit" · [ARC-1 · THE ONE VIEWER] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-9 | Gotta hold it | 2026-11-18 05:02 EDT | 18102314897389875 | MV-9 — "Gotta hold it" · [ARC-3 · THE COUNT] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-2-ALT-viewing | Toll Roads Are Dumb | 2026-11-18 19:28 EDT | 18142565248729550 | Alternate Cut — MV-2 "Toll Roads Are Dumb" (viewing) · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
+
+| MV-5-ALT-lyrics | Easy now, easy now | 2026-11-18 23:47 EDT | 18350591194255982 | Alternate Take — Lyrics Version — MV-5 "Easy now, easy now" (lyrics) · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
