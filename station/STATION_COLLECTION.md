@@ -9,7 +9,7 @@ Total episodes: 69 (ST-001 … ST-069). TikTok posts in series order (ST-001 fir
 | ST-001 | The Late Announcement / The Overheard Promise | station/episodes/station_ep001_1m_16x9.mp4 | d708b352a1b61ec3f67cd604ba948856 | 59.96s | posted 2026-11-16 | posted 2026-11-16 | posted 2026-11-04 |
 | ST-002 | The Demand / The Second Warmth | station/episodes/station_ep002_1m_16x9.mp4 | be308239a8ad162004c4a10670208c22 | 59.90s | posted 2026-11-17 | posted 2026-11-16 | posted 2026-11-04 |
 | ST-003 | The Third Word, Read / The First Watch | station/episodes/station_ep003_1m_16x9.mp4 | 75a2adb994ecb19608a24f36f836377f | 60.12s | posted 2026-11-18 | posted 2026-11-17 | posted 2026-11-04 |
-| ST-004 | The First Reading / The Third Reading | station/episodes/station_ep004_1m_16x9.mp4 | 16b25e1dfb147a28a95a2b117cac19c0 | 60.12s | — | posted 2026-11-17 | posted 2026-11-04 |
+| ST-004 | The First Reading / The Third Reading | station/episodes/station_ep004_1m_16x9.mp4 | 16b25e1dfb147a28a95a2b117cac19c0 | 60.12s | posted 2026-11-19 | posted 2026-11-17 | posted 2026-11-04 |
 | ST-005 | The Fifth Reading / The First Precedent | station/episodes/station_ep005_1m_16x9.mp4 | 1321612ac140098242c769234b15606f | 60.20s | — | posted 2026-11-18 | posted 2026-11-04 |
 | ST-006 | The First Settlement / The First Recount | station/episodes/station_ep006_1m_16x9.mp4 | 4120c8e3a99bc0001d7ccfefb7afe1b2 | 60.08s | — | posted 2026-11-18 | posted 2026-11-04 |
 | ST-007 | The Keeper'S Hearing / The First Standing | station/episodes/station_ep007_1m_16x9.mp4 | d7198c5089177b5dc74689ea4eed6bf5 | 60.12s | — | posted 2026-11-19 | posted 2026-11-04 |
