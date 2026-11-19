@@ -1,0 +1,199 @@
+{
+ "file": "takes/U1_t1.mp4",
+ "head_rms_0_1.7": 0.12270509451627731,
+ "ambient_rms_0_0.5": 0.09808610379695892,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 1.17,
+    "end": 2.67,
+    "text": "That's mine! The red one!",
+    "words": [
+     {
+      "w": " That's",
+      "start": 1.17,
+      "end": 1.57
+     },
+     {
+      "w": " mine!",
+      "start": 1.57,
+      "end": 1.75
+     },
+     {
+      "w": " The",
+      "start": 1.99,
+      "end": 2.17
+     },
+     {
+      "w": " red",
+      "start": 2.17,
+      "end": 2.39
+     },
+     {
+      "w": " one!",
+      "start": 2.39,
+      "end": 2.67
+     }
+    ],
+    "seg_rms": 0.2234
+   },
+   {
+    "start": 4.63,
+    "end": 6.57,
+    "text": "It was blue 30 seconds ago.",
+    "words": [
+     {
+      "w": " It",
+      "start": 4.63,
+      "end": 5.17
+     },
+     {
+      "w": " was",
+      "start": 5.17,
+      "end": 5.29
+     },
+     {
+      "w": " blue",
+      "start": 5.29,
+      "end": 5.51
+     },
+     {
+      "w": " 30",
+      "start": 5.51,
+      "end": 5.87
+     },
+     {
+      "w": " seconds",
+      "start": 5.87,
+      "end": 6.21
+     },
+     {
+      "w": " ago.",
+      "start": 6.21,
+      "end": 6.57
+     }
+    ],
+    "seg_rms": 0.1532
+   },
+   {
+    "start": 7.97,
+    "end": 9.21,
+    "text": "Rain does that.",
+    "words": [
+     {
+      "w": " Rain",
+      "start": 7.97,
+      "end": 8.51
+     },
+     {
+      "w": " does",
+      "start": 8.51,
+      "end": 8.85
+     },
+     {
+      "w": " that.",
+      "start": 8.85,
+      "end": 9.21
+     }
+    ],
+    "seg_rms": 0.1561
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 1.17,
+    "end": 2.85,
+    "text": "That's mine! The red one!",
+    "words": [
+     {
+      "w": " That's",
+      "start": 1.17,
+      "end": 1.61
+     },
+     {
+      "w": " mine!",
+      "start": 1.61,
+      "end": 1.97
+     },
+     {
+      "w": " The",
+      "start": 2.25,
+      "end": 2.25
+     },
+     {
+      "w": " red",
+      "start": 2.25,
+      "end": 2.51
+     },
+     {
+      "w": " one!",
+      "start": 2.51,
+      "end": 2.85
+     }
+    ],
+    "seg_rms": 0.2248
+   },
+   {
+    "start": 4.49,
+    "end": 6.75,
+    "text": "It was blue 30 seconds ago.",
+    "words": [
+     {
+      "w": " It",
+      "start": 4.49,
+      "end": 5.21
+     },
+     {
+      "w": " was",
+      "start": 5.21,
+      "end": 5.37
+     },
+     {
+      "w": " blue",
+      "start": 5.37,
+      "end": 5.61
+     },
+     {
+      "w": " 30",
+      "start": 5.61,
+      "end": 6.03
+     },
+     {
+      "w": " seconds",
+      "start": 6.03,
+      "end": 6.39
+     },
+     {
+      "w": " ago.",
+      "start": 6.39,
+      "end": 6.75
+     }
+    ],
+    "seg_rms": 0.148
+   },
+   {
+    "start": 7.95,
+    "end": 9.37,
+    "text": "Rain does that.",
+    "words": [
+     {
+      "w": " Rain",
+      "start": 7.95,
+      "end": 8.67
+     },
+     {
+      "w": " does",
+      "start": 8.67,
+      "end": 9.05
+     },
+     {
+      "w": " that.",
+      "start": 9.05,
+      "end": 9.37
+     }
+    ],
+    "seg_rms": 0.1518
+   }
+  ]
+ }
+}

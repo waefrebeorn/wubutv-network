@@ -1,0 +1,199 @@
+{
+ "file": "takes/U3_t1.mp4",
+ "head_rms_0_1.7": 0.07442497462034225,
+ "ambient_rms_0_0.5": 0.013524189591407776,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 1.17,
+    "end": 3.77,
+    "text": "Red. Beach edition. Yours?",
+    "words": [
+     {
+      "w": " Red.",
+      "start": 1.17,
+      "end": 1.69
+     },
+     {
+      "w": " Beach",
+      "start": 2.33,
+      "end": 2.85
+     },
+     {
+      "w": " edition.",
+      "start": 2.85,
+      "end": 3.15
+     },
+     {
+      "w": " Yours?",
+      "start": 3.41,
+      "end": 3.77
+     }
+    ],
+    "seg_rms": 0.0956
+   },
+   {
+    "start": 5.19,
+    "end": 6.41,
+    "text": "I could make it work.",
+    "words": [
+     {
+      "w": " I",
+      "start": 5.19,
+      "end": 5.71
+     },
+     {
+      "w": " could",
+      "start": 5.71,
+      "end": 5.87
+     },
+     {
+      "w": " make",
+      "start": 5.87,
+      "end": 6.03
+     },
+     {
+      "w": " it",
+      "start": 6.03,
+      "end": 6.19
+     },
+     {
+      "w": " work.",
+      "start": 6.19,
+      "end": 6.41
+     }
+    ],
+    "seg_rms": 0.1161
+   },
+   {
+    "start": 7.53,
+    "end": 8.93,
+    "text": "That's a no with confidence.",
+    "words": [
+     {
+      "w": " That's",
+      "start": 7.53,
+      "end": 8.05
+     },
+     {
+      "w": " a",
+      "start": 8.05,
+      "end": 8.07
+     },
+     {
+      "w": " no",
+      "start": 8.07,
+      "end": 8.31
+     },
+     {
+      "w": " with",
+      "start": 8.31,
+      "end": 8.51
+     },
+     {
+      "w": " confidence.",
+      "start": 8.51,
+      "end": 8.93
+     }
+    ],
+    "seg_rms": 0.1114
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 1.17,
+    "end": 3.83,
+    "text": "Red. Beach Edition. Yours.",
+    "words": [
+     {
+      "w": " Red.",
+      "start": 1.17,
+      "end": 1.79
+     },
+     {
+      "w": " Beach",
+      "start": 2.79,
+      "end": 2.93
+     },
+     {
+      "w": " Edition.",
+      "start": 2.93,
+      "end": 3.39
+     },
+     {
+      "w": " Yours.",
+      "start": 3.65,
+      "end": 3.83
+     }
+    ],
+    "seg_rms": 0.0969
+   },
+   {
+    "start": 5.61,
+    "end": 6.61,
+    "text": "I could make it work.",
+    "words": [
+     {
+      "w": " I",
+      "start": 5.61,
+      "end": 5.81
+     },
+     {
+      "w": " could",
+      "start": 5.81,
+      "end": 5.95
+     },
+     {
+      "w": " make",
+      "start": 5.95,
+      "end": 6.15
+     },
+     {
+      "w": " it",
+      "start": 6.15,
+      "end": 6.25
+     },
+     {
+      "w": " work.",
+      "start": 6.25,
+      "end": 6.61
+     }
+    ],
+    "seg_rms": 0.137
+   },
+   {
+    "start": 7.59,
+    "end": 9.05,
+    "text": "That's a no with confidence.",
+    "words": [
+     {
+      "w": " That's",
+      "start": 7.59,
+      "end": 8.11
+     },
+     {
+      "w": " a",
+      "start": 8.11,
+      "end": 8.23
+     },
+     {
+      "w": " no",
+      "start": 8.23,
+      "end": 8.43
+     },
+     {
+      "w": " with",
+      "start": 8.43,
+      "end": 8.59
+     },
+     {
+      "w": " confidence.",
+      "start": 8.59,
+      "end": 9.05
+     }
+    ],
+    "seg_rms": 0.1103
+   }
+  ]
+ }
+}
