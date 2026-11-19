@@ -1041,3 +1041,513 @@ FIX DIRECTION FOR THE PARENT (not executed — no
 ```
 
 ## §5 — MASTER GATES: no master exists.
+
+---
+
+## §6 — PRODUCTION RESUME, v6 (session 9a09f35c, 2026-11-18)
+
+Fresh vehicles built from the v6 brief (work/vehicles_v6/).
+Vehicle-layer rules applied per R3-4 + template v5.1:
+line_delivery_tag = the brief's speech-block parentheticals,
+kept verbatim in the line wrapper · LISTENER_STATE line in
+every unit (non-speakers listen silently, mouths closed, plus
+one micro-action) · WITHHELD line per speaker per unit ·
+B-12 loaded-unit budgets (U3 11w, U5 13w, U6 13w — all inside
+the 13–15 loaded budget or under) · IDENTITY_MODE =
+description-bound: LOOK_BLOCK_VERBATIM in full in every
+vehicle · B-4 name hygiene: cast names appear ONLY inside
+the speech-block wrappers and as bound reference labels on
+the character blocks; all prose refers to characters by
+look descriptors (the woman in the forest-green work shirt /
+the chalk-hand; the woman in the long cobalt-blue coat / the
+accused; the older man in the ink-black cardigan / the
+keeper; the cook in the white apron; the peach-pink fruit
+character; the green fruit character). Meta-word scrub run
+on every pasted text (pause / beat / clause / hesitation /
+full stop / colon / says / delivery — none present).
+Carried-over proven fixes: speaker CANONICAL_FACE_REF bound
+as an image + one-of-each casting rule in words (P-10);
+late blank-board re-assertion; absence blocks in positive
+terms, late; chalk-hand flat/unsmiling assertion; closing
+tail-performance assertion block re-stating the END STATE;
+U1 one-continuous-shot lock + nobody-writes (the docket line
+is a post plate, per the TEXT RULE).
+Production calls logged by this session:
+- U4 TALLY ROWS ride the post plate with the docket line
+  (assembly), not the generation — same TEXT-RULE logic as
+  the docket line itself (all wall marks are post); the
+  brief's U4 TEXT RULE names the docket line as the plate,
+  and stroke-marks are kept out of the generator for the
+  same attractor reason the board is countermeasured.
+- U6 WRITING MOTION minimized in generation: the keeper
+  makes his one strike stroke; the chalk-hand raises her
+  chalk and holds it hovering — she forms no letters in
+  the generated shot; the true line arrives via the U6
+  plate set (struck docket line, true line, TOMORROW card),
+  per the standing TEXT RULE. The story fact (her hand
+  writes the true line) is delivered by the post layer.
+
+### §6.1 — U1 v6 t1 (takes_v6/U1_t1.mp4, md5 b20112cc85e822449a8899a4e1a0783e, 1248x704, 24fps, 240f, 10.000s) — ACCEPTED
+Vehicle: work/vehicles_v6/U1_v6.txt (images: slam3 / ANSEL2-face / WORLD).
+qc.identity: PASS — one of each character; the cook is the ANSEL2
+  man (apron, flour-dusted forearms, hair tied back); the
+  chalk-hand in the green work shirt with chalk stub; the
+  accused in the cobalt coat, bob + satchel; the keeper in the
+  ink cardigan with chalk stub; the couple at background depth
+  as round fruit characters (hers pink with the small crown +
+  veil + sash — the approved iconographic flavour, P-9; his
+  green in the chalk-blue jacket), bouquet between them.
+qc.wardrobe: PASS (all states as opened).
+qc.prop: PASS — the tin slams at frame 0, bounces (0.5s frame:
+  interior visible, empty) and rests on the counter on its
+  side, mouth open to the street; NIT: the pin says mouth up —
+  the open empty mouth reads to camera, the count's proof is
+  on screen; not a fail. The chalk-hand does not herself tip
+  the tin; the slam leaves it open and visibly empty and she
+  counts over it (the accepted U1_t2 staging had the same
+  shape). The audience-secret plant reads at background depth
+  (she presses the bouquet closed over the bouquet's contents,
+  7.5s frame).
+qc.text: PASS — six-frame sweep (0.0/0.5/2.5/5.0/7.5/9.9s):
+  wall blank, board blank in every frame, no lettering on
+  crates or anywhere else.
+qc.motion: PASS — frame 0 mid-slam, tin airborne at 0.5s;
+  motion_at_cut_in: Y.
+qc.performance: PASS — the chalk-hand flat, unsmiling in every
+  sampled frame (2.5s brow is concern, not a smile); nobody
+  writes; the keeper watches; the accused holds her hands
+  open and still.
+ASR (cross-checkpoint: large-v3 + distil-large-v3, VAD on,
+  condition_on_previous_text=False; file work/qc_v6/U1_t1_asr.json):
+  BOTH checkpoints complete and verbatim, 19/19 words —
+  "Nine went in, Ansel. Count what's left." / "Empty. Not
+  chalking thief off that." / "Hands up, courier. Show me
+  empty." missing none · extra none · garbled none.
+TAIL-DRIFT: tail matches the U1 END STATE pin (tin on-side
+  NIT noted); may anchor U2: Y — work/chain/U1v6_last.png.
+VIDEO SPEND: session 1/6 · episode v6 1/6 units.
+
+### §6.2 — U2 v6 t1 (takes_v6/U2_t1.mp4, md5 be10ef9cc73445a8b48f56d89da3910d, 1248x704, 24fps, 240f, 10.000s) — REJECTED (TEXT + PROP)
+Vehicle: work/vehicles_v6/U2_v6.txt (images: U1v6 chain / PEAK-U2 / FRUIT).
+ASR (cross-checkpoint, file work/qc_v6/U2_t1_asr.json): large-v3
+  complete and verbatim 17/17; distil-large-v3 identical except
+  the homophone "too" for "two" (orthography artifact, same
+  class as v5 U2's "Right/Write"). Speech span 1.74s→9.52s —
+  she speaks nearly the whole take. SPEECH: PASS.
+qc.identity: PASS on the cast (one of each; humans match the
+  chain frame; the Peach renders in the full princess form —
+  APPROVED, P-9, not an identity reject; the Lime on card).
+qc.text: FAIL — generated lettering on the Peach's white sash
+  from ~7.0s through the tail (legible letter-forms, zoom-
+  verified: work/qc_v6/U2t1/zoom_sash_8s.png). The princess
+  render turns the sash into a pageant sash and prints on it.
+  Generated text in a take = reject class. The board and wall
+  stayed blank in every sampled frame — the attractor moved
+  to the sash.
+qc.prop: FAIL — a SECOND bouquet appears in the Lime's hands
+  from ~7.0s through the tail (zoom-verified:
+  work/qc_v6/U2t1/zoom_lime_9s.png), while the Peach extends
+  the real bouquet one-handed toward the keeper. The unit's
+  PROOF OBJECT is one shared bouquet on one stem; the tail
+  violates the U2 END STATE pin outright and cannot anchor
+  U3. PROP-VS-LINE: the second bouquet + her one-handed hold
+  stand on screen DURING L3 ("Both hands on it. All
+  morning.", ~7.8–9.5s) — the picture contradicts the line
+  while it is spoken.
+qc.motion: the camera leaves image 1's framing (three setups:
+  wide → mid → reversed close); motion_at_cut_in: Y, but the
+  tail angle is not the pinned staging.
+TAIL-TRIM: NOT AVAILABLE — the defects begin ~7.0s, inside
+  the speech span (ends 9.52s); no compliant post-speech
+  held frame exists. The remedy's conditions are not met.
+DISPOSITION: REJECTED — never assembled; outtakes/material
+  under the standing salvage rule. The chain stops here:
+  U3–U6 NOT fired (SR1 — no valid U2 tail exists to chain
+  from). Session stops clean under the P-4 pattern: a
+  QC-failing take is a blocked-unit report for a continuation
+  session, never an in-session refire.
+REFIRE SPEC (vehicle work/vehicles_v6/U2_v6_t2.txt, built and
+  banked by this session): (1) SASH — plain-blank-sash
+  assertion in the cast block, the action block and the
+  closing Final block; FRUIT image's sash named as the match.
+  (2) ONE BOUQUET — exactly-one-bouquet law stated three
+  times; his hands stay on her stem, holding nothing else.
+  (3) CAMERA — one-continuous-shot lock in image 1's framing
+  (the U1 lock held; U2 without it wandered into coverage).
+  (4) HOLD — she holds the bouquet in BOTH hands, high, for
+  the whole shot; never one-handed, never offered toward
+  anyone (kills the L3 prop-vs-line contradiction at its
+  root). U3–U6 vehicles are also built and banked
+  (work/vehicles_v6/U3_v6.txt … U6_v6.txt), each carrying the
+  sash assertion and the one-bouquet law.
+VIDEO SPEND: session 2/6 successful (U1 ACCEPTED, U2 REJECTED)
+  · images 0 · allowance consumed 2/12 video, 0/8 image.
+STATE AT STOP: U1 v6 ACCEPTED (chain frame
+  work/chain/U1v6_last.png) · U2 OWED (t2, vehicle banked) ·
+  U3–U6 OWED (vehicles banked) · no assembly · no master.
+Resume spec: work/RESUME_V6_SESSION2.md.
+
+---
+
+## §6.3 — PRODUCTION SESSION 2, v6 (session f8d81f3b, 2026-11-19): U2 t2 — REJECTED (PROP: HOLD / PROP-VS-LINE). SESSION STOPPED AT U2 PER DISPATCH.
+
+Session 2 fired exactly one call: U2 t2 on the banked
+vehicle work/vehicles_v6/U2_v6_t2.txt (images: U1v6 chain /
+PEAK-U2 / FRUIT). Verdict below. Per the dispatch stop rule
+— U2 has now failed twice with the picture contradicting
+L3 during L3 — NO t3 was fired; U3–U6 were NOT fired (SR1:
+no valid U2 tail exists to chain from). The episode is NOT
+delivered; no master exists. Resume spec for the parent:
+work/RESUME_V6_SESSION3.md.
+
+### U2 v6 t2 (takes_v6/U2_t2.mp4, md5 89714160291d23c011c6eb4e5be2cb7e, 1280x720 native, 24fps, 240f, 10.000s) — REJECTED (PROP)
+
+Vehicle: work/vehicles_v6/U2_v6_t2.txt (the session-1
+refire build, carrying fixes (1)–(4)).
+ASR (cross-checkpoint: large-v3 + distil-large-v3, VAD on,
+  condition_on_previous_text=False; file
+  work/qc_v6/U2_t2_asr.json): large-v3 complete and
+  verbatim 17/17 — "Us next, Watcher." / "Us two have held
+  this bouquet since dawn." / "Both hands on it. All
+  morning!" distil identical except the homophone "too"
+  for "two" (orthography artifact, same class as before).
+  Speech span 2.22s→9.54s; L3 span 6.82s→9.54s.
+  SPEECH: PASS — the v6 dialogue has now performed
+  perfectly in all three fired v6 units (53/53 words).
+qc.identity: PASS — one of each character; the humans
+  match the chain frame; the Peach renders in the full
+  princess form — APPROVED, P-9, not an identity reject;
+  the Lime on card (chalk-blue jacket, bow tie).
+qc.text: PASS — fix (1) HELD IN FULL. The sash is plain
+  blank cloth in every sampled frame (0.0/2.5/5.0/6.0/7.0/
+  7.5/8.0/9.0/9.9s) and zoom-verified at 8s
+  (work/qc_v6/U2t2/zoom_sash_8s.png): white cloth, green
+  edge, no letters, no words, no print. Wall and hanging
+  board blank in every frame. The pageant-sash attractor
+  is beaten.
+qc.prop (second bouquet): PASS — fix (2) HELD in its
+  letter: exactly ONE bouquet exists in the whole shot;
+  the Lime holds nothing else at any sampled time.
+qc.prop (the HOLD): FAIL — fix (4) DID NOT HOLD. She
+  holds the bouquet in both hands at her chest through
+  ~6.0s (frames 0.0–6.0), then swings it out ONE-HANDED
+  and holds it extended toward the chalk-hand from ~7.0s
+  through the tail (frames 7.0/7.5/8.0/9.0/9.9 — arm fully
+  extended, bouquet offered out at arm's length). The
+  Lime's hands are off the stem from ~5.0s on, clasped at
+  his waist. This violates the vehicle's hold law, its
+  closing block, and the U2 END STATE pin outright.
+  PROP-VS-LINE: the one-handed extension covers the
+  ENTIRE span of L3 (6.82s→9.54s, "Both hands on it. All
+  morning.") — the picture contradicts the line while it
+  is spoken. This is the same failure class as t1's PROP
+  kill (§6.2: "the second bouquet + her one-handed hold
+  stand on screen DURING L3") — t1's one-handed hold is
+  repeated exactly; only the second bouquet is gone.
+qc.motion / camera: fix (3) held only in part — no cut is
+  visible in the sampled frames, but the camera pushes in
+  from image 1's locked wide framing to a couple
+  foreground shot by ~5.0s and stays there; the tail
+  framing is not image 1's framing.
+TAIL-DRIFT: tail violates the U2 END STATE pin; may
+  anchor U3: N (U3's staging presupposes the shared
+  two-handed hold this tail never reaches).
+TAIL-TRIM: NOT AVAILABLE — the defect spans L3 itself
+  (speech), not a post-speech tail; no compliant frame
+  exists inside the line's span to hold.
+DISPOSITION: REJECTED — never assembled; outtakes/
+  material under the standing salvage rule. The chain
+  stops at U2 for the second time.
+DIAGNOSIS FOR THE PARENT (design problem, not a wording
+  problem): two of the four t2 fixes held completely —
+  the sash TEXT attractor (assertion ×3 loci + FRUIT sash
+  named as match) and the second bouquet (one-bouquet law
+  ×3). The hold failed at the same dramatic beat in both
+  takes: at the sworn line, the model converts "claim" into
+  a PRESENTING gesture — bouquet thrust out one-handed
+  toward the addressee. Triple-stated text assertions did
+  not restrain it; the gesture appears to be the model's
+  staging for a sworn claim at foreground depth (in U1,
+  at background depth, the shared hold read correctly in
+  the tail of both the v5-accepted and v6-accepted U1).
+  Candidate routes, for the parent to rule on (recorded
+  in work/RESUME_V6_SESSION3.md): (a) keep the couple at
+  background/mid depth for the whole unit — the claim
+  played across the street in the locked wide, no
+  step-forward (the U1 staging; the failure grows as she
+  comes forward — the P-8 pattern); (b) re-block so the
+  extension is impossible by construction — bouquet
+  pressed to her chest with both forearms, couple held at
+  the queue mark, demand carried by voice and grin only;
+  (c) a timed resolve (extension during L1–L2, two-handed
+  hold restored before L3) — fragile, model-timed, NOT
+  recommended without a ruling.
+VIDEO SPEND: session 2: 1 video (U2 t2, rejected) ·
+  images 0. Session allowance consumed 1/10 video, 0/4
+  image — the stop is the dispatch rule, not the budget.
+STATE AT STOP: U1 v6 ACCEPTED (chain frame
+  work/chain/U1v6_last.png) · U2 OWED (t3 needs a parent
+  ruling on staging) · U3–U6 OWED (vehicles banked,
+  work/vehicles_v6/U3_v6.txt … U6_v6.txt) · no assembly ·
+  no master · no flag.
+
+## §6.4 — PRODUCTION SESSION 3, v6 (session 29a99b57, 2026-11-19): U2 t3 — REJECTED (PERFORMANCE: listener-state). R3-5 STAGING PROVEN — THE HOLD HELD.
+
+Session 3 executed parent ruling R3-5: U2 t3 built from
+the t2 vehicle (work/vehicles_v6/U2_v6_t3.txt) with the
+sash + one-bouquet blocks verbatim and the staging moved
+to BACKGROUND DEPTH (couple never steps forward; locked
+wide in image 1's framing; bouquet settled at her chest;
+gesture class negated explicitly). One call fired
+(images: U1v6 chain / PEAK-U2 / FRUIT).
+
+### U2 v6 t3 (takes_v6/U2_t3.mp4, md5 cb6b12526456dbfffe8d951b9964c566, 1248x704, 24fps, 240f, 10.000s) — REJECTED (PERFORMANCE)
+
+ASR (cross-checkpoint: large-v3 + distil-large-v3, VAD on,
+  condition_on_previous_text=False; file
+  work/qc_v6/U2_t3_asr.json): large-v3 complete and
+  verbatim 17/17; distil identical except the homophone
+  "too" for "two" (orthography artifact, same class as
+  before). Speech span 2.00s→9.52s; L3 span 6.76s→9.52s.
+  SPEECH: PASS — the v6 dialogue has now performed
+  perfectly in all four fired v6 units (70/70 words).
+qc.identity: PASS — one of each character; humans match
+  the chain frame; the Peach in the approved princess
+  form (P-9); the Lime on card.
+qc.text: PASS — the sash is plain blank cloth in every
+  sampled frame and zoom-verified at 8s inside L3
+  (work/qc_v6/U2t3/zoom_couple_8s.png); wall and board
+  blank throughout. The t2 sash fix holds in t3.
+qc.prop (bouquet + HOLD): PASS — R3-5 IS PROVEN. The
+  couple stays at U1-tail background depth for the whole
+  unit (frames 0.0/2.5/5.0/7.0/7.5/8.0/9.0/9.5/9.9); the
+  camera never pushes in; the bouquet rests settled at
+  her chest with BOTH her hands wrapped on the stem in
+  every sampled frame, zooms at 8.0s and 9.5s included;
+  she never raises, extends, offers, presents or swings
+  it; exactly ONE bouquet exists in the shot. The
+  presenting gesture that killed t1 and t2 does not
+  occur at background depth. NIT: at this depth the
+  Lime's hands do not read as distinctly on the stem
+  (he holds nothing else; the shared hold reads as the
+  bouquet between them, her two hands on it — the
+  picture nowhere contradicts L3).
+qc.prop (tin): NIT — the tin-over-palm beat reads at
+  2.5s, but the held tin's set-down is not readable and
+  from ~7.0s the counter carries only a flat round disc
+  where the tin stood; the tail's tin state degrades.
+qc.motion / camera: PASS — one locked wide in image 1's
+  framing for the full ten seconds; no cut, no push-in
+  (t2's camera failure also fixed by R3-5).
+qc.performance: FAIL — the model moved the animation
+  into the foreground. From ~7.5s through ~9.2s, INSIDE
+  L3's span (6.76s→9.52s), the chalk-hand performs an
+  animated open-mouth reaction in the foreground: shrug
+  with mouth open (7.5s), broad smile with mouth open,
+  palms up toward the cook (8.0s), mouth open in an "O"
+  (9.0s) — speech-like mouth motion by a non-speaker
+  under the sworn line, against the vehicle's listener
+  law (mouths closed, lips do not move) and a direct
+  speaker-attribution hazard: the episode's other
+  designed voice visibly "talking" through the Peach's
+  line. The cook compounds it in the tail: smiling at
+  9.0s, laughing with head back at 9.9s — the deadpan
+  law ("everyone else is deadpan") broken. Frames:
+  work/qc_v6/U2t3/f_7.5.png, f_8.0.png, f_9.0.png,
+  f_9.9.png.
+TAIL-TRIM: NOT AVAILABLE — the performance defect spans
+  L3 itself (speech), not a post-speech tail.
+DISPOSITION: REJECTED — never assembled; outtakes/
+  material under the standing salvage rule. The chain
+  stops at U2 a third time — but on a NEW class: the
+  R3-5 question is answered (background depth holds the
+  hold); what remains is foreground listener discipline.
+REFIRE (t4, this session, under the dispatch allowance —
+  the dispatch's no-t4 condition was scoped to a HOLD
+  failure, which did not occur): vehicle
+  work/vehicles_v6/U2_v6_t4.txt = the t3 vehicle verbatim
+  (R3-5 staging, sash, one-bouquet all proven) plus a
+  foreground-stillness block (the four humans frozen in
+  listening stillness, faces flat, mouths closed, no
+  smile, no laugh, no shrug, no gesture, for the full
+  ten seconds), the listener paragraph hardened, and the
+  tin's set-down pinned (tin stays open on the counter
+  for the rest of the shot). If t4 fails, the unit stops
+  for the parent — no t5 on session authority.
+VIDEO SPEND: session 3: 1 video so far (U2 t3, rejected)
+  · images 0.
+
+### §6.5 — U2 v6 t4 (takes_v6/U2_t4.mp4, md5 e7eb8b8c6611d7a26a0e62c8d877f8f5, 1248x704, 24fps, 240f, 10.000s) — REJECTED (CAMERA/STAGING + PERFORMANCE). SESSION 3 STOPS AT U2.
+
+Vehicle: work/vehicles_v6/U2_v6_t4.txt (the t3 vehicle
+verbatim + foreground-stillness block + hardened listener
+paragraph + pinned tin set-down).
+ASR (cross-checkpoint; file work/qc_v6/U2_t4_asr.json):
+  large-v3 complete and verbatim 17/17; distil identical
+  except the "too" homophone. Speech span 2.64s→9.72s;
+  L3 span 7.16s→9.72s. SPEECH: PASS — 87/87 words across
+  all five fired v6 units; no v6 failure has ever
+  implicated a line.
+qc.identity: PASS — one of each; princess form approved
+  (P-9).
+qc.text: PASS — sash blank (visible at 7.5s/8.5s/9.9s,
+  plain white cloth, no print); wall and board blank.
+qc.prop (bouquet + hold): PASS in itself — at the tail
+  she holds the bouquet at her chest with both hands,
+  one bouquet only; the presenting gesture does not
+  occur.
+qc.motion / camera: FAIL — the take OPENS on image 1's
+  framing (0.0s: couple at background depth) but the
+  camera then reframes and pushes in; by 7.5s the couple
+  stands at FOREGROUND depth, large in frame, Ansel
+  cropped out at frame left, the counter and tin out of
+  frame. This is a direct breach of ruling R3-5's terms
+  (locked wide at U1-tail depth for the whole unit) —
+  the P-8 depth pattern returning in its camera form.
+  The tail cannot anchor U3 under the ruled staging.
+qc.performance: FAIL — the stillness block did not hold
+  either: the chalk-hand smiles broadly with mouth open
+  at 8.5s, INSIDE L3 (7.16s→9.72s), and is still smiling
+  up at the keeper in the tail (9.9s). A non-speaker's
+  animated face under the sworn line, second take
+  running (frames work/qc_v6/U2t4/f_8.5.png, f_9.9.png).
+TAIL-TRIM: NOT AVAILABLE — both defects span the speech.
+DISPOSITION: REJECTED — never assembled; outtakes/
+  material. Per the session's logged commitment (§6.4),
+  the unit now stops for the parent — no t5 on session
+  authority.
+DIAGNOSIS FOR THE PARENT: the two failure modes
+  ALTERNATE. t3 (depth lock only): staging + hold held;
+  the foreground animated. t4 (depth lock + stillness
+  block): the depth lock itself broke and the foreground
+  animated anyway. Working hypothesis: assertion
+  competition — each added law block dilutes the rest;
+  the model's reaction drive seeks the largest faces and
+  one of the two laws loses per take. The sash fix's
+  proven shape was ONE law stated at THREE loci
+  including the closing Final block; neither the depth
+  lock nor the stillness law has yet had that shape.
+  Candidate routes are recorded in
+  work/RESUME_V6_SESSION4.md.
+VIDEO SPEND: session 3: 2 video (U2 t3 + t4, both
+  rejected) · images 0. Episode v6 total: 5 video,
+  1 unit accepted.
+STATE AT STOP: U1 v6 ACCEPTED (chain frame
+  work/chain/U1v6_last.png) · U2 OWED (four takes
+  rejected on four distinct classes: TEXT+PROP,
+  PROP-hold, PERFORMANCE-listener, CAMERA+PERFORMANCE)
+  · U3–U6 OWED (vehicles banked) · no assembly ·
+  no master · no flag.
+
+## 6.6 U2 t5 (session 4, under parent ruling R3-6) — REJECTED (PROP count + PERFORMANCE listener + SPEECH extra)
+
+- Take: takes_v6/U2_t5.mp4 · md5 7e36abe47dd0477f1c8c0b5fd1e9db43 · native 1248x704, 240f, 10.000s.
+- Vehicle: work/vehicles_v6/U2_v6_t5.txt (8,879 chars) — built from t3 per R3-6: depth lock AND foreground-stillness law each at THREE loci (header/camera block, cast/listener block, closing Final block); sash + one-bouquet blocks carried VERBATIM from t3; nothing else added.
+- Images, in order: work/chain/U1v6_last.png · panels/PNL-PEAK-U2-tinoverpalm.png · panels/PNL-CHAR-FRUIT-16x9.png.
+- ASR (dual checkpoint, work/qc_v6/U2_t5_asr.json): large-v3 "Coins in. Us next, Watcher. | Us two have held this bouquet since dawn. Both hands on it. All morning." — the three scripted lines are 17/17 verbatim, BUT an unscripted voiced fragment "Coins in." sounds at 0.69-1.43s, before L1 (2.35s). Both checkpoints transcribe it identically; RMS in the span is 0.13-0.16 against a 0.02 ambient floor — real voiced audio, not a hallucination over the tin sounds. SPEECH: extra_words = Y. (distil reads "too" for "two" — checkpoint noise, as before.) v6's clean run ends here: 87/87 scripted words still verbatim across five fired units, but t5 carries the first extra words of the v6 chain. The fragment's speaker cannot be attributed from the 1.0s/1.5s frames (all foreground mouths closed at those samples).
+- L3 ASR span on this take: 7.17-9.71s. The defects below sit inside it and through the tail.
+- WHAT HELD (fourth consecutive take): DEPTH LOCK — camera locked in image 1's wide for the full 10s; the couple stays at background depth in every sample 0.0-9.9s; nobody steps forward. HOLD — the bouquet rests settled and still at the Peach's chest, both her hands on the stem, the Lime's hands on the same stem under hers, in every sample; the presenting gesture is dead at background depth. SASH blank in every sample. TEXT: board and wall blank in every sample; the paper on the door zoom-reads blank/illegible (work/qc_v6/U2t5/zoom_wallpaper_5s.png). R3-5 staging is now 4-for-4 on the couple's own behaviour.
+- KILL 1 — PROP (count), the t1 class returning in a new carrier: from ~7.5s a SECOND bouquet — a full bunch of white roses — is in the COURIER's hands at foreground, clasped two-handed at her waist/chest, and it stays there through 8.0, 8.5, 9.0, 9.5 and the 9.9s tail (zoom: work/qc_v6/U2t5/zoom_courier_8s.png). Two bouquets in frame for the whole of L3's second half and the tail, while the Peach swears "Both hands on it. All morning." about the one at her own chest. The one-bouquet law's assertions named the Lime as the second-bouquet carrier (t1's failure); the model found an unasserted carrier.
+- KILL 2 — PERFORMANCE (listener), the t3 class in the same new carrier: the Courier animates through L3 — slight smile 6.5-7.0s, smiling down at the bouquet 7.5s, mouth WIDE OPEN in a laugh/speech shape at 8.0s (zoom), broad smile 8.5s, open "O" mouth 9.0s, speaking-shaped lips 9.5s, broad smile at 9.9s. Speech-like mouth motion by a non-speaker inside L3 and the tail — the attribution hazard in its full form. Secondary: the Watcher's mouth is open at 5.0-5.5s during the coin press (inside L2); no extra words transcribe there, recorded as a stillness breach in the letter, not a kill on its own.
+- SESSION 4 VERDICT: U2 t5 REJECTED on PROP + PERFORMANCE + SPEECH. R3-6's route (b) pre-authorization is scoped to a listener-performance failure SPECIFICALLY; t5 also failed on prop regression — an enumerated stop class in R3-6 — and on speech. Per R3-6 the session STOPS for a fresh parent ruling. Route (b) NOT fired. No t6. U3-U6 not fired. Session spend: 1 video, 0 image. Episode v6 total: 6 video, 1 unit accepted (U1). No assembly, no master, no flag.
+- Pattern across five U2 takes: every take fails exactly where the previous take's assertions did not reach — sash (fixed), Lime's second bouquet (fixed), the hold at foreground depth (fixed by staging), the foreground chalk-hand (t3), the depth lock under a single-locus stillness law (t4), and now the Courier as bouquet-carrier + reactor (t5). The couple, the depth, the hold, the sash and the board are all SOLVED. The unsolved surface is the foreground cast as a whole: the model's animation drive and its prop drive both migrate to whichever foreground figure the current vehicle leaves ungoverned.
+
+## 6.7 U2 t6 (session 5, under parent ruling R3-7) — REJECTED (HOLD regression + PROP new carrier + PERFORMANCE new carrier)
+
+- Take: takes_v6/U2_t6.mp4, md5 3bfaedbab23c7ed6a6b3c90300bd0603, 1248x704, 24fps, 240f, 10.000s. Vehicle: work/vehicles_v6/U2_v6_t6.txt (10,451 B) — the t5 vehicle plus ONLY the four R3-7 changes, parent-diff-verified before firing. Refs: U1 last frame + U1 take (identical to t5).
+- ASR (dual checkpoint, work/qc_v6/U2_t6_asr.json): large-v3 — L1+L2 at 0.78-5.88s, L3 at 6.92-9.48s, 17/17 scripted words verbatim, ZERO extra words. distil-large-v3 agrees in substance ("too" for "two" = known checkpoint noise). Speech span 0.78-9.48s; L3 span 6.92-9.48s.
+- HEAD CHECK (R3-7 item 4) — PASS, the t5 speech defect is dead: no segment before L1 on either checkpoint; RMS 0-0.78s = 0.0051, identical to the 0-0.5s ambient (0.0052); voice energy begins exactly at L1's onset (RMS 0.78-1.7s = 0.0934). No "Coins in." fragment, no pre-L1 voice of any kind.
+- R3-7 NAMED-HAND LAW — HELD IN FULL at its named locus: the Courier's hands are EMPTY in every sample 0.0-9.9s (frames + zooms, work/qc_v6/U2t6/). No bouquet, no flowers, no object ever reaches her; her open-hands display closes early (hands down at her sides by 2.5s, on/near the satchel strap thereafter) and stays closed through L3 and the tail. The one bouquet in frame is the Peach's, throughout. R3-7 items 1+2 worked exactly as designed.
+- ALSO HELD: DEPTH LOCK + CAMERA (locked wide, couple at background depth in all samples). SASH blank in all samples (couple zooms). BOARD/WALL blank; Laura's chalk is raised to the wall in writing posture by 7.5s forming NO letters. ANSEL's held task rendered (head down over the counter, counting on his fingers). The Peach's own two hands are on the bouquet at 2.5s and again at 9.9s.
+- KILL 1 — HOLD (regression of the class R3-5 solved): the Lime's hands are NOT on the stem in any zoomed sample (2.5 / 5.0 / 7.5 / 9.9s, work/qc_v6/U2t6/couple_strip.png) — he stands beside the Peach with his hands clasped in front of his own body or at his sides for the whole shot. And the bouquet leaves the Peach's chest mid-shot: at 5.0s it hangs one-handed at her hip while her free hand gestures (inside L2); at 7.5s it is still one-handed at her side (inside L3, while she swears "Both hands on it. All morning."). The couple's assertions in t6 are byte-identical to t5's, where the hold read correctly in all 17 samples — this is a stochastic regression of a previously held behaviour, not an assertion gap.
+- KILL 2 — PROP (the migration, new carrier: LAURA): the tin is DOUBLED. One tin stands on the counter as staged; a SECOND tin is in Laura's hands from ~4.0s through ~6.0s (strip: work/qc_v6/U2t6/laura_hands.png) — she holds it in her palm, tilts it, looks into it, turns it, inside L2's span. The Courier's tin-over-palm demonstration never occurs: the model reassigned the tin beat to the chalk-hand and duplicated the prop to do it. Laura's route-(b) held task (chalk raised, writing posture) renders only later in the shot (7.5s+); mid-shot her occupation was overwritten by the migrated beat.
+- KILL 3 — PERFORMANCE (listener; the migration, new carrier: THE WATCHER): the Watcher holds a broad, wide-eyed grin through L3 — samples 8.0, 8.5, 9.0, 9.5s (work/qc_v6/U2t6/faces_L3tail.png) — and through the tail at 9.9s. He is a foreground non-speaker animating a reaction inside the claim span: the t3/t5 class, in the one foreground figure R3-7 left under the class-level stillness law alone. SECONDARY: the Courier's face, flat through 8.5s, takes a slight closed-lip smile at 9.0s (inside L3 by 0.48s) broadening to a grin at 9.9s (tail) — recorded as a minor echo, not the t5 shape (no open mouth, no speech-shape, hands clean throughout).
+- TAIL-TRIM PRECEDENT — NOT APPLICABLE: t6's kills sit inside the speech spans (hold at 5.0/7.5s, tin at 4.0-6.0s, Watcher grin from <=8.0s inside L3 6.92-9.48s), not in the post-speech tail.
+- SESSION 5 VERDICT: U2 t6 REJECTED on HOLD + PROP + PERFORMANCE. STOP-RULE ADJUDICATION under R3-7: rule (a) (Courier class again) — NOT cleanly triggered: R3-7's named-hand law held in full and the head-silence law held; the Courier carries no kill. Rule (b) (NEW carrier) — TRIGGERED TWICE (PROP to Laura, PERFORMANCE to the Watcher), plus a stochastic HOLD regression on identical assertions. Per R3-7 the session STOPS for a fresh parent ruling; the migration pattern itself is the ruling question. No t7 fired. U3-U6 not fired. Session spend: 1 video, 0 image. Episode v6 total: 7 video, 1 unit accepted (U1). No assembly, no master, no flag.
+- Pattern across SIX U2 takes, updated: every named law has held at its named locus in the take that carried it (sash t2+, one-bouquet-vs-Lime t3+, depth t3+, Courier hands t6, head silence t6). Every failure lands on (i) the least-governed figure remaining in frame, or (ii) a stochastic regression of a behaviour identical wording held one take earlier (the hold, t6). The frame holds FIVE figures, three with beats, in one locked wide; governance has been added figure by figure for four sessions and the failure surface has not shrunk — it has moved. Session 5's candidate routes for the parent are in work/RESUME_V6_SESSION6.md.
+
+## 6.8 U2 t7 (session 6, under parent ruling R3-8) — REJECTED (CASTING/POPULATION + PROP + DEPTH + HOLD). SESSION STOPPED PER R3-8 — BOTH STOP RULES TRIGGERED.
+
+- Take: takes_v6/U2_t7.mp4 · md5 65a06d9c3db23106e3b46af2a0b43456 · native 1248x704, 240f, 10.000s.
+- Vehicle: work/vehicles_v6/U2_v6_t7.txt (10,560 B) — built from t6 per R3-8: RE-BLOCKED to a tighter claim tableau (the couple + the Courier the only governed population; Laura, the Watcher and Ansel out of frame); every carried law at three loci for the in-frame figures only (the couple's two-handed hold, both figures named; the Courier's named-hand law + beat closed by staging, the display restaged as open hands above the counter; head silence; camera locked on the new composition; sash/wall blank; the tin named counter property at three loci — on the counter, in no hand, never lifted). Two staging-driven changes recorded: (1) refs reduced to two images (U1 last frame + PNL-CHAR-FRUIT-16x9) — the U2 peak panel PNL-PEAK-U2-tinoverpalm.png was DROPPED because it depicts the tin tipped in a hand, the exact behaviour the re-block restaged away; (2) Laura not used even as an edge back — full exclusion per R3-8's primary route.
+- ASR (dual checkpoint, work/qc_v6/U2_t7_asr.json): large-v3, one segment 0.43–8.71s — all three scripted lines, 17/17 verbatim, ZERO extra words. distil-large-v3 agrees in substance ("too" for "two" = known checkpoint noise). Spans: L1 ≈0.43–2.03s, L2 ≈2.93–5.87s, L3 ≈6.65–8.85s. No v6 take has ever failed a scripted line; the failure is entirely picture-side, again.
+- HEAD CHECK (R3-7 pattern): no unscripted pre-L1 voice — the t5 "Coins in." class stays dead (the 0–1.7s RMS of 0.0779 is L1's own energy; ambient 0–0.5s = 0.0102). BUT L1 itself lands at 0.43s, so the claim starts almost at the head and the empty-hands display overlaps it instead of closing first. Recorded as a staging note under Kill 1, not a speech defect.
+- WHAT HELD: the Peach's own two hands wrapped on the bouquet in every sample; exactly ONE bouquet; the sash blank (white, green edge, no print) in every sample; the wall blank in every sample; the scripted speech 17/17 with zero extra words; the foreground woman's face flat, mouth closed, no reaction animation — her performance is clean. She is simply the wrong person.
+- KILL 1 — CASTING / POPULATION (the re-block inverted): the frame's principal figure is LAURA — forest-green work shirt with two chest pockets, low ponytail, satchel strap across her body — in every sample (work/qc_v6/U2t7/f_0.png, f_2.5.png, f_5.png, f_7.5.png, f_9.9.png). She performs the accused woman's empty-hands display (raised open palms at 0.0s). The COURIER (black bob, straight fringe, cobalt-blue coat) — a governed figure under R3-8 — appears NOWHERE in the take. The re-block excluded the chalk-hand from the framing; the model cast her as the accused instead. The one figure the frame removed became its lead.
+- KILL 2 — PROP (the migration; same carrier, second consecutive take): the tin is in Laura's hands / held at her waist at the counter's edge in every standard sample — 2.5, 5.0, 7.5, 9.9s (zooms: work/qc_v6/U2t7/zoom_tin_2.5.png, zoom_tin_5.png, zoom_tin_7.5.png, zoom_tin_9.9.png; clearest at 2.5s) — inside L1, L2, L3 and the tail. It never stands free and untouched on the counter as staged. t6's Kill 2 (the tin doubled into Laura's hands) repeats, singled: the prop migrated to the same pair of hands the re-block tried to remove from the unit.
+- KILL 3 — DEPTH (the R3-5 law, collapsed by the re-block): the couple plays at FOREGROUND depth, large in frame, within arm's reach of the counter — not down the street at image 1's depth in any sample (couple zooms: work/qc_v6/U2t7/zoom_couple_*.png). The tighter framing collapsed the depth separation the claim's staging depended on since R3-5.
+- KILL 4 — HOLD (stop-rule (a)'s class): the Lime's hands are clasped together in front of his own body in every standard sample and every couple zoom — never on the stem — inside L1, L2, L3 and the tail, while the Peach swears "Both hands on it. All morning." The Peach's half of the hold held in full; his half never engaged. The same hold component that killed t6 (his hands off the stem), now at foreground depth.
+- SECONDARY (no kill carried): a small distant figure stands far down the street at frame right in the 2.5s and 5.0s samples — a far-background extra with no beat, no prop, no reaction; recorded as a composition deviation. At 9.9s the foreground woman's eyes are closed, face downturned — inside the tail of an already-rejected take.
+- TAIL-TRIM PRECEDENT — NOT APPLICABLE: every kill spans the whole shot, all speech spans included.
+- SESSION 6 VERDICT: U2 t7 REJECTED on CASTING/POPULATION + PROP + DEPTH + HOLD. STOP-RULE ADJUDICATION under R3-8: rule (a) TRIGGERED — the couple's hold failed again (the Lime's hands off the stem in every sample), this time with the full assertion budget spent on a reduced population. Rule (b) TRIGGERED in substance — the failure carrier sits entirely outside the governed set: the excluded chalk-hand, cast as the accused and handed the migrated tin for the second consecutive take, while a governed figure (the Courier) is absent from the take. Per R3-8 the session STOPS: no t8 of either frame shape — the parent rules on a picture-side remedy (composite or script-side staging). U3–U6 not fired. Session spend: 1 video, 0 image. Episode v6 total: 8 video, 1 unit accepted (U1). No assembly, no master, no flag.
+- Pattern across SEVEN U2 takes, updated: the five-figure wide failed by migration to its least-governed figure (t5, t6); the three-figure tight frame failed by recasting — the model restored the excluded figure as the lead, handed her the migrated prop a second time, and collapsed the depth the staging needed (t7). Both frame shapes are now falsified for this unit as single generations: the wide cannot be governed figure-by-figure, and the tight frame cannot hold its population or its depth. What has NEVER failed in seven takes: the scripted speech (17/17 verbatim on every U2 take; the chain's only speech defect remains t5's extra-words fragment), the sash, the one-bouquet count, the blank wall/board, and the Peach's own two-handed hold. The unsolved surface is the Lime's hands, and any staging that requires a specific second figure to be somewhere specific doing something specific.
+
+## SESSION 7 (SHIP SESSION, under parent ruling R3-9 — FAIL ONCE, THEN SHIP)
+
+## 6.9 U2 — SETTLED BY R3-9 (no session-7 judgement)
+U2 ships as takes_v6/U2_t3.mp4 (md5 cb6b12526456dbfffe8d951b9964c566). Disclosed defects per R3-9: (1) PERFORMANCE — foreground chalk-hand's animated open-mouth reaction inside L3; (2) PERFORMANCE — the cook laughs in the tail. Speech 17/17 verbatim, zero extra words (§6.4 record). Chain frame for U3: work/chain/U2v6_last.png (extracted from t3 frame 239 by session 7).
+
+## 6.10 U3 t1 (session 7) — ACCEPTED with disclosed nits (no refire spent)
+- Take: takes_v6/U3_t1.mp4 · md5 6e77ed38d0863b181f7d52d1be7dcf6e · 1248x704, 240f, 10.000s. Vehicle: work/vehicles_v6/U3_v6.txt (meta-word audit by session 7: no speakable meta-words found in U3–U6 vehicles; dialogue tags match the proven U1/U2 pattern). Refs: work/chain/U2v6_last.png · panels/PNL-PEAK-U3-hands.png · panels/PNL-CHAR-LAURA-face-e2.png.
+- ASR (dual checkpoint, work/qc_v6/U3_t1_asr.json): large-v3 "Go on, point, Peach. Pointing's not holding." 2.32–4.96s + "Courier, yours stay up." 6.76–8.20s; distil agrees in substance. 11/11 scripted words verbatim, ZERO extra words. HEAD CHECK PASS: no voice segment before 2.32s on either checkpoint — the scripted 2.0s held gap reads (head RMS 0.0166 ≈ ambient 0.0146, street noise only).
+- qc.identity: PASS — one of each; Laura green work shirt + low ponytail; Courier cobalt coat, black bob, satchel; Ansel apron + tied-back hair; Watcher ink cardigan; Peach (veil, crown, blank sash) + Lime (chalk-blue jacket, bow tie) as the approved fruit forms.
+- qc.text: PASS on named surfaces — wall blank, hanging board blank in every sample. NIT: the yellow crates carry illegible print-texture smudges (no readable word) — disclosed.
+- qc.prop: tin open in the Courier's hands at the head, set down open on the counter by ~2.5s, stays there. Bouquet sags low. NIT: in the laugh frames the bouquet is held by the Lime alone — the Peach's hand is off it, pointing (pin wants one hand of each) — disclosed.
+- qc.performance: the Courier's hands stay raised, open, empty and motionless through the tail — rendered as palms resting flat on the wall rather than held open facing the street (staging variant, disclosed). Laura flat and unsmiling throughout. The Peach laughs and points on her beat.
+- qc.motion/camera: the shot reframes mid-shot from the wide to a closer two-shot for the second half (no camera lock was demanded by this vehicle; recorded as drift, disclosed). Motion at cut-in: Y (street alive at frame 0).
+- JOINT J2 (U2→U3): world, wardrobe and light match; the scripted awning swap (bone→cobalt) reads. DEVIATION: the couple plays at foreground depth at frame right in U3 where U2's tail held them at background depth — disclosed. The chain continues from U3's own tail (work/chain/U3v6_last.png).
+- VERDICT: ACCEPTED under R3-9 (no hard kill class; deviations are staging-grade and disclosed above). Refire NOT spent.
+
+## 6.11 U4 t1 (session 7) — ACCEPTED with disclosed nits (no refire spent)
+- Take: takes_v6/U4_t1.mp4 · md5 a684eb7bf4fabc94cc4a6f523e5f8f2d · 1248x704, 240f, 10.000s. Vehicle: work/vehicles_v6/U4_v6.txt (banked session-9 draft, carried as-is; board countermeasure present at all three loci). Refs: work/chain/U3v6_last.png · panels/PNL-PEAK-U4-naming.png · panels/PNL-CHAR-LAURA-face-e2.png · panels/PNL-WORLD-market-wall.png.
+- ASR (dual checkpoint, work/qc_v6/U4_t1_asr.json): both checkpoints read the single line 4.08–8.68s: "Her hands stayed up, Peach. So what's in yours? Besides flowers?" — 11/11 scripted words verbatim, ZERO extra words.
+- qc.text: PASS — the hanging sign board is BLANK in every sample (0.0/2.5/5.0/7.5/9.9s): the three-layer board countermeasure HELD on the first v6 firing (v5's "COURIER"/"ANSEL" lettering did not recur); the standing board-reframe refire rule is NOT triggered. Wall blank; sash blank. NIT: illegible print-texture smudges on the yellow crates (no readable word) — disclosed.
+- qc.identity: PASS — one of each; Laura, Courier (palms at the wall, hands raised/open/empty throughout), Ansel jabbing at the tin, Watcher watching Laura, the couple with fixed grins.
+- qc.prop/performance: tin open and empty on the counter, Ansel's finger jabbing at it; bouquet low and stem bent at the head and through the tail. NIT: the bouquet is briefly lifted toward chest height mid-shot (~2.5s) before settling low again — disclosed. Laura flat; her mouth moves only inside the ASR span.
+- JOINT J3 (U3→U4): continuous — same closer wall framing, same couple depth (foreground right), same light; the chain is internally consistent from U3 onward.
+- VERDICT: ACCEPTED under R3-9. Refire NOT spent. Chain frame: work/chain/U4v6_last.png.
+
+## 6.12 U5 t1 (session 7) — FAILED on PROP (coin count); the unit's ONE refire spent on t2
+- Take: takes_v6/U5_t1.mp4 · md5 dc5a77a004766555fe305724407627c5 · 1248x704, 240f, 10.000s. Vehicle: work/vehicles_v6/U5_v6.txt. Refs: work/chain/U4v6_last.png · panels/PNL-PEAK-U5-spill.png · panels/PNL-CHAR-FRUIT-16x9.png.
+- ASR (dual checkpoint, work/qc_v6/U5_t1_asr.json; tooling note: /tmp/asr_dual.py was lost mid-session — rebuilt durably at ~/workspace/tools/asr_dual.py, PCM-array input path, same output schema): both checkpoints read the three lines as one span 3.54–9.00s: "There's your nine. Peach, yours pointed. Three of them in the drain. Gone." — 13/13 scripted words verbatim, ZERO extra words. HEAD CHECK PASS: no voice before 3.54s (head RMS 0.0145 ≈ ambient 0.0125) — the 2.0s held gap holds.
+- qc.event: the bell hangs in the upper frame and cracks; the Lime copies the point with both hands raised open beside his head; the bouquet drops to the cobbles and coins spill; a slotted storm drain sits at frame right with coins beside it; the Courier's raised hands never move; the Peach's grin stays fixed.
+- qc.prop — THE FAILURE: coin zooms at 6.0s and 9.9s (work/qc_v6/U5t1/zoom_coins_*.png) show roughly a dozen or more pale discs scattered around the fallen bouquet — visibly MORE than the pinned nine in total / six on the cobbles, and pale-bright rather than dull. The spoken claim "There's your nine" is not true in the picture. Named defect class: PROP (coin count).
+- Secondary deviations (disclosed, not the refire target): the camera reframes wider mid-shot despite the vehicle's locked-shot law; the Lime's raised hands come down before the tail (pin wants them still raised); the Peach does not crouch-grab at the coins in the tail.
+- qc.text: wall blank, board blank (pale bare wood in the tail frames), sash blank. Identity: PASS.
+- VERDICT: FAIL (PROP). Refire t2 fired with coin-count law strengthened at three loci in work/vehicles_v6/U5_v6_t2.txt (small handful / countable scatter / Final-block count restatement); nothing else changed.
+
+## 6.13 U5 t2 (session 7, the unit's one refire) — SHIPS AS U5'S BEST TAKE, defects disclosed
+- Take: takes_v6/U5_t2.mp4 · md5 1eacc9cea3a1bcb4628675a0ade374da · 1248x704, 240f, 10.000s. Vehicle: work/vehicles_v6/U5_v6_t2.txt (coin-count law strengthened at three loci; nothing else changed). Same refs as t1.
+- ASR (dual checkpoint, work/qc_v6/U5_t2_asr.json): large-v3 "There's your nine. Peach, yours pointed." 2.96–5.96s + "Three of them in the drain. Gone." 7.30–9.28s; distil agrees. 13/13 scripted words verbatim, ZERO extra words. HEAD CHECK PASS: no voice before 2.96s (head RMS 0.0136 ≈ ambient 0.0112).
+- qc.event/performance: the pinned beats land better than t1 — the Peach points and laughs, the Lime copies with both hands and lets go, the bouquet drops, the Peach CROUCHES over the spilled coins grabbing too late (the pinned tail), the cook leans over the counter staring at the drain, the Lime stands with empty hands, the Courier's raised hands never move, one continuous framing throughout.
+- DISCLOSED DEFECTS (ship under R3-9): (1) PROP — the coin count is improved (tighter scatter, ~11 visible in the 9.9s zoom) but still not the pinned exactly-six on the cobbles, and the coins render gold-toned rather than plain; the spoken "nine" remains an approximation in the picture. (2) TEXT — one background yellow crate carries readable print ("PRODUCE") in the tail frames; wall, board and sash stay blank.
+- CHOICE: t2 ships over t1 — it matches the pinned end state (crouch-grab, cook at the drain, drain at the counter's base, single locked framing) where t1 reframed mid-shot and left the Peach standing; t1 is retained in takes_v6 as the alternate. Chain frame: work/chain/U5v6_last.png (from t2).
+
+## 6.14 U6 t1 (session 7) — FAILED on TEXT (board attractor, plaque form); the unit's ONE refire spent on t2
+- Take: takes_v6/U6_t1.mp4 · md5 f233a2387cfdc3ff9ee15e6e1c929125 · 1248x704, 240f, 10.000s. Vehicle: work/vehicles_v6/U6_v6.txt. Refs: work/chain/U5v6_last.png · panels/PNL-PEAK-U6-hover.png · panels/PNL-CHAR-LAURA-face-e2.png · panels/PNL-WALL2-closeup-16x9.png.
+- ASR (dual checkpoint, work/qc_v6/U6_t1_asr.json): large-v3 "Not yet, Peach, not on the board. It goes to the street tomorrow." 1.68–8.26s; distil agrees in two segments. 13/13 scripted words verbatim, ZERO extra words. Speech PASS.
+- qc.text — THE FAILURE: a wooden plaque fixed to the door carries readable chalk lettering "THE ACCUSED WOMAN" (full-frame check at 9.9s, work/qc_v6/U6t1/f_9.9.png) — the hanging-board TEXT attractor in plaque form, despite the vehicle's blank assertions. The keeper's strike also renders as chalk scratch marks on the bare brick and a squiggle on the door. Named defect class: TEXT.
+- qc.event (otherwise strong): the strike, the coin handoff (a flour-dusted hand offers coins at the counter), the Peach reaching toward Laura's hovering chalk, the held tail on Laura at the wall. The Courier's hands read lowered in the tail frames.
+- VERDICT: FAIL (TEXT). Refire t2 fired under the standing board rule with the BOARD-FREE REFRAME: work/vehicles_v6/U6_v6_t2.txt removes the board/plaque from the set at all four loci (world, header, blank-assertion block, Final block) — nothing hangs on the wall anywhere in the shot. No third board attempt after this.
+
+## 6.15 U6 t2 (session 7, the unit's one refire) — SHIPS AS U6'S BEST TAKE, defects disclosed
+- Take: takes_v6/U6_t2.mp4 · md5 5f825bf9e783319b89b7f4ede23882ec · 1248x704, 240f, 10.000s. Vehicle: work/vehicles_v6/U6_v6_t2.txt (board-free reframe). Same refs as t1.
+- ASR (dual checkpoint, work/qc_v6/U6_t2_asr.json): both checkpoints read the two lines 2.19–6.27s: "Not yet, Peach. Not on the board. It goes to the street tomorrow." — 13/13 scripted words verbatim, ZERO extra words.
+- qc.text: the board-free reframe WORKED — no plaque, no board, no label on the wall or door in any sample; the wall is bare brick throughout. RESIDUAL (disclosed): one background yellow crate at the frame's bottom edge in the tail carries readable print ("PRODU…", the same crate-print family disclosed on U5 t2); the keeper's strike renders as chalk scratch strokes on the bare brick (pre-plate field; the struck docket plate is composited over this wall in assembly).
+- qc.event: fee coin handed back at the counter in the opening; the strike at the wall; Laura's chalk raised and hovering at the wall; the Peach reaching toward the hovering chalk; the held tail — the cook with coins in his palm, the Courier's hands lowered at last, Laura at the wall. NIT (disclosed): in the 2.0s sample the chalking figure at the wall wears the cobalt coat (the strike's hand is misattributed in that beat); the freeze is approximate rather than a hard freeze.
+- CHOICE: t2 ships over t1 — t1's readable "THE ACCUSED WOMAN" plaque is a hard TEXT failure; t2 removes it entirely. t1 retained in takes_v6 as the alternate.
+- SESSION 7 UNIT LEDGER (final): U1 = U1_t1 (accepted S1) · U2 = U2_t3 (R3-9) · U3 = U3_t1 · U4 = U4_t1 · U5 = U5_t2 · U6 = U6_t2. Session-7 spend: 6 video (U3,U4,U5,U6 first takes + U5,U6 refires), 0 image — inside the 8+2 allowance, no 429 hit.
+
+## 6.16 MASTER GATES (session 7) — run in full, recorded in full; under R3-9 gates DISCLOSE rather than block
+Master: masters/E3_hold-on_16x9.mp4 · md5 1ac601e1935c88201082ae0a54fa4b73 · 24,267,029 bytes.
+Assembly record: six conformed segments (work/assembly_v6/U1–U6_seg.mp4, each exactly 240f at 1280x720) with PIL chalk plates per BRIEF (U1–U5: the docket line "SHE HELD MY TIN. MY COINS ARE GONE."; U6: docket-only to frame 83, then the struck docket + "HANDS OPEN. COINS LOOSE." + "TOMORROW: THE NAME HE WON'T WRITE." from frame 84). First join (concat demuxer) carried a progressive A/V timestamp drift (+26ms per joint from segment audio padding) — caught at the pre-encode probe and rebuilt with the concat FILTER (per-segment atrim + setpts): joined.mp4 verified BEFORE the master encode at exactly 1440f / 60.000000s, zero start offsets. Master encode: single uninterrupted pass, CRF 18, bug overlay, loudnorm (measured joined -21.55 LUFS / TP -0.52 -> linear to -18 LUFS, TP -2, matching the ONE SHORT E3 master's -18.17), AAC 48k 192k, faststart. (Two earlier encode attempts were discarded pre-delivery for audio-tail/duration defects — structural fixes only, no picture change.) Final probe, end to end: video 1440 frames, 60.000000s, 1280x720, 24fps, start 0; format duration 60.000000s. CRF PROOF BY SIZE DIFFERENTIAL (SEI string not used — unreliable on this ffmpeg build): the same joined file at CRF 23 = 12,250,360 bytes; master at CRF 18 = 24,267,029 bytes = 1.98x.
+- F-9 (speaker-attributed transcript, dual checkpoint on the MASTER's audio, work/qc_v6/MASTER_asr.json): U1 LAURA "Nine went in, Ansel. Count what's left." / "Empty. Not chalking thief off that." / "Hands up, Courier. Show me empty." [picture: the cook's accusation at the counter, the tin shown empty, the Courier's hands rising] · U2 THE PEACH "Us next, Watcher." / "Us two have held this bouquet since dawn." / "Both hands on it. All morning." [picture: the couple's sworn claim, bouquet held high between them] · U3 LAURA "Go on, point, Peach. Pointing's not holding." / "Courier, yours stay up." [picture: the laugh and point, the Courier's hands staying up] · U4 LAURA "Her hands stayed up, Peach. So what's in yours, besides flowers?" [picture: Laura between accuser and accused, eyes to the bouquet] · U5 LAURA "There's your nine." / "Peach — yours pointed." / "Three of them in the drain. Gone." [picture: bell, drop, spill, drain] · U6 LAURA "Not yet, Peach. Not on the board." / "It goes to the street tomorrow." [picture: the strike, the returned coins, the hovering chalk]. 84/84 scripted words on both checkpoints in substance, ZERO unscripted words, no speech in any head or tail (last word ends 56.45s; the freeze tail is clean on both checkpoints — no hallucinated tail). One checkpoint split: distil reads U2's "too" where large-v3 reads the scripted "two" — adjudicated to the script (homophone). Speaker names only in this transcript. F-9: PASS.
+- EAR-TEST (cold listen of the master's own audio, ASR-mediated + segment RMS): every line intelligible and in script order; no prompt-leak phrase anywhere; no wrong-speaker segment (each unit carries exactly its one designed speaker — Camp B holds across the master); levels healthy (segment RMS 0.08–0.25, no clipping, no dead air inside units). EAR-TEST: PASS on the evidence available to this session; the user's playback verdict remains the authority above it.
+- GATE (f) COLD RUN + ZHE MUTED TEST (sound and subtitles off; six unit samples + poster read cold, work/qc_v6/master/sheet.png): the story reads from pictures alone — accusation at the counter -> the tin shown empty over an open palm -> hands up at the wall while the couple laughs and points -> the naming question turned on the bouquet -> the drop and spill at the drain -> the verdict chalked and struck on the wall, the name withheld. GATE (f): PASS. ZHE: PASS.
+- BLAM (measured on the master): A1 onset t50 = 0.10s (PASS, <=0.5s) / t90 = 1.95s (FAIL vs <=1.5s — disclosed; the opening is speech-dense from 0.1s but the 90% rise to the head's peak lands on a later burst). A2 dead head = 0.0s (PASS). A3 head level within 5.8 dB of the episode median (PASS, borderline). A4 not measured (no control pair exists for this master). V1 opening motion = 0.46x the sampled baseline (FAIL vs >=0.6x — disclosed; the baseline intervals straddle unit cuts and are cut-inflated, but the opening tableau is comparatively still either way). V2 no ramp-from-rest: PASS (frame 0 is a live, populated street, Ansel mid-accusation). E1 named impact <=1.0s: PASS (the accusation and the tin are on screen and audible from ~0.1s). E2 n/a (not a montage format).
+- WORDMARK SWEEP: the corner bug reads exactly "~ WuBu ~" in gold serif, bottom-right, verified at head (5s) and tail (59.9s) frames. The only other text in the master is the PIL plates (by design) and the disclosed generated crate prints (U5/U6). WORDMARK: PASS.
+- MASTER STRANGER TEST (script-lock pass stands; judged at master under the Q2 Camp B clarification): Laura's want — clear the Courier by moving the street's eyes from her hands to the bouquet — is recoverable from behaviour and pressure alone; no line exists only to inform the audience. PASS (floor).
+- POSTER_FRAME: masters/E3_hold-on_poster.png (master 49s — Laura pointing down at the spill, the Peach crouched over the fallen bouquet, the open tin on the counter, the docket on the wall). PASS.
+- WIN-MECHANISMS PREFLIGHT (retrospective conformance, research_notes/win-mechanisms-20261118/PREFLIGHT_CHECKLIST.md): A arithmetic PASS (84 words, Camp B one speaker per unit, 6 of 8 calls used) · B script-facts PASS on the prompt side (absence blocks + end-state pins in every vehicle; real text = PIL plates only) with generation-side leakage DISCLOSED (crate print on the shipped U5/U6 takes) · C bindings PASS (chain frames + speaker faces bound; Ansel on the ANSEL2 set) · D lint PASS (session-7 manual meta-word scan of U3–U6 vehicles: clean) · E speech block PASS · F panels settled at pre-pro PASS.
+- DISCLOSED MASTER-LEVEL FLAWS (ship under R3-9): BLAM A1-t90 and V1 as measured above; the per-unit disclosed defects at 6.9–6.15 (U2's two R3-9 performance defects; U3's staging nits; U4's bouquet lift; U5's coin count ~11 visible and gold-toned + crate print; U6's crate print, strike-scratch field, one misattributed chalking beat, approximate freeze, and the plate stack's position switch at 3.5s). No structural defect: duration, frames, audio, sync and file integrity all verified.
+- DELIVERY: master masters/E3_hold-on_16x9.mp4 (md5 1ac601e1935c88201082ae0a54fa4b73); chat copy masters/E3_hold-on_chat.mp4 (byte-identical copy, 24.27 MB <= 50 MB, fresh filename); poster masters/E3_hold-on_poster.png; E3_DELIVERED.flag at the episode root; COMPLETION.json at the episode root. Session-7 spend FINAL: 6 video generations, 0 image generations (allowance 8 + 2; no 429 encountered).

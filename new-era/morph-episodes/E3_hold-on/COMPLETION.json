@@ -1,89 +1,129 @@
 {
- "job": "hold-on-e3-redialogue-room",
- "date": "2026-11-18",
- "scope": "SCRIPT WORK ONLY \u2014 re-dialogue HOLD ON E3 Part 1 under the rebuilt dialogue method + case-study amendments A-1..A-13, template v4. Zero generations.",
- "script_version": "v6 (repair round 3 standing text)",
- "deliverables": {
-  "SCRIPT.md": {
-   "md5": "caa866d88369df1f556f83784dfd9ba3"
+ "chat_copy": {
+  "bytes": 24267029,
+  "md5": "1ac601e1935c88201082ae0a54fa4b73",
+  "note": "byte-identical copy of the master under a fresh filename; 24.27 MB <= 50 MB",
+  "path": "masters/E3_hold-on_chat.mp4"
+ },
+ "commits": "none \u2014 parent commits",
+ "date": "2026-11-19",
+ "flag": "E3_DELIVERED.flag",
+ "gate_log": "work/GATE_LOG.md sections 6.9-6.16",
+ "gates": {
+  "F-9": "PASS \u2014 84/84 words dual-checkpoint on the master's own audio, speaker-attributed, zero extra words, no hallucinated tail (work/qc_v6/MASTER_asr.json)",
+  "blam": {
+   "A1_t50": "PASS (0.10s)",
+   "A1_t90": "FAIL disclosed (1.95s vs <=1.5s)",
+   "A2": "PASS (0.0s)",
+   "A3": "PASS borderline (5.8 dB vs <=6 dB)",
+   "A4": "not measured (no control pair)",
+   "E1": "PASS (accusation + tin on screen and audible from ~0.1s)",
+   "E2": "n/a (not montage)",
+   "V1": "FAIL disclosed (0.46x vs >=0.6x; baseline cut-inflated, opening tableau comparatively still regardless)",
+   "V2": "PASS"
   },
-  "BRIEF.md": {
-   "md5": "02de460deb37b7a44e75f6058ac1ddfd",
-   "note": "rebuilt by filling template v4; section 6 grep contract run \u2014 all labels present; joint chain verified verbatim (5/5)"
+  "ear_test": "PASS (ASR-mediated cold listen of the master's audio; user's playback verdict remains the authority)",
+  "gate_f_cold_run": "PASS \u2014 story reads from the finished master",
+  "master_stranger_test": "PASS (floor, under the Q2 Camp B clarification)",
+  "poster_frame": "PASS",
+  "structural": "PASS \u2014 1440f / 60.000s / sync verified; no structural fix outstanding",
+  "win_mechanisms_preflight_retrospective": "PASS with generation-side crate-print leakage disclosed (U5/U6)",
+  "wordmark": "PASS \u2014 '~ WuBu ~' exact, head and tail frames",
+  "zhe_muted": "PASS \u2014 accusation -> empty-tin proof -> hands up -> naming -> spill -> wall verdict, all recoverable muted"
+ },
+ "job": "HOLD ON E3 Part 1 v6 SHIP SESSION (session 7)",
+ "job_id": "7eb836d2-27b3-c1e2-37a5-620c53e999fe",
+ "master": {
+  "audio": "AAC 48kHz 192k, loudnorm linear to -18 LUFS / TP -2 (joined measured -21.55 LUFS)",
+  "bytes": 24267029,
+  "corner_bug": "~ WuBu ~ gold serif bottom-right, verified head and tail",
+  "duration_s": 60.0,
+  "faststart": true,
+  "fps": 24,
+  "frames": 1440,
+  "height": 720,
+  "joined_verified_before_encode": "work/assembly_v6/joined.mp4 exactly 1440f / 60.000000s = 6 x 240f segment sum, zero start offsets",
+  "md5": "1ac601e1935c88201082ae0a54fa4b73",
+  "path": "masters/E3_hold-on_16x9.mp4",
+  "video": "h264 CRF 18 (proven by size differential: CRF23 encode of the same joined file = 12,250,360 bytes; ratio 1.98x; SEI string not used)",
+  "width": 1280
+ },
+ "poster": "masters/E3_hold-on_poster.png (master 49s, U5 settled spill)",
+ "ruling": "R3-9 (FAIL ONCE, THEN SHIP) \u2014 gates disclose rather than block",
+ "speech_totals": "84/84 scripted words across all six units on dual-checkpoint ASR (per-take and on the master); zero unscripted words anywhere",
+ "spend": {
+  "allowance": {
+   "image": 2,
+   "video": 8
   },
-  "RUNNING_BRIEF.md": {
-   "md5": "0272ac5919cc38848e50c12fd4dba53d"
+  "image_generations": 0,
+  "rate_limit_hit": false,
+  "video_generations": 6
+ },
+ "supersedes": "session-6 COMPLETION.json (pre-ship state record; its facts live on in work/GATE_LOG.md and work/RESUME_V6_SESSION7.md)",
+ "units": [
+  {
+   "disclosed_defects": [],
+   "md5": "b20112cc85e822449a8899a4e1a0783e",
+   "status": "accepted (session 1)",
+   "take": "takes_v6/U1_t1.mp4",
+   "unit": "U1"
   },
-  "GATE_LOG.md": {
-   "md5": "d93b3fcaa8b770324a0cfcfe9e075f8d",
-   "note": "v6 section E appended; v5 sections A-D untouched"
+  {
+   "disclosed_defects": [
+    "PERFORMANCE: foreground chalk-hand's animated open-mouth reaction inside L3",
+    "PERFORMANCE: the cook laughs in the tail"
+   ],
+   "md5": "cb6b12526456dbfffe8d951b9964c566",
+   "status": "ships per R3-9 (not re-judged)",
+   "take": "takes_v6/U2_t3.mp4",
+   "unit": "U2"
   },
-  "DECISION_LOG.md": {
-   "md5": "b113c6cbf821b09e6e17105cb7dc567a",
-   "note": "re-dialogue section appended with per-unit rationale and rulings R2-1..R2-5"
+  {
+   "disclosed_defects": [
+    "joint J2: couple plays at foreground depth where U2's tail held them at background depth",
+    "bouquet held by the Lime alone in the laugh frames (pin: one hand of each)",
+    "Courier's raised hands rest palms-flat on the wall rather than held open facing the street",
+    "mid-shot reframing from the wide to a closer two-shot",
+    "illegible print-texture smudges on the yellow crates (no readable word)"
+   ],
+   "md5": "6e77ed38d0863b181f7d52d1be7dcf6e",
+   "status": "accepted, refire not spent",
+   "take": "takes_v6/U3_t1.mp4",
+   "unit": "U3"
   },
-  "work/BANTER_DRAFT_V6.md": {
-   "md5": "d3a0e6eeda41c0f327ef932a7b2770a0",
-   "note": "banter transcripts + repair rounds TU-R1, TU-R2, TU-R3"
+  {
+   "disclosed_defects": [
+    "bouquet briefly lifted toward chest height mid-shot (~2.5s) before settling low",
+    "illegible print-texture smudges on the yellow crates (no readable word)"
+   ],
+   "md5": "a684eb7bf4fabc94cc4a6f523e5f8f2d",
+   "status": "accepted, refire not spent (board countermeasure held: board blank in every sample)",
+   "take": "takes_v6/U4_t1.mp4",
+   "unit": "U4"
   },
-  "GATE_E_INPUT_V6.md": {
-   "md5": "9c97e26da431c81b817c0ad5bcbe568b",
-   "note": "RUN 4 input (standing text); per-run inputs preserved as work/GATE_E_INPUT_V6_RUN1..RUN3.md"
+  {
+   "disclosed_defects": [
+    "PROP: ~11 coins visible on the cobbles vs the pinned exactly six (improved from t1's ~13-15); coins render gold-toned rather than plain; the spoken 'nine' remains an approximation in the picture",
+    "TEXT: one background yellow crate carries readable print ('PRODUCE') in the tail frames; wall, board and sash blank"
+   ],
+   "md5": "1eacc9cea3a1bcb4628675a0ade374da",
+   "status": "best take ships after the unit's one refire (t1 failed on PROP coin count; t1 retained as alternate)",
+   "take": "takes_v6/U5_t2.mp4",
+   "unit": "U5"
   },
-  "work/STRANGER_INPUT_V6.md": {
-   "md5": "6ca74503c951f3afbe7d2c4e7bbd7831"
+  {
+   "disclosed_defects": [
+    "TEXT (residual): one background crate at the frame's bottom edge in the tail carries readable print ('PRODU...'); no plaque, board or label anywhere",
+    "the keeper's strike renders as chalk scratch/scrawl strokes on the bare brick (pre-plate field)",
+    "in the 2.0s sample the chalking figure at the wall wears the cobalt coat (strike beat misattributed)",
+    "the closing freeze is approximate rather than a hard freeze",
+    "plate compromise: the U6 plate stack switches position at 3.5s with the camera's travel and sits in the frame's upper wall area rather than over the strike scratches"
+   ],
+   "md5": "5f825bf9e783319b89b7f4ede23882ec",
+   "status": "best take ships after the unit's one refire (t1 failed on TEXT: readable 'THE ACCUSED WOMAN' plaque; t2's board-free reframe removed it; t1 retained as alternate)",
+   "take": "takes_v6/U6_t2.mp4",
+   "unit": "U6"
   }
- },
- "gate_records": {
-  "work/COLD_GATES_VERDICT_V6.md": "RUN 1 \u2014 hear PASS, Gate E 12/12",
-  "work/COLD_GATES_VERDICT_V6_RUN2.md": "RUN 2 \u2014 hear PASS, Gate E 11/12 (Q4)",
-  "work/COLD_GATES_VERDICT_V6_RUN3.md": "RUN 3 \u2014 hear PASS, Gate E 12/12",
-  "work/COLD_GATES_VERDICT_V6_RUN4.md": {
-   "md5": "d2d7c83b512d294ce5dd69cbba79f9ce",
-   "verdict": "standing text \u2014 hear PASS, Gate E 12/12"
-  },
-  "work/STRANGER_TEST_V6.md": "RUN 1 \u2014 FAIL",
-  "work/STRANGER_TEST_V6_RUN2.md": "RUN 2 reader A \u2014 FAIL (reader B concurred; its in-place record was overwritten by that reader and survives in its session transcript)",
-  "work/STRANGER_TEST_V6_RUN3.md": "RUN 3 \u2014 FAIL",
-  "work/STRANGER_TEST_V6_RUN4.md": {
-   "md5": "388af73ff9a47544f451f6d99adc72bf",
-   "verdict": "standing text \u2014 FAIL"
-  }
- },
- "gate_results": {
-  "hear_before_it_moves": "PASS \u2014 zero stumbles in all five cold readings (RUN 1-4 + duplicate RUN 2)",
-  "gate_e": "PASS \u2014 12/12 on the standing text (RUN 4); RUN 1 12/12, RUN 2 11/12 x2 (Q4 appointment technicality, repaired), RUN 3 12/12",
-  "stranger_test": "FAIL \u2014 standing after three repair rounds (5 readings: Q1 PASS and Q4 retell accurate in all; failures on STAGE counts with a migrating flag set, and doubly-orphaned FILED exchanges at chair-turns/verdict chain). Escalated to parent as a method-level question; script delivered UNLOCKED on this gate alone. Full record: GATE_LOG.md section E, BRIEF.md Pass 3.7."
- },
- "word_counts_per_unit": {
-  "U1": 19,
-  "U2": 17,
-  "U3": 11,
-  "U4": 11,
-  "U5": 13,
-  "U6": 13,
-  "total": 84,
-  "lines": 14
- },
- "implied_rates_wps": {
-  "U1": 2.22,
-  "U2": 1.97,
-  "U3": 1.71,
-  "U4": 1.21,
-  "U5": 1.93,
-  "U6": 2.15
- },
- "flagged_story_fact_proposals": [],
- "story_fact_presentation_rulings": [
-  "Courier's 400-bell record: spoken spend retired after three cold-reader flags in three forms; fact, numeral (RUNNING_BRIEF) and payoff intact, spent in picture as wall tally rows (DECISION_LOG R2-1). Not a story-fact change."
- ],
- "production_consequence": "Banked takes U1_t2, U2_t1, U3_seg carry condemned v5 dialogue and match no v6 line; panels built against v5 timing. Disposition is the parent's call at production resume. takes/, panels/, masters/ untouched by this room.",
- "preserved": {
-  "work/COMPLETION_production_s8.json": "the prior production COMPLETION.json (job holdon-e3-s8, verdict BLOCKED_AT_U4_TAKE_QC), preserved before this file replaced it"
- },
- "video_spend": 0,
- "images_spend": 0,
- "generations": 0,
- "committed": false,
- "note": "Parent commits. Production resumes only on the parent's order."
+ ]
 }

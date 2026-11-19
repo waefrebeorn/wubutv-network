@@ -600,3 +600,210 @@ size/position-named closing blank assertion, board-free
 fallback with STOP-and-recommend) carries into the resume
 unchanged. The U3 tail-trim precedent stands for any
 post-speech tail defect against a pinned held tableau.
+R3-5 (U2 staging, ruled 2026-11-19 ~00:25 EST after
+session 2's ruled stop): route (a) BACKGROUND-DEPTH
+STAGING is adopted for U2 t3. Evidence: the presenting-
+gesture failure (bouquet thrust one-handed toward the
+addressee through L3, Lime's hands off the stem) occurred
+in BOTH U2 takes at foreground depth despite triple-
+stated hold assertions — text cannot restrain it there.
+The same shared two-handed hold read correctly at
+background depth in BOTH accepted U1 takes (v5 and v6).
+Terms: the couple never steps forward; the unit plays
+across the street inside image 1's locked wide at U1-tail
+depth; the bouquet rests settled and still at chest/
+stomach height, both her hands on the stem, the Lime's
+hands on the stem with hers; the vehicle negates the
+gesture class explicitly (never raises, extends, offers,
+presents or swings the bouquet toward anyone). Route (b)
+chest-pin is NOT adopted (unproven; a crossed-forearms
+clutch changes the picture's meaning from open claim to
+defensive hold). Route (c) timed resolve is rejected
+(line timing is model-set; both sessions recommend
+against). The t2 vehicle's sash and one-bouquet blocks
+carry into the t3 vehicle VERBATIM — both fixes are
+proven (sash blank in every sampled frame; exactly one
+bouquet). QC zooms on the sash AND on both characters'
+hands inside L3's ASR-timed span. If t3 fails on the
+hold again at background depth, the unit stops for a
+fresh parent ruling — no t4 on session authority.
+
+## R3-6 — U2 ROUTE FOR SESSION 4 (parent ruling, 2026-11-19 ~01:05 EST, on session 3's stop)
+
+Session 3 answered R3-5: background-depth staging is PROVEN.
+In t3 the bouquet rests two-handed at her chest through the
+whole of L3, camera locked in image 1's wide — the presenting
+gesture is dead, and the sash and one-bouquet laws held in
+both t3 and t4. The hold problem is solved at depth. What
+killed t3 is a NEW class: PERFORMANCE (listener-state) — the
+foreground chalk-hand's animated open-mouth reaction inside
+L3's span, the cook laughing in the tail. What killed t4 is
+the stillness block added as a single assertion while the
+camera reframed to foreground depth anyway (breaching R3-5)
+and the chalk-hand smiled inside L3 regardless. Session 3's
+hypothesis: assertion competition — each added law dilutes
+the others; neither the depth lock nor the stillness law has
+yet been given the sash fix's proven shape (one law, three
+loci, closing block included). The parent ADOPTS that
+hypothesis as the ruling basis: every law that has been
+stated in the three-loci shape (sash, one-bouquet) has held
+in every take since; every law stated in fewer loci has
+failed at least once.
+
+RULING — route (a) is ADOPTED as primary: U2 t5 is built
+from work/vehicles_v6/U2_v6_t3.txt with BOTH the depth lock
+AND the foreground-stillness law each stated at three loci
+(header/camera block, cast/listener block, closing Final
+block), and NOTHING else added. The stillness law's scope
+covers the whole unit, tail included: while the couple
+speaks, every foreground figure stays still — mouths closed,
+no reaction animation, no laughing; eyes may watch. The
+sash and one-bouquet blocks carry over VERBATIM.
+
+Route (b) is PRE-AUTHORIZED as the in-session fallback if
+t5 fails on the listener-performance class specifically:
+re-block the foreground with held physical tasks (the
+chalk-hand at the wall, chalk raised to the board in writing
+posture, forming no letters; the cook counting on his
+fingers over the counter) — occupation over assertion. If
+t5 fails on any OTHER class (depth, hold, text, prop
+regression), or if the (b) take also fails, session 4 STOPS
+for a fresh parent ruling. Route (c) (accept t3 by overrule)
+is REJECTED: a designed speaker's mouth in speech-like
+motion under the other speaker's sworn line is the
+attribution hazard itself. Route (d) is held in reserve.
+
+QC for U2 takes in session 4: the §6 pattern plus zooms on
+the sash AND both fruit characters' hands inside L3's
+ASR-timed span, plus a dedicated foreground-face sweep at
+0.5s intervals across the full speech span and tail (the
+listener defect lives between the standard samples).
+
+Context note: msg 704's "after this firing" — session 3 was
+that firing, and it has ended. Session 4 is picture-side
+completion of a LOCKED script (dialogue 87/87 across five
+fired units; no v6 failure has ever implicated a line); no
+new writing occurs under it. The writing rework ordered by
+msg 704 proceeds as its own workstream in parallel.
+
+## R3-7 (parent ruling, 2026-11-19 ~01:55 EST) — U2 t6: name the last carrier; close her beat
+
+Session 4 executed R3-6 as written and stopped correctly: t5 held EVERY law aimed at the
+couple (depth lock, two-handed hold, blank sash, blank board — R3-5 staging now 4-for-4) and
+failed on the one figure the vehicle never governed by name: the foreground COURIER — a second
+bouquet materialized in her hands from ~7.5s, she animated a laugh/speech-shaped mouth through
+L3 and the tail, and an unscripted voiced fragment ("Coins in.", 0.69–1.43s, dual-checkpoint,
+RMS-verified) preceded L1. Scripted lines 17/17 verbatim again (v6 chain: 87/87, plus this
+first extra-words defect).
+
+Evidence read: across five U2 takes, every law stated at three loci about a NAMED locus has
+held (sash, board, the Lime's bouquet, depth, the couple's hold). The stillness law stated at
+CLASS level ("every human in the foreground") did not bind — the model's prop and animation
+drives migrated to the least-governed figure, and in t5 to the most story-adjacent one: the
+accused woman, whose empty-hands beat opens the unit and whose beat the model "completed" by
+handing her the bouquet and a reaction to the claim about it.
+
+RULING — U2 t6 = the t5 vehicle with ONLY these changes (nothing else added, nothing removed):
+1. NAMED-HAND LAW at three loci (header/camera block, cast block, closing Final block) for the
+   Courier specifically: her hands are EMPTY for the whole shot — holding nothing, no bouquet,
+   no flowers, no object passes to her; the episode's only bouquet is the one at the Peach's
+   chest. (Extends the absence-assertion pattern to the last unasserted carrier, per name.)
+2. BEAT CLOSED BY STAGING (session-4 candidate (b)): the Courier's empty-hands display is
+   played and ENDED before the Peach's claim begins — by the claim span her hands are DOWN,
+   resting on her satchel strap at her side, and they stay there through the tail. There is no
+   open beat left for the model to complete during the sworn line.
+3. ROUTE (b) HELD TASKS for the remaining foreground figures (chalk-hand at the wall in
+   writing posture forming NO letters; the cook counting on his fingers) — as pre-designed in
+   R3-6, now fired as part of this combined remedy.
+4. HEAD SILENCE: no voice sounds before the Peach's first line; the unit opens in room tone
+   only. (The "Coins in." fragment is the chain's first extra-words defect; the head is a
+   locus and gets its assertion.)
+
+NOT route (c): re-blocking the Courier out of frame would break the accepted U1 frame's cast
+geometry and the chain; (a)+(b) attack the proven mechanism directly. If t6 fails on the
+Courier class again, STOP — the fallback is (c), ruled on fresh. If t6 fails on a NEW carrier,
+STOP and report — the migration pattern itself then becomes the ruling question.
+
+QC: the §6 pattern unchanged (frames + zooms on spoken-about objects inside their ASR spans +
+0.5s foreground-face sweep across speech span AND tail), PLUS a head check: ASR + RMS over
+0–1.7s specifically, adjudicating any pre-L1 voice energy. On U2 acceptance, the session
+proceeds through U3–U6, conform, PIL plates, ONE assembly pass, the full master-gate stack
+and delivery exactly as specified in RESUME_V6_SESSION5.md §§1–9.
+
+## R3-8 (parent ruling, 2026-11-19 ~02:45 EST) — U2 t7: RE-BLOCK. Fewer figures, not more law
+
+Session 5's t6 record (GATE_LOG §6.7) completes the experiment R3-5..R3-7 ran:
+every named law has now HELD at its named locus in the take that carried it —
+sash (t2+), one-bouquet (t3+), depth (t3+), Courier hands (t6), head silence
+(t6). And U2 has still never passed, because each take the failure lands on
+the least-governed figure remaining in frame (t6: PROP migrated to Laura, who
+doubled the tin inside L2; PERFORMANCE migrated to the Watcher, grinning
+through L3 under class-level stillness alone), or regresses stochastically on
+assertions byte-identical to a take where the behaviour held (t6: the couple's
+hold, correct in all 17 t5 samples, wrong in every zoomed t6 sample). Six
+takes of evidence say the same thing: a five-figure locked wide with three
+figures carrying beats exceeds what one generation can govern. Governance
+added figure-by-figure moves the failure surface; it does not shrink it.
+RULING: stop adding law to this frame. Change the frame.
+
+ROUTE (adopts session 5's candidate c1): RE-BLOCK U2. The claim plays in a
+tighter tableau — the couple and the Courier are the governed population.
+Laura, the Watcher and Ansel are out of this framing (they stand at the
+counter/board periphery established in U1's wide; the tighter composition
+simply does not include them). If Laura must appear at the frame edge for the
+joint, she appears as a BACK at the board with her own named governance
+(chalk hand at the board in writing posture forming no letters, no turn, no
+object in either hand) — any figure in frame is a governed figure; there is
+no fourth ungoverned body in this take.
+
+THE JOINT: the U1->U2 cut to a tighter composition is a motivated reframing
+(the room's attention narrows to the claim) and is ACCEPTED. Strong Reference
+binds world state, wardrobe, relative positions and light — all preserved;
+it does not bind identical framing across a cut.
+
+CARRIED LAWS (all proven; each at three loci, for the in-frame figures only):
+the couple's two-handed chest hold THROUGH the claim (both figures named);
+the Courier's named-hand law + beat-closed staging (empty-hands display
+played and ENDED before the claim; hands down on the satchel strap through
+the tail); head silence (no voice before L1; room tone only); camera locked
+on the new composition; sash/board/wall blank. The tin stays on the counter,
+named as counter property — it is not in any hand during U2.
+
+STOP RULES: (a) if t7 fails on the couple's hold again — a pure stochastic
+regression with the full assertion budget and a reduced population — STOP;
+the parent will rule on a picture-side remedy (composite or script-side
+staging), not an eighth take of the same shape. (b) If a NEW carrier appears
+among the governed figures, STOP and report. (c) On U2 acceptance the session
+proceeds through U3–U6, conform, PIL plates, ONE assembly pass, the full
+master-gate stack and delivery exactly as in the standing session spec.
+Session 6 allowance: 8 video, 2 image.
+
+## R3-9 (parent ruling, 2026-11-19 ~03:10 EST) — FAIL ONCE, THEN SHIP (user rule, applied)
+
+USER RULE (main chat, 2026-11-19 03:05 EST): "you are only allowed to fail
+once, then must ship it, this rule keeps you moving." U2 has failed seven
+times across six sessions; both single-generation frame shapes are falsified
+(session 6 pattern statement, GATE_LOG §6.8). The iteration ends here.
+
+SHIP DECISION — U2 = t3 (takes_v6/U2_t3.mp4). Grounds: t3 is the only banked
+take where the sworn claim is TRUE in the picture for its whole span (the
+couple's two-handed hold at background depth, R3-5-proven) AND the speech is
+100% scripted (17/17, zero extra words). t5 keeps the claim true but carries
+an unscripted spoken fragment ("Coins in.") — a defect the viewer hears.
+t6 makes the claim FALSE in the picture while it is spoken (bouquet
+one-handed at her hip inside L3) — the worst class for this line. t7 recast
+the scene (wrong lead, Courier absent). t3's shipped defects, DISCLOSED:
+(1) PERFORMANCE — the foreground chalk-hand's animated open-mouth reaction
+inside L3; (2) PERFORMANCE — the cook laughs in the tail. Both are
+bystander-performance class; neither contradicts a spoken line.
+
+SESSION 7 IS A SHIP SESSION. No further U2 generations. U3–U6 fire under
+the user rule: first take + at most ONE refire per unit; if the refire also
+fails, that unit's best take ships, disclosed. The master-gate stack still
+RUNS and is RECORDED IN FULL — under this rule the gates disclose rather
+than block; the only fixes after the cap are structural (wrong
+duration/frames, missing or corrupt audio, unwatchable file), which are
+assembly, not iteration. Delivery: master in masters/, chat copy ≤50 MB
+under a FRESH filename, E3_DELIVERED.flag, COMPLETION.json with every
+shipped flaw listed plainly. The user's playback verdict remains the
+authority above all of it.
