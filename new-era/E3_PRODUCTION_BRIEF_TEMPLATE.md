@@ -1,4 +1,4 @@
-# E3 PRODUCTION BRIEF TEMPLATE — v2 (2026-11-18)
+# E3 PRODUCTION BRIEF TEMPLATE — v3 (2026-11-18, dialogue-method rebuild)
 
 **Status:** THE working brief skeleton for every E3 room. Supersedes
 the de facto E1/E2 pattern (per-episode SCRIPT + VEHICLES +
@@ -17,6 +17,20 @@ verification proved the Pass 1 adoption had landed in **0 of 10**
 fields in any working artifact — guide-only, exactly the failure
 Pass 1 diagnosed in E2. This template is the fix: every adopted
 rule below is a **fill-in field**, not a paragraph.
+
+**v3 delta (2026-11-18, evening):** the user ruled that the way all
+dialogue is being made is wrong and none of it makes sense. The
+diagnosis (`research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md`):
+dialogue was written to be scored by the gates, and the gates read
+it back in the same vocabulary and certified it. v3 lands the
+rebuild (`DIALOGUE_METHOD.md`, same directory): voice rules before
+lines (`SPEECH_RULE`), banter-first drafting (`BANTER_DRAFT`), a
+move/target label on every spoken line (`line_move` /
+`line_target`), want carriage replacing want announcement, and a
+new ship-blocking gate — the **Stranger Test** — at script lock
+and again on the master's transcript. Conflicts with E2 law /
+TASTE items are named in
+`research/TASTE_GUIDE_DIALOGUE_ADDENDUM_2026-11-18.md`.
 
 ## How the field-presence contract works
 
@@ -100,6 +114,9 @@ PERSONA (behaviour, not adjectives):
   TRAIT → OBSERVABLE_BEHAVIOUR: ____ → ____
   TRAIT → OBSERVABLE_BEHAVIOUR: ____ → ____
   EXAMPLE_LINE (a line only this character would say): "____"
+  SPEECH_RULE (how this character talks — how they ask, lie, refuse;
+  written BEFORE any dialogue is drafted; a character without one
+  does not speak in the episode): "____"
   NEVER_DOES: ____ · ____        (≥2)
   NEVER_SAYS: ____ · ____        (≥2 — the anti-convergence check)
   SECRET: ____
@@ -130,8 +147,36 @@ PASS 3.5 — HEAR-BEFORE-IT-MOVES (F-26; blocking):
   reader (did not write the script): ____
   read_aloud_cold_in_order: Y / N     date: ____
   stumbles logged: ____  (each stumble returns to Pass 3 — list line IDs)
+  (v3 definition: a stumble is a MEANING failure — the listener
+   cannot say what was meant or who it was meant for. Parse texture
+   is NOT a stumble: contractions are the default surface and are
+   never "repaired" into expanded forms — FORMAL REPAIR is a named
+   failure class, DIALOGUE_METHOD.md §2.)
   banter draft exists (conversation-heavy episodes, F-27): Y / N / NA
   SIGNED: ____
+PASS 3.6 — DIALOGUE BUILD (v3 — DIALOGUE_METHOD.md; blocking):
+  BANTER_DRAFT: file ____  (the loose exchange the locked lines were
+  harvested from; a locked line with no banter origin is presumed a
+  ledger line until defended)
+  WANT_CARRIAGE (per designed speaker — the want enters as a MOVE:
+  offer / demand / refusal / complaint / bargain; "I want X" in
+  dialogue is banned except one logged plea exception):
+    ____ → move: ____      ____ → move: ____
+PASS 3.7 — STRANGER TEST, SCRIPT STAGE (v3 — NEW GATE; blocking;
+  runs after Pass 3.5, BEFORE script lock; input is the dialogue
+  ONLY in colon form — annotations, pictures, premise stripped;
+  reader did not write the dialogue):
+  reader: ____   date: ____
+  Q1 want-recovery per speaker (ANNOUNCED = fail): ____
+  Q2 exchange scoring (FILED ITS OWN STATEMENT on both lines of an
+     exchange = fail): ____
+  stage_lines: ____  (count + line IDs; ≥2 in the episode = fail;
+     the reader's ≤6-word reasons are quoted in the GATE_LOG verbatim)
+  Q4 gossip retell (contradicts the locked story, or needs ≥2 facts
+     absent from the dialogue = fail): ____
+  stranger_verdict: PASS / FAIL
+  (A script may NOT lock without stranger_verdict: PASS. A FAIL
+   returns the exchange to the banter draft — never to line-polish.)
 PASS 4 — SPOKEN-LOAD AUDIT: every unit's §4.1 block signed before
   the first video call. SIGNED: ____
 ```
@@ -290,6 +335,12 @@ ACTION / SCENE SENTENCES: renderable content only — no staging
   named event (F-24). Named event (if any): ____
 DELIVERY_NOTE per line (how THIS line is played — pause / overlap /
   whisper — lives here, not in the voice spec): ____
+LINE LEDGER (v3 — per spoken line, beside the SPEECH BLOCK):
+  line_move (accuse / deny / dodge / plead / offer / refuse /
+  demand / expose / decide / react): ____
+  line_target (the person in the scene the line is aimed at; a line
+  targeted at the room / the record / the audience is cut, except
+  the episode's one logged grievance beat): ____
 SPEECH BLOCK (last, isolated; one speaker per entry):
   Rendered per MODEL_SYNTAX (§0). For veo-colon-noquotes:
     NAME (visible trait, delivery): the line
@@ -450,6 +501,18 @@ GATE (f) — THE COLD RUN (Pass 2, Angle 3 — NEW; ship blocker; runs
     (any NOT-HEARD, HEARD-WRONG or EXTRA-CONFIRMED = REPAIR-AND-
     RERUN, and the re-run is on the REPAIRED master, full section
     re-logged as cold_run_2)
+STRANGER TEST — MASTER (v3 — NEW; ship blocker; runs beside Gate (f)
+  on the finished master's OWN transcript, dialogue only; Gate (f)
+  owns comprehension, this gate owns plausibility — would a person
+  say that line, to that person, there?):
+  stranger_master_reader (did not write the dialogue): ____
+  Q1 want-recovery per speaker (ANNOUNCED = fail): ____
+  Q2 exchange scoring (FILED ITS OWN STATEMENT ×2 = fail): ____
+  stage_lines: ____  (≥2 = fail; reasons quoted verbatim)
+  Q4 gossip retell vs locked story: ____
+  stranger_master_verdict: PASS / FAIL
+    (FAIL = story-gate failure class: repaired, never
+    disclosure-shipped; repair returns to the room's banter draft)
 CALIBRATION LEDGER (cumulative, series-level file): every machine
   flag above is logged with the human verdict it triaged to —
   flag_outcome: true-drift / false-alarm / missed-by-flag-caught-by-eye.
@@ -473,23 +536,25 @@ the rule does not exist.
 - Brief header: `VOICE_ROUTE` · `MODEL_SYNTAX` · `CONTINUITY_OWNER`
 - Per character: `CANONICAL_FACE_REF` · `LOOK_BLOCK_VERBATIM` ·
   `VOICE_SPEC_TEXT` (or route fields `VOICE_ID` / `VOICE_REF_CLIP`) ·
-  `NEVER_DOES` · `NEVER_SAYS` · `RENT` · `MOTION_SIGNATURE` ·
-  `STATE_OPEN` · `STATE_CLOSE`
-- Room: Pass 3.5 sign-off (reader named) · Pass 4 sign-off
+  `NEVER_DOES` · `NEVER_SAYS` · `SPEECH_RULE` · `RENT` ·
+  `MOTION_SIGNATURE` · `STATE_OPEN` · `STATE_CLOSE`
+- Room: Pass 3.5 sign-off (reader named) · `BANTER_DRAFT` ·
+  `WANT_CARRIAGE` · `STRANGER TEST` (`stranger_verdict`) ·
+  Pass 4 sign-off
 - Panels: `SEQUENCE GATE` signed · `ANIMATIC GATE` signed
 - Per unit: `SPOKEN-LOAD AUDIT` (incl. `measured_sec`,
   `implied_rate`, `span_cost_sec`) · `PREV END STATE` ·
   `REFERENCE PRIORITY` · `REFS_BOUND` · `STATE_ASSERT` ·
   `PERSONA_TRANSLATION` · `OBJECTIVE` · `OBSTACLE` · `TACTICS` ·
   `EYE TASK` (close takes) · `END STATE` (four sub-fields) ·
-  `SPEECH BLOCK`
+  `SPEECH BLOCK` · `line_move` · `line_target`
 - Per take: four drift rows with classes · `motion_at_cut_in` ·
   attempt log (`speaker_order`, `dropped_speaker`,
   `invented_words`, `span_sec`) · tail-drift verdict
 - Per speaker: `voice_check_outcome` (permitted values only)
 - Per joint: `joint_eye_verdict` + `joint_mismatch_class`
 - Master: transcription settings block · mechanical diff fields ·
-  ear test sign-off · `cold_verdict`
+  ear test sign-off · `cold_verdict` · `stranger_master_verdict`
 
 ---
 
@@ -512,8 +577,12 @@ the rule does not exist.
 | 13 | GATE (f) THE COLD RUN added as the final ship blocker | The only check on the artefact the viewer actually receives; subsumes every historical escapee class (Angle 3) |
 | 14 | pHash/vPDQ/SSCD confined to raster-identity verification | They are copy-detection tools ("same 2D source" by definition) — they cannot score drift (Angle 3) |
 | 15 | Vocabulary: "locked" → bound / carried | Text "locks" were how E2 documented carried voices as locked (Angle 1) |
+| 16 | **v3:** `SPEECH_RULE` added to the §1 cast card (voice rule written before any dialogue) | The working forms write a speech rule per character before lines; a line anyone could say has failed before it is recorded (dialogue-method rebuild, Phase 2) |
+| 17 | **v3:** Pass 3.6 DIALOGUE BUILD (`BANTER_DRAFT`, `WANT_CARRIAGE`) + Pass 3.7 STRANGER TEST at script stage; `line_move` / `line_target` per spoken line in §4.4; STRANGER TEST (MASTER) in §5.4 | User ruling 2026-11-18 ~19:28 EST: the dialogue construction method itself is wrong. Gates verified legibility/completeness/audibility; nothing tested whether a line is something a person would say to another person in that moment. Diagnosis + method: `research_notes/dialogue-method-rebuild-20261118/` |
+| 18 | **v3:** F-26 stumble redefined — a stumble is a MEANING failure; contractions are the default surface and FORMAL REPAIR is a named failure class | The old repair gradient edited spokenness out (ONE SHORT E3: the contraction "Thirty's" was formalized to "Thirty is" as a gate repair) |
+| 19 | **v3:** "I want X" want-announcement banned as a construction form (one logged plea exception); F-3's legibility goal retained, its mechanism replaced by want carriage + Stranger Test Q1 | F-3 complied with literally produced want-declarations addressed to the gate, not to the counterparty (DIAGNOSIS.md D-2) |
 
-*Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes.*
+*Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`.*
 
-— End of template v2. Amend by dated addendum; never edit a field
+— End of template v3. Amend by dated addendum; never edit a field
 out silently — a removed field is a removed gate.
