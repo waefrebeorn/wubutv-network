@@ -101,3 +101,66 @@ DIALOGUE_METHOD.md §2.
 
 *Filed 2026-11-18. The user's playback verdict on any episode
 continues to outrank every gate named here, including this one.*
+
+## Landing of the case-study amendments (2026-11-18, late evening)
+
+**Trigger — the user's order, Telegram msg 677 (2026-11-18
+~20:55 EST):**
+
+> "use the case studies of the other channels to find the
+> writings and themes so we can make our writing more based"
+
+The banked channel case studies were mined for their writing
+mechanics and themes
+(`research_notes/case-study-writing-themes-20261118/WRITINGS.md`
++ `THEMES.md`), producing thirteen evidence-tied amendments
+(`AMENDMENTS.md`, A-1…A-13). All thirteen are landed as of this
+section: into `DIALOGUE_METHOD.md`, into the E3 production brief
+template (**v4**), and into this addendum where named.
+
+| # | Amendment | Landed at |
+|---|---|---|
+| A-1 | Genre-move tag on every harvested line (four line-types cross-check the move ledger; NONE = presumed orphan) | DIALOGUE_METHOD Pass 3.2; template §4.4 `line_genre_move` + §6 |
+| A-2 | Proof-object rule — conflict shown, then named, never reported | DIALOGUE_METHOD Passes 3.1 + 3.4; template §4.2 `PROOF_OBJECT` + §6 |
+| A-3 | Line shape at harvest — payload word last, names rationed | DIALOGUE_METHOD new Pass 3.6 |
+| A-4 | Scripted REACTION beats (silence as a script line with a named carrier) | DIALOGUE_METHOD Pass 3.2; template §4.4 `REACTION` + §6 |
+| A-5 | Audience secret planted by end of U1 | DIALOGUE_METHOD Pass 3.4; template §2 `AUDIENCE_SECRET` + §6 |
+| A-6 | A running brief per series (who knows what, who lies to whom, last hanger, stake numbers) | DIALOGUE_METHOD Pass 3.4 — a series-level artifact beside the show bible, deliberately not an episode-template field |
+| A-7 | Hanger interest codified — rollover only with interest paid; next episode's beat one pays within ~5s | DIALOGUE_METHOD Pass 3.4 (HANGERS); template §2 `HANGER_PAID` + §6 |
+| A-8 | Verdict line passes the one-sentence moral test | DIALOGUE_METHOD Pass 3.4 |
+| A-9 | SPEECH_RULE gains a habitual length trait | DIALOGUE_METHOD Pass 3.0; template §1 `length_trait` + §6 |
+| A-10 | The banter draft is a transcript, not a list | DIALOGUE_METHOD Pass 3.1; template §2 `BANTER_DRAFT` description |
+| A-11 | CAPTION_MODE declared per show; the poster frame is a gate (EMPTY CAPTION test) | Template §5.4 `POSTER_FRAME` + §6; CAPTION_MODE itself is declared in each show bible |
+| A-12 | Social copy reacts; it never describes | Template §5.5 `CAPTION_RULE` + §6 |
+| A-13 | F-26 line band applied as a ceiling, not a target — **FLAGGED**, see below | DIALOGUE_METHOD Pass 3.6; this addendum |
+
+**A-13 — FLAGGED application change to ratified F-26, landed by
+parent ruling.** F-26's soap-register band of 8–14 words per line
+is henceforth applied as a **ceiling range, not a target band**:
+the room's default expectation is one idea per line, usually
+≤12 words, payload word last, with short and one-word lines
+normal and licensed; a soap scene whose lines all sit at 10–14
+words is read as over-full and returns to banter for compression
+toward move-sized lines. Evidence, as filed in `AMENDMENTS.md`
+A-13 from `WRITINGS.md`: the field's specimen exchanges run at
+1–5 words per line — the KreatorFlow smoothie scene carries four
+beats on three lines and eleven words of dialogue total, and
+"…Strawberry." is a one-word line that re-prices an entire scene
+(`fruit-soap-study2-20261116/report.md`); `THE_STANDARD.md` §1
+already recorded working lengths far below 8–14; and the
+brainrot study's 8–15-word figure is a per-*clip* target ("so
+the character has time to react"), i.e. the band describes the
+container, not the line (`brainrot-soap-study-20261115/report.md`).
+**F-25's unit caps are untouched** — A-13 changes how lines are
+sized inside a unit, never the unit's arithmetic. This is the
+one amendment that argues against a ratified item; it is
+recorded here as flagged so the change is never mistaken for a
+silent edit of E3 law.
+
+**Checked against the same evidence and held, unedited:** the
+Stranger Test, Camp B / F-14, the F-25 caps and Container Law,
+the ear-test (F-13), F-9, Gate (f), the F-22 end-state pin, and
+the want-announcement ban. The mining's checked-and-held section
+supports each from the field's own record (the clone census, for
+instance, states the field has *no* ear-test — our delivery gates
+are differentiators, not excess). No amendment above edits them.

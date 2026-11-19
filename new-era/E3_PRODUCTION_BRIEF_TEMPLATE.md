@@ -1,4 +1,4 @@
-# E3 PRODUCTION BRIEF TEMPLATE — v3 (2026-11-18, dialogue-method rebuild)
+# E3 PRODUCTION BRIEF TEMPLATE — v4 (2026-11-18, case-study amendments landed)
 
 **Status:** THE working brief skeleton for every E3 room. Supersedes
 the de facto E1/E2 pattern (per-episode SCRIPT + VEHICLES +
@@ -31,6 +31,29 @@ new ship-blocking gate — the **Stranger Test** — at script lock
 and again on the master's transcript. Conflicts with E2 law /
 TASTE items are named in
 `research/TASTE_GUIDE_DIALOGUE_ADDENDUM_2026-11-18.md`.
+
+**v4 delta (2026-11-18, late evening):** the user ordered the
+banked case studies of the other channels mined for their
+writings and themes (Telegram msg 677, 2026-11-18 ~20:55 EST) so
+our writing is based on the field's evidence. The mining
+(`research_notes/case-study-writing-themes-20261118/WRITINGS.md`
++ `THEMES.md`) produced thirteen amendments (`AMENDMENTS.md`
+A-1…A-13), landed here and in `DIALOGUE_METHOD.md`: genre-move
+tags on every line (A-1), the proof-object rule (A-2), line
+shape at harvest (A-3), scripted REACTION beats (A-4), the
+audience secret planted by U1 (A-5), hanger interest in the
+sign-off (A-7), a length trait on every SPEECH_RULE (A-9), the
+banter draft defined as a transcript (A-10), the POSTER_FRAME
+check beside Gate (f) (A-11), and the CAPTION_RULE delivery step
+(A-12). A-13 lands as a **flagged application change to F-26**:
+the 8–14-word line band is a ceiling range, not a target band —
+recorded in the TASTE dialogue addendum; F-25 caps untouched.
+A-6 (a running brief per series) is a series-level artifact
+beside the show bible and lands in `DIALOGUE_METHOD.md` Pass
+3.4, not in this per-episode template. The checked-and-held set
+(Stranger Test, Camp B, Container Law, ear-test, Gate (f),
+end-state pin, want-announcement ban) was tested against the
+same evidence and stands unedited.
 
 ## How the field-presence contract works
 
@@ -117,6 +140,10 @@ PERSONA (behaviour, not adjectives):
   SPEECH_RULE (how this character talks — how they ask, lie, refuse;
   written BEFORE any dialogue is drafted; a character without one
   does not speak in the episode): "____"
+  length_trait (A-9 — the SPEECH_RULE's habitual line length as a
+  character trait, e.g. "one-word bursts when cornered" / "runs
+  long and volunteers dates when lying"; the two designed
+  speakers' traits MUST differ): ____
   NEVER_DOES: ____ · ____        (≥2)
   NEVER_SAYS: ____ · ____        (≥2 — the anti-convergence check)
   SECRET: ____
@@ -143,6 +170,17 @@ STATE (per episode):
 ## §2 — Room gates before any vehicle is written (sign-off block)
 
 ```
+STORYLINE DECLARATIONS (written at storyline pass, before dialogue):
+  AUDIENCE_SECRET (A-5): secret ____ · holder: audience / ____
+    (the one secret the audience holds that the characters don't,
+    or the reverse) · planted_in_unit: U_ (no later than U1's
+    close; planted as a SHOWN beat, never an explanatory line)
+  HANGER_PAID (A-7): previous hanger ____ · this episode's beat
+    one pays it (at least partly, within the first ~5s, before a
+    larger debt opens): ____
+    (a hanger may roll over only by paying interest in the same
+    episode; an episode with no payment beat and no interest
+    payment does not lock — DIALOGUE_METHOD.md Pass 3.4, HANGERS)
 PASS 3.5 — HEAR-BEFORE-IT-MOVES (F-26; blocking):
   reader (did not write the script): ____
   read_aloud_cold_in_order: Y / N     date: ____
@@ -155,8 +193,11 @@ PASS 3.5 — HEAR-BEFORE-IT-MOVES (F-26; blocking):
   banter draft exists (conversation-heavy episodes, F-27): Y / N / NA
   SIGNED: ____
 PASS 3.6 — DIALOGUE BUILD (v3 — DIALOGUE_METHOD.md; blocking):
-  BANTER_DRAFT: file ____  (the loose exchange the locked lines were
-  harvested from; a locked line with no banter origin is presumed a
+  BANTER_DRAFT: file ____  (A-10: one continuous two-voice
+  TRANSCRIPT of the scene played in order — interruptions, wrong
+  answers, overlaps in place — NOT a pool of candidate lines; each
+  harvested line's transcript line number is recorded in the move
+  ledger; a locked line with no banter origin is presumed a
   ledger line until defended)
   WANT_CARRIAGE (per designed speaker — the want enters as a MOVE:
   offer / demand / refusal / complaint / bargain; "I want X" in
@@ -292,6 +333,12 @@ PRIMARY_BOUND_CHARACTER (two-character units): ____
 VOICE_REF_CLIP attached (AUDIO_REFERENCE route): ____ / NA
 STATE_ASSERT: at unit start, ____ is in wardrobe state ____,
   holding ____, condition ____.
+PROOF_OBJECT (A-2 — the named physical object carrying this
+  unit's driving claim: shown in the scene AND named in the
+  dialogue; conflict is never reported secondhand; if the unit's
+  conflict is fully understandable with the object removed, the
+  unit goes back to banter): ____
+  (or: NONE — this unit carries no driving claim)
 CHAIN: outgoing last frame (harvested after conform) = image 1 ·
   gated PEAK = image 2. Snapshot/resume chaining is NOT a
   continuity mechanism until the video-api lab's specified test is
@@ -341,6 +388,11 @@ LINE LEDGER (v3 — per spoken line, beside the SPEECH BLOCK):
   line_target (the person in the scene the line is aimed at; a line
   targeted at the room / the record / the audience is cut, except
   the episode's one logged grievance beat): ____
+  line_genre_move (A-1 — the genre function the audience receives:
+  ACCUSE-WITH-PROOF / DENY / ENTER-CONTRADICT /
+  REVEAL-BY-AUTHORITY / NONE; a NONE line is presumed an orphan
+  until defended at the Stranger Test; the tags are checked in the
+  GATE_LOG after the test, against its Q2 scores): ____
 SPEECH BLOCK (last, isolated; one speaker per entry):
   Rendered per MODEL_SYNTAX (§0). For veo-colon-noquotes:
     NAME (visible trait, delivery): the line
@@ -350,6 +402,15 @@ SPEECH BLOCK (last, isolated; one speaker per entry):
   rendered quoted, name + line + delivery still adjacent, delivery
   still outside the quoted line.
   ____
+  REACTION entry (A-4 — a scripted silence beat: gasp / pause /
+  silent close-up, written as a script line with a named carrier;
+  zero words against the unit cap; counts as a beat in the move
+  ledger as a `react` move):
+    REACTION: carrier (face / object / room) ____ · duration ____ ·
+    follows_line ____
+  (the three standing digestion gaps are written as REACTION
+  entries with carriers, so the gap exists in the locked script
+  the gates read — not only in the assembly plan)
 TEXT RULE: this vehicle contains no words of any in-world text.
   Declared-blank surfaces (signs, tags, boards, documents) are
   described as blank/illegible texture: ____
@@ -501,6 +562,13 @@ GATE (f) — THE COLD RUN (Pass 2, Angle 3 — NEW; ship blocker; runs
     (any NOT-HEARD, HEARD-WRONG or EXTRA-CONFIRMED = REPAIR-AND-
     RERUN, and the re-run is on the REPAIRED master, full section
     re-logged as cold_run_2)
+POSTER_FRAME (A-11 — the EMPTY CAPTION test; beside Gate (f); the
+  show's CAPTION_MODE — SERIAL or POSTER — is declared in its
+  bible, with the show's rigid title pattern):
+  frame_one_still: ____ (file)
+  poster_pitch_read (cold reviewer sees frame one with captions
+  removed: does frame one pitch the episode alone?): ____
+  poster_frame_verdict: PASS / FAIL
 STRANGER TEST — MASTER (v3 — NEW; ship blocker; runs beside Gate (f)
   on the finished master's OWN transcript, dialogue only; Gate (f)
   owns comprehension, this gate owns plausibility — would a person
@@ -524,6 +592,21 @@ REJECT_BANK (series-level, growing; LEAD-grade — pilot on one show
   per character: ____
 ```
 
+### 5.5 Delivery — social caption step (A-12)
+
+```
+CAPTION_RULE (one-line platform captions on our own posts REACT;
+  they never describe, summarize, or hashtag-explain the episode —
+  pick exactly one form):
+  form: REACTION (laugh / gasp / point) / TORN_FRAGMENT (a torn
+  mid-scene line fragment, never a title) / CHEAP_QUESTION (an
+  open question engineered for a cheap self-revealing reply)
+  caption: "____"
+  (a caption containing a plot summary or the words "in this
+  episode" is rewritten before posting; the caption points at the
+  episode's closing open question — it does not repeat it)
+```
+
 ---
 
 ## §6 — Field-presence checklist (the gate's grep contract)
@@ -536,25 +619,30 @@ the rule does not exist.
 - Brief header: `VOICE_ROUTE` · `MODEL_SYNTAX` · `CONTINUITY_OWNER`
 - Per character: `CANONICAL_FACE_REF` · `LOOK_BLOCK_VERBATIM` ·
   `VOICE_SPEC_TEXT` (or route fields `VOICE_ID` / `VOICE_REF_CLIP`) ·
-  `NEVER_DOES` · `NEVER_SAYS` · `SPEECH_RULE` · `RENT` ·
-  `MOTION_SIGNATURE` · `STATE_OPEN` · `STATE_CLOSE`
-- Room: Pass 3.5 sign-off (reader named) · `BANTER_DRAFT` ·
+  `NEVER_DOES` · `NEVER_SAYS` · `SPEECH_RULE` · `length_trait` ·
+  `RENT` · `MOTION_SIGNATURE` · `STATE_OPEN` · `STATE_CLOSE`
+- Room: `AUDIENCE_SECRET` · `HANGER_PAID` · Pass 3.5 sign-off
+  (reader named) · `BANTER_DRAFT` ·
   `WANT_CARRIAGE` · `STRANGER TEST` (`stranger_verdict`) ·
   Pass 4 sign-off
 - Panels: `SEQUENCE GATE` signed · `ANIMATIC GATE` signed
 - Per unit: `SPOKEN-LOAD AUDIT` (incl. `measured_sec`,
   `implied_rate`, `span_cost_sec`) · `PREV END STATE` ·
   `REFERENCE PRIORITY` · `REFS_BOUND` · `STATE_ASSERT` ·
-  `PERSONA_TRANSLATION` · `OBJECTIVE` · `OBSTACLE` · `TACTICS` ·
+  `PROOF_OBJECT` · `PERSONA_TRANSLATION` · `OBJECTIVE` ·
+  `OBSTACLE` · `TACTICS` ·
   `EYE TASK` (close takes) · `END STATE` (four sub-fields) ·
-  `SPEECH BLOCK` · `line_move` · `line_target`
+  `SPEECH BLOCK` · `line_move` · `line_target` · `line_genre_move` ·
+  `REACTION`
 - Per take: four drift rows with classes · `motion_at_cut_in` ·
   attempt log (`speaker_order`, `dropped_speaker`,
   `invented_words`, `span_sec`) · tail-drift verdict
 - Per speaker: `voice_check_outcome` (permitted values only)
 - Per joint: `joint_eye_verdict` + `joint_mismatch_class`
 - Master: transcription settings block · mechanical diff fields ·
-  ear test sign-off · `cold_verdict` · `stranger_master_verdict`
+  ear test sign-off · `cold_verdict` · `poster_frame_verdict` ·
+  `stranger_master_verdict`
+- Delivery: `CAPTION_RULE`
 
 ---
 
@@ -581,8 +669,18 @@ the rule does not exist.
 | 17 | **v3:** Pass 3.6 DIALOGUE BUILD (`BANTER_DRAFT`, `WANT_CARRIAGE`) + Pass 3.7 STRANGER TEST at script stage; `line_move` / `line_target` per spoken line in §4.4; STRANGER TEST (MASTER) in §5.4 | User ruling 2026-11-18 ~19:28 EST: the dialogue construction method itself is wrong. Gates verified legibility/completeness/audibility; nothing tested whether a line is something a person would say to another person in that moment. Diagnosis + method: `research_notes/dialogue-method-rebuild-20261118/` |
 | 18 | **v3:** F-26 stumble redefined — a stumble is a MEANING failure; contractions are the default surface and FORMAL REPAIR is a named failure class | The old repair gradient edited spokenness out (ONE SHORT E3: the contraction "Thirty's" was formalized to "Thirty is" as a gate repair) |
 | 19 | **v3:** "I want X" want-announcement banned as a construction form (one logged plea exception); F-3's legibility goal retained, its mechanism replaced by want carriage + Stranger Test Q1 | F-3 complied with literally produced want-declarations addressed to the gate, not to the counterparty (DIAGNOSIS.md D-2) |
+| 20 | **v4 (A-1):** `line_genre_move` per spoken line in §4.4 + §6 — the field's four line-types (ACCUSE-WITH-PROOF / DENY / ENTER-CONTRADICT / REVEAL-BY-AUTHORITY) cross-check the ten-move ledger; NONE = presumed orphan | The genre runs on four line-types only; the method's ten-move vocabulary never reconciled with them (case-study mining, msg 677) |
+| 21 | **v4 (A-2):** `PROOF_OBJECT` per unit in §4.2 + §6 — a driving claim is carried by a named object shown and named, never reported secondhand | The direct counter-mechanism to ledger lines (DIAGNOSIS D-1): a claim addressed to the record cannot survive being forced onto an object in the room |
+| 22 | **v4 (A-4):** `REACTION` entry type in the §4.4 SPEECH BLOCK + §6 — scripted silence beats with a named carrier; the three digestion gaps are written as REACTION entries | Silence is written in as a line in the working forms; an unscripted gap exists only in the assembly plan, where no gate reads it |
+| 23 | **v4 (A-5):** `AUDIENCE_SECRET` in §2 storyline declarations + §6 — the audience's secret planted by U1's close, shown not said | Dramatic irony is the reference forms' retention engine; in lore terms the audience already knows the invaders are winning — each episode plants its local version |
+| 24 | **v4 (A-7):** `HANGER_PAID` in §2 sign-off + §6 — beat one pays the previous hanger at least partly in ~5s; rollover only with interest paid in-episode | The founding saga's unpaid hanger is the field's own cautionary tale; the hanger is where episodes touch, so the rule belongs in the method |
+| 25 | **v4 (A-9):** `length_trait` clause on the §1 `SPEECH_RULE` + §6 — habitual line length as a gate-visible character trait; the two speakers' traits must differ | Cantina's editor makes response length a per-character setting; Poptoy's specimens imply it — the field makes it a field |
+| 26 | **v4 (A-10):** `BANTER_DRAFT` redefined in §2 — one continuous two-voice transcript played in order, never a pool of candidate lines; transcript line numbers recorded in the move ledger | Contact cannot be retrofitted onto pooled lines (DIAGNOSIS D-6); a transcript is the only draft form in which a line's dependence on the previous line can exist |
+| 27 | **v4 (A-11):** `POSTER_FRAME` check in §5.4 beside Gate (f) + `poster_frame_verdict` in §6 — the EMPTY CAPTION test: frame one, captions removed, must pitch the episode alone; CAPTION_MODE (SERIAL / POSTER) declared per show in its bible | The corpus's two caption poles are both evidenced and were previously unreconciled per-episode; the choice is now declared per show and gated at the master |
+| 28 | **v4 (A-12):** `CAPTION_RULE` delivery step added as §5.5 + §6 — social copy reacts (reaction / torn fragment / cheap question), never describes | The roach network's common recipe: own posts never describe, they react — the payload pitches alone |
+| 29 | **v4 (A-13, FLAGGED):** F-26's 8–14-word line band applied as a ceiling range, not a target band — wording in `DIALOGUE_METHOD.md` Pass 3.6; F-25 caps untouched | The field's specimen lines run 1–5 words; the band describes the container (per-clip target), not the line. Landed as a flagged application change, recorded in the TASTE dialogue addendum |
 
-*Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`.*
+*Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`. v4 rows: `research_notes/case-study-writing-themes-20261118/AMENDMENTS.md` + `WRITINGS.md` + `THEMES.md`.*
 
-— End of template v3. Amend by dated addendum; never edit a field
+— End of template v4. Amend by dated addendum; never edit a field
 out silently — a removed field is a removed gate.
