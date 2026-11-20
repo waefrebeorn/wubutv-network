@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-20T17:46:32Z",
+ "scanned_utc": "2026-11-20T19:28:18Z",
  "items": [
   {
    "id": "MV-2",
@@ -589,26 +589,56 @@
    "title": "Turkey's Not the Only One",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9_50mb.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-20",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+   "delivery_encode": true,
+   "exists": true,
+   "size": 45355156,
+   "mtime": 1795196813,
+   "md5": "ccfd62adcf69f148707cf1416f0127fd",
+   "duration_s": 196.0,
+   "frames": 4704,
+   "phash": [
+    "466a0ce10c998cb304e304a105a48d268d26cf624762463606720bc20bc489c4",
+    "c448d85851d291de90de99d799c799a791d67193194308a300e20298228e32a5",
+    "207824386cb82c55623463312b33eb33ad6f33773353157a04dd06760d9e1399"
+   ],
+   "audio_fp": {
+    "md5_60s": "11f2133a96df42c8c4833c162f3d02a6",
+    "rms_db": -19.99,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-22",
+   "title": "I Love Spaghetti",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-22_i-love-spaghetti/masters/mv22_i_love_spaghetti_16x9.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": "2026-11-20",
    "exists": true,
-   "size": 105921643,
-   "mtime": 1795195386,
-   "md5": "a74c3f279e4d2c30fb198bd334d57aa2",
-   "duration_s": 196.0,
-   "frames": 4704,
+   "size": 89661990,
+   "mtime": 1795201569,
+   "md5": "9f7588cce077dafc00e0e8770c70fceb",
+   "duration_s": 174.42,
+   "frames": 4186,
    "phash": [
-    "466a4ce10c998cb304e304a105a40d268d26cf6247624636067203c20bc489c4",
-    "c448d85851d291de90de99d799c799a791d67193194309a300e20298228e32a5",
-    "207824786cb82c55623463312b33eb33ad6f33773353157a04dd06760d9e1399"
+    "44e7c4e3d9e358e831e00d64ace088e45391079b879a07390f99cf9bcccf9f8d",
+    "098169c549c169c921bb35b8c962a3368732c73a873c861c8e1e8e8f1dce1d67",
+    "670e260b4dcbed9decb5d8e35ac250ca54cad499565557754571457047200721"
    ],
    "audio_fp": {
-    "md5_60s": "11f2133a96df42c8c4833c162f3d02a6",
-    "rms_db": -19.99,
+    "md5_60s": "dc39502961a873e0fe7ed99c9bc1c6b6",
+    "rms_db": -19.48,
     "seconds": 60.0
    }
   },
