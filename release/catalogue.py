@@ -33,8 +33,8 @@ MV_CURRENT = [
     (19, "Confused NPC",          "mv19_confused_npc_16x9.mp4"),
     (20, "Laundry Life",          "mv20_laundry_life_16x9.mp4"),
     (21, "Wowie Pants That Fit",  "mv21_wowie_pants_that_fit_16x9.mp4"),
-    (25, "Turkey's Not the Only One", "mv25_turkeys_not_the_only_one_16x9.mp4"),
-    (22, "I Love Spaghetti", "mv22_i_love_spaghetti_16x9.mp4"),
+    (25, "Turkey's Not the Only One", "mv25_turkeys_not_the_only_one_16x9_subs.mp4"),
+    (22, "I Love Spaghetti", "mv22_i_love_spaghetti_16x9_subs.mp4"),
 ]
 MV_DELIVERED = {18: "2026-11-14", 19: "2026-11-14", 20: "2026-11-14", 21: "2026-11-15", 25: "2026-11-20", 22: "2026-11-20"}
 
