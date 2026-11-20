@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_utc": "2026-11-17T01:41:29Z",
+ "updated_utc": "2026-11-17T15:04:30Z",
  "phase": 2,
  "posting_armed": true,
  "posting_armed_note": "Per-platform flags are authoritative (platforms.<p>.posting_armed). Phase 2 (2026-11-16): instagram + threads ARMED by the phase-2 lane revival under the user's 2026-11-16 relaunch decree (msgs 516/518, blanket posting permission). TikTok remains DISARMED (platforms.tiktok.posting_armed=false) \u2014 its browser-session lane is parent-supervised phase 3. Top-level posting_armed=true means at least one platform is armed.",
@@ -22,7 +22,7 @@
     "present": false
    },
    "posting_armed": true,
-   "last_post_utc": "2026-11-17T00:32:56Z",
+   "last_post_utc": "2026-11-20T18:24:00Z",
    "relaunch_cleared": {
     "cleared_utc": "2026-11-16T15:06:30Z",
     "daily_count": "instagram/DAILY_COUNT.json verified at phase-2 audit: {\"date\":\"2026-11-16\",\"count\":0} \u2014 current, not stale. Any shutter-era count is superseded; the counter is recomputed from the ledgers by instagram-rate-guard every 5m and reset daily by instagram-pause-reset.",
@@ -42,7 +42,7 @@
     "st077_note": "ST-077's 2026-11-08 Threads 429 never-retry rule is separate from this flag and still stands (queue holds it held-guardrail)."
    },
    "posting_armed": true,
-   "last_post_utc": "2026-11-17T04:42:00Z",
+   "last_post_utc": "2026-11-20T18:41:16Z",
    "relaunch_cleared": {
     "cleared_utc": "2026-11-16T15:06:30Z",
     "daily_count": "threads/DAILY_COUNT.json verified at phase-2 audit: {\"date\":\"2026-11-16\",\"count\":0} \u2014 current, not stale. Any shutter-era count is superseded; the counter is maintained by the Threads lanes and reset daily by threads-pause-reset.",

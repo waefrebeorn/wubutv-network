@@ -43,3 +43,4 @@ DEDUP_STATUS: resolved
 | MV-2-ALT-viewing | Toll Roads Are Dumb | 2026-11-18 19:28 EDT | 18142565248729550 | Alternate Cut — MV-2 "Toll Roads Are Dumb" (viewing) · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 
 | MV-5-ALT-lyrics | Easy now, easy now | 2026-11-18 23:47 EDT | 18350591194255982 | Alternate Take — Lyrics Version — MV-5 "Easy now, easy now" (lyrics) · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
+| MV-25 | Turkey's Not the Only One | 2026-11-20 13:40 EDT | 18026186813718310 | MV-25 — "Turkey's Not the Only One" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
