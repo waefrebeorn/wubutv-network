@@ -1,7 +1,7 @@
 {
  "version": 1,
- "computed_utc": "2026-11-20T12:24:58Z",
- "rotation_next": "ARC-1",
+ "computed_utc": "2026-11-20T17:46:38Z",
+ "rotation_next": "ARC-2",
  "entries": [
   {
    "item": "MV-16-ALT-wrongtake",
@@ -182,28 +182,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
    ],
    "rank": 11
-  },
-  {
-   "item": "CLAIM-WINDOW-PILOT",
-   "platform": "instagram",
-   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
-   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1320,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-1"
-   ],
-   "rank": 12
   },
   {
    "item": "MORPH-HOLD-ON-E3",
@@ -214,10 +198,25 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
+   ],
+   "rank": 12
+  },
+  {
+   "item": "MV-25",
+   "platform": "instagram",
+   "title": "Turkey's Not the Only One",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+   "md5": "a74c3f279e4d2c30fb198bd334d57aa2",
+   "tier": "current",
+   "arc": null,
+   "state": "queued",
+   "score": 1300,
+   "reasons": [
+    "new:delivered-24h"
    ],
    "rank": 13
   },
@@ -230,147 +229,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
    ],
    "rank": 14
-  },
-  {
-   "item": "E2-SHOW-1-THE-MACHINE",
-   "platform": "instagram",
-   "title": "THE MACHINE E2 \u2014 The Mouth That Moved First",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-1_the-machine/masters/SHOW1_E2_MASTER.mp4",
-   "md5": "bce7ea141f9828d5b5c9fc066f8e5098",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 15
-  },
-  {
-   "item": "E2-SHOW-2-THE-TENTH-SECOND",
-   "platform": "instagram",
-   "title": "THE TENTH SECOND E2 \u2014 The Chalk Wall",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-2_the-tenth-second/masters/E2_SHOW-2_the-tenth-second_MASTER.mp4",
-   "md5": "137465e24d1248fe350ac8de5021e937",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 16
-  },
-  {
-   "item": "E2-SHOW-5-THE-LAST-SEAT",
-   "platform": "instagram",
-   "title": "THE LAST SEAT E2 \u2014 Ask the Seat",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-5_the-last-seat/masters/E2_SHOW-5_the-last-seat_house.mp4",
-   "md5": "d899745b106a923d683b71bc5930be53",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 17
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E1",
-   "platform": "instagram",
-   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
-   "md5": "0ce3002b252f3b499b9d23009df5e38b",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 18
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E2",
-   "platform": "instagram",
-   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
-   "md5": "9635a098436ccdf1d0ad39f4f499b827",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 19
-  },
-  {
-   "item": "MORPH-ON-AIR-E1",
-   "platform": "instagram",
-   "title": "ON AIR E1 \u2014 The Signed Folder",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
-   "md5": "06cd491007f6919357716010495a00af",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 20
-  },
-  {
-   "item": "PILOT-1-THE-MACHINE",
-   "platform": "instagram",
-   "title": "THE MACHINE \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
-   "md5": "847091dfde8da850229e747038c5bf50",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 21
-  },
-  {
-   "item": "PILOT-2-THE-TENTH-SECOND",
-   "platform": "instagram",
-   "title": "THE TENTH SECOND \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
-   "md5": "d8377ee5bbcfedae31fd5423bc82ed29",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 22
-  },
-  {
-   "item": "PILOT-5-THE-LAST-SEAT",
-   "platform": "instagram",
-   "title": "THE LAST SEAT \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
-   "md5": "9bb12bc04d8c1c0ce078757e133775c6",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 23
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -381,11 +245,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 24
+   "rank": 15
   },
   {
    "item": "MORPH-NIGHT-LIST-E1",
@@ -396,11 +260,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 25
+   "rank": 16
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -411,11 +275,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 26
+   "rank": 17
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -426,11 +290,11 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 27
+   "rank": 18
   },
   {
    "item": "MORPH-ONE-SHORT-E1",
@@ -441,11 +305,11 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 28
+   "rank": 19
   },
   {
    "item": "MORPH-ONE-SHORT-E2",
@@ -456,11 +320,116 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 29
+   "rank": 20
+  },
+  {
+   "item": "PILOT-4-THE-COUNT",
+   "platform": "instagram",
+   "title": "THE COUNT \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
+   "md5": "9d16e248591719ae9040ecb407a9609b",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1010,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 21
+  },
+  {
+   "item": "E2-SHOW-1-THE-MACHINE",
+   "platform": "instagram",
+   "title": "THE MACHINE E2 \u2014 The Mouth That Moved First",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-1_the-machine/masters/SHOW1_E2_MASTER.mp4",
+   "md5": "bce7ea141f9828d5b5c9fc066f8e5098",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 22
+  },
+  {
+   "item": "E2-SHOW-2-THE-TENTH-SECOND",
+   "platform": "instagram",
+   "title": "THE TENTH SECOND E2 \u2014 The Chalk Wall",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-2_the-tenth-second/masters/E2_SHOW-2_the-tenth-second_MASTER.mp4",
+   "md5": "137465e24d1248fe350ac8de5021e937",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 23
+  },
+  {
+   "item": "E2-SHOW-5-THE-LAST-SEAT",
+   "platform": "instagram",
+   "title": "THE LAST SEAT E2 \u2014 Ask the Seat",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-5_the-last-seat/masters/E2_SHOW-5_the-last-seat_house.mp4",
+   "md5": "d899745b106a923d683b71bc5930be53",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 24
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E1",
+   "platform": "instagram",
+   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
+   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 25
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E2",
+   "platform": "instagram",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 26
+  },
+  {
+   "item": "MORPH-ON-AIR-E1",
+   "platform": "instagram",
+   "title": "ON AIR E1 \u2014 The Signed Folder",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
+   "md5": "06cd491007f6919357716010495a00af",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 27
   },
   {
    "item": "MV-11",
@@ -473,7 +442,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 30
+   "rank": 28
   },
   {
    "item": "MV-12",
@@ -486,7 +455,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 31
+   "rank": 29
   },
   {
    "item": "MV-13",
@@ -499,7 +468,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 32
+   "rank": 30
   },
   {
    "item": "MV-18",
@@ -512,7 +481,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 33
+   "rank": 31
   },
   {
    "item": "MV-19",
@@ -525,7 +494,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 34
+   "rank": 32
   },
   {
    "item": "MV-2",
@@ -538,7 +507,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 33
   },
   {
    "item": "MV-20",
@@ -551,7 +520,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 34
   },
   {
    "item": "MV-3",
@@ -564,7 +533,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 35
   },
   {
    "item": "MV-4",
@@ -577,7 +546,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 36
   },
   {
    "item": "MV-6",
@@ -590,20 +559,50 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 37
   },
   {
-   "item": "PILOT-4-THE-COUNT",
+   "item": "PILOT-1-THE-MACHINE",
    "platform": "instagram",
-   "title": "THE COUNT \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
-   "md5": "9d16e248591719ae9040ecb407a9609b",
+   "title": "THE MACHINE \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
+   "md5": "847091dfde8da850229e747038c5bf50",
    "tier": "current",
-   "arc": "ARC-3",
+   "arc": "ARC-1",
    "state": "queued",
    "score": 1000,
    "reasons": [
-    "arc:ARC-3"
+    "arc:ARC-1"
+   ],
+   "rank": 38
+  },
+  {
+   "item": "PILOT-2-THE-TENTH-SECOND",
+   "platform": "instagram",
+   "title": "THE TENTH SECOND \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
+   "md5": "d8377ee5bbcfedae31fd5423bc82ed29",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 39
+  },
+  {
+   "item": "PILOT-5-THE-LAST-SEAT",
+   "platform": "instagram",
+   "title": "THE LAST SEAT \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
+   "md5": "9bb12bc04d8c1c0ce078757e133775c6",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
    ],
    "rank": 40
   },
@@ -799,7 +798,7 @@
    "arc": "ARC-1",
    "caption_label_required": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
    "state": "queued",
-   "score": 920,
+   "score": 900,
    "reasons": [
     "tier:accepted-alternate-demoted",
     "arc:ARC-1"
@@ -815,7 +814,7 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 620,
+   "score": 600,
    "reasons": [
     "verdict:rating-1-demoted",
     "arc:ARC-1"
@@ -1442,28 +1441,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
    ],
    "rank": 10
-  },
-  {
-   "item": "CLAIM-WINDOW-PILOT",
-   "platform": "threads",
-   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
-   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1320,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-1"
-   ],
-   "rank": 11
   },
   {
    "item": "MORPH-HOLD-ON-E3",
@@ -1474,10 +1457,25 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
+   ],
+   "rank": 11
+  },
+  {
+   "item": "MV-25",
+   "platform": "threads",
+   "title": "Turkey's Not the Only One",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+   "md5": "a74c3f279e4d2c30fb198bd334d57aa2",
+   "tier": "current",
+   "arc": null,
+   "state": "queued",
+   "score": 1300,
+   "reasons": [
+    "new:delivered-24h"
    ],
    "rank": 12
   },
@@ -1490,147 +1488,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
    ],
    "rank": 13
-  },
-  {
-   "item": "E2-SHOW-1-THE-MACHINE",
-   "platform": "threads",
-   "title": "THE MACHINE E2 \u2014 The Mouth That Moved First",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-1_the-machine/masters/SHOW1_E2_MASTER.mp4",
-   "md5": "bce7ea141f9828d5b5c9fc066f8e5098",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 14
-  },
-  {
-   "item": "E2-SHOW-2-THE-TENTH-SECOND",
-   "platform": "threads",
-   "title": "THE TENTH SECOND E2 \u2014 The Chalk Wall",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-2_the-tenth-second/masters/E2_SHOW-2_the-tenth-second_MASTER.mp4",
-   "md5": "137465e24d1248fe350ac8de5021e937",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 15
-  },
-  {
-   "item": "E2-SHOW-5-THE-LAST-SEAT",
-   "platform": "threads",
-   "title": "THE LAST SEAT E2 \u2014 Ask the Seat",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-5_the-last-seat/masters/E2_SHOW-5_the-last-seat_house.mp4",
-   "md5": "d899745b106a923d683b71bc5930be53",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 16
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E1",
-   "platform": "threads",
-   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
-   "md5": "0ce3002b252f3b499b9d23009df5e38b",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 17
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E2",
-   "platform": "threads",
-   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
-   "md5": "9635a098436ccdf1d0ad39f4f499b827",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 18
-  },
-  {
-   "item": "MORPH-ON-AIR-E1",
-   "platform": "threads",
-   "title": "ON AIR E1 \u2014 The Signed Folder",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
-   "md5": "06cd491007f6919357716010495a00af",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 19
-  },
-  {
-   "item": "PILOT-1-THE-MACHINE",
-   "platform": "threads",
-   "title": "THE MACHINE \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
-   "md5": "847091dfde8da850229e747038c5bf50",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 20
-  },
-  {
-   "item": "PILOT-2-THE-TENTH-SECOND",
-   "platform": "threads",
-   "title": "THE TENTH SECOND \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
-   "md5": "d8377ee5bbcfedae31fd5423bc82ed29",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 21
-  },
-  {
-   "item": "PILOT-5-THE-LAST-SEAT",
-   "platform": "threads",
-   "title": "THE LAST SEAT \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
-   "md5": "9bb12bc04d8c1c0ce078757e133775c6",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 22
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -1641,11 +1504,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 23
+   "rank": 14
   },
   {
    "item": "MORPH-NIGHT-LIST-E1",
@@ -1656,11 +1519,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 24
+   "rank": 15
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -1671,11 +1534,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 25
+   "rank": 16
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -1686,11 +1549,11 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 26
+   "rank": 17
   },
   {
    "item": "MORPH-ONE-SHORT-E1",
@@ -1701,11 +1564,11 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 27
+   "rank": 18
   },
   {
    "item": "MORPH-ONE-SHORT-E2",
@@ -1716,11 +1579,116 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 28
+   "rank": 19
+  },
+  {
+   "item": "PILOT-4-THE-COUNT",
+   "platform": "threads",
+   "title": "THE COUNT \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
+   "md5": "9d16e248591719ae9040ecb407a9609b",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1010,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 20
+  },
+  {
+   "item": "E2-SHOW-1-THE-MACHINE",
+   "platform": "threads",
+   "title": "THE MACHINE E2 \u2014 The Mouth That Moved First",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-1_the-machine/masters/SHOW1_E2_MASTER.mp4",
+   "md5": "bce7ea141f9828d5b5c9fc066f8e5098",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 21
+  },
+  {
+   "item": "E2-SHOW-2-THE-TENTH-SECOND",
+   "platform": "threads",
+   "title": "THE TENTH SECOND E2 \u2014 The Chalk Wall",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-2_the-tenth-second/masters/E2_SHOW-2_the-tenth-second_MASTER.mp4",
+   "md5": "137465e24d1248fe350ac8de5021e937",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 22
+  },
+  {
+   "item": "E2-SHOW-5-THE-LAST-SEAT",
+   "platform": "threads",
+   "title": "THE LAST SEAT E2 \u2014 Ask the Seat",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-5_the-last-seat/masters/E2_SHOW-5_the-last-seat_house.mp4",
+   "md5": "d899745b106a923d683b71bc5930be53",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 23
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E1",
+   "platform": "threads",
+   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
+   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 24
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E2",
+   "platform": "threads",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 25
+  },
+  {
+   "item": "MORPH-ON-AIR-E1",
+   "platform": "threads",
+   "title": "ON AIR E1 \u2014 The Signed Folder",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
+   "md5": "06cd491007f6919357716010495a00af",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 26
   },
   {
    "item": "MV-11",
@@ -1733,7 +1701,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 29
+   "rank": 27
   },
   {
    "item": "MV-12",
@@ -1746,7 +1714,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 30
+   "rank": 28
   },
   {
    "item": "MV-13",
@@ -1759,7 +1727,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 31
+   "rank": 29
   },
   {
    "item": "MV-18",
@@ -1772,7 +1740,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 32
+   "rank": 30
   },
   {
    "item": "MV-19",
@@ -1785,7 +1753,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 33
+   "rank": 31
   },
   {
    "item": "MV-20",
@@ -1798,7 +1766,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 34
+   "rank": 32
   },
   {
    "item": "MV-3",
@@ -1811,7 +1779,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 33
   },
   {
    "item": "MV-4",
@@ -1824,35 +1792,52 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 34
   },
   {
-   "item": "PILOT-4-THE-COUNT",
+   "item": "PILOT-1-THE-MACHINE",
    "platform": "threads",
-   "title": "THE COUNT \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
-   "md5": "9d16e248591719ae9040ecb407a9609b",
+   "title": "THE MACHINE \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
+   "md5": "847091dfde8da850229e747038c5bf50",
    "tier": "current",
-   "arc": "ARC-3",
+   "arc": "ARC-1",
    "state": "queued",
    "score": 1000,
    "reasons": [
-    "arc:ARC-3"
+    "arc:ARC-1"
    ],
-   "rank": 37
+   "rank": 35
   },
   {
-   "item": "ST-010",
+   "item": "PILOT-2-THE-TENTH-SECOND",
    "platform": "threads",
-   "title": "Station episode ST-010",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep010_1m_16x9.mp4",
-   "md5": "93468004c4a933c7ab80eda84f13a7ac",
+   "title": "THE TENTH SECOND \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
+   "md5": "d8377ee5bbcfedae31fd5423bc82ed29",
    "tier": "current",
-   "arc": null,
+   "arc": "ARC-1",
    "state": "queued",
    "score": 1000,
-   "reasons": [],
-   "rank": 38
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 36
+  },
+  {
+   "item": "PILOT-5-THE-LAST-SEAT",
+   "platform": "threads",
+   "title": "THE LAST SEAT \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
+   "md5": "9bb12bc04d8c1c0ce078757e133775c6",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 37
   },
   {
    "item": "ST-011",
@@ -1865,7 +1850,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 38
   },
   {
    "item": "ST-012",
@@ -1878,7 +1863,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 40
+   "rank": 39
   },
   {
    "item": "ST-013",
@@ -1891,7 +1876,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 41
+   "rank": 40
   },
   {
    "item": "ST-014",
@@ -1904,7 +1889,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 42
+   "rank": 41
   },
   {
    "item": "ST-015",
@@ -1917,7 +1902,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 43
+   "rank": 42
   },
   {
    "item": "ST-016",
@@ -1930,7 +1915,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 44
+   "rank": 43
   },
   {
    "item": "ST-017",
@@ -1943,7 +1928,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 45
+   "rank": 44
   },
   {
    "item": "ST-018",
@@ -1956,7 +1941,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 46
+   "rank": 45
   },
   {
    "item": "ST-019",
@@ -1969,7 +1954,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 47
+   "rank": 46
   },
   {
    "item": "ST-020",
@@ -1982,7 +1967,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 48
+   "rank": 47
   },
   {
    "item": "ST-021",
@@ -1995,7 +1980,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 49
+   "rank": 48
   },
   {
    "item": "ST-022",
@@ -2008,7 +1993,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 50
+   "rank": 49
   },
   {
    "item": "ST-023",
@@ -2021,7 +2006,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 51
+   "rank": 50
   },
   {
    "item": "ST-024",
@@ -2034,7 +2019,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 52
+   "rank": 51
   },
   {
    "item": "ST-025",
@@ -2047,7 +2032,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 53
+   "rank": 52
   },
   {
    "item": "ST-026",
@@ -2060,7 +2045,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 54
+   "rank": 53
   },
   {
    "item": "ST-027",
@@ -2073,7 +2058,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 55
+   "rank": 54
   },
   {
    "item": "ST-028",
@@ -2086,7 +2071,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 56
+   "rank": 55
   },
   {
    "item": "ST-029",
@@ -2099,7 +2084,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 57
+   "rank": 56
   },
   {
    "item": "ST-030",
@@ -2112,7 +2097,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 58
+   "rank": 57
   },
   {
    "item": "ST-031",
@@ -2125,7 +2110,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 59
+   "rank": 58
   },
   {
    "item": "ST-032",
@@ -2138,7 +2123,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 60
+   "rank": 59
   },
   {
    "item": "ST-033",
@@ -2151,7 +2136,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 61
+   "rank": 60
   },
   {
    "item": "ST-078",
@@ -2164,7 +2149,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 62
+   "rank": 61
   },
   {
    "item": "ST-079",
@@ -2177,7 +2162,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 63
+   "rank": 62
   },
   {
    "item": "MORPH-HOLD-ON-E3-OUTTAKES",
@@ -2189,12 +2174,12 @@
    "arc": "ARC-1",
    "caption_label_required": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
    "state": "queued",
-   "score": 920,
+   "score": 900,
    "reasons": [
     "tier:accepted-alternate-demoted",
     "arc:ARC-1"
    ],
-   "rank": 64
+   "rank": 63
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -2205,12 +2190,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 620,
+   "score": 600,
    "reasons": [
     "verdict:rating-1-demoted",
     "arc:ARC-1"
    ],
-   "rank": 65
+   "rank": 64
   },
   {
    "item": "MORPH-HOLD-ON-E2",
@@ -2668,6 +2653,23 @@
    ]
   },
   {
+   "item": "CLAIM-WINDOW-PILOT",
+   "platform": "tiktok",
+   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
+   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1800,
+   "reasons": [
+    "verdict:praise",
+    "new:delivered-24h",
+    "arc:ARC-1"
+   ],
+   "rank": 1
+  },
+  {
    "item": "MV-14",
    "platform": "tiktok",
    "title": "CLIP IT",
@@ -2680,7 +2682,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 1
+   "rank": 2
   },
   {
    "item": "MV-15",
@@ -2695,7 +2697,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 2
+   "rank": 3
   },
   {
    "item": "MV-16",
@@ -2710,7 +2712,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 3
+   "rank": 4
   },
   {
    "item": "MV-17",
@@ -2725,7 +2727,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 4
+   "rank": 5
   },
   {
    "item": "MV-21",
@@ -2740,7 +2742,7 @@
    "reasons": [
     "verdict:rating:85"
    ],
-   "rank": 5
+   "rank": 6
   },
   {
    "item": "MV-5",
@@ -2755,7 +2757,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 6
+   "rank": 7
   },
   {
    "item": "MV-7",
@@ -2770,7 +2772,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 7
+   "rank": 8
   },
   {
    "item": "MV-8",
@@ -2785,7 +2787,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 8
+   "rank": 9
   },
   {
    "item": "MV-9",
@@ -2800,7 +2802,7 @@
    "reasons": [
     "verdict:approve"
    ],
-   "rank": 9
+   "rank": 10
   },
   {
    "item": "CLAIM-WINDOW-E2",
@@ -2811,23 +2813,7 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-1"
-   ],
-   "rank": 10
-  },
-  {
-   "item": "CLAIM-WINDOW-PILOT",
-   "platform": "tiktok",
-   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
-   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
@@ -2843,12 +2829,27 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
    ],
    "rank": 12
+  },
+  {
+   "item": "MV-25",
+   "platform": "tiktok",
+   "title": "Turkey's Not the Only One",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+   "md5": "a74c3f279e4d2c30fb198bd334d57aa2",
+   "tier": "current",
+   "arc": null,
+   "state": "queued",
+   "score": 1300,
+   "reasons": [
+    "new:delivered-24h"
+   ],
+   "rank": 13
   },
   {
    "item": "THE-RETELLING",
@@ -2859,147 +2860,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 1320,
+   "score": 1300,
    "reasons": [
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 13
-  },
-  {
-   "item": "E2-SHOW-1-THE-MACHINE",
-   "platform": "tiktok",
-   "title": "THE MACHINE E2 \u2014 The Mouth That Moved First",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-1_the-machine/masters/SHOW1_E2_MASTER.mp4",
-   "md5": "bce7ea141f9828d5b5c9fc066f8e5098",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
    "rank": 14
-  },
-  {
-   "item": "E2-SHOW-2-THE-TENTH-SECOND",
-   "platform": "tiktok",
-   "title": "THE TENTH SECOND E2 \u2014 The Chalk Wall",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-2_the-tenth-second/masters/E2_SHOW-2_the-tenth-second_MASTER.mp4",
-   "md5": "137465e24d1248fe350ac8de5021e937",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 15
-  },
-  {
-   "item": "E2-SHOW-5-THE-LAST-SEAT",
-   "platform": "tiktok",
-   "title": "THE LAST SEAT E2 \u2014 Ask the Seat",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-5_the-last-seat/masters/E2_SHOW-5_the-last-seat_house.mp4",
-   "md5": "d899745b106a923d683b71bc5930be53",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 16
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E1",
-   "platform": "tiktok",
-   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
-   "md5": "0ce3002b252f3b499b9d23009df5e38b",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 17
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E2",
-   "platform": "tiktok",
-   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
-   "md5": "9635a098436ccdf1d0ad39f4f499b827",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 18
-  },
-  {
-   "item": "MORPH-ON-AIR-E1",
-   "platform": "tiktok",
-   "title": "ON AIR E1 \u2014 The Signed Folder",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
-   "md5": "06cd491007f6919357716010495a00af",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 19
-  },
-  {
-   "item": "PILOT-1-THE-MACHINE",
-   "platform": "tiktok",
-   "title": "THE MACHINE \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
-   "md5": "847091dfde8da850229e747038c5bf50",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 20
-  },
-  {
-   "item": "PILOT-2-THE-TENTH-SECOND",
-   "platform": "tiktok",
-   "title": "THE TENTH SECOND \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
-   "md5": "d8377ee5bbcfedae31fd5423bc82ed29",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 21
-  },
-  {
-   "item": "PILOT-5-THE-LAST-SEAT",
-   "platform": "tiktok",
-   "title": "THE LAST SEAT \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
-   "md5": "9bb12bc04d8c1c0ce078757e133775c6",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1020,
-   "reasons": [
-    "arc:ARC-1"
-   ],
-   "rank": 22
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -3010,11 +2876,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 23
+   "rank": 15
   },
   {
    "item": "MORPH-NIGHT-LIST-E1",
@@ -3025,11 +2891,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 24
+   "rank": 16
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -3040,11 +2906,11 @@
    "tier": "current",
    "arc": "ARC-2",
    "state": "queued",
-   "score": 1010,
+   "score": 1020,
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 25
+   "rank": 17
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -3055,11 +2921,11 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 26
+   "rank": 18
   },
   {
    "item": "MORPH-ONE-SHORT-E1",
@@ -3070,11 +2936,11 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 27
+   "rank": 19
   },
   {
    "item": "MORPH-ONE-SHORT-E2",
@@ -3085,11 +2951,116 @@
    "tier": "current",
    "arc": "ARC-3",
    "state": "queued",
-   "score": 1000,
+   "score": 1010,
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 28
+   "rank": 20
+  },
+  {
+   "item": "PILOT-4-THE-COUNT",
+   "platform": "tiktok",
+   "title": "THE COUNT \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
+   "md5": "9d16e248591719ae9040ecb407a9609b",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1010,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 21
+  },
+  {
+   "item": "E2-SHOW-1-THE-MACHINE",
+   "platform": "tiktok",
+   "title": "THE MACHINE E2 \u2014 The Mouth That Moved First",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-1_the-machine/masters/SHOW1_E2_MASTER.mp4",
+   "md5": "bce7ea141f9828d5b5c9fc066f8e5098",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 22
+  },
+  {
+   "item": "E2-SHOW-2-THE-TENTH-SECOND",
+   "platform": "tiktok",
+   "title": "THE TENTH SECOND E2 \u2014 The Chalk Wall",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-2_the-tenth-second/masters/E2_SHOW-2_the-tenth-second_MASTER.mp4",
+   "md5": "137465e24d1248fe350ac8de5021e937",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 23
+  },
+  {
+   "item": "E2-SHOW-5-THE-LAST-SEAT",
+   "platform": "tiktok",
+   "title": "THE LAST SEAT E2 \u2014 Ask the Seat",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/episodes/E2_SHOW-5_the-last-seat/masters/E2_SHOW-5_the-last-seat_house.mp4",
+   "md5": "d899745b106a923d683b71bc5930be53",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 24
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E1",
+   "platform": "tiktok",
+   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
+   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 25
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E2",
+   "platform": "tiktok",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 26
+  },
+  {
+   "item": "MORPH-ON-AIR-E1",
+   "platform": "tiktok",
+   "title": "ON AIR E1 \u2014 The Signed Folder",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
+   "md5": "06cd491007f6919357716010495a00af",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 27
   },
   {
    "item": "MV-11",
@@ -3102,7 +3073,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 29
+   "rank": 28
   },
   {
    "item": "MV-12",
@@ -3115,7 +3086,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 30
+   "rank": 29
   },
   {
    "item": "MV-13",
@@ -3128,7 +3099,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 31
+   "rank": 30
   },
   {
    "item": "MV-18",
@@ -3141,7 +3112,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 32
+   "rank": 31
   },
   {
    "item": "MV-19",
@@ -3154,7 +3125,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 33
+   "rank": 32
   },
   {
    "item": "MV-2",
@@ -3167,7 +3138,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 34
+   "rank": 33
   },
   {
    "item": "MV-20",
@@ -3180,7 +3151,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 34
   },
   {
    "item": "MV-3",
@@ -3193,7 +3164,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 35
   },
   {
    "item": "MV-4",
@@ -3206,7 +3177,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 36
   },
   {
    "item": "MV-6",
@@ -3219,22 +3190,52 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 37
   },
   {
-   "item": "PILOT-4-THE-COUNT",
+   "item": "PILOT-1-THE-MACHINE",
    "platform": "tiktok",
-   "title": "THE COUNT \u2014 Pilot",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
-   "md5": "9d16e248591719ae9040ecb407a9609b",
+   "title": "THE MACHINE \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
+   "md5": "847091dfde8da850229e747038c5bf50",
    "tier": "current",
-   "arc": "ARC-3",
+   "arc": "ARC-1",
    "state": "queued",
    "score": 1000,
    "reasons": [
-    "arc:ARC-3"
+    "arc:ARC-1"
+   ],
+   "rank": 38
+  },
+  {
+   "item": "PILOT-2-THE-TENTH-SECOND",
+   "platform": "tiktok",
+   "title": "THE TENTH SECOND \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
+   "md5": "d8377ee5bbcfedae31fd5423bc82ed29",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
    ],
    "rank": 39
+  },
+  {
+   "item": "PILOT-5-THE-LAST-SEAT",
+   "platform": "tiktok",
+   "title": "THE LAST SEAT \u2014 Pilot",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
+   "md5": "9bb12bc04d8c1c0ce078757e133775c6",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 40
   },
   {
    "item": "MORPH-HOLD-ON-E3-OUTTAKES",
@@ -3246,12 +3247,12 @@
    "arc": "ARC-1",
    "caption_label_required": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
    "state": "queued",
-   "score": 920,
+   "score": 900,
    "reasons": [
     "tier:accepted-alternate-demoted",
     "arc:ARC-1"
    ],
-   "rank": 40
+   "rank": 41
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -3262,12 +3263,12 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 620,
+   "score": 600,
    "reasons": [
     "verdict:rating-1-demoted",
     "arc:ARC-1"
    ],
-   "rank": 41
+   "rank": 42
   },
   {
    "item": "MORPH-HOLD-ON-E2",

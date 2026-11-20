@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-20T12:24:58Z",
+ "scanned_utc": "2026-11-20T17:46:32Z",
  "items": [
   {
    "id": "MV-2",
@@ -581,6 +581,34 @@
    "audio_fp": {
     "md5_60s": "3489e698be874c23c56f2cbb0d8d7c00",
     "rms_db": -20.06,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-25",
+   "title": "Turkey's Not the Only One",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-25_turkeys-not-the-only-one/masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-20",
+   "exists": true,
+   "size": 105921643,
+   "mtime": 1795195386,
+   "md5": "a74c3f279e4d2c30fb198bd334d57aa2",
+   "duration_s": 196.0,
+   "frames": 4704,
+   "phash": [
+    "466a4ce10c998cb304e304a105a40d268d26cf6247624636067203c20bc489c4",
+    "c448d85851d291de90de99d799c799a791d67193194309a300e20298228e32a5",
+    "207824786cb82c55623463312b33eb33ad6f33773353157a04dd06760d9e1399"
+   ],
+   "audio_fp": {
+    "md5_60s": "11f2133a96df42c8c4833c162f3d02a6",
+    "rms_db": -19.99,
     "seconds": 60.0
    }
   },
