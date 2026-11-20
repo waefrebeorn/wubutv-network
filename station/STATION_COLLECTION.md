@@ -15,7 +15,7 @@ Total episodes: 69 (ST-001 … ST-069). TikTok posts in series order (ST-001 fir
 | ST-007 | The Keeper'S Hearing / The First Standing | station/episodes/station_ep007_1m_16x9.mp4 | d7198c5089177b5dc74689ea4eed6bf5 | 60.12s | — | posted 2026-11-19 | posted 2026-11-04 |
 | ST-008 | The Heard Guest'S First Telling / The First Holding | station/episodes/station_ep008_1m_16x9.mp4 | 1a32cb600eb152cdcac0e5275c3be8a3 | 59.96s | — | posted 2026-11-19 | posted 2026-11-04 |
 | ST-009 | The First Seating In The Gallery / The First Filing | station/episodes/station_ep009_1m_16x9.mp4 | 534b91c1c8e75ed997ad3cbec630d4e4 | 60.12s | — | posted 2026-11-20 | posted 2026-11-04 |
-| ST-010 | The Returned Hearing / The Sealed Question | station/episodes/station_ep010_1m_16x9.mp4 | 93468004c4a933c7ab80eda84f13a7ac | 60.09s | — | — | posted 2026-11-04 |
+| ST-010 | The Returned Hearing / The Sealed Question | station/episodes/station_ep010_1m_16x9.mp4 | 93468004c4a933c7ab80eda84f13a7ac | 60.09s | — | posted 2026-11-20 | posted 2026-11-04 |
 | ST-011 | The Return Nobody Sent For / The Coat Worn Inside Out | station/episodes/station_ep011_1m_16x9.mp4 | 79477409c0550d85b26786ee8f122359 | 59.93s | — | — | posted 2026-11-04 |
 | ST-012 | The Slip The Pocket Kept / The Third Mark That Returned Its Maker | station/episodes/station_ep012_1m_16x9.mp4 | 3a5da880cc7df937232c7c9449fe46c5 | 59.96s | — | — | posted 2026-11-04 |
 | ST-013 | The Fifth Mark That Kept Its Secret / The Seventh Mark That Returned Its Counter | station/episodes/station_ep013_1m_16x9.mp4 | e979e557fe436818b9b408ca2975a575 | 60.12s | — | — | posted 2026-11-04 |
