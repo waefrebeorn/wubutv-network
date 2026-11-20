@@ -1,0 +1,51 @@
+# MV-27 — INTAKE — "WuBu"
+
+- Source: user upload 2026-11-20, Suno lyric video 824x1464 @10fps (lyrics burned in as scrolling karaoke).
+- track.mp4: md5 cb32b18ca750f4b2ee1499e3b933d1bf, duration 252.010s (ffprobe).
+- track.mp3: md5 70ddd3b4cf77bcdea2cd5d06b18360f7 (pre-existing from first intake pass).
+- Lyrics: 73 lyric lines + 11 section tags (lyrics.txt, OCR of burned-in sheet, ASR cross-checked). Sections: [Intro], [Chorus], [Verse 1], [Pre-Chorus], [Chorus], [Verse 2], [Pre-Chorus], [Chorus], [Breakdown], [Final Chorus], [Outro].
+- ASR words: 362; first word at 6.34s, last word ends 248.36s (SONG_WORDS.json).
+- Tempo: 127 BPM measured (AUDIO_ANALYSIS.md).
+- Uncertain lines (41):
+  - ASR cannot hear the name 'WuBu' (renders it as woo/woo-woo/oh-oh chants) and 'WaefreBeorn' not at all — name-bearing lines are timed by sequence where possible and otherwise unmatched; sheet text is frame-verified
+  - ASR verse mishearings corrected from the sheet: 'Long nights' (ASR 'Long days'), 'Bills on the desk' (ASR 'Feels'), 'WuBu makes the way' (ASR 'Global'), 'Backroom glow' (ASR 'blow'), 'Audience rare' (ASR 'real'), 'Clip it up' (ASR once 'Click it up')
+  - Chant regions (intro ~27-48s 'oh/yeah' chants, breakdown ~148-188s, outro after ~215s) park single sheet lines on screen for long stretches; ASR hears extra count-ins/ad-libs there ('Seven, eight' ~158s, 'Oh, my God' ~214s) that are not sheet lines
+  - Breakdown chant cycle (Say the name / Keep it going / Keep it growing x3, framed by WuBu lines) reconstructed from the scrolling display; ASR is heavily garbled in that region and some breakdown/final-chorus chant lines share performances, so several are inferred or unmatched
+  - UNMATCHED in ASR: 'WuBu WuBu'
+  - UNMATCHED in ASR: 'WuBu WuBu, say the name'
+  - UNMATCHED in ASR: 'WuBu WuBu, in the game'
+  - UNMATCHED in ASR: 'Clip it up, clip it up'
+  - UNMATCHED in ASR: 'Bills on the desk and a dream in my hand'
+  - UNMATCHED in ASR: 'WuBu makes the way, does what he can'
+  - UNMATCHED in ASR: 'WuBu WuBu, say the name'
+  - UNMATCHED in ASR: 'WuBu WuBu, in the game'
+  - UNMATCHED in ASR: 'Clip it up, clip it up'
+  - UNMATCHED in ASR: 'WuBu WuBu, hear it loud'
+  - UNMATCHED in ASR: 'WaefreBeorn, say it proud'
+  - UNMATCHED in ASR: 'WuBu WuBu, keep it going'
+  - UNMATCHED in ASR: 'WuBu WuBu, keep it growing'
+  - UNMATCHED in ASR: 'WuBu WuBu, say the name'
+  - UNMATCHED in ASR: 'WuBu WuBu, in the game'
+  - UNMATCHED in ASR: 'Clip it up, clip it up'
+  - UNMATCHED in ASR: 'WuBu WuBu, hear it loud'
+  - UNMATCHED in ASR: 'WaefreBeorn, say it proud'
+  - UNMATCHED in ASR: 'WuBu WuBu, keep it going'
+  - UNMATCHED in ASR: 'WuBu WuBu, keep it growing'
+  - UNMATCHED in ASR: 'WuBu WuBu'
+  - UNMATCHED in ASR: 'Say the name'
+  - UNMATCHED in ASR: 'Keep it going'
+  - UNMATCHED in ASR: 'Keep it growing'
+  - UNMATCHED in ASR: 'WuBu'
+  - UNMATCHED in ASR: 'WuBu'
+  - UNMATCHED in ASR: 'WuBu WuBu, say the name'
+  - UNMATCHED in ASR: 'WuBu WuBu, in the game'
+  - UNMATCHED in ASR: 'Clip it up, clip it up'
+  - UNMATCHED in ASR: 'More and more, never stop'
+  - UNMATCHED in ASR: 'WuBu WuBu, hear it loud'
+  - UNMATCHED in ASR: 'WaefreBeorn, say it proud'
+  - UNMATCHED in ASR: 'WuBu WuBu, keep it going'
+  - UNMATCHED in ASR: 'WuBu WuBu, keep it growing'
+  - UNMATCHED in ASR: 'WuBu WuBu'
+  - UNMATCHED in ASR: 'WuBu WuBu'
+  - UNMATCHED in ASR: 'WuBu WuBu'
+- Anomalies: none beyond the uncertainties above.

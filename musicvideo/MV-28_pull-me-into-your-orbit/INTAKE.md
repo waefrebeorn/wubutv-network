@@ -1,0 +1,21 @@
+# MV-28 — INTAKE — "Pull Me Into Your Orbit"
+
+- Source: user upload 2026-11-20, Suno lyric video 824x1464 @10fps (lyrics burned in as scrolling karaoke).
+- track.mp4: md5 ad0756bea9007f044200ac7efb206afb, duration 240.000s (ffprobe).
+- track.mp3: md5 2ce8af1488cad63b53c85ea39bf89984 (pre-existing from first intake pass).
+- Lyrics: 40 lyric lines + 9 section tags (lyrics.txt, OCR of burned-in sheet, ASR cross-checked). Sections: [Verse 1], [Pre-Chorus], [Chorus], [Verse 2], [Pre-Chorus], [Chorus], [Bridge], [Final Chorus], [Outro].
+- ASR words: 280; first word at 29.66s, last word ends 232.30s (SONG_WORDS.json).
+- Tempo: 141.5 BPM measured (AUDIO_ANALYSIS.md).
+- Uncertain lines (11):
+  - Spoken intro 'Let's get started' (~29.7s, ASR) is not a sheet line; the sheet opens directly with [Verse 1] after a ~30s instrumental intro
+  - Backing ad-libs 'You know the way / Show us the way' are sung in every chorus (ASR) but are not sheet lines; the sheet's lead lines there are 'Let the night come rushing in' / 'Pull me into your orbit'
+  - ASR mishearings corrected from the sheet: 'burn' (ASR 'fall'), 'My lipstick marks the porcelain' (ASR 'My lifting marks'), 'I catch you looking' (ASR 'I'll catch'), 'then you draw me near' (ASR 'and'), 'orbit' (ASR sometimes 'oven'/'Hold me into'/'We'll be into')
+  - Several long chorus lines render width-clipped at the frame edge ('Pull me into your orbit' shows as 'I me into your orbit' / 'into your orbit'); text restored from the unclipped occurrences and ASR
+  - Sheet repeat sung as one phrase (shares previous line's span): 'Let the night come rushing in'
+  - Sheet repeat sung as one phrase (shares previous line's span): 'Let the night come rushing in'
+  - UNMATCHED in ASR: 'Pull me into your orbit'
+  - UNMATCHED in ASR: 'Pull me into your orbit'
+  - UNMATCHED in ASR: 'Pull me into your orbit'
+  - UNMATCHED in ASR: 'Pull me into your orbit'
+  - UNMATCHED in ASR: 'Pull me into your orbit'
+- Anomalies: none beyond the uncertainties above.
