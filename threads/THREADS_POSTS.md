@@ -44,3 +44,4 @@ DEDUP_STATUS: resolved
 
 | MV-5-ALT-lyrics | Easy now, easy now | 2026-11-18 23:47 EDT | 18350591194255982 | Alternate Take — Lyrics Version — MV-5 "Easy now, easy now" (lyrics) · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
 | MV-25 | Turkey's Not the Only One | 2026-11-20 13:40 EDT | 18026186813718310 | MV-25 — "Turkey's Not the Only One" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
+| MV-22 | I Love Spaghetti | 2026-11-20 16:30 EDT | 18128969353809923 | MV-22 — "I Love Spaghetti" · [ARC-2 · THE ROSTER THAT KEEPS EVERYONE] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | REL | posted |
