@@ -1,0 +1,173 @@
+{
+ "file": "takes/U5_t1.mp4",
+ "head_rms_0_1.7": 0.01817903331877175,
+ "ambient_rms_0_0.5": 0.013533377097134577,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 1.94,
+    "end": 3.44,
+    "text": "Driver handed this in at 7.",
+    "words": [
+     {
+      "w": " Driver",
+      "start": 1.94,
+      "end": 2.46
+     },
+     {
+      "w": " handed",
+      "start": 2.46,
+      "end": 2.68
+     },
+     {
+      "w": " this",
+      "start": 2.68,
+      "end": 2.94
+     },
+     {
+      "w": " in",
+      "start": 2.94,
+      "end": 3.12
+     },
+     {
+      "w": " at",
+      "start": 3.12,
+      "end": 3.22
+     },
+     {
+      "w": " 7.",
+      "start": 3.22,
+      "end": 3.44
+     }
+    ],
+    "seg_rms": 0.0878
+   },
+   {
+    "start": 6.3,
+    "end": 7.14,
+    "text": "Torn corner.",
+    "words": [
+     {
+      "w": " Torn",
+      "start": 6.3,
+      "end": 6.8
+     },
+     {
+      "w": " corner.",
+      "start": 6.8,
+      "end": 7.14
+     }
+    ],
+    "seg_rms": 0.1006
+   },
+   {
+    "start": 7.68,
+    "end": 9.14,
+    "text": "Little peach in the photo.",
+    "words": [
+     {
+      "w": " Little",
+      "start": 7.68,
+      "end": 8.18
+     },
+     {
+      "w": " peach",
+      "start": 8.18,
+      "end": 8.5
+     },
+     {
+      "w": " in",
+      "start": 8.5,
+      "end": 8.76
+     },
+     {
+      "w": " the",
+      "start": 8.76,
+      "end": 8.84
+     },
+     {
+      "w": " photo.",
+      "start": 8.84,
+      "end": 9.14
+     }
+    ],
+    "seg_rms": 0.0559
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 1.94,
+    "end": 9.22,
+    "text": "Driver handed this in at seven. Torn corner. Little peach in the photo.",
+    "words": [
+     {
+      "w": " Driver",
+      "start": 1.94,
+      "end": 2.54
+     },
+     {
+      "w": " handed",
+      "start": 2.54,
+      "end": 2.86
+     },
+     {
+      "w": " this",
+      "start": 2.86,
+      "end": 3.06
+     },
+     {
+      "w": " in",
+      "start": 3.06,
+      "end": 3.2
+     },
+     {
+      "w": " at",
+      "start": 3.2,
+      "end": 3.32
+     },
+     {
+      "w": " seven.",
+      "start": 3.32,
+      "end": 3.64
+     },
+     {
+      "w": " Torn",
+      "start": 6.38,
+      "end": 6.9
+     },
+     {
+      "w": " corner.",
+      "start": 6.9,
+      "end": 7.28
+     },
+     {
+      "w": " Little",
+      "start": 8.08,
+      "end": 8.32
+     },
+     {
+      "w": " peach",
+      "start": 8.32,
+      "end": 8.7
+     },
+     {
+      "w": " in",
+      "start": 8.7,
+      "end": 8.82
+     },
+     {
+      "w": " the",
+      "start": 8.82,
+      "end": 8.9
+     },
+     {
+      "w": " photo.",
+      "start": 8.9,
+      "end": 9.22
+     }
+    ],
+    "seg_rms": 0.062
+   }
+  ]
+ }
+}
