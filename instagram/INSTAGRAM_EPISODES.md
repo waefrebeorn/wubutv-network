@@ -188,3 +188,4 @@
 | ST-002 | The Demand / The Second Warmth | 2026-11-17 04:30 EDT | 18016105103966518 | STATION — ep002 (ST-002) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
 | ST-003 | The Third Word, Read / The First Watch | 2026-11-18 02:32 EDT | 18138525559676516 | STATION — ep003 (ST-003) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
 | ST-004 | The First Reading / The Third Reading | 2026-11-19 02:30 EDT | 18155281492551207 | STATION — ep004 (ST-004) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
+| ST-005 | The Fifth Reading / The First Precedent | 2026-11-20 00:30 EDT | 18094366709226675 | STATION — ep005 (ST-005) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
