@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-20T21:34:31Z",
+ "scanned_utc": "2026-11-20T22:38:00Z",
  "items": [
   {
    "id": "MV-2",
@@ -669,6 +669,34 @@
    "audio_fp": {
     "md5_60s": "61fd4fc68303e675007765f31bc38481",
     "rms_db": -18.39,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-26",
+   "title": "Gotta Poop",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-26_gotta-poop/masters/mv26_gotta_poop_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-20",
+   "exists": true,
+   "size": 64201757,
+   "mtime": 1795213356,
+   "md5": "7e1afe037d9598088c0500c0f1f20640",
+   "duration_s": 119.62,
+   "frames": 2871,
+   "phash": [
+    "233a737a72ca32ca338ab33a3153737373333332b17635722552215625362531",
+    "61feb03c7259533373066b072e340f1489b54b29c329c5294539453147314791",
+    "638963894389c60da68fa68f218f23cd23cf65ee63eee3afebaf6bafe3af798d"
+   ],
+   "audio_fp": {
+    "md5_60s": "ee2b3098d68edd921d95af1240c76d72",
+    "rms_db": -18.48,
     "seconds": 60.0
    }
   },

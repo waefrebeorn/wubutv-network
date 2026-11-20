@@ -36,8 +36,9 @@ MV_CURRENT = [
     (25, "Turkey's Not the Only One", "mv25_turkeys_not_the_only_one_16x9_subs.mp4"),
     (22, "I Love Spaghetti", "mv22_i_love_spaghetti_16x9_subs.mp4"),
     (23, "Call Me Ranch", "mv23_call_me_ranch_16x9.mp4"),
+    (26, "Gotta Poop", "mv26_gotta_poop_16x9.mp4"),
 ]
-MV_DELIVERED = {18: "2026-11-14", 19: "2026-11-14", 20: "2026-11-14", 21: "2026-11-15", 25: "2026-11-20", 22: "2026-11-20", 23: "2026-11-20"}
+MV_DELIVERED = {18: "2026-11-14", 19: "2026-11-14", 20: "2026-11-14", 21: "2026-11-15", 25: "2026-11-20", 22: "2026-11-20", 23: "2026-11-20", 26: "2026-11-20"}
 
 # --- Tier 3: rejected/superseded, now accepted (msg 516) with msg-518 verdicts ---
 # (item suffix, filename, different_enough, caption label or None, extra flags)
