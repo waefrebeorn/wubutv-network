@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-20T20:36:01Z",
+ "scanned_utc": "2026-11-20T21:34:31Z",
  "items": [
   {
    "id": "MV-2",
@@ -639,6 +639,36 @@
    "audio_fp": {
     "md5_60s": "dc39502961a873e0fe7ed99c9bc1c6b6",
     "rms_db": -19.48,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-23",
+   "title": "Call Me Ranch",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-23_call-me-ranch/masters/mv23_call_me_ranch_16x9_50mb.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-20",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-23_call-me-ranch/masters/mv23_call_me_ranch_16x9.mp4",
+   "delivery_encode": true,
+   "exists": true,
+   "size": 44871602,
+   "mtime": 1795210457,
+   "md5": "e2e037c2254a08e926296f06ccb17c70",
+   "duration_s": 176.79,
+   "frames": 4243,
+   "phash": [
+    "8987c9c182c4b6cd366d31653977797778732875387a243b30733873387d3879",
+    "9b329872ecda699b399e399c399c139c33dc276c033c13bc131e1bbe1b5e19cc",
+    "035684d664ec61ac61ac610c698c49cc43ec437c437843794b790d7908f91be9"
+   ],
+   "audio_fp": {
+    "md5_60s": "61fd4fc68303e675007765f31bc38481",
+    "rms_db": -18.39,
     "seconds": 60.0
    }
   },
