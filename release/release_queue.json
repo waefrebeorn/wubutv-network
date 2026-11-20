@@ -1,153 +1,14 @@
 {
  "version": 1,
- "computed_utc": "2026-11-17T05:06:00Z",
+ "computed_utc": "2026-11-20T12:24:58Z",
  "rotation_next": "ARC-1",
  "entries": [
-  {
-   "item": "MV-15",
-   "platform": "instagram",
-   "title": "Unread DMs",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9_50mb.mp4",
-   "md5": "c74137d0da6ea4633d0ed4d438bebf93",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 1
-  },
-  {
-   "item": "MV-16",
-   "platform": "instagram",
-   "title": "Wrong for Years",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_50mb.mp4",
-   "md5": "134fc9afc7024a0c58b745fa56416734",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 2
-  },
-  {
-   "item": "MV-17",
-   "platform": "instagram",
-   "title": "Fridge Light Mystery",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9_50mb.mp4",
-   "md5": "4f9a44cea97bc274dc28671ad6b9a927",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 3
-  },
-  {
-   "item": "MV-5",
-   "platform": "instagram",
-   "title": "Easy now, easy now",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6_50mb.mp4",
-   "md5": "800be18f221154aeb97615587166ce87",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 4
-  },
-  {
-   "item": "MV-7",
-   "platform": "instagram",
-   "title": "I'm the Nobody Man",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/masters/mv7_im_the_nobody_man_16x9_rebuild2.mp4",
-   "md5": "36176f04c349ad05e2f456e129392b80",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 5
-  },
-  {
-   "item": "MV-8",
-   "platform": "instagram",
-   "title": "Wipe and it's still there",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/masters/mv8_wipe_and_its_still_there_v3_16x9_50mb.mp4",
-   "md5": "07ee1c9c9df93b3302850e7c1a54ad32",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 6
-  },
-  {
-   "item": "MV-9",
-   "platform": "instagram",
-   "title": "Gotta hold it",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2_50mb.mp4",
-   "md5": "c40054a0cb78f586f94d7326abf84e4d",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1500,
-   "reasons": [
-    "verdict:approve"
-   ],
-   "rank": 7
-  },
-  {
-   "item": "MV-11-ALT-1",
-   "platform": "instagram",
-   "title": "MV-11 (ALT-1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_16x9_50mb.mp4",
-   "md5": "de4a44e05f60b0c07f1ac73dc331611f",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 8
-  },
-  {
-   "item": "MV-11-ALT-2",
-   "platform": "instagram",
-   "title": "MV-11 (ALT-2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_rebuild_16x9_50mb.mp4",
-   "md5": "84565a7518f1d136e5d956d8293808d2",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 9
-  },
   {
    "item": "MV-16-ALT-wrongtake",
    "platform": "instagram",
    "title": "MV-16 (ALT-wrongtake)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake.mp4",
-   "md5": "8313d30a679a1bdd6c6adf96ec32ee10",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake_50mb.mp4",
+   "md5": "51b568716f206951e39d7377e5520ff4",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Suno Take",
@@ -157,31 +18,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 10
-  },
-  {
-   "item": "MV-2-ALT-viewing",
-   "platform": "instagram",
-   "title": "MV-2 (ALT-viewing)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_viewingcut_16x9.mp4",
-   "md5": "ff39ec1837ece12c1afab70829a73802",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Cut",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 11
+   "rank": 1
   },
   {
    "item": "MV-5-ALT-lyrics",
    "platform": "instagram",
    "title": "MV-5 (ALT-lyrics)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics.mp4",
-   "md5": "a3e659220dd2870ab57c20cad198567e",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics_50mb.mp4",
+   "md5": "02484ad153a765fa411d591f37542494",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take \u2014 Lyrics Version",
@@ -191,14 +35,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 12
+   "rank": 2
   },
   {
    "item": "MV-5-ALT-v1",
    "platform": "instagram",
    "title": "MV-5 (ALT-v1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9.mp4",
-   "md5": "e35be156af5f9c62a5a96fc819354640",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_50mb.mp4",
+   "md5": "f219e0e8a150d18d7d15e3f303a7be24",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take",
@@ -208,14 +52,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 13
+   "rank": 3
   },
   {
    "item": "MV-5-ALT-v2",
    "platform": "instagram",
    "title": "MV-5 (ALT-v2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2.mp4",
-   "md5": "1c252e69032ab028c5e9a72ce974ea46",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2_50mb.mp4",
+   "md5": "048855d04a3353fa6d047788f961015c",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take",
@@ -225,14 +69,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 14
+   "rank": 4
   },
   {
    "item": "MV-5-ALT-v3",
    "platform": "instagram",
    "title": "MV-5 (ALT-v3)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3.mp4",
-   "md5": "e13f17fc3a1e130ff1bfcd865a0c0ed1",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3_50mb.mp4",
+   "md5": "965bca6a2a97bdcdfee970d0af2fbbc1",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take",
@@ -242,14 +86,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 15
+   "rank": 5
   },
   {
    "item": "MV-5-ALT-v4",
    "platform": "instagram",
    "title": "MV-5 (ALT-v4)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4.mp4",
-   "md5": "ea70bb8da8cba66f5062ab09cee8758b",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4_50mb.mp4",
+   "md5": "6e220cc911494ec4061f1ca46dbedb37",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take",
@@ -259,14 +103,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 16
+   "rank": 6
   },
   {
    "item": "MV-5-ALT-v5",
    "platform": "instagram",
    "title": "MV-5 (ALT-v5)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5.mp4",
-   "md5": "395c314080d7bfc33ff6f0808b7463cd",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5_50mb.mp4",
+   "md5": "b439feb570492d6b12e2678a428d6877",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take",
@@ -276,7 +120,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 17
+   "rank": 7
   },
   {
    "item": "MV-7-ALT-otaku",
@@ -293,7 +137,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 18
+   "rank": 8
   },
   {
    "item": "MV-7-ALT-v1",
@@ -310,7 +154,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 19
+   "rank": 9
   },
   {
    "item": "MV-8-ALT-v2",
@@ -327,14 +171,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 20
+   "rank": 10
   },
   {
-   "item": "MORPH-LAST-SEAT-E1",
+   "item": "CLAIM-WINDOW-E2",
    "platform": "instagram",
-   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
-   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "title": "CLAIM WINDOW E2 \u2014 The Bus Pass",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window-e2/masters/CLAIM_WINDOW_E2_16x9.mp4",
+   "md5": "16026b2d85aebb44b634aaf2525de565",
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
@@ -343,14 +187,14 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 21
+   "rank": 11
   },
   {
-   "item": "MORPH-ON-AIR-E1",
+   "item": "CLAIM-WINDOW-PILOT",
    "platform": "instagram",
-   "title": "ON AIR E1 \u2014 The Signed Folder",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
-   "md5": "06cd491007f6919357716010495a00af",
+   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
+   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
@@ -359,39 +203,39 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 22
+   "rank": 12
   },
   {
-   "item": "MORPH-NIGHT-LIST-E1",
+   "item": "MORPH-HOLD-ON-E3",
    "platform": "instagram",
-   "title": "THE NIGHT LIST E1 \u2014 The Sol Night",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-night-list/masters/E1_the-night-list.mp4",
-   "md5": "c8154d92aff983396029cf60f8b57f63",
+   "title": "HOLD ON E3 \u2014 Write That the Holder Stole",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_16x9.mp4",
+   "md5": "1ac601e1935c88201082ae0a54fa4b73",
    "tier": "current",
-   "arc": "ARC-2",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1310,
+   "score": 1320,
    "reasons": [
     "new:delivered-24h",
-    "arc:ARC-2"
+    "arc:ARC-1"
    ],
-   "rank": 23
+   "rank": 13
   },
   {
-   "item": "MORPH-ONE-SHORT-E1",
+   "item": "THE-RETELLING",
    "platform": "instagram",
-   "title": "ONE SHORT E1 \u2014 Thirty-One Umbrellas",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_one-short/masters/E1_one-short_MASTER.mp4",
-   "md5": "3b57d253a547ca40e82cf9bb6fb4df06",
+   "title": "THE RETELLING",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/redemption/masters/THE_RETELLING_16x9.mp4",
+   "md5": "00fd893488fb2274f34b1454e4856024",
    "tier": "current",
-   "arc": "ARC-3",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1300,
+   "score": 1320,
    "reasons": [
     "new:delivered-24h",
-    "arc:ARC-3"
+    "arc:ARC-1"
    ],
-   "rank": 24
+   "rank": 14
   },
   {
    "item": "E2-SHOW-1-THE-MACHINE",
@@ -406,7 +250,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 25
+   "rank": 15
   },
   {
    "item": "E2-SHOW-2-THE-TENTH-SECOND",
@@ -421,7 +265,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 26
+   "rank": 16
   },
   {
    "item": "E2-SHOW-5-THE-LAST-SEAT",
@@ -436,7 +280,52 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 27
+   "rank": 17
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E1",
+   "platform": "instagram",
+   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
+   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 18
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E2",
+   "platform": "instagram",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 19
+  },
+  {
+   "item": "MORPH-ON-AIR-E1",
+   "platform": "instagram",
+   "title": "ON AIR E1 \u2014 The Signed Folder",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
+   "md5": "06cd491007f6919357716010495a00af",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 20
   },
   {
    "item": "PILOT-1-THE-MACHINE",
@@ -451,7 +340,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 28
+   "rank": 21
   },
   {
    "item": "PILOT-2-THE-TENTH-SECOND",
@@ -466,7 +355,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 29
+   "rank": 22
   },
   {
    "item": "PILOT-5-THE-LAST-SEAT",
@@ -481,7 +370,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 30
+   "rank": 23
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -496,7 +385,22 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 31
+   "rank": 24
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E1",
+   "platform": "instagram",
+   "title": "THE NIGHT LIST E1 \u2014 The Sol Night",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-night-list/masters/E1_the-night-list.mp4",
+   "md5": "c8154d92aff983396029cf60f8b57f63",
+   "tier": "current",
+   "arc": "ARC-2",
+   "state": "queued",
+   "score": 1010,
+   "reasons": [
+    "arc:ARC-2"
+   ],
+   "rank": 25
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -511,7 +415,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 32
+   "rank": 26
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -526,7 +430,37 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 33
+   "rank": 27
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E1",
+   "platform": "instagram",
+   "title": "ONE SHORT E1 \u2014 Thirty-One Umbrellas",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_one-short/masters/E1_one-short_MASTER.mp4",
+   "md5": "3b57d253a547ca40e82cf9bb6fb4df06",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 28
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E2",
+   "platform": "instagram",
+   "title": "ONE SHORT E2 \u2014 Twenty-Four Chairs",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_one-short/masters/oneshort_E2_master.mp4",
+   "md5": "0d57f2c57f47c6447cf2278ad001c140",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 29
   },
   {
    "item": "MV-11",
@@ -539,7 +473,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 34
+   "rank": 30
   },
   {
    "item": "MV-12",
@@ -552,7 +486,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 31
   },
   {
    "item": "MV-13",
@@ -565,7 +499,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 32
   },
   {
    "item": "MV-18",
@@ -578,7 +512,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 33
   },
   {
    "item": "MV-19",
@@ -591,7 +525,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 34
   },
   {
    "item": "MV-2",
@@ -604,7 +538,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 35
   },
   {
    "item": "MV-20",
@@ -617,7 +551,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 40
+   "rank": 36
   },
   {
    "item": "MV-3",
@@ -630,7 +564,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 41
+   "rank": 37
   },
   {
    "item": "MV-4",
@@ -643,7 +577,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 42
+   "rank": 38
   },
   {
    "item": "MV-6",
@@ -656,7 +590,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 43
+   "rank": 39
   },
   {
    "item": "PILOT-4-THE-COUNT",
@@ -671,59 +605,7 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 44
-  },
-  {
-   "item": "ST-002",
-   "platform": "instagram",
-   "title": "Station episode ST-002",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep002_1m_16x9.mp4",
-   "md5": "be308239a8ad162004c4a10670208c22",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 45
-  },
-  {
-   "item": "ST-003",
-   "platform": "instagram",
-   "title": "Station episode ST-003",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep003_1m_16x9.mp4",
-   "md5": "75a2adb994ecb19608a24f36f836377f",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 46
-  },
-  {
-   "item": "ST-004",
-   "platform": "instagram",
-   "title": "Station episode ST-004",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep004_1m_16x9.mp4",
-   "md5": "16b25e1dfb147a28a95a2b117cac19c0",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 47
-  },
-  {
-   "item": "ST-005",
-   "platform": "instagram",
-   "title": "Station episode ST-005",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep005_1m_16x9.mp4",
-   "md5": "1321612ac140098242c769234b15606f",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 48
+   "rank": 40
   },
   {
    "item": "ST-006",
@@ -736,7 +618,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 49
+   "rank": 41
   },
   {
    "item": "ST-007",
@@ -749,7 +631,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 50
+   "rank": 42
   },
   {
    "item": "ST-008",
@@ -762,7 +644,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 51
+   "rank": 43
   },
   {
    "item": "ST-009",
@@ -775,7 +657,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 52
+   "rank": 44
   },
   {
    "item": "ST-010",
@@ -788,7 +670,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 53
+   "rank": 45
   },
   {
    "item": "ST-011",
@@ -801,7 +683,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 54
+   "rank": 46
   },
   {
    "item": "ST-012",
@@ -814,7 +696,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 55
+   "rank": 47
   },
   {
    "item": "ST-013",
@@ -827,7 +709,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 56
+   "rank": 48
   },
   {
    "item": "ST-014",
@@ -840,7 +722,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 57
+   "rank": 49
   },
   {
    "item": "ST-015",
@@ -853,7 +735,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 58
+   "rank": 50
   },
   {
    "item": "ST-016",
@@ -866,7 +748,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 59
+   "rank": 51
   },
   {
    "item": "ST-017",
@@ -879,7 +761,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 60
+   "rank": 52
   },
   {
    "item": "ST-078",
@@ -892,7 +774,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 61
+   "rank": 53
   },
   {
    "item": "ST-079",
@@ -905,7 +787,24 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 62
+   "rank": 54
+  },
+  {
+   "item": "MORPH-HOLD-ON-E3-OUTTAKES",
+   "platform": "instagram",
+   "title": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_PEACH_OUTTAKES.mp4",
+   "md5": "3c1a659d3a99a27fdfc8825bfba4a9db",
+   "tier": "rejected-accepted",
+   "arc": "ARC-1",
+   "caption_label_required": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "state": "queued",
+   "score": 920,
+   "reasons": [
+    "tier:accepted-alternate-demoted",
+    "arc:ARC-1"
+   ],
+   "rank": 55
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -916,13 +815,160 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 920,
+   "score": 620,
    "reasons": [
     "verdict:rating-1-demoted",
-    "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 63
+   "rank": 56
+  },
+  {
+   "item": "MORPH-HOLD-ON-E2",
+   "platform": "instagram",
+   "title": "HOLD ON E2 \u2014 Write That We're Married",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_16x9.mp4",
+   "md5": "a33c76810b015174863fb66acf8490e4",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "REJECTED by user 2026-11-17 ('THIS WAS MISHMASH', one-star batch verdict). Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-HOLD-ON-E2-REPAIR",
+   "platform": "instagram",
+   "title": "HOLD ON E2 \u2014 Repair Cut",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_REPAIR.mp4",
+   "md5": "a6f6102c5c5b93a3239b0e89ef315996",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "Repair cut of the user-rejected HOLD ON E2. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V1",
+   "platform": "instagram",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v1)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list.mp4",
+   "md5": "23dc0731c24f49bc2eea2fec68470c87",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "Superseded by v2/v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V2",
+   "platform": "instagram",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v2)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v2.mp4",
+   "md5": "97bf385fefface7ea199cf9f5b690096",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "Superseded by v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V3",
+   "platform": "instagram",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v3)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v3.mp4",
+   "md5": "7be7d8b8702a019ac19f95100b9d285c",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "SHELVED 2026-11-17: FAILED the cold ear-test after passing F-9. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-ON-AIR-E2",
+   "platform": "instagram",
+   "title": "ON AIR E2 \u2014 Show Me How",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_on-air/masters/ON_AIR_E2_MASTER.mp4",
+   "md5": "9f2790f480e4d6b32850ad0a028981d1",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "SHELVED 2026-11-18: cold ear-test FAIL (U2 missing 'Number Four' + the Colonel's cancellation condition); repair rounds 1-6 closed UNREPAIRED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E3",
+   "platform": "instagram",
+   "title": "ONE SHORT E3 \u2014 Thirty-One Umbrellas \u2014 AND ONE BY THE DOOR",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_one-short/masters/oneshort_E3_master.mp4",
+   "md5": "54cc5582848a76c5ef4e8b351c7dd0c2",
+   "tier": "current",
+   "arc": "ARC-3",
+   "guardrail_reason": "HELD 2026-11-20: written under the dialogue method the user condemned 2026-11-18 ('the way that all of the dialog is being made is wrong'); the verdict explicitly covers this episode. Never auto-post until re-dialogued or cleared by a parent/user ruling.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-3"
+   ]
+  },
+  {
+   "item": "MV-11-ALT-1",
+   "platform": "instagram",
+   "title": "MV-11 (ALT-1)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_16x9_50mb.mp4",
+   "md5": "de4a44e05f60b0c07f1ac73dc331611f",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-11, which is not yet posted on instagram \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-11-ALT-2",
+   "platform": "instagram",
+   "title": "MV-11 (ALT-2)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_rebuild_16x9_50mb.mp4",
+   "md5": "84565a7518f1d136e5d956d8293808d2",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-11, which is not yet posted on instagram \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
   },
   {
    "item": "MV-12-ALT-v1",
@@ -1005,6 +1051,24 @@
    "score": null,
    "reasons": [
     "guardrail:too-close-msg518",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-2-ALT-viewing",
+   "platform": "instagram",
+   "title": "MV-2 (ALT-viewing)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_viewingcut_16x9.mp4",
+   "md5": "ff39ec1837ece12c1afab70829a73802",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-2, which is not yet posted on instagram \u2014 the base posts first.",
+   "caption_label_required": "Alternate Cut",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ]
@@ -1217,86 +1281,96 @@
    ]
   },
   {
-   "item": "MV-15",
+   "item": "MV-16-ALT-wrongtake",
    "platform": "threads",
-   "title": "Unread DMs",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9_50mb.mp4",
-   "md5": "c74137d0da6ea4633d0ed4d438bebf93",
-   "tier": "current",
+   "title": "MV-16 (ALT-wrongtake)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake_50mb.mp4",
+   "md5": "51b568716f206951e39d7377e5520ff4",
+   "tier": "rejected-accepted",
    "arc": null,
+   "caption_label_required": "Alternate Suno Take",
    "state": "queued",
-   "score": 1500,
+   "score": 1400,
    "reasons": [
-    "verdict:approve"
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
    ],
    "rank": 1
   },
   {
-   "item": "MV-16",
+   "item": "MV-5-ALT-v1",
    "platform": "threads",
-   "title": "Wrong for Years",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_50mb.mp4",
-   "md5": "134fc9afc7024a0c58b745fa56416734",
-   "tier": "current",
+   "title": "MV-5 (ALT-v1)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_50mb.mp4",
+   "md5": "f219e0e8a150d18d7d15e3f303a7be24",
+   "tier": "rejected-accepted",
    "arc": null,
+   "caption_label_required": "Alternate Take",
    "state": "queued",
-   "score": 1500,
+   "score": 1400,
    "reasons": [
-    "verdict:approve"
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
    ],
    "rank": 2
   },
   {
-   "item": "MV-17",
+   "item": "MV-5-ALT-v2",
    "platform": "threads",
-   "title": "Fridge Light Mystery",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9_50mb.mp4",
-   "md5": "4f9a44cea97bc274dc28671ad6b9a927",
-   "tier": "current",
+   "title": "MV-5 (ALT-v2)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2_50mb.mp4",
+   "md5": "048855d04a3353fa6d047788f961015c",
+   "tier": "rejected-accepted",
    "arc": null,
+   "caption_label_required": "Alternate Take",
    "state": "queued",
-   "score": 1500,
+   "score": 1400,
    "reasons": [
-    "verdict:approve"
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
    ],
    "rank": 3
   },
   {
-   "item": "MV-21",
+   "item": "MV-5-ALT-v3",
    "platform": "threads",
-   "title": "Wowie Pants That Fit",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-21_wowie-pants-that-fit/masters/mv21_wowie_pants_that_fit_16x9.mp4",
-   "md5": "628c386c060c82af029be96060b3a070",
-   "tier": "current",
+   "title": "MV-5 (ALT-v3)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3_50mb.mp4",
+   "md5": "965bca6a2a97bdcdfee970d0af2fbbc1",
+   "tier": "rejected-accepted",
    "arc": null,
+   "caption_label_required": "Alternate Take",
    "state": "queued",
-   "score": 1500,
+   "score": 1400,
    "reasons": [
-    "verdict:rating:85"
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
    ],
    "rank": 4
   },
   {
-   "item": "MV-9",
+   "item": "MV-5-ALT-v4",
    "platform": "threads",
-   "title": "Gotta hold it",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2_50mb.mp4",
-   "md5": "c40054a0cb78f586f94d7326abf84e4d",
-   "tier": "current",
+   "title": "MV-5 (ALT-v4)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4_50mb.mp4",
+   "md5": "6e220cc911494ec4061f1ca46dbedb37",
+   "tier": "rejected-accepted",
    "arc": null,
+   "caption_label_required": "Alternate Take",
    "state": "queued",
-   "score": 1500,
+   "score": 1400,
    "reasons": [
-    "verdict:approve"
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
    ],
    "rank": 5
   },
   {
-   "item": "MV-11-ALT-1",
+   "item": "MV-5-ALT-v5",
    "platform": "threads",
-   "title": "MV-11 (ALT-1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_16x9_50mb.mp4",
-   "md5": "de4a44e05f60b0c07f1ac73dc331611f",
+   "title": "MV-5 (ALT-v5)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5_50mb.mp4",
+   "md5": "b439feb570492d6b12e2678a428d6877",
    "tier": "rejected-accepted",
    "arc": null,
    "caption_label_required": "Alternate Take",
@@ -1307,159 +1381,6 @@
     "tier:accepted-alternate-demoted"
    ],
    "rank": 6
-  },
-  {
-   "item": "MV-11-ALT-2",
-   "platform": "threads",
-   "title": "MV-11 (ALT-2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_rebuild_16x9_50mb.mp4",
-   "md5": "84565a7518f1d136e5d956d8293808d2",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 7
-  },
-  {
-   "item": "MV-16-ALT-wrongtake",
-   "platform": "threads",
-   "title": "MV-16 (ALT-wrongtake)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake.mp4",
-   "md5": "8313d30a679a1bdd6c6adf96ec32ee10",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Suno Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 8
-  },
-  {
-   "item": "MV-2-ALT-viewing",
-   "platform": "threads",
-   "title": "MV-2 (ALT-viewing)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_viewingcut_16x9.mp4",
-   "md5": "ff39ec1837ece12c1afab70829a73802",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Cut",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 9
-  },
-  {
-   "item": "MV-5-ALT-lyrics",
-   "platform": "threads",
-   "title": "MV-5 (ALT-lyrics)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics.mp4",
-   "md5": "a3e659220dd2870ab57c20cad198567e",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take \u2014 Lyrics Version",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 10
-  },
-  {
-   "item": "MV-5-ALT-v1",
-   "platform": "threads",
-   "title": "MV-5 (ALT-v1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9.mp4",
-   "md5": "e35be156af5f9c62a5a96fc819354640",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 11
-  },
-  {
-   "item": "MV-5-ALT-v2",
-   "platform": "threads",
-   "title": "MV-5 (ALT-v2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2.mp4",
-   "md5": "1c252e69032ab028c5e9a72ce974ea46",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 12
-  },
-  {
-   "item": "MV-5-ALT-v3",
-   "platform": "threads",
-   "title": "MV-5 (ALT-v3)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3.mp4",
-   "md5": "e13f17fc3a1e130ff1bfcd865a0c0ed1",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 13
-  },
-  {
-   "item": "MV-5-ALT-v4",
-   "platform": "threads",
-   "title": "MV-5 (ALT-v4)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4.mp4",
-   "md5": "ea70bb8da8cba66f5062ab09cee8758b",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 14
-  },
-  {
-   "item": "MV-5-ALT-v5",
-   "platform": "threads",
-   "title": "MV-5 (ALT-v5)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5.mp4",
-   "md5": "395c314080d7bfc33ff6f0808b7463cd",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 15
   },
   {
    "item": "MV-7-ALT-otaku",
@@ -1476,7 +1397,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 16
+   "rank": 7
   },
   {
    "item": "MV-7-ALT-v1",
@@ -1493,7 +1414,7 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 17
+   "rank": 8
   },
   {
    "item": "MV-8-ALT-v2",
@@ -1510,14 +1431,14 @@
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ],
-   "rank": 18
+   "rank": 9
   },
   {
-   "item": "MORPH-LAST-SEAT-E1",
+   "item": "CLAIM-WINDOW-E2",
    "platform": "threads",
-   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
-   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "title": "CLAIM WINDOW E2 \u2014 The Bus Pass",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window-e2/masters/CLAIM_WINDOW_E2_16x9.mp4",
+   "md5": "16026b2d85aebb44b634aaf2525de565",
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
@@ -1526,14 +1447,14 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 19
+   "rank": 10
   },
   {
-   "item": "MORPH-ON-AIR-E1",
+   "item": "CLAIM-WINDOW-PILOT",
    "platform": "threads",
-   "title": "ON AIR E1 \u2014 The Signed Folder",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
-   "md5": "06cd491007f6919357716010495a00af",
+   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
+   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
@@ -1542,39 +1463,39 @@
     "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 20
+   "rank": 11
   },
   {
-   "item": "MORPH-NIGHT-LIST-E1",
+   "item": "MORPH-HOLD-ON-E3",
    "platform": "threads",
-   "title": "THE NIGHT LIST E1 \u2014 The Sol Night",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-night-list/masters/E1_the-night-list.mp4",
-   "md5": "c8154d92aff983396029cf60f8b57f63",
+   "title": "HOLD ON E3 \u2014 Write That the Holder Stole",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_16x9.mp4",
+   "md5": "1ac601e1935c88201082ae0a54fa4b73",
    "tier": "current",
-   "arc": "ARC-2",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1310,
+   "score": 1320,
    "reasons": [
     "new:delivered-24h",
-    "arc:ARC-2"
+    "arc:ARC-1"
    ],
-   "rank": 21
+   "rank": 12
   },
   {
-   "item": "MORPH-ONE-SHORT-E1",
+   "item": "THE-RETELLING",
    "platform": "threads",
-   "title": "ONE SHORT E1 \u2014 Thirty-One Umbrellas",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_one-short/masters/E1_one-short_MASTER.mp4",
-   "md5": "3b57d253a547ca40e82cf9bb6fb4df06",
+   "title": "THE RETELLING",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/redemption/masters/THE_RETELLING_16x9.mp4",
+   "md5": "00fd893488fb2274f34b1454e4856024",
    "tier": "current",
-   "arc": "ARC-3",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1300,
+   "score": 1320,
    "reasons": [
     "new:delivered-24h",
-    "arc:ARC-3"
+    "arc:ARC-1"
    ],
-   "rank": 22
+   "rank": 13
   },
   {
    "item": "E2-SHOW-1-THE-MACHINE",
@@ -1589,7 +1510,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 23
+   "rank": 14
   },
   {
    "item": "E2-SHOW-2-THE-TENTH-SECOND",
@@ -1604,7 +1525,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 24
+   "rank": 15
   },
   {
    "item": "E2-SHOW-5-THE-LAST-SEAT",
@@ -1619,7 +1540,52 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 25
+   "rank": 16
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E1",
+   "platform": "threads",
+   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
+   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 17
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E2",
+   "platform": "threads",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 18
+  },
+  {
+   "item": "MORPH-ON-AIR-E1",
+   "platform": "threads",
+   "title": "ON AIR E1 \u2014 The Signed Folder",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
+   "md5": "06cd491007f6919357716010495a00af",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 19
   },
   {
    "item": "PILOT-1-THE-MACHINE",
@@ -1634,7 +1600,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 26
+   "rank": 20
   },
   {
    "item": "PILOT-2-THE-TENTH-SECOND",
@@ -1649,7 +1615,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 27
+   "rank": 21
   },
   {
    "item": "PILOT-5-THE-LAST-SEAT",
@@ -1664,7 +1630,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 28
+   "rank": 22
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -1679,7 +1645,22 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 29
+   "rank": 23
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E1",
+   "platform": "threads",
+   "title": "THE NIGHT LIST E1 \u2014 The Sol Night",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-night-list/masters/E1_the-night-list.mp4",
+   "md5": "c8154d92aff983396029cf60f8b57f63",
+   "tier": "current",
+   "arc": "ARC-2",
+   "state": "queued",
+   "score": 1010,
+   "reasons": [
+    "arc:ARC-2"
+   ],
+   "rank": 24
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -1694,7 +1675,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 30
+   "rank": 25
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -1709,7 +1690,37 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 31
+   "rank": 26
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E1",
+   "platform": "threads",
+   "title": "ONE SHORT E1 \u2014 Thirty-One Umbrellas",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_one-short/masters/E1_one-short_MASTER.mp4",
+   "md5": "3b57d253a547ca40e82cf9bb6fb4df06",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 27
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E2",
+   "platform": "threads",
+   "title": "ONE SHORT E2 \u2014 Twenty-Four Chairs",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_one-short/masters/oneshort_E2_master.mp4",
+   "md5": "0d57f2c57f47c6447cf2278ad001c140",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 28
   },
   {
    "item": "MV-11",
@@ -1722,7 +1733,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 32
+   "rank": 29
   },
   {
    "item": "MV-12",
@@ -1735,7 +1746,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 33
+   "rank": 30
   },
   {
    "item": "MV-13",
@@ -1748,7 +1759,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 34
+   "rank": 31
   },
   {
    "item": "MV-18",
@@ -1761,7 +1772,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 35
+   "rank": 32
   },
   {
    "item": "MV-19",
@@ -1774,7 +1785,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 36
+   "rank": 33
   },
   {
    "item": "MV-20",
@@ -1787,7 +1798,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 34
   },
   {
    "item": "MV-3",
@@ -1800,7 +1811,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 35
   },
   {
    "item": "MV-4",
@@ -1813,7 +1824,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 36
   },
   {
    "item": "PILOT-4-THE-COUNT",
@@ -1828,98 +1839,7 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 40
-  },
-  {
-   "item": "ST-003",
-   "platform": "threads",
-   "title": "Station episode ST-003",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep003_1m_16x9.mp4",
-   "md5": "75a2adb994ecb19608a24f36f836377f",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 41
-  },
-  {
-   "item": "ST-004",
-   "platform": "threads",
-   "title": "Station episode ST-004",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep004_1m_16x9.mp4",
-   "md5": "16b25e1dfb147a28a95a2b117cac19c0",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 42
-  },
-  {
-   "item": "ST-005",
-   "platform": "threads",
-   "title": "Station episode ST-005",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep005_1m_16x9.mp4",
-   "md5": "1321612ac140098242c769234b15606f",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 43
-  },
-  {
-   "item": "ST-006",
-   "platform": "threads",
-   "title": "Station episode ST-006",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep006_1m_16x9.mp4",
-   "md5": "4120c8e3a99bc0001d7ccfefb7afe1b2",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 44
-  },
-  {
-   "item": "ST-007",
-   "platform": "threads",
-   "title": "Station episode ST-007",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep007_1m_16x9.mp4",
-   "md5": "d7198c5089177b5dc74689ea4eed6bf5",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 45
-  },
-  {
-   "item": "ST-008",
-   "platform": "threads",
-   "title": "Station episode ST-008",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep008_1m_16x9.mp4",
-   "md5": "1a32cb600eb152cdcac0e5275c3be8a3",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 46
-  },
-  {
-   "item": "ST-009",
-   "platform": "threads",
-   "title": "Station episode ST-009",
-   "path": "/home/hatch/workspace/wubutv-network/station/episodes/station_ep009_1m_16x9.mp4",
-   "md5": "534b91c1c8e75ed997ad3cbec630d4e4",
-   "tier": "current",
-   "arc": null,
-   "state": "queued",
-   "score": 1000,
-   "reasons": [],
-   "rank": 47
+   "rank": 37
   },
   {
    "item": "ST-010",
@@ -1932,7 +1852,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 48
+   "rank": 38
   },
   {
    "item": "ST-011",
@@ -1945,7 +1865,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 49
+   "rank": 39
   },
   {
    "item": "ST-012",
@@ -1958,7 +1878,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 50
+   "rank": 40
   },
   {
    "item": "ST-013",
@@ -1971,7 +1891,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 51
+   "rank": 41
   },
   {
    "item": "ST-014",
@@ -1984,7 +1904,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 52
+   "rank": 42
   },
   {
    "item": "ST-015",
@@ -1997,7 +1917,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 53
+   "rank": 43
   },
   {
    "item": "ST-016",
@@ -2010,7 +1930,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 54
+   "rank": 44
   },
   {
    "item": "ST-017",
@@ -2023,7 +1943,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 55
+   "rank": 45
   },
   {
    "item": "ST-018",
@@ -2036,7 +1956,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 56
+   "rank": 46
   },
   {
    "item": "ST-019",
@@ -2049,7 +1969,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 57
+   "rank": 47
   },
   {
    "item": "ST-020",
@@ -2062,7 +1982,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 58
+   "rank": 48
   },
   {
    "item": "ST-021",
@@ -2075,7 +1995,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 59
+   "rank": 49
   },
   {
    "item": "ST-022",
@@ -2088,7 +2008,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 60
+   "rank": 50
   },
   {
    "item": "ST-023",
@@ -2101,7 +2021,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 61
+   "rank": 51
   },
   {
    "item": "ST-024",
@@ -2114,7 +2034,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 62
+   "rank": 52
   },
   {
    "item": "ST-025",
@@ -2127,7 +2047,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 63
+   "rank": 53
   },
   {
    "item": "ST-026",
@@ -2140,7 +2060,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 64
+   "rank": 54
   },
   {
    "item": "ST-027",
@@ -2153,7 +2073,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 65
+   "rank": 55
   },
   {
    "item": "ST-028",
@@ -2166,7 +2086,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 66
+   "rank": 56
   },
   {
    "item": "ST-029",
@@ -2179,7 +2099,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 67
+   "rank": 57
   },
   {
    "item": "ST-030",
@@ -2192,7 +2112,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 68
+   "rank": 58
   },
   {
    "item": "ST-031",
@@ -2205,7 +2125,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 69
+   "rank": 59
   },
   {
    "item": "ST-032",
@@ -2218,7 +2138,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 70
+   "rank": 60
   },
   {
    "item": "ST-033",
@@ -2231,7 +2151,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 71
+   "rank": 61
   },
   {
    "item": "ST-078",
@@ -2244,7 +2164,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 72
+   "rank": 62
   },
   {
    "item": "ST-079",
@@ -2257,7 +2177,24 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 73
+   "rank": 63
+  },
+  {
+   "item": "MORPH-HOLD-ON-E3-OUTTAKES",
+   "platform": "threads",
+   "title": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_PEACH_OUTTAKES.mp4",
+   "md5": "3c1a659d3a99a27fdfc8825bfba4a9db",
+   "tier": "rejected-accepted",
+   "arc": "ARC-1",
+   "caption_label_required": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "state": "queued",
+   "score": 920,
+   "reasons": [
+    "tier:accepted-alternate-demoted",
+    "arc:ARC-1"
+   ],
+   "rank": 64
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -2268,13 +2205,160 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 920,
+   "score": 620,
    "reasons": [
     "verdict:rating-1-demoted",
-    "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 74
+   "rank": 65
+  },
+  {
+   "item": "MORPH-HOLD-ON-E2",
+   "platform": "threads",
+   "title": "HOLD ON E2 \u2014 Write That We're Married",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_16x9.mp4",
+   "md5": "a33c76810b015174863fb66acf8490e4",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "REJECTED by user 2026-11-17 ('THIS WAS MISHMASH', one-star batch verdict). Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-HOLD-ON-E2-REPAIR",
+   "platform": "threads",
+   "title": "HOLD ON E2 \u2014 Repair Cut",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_REPAIR.mp4",
+   "md5": "a6f6102c5c5b93a3239b0e89ef315996",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "Repair cut of the user-rejected HOLD ON E2. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V1",
+   "platform": "threads",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v1)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list.mp4",
+   "md5": "23dc0731c24f49bc2eea2fec68470c87",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "Superseded by v2/v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V2",
+   "platform": "threads",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v2)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v2.mp4",
+   "md5": "97bf385fefface7ea199cf9f5b690096",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "Superseded by v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V3",
+   "platform": "threads",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v3)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v3.mp4",
+   "md5": "7be7d8b8702a019ac19f95100b9d285c",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "SHELVED 2026-11-17: FAILED the cold ear-test after passing F-9. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-ON-AIR-E2",
+   "platform": "threads",
+   "title": "ON AIR E2 \u2014 Show Me How",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_on-air/masters/ON_AIR_E2_MASTER.mp4",
+   "md5": "9f2790f480e4d6b32850ad0a028981d1",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "SHELVED 2026-11-18: cold ear-test FAIL (U2 missing 'Number Four' + the Colonel's cancellation condition); repair rounds 1-6 closed UNREPAIRED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E3",
+   "platform": "threads",
+   "title": "ONE SHORT E3 \u2014 Thirty-One Umbrellas \u2014 AND ONE BY THE DOOR",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_one-short/masters/oneshort_E3_master.mp4",
+   "md5": "54cc5582848a76c5ef4e8b351c7dd0c2",
+   "tier": "current",
+   "arc": "ARC-3",
+   "guardrail_reason": "HELD 2026-11-20: written under the dialogue method the user condemned 2026-11-18 ('the way that all of the dialog is being made is wrong'); the verdict explicitly covers this episode. Never auto-post until re-dialogued or cleared by a parent/user ruling.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-3"
+   ]
+  },
+  {
+   "item": "MV-11-ALT-1",
+   "platform": "threads",
+   "title": "MV-11 (ALT-1)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_16x9_50mb.mp4",
+   "md5": "de4a44e05f60b0c07f1ac73dc331611f",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-11, which is not yet posted on threads \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-11-ALT-2",
+   "platform": "threads",
+   "title": "MV-11 (ALT-2)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_rebuild_16x9_50mb.mp4",
+   "md5": "84565a7518f1d136e5d956d8293808d2",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-11, which is not yet posted on threads \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
   },
   {
    "item": "MV-12-ALT-v1",
@@ -2719,306 +2803,68 @@
    "rank": 9
   },
   {
-   "item": "MV-11-ALT-1",
+   "item": "CLAIM-WINDOW-E2",
    "platform": "tiktok",
-   "title": "MV-11 (ALT-1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_16x9_50mb.mp4",
-   "md5": "de4a44e05f60b0c07f1ac73dc331611f",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
+   "title": "CLAIM WINDOW E2 \u2014 The Bus Pass",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window-e2/masters/CLAIM_WINDOW_E2_16x9.mp4",
+   "md5": "16026b2d85aebb44b634aaf2525de565",
+   "tier": "current",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1400,
+   "score": 1320,
    "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
+    "new:delivered-24h",
+    "arc:ARC-1"
    ],
    "rank": 10
   },
   {
-   "item": "MV-11-ALT-2",
+   "item": "CLAIM-WINDOW-PILOT",
    "platform": "tiktok",
-   "title": "MV-11 (ALT-2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_rebuild_16x9_50mb.mp4",
-   "md5": "84565a7518f1d136e5d956d8293808d2",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
+   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
+   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
+   "tier": "current",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1400,
+   "score": 1320,
    "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
+    "new:delivered-24h",
+    "arc:ARC-1"
    ],
    "rank": 11
   },
   {
-   "item": "MV-16-ALT-wrongtake",
+   "item": "MORPH-HOLD-ON-E3",
    "platform": "tiktok",
-   "title": "MV-16 (ALT-wrongtake)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake.mp4",
-   "md5": "8313d30a679a1bdd6c6adf96ec32ee10",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Suno Take",
+   "title": "HOLD ON E3 \u2014 Write That the Holder Stole",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_16x9.mp4",
+   "md5": "1ac601e1935c88201082ae0a54fa4b73",
+   "tier": "current",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1400,
+   "score": 1320,
    "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
+    "new:delivered-24h",
+    "arc:ARC-1"
    ],
    "rank": 12
   },
   {
-   "item": "MV-2-ALT-viewing",
+   "item": "THE-RETELLING",
    "platform": "tiktok",
-   "title": "MV-2 (ALT-viewing)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_viewingcut_16x9.mp4",
-   "md5": "ff39ec1837ece12c1afab70829a73802",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Cut",
+   "title": "THE RETELLING",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/redemption/masters/THE_RETELLING_16x9.mp4",
+   "md5": "00fd893488fb2274f34b1454e4856024",
+   "tier": "current",
+   "arc": "ARC-1",
    "state": "queued",
-   "score": 1400,
+   "score": 1320,
    "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
+    "new:delivered-24h",
+    "arc:ARC-1"
    ],
    "rank": 13
-  },
-  {
-   "item": "MV-3-ALT-vertical",
-   "platform": "tiktok",
-   "title": "MV-3 (ALT-vertical)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-3_i-am-your-dad/masters/mv3_i_am_your_dad_9x16.mp4",
-   "md5": "d5eba46319f9795365f247fa5aab3ddc",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Vertical Cut",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 14
-  },
-  {
-   "item": "MV-5-ALT-lyrics",
-   "platform": "tiktok",
-   "title": "MV-5 (ALT-lyrics)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics.mp4",
-   "md5": "a3e659220dd2870ab57c20cad198567e",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take \u2014 Lyrics Version",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 15
-  },
-  {
-   "item": "MV-5-ALT-v1",
-   "platform": "tiktok",
-   "title": "MV-5 (ALT-v1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9.mp4",
-   "md5": "e35be156af5f9c62a5a96fc819354640",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 16
-  },
-  {
-   "item": "MV-5-ALT-v2",
-   "platform": "tiktok",
-   "title": "MV-5 (ALT-v2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2.mp4",
-   "md5": "1c252e69032ab028c5e9a72ce974ea46",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 17
-  },
-  {
-   "item": "MV-5-ALT-v3",
-   "platform": "tiktok",
-   "title": "MV-5 (ALT-v3)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3.mp4",
-   "md5": "e13f17fc3a1e130ff1bfcd865a0c0ed1",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 18
-  },
-  {
-   "item": "MV-5-ALT-v4",
-   "platform": "tiktok",
-   "title": "MV-5 (ALT-v4)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4.mp4",
-   "md5": "ea70bb8da8cba66f5062ab09cee8758b",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 19
-  },
-  {
-   "item": "MV-5-ALT-v5",
-   "platform": "tiktok",
-   "title": "MV-5 (ALT-v5)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5.mp4",
-   "md5": "395c314080d7bfc33ff6f0808b7463cd",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 20
-  },
-  {
-   "item": "MV-7-ALT-otaku",
-   "platform": "tiktok",
-   "title": "MV-7 (ALT-otaku)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/masters/mv7_im_the_nobody_man_16x9_otaku.mp4",
-   "md5": "c89c4757928a31b95ada25928d498020",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take \u2014 Otaku Cut",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 21
-  },
-  {
-   "item": "MV-7-ALT-v1",
-   "platform": "tiktok",
-   "title": "MV-7 (ALT-v1)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/masters/mv7_im_the_nobody_man_16x9.mp4",
-   "md5": "46ba607394488f1c14fef7ab3a3f6b51",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 22
-  },
-  {
-   "item": "MV-8-ALT-v2",
-   "platform": "tiktok",
-   "title": "MV-8 (ALT-v2)",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/masters/mv8_wipe_and_its_still_there_v2_16x9_50mb.mp4",
-   "md5": "8639625f6af9f81212c72fb455002340",
-   "tier": "rejected-accepted",
-   "arc": null,
-   "caption_label_required": "Alternate Take",
-   "state": "queued",
-   "score": 1400,
-   "reasons": [
-    "verdict:approve",
-    "tier:accepted-alternate-demoted"
-   ],
-   "rank": 23
-  },
-  {
-   "item": "MORPH-LAST-SEAT-E1",
-   "platform": "tiktok",
-   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
-   "md5": "0ce3002b252f3b499b9d23009df5e38b",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1320,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-1"
-   ],
-   "rank": 24
-  },
-  {
-   "item": "MORPH-ON-AIR-E1",
-   "platform": "tiktok",
-   "title": "ON AIR E1 \u2014 The Signed Folder",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
-   "md5": "06cd491007f6919357716010495a00af",
-   "tier": "current",
-   "arc": "ARC-1",
-   "state": "queued",
-   "score": 1320,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-1"
-   ],
-   "rank": 25
-  },
-  {
-   "item": "MORPH-NIGHT-LIST-E1",
-   "platform": "tiktok",
-   "title": "THE NIGHT LIST E1 \u2014 The Sol Night",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-night-list/masters/E1_the-night-list.mp4",
-   "md5": "c8154d92aff983396029cf60f8b57f63",
-   "tier": "current",
-   "arc": "ARC-2",
-   "state": "queued",
-   "score": 1310,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-2"
-   ],
-   "rank": 26
-  },
-  {
-   "item": "MORPH-ONE-SHORT-E1",
-   "platform": "tiktok",
-   "title": "ONE SHORT E1 \u2014 Thirty-One Umbrellas",
-   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_one-short/masters/E1_one-short_MASTER.mp4",
-   "md5": "3b57d253a547ca40e82cf9bb6fb4df06",
-   "tier": "current",
-   "arc": "ARC-3",
-   "state": "queued",
-   "score": 1300,
-   "reasons": [
-    "new:delivered-24h",
-    "arc:ARC-3"
-   ],
-   "rank": 27
   },
   {
    "item": "E2-SHOW-1-THE-MACHINE",
@@ -3033,7 +2879,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 28
+   "rank": 14
   },
   {
    "item": "E2-SHOW-2-THE-TENTH-SECOND",
@@ -3048,7 +2894,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 29
+   "rank": 15
   },
   {
    "item": "E2-SHOW-5-THE-LAST-SEAT",
@@ -3063,7 +2909,52 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 30
+   "rank": 16
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E1",
+   "platform": "tiktok",
+   "title": "THE LAST SEAT E1 \u2014 Night One: The Woman with the White Stub",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-last-seat/masters/E1_the-last-seat_MASTER.mp4",
+   "md5": "0ce3002b252f3b499b9d23009df5e38b",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 17
+  },
+  {
+   "item": "MORPH-LAST-SEAT-E2",
+   "platform": "tiktok",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 18
+  },
+  {
+   "item": "MORPH-ON-AIR-E1",
+   "platform": "tiktok",
+   "title": "ON AIR E1 \u2014 The Signed Folder",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_on-air/masters/ON_AIR_E1_MASTER.mp4",
+   "md5": "06cd491007f6919357716010495a00af",
+   "tier": "current",
+   "arc": "ARC-1",
+   "state": "queued",
+   "score": 1020,
+   "reasons": [
+    "arc:ARC-1"
+   ],
+   "rank": 19
   },
   {
    "item": "PILOT-1-THE-MACHINE",
@@ -3078,7 +2969,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 31
+   "rank": 20
   },
   {
    "item": "PILOT-2-THE-TENTH-SECOND",
@@ -3093,7 +2984,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 32
+   "rank": 21
   },
   {
    "item": "PILOT-5-THE-LAST-SEAT",
@@ -3108,7 +2999,7 @@
    "reasons": [
     "arc:ARC-1"
    ],
-   "rank": 33
+   "rank": 22
   },
   {
    "item": "E2-SHOW-3-THE-ROSTER",
@@ -3123,7 +3014,22 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 34
+   "rank": 23
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E1",
+   "platform": "tiktok",
+   "title": "THE NIGHT LIST E1 \u2014 The Sol Night",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_the-night-list/masters/E1_the-night-list.mp4",
+   "md5": "c8154d92aff983396029cf60f8b57f63",
+   "tier": "current",
+   "arc": "ARC-2",
+   "state": "queued",
+   "score": 1010,
+   "reasons": [
+    "arc:ARC-2"
+   ],
+   "rank": 24
   },
   {
    "item": "PILOT-3-THE-ROSTER",
@@ -3138,7 +3044,7 @@
    "reasons": [
     "arc:ARC-2"
    ],
-   "rank": 35
+   "rank": 25
   },
   {
    "item": "E2-SHOW-4-THE-COUNT",
@@ -3153,7 +3059,37 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 36
+   "rank": 26
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E1",
+   "platform": "tiktok",
+   "title": "ONE SHORT E1 \u2014 Thirty-One Umbrellas",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E1_one-short/masters/E1_one-short_MASTER.mp4",
+   "md5": "3b57d253a547ca40e82cf9bb6fb4df06",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 27
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E2",
+   "platform": "tiktok",
+   "title": "ONE SHORT E2 \u2014 Twenty-Four Chairs",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_one-short/masters/oneshort_E2_master.mp4",
+   "md5": "0d57f2c57f47c6447cf2278ad001c140",
+   "tier": "current",
+   "arc": "ARC-3",
+   "state": "queued",
+   "score": 1000,
+   "reasons": [
+    "arc:ARC-3"
+   ],
+   "rank": 28
   },
   {
    "item": "MV-11",
@@ -3166,7 +3102,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 37
+   "rank": 29
   },
   {
    "item": "MV-12",
@@ -3179,7 +3115,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 38
+   "rank": 30
   },
   {
    "item": "MV-13",
@@ -3192,7 +3128,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 39
+   "rank": 31
   },
   {
    "item": "MV-18",
@@ -3205,7 +3141,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 40
+   "rank": 32
   },
   {
    "item": "MV-19",
@@ -3218,7 +3154,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 41
+   "rank": 33
   },
   {
    "item": "MV-2",
@@ -3231,7 +3167,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 42
+   "rank": 34
   },
   {
    "item": "MV-20",
@@ -3244,7 +3180,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 43
+   "rank": 35
   },
   {
    "item": "MV-3",
@@ -3257,7 +3193,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 44
+   "rank": 36
   },
   {
    "item": "MV-4",
@@ -3270,7 +3206,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 45
+   "rank": 37
   },
   {
    "item": "MV-6",
@@ -3283,7 +3219,7 @@
    "state": "queued",
    "score": 1000,
    "reasons": [],
-   "rank": 46
+   "rank": 38
   },
   {
    "item": "PILOT-4-THE-COUNT",
@@ -3298,7 +3234,24 @@
    "reasons": [
     "arc:ARC-3"
    ],
-   "rank": 47
+   "rank": 39
+  },
+  {
+   "item": "MORPH-HOLD-ON-E3-OUTTAKES",
+   "platform": "tiktok",
+   "title": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_PEACH_OUTTAKES.mp4",
+   "md5": "3c1a659d3a99a27fdfc8825bfba4a9db",
+   "tier": "rejected-accepted",
+   "arc": "ARC-1",
+   "caption_label_required": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "state": "queued",
+   "score": 920,
+   "reasons": [
+    "tier:accepted-alternate-demoted",
+    "arc:ARC-1"
+   ],
+   "rank": 40
   },
   {
    "item": "MORPH-HOLD-ON-E1",
@@ -3309,13 +3262,160 @@
    "tier": "current",
    "arc": "ARC-1",
    "state": "queued",
-   "score": 920,
+   "score": 620,
    "reasons": [
     "verdict:rating-1-demoted",
-    "new:delivered-24h",
     "arc:ARC-1"
    ],
-   "rank": 48
+   "rank": 41
+  },
+  {
+   "item": "MORPH-HOLD-ON-E2",
+   "platform": "tiktok",
+   "title": "HOLD ON E2 \u2014 Write That We're Married",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_16x9.mp4",
+   "md5": "a33c76810b015174863fb66acf8490e4",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "REJECTED by user 2026-11-17 ('THIS WAS MISHMASH', one-star batch verdict). Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-HOLD-ON-E2-REPAIR",
+   "platform": "tiktok",
+   "title": "HOLD ON E2 \u2014 Repair Cut",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_REPAIR.mp4",
+   "md5": "a6f6102c5c5b93a3239b0e89ef315996",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "Repair cut of the user-rejected HOLD ON E2. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V1",
+   "platform": "tiktok",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v1)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list.mp4",
+   "md5": "23dc0731c24f49bc2eea2fec68470c87",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "Superseded by v2/v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V2",
+   "platform": "tiktok",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v2)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v2.mp4",
+   "md5": "97bf385fefface7ea199cf9f5b690096",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "Superseded by v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-NIGHT-LIST-E2-V3",
+   "platform": "tiktok",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v3)",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v3.mp4",
+   "md5": "7be7d8b8702a019ac19f95100b9d285c",
+   "tier": "current",
+   "arc": "ARC-2",
+   "guardrail_reason": "SHELVED 2026-11-17: FAILED the cold ear-test after passing F-9. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-2"
+   ]
+  },
+  {
+   "item": "MORPH-ON-AIR-E2",
+   "platform": "tiktok",
+   "title": "ON AIR E2 \u2014 Show Me How",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_on-air/masters/ON_AIR_E2_MASTER.mp4",
+   "md5": "9f2790f480e4d6b32850ad0a028981d1",
+   "tier": "current",
+   "arc": "ARC-1",
+   "guardrail_reason": "SHELVED 2026-11-18: cold ear-test FAIL (U2 missing 'Number Four' + the Colonel's cancellation condition); repair rounds 1-6 closed UNREPAIRED. Never auto-post.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-1"
+   ]
+  },
+  {
+   "item": "MORPH-ONE-SHORT-E3",
+   "platform": "tiktok",
+   "title": "ONE SHORT E3 \u2014 Thirty-One Umbrellas \u2014 AND ONE BY THE DOOR",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_one-short/masters/oneshort_E3_master.mp4",
+   "md5": "54cc5582848a76c5ef4e8b351c7dd0c2",
+   "tier": "current",
+   "arc": "ARC-3",
+   "guardrail_reason": "HELD 2026-11-20: written under the dialogue method the user condemned 2026-11-18 ('the way that all of the dialog is being made is wrong'); the verdict explicitly covers this episode. Never auto-post until re-dialogued or cleared by a parent/user ruling.",
+   "state": "held-guardrail",
+   "score": null,
+   "reasons": [
+    "guardrail:content-flag",
+    "arc:ARC-3"
+   ]
+  },
+  {
+   "item": "MV-11-ALT-1",
+   "platform": "tiktok",
+   "title": "MV-11 (ALT-1)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_16x9_50mb.mp4",
+   "md5": "de4a44e05f60b0c07f1ac73dc331611f",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-11, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-11-ALT-2",
+   "platform": "tiktok",
+   "title": "MV-11 (ALT-2)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/masters/mv11_water_hit_my_balls_rebuild_16x9_50mb.mp4",
+   "md5": "84565a7518f1d136e5d956d8293808d2",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-11, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
   },
   {
    "item": "MV-12-ALT-v1",
@@ -3369,6 +3469,24 @@
    ]
   },
   {
+   "item": "MV-16-ALT-wrongtake",
+   "platform": "tiktok",
+   "title": "MV-16 (ALT-wrongtake)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake_50mb.mp4",
+   "md5": "51b568716f206951e39d7377e5520ff4",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-16, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Suno Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
    "item": "MV-2-ALT-v6",
    "platform": "tiktok",
    "title": "MV-2 (ALT-v6)",
@@ -3398,6 +3516,24 @@
    "score": null,
    "reasons": [
     "guardrail:too-close-msg518",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-2-ALT-viewing",
+   "platform": "tiktok",
+   "title": "MV-2 (ALT-viewing)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_viewingcut_16x9.mp4",
+   "md5": "ff39ec1837ece12c1afab70829a73802",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-2, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Cut",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ]
@@ -3488,6 +3624,24 @@
    ]
   },
   {
+   "item": "MV-3-ALT-vertical",
+   "platform": "tiktok",
+   "title": "MV-3 (ALT-vertical)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-3_i-am-your-dad/masters/mv3_i_am_your_dad_9x16.mp4",
+   "md5": "d5eba46319f9795365f247fa5aab3ddc",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-3, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Vertical Cut",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
    "item": "MV-3-ALT-vertical-recut",
    "platform": "tiktok",
    "title": "MV-3 (ALT-vertical-recut)",
@@ -3518,6 +3672,114 @@
    "score": null,
    "reasons": [
     "guardrail:too-close-msg518",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-5-ALT-lyrics",
+   "platform": "tiktok",
+   "title": "MV-5 (ALT-lyrics)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics_50mb.mp4",
+   "md5": "02484ad153a765fa411d591f37542494",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-5, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take \u2014 Lyrics Version",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-5-ALT-v1",
+   "platform": "tiktok",
+   "title": "MV-5 (ALT-v1)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_50mb.mp4",
+   "md5": "f219e0e8a150d18d7d15e3f303a7be24",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-5, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-5-ALT-v2",
+   "platform": "tiktok",
+   "title": "MV-5 (ALT-v2)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2_50mb.mp4",
+   "md5": "048855d04a3353fa6d047788f961015c",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-5, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-5-ALT-v3",
+   "platform": "tiktok",
+   "title": "MV-5 (ALT-v3)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3_50mb.mp4",
+   "md5": "965bca6a2a97bdcdfee970d0af2fbbc1",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-5, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-5-ALT-v4",
+   "platform": "tiktok",
+   "title": "MV-5 (ALT-v4)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4_50mb.mp4",
+   "md5": "6e220cc911494ec4061f1ca46dbedb37",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-5, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-5-ALT-v5",
+   "platform": "tiktok",
+   "title": "MV-5 (ALT-v5)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5_50mb.mp4",
+   "md5": "b439feb570492d6b12e2678a428d6877",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-5, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
     "verdict:approve",
     "tier:accepted-alternate-demoted"
    ]
@@ -3558,6 +3820,42 @@
    ]
   },
   {
+   "item": "MV-7-ALT-otaku",
+   "platform": "tiktok",
+   "title": "MV-7 (ALT-otaku)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/masters/mv7_im_the_nobody_man_16x9_otaku.mp4",
+   "md5": "c89c4757928a31b95ada25928d498020",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-7, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take \u2014 Otaku Cut",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-7-ALT-v1",
+   "platform": "tiktok",
+   "title": "MV-7 (ALT-v1)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/masters/mv7_im_the_nobody_man_16x9.mp4",
+   "md5": "46ba607394488f1c14fef7ab3a3f6b51",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-7, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
    "item": "MV-8-ALT-v1",
    "platform": "tiktok",
    "title": "MV-8 (ALT-v1)",
@@ -3571,6 +3869,24 @@
    "score": null,
    "reasons": [
     "guardrail:content-flag",
+    "tier:accepted-alternate-demoted"
+   ]
+  },
+  {
+   "item": "MV-8-ALT-v2",
+   "platform": "tiktok",
+   "title": "MV-8 (ALT-v2)",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/masters/mv8_wipe_and_its_still_there_v2_16x9_50mb.mp4",
+   "md5": "8639625f6af9f81212c72fb455002340",
+   "tier": "rejected-accepted",
+   "arc": null,
+   "guardrail_reason": "Alternate of MV-8, which is not yet posted on tiktok \u2014 the base posts first.",
+   "caption_label_required": "Alternate Take",
+   "state": "blocked-dup",
+   "score": null,
+   "reasons": [
+    "blocked:base-unposted",
+    "verdict:approve",
     "tier:accepted-alternate-demoted"
    ]
   },

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-17T00:24:48Z",
+ "scanned_utc": "2026-11-20T12:24:58Z",
  "items": [
   {
    "id": "MV-2",
@@ -63,21 +63,23 @@
    "title": "This Time It's Real",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-4_this-time-its-real/masters/mv4_this_time_its_real_16x9_lyrics.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 129340998,
-   "mtime": 1794520188,
-   "md5": "1456487dde2be81577fbb0b69c07acd4",
+   "size": 54814761,
+   "mtime": 1794875319,
+   "md5": "35a8beda0f9d078733776415b3bda05f",
    "duration_s": 238.79,
    "frames": 5731,
    "phash": [
-    "0c3d7b64c296c8dec9fea97e98fad0688068a061866187399228b22c823ab33e",
-    "18971c9fd8cf39eb18ce8cdaccca8ce2ccf0d4f0c268b4f2f86a58600c66ac62",
+    "0c3d7b74c296c8dec9feb97e987ad0688068a061866187399228b22c823ab33e",
+    "18971c9fb8cf39eb18c68cdaccca8ce2ccf0d4f0c268b4f2f86a58700c66ac62",
     "a99ca19c251c319c61933197619c61f849e3c1e3916b8cf688e470e198f600fd"
    ],
    "audio_fp": {
@@ -91,22 +93,24 @@
    "title": "Easy now, easy now",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v6.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 197194272,
-   "mtime": 1794568222,
-   "md5": "2071388f3fb5672849e29462cb3f2b64",
+   "size": 48361931,
+   "mtime": 1794875714,
+   "md5": "800be18f221154aeb97615587166ce87",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "2e7f343d295f305731bf60d341134112c4d1c4f8e0f1e07280b314f314fd146d",
-    "10b11a735cf958fc182e18e618e63077a035c03de08f83278187c141c558c15d",
-    "90b7181d311927070626064b06691b37115781d184d180add99cdc4ccc4cc8d9"
+    "2e7f343d293f305f23bf62f7433741b6ccd1c4f041f1e072c4b314f61476336d",
+    "30f318715cf958ec186e18ee10e63077a035c03dc08f83278117c143c5518155",
+    "90b7181d311927070626064b06691b37915781d184d180add99cdc4ccc4cc8d9"
    ],
    "audio_fp": {
     "md5_60s": "47dd3d143bfff5c9a2569e3905aed404",
@@ -207,22 +211,24 @@
    "title": "Gotta hold it",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/masters/mv9_gotta_hold_it_16x9_v2.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 148935360,
-   "mtime": 1794572478,
-   "md5": "345e658bea3c72dbcd6f89675c1390b4",
+   "size": 42852194,
+   "mtime": 1794876004,
+   "md5": "c40054a0cb78f586f94d7326abf84e4d",
    "duration_s": 184.0,
    "frames": 4416,
    "phash": [
-    "399e318cf192328072a0b0a221d0a0d000d0c2f0c0ec416c446d546e70da93b3",
-    "04ec8c2adb62596259c01bc10bc3899b81cea35b61d64b969bbd29990b9dc9a5",
-    "009443b843086f400a60526872613333333b531d51bd31bb298b260ba60ba70b"
+    "399e318ef192328072a0b0a221d0a0d000d0c2f0c0ec416c446d546e70da93b3",
+    "84ec8c2adb62596259c01be10bc3899b81cea35b61d64b969bbd29990b9dc9a5",
+    "009443b843086f411a60526832613333333b531d51bd31bb298b260ba70ba70b"
    ],
    "audio_fp": {
     "md5_60s": "bdf597a28c1ae2eedc8b2d11df9ed991",
@@ -381,22 +387,24 @@
    "title": "Unread DMs",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-15_unread-dms/masters/mv15_unread_dms_16x9.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 792109501,
-   "mtime": 1794595062,
-   "md5": "0bef4ae5dd2217e481b3ccff840100ac",
+   "size": 40935240,
+   "mtime": 1794876429,
+   "md5": "c74137d0da6ea4633d0ed4d438bebf93",
    "duration_s": 173.62,
    "frames": 4167,
    "phash": [
-    "03710633067300b104b50235101b1071022902092319023b0633083208200120",
-    "061b060f0d830cd30cc3018f12c716c326cba4a310b1b041300120013a34166c",
-    "03c7039f031a0299089b089801b8051a0d1806180698089808180c3805380939"
+    "037106330673003104350235101b1071022902092319023b0633083208200120",
+    "061b060f0d830cd30cc3018f12c716d326cba4a318a1b041300120013a34166d",
+    "03c7039f031c0299089b089801b8051a0d1806180698089808180c3805380939"
    ],
    "audio_fp": {
     "md5_60s": "9155937a0dba1ac3b4d2ebd62bf8e695",
@@ -409,16 +417,18 @@
    "title": "Wrong for Years",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 129048899,
-   "mtime": 1794601527,
-   "md5": "e9a64e89395534c74729f164ae19e76a",
+   "size": 46507065,
+   "mtime": 1794876725,
+   "md5": "134fc9afc7024a0c58b745fa56416734",
    "duration_s": 198.0,
    "frames": 4752,
    "phash": [
@@ -437,22 +447,24 @@
    "title": "Fridge Light Mystery",
    "kind": "music-video",
    "tier": "current",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
    },
    "delivered": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-17_fridge-light-mystery/masters/mv17_fridge_light_mystery_16x9.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 105680219,
-   "mtime": 1794602705,
-   "md5": "844dde83a366c412aed4268fb7c8dca4",
+   "size": 38072756,
+   "mtime": 1794877001,
+   "md5": "4f9a44cea97bc274dc28671ad6b9a927",
    "duration_s": 162.83,
    "frames": 3908,
    "phash": [
-    "000000000080004000e000e001600160014000c000e0022010b808d800bc00ac",
-    "030e0a3f027f4e7f4c7f4c7f4c7f0c7f1a7f2e7f0e7f0c7f0c7f0c7f0c5f4c5f",
-    "001c021c013c013e013e113e013f013f013f013f093e093e013e011e013c003c"
+    "000000000040004000e000e001600160014000c000e0022010b808d800bc00ac",
+    "030e0a3f027f4e7f4c7f4c7f4c7f0c7f1a7f2e7f0e7f0c7f0c7f0c7f4c5f4c5f",
+    "001c021c013c013e013e113e013f013f013f013f093e013e013e011e013c003c"
    ],
    "audio_fp": {
     "md5_60s": "0e08aacf97c42b8eab409fbf9c738e37",
@@ -913,7 +925,7 @@
    "title": "MV-5 (ALT-v1)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -921,15 +933,17 @@
    "delivered": null,
    "different_enough": true,
    "caption_label": "Alternate Take",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 113086468,
-   "mtime": 1793889450,
-   "md5": "e35be156af5f9c62a5a96fc819354640",
+   "size": 45966131,
+   "mtime": 1795058432,
+   "md5": "f219e0e8a150d18d7d15e3f303a7be24",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "fe497e6f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
-    "7ca0dc62d852b0d0b051e8716872e130f0b0d9b0c8a0c0e0e1c0818031e139c2",
+    "fe497e4ffcc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
+    "7ca0d870f842b0d2f051e8716872e130f0b0d9b2c8a0c0e0e1c0818031e239c3",
     "4d26cf01cf4046603671ce71ce71ce71cb33072d836d436416263715379431d4"
    ],
    "audio_fp": {
@@ -943,7 +957,7 @@
    "title": "MV-5 (ALT-v2)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -951,15 +965,17 @@
    "delivered": null,
    "different_enough": true,
    "caption_label": "Alternate Take",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v2.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 115578719,
-   "mtime": 1793949156,
-   "md5": "1c252e69032ab028c5e9a72ce974ea46",
+   "size": 45954293,
+   "mtime": 1795058736,
+   "md5": "048855d04a3353fa6d047788f961015c",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "fe497e6f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
-    "7ca0dc60d852b0d0b051e8716872e130f0b0d9b0c8a0c0e0e1c0818031e139c2",
+    "fe497e4f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
+    "7ca0d870f842b052f051e8716872e130f0b0d9b2c8a0c0e0e1c0818031e239c3",
     "4d26cf01cf4046603671ce71ce71ce71cb33072d836d436416263715379431d4"
    ],
    "audio_fp": {
@@ -973,7 +989,7 @@
    "title": "MV-5 (ALT-v3)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -981,15 +997,17 @@
    "delivered": null,
    "different_enough": true,
    "caption_label": "Alternate Take",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v3.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 120494768,
-   "mtime": 1793959147,
-   "md5": "e13f17fc3a1e130ff1bfcd865a0c0ed1",
+   "size": 45964622,
+   "mtime": 1795058972,
+   "md5": "965bca6a2a97bdcdfee970d0af2fbbc1",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "fe497e6f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
-    "7ca0dc60d852b0d0b051e8716872e130f0b0d9b0c8a0c0e0e1c0818031e139c2",
+    "fe497e4f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
+    "7ca0d870f842b052f051e8716872e130f0b0d9b2c8a4c0e0e1c0818031e239c3",
     "4d26cf01cf4046603671ce71ce71ce71cb33072d836d436416263715379431d4"
    ],
    "audio_fp": {
@@ -1003,7 +1021,7 @@
    "title": "MV-5 (ALT-v4)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -1011,15 +1029,17 @@
    "delivered": null,
    "different_enough": true,
    "caption_label": "Alternate Take",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v4.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 111162944,
-   "mtime": 1793972713,
-   "md5": "ea70bb8da8cba66f5062ab09cee8758b",
+   "size": 45969966,
+   "mtime": 1795059249,
+   "md5": "6e220cc911494ec4061f1ca46dbedb37",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "fe497e6f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
-    "7ca0dc60d852b0d0b051e8716872e130f0b0d9b0c8a0c0e0e1c0818031e139c2",
+    "fe497e4ffcc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8ee66ec",
+    "7ca0d870f842b052f051e8716872e130f0b0d9b2c8a4c0e0e1c0818031e239c3",
     "4f26cf01cf4046603671c671ce71ce71cb33876d834d436416263715379431d4"
    ],
    "audio_fp": {
@@ -1033,7 +1053,7 @@
    "title": "MV-5 (ALT-v5)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -1041,15 +1061,17 @@
    "delivered": null,
    "different_enough": true,
    "caption_label": "Alternate Take",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_v5.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 115936038,
-   "mtime": 1794561994,
-   "md5": "395c314080d7bfc33ff6f0808b7463cd",
+   "size": 45912610,
+   "mtime": 1795059491,
+   "md5": "b439feb570492d6b12e2678a428d6877",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "fe497e6f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8e666ec",
-    "7ca0dc60d842b0d0b051e8716872e130f0b0d9b0c8a0c0e0e1c08180319139c2",
+    "fe497e4ffcc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8e666ec",
+    "7ca0d870f842b052f051e8716872e130f0b0d9b2c8a4c0e0e1c08180319231c3",
     "4f26cf01cf4046603671c671ce71ce73cb33876d834d436416263715379031d4"
    ],
    "audio_fp": {
@@ -1063,7 +1085,7 @@
    "title": "MV-5 (ALT-lyrics)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -1071,15 +1093,17 @@
    "delivered": null,
    "different_enough": true,
    "caption_label": "Alternate Take \u2014 Lyrics Version",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-5_easy-now-easy-now/masters/mv5_easy_now_easy_now_16x9_lyrics.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 111666029,
-   "mtime": 1794525473,
-   "md5": "a3e659220dd2870ab57c20cad198567e",
+   "size": 45996515,
+   "mtime": 1795058144,
+   "md5": "02484ad153a765fa411d591f37542494",
    "duration_s": 206.42,
    "frames": 4954,
    "phash": [
-    "fe497e6f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8e666ec",
-    "7ca0dc60d852b0d0b051e8716872e130f0b0d9b0c8a0c0e0e1c08180319139c2",
+    "fe497e4f7cc7bcc7dce3dc63dcc3de44ce466e469f1e9b3adb3eebaac8e666ec",
+    "7ca0d870f842b052f051e8716872e130f0b0d9b2c8a0c0e0e1c08180319231c3",
     "4f26cf01cf4046603671c671ce71ce71cb33876d834d436416263715379431d4"
    ],
    "audio_fp": {
@@ -1470,7 +1494,7 @@
    "title": "MV-16 (ALT-wrongtake)",
    "kind": "music-video",
    "tier": "rejected-accepted",
-   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake.mp4",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake_50mb.mp4",
    "lore": {
     "arc": null,
     "chain": null
@@ -1480,16 +1504,18 @@
    "caption_label": "Alternate Suno Take",
    "different_audio": true,
    "note": "Built on the wrong Suno take \u2014 differs in BOTH audio and picture (inventory).",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-16_wrong-for-years/masters/mv16_wrong_for_years_16x9_wrongtake.mp4",
+   "delivery_encode": true,
    "exists": true,
-   "size": 126350983,
-   "mtime": 1794592600,
-   "md5": "8313d30a679a1bdd6c6adf96ec32ee10",
+   "size": 45996006,
+   "mtime": 1795057736,
+   "md5": "51b568716f206951e39d7377e5520ff4",
    "duration_s": 183.21,
    "frames": 4397,
    "phash": [
     "469ec46ec46cc8fcc8b4c134c33cc13cc934c17cc4fcc5dac958c278c668c6f8",
-    "78543956370e348c14cd14cd18e80cc81ccf2a6b226c227c266c88cd08cc0cd2",
-    "c0f4c358c2b8c6f8c0fac0fac1c6d0e6c2f6c2f286f284f384d384d180d880d8"
+    "78543956370e348c14cd1cc518e80cc81ccf2a6b226c227c266c88cd08cc0cd2",
+    "c0f4c378c2b8c6f8c0fac0fac1c6d0e6c2f6c2f286f284f384d384d180d880d8"
    ],
    "audio_fp": {
     "md5_60s": "89707812a2e3d4144ff3e876f28c9f1d",
@@ -1915,6 +1941,407 @@
     "md5_60s": "9a0f7bb9c5436da18b15988d4df0c2f6",
     "rms_db": -28.02,
     "seconds": 60.0
+   }
+  },
+  {
+   "id": "MORPH-LAST-SEAT-E2",
+   "title": "THE LAST SEAT E2 \u2014 Night Two: The Landlord's Test",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-last-seat/masters/E2_the-last-seat_MASTER.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "exists": true,
+   "size": 19221339,
+   "mtime": 1794901404,
+   "md5": "9635a098436ccdf1d0ad39f4f499b827",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "6508e408a488b688330c7204e600e200e206c206c203da03960d359931fc18fc",
+    "03ed0365036d036d038d032903290329032102e50345014d001b005c000c007c",
+    "01284120036100c100c100c100c100c100c000c000d000f00070027000f000b1"
+   ],
+   "audio_fp": {
+    "md5_60s": "ac867ed175ca749d8b7b828b64f7dbb7",
+    "rms_db": -24.25,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MORPH-ONE-SHORT-E2",
+   "title": "ONE SHORT E2 \u2014 Twenty-Four Chairs",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_one-short/masters/oneshort_E2_master.mp4",
+   "lore": {
+    "arc": "ARC-3",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "exists": true,
+   "size": 22401297,
+   "mtime": 1794903868,
+   "md5": "0d57f2c57f47c6447cf2278ad001c140",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "5f3a583b4f374b351add1a5c1a370a3d0e3d0c190c8b0cae1843184319c709cd",
+    "039103114313631c639dc95ac96c4a7c8a5c8c5808dc89fc21ec4401cc016c01",
+    "832c83e8a3e883f1f3914699ddc93b01438155c14591156105c98989903919f9"
+   ],
+   "audio_fp": {
+    "md5_60s": "5bcbae8732ffbb90ad2168b45886fd13",
+    "rms_db": -21.28,
+    "seconds": 60.13
+   }
+  },
+  {
+   "id": "MORPH-HOLD-ON-E3",
+   "title": "HOLD ON E3 \u2014 Write That the Holder Stole",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-19",
+   "exists": true,
+   "size": 24267029,
+   "mtime": 1795079333,
+   "md5": "1ac601e1935c88201082ae0a54fa4b73",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "6d2464bccc9c4d8c4d874d9259d439d119b199b119b259a359ab19aa39a0d9b1",
+    "a39967cc630743d34240c2648264a25426566647ae47ae42ae4ea60ea686a647",
+    "b599d48f0a020b2067222722b32331a135a2b0a6b2aea2a5e686e542e54ce31c"
+   ],
+   "audio_fp": {
+    "md5_60s": "217de4cb41742e00deb857932ba7c7d8",
+    "rms_db": -20.14,
+    "seconds": 59.93
+   }
+  },
+  {
+   "id": "THE-RETELLING",
+   "title": "THE RETELLING",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/redemption/masters/THE_RETELLING_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-19",
+   "exists": true,
+   "size": 34767779,
+   "mtime": 1795082155,
+   "md5": "00fd893488fb2274f34b1454e4856024",
+   "duration_s": 95.83,
+   "frames": 2300,
+   "phash": [
+    "6d2464bc8c9c4d8d4d876d9268d619d119b119b019b35b3159a319aa39a0d931",
+    "0000c400f400b600b30023006200620062044206430242014401271831f838f4",
+    "a6608660a66006610496260c0e0c0c4c1e0c178c160e968d365d107910434068"
+   ],
+   "audio_fp": {
+    "md5_60s": "630d5397a58d4352051ad49305a6ff60",
+    "rms_db": -18.92,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "CLAIM-WINDOW-PILOT",
+   "title": "CLAIM WINDOW \u2014 Pilot: Very Umbrella",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-19",
+   "exists": true,
+   "size": 24232634,
+   "mtime": 1795093699,
+   "md5": "b0df7c96609f185e8d31b7d06f7809ca",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "ac65bd6dcd2d756d6403256d250da6116f8d6f1ded9d2d892f2123e473c627e4",
+    "ac65ac6dcd2d596d712d3405352596076e016f31e701848b8517883331c371c1",
+    "a1b3a0c9d49dd9fcd1f1d30d921c1adc1ada0b9a493e4a692ce9b59387c33385"
+   ],
+   "audio_fp": {
+    "md5_60s": "0b7c29cb86f7c29ee69413acaecaa106",
+    "rms_db": -19.62,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "CLAIM-WINDOW-E2",
+   "title": "CLAIM WINDOW E2 \u2014 The Bus Pass",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/claim-window-e2/masters/CLAIM_WINDOW_E2_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-19",
+   "exists": true,
+   "size": 19278015,
+   "mtime": 1795139808,
+   "md5": "16026b2d85aebb44b634aaf2525de565",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "de031a039206b61f863a86338631a731a5208d308d982e982cc825982b0e414f",
+    "3e1d9e078c078e37cc23c833d833d921db21e6316739e61034a021d80cdd4ec7",
+    "3b049b04530c76097318671866186658665c66586718e298c1800ce144b04738"
+   ],
+   "audio_fp": {
+    "md5_60s": "1077c7315541b859b73fb7cd24e23346",
+    "rms_db": -21.84,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MORPH-ON-AIR-E2",
+   "title": "ON AIR E2 \u2014 Show Me How",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_on-air/masters/ON_AIR_E2_MASTER.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "content_flag": "SHELVED 2026-11-18: cold ear-test FAIL (U2 missing 'Number Four' + the Colonel's cancellation condition); repair rounds 1-6 closed UNREPAIRED. Never auto-post.",
+   "exists": true,
+   "size": 30719181,
+   "mtime": 1794905354,
+   "md5": "9f2790f480e4d6b32850ad0a028981d1",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "88018e124b1a031a030e23262326332633261326362a062204260c06180642a1",
+    "00616b0049db49db5d4b140b1c891c870c0f0ccf4c9d441d2c172c070c8f0000",
+    "0c010e6006591351334113613349314808498c24593449344935901790db0100"
+   ],
+   "audio_fp": {
+    "md5_60s": "5977a5c60fb519cd890f23c0f6b9873c",
+    "rms_db": -17.84,
+    "seconds": 60.02
+   }
+  },
+  {
+   "id": "MORPH-HOLD-ON-E2",
+   "title": "HOLD ON E2 \u2014 Write That We're Married",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "content_flag": "REJECTED by user 2026-11-17 ('THIS WAS MISHMASH', one-star batch verdict). Never auto-post.",
+   "exists": true,
+   "size": 26587643,
+   "mtime": 1794902480,
+   "md5": "a33c76810b015174863fb66acf8490e4",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "59f74ddbcbda0ecf0c5f8c0e4c0f484b284b0c4b0c130c930e9b0a8b0a0f012b",
+    "6c14e418c418cc18ce18bb303b303a301a3e0e3e063e26be94ae916e8d631df1",
+    "12360aa40a2c42ae62b6534af29eb296e28ef29e729e621c624c70bf713e680d"
+   ],
+   "audio_fp": {
+    "md5_60s": "0d0e70600fff5f402b8668e449ea53e1",
+    "rms_db": -16.59,
+    "seconds": 60.35
+   }
+  },
+  {
+   "id": "MORPH-HOLD-ON-E2-REPAIR",
+   "title": "HOLD ON E2 \u2014 Repair Cut",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_hold-on/masters/E2_hold-on_REPAIR.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "content_flag": "Repair cut of the user-rejected HOLD ON E2. Never auto-post.",
+   "exists": true,
+   "size": 29914050,
+   "mtime": 1794917405,
+   "md5": "a6f6102c5c5b93a3239b0e89ef315996",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "d69c94dcb1dc90de98be8ebaac7a687e197ec974cdf591f1d1f3c970c8e2c6e3",
+    "75c56382e1a2c1a469a529a539a239a6dba6cfa6c7aef36d5bec5bec66fc4cbd",
+    "7019b01f901d111d119b119f319f319a61b231ba18b119331b321b0e1b1e4919"
+   ],
+   "audio_fp": {
+    "md5_60s": "3fdb5029e150c86f97adb16a13a7588e",
+    "rms_db": -17.36,
+    "seconds": 60.35
+   }
+  },
+  {
+   "id": "MORPH-NIGHT-LIST-E2-V1",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v1)",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list.mp4",
+   "lore": {
+    "arc": "ARC-2",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "content_flag": "Superseded by v2/v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "exists": true,
+   "size": 22074882,
+   "mtime": 1794901276,
+   "md5": "23dc0731c24f49bc2eea2fec68470c87",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "b400a318b318b318639e696e4162c162c36681818181c141e0c3c081c0830081",
+    "83878387cb97c11640064104018c0108500050050000000b0006002a00330163",
+    "fe0af643e692e453e5d2eec86b806f813f013f017f034e034e030e03dc03cc03"
+   ],
+   "audio_fp": {
+    "md5_60s": "2c82fb78694f056979bb76c580f9ced4",
+    "rms_db": -19.45,
+    "seconds": 60.29
+   }
+  },
+  {
+   "id": "MORPH-NIGHT-LIST-E2-V2",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v2)",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v2.mp4",
+   "lore": {
+    "arc": "ARC-2",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "content_flag": "Superseded by v3; v3 FAILED its cold ear-test and the episode is SHELVED. Never auto-post.",
+   "exists": true,
+   "size": 20755422,
+   "mtime": 1794908342,
+   "md5": "97bf385fefface7ea199cf9f5b690096",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "b400a318b318b318639e696e4162c162c36681818181c141e0c3c081c0830081",
+    "83878387cb97c11640064104018c0108500050050000000b0006002a00330163",
+    "7f0073187758375833181339233b2732067c123e063a16f606130e39167100f1"
+   ],
+   "audio_fp": {
+    "md5_60s": "0d6c0f597abfd4fe13a722762b9a6575",
+    "rms_db": -19.81,
+    "seconds": 60.29
+   }
+  },
+  {
+   "id": "MORPH-NIGHT-LIST-E2-V3",
+   "title": "THE NIGHT LIST E2 \u2014 The Keeper Night (v3)",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E2_the-night-list/masters/E2_the-night-list_v3.mp4",
+   "lore": {
+    "arc": "ARC-2",
+    "chain": null
+   },
+   "delivered": "2026-11-17",
+   "content_flag": "SHELVED 2026-11-17: FAILED the cold ear-test after passing F-9. Never auto-post.",
+   "exists": true,
+   "size": 15475354,
+   "mtime": 1794921690,
+   "md5": "7be7d8b8702a019ac19f95100b9d285c",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "81f083f003ec01cc00e826782470443004208420c420d820982088000b030b03",
+    "1820083000b400bc009c00bc002c007c007000400000002000488018008b006b",
+    "0c1008300c3107bd10192239202040c0404000c004e008c059c024408e430c03"
+   ],
+   "audio_fp": {
+    "md5_60s": "ce73900ef61760aae346effe96afbc61",
+    "rms_db": -18.84,
+    "seconds": 60.29
+   }
+  },
+  {
+   "id": "MORPH-ONE-SHORT-E3",
+   "title": "ONE SHORT E3 \u2014 Thirty-One Umbrellas \u2014 AND ONE BY THE DOOR",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_one-short/masters/oneshort_E3_master.mp4",
+   "lore": {
+    "arc": "ARC-3",
+    "chain": null
+   },
+   "delivered": "2026-11-18",
+   "content_flag": "HELD 2026-11-20: written under the dialogue method the user condemned 2026-11-18 ('the way that all of the dialog is being made is wrong'); the verdict explicitly covers this episode. Never auto-post until re-dialogued or cleared by a parent/user ruling.",
+   "exists": true,
+   "size": 25421965,
+   "mtime": 1795041123,
+   "md5": "54cc5582848a76c5ef4e8b351c7dd0c2",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "b6e186e996c112c5843666180c188c4d0e190f05869496983663184720510839",
+    "07900611c792a71db79db975db5bc315c7359614879d1ff11ff14efea400e401",
+    "a0c1c0c108c109f1a753aeecae8ca6c5b5c794cf1ccf140724071c67342c1629"
+   ],
+   "audio_fp": {
+    "md5_60s": "a5e179a4c8bcfeae6c44620164e6b6be",
+    "rms_db": -19.89,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MORPH-HOLD-ON-E3-OUTTAKES",
+   "title": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "kind": "show-episode",
+   "tier": "rejected-accepted",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_PEACH_OUTTAKES.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-18",
+   "different_enough": true,
+   "caption_label": "HOLD ON E3 \u2014 Peach Outtakes (Alternate Takes)",
+   "exists": true,
+   "size": 9503556,
+   "mtime": 1795035571,
+   "md5": "3c1a659d3a99a27fdfc8825bfba4a9db",
+   "duration_s": 20.0,
+   "frames": 480,
+   "phash": [
+    "3e261c7316721c731c7b2c691c649c6598bdd8b7d833dcf3dcb3cdb33c730ce5",
+    "8573887d8175b92139b331b554b355ba5f5c3d563b563f382d302d843d947d94",
+    "8e1c8e9dce85c6d1535173483356326533253389338533263b2e3c06d806580f"
+   ],
+   "audio_fp": {
+    "md5_60s": "0036bba491fd41dd3141d88dd5e53305",
+    "rms_db": -19.67,
+    "seconds": 20.07
    }
   },
   {
