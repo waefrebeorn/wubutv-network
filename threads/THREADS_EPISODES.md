@@ -177,3 +177,4 @@
 | ST-008 | The Heard Guest'S First Telling / The First Holding | 2026-11-19 04:23 EDT | 18126896540319264 | STATION — ep008 (ST-008) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
 | ST-009 | The First Seating In The Gallery / The First Filing | 2026-11-20 05:11 EDT | 18052590197828492 | STATION — ep009 (ST-009) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
 | ST-010 | The Returned Hearing / The Sealed Question | 2026-11-20 07:25 EDT | 18123636220943013 | STATION — ep010 (ST-010) · WuBuTV canon · ~ WuBu ~ #WuBuTV #stationcanon | posted |
+| CLAIM-WINDOW-PILOT | CLAIM WINDOW — Pilot: Very Umbrella | 2026-11-20 09:25 EDT | 18097868726670414 | CLAIM WINDOW — "Very Umbrella" · PILOT · [ARC-1 · THE ONE VIEWER · OPEN] · ~ WuBu ~ #WuBuTV #aishow #aimusicvideo | posted |
