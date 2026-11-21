@@ -1548,3 +1548,12 @@ are both dated. TT-posted is a bonus.
 | B-1301 | recycle/b1301_locked_wheel_16x9.mp4 | 2026-10-20 | - | 2026-10-20 | 2026-10-21 | 2026-10-21 | 2026-10-20 | 2026-10-26 |
 | B-1295 | recycle/b1295_the_cellar_door_16x9.mp4 | 2026-10-20 | - | 2026-10-20 | 2026-10-21 | 2026-10-22 | 2026-10-20 | 2026-10-26 |
 | B-1302 | bumpers/b1302_the_unmanned_gate_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1310 | bumpers/b1310_the_sextant_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1312 | bumpers/b1312_the_astrolabe_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1313 | bumpers/b1313_the_brass_compass_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1314 | bumpers/b1314_the_barometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1315 | bumpers/b1315_the_theodolite_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1316 | bumpers/b1316_the_planimeter_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1317 | bumpers/b1317_the_hygrometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1318 | bumpers/b1318_the_chronometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1319 | bumpers/b1319_the_clinometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
