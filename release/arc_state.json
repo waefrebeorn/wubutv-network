@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "rotation_next": "ARC-2",
+ "arcs": {
+  "ARC-1": {
+   "name": "The One Viewer",
+   "thread_state": "OPEN",
+   "next_chain": null
+  },
+  "ARC-2": {
+   "name": "The Roster That Keeps Everyone",
+   "thread_state": "OPEN",
+   "next_chain": null
+  },
+  "ARC-3": {
+   "name": "The Count",
+   "thread_state": "OPEN",
+   "next_chain": null
+  }
+ },
+ "note": "Seeded 2026-11-16 from research/WUBU_LORE_AND_LONG_ARCS_2026-10-27.md. Chains interleave ARC-1 -> ARC-2 -> ARC-3, never two from one arc back-to-back; OPEN before DEVELOP before PAYOFF. The Conductor advances rotation_next after a queued head posts."
+}

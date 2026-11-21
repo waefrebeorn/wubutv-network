@@ -1,0 +1,59 @@
+{
+ "chat_copy_50mb": {
+  "bytes": 46073919,
+  "md5": "7d4cb589bbb5f2e9b06c22712d38b372",
+  "path": "masters/mv28_pull-me-into-your-orbit_16x9_50mb.mp4"
+ },
+ "delivered_utc": "2026-11-21T19:05:00Z",
+ "disclosures": [
+  "S22/L40 wordless dawn cover (s22 take lost in tool handoff, not re-fired; MV-27 S06 precedent)",
+  "S03/L02 wordless cover (banked take sang its vehicle's paraphrase; sheet-corrected refire refused by generator)",
+  "S09 vehicle paraphrase fixed by refire s09_t2 (G7 1.00)",
+  "S17 refire s17_t2 word-complete (t1 sang 4/10 words of L30)",
+  "Grey-zone warps: worst S21 L39 k=0.57, S17 L29 + S18 L32 k=1.36; full list in GATE_LOG.md",
+  "Cover stretches: S20 head k=1.70, S21 k=1.45, S22 k=1.478",
+  "Nits: s12_t1 orrery spark flare; dawn HER hair variance; banked s05 neckline + s07 HIM hair nits"
+ ],
+ "gates": {
+  "crf18_proof_ratio": 1.94,
+  "crf23_twin_bytes": 64170322,
+  "freezedetect_freezes": 0,
+  "joined_assert": "5760 frames AND 239.998s before master encode",
+  "subtitles_burned_in": "PASS (46 lines, 278 word events) + mov_text track",
+  "wordmark_bug": "PASS head/mid/tail (t=2/100/140/200/230/239)",
+  "zero_reused_picture": "PASS (planner claim-ledger audit clean)"
+ },
+ "job": "MV-28 continuation coordinator (resume after 429 halt 2026-11-20)",
+ "master": {
+  "bytes": 124317595,
+  "duration_s": 240.0,
+  "frames": 5760,
+  "md5": "3fa1291a32a9d800f9224b71d7086781",
+  "path": "masters/mv28_pull-me-into-your-orbit_16x9.mp4",
+  "spec": "1280x720 24fps h264 CRF18, AAC LC 48kHz 192k (re-encoded from track.mp3), mov_text + burned karaoke ASS, faststart"
+ },
+ "paperwork": [
+  "GATE_LOG.md",
+  "CUTLIST.md",
+  "TAKE_HISTORY.md",
+  "VOLLEY_PROGRESS.md",
+  "work/swing/plan.json"
+ ],
+ "project": "MV-28_pull-me-into-your-orbit",
+ "spend": {
+  "generator_refusals": 1,
+  "images": 5,
+  "video_budget": 40,
+  "video_calls": 33
+ },
+ "status": "DELIVERED",
+ "takes": {
+  "banked_2026_11_20": 15,
+  "fired_on_resume": 18,
+  "landed_on_resume": 17,
+  "lost_in_tool_handoff": [
+   "mv28_s22_t1"
+  ]
+ },
+ "title": "Pull Me Into Your Orbit"
+}

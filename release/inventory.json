@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-21T02:51:44Z",
+ "scanned_utc": "2026-11-21T19:05:40Z",
  "items": [
   {
    "id": "MV-2",
@@ -755,6 +755,36 @@
    "audio_fp": {
     "md5_60s": "0f0b32c4932830f34487e392ccbee446",
     "rms_db": -20.12,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-28",
+   "title": "Pull Me Into Your Orbit",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-28_pull-me-into-your-orbit/masters/mv28_pull-me-into-your-orbit_16x9_50mb.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-21",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-28_pull-me-into-your-orbit/masters/mv28_pull-me-into-your-orbit_16x9.mp4",
+   "delivery_encode": true,
+   "exists": true,
+   "size": 46073919,
+   "mtime": 1795287571,
+   "md5": "7d4cb589bbb5f2e9b06c22712d38b372",
+   "duration_s": 240.0,
+   "frames": 5760,
+   "phash": [
+    "12391b6b4f4f06938695066d674dc74d89458fc307c0666c45ca060b00090049",
+    "093f0979326f23bf20f760f360fb60dbc1a984e90532069f82c782f780f900c9",
+    "026f027f0c6f5a7e133f0336031c231e231d221f031f011e01ac00a8006b2069"
+   ],
+   "audio_fp": {
+    "md5_60s": "113f21c7495f42de6cb78cd2363fd3ee",
+    "rms_db": -20.31,
     "seconds": 60.0
    }
   },
