@@ -6371,6 +6371,154 @@
    "kind": "music-video",
    "tier": "current",
    "caption": "MV-25 \u2014 \"Turkey's Not the Only One\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo"
+  },
+  {
+   "item": "MV-22",
+   "platform": "instagram",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "18081432938435213"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-20T20:32:48Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-22 \u2014 \"I Love Spaghetti\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo"
+  },
+  {
+   "item": "MV-22",
+   "platform": "threads",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "18128969353809923"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-20T21:30:21Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-22 \u2014 \"I Love Spaghetti\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo",
+   "double_post": true,
+   "do_not_touch": true,
+   "live_copies": 2,
+   "note": "Live double-post verified 2026-11-20 by threads-video-poster lane A: two live Threads posts for MV-22 (18128969353809923 and 17886467211527740, created seconds apart at ~21:30Z). Cause: lane A's upload ran ~90 min; its threads.lock aged past the 25-min staleness threshold and was retaken by the concurrent lane, which posted MV-22 (burned-subs master, catalogue commit d0c5e60b) while lane A's post of the pre-swap master (md5 9f7588cce077dafc00e0e8770c70fceb) was still in flight. Removal of one copy is the user's in-app action only."
+  },
+  {
+   "item": "MV-22",
+   "platform": "threads",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "17886467211527740"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-20T21:31:42Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-22 \u2014 \"I Love Spaghetti\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo",
+   "double_post": true,
+   "do_not_touch": true,
+   "live_copies": 2,
+   "note": "Live double-post verified 2026-11-20 by threads-video-poster lane A: two live Threads posts for MV-22 (18128969353809923 and 17886467211527740, created seconds apart at ~21:30Z). Cause: lane A's upload ran ~90 min; its threads.lock aged past the 25-min staleness threshold and was retaken by the concurrent lane, which posted MV-22 (burned-subs master, catalogue commit d0c5e60b) while lane A's post of the pre-swap master (md5 9f7588cce077dafc00e0e8770c70fceb) was still in flight. Removal of one copy is the user's in-app action only."
+  },
+  {
+   "item": "MV-23",
+   "platform": "instagram",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "17937210264146119"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T05:19:53Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-23 \u2014 \"Call Me Ranch\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo"
+  },
+  {
+   "item": "ST-006",
+   "platform": "instagram",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "18159481231518339"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T07:31:43Z",
+   "kind": "station-episode",
+   "tier": "current",
+   "caption": "STATION \u2014 ep006 (ST-006) \u00b7 WuBuTV canon \u00b7 ~ WuBu ~\n#WuBuTV #stationcanon"
+  },
+  {
+   "item": "MV-24",
+   "platform": "instagram",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "17996230656063617"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T09:49:59Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-24 \u2014 \"The Jelqer\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo"
+  },
+  {
+   "item": "MV-26",
+   "platform": "instagram",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "18133723570839947"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T12:20:15Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-26 \u2014 \"Gotta Poop\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo"
+  },
+  {
+   "item": "ST-011",
+   "platform": "threads",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "18012574898989872"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T13:02:58Z",
+   "kind": "station-episode",
+   "tier": "current",
+   "caption": "STATION \u2014 ep011 (ST-011) \u00b7 WuBuTV canon \u00b7 ~ WuBu ~\n#WuBuTV #stationcanon"
+  },
+  {
+   "item": "MV-23",
+   "platform": "threads",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "17910835866656822"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T13:02:22Z",
+   "kind": "music-video",
+   "tier": "current",
+   "caption": "MV-23 \u2014 \"Call Me Ranch\" \u00b7 [ARC-2 \u00b7 THE ROSTER THAT KEEPS EVERYONE] \u00b7 ~ WuBu ~\n#WuBuTV #aishow #aimusicvideo"
+  },
+  {
+   "item": "ST-012",
+   "platform": "threads",
+   "posted": true,
+   "source": "release-lane",
+   "post_ids": [
+    "18090931481298555"
+   ],
+   "ledger_rows": 1,
+   "posted_utc": "2026-11-21T17:37:18Z",
+   "kind": "station-episode",
+   "tier": "current",
+   "caption": "STATION \u2014 ep012 (ST-012) \u00b7 WuBuTV canon \u00b7 ~ WuBu ~\n#WuBuTV #stationcanon"
   }
  ]
 }
