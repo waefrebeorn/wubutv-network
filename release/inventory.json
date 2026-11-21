@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-20T22:38:00Z",
+ "scanned_utc": "2026-11-21T00:03:33Z",
  "items": [
   {
    "id": "MV-2",
@@ -697,6 +697,34 @@
    "audio_fp": {
     "md5_60s": "ee2b3098d68edd921d95af1240c76d72",
     "rms_db": -18.48,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-24",
+   "title": "The Jelqer",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-24_the-jelqer/masters/mv24_the_jelqer_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-20",
+   "exists": true,
+   "size": 82691799,
+   "mtime": 1795218669,
+   "md5": "4da0e3aa261f03a180105097279cdde5",
+   "duration_s": 166.42,
+   "frames": 3994,
+   "phash": [
+    "8ff987f1837f83ff852f852d05ad05248526856c457c63ace3e963f8717c1069",
+    "309c18ce981228cd28e1a8fabc5a14cf14c474c414d658b00930876c83650031",
+    "4325633532056045c4646836603a58325c3abc2db425b465f264785238f21ef5"
+   ],
+   "audio_fp": {
+    "md5_60s": "dfe35e3b2475875b19e2d14c61b26356",
+    "rms_db": -16.15,
     "seconds": 60.0
    }
   },
