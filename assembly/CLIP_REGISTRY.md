@@ -1557,3 +1557,5 @@ are both dated. TT-posted is a bonus.
 | B-1317 | bumpers/b1317_the_hygrometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
 | B-1318 | bumpers/b1318_the_chronometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
 | B-1319 | bumpers/b1319_the_clinometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1321 | bumpers/b1321_the_galvanometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
+| B-1322 | bumpers/b1322_the_spectrometer_16x9.mp4 | 2026-11-20 | - | - | - | - | - | - |
