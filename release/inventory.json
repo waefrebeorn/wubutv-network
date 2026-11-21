@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-21T00:03:33Z",
+ "scanned_utc": "2026-11-21T02:51:44Z",
  "items": [
   {
    "id": "MV-2",
@@ -725,6 +725,36 @@
    "audio_fp": {
     "md5_60s": "dfe35e3b2475875b19e2d14c61b26356",
     "rms_db": -16.15,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-27",
+   "title": "WuBu",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-27_wubu/masters/mv27_wubu_16x9_50mb.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-20",
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-27_wubu/masters/mv27_wubu_16x9.mp4",
+   "delivery_encode": true,
+   "exists": true,
+   "size": 47745725,
+   "mtime": 1795229244,
+   "md5": "8e1a4f8feaf56b806252a9ec5d81f031",
+   "duration_s": 252.0,
+   "frames": 6048,
+   "phash": [
+    "75017a01358331833789348b378f0799239dcdc609850b030b033b0333a333a1",
+    "183e190c1999298121a321e3b185998d3f2d932523232a62300113610bf60381",
+    "0f2287228523256b260b073b4f530f261d6615845bec53ec134ba2eb146b5769"
+   ],
+   "audio_fp": {
+    "md5_60s": "0f0b32c4932830f34487e392ccbee446",
+    "rms_db": -20.12,
     "seconds": 60.0
    }
   },

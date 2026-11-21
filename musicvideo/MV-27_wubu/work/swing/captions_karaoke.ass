@@ -1,0 +1,370 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: V6Line,DejaVu Sans,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.67,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu
+Dialogue: 0,0:00:03.67,0:00:06.59,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:06.34,0:00:07.74,V6Line,,0,0,0,,{\1c&H0000FFFF&}Let's{\1c&H00FFFFFF&} go
+Dialogue: 0,0:00:07.74,0:00:08.25,V6Line,,0,0,0,,Let's {\1c&H0000FFFF&}go{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:08.00,0:00:09.34,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu say the name
+Dialogue: 0,0:00:09.34,0:00:10.68,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} say the name
+Dialogue: 0,0:00:10.68,0:00:11.35,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:00:11.35,0:00:12.02,V6Line,,0,0,0,,WuBu WuBu say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:00:12.02,0:00:13.61,V6Line,,0,0,0,,WuBu WuBu say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:13.36,0:00:14.70,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu in the game
+Dialogue: 0,0:00:14.70,0:00:16.04,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} in the game
+Dialogue: 0,0:00:16.04,0:00:16.71,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} the game
+Dialogue: 0,0:00:16.71,0:00:17.38,V6Line,,0,0,0,,WuBu WuBu in {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} game
+Dialogue: 0,0:00:17.38,0:00:18.97,V6Line,,0,0,0,,WuBu WuBu in the {\1c&H0000FFFF&}game{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:18.72,0:00:19.39,V6Line,,0,0,0,,{\1c&H0000FFFF&}Clip{\1c&H00FFFFFF&} it up clip it up
+Dialogue: 0,0:00:19.39,0:00:20.06,V6Line,,0,0,0,,Clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up clip it up
+Dialogue: 0,0:00:20.06,0:00:20.73,V6Line,,0,0,0,,Clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&} clip it up
+Dialogue: 0,0:00:20.73,0:00:21.40,V6Line,,0,0,0,,Clip it up {\1c&H0000FFFF&}clip{\1c&H00FFFFFF&} it up
+Dialogue: 0,0:00:21.40,0:00:22.07,V6Line,,0,0,0,,Clip it up clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up
+Dialogue: 0,0:00:22.07,0:00:22.99,V6Line,,0,0,0,,Clip it up clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:22.74,0:00:23.68,V6Line,,0,0,0,,{\1c&H0000FFFF&}More{\1c&H00FFFFFF&} and more never stop
+Dialogue: 0,0:00:23.68,0:00:25.80,V6Line,,0,0,0,,More {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} more never stop
+Dialogue: 0,0:00:25.80,0:00:26.14,V6Line,,0,0,0,,More and {\1c&H0000FFFF&}more{\1c&H00FFFFFF&} never stop
+Dialogue: 0,0:00:26.14,0:00:26.68,V6Line,,0,0,0,,More and more {\1c&H0000FFFF&}never{\1c&H00FFFFFF&} stop
+Dialogue: 0,0:00:26.68,0:00:28.52,V6Line,,0,0,0,,More and more never {\1c&H0000FFFF&}stop{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:47.86,0:00:48.62,V6Line,,0,0,0,,{\1c&H0000FFFF&}Let's{\1c&H00FFFFFF&} go
+Dialogue: 0,0:00:48.62,0:00:49.23,V6Line,,0,0,0,,Let's {\1c&H0000FFFF&}go{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:48.98,0:00:50.28,V6Line,,0,0,0,,{\1c&H0000FFFF&}Long{\1c&H00FFFFFF&} nights I stay on the line
+Dialogue: 0,0:00:50.28,0:00:50.84,V6Line,,0,0,0,,Long {\1c&H0000FFFF&}nights{\1c&H00FFFFFF&} I stay on the line
+Dialogue: 0,0:00:50.84,0:00:51.02,V6Line,,0,0,0,,Long nights {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} stay on the line
+Dialogue: 0,0:00:51.02,0:00:51.22,V6Line,,0,0,0,,Long nights I {\1c&H0000FFFF&}stay{\1c&H00FFFFFF&} on the line
+Dialogue: 0,0:00:51.22,0:00:51.42,V6Line,,0,0,0,,Long nights I stay {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} the line
+Dialogue: 0,0:00:51.42,0:00:51.52,V6Line,,0,0,0,,Long nights I stay on {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} line
+Dialogue: 0,0:00:51.52,0:00:52.23,V6Line,,0,0,0,,Long nights I stay on the {\1c&H0000FFFF&}line{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:51.98,0:00:53.36,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pay{\1c&H00FFFFFF&} the rent keep the lights on mine
+Dialogue: 0,0:00:53.36,0:00:53.66,V6Line,,0,0,0,,Pay {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rent keep the lights on mine
+Dialogue: 0,0:00:53.66,0:00:54.06,V6Line,,0,0,0,,Pay the {\1c&H0000FFFF&}rent{\1c&H00FFFFFF&} keep the lights on mine
+Dialogue: 0,0:00:54.06,0:00:54.36,V6Line,,0,0,0,,Pay the rent {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} the lights on mine
+Dialogue: 0,0:00:54.36,0:00:54.74,V6Line,,0,0,0,,Pay the rent keep {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} lights on mine
+Dialogue: 0,0:00:54.74,0:00:55.10,V6Line,,0,0,0,,Pay the rent keep the {\1c&H0000FFFF&}lights{\1c&H00FFFFFF&} on mine
+Dialogue: 0,0:00:55.10,0:00:55.36,V6Line,,0,0,0,,Pay the rent keep the lights {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} mine
+Dialogue: 0,0:00:55.36,0:00:56.13,V6Line,,0,0,0,,Pay the rent keep the lights on {\1c&H0000FFFF&}mine{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:55.88,0:00:56.74,V6Line,,0,0,0,,{\1c&H0000FFFF&}Work{\1c&H00FFFFFF&} till the moon is bright in the sky
+Dialogue: 0,0:00:56.74,0:00:57.08,V6Line,,0,0,0,,Work {\1c&H0000FFFF&}till{\1c&H00FFFFFF&} the moon is bright in the sky
+Dialogue: 0,0:00:57.08,0:00:57.24,V6Line,,0,0,0,,Work till {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} moon is bright in the sky
+Dialogue: 0,0:00:57.24,0:00:57.54,V6Line,,0,0,0,,Work till the {\1c&H0000FFFF&}moon{\1c&H00FFFFFF&} is bright in the sky
+Dialogue: 0,0:00:57.54,0:00:57.88,V6Line,,0,0,0,,Work till the moon {\1c&H0000FFFF&}is{\1c&H00FFFFFF&} bright in the sky
+Dialogue: 0,0:00:57.88,0:00:58.38,V6Line,,0,0,0,,Work till the moon is {\1c&H0000FFFF&}bright{\1c&H00FFFFFF&} in the sky
+Dialogue: 0,0:00:58.38,0:00:58.88,V6Line,,0,0,0,,Work till the moon is bright {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} the sky
+Dialogue: 0,0:00:58.88,0:00:59.02,V6Line,,0,0,0,,Work till the moon is bright in {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} sky
+Dialogue: 0,0:00:59.02,0:00:59.77,V6Line,,0,0,0,,Work till the moon is bright in the {\1c&H0000FFFF&}sky{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:59.52,0:01:00.46,V6Line,,0,0,0,,{\1c&H0000FFFF&}Then{\1c&H00FFFFFF&} I take my two days and I go live
+Dialogue: 0,0:01:00.46,0:01:00.56,V6Line,,0,0,0,,Then {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} take my two days and I go live
+Dialogue: 0,0:01:00.56,0:01:00.78,V6Line,,0,0,0,,Then I {\1c&H0000FFFF&}take{\1c&H00FFFFFF&} my two days and I go live
+Dialogue: 0,0:01:00.78,0:01:00.98,V6Line,,0,0,0,,Then I take {\1c&H0000FFFF&}my{\1c&H00FFFFFF&} two days and I go live
+Dialogue: 0,0:01:00.98,0:01:01.24,V6Line,,0,0,0,,Then I take my {\1c&H0000FFFF&}two{\1c&H00FFFFFF&} days and I go live
+Dialogue: 0,0:01:01.24,0:01:01.82,V6Line,,0,0,0,,Then I take my two {\1c&H0000FFFF&}days{\1c&H00FFFFFF&} and I go live
+Dialogue: 0,0:01:01.82,0:01:02.52,V6Line,,0,0,0,,Then I take my two days {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} I go live
+Dialogue: 0,0:01:02.52,0:01:02.74,V6Line,,0,0,0,,Then I take my two days and {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} go live
+Dialogue: 0,0:01:02.74,0:01:03.08,V6Line,,0,0,0,,Then I take my two days and I {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} live
+Dialogue: 0,0:01:03.08,0:01:04.50,V6Line,,0,0,0,,Then I take my two days and I go {\1c&H0000FFFF&}live{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:04.50,0:01:04.94,V6Line,,0,0,0,,{\1c&H0000FFFF&}Tired{\1c&H00FFFFFF&} eyes but I keep the promise
+Dialogue: 0,0:01:04.94,0:01:05.15,V6Line,,0,0,0,,Tired {\1c&H0000FFFF&}eyes{\1c&H00FFFFFF&} but I keep the promise
+Dialogue: 0,0:01:05.15,0:01:05.37,V6Line,,0,0,0,,Tired eyes {\1c&H0000FFFF&}but{\1c&H00FFFFFF&} I keep the promise
+Dialogue: 0,0:01:05.37,0:01:05.59,V6Line,,0,0,0,,Tired eyes but {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} keep the promise
+Dialogue: 0,0:01:05.59,0:01:05.81,V6Line,,0,0,0,,Tired eyes but I {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} the promise
+Dialogue: 0,0:01:05.81,0:01:06.03,V6Line,,0,0,0,,Tired eyes but I keep {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} promise
+Dialogue: 0,0:01:06.03,0:01:06.93,V6Line,,0,0,0,,Tired eyes but I keep the {\1c&H0000FFFF&}promise{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:06.68,0:01:06.92,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} keep moving I keep it honest
+Dialogue: 0,0:01:06.92,0:01:07.04,V6Line,,0,0,0,,I {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} moving I keep it honest
+Dialogue: 0,0:01:07.04,0:01:07.44,V6Line,,0,0,0,,I keep {\1c&H0000FFFF&}moving{\1c&H00FFFFFF&} I keep it honest
+Dialogue: 0,0:01:07.44,0:01:07.64,V6Line,,0,0,0,,I keep moving {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} keep it honest
+Dialogue: 0,0:01:07.64,0:01:07.94,V6Line,,0,0,0,,I keep moving I {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it honest
+Dialogue: 0,0:01:07.94,0:01:08.14,V6Line,,0,0,0,,I keep moving I keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} honest
+Dialogue: 0,0:01:08.14,0:01:08.79,V6Line,,0,0,0,,I keep moving I keep it {\1c&H0000FFFF&}honest{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:08.54,0:01:08.86,V6Line,,0,0,0,,{\1c&H0000FFFF&}Bills{\1c&H00FFFFFF&} on the desk and a dream in my hand
+Dialogue: 0,0:01:08.86,0:01:09.04,V6Line,,0,0,0,,Bills {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} the desk and a dream in my hand
+Dialogue: 0,0:01:09.04,0:01:09.14,V6Line,,0,0,0,,Bills on {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} desk and a dream in my hand
+Dialogue: 0,0:01:09.14,0:01:09.40,V6Line,,0,0,0,,Bills on the {\1c&H0000FFFF&}desk{\1c&H00FFFFFF&} and a dream in my hand
+Dialogue: 0,0:01:09.40,0:01:09.52,V6Line,,0,0,0,,Bills on the desk {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} a dream in my hand
+Dialogue: 0,0:01:09.52,0:01:09.62,V6Line,,0,0,0,,Bills on the desk and {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} dream in my hand
+Dialogue: 0,0:01:09.62,0:01:09.76,V6Line,,0,0,0,,Bills on the desk and a {\1c&H0000FFFF&}dream{\1c&H00FFFFFF&} in my hand
+Dialogue: 0,0:01:09.76,0:01:09.88,V6Line,,0,0,0,,Bills on the desk and a dream {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} my hand
+Dialogue: 0,0:01:09.88,0:01:10.04,V6Line,,0,0,0,,Bills on the desk and a dream in {\1c&H0000FFFF&}my{\1c&H00FFFFFF&} hand
+Dialogue: 0,0:01:10.04,0:01:10.75,V6Line,,0,0,0,,Bills on the desk and a dream in my {\1c&H0000FFFF&}hand{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:10.50,0:01:10.80,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} makes the way does what he can
+Dialogue: 0,0:01:10.80,0:01:10.96,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}makes{\1c&H00FFFFFF&} the way does what he can
+Dialogue: 0,0:01:10.96,0:01:11.06,V6Line,,0,0,0,,WuBu makes {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way does what he can
+Dialogue: 0,0:01:11.06,0:01:11.28,V6Line,,0,0,0,,WuBu makes the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&} does what he can
+Dialogue: 0,0:01:11.28,0:01:11.44,V6Line,,0,0,0,,WuBu makes the way {\1c&H0000FFFF&}does{\1c&H00FFFFFF&} what he can
+Dialogue: 0,0:01:11.44,0:01:11.70,V6Line,,0,0,0,,WuBu makes the way does {\1c&H0000FFFF&}what{\1c&H00FFFFFF&} he can
+Dialogue: 0,0:01:11.70,0:01:11.92,V6Line,,0,0,0,,WuBu makes the way does what {\1c&H0000FFFF&}he{\1c&H00FFFFFF&} can
+Dialogue: 0,0:01:11.92,0:01:12.51,V6Line,,0,0,0,,WuBu makes the way does what he {\1c&H0000FFFF&}can{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:12.26,0:01:12.66,V6Line,,0,0,0,,{\1c&H0000FFFF&}When{\1c&H00FFFFFF&} the week gets heavy
+Dialogue: 0,0:01:12.66,0:01:12.90,V6Line,,0,0,0,,When {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} week gets heavy
+Dialogue: 0,0:01:12.90,0:01:13.22,V6Line,,0,0,0,,When the {\1c&H0000FFFF&}week{\1c&H00FFFFFF&} gets heavy
+Dialogue: 0,0:01:13.22,0:01:13.42,V6Line,,0,0,0,,When the week {\1c&H0000FFFF&}gets{\1c&H00FFFFFF&} heavy
+Dialogue: 0,0:01:13.42,0:01:14.22,V6Line,,0,0,0,,When the week gets {\1c&H0000FFFF&}heavy{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:14.22,0:01:14.30,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} hear my people call
+Dialogue: 0,0:01:14.30,0:01:14.58,V6Line,,0,0,0,,I {\1c&H0000FFFF&}hear{\1c&H00FFFFFF&} my people call
+Dialogue: 0,0:01:14.58,0:01:14.82,V6Line,,0,0,0,,I hear {\1c&H0000FFFF&}my{\1c&H00FFFFFF&} people call
+Dialogue: 0,0:01:14.82,0:01:15.40,V6Line,,0,0,0,,I hear my {\1c&H0000FFFF&}people{\1c&H00FFFFFF&} call
+Dialogue: 0,0:01:15.40,0:01:16.27,V6Line,,0,0,0,,I hear my people {\1c&H0000FFFF&}call{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:16.02,0:01:16.26,V6Line,,0,0,0,,{\1c&H0000FFFF&}When{\1c&H00FFFFFF&} the week gets heavy
+Dialogue: 0,0:01:16.26,0:01:16.50,V6Line,,0,0,0,,When {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} week gets heavy
+Dialogue: 0,0:01:16.50,0:01:16.74,V6Line,,0,0,0,,When the {\1c&H0000FFFF&}week{\1c&H00FFFFFF&} gets heavy
+Dialogue: 0,0:01:16.74,0:01:16.98,V6Line,,0,0,0,,When the week {\1c&H0000FFFF&}gets{\1c&H00FFFFFF&} heavy
+Dialogue: 0,0:01:16.98,0:01:17.71,V6Line,,0,0,0,,When the week gets {\1c&H0000FFFF&}heavy{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:17.58,0:01:18.13,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} give my all
+Dialogue: 0,0:01:18.13,0:01:19.22,V6Line,,0,0,0,,I {\1c&H0000FFFF&}give{\1c&H00FFFFFF&} my all
+Dialogue: 0,0:01:19.22,0:01:19.77,V6Line,,0,0,0,,I give {\1c&H0000FFFF&}my{\1c&H00FFFFFF&} all
+Dialogue: 0,0:01:19.77,0:01:20.57,V6Line,,0,0,0,,I give my {\1c&H0000FFFF&}all{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:20.32,0:01:20.79,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu say the name
+Dialogue: 0,0:01:20.79,0:01:21.26,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} say the name
+Dialogue: 0,0:01:21.26,0:01:21.50,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:01:21.50,0:01:21.73,V6Line,,0,0,0,,WuBu WuBu say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:01:21.73,0:01:22.45,V6Line,,0,0,0,,WuBu WuBu say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:22.20,0:01:22.67,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu in the game
+Dialogue: 0,0:01:22.67,0:01:23.15,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} in the game
+Dialogue: 0,0:01:23.15,0:01:23.38,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} the game
+Dialogue: 0,0:01:23.38,0:01:23.62,V6Line,,0,0,0,,WuBu WuBu in {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} game
+Dialogue: 0,0:01:23.62,0:01:24.34,V6Line,,0,0,0,,WuBu WuBu in the {\1c&H0000FFFF&}game{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:24.09,0:01:24.32,V6Line,,0,0,0,,{\1c&H0000FFFF&}Clip{\1c&H00FFFFFF&} it up clip it up
+Dialogue: 0,0:01:24.32,0:01:24.56,V6Line,,0,0,0,,Clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up clip it up
+Dialogue: 0,0:01:24.56,0:01:24.79,V6Line,,0,0,0,,Clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&} clip it up
+Dialogue: 0,0:01:24.79,0:01:25.03,V6Line,,0,0,0,,Clip it up {\1c&H0000FFFF&}clip{\1c&H00FFFFFF&} it up
+Dialogue: 0,0:01:25.03,0:01:25.26,V6Line,,0,0,0,,Clip it up clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up
+Dialogue: 0,0:01:25.26,0:01:25.75,V6Line,,0,0,0,,Clip it up clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:25.50,0:01:25.66,V6Line,,0,0,0,,{\1c&H0000FFFF&}More{\1c&H00FFFFFF&} and more never stop
+Dialogue: 0,0:01:25.66,0:01:25.80,V6Line,,0,0,0,,More {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} more never stop
+Dialogue: 0,0:01:25.80,0:01:26.18,V6Line,,0,0,0,,More and {\1c&H0000FFFF&}more{\1c&H00FFFFFF&} never stop
+Dialogue: 0,0:01:26.18,0:01:26.62,V6Line,,0,0,0,,More and more {\1c&H0000FFFF&}never{\1c&H00FFFFFF&} stop
+Dialogue: 0,0:01:26.62,0:01:27.37,V6Line,,0,0,0,,More and more never {\1c&H0000FFFF&}stop{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:27.12,0:01:28.31,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu hear it loud
+Dialogue: 0,0:01:28.31,0:01:29.51,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} hear it loud
+Dialogue: 0,0:01:29.51,0:01:30.11,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}hear{\1c&H00FFFFFF&} it loud
+Dialogue: 0,0:01:30.11,0:01:30.70,V6Line,,0,0,0,,WuBu WuBu hear {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} loud
+Dialogue: 0,0:01:30.70,0:01:31.55,V6Line,,0,0,0,,WuBu WuBu hear it {\1c&H0000FFFF&}loud{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:31.30,0:01:33.09,V6Line,,0,0,0,,{\1c&H0000FFFF&}WaefreBeorn{\1c&H00FFFFFF&} say it proud
+Dialogue: 0,0:01:33.09,0:01:33.69,V6Line,,0,0,0,,WaefreBeorn {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} it proud
+Dialogue: 0,0:01:33.69,0:01:34.28,V6Line,,0,0,0,,WaefreBeorn say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} proud
+Dialogue: 0,0:01:34.28,0:01:35.13,V6Line,,0,0,0,,WaefreBeorn say it {\1c&H0000FFFF&}proud{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:34.88,0:01:36.08,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu keep it going
+Dialogue: 0,0:01:36.08,0:01:37.27,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} keep it going
+Dialogue: 0,0:01:37.27,0:01:37.87,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it going
+Dialogue: 0,0:01:37.87,0:01:38.46,V6Line,,0,0,0,,WuBu WuBu keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} going
+Dialogue: 0,0:01:38.46,0:01:39.31,V6Line,,0,0,0,,WuBu WuBu keep it {\1c&H0000FFFF&}going{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:39.06,0:01:40.15,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu keep it growing
+Dialogue: 0,0:01:40.15,0:01:41.23,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} keep it growing
+Dialogue: 0,0:01:41.23,0:01:41.77,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it growing
+Dialogue: 0,0:01:41.77,0:01:42.32,V6Line,,0,0,0,,WuBu WuBu keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} growing
+Dialogue: 0,0:01:42.32,0:01:44.60,V6Line,,0,0,0,,WuBu WuBu keep it {\1c&H0000FFFF&}growing{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:49.84,0:01:50.34,V6Line,,0,0,0,,{\1c&H0000FFFF&}Couple{\1c&H00FFFFFF&} days free I stream for the crew
+Dialogue: 0,0:01:50.34,0:01:50.62,V6Line,,0,0,0,,Couple {\1c&H0000FFFF&}days{\1c&H00FFFFFF&} free I stream for the crew
+Dialogue: 0,0:01:50.62,0:01:50.98,V6Line,,0,0,0,,Couple days {\1c&H0000FFFF&}free{\1c&H00FFFFFF&} I stream for the crew
+Dialogue: 0,0:01:50.98,0:01:51.06,V6Line,,0,0,0,,Couple days free {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} stream for the crew
+Dialogue: 0,0:01:51.06,0:01:51.44,V6Line,,0,0,0,,Couple days free I {\1c&H0000FFFF&}stream{\1c&H00FFFFFF&} for the crew
+Dialogue: 0,0:01:51.44,0:01:52.00,V6Line,,0,0,0,,Couple days free I stream {\1c&H0000FFFF&}for{\1c&H00FFFFFF&} the crew
+Dialogue: 0,0:01:52.00,0:01:52.12,V6Line,,0,0,0,,Couple days free I stream for {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} crew
+Dialogue: 0,0:01:52.12,0:01:52.69,V6Line,,0,0,0,,Couple days free I stream for the {\1c&H0000FFFF&}crew{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:52.44,0:01:53.42,V6Line,,0,0,0,,{\1c&H0000FFFF&}Not{\1c&H00FFFFFF&} the usual crowd but I still see you
+Dialogue: 0,0:01:53.42,0:01:53.54,V6Line,,0,0,0,,Not {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} usual crowd but I still see you
+Dialogue: 0,0:01:53.54,0:01:53.84,V6Line,,0,0,0,,Not the {\1c&H0000FFFF&}usual{\1c&H00FFFFFF&} crowd but I still see you
+Dialogue: 0,0:01:53.84,0:01:54.46,V6Line,,0,0,0,,Not the usual {\1c&H0000FFFF&}crowd{\1c&H00FFFFFF&} but I still see you
+Dialogue: 0,0:01:54.46,0:01:54.76,V6Line,,0,0,0,,Not the usual crowd {\1c&H0000FFFF&}but{\1c&H00FFFFFF&} I still see you
+Dialogue: 0,0:01:54.76,0:01:54.90,V6Line,,0,0,0,,Not the usual crowd but {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} still see you
+Dialogue: 0,0:01:54.90,0:01:55.40,V6Line,,0,0,0,,Not the usual crowd but I {\1c&H0000FFFF&}still{\1c&H00FFFFFF&} see you
+Dialogue: 0,0:01:55.40,0:01:55.92,V6Line,,0,0,0,,Not the usual crowd but I still {\1c&H0000FFFF&}see{\1c&H00FFFFFF&} you
+Dialogue: 0,0:01:55.92,0:01:56.55,V6Line,,0,0,0,,Not the usual crowd but I still see {\1c&H0000FFFF&}you{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:56.30,0:01:57.10,V6Line,,0,0,0,,{\1c&H0000FFFF&}Warehouse{\1c&H00FFFFFF&} shows to the underground night
+Dialogue: 0,0:01:57.10,0:01:57.30,V6Line,,0,0,0,,Warehouse {\1c&H0000FFFF&}shows{\1c&H00FFFFFF&} to the underground night
+Dialogue: 0,0:01:57.30,0:01:57.50,V6Line,,0,0,0,,Warehouse shows {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} the underground night
+Dialogue: 0,0:01:57.50,0:01:57.70,V6Line,,0,0,0,,Warehouse shows to {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} underground night
+Dialogue: 0,0:01:57.70,0:01:58.30,V6Line,,0,0,0,,Warehouse shows to the {\1c&H0000FFFF&}underground{\1c&H00FFFFFF&} night
+Dialogue: 0,0:01:58.30,0:01:58.75,V6Line,,0,0,0,,Warehouse shows to the underground {\1c&H0000FFFF&}night{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:58.50,0:01:58.82,V6Line,,0,0,0,,{\1c&H0000FFFF&}Old{\1c&H00FFFFFF&} tapes in the box the signal stays tight
+Dialogue: 0,0:01:58.82,0:01:59.46,V6Line,,0,0,0,,Old {\1c&H0000FFFF&}tapes{\1c&H00FFFFFF&} in the box the signal stays tight
+Dialogue: 0,0:01:59.46,0:01:59.78,V6Line,,0,0,0,,Old tapes {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} the box the signal stays tight
+Dialogue: 0,0:01:59.78,0:02:00.10,V6Line,,0,0,0,,Old tapes in {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} box the signal stays tight
+Dialogue: 0,0:02:00.10,0:02:00.42,V6Line,,0,0,0,,Old tapes in the {\1c&H0000FFFF&}box{\1c&H00FFFFFF&} the signal stays tight
+Dialogue: 0,0:02:00.42,0:02:00.74,V6Line,,0,0,0,,Old tapes in the box {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} signal stays tight
+Dialogue: 0,0:02:00.74,0:02:01.38,V6Line,,0,0,0,,Old tapes in the box the {\1c&H0000FFFF&}signal{\1c&H00FFFFFF&} stays tight
+Dialogue: 0,0:02:01.38,0:02:01.70,V6Line,,0,0,0,,Old tapes in the box the signal {\1c&H0000FFFF&}stays{\1c&H00FFFFFF&} tight
+Dialogue: 0,0:02:01.70,0:02:02.27,V6Line,,0,0,0,,Old tapes in the box the signal stays {\1c&H0000FFFF&}tight{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:02.02,0:02:02.36,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} send it out where the echoes go
+Dialogue: 0,0:02:02.36,0:02:02.54,V6Line,,0,0,0,,I {\1c&H0000FFFF&}send{\1c&H00FFFFFF&} it out where the echoes go
+Dialogue: 0,0:02:02.54,0:02:02.66,V6Line,,0,0,0,,I send {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} out where the echoes go
+Dialogue: 0,0:02:02.66,0:02:02.82,V6Line,,0,0,0,,I send it {\1c&H0000FFFF&}out{\1c&H00FFFFFF&} where the echoes go
+Dialogue: 0,0:02:02.82,0:02:03.00,V6Line,,0,0,0,,I send it out {\1c&H0000FFFF&}where{\1c&H00FFFFFF&} the echoes go
+Dialogue: 0,0:02:03.00,0:02:03.10,V6Line,,0,0,0,,I send it out where {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} echoes go
+Dialogue: 0,0:02:03.10,0:02:03.40,V6Line,,0,0,0,,I send it out where the {\1c&H0000FFFF&}echoes{\1c&H00FFFFFF&} go
+Dialogue: 0,0:02:03.40,0:02:03.93,V6Line,,0,0,0,,I send it out where the echoes {\1c&H0000FFFF&}go{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:03.68,0:02:04.17,V6Line,,0,0,0,,{\1c&H0000FFFF&}Backroom{\1c&H00FFFFFF&} glow and the world should know
+Dialogue: 0,0:02:04.17,0:02:04.41,V6Line,,0,0,0,,Backroom {\1c&H0000FFFF&}glow{\1c&H00FFFFFF&} and the world should know
+Dialogue: 0,0:02:04.41,0:02:04.65,V6Line,,0,0,0,,Backroom glow {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} the world should know
+Dialogue: 0,0:02:04.65,0:02:04.89,V6Line,,0,0,0,,Backroom glow and {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} world should know
+Dialogue: 0,0:02:04.89,0:02:05.14,V6Line,,0,0,0,,Backroom glow and the {\1c&H0000FFFF&}world{\1c&H00FFFFFF&} should know
+Dialogue: 0,0:02:05.14,0:02:05.38,V6Line,,0,0,0,,Backroom glow and the world {\1c&H0000FFFF&}should{\1c&H00FFFFFF&} know
+Dialogue: 0,0:02:05.38,0:02:05.87,V6Line,,0,0,0,,Backroom glow and the world should {\1c&H0000FFFF&}know{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:05.62,0:02:06.02,V6Line,,0,0,0,,{\1c&H0000FFFF&}Audience{\1c&H00FFFFFF&} rare audience true
+Dialogue: 0,0:02:06.02,0:02:06.72,V6Line,,0,0,0,,Audience {\1c&H0000FFFF&}rare{\1c&H00FFFFFF&} audience true
+Dialogue: 0,0:02:06.72,0:02:07.02,V6Line,,0,0,0,,Audience rare {\1c&H0000FFFF&}audience{\1c&H00FFFFFF&} true
+Dialogue: 0,0:02:07.02,0:02:07.61,V6Line,,0,0,0,,Audience rare audience {\1c&H0000FFFF&}true{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:07.36,0:02:07.84,V6Line,,0,0,0,,{\1c&H0000FFFF&}Every{\1c&H00FFFFFF&} face means something to WuBu too
+Dialogue: 0,0:02:07.84,0:02:08.16,V6Line,,0,0,0,,Every {\1c&H0000FFFF&}face{\1c&H00FFFFFF&} means something to WuBu too
+Dialogue: 0,0:02:08.16,0:02:08.32,V6Line,,0,0,0,,Every face {\1c&H0000FFFF&}means{\1c&H00FFFFFF&} something to WuBu too
+Dialogue: 0,0:02:08.32,0:02:08.80,V6Line,,0,0,0,,Every face means {\1c&H0000FFFF&}something{\1c&H00FFFFFF&} to WuBu too
+Dialogue: 0,0:02:08.80,0:02:08.96,V6Line,,0,0,0,,Every face means something {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} WuBu too
+Dialogue: 0,0:02:08.96,0:02:09.28,V6Line,,0,0,0,,Every face means something to {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} too
+Dialogue: 0,0:02:09.28,0:02:09.69,V6Line,,0,0,0,,Every face means something to WuBu {\1c&H0000FFFF&}too{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:09.44,0:02:09.70,V6Line,,0,0,0,,{\1c&H0000FFFF&}When{\1c&H00FFFFFF&} the backlog grows
+Dialogue: 0,0:02:09.70,0:02:09.96,V6Line,,0,0,0,,When {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} backlog grows
+Dialogue: 0,0:02:09.96,0:02:10.48,V6Line,,0,0,0,,When the {\1c&H0000FFFF&}backlog{\1c&H00FFFFFF&} grows
+Dialogue: 0,0:02:10.48,0:02:11.00,V6Line,,0,0,0,,When the backlog {\1c&H0000FFFF&}grows{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:11.00,0:02:11.16,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} keep the fire on
+Dialogue: 0,0:02:11.16,0:02:11.40,V6Line,,0,0,0,,I {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} the fire on
+Dialogue: 0,0:02:11.40,0:02:11.64,V6Line,,0,0,0,,I keep {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} fire on
+Dialogue: 0,0:02:11.64,0:02:12.04,V6Line,,0,0,0,,I keep the {\1c&H0000FFFF&}fire{\1c&H00FFFFFF&} on
+Dialogue: 0,0:02:12.04,0:02:13.19,V6Line,,0,0,0,,I keep the fire {\1c&H0000FFFF&}on{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:12.94,0:02:13.48,V6Line,,0,0,0,,{\1c&H0000FFFF&}When{\1c&H00FFFFFF&} the backlog grows
+Dialogue: 0,0:02:13.48,0:02:13.60,V6Line,,0,0,0,,When {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} backlog grows
+Dialogue: 0,0:02:13.60,0:02:14.02,V6Line,,0,0,0,,When the {\1c&H0000FFFF&}backlog{\1c&H00FFFFFF&} grows
+Dialogue: 0,0:02:14.02,0:02:15.26,V6Line,,0,0,0,,When the backlog {\1c&H0000FFFF&}grows{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:15.26,0:02:15.44,V6Line,,0,0,0,,{\1c&H0000FFFF&}We{\1c&H00FFFFFF&} move it on
+Dialogue: 0,0:02:15.44,0:02:15.80,V6Line,,0,0,0,,We {\1c&H0000FFFF&}move{\1c&H00FFFFFF&} it on
+Dialogue: 0,0:02:15.80,0:02:16.06,V6Line,,0,0,0,,We move {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} on
+Dialogue: 0,0:02:16.06,0:02:17.15,V6Line,,0,0,0,,We move it {\1c&H0000FFFF&}on{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:16.90,0:02:17.44,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu say the name
+Dialogue: 0,0:02:17.44,0:02:17.98,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} say the name
+Dialogue: 0,0:02:17.98,0:02:18.25,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:02:18.25,0:02:18.53,V6Line,,0,0,0,,WuBu WuBu say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:02:18.53,0:02:19.32,V6Line,,0,0,0,,WuBu WuBu say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:19.07,0:02:19.61,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu in the game
+Dialogue: 0,0:02:19.61,0:02:20.15,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} in the game
+Dialogue: 0,0:02:20.15,0:02:20.42,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} the game
+Dialogue: 0,0:02:20.42,0:02:20.69,V6Line,,0,0,0,,WuBu WuBu in {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} game
+Dialogue: 0,0:02:20.69,0:02:21.48,V6Line,,0,0,0,,WuBu WuBu in the {\1c&H0000FFFF&}game{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:21.23,0:02:21.51,V6Line,,0,0,0,,{\1c&H0000FFFF&}Clip{\1c&H00FFFFFF&} it up clip it up
+Dialogue: 0,0:02:21.51,0:02:21.78,V6Line,,0,0,0,,Clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up clip it up
+Dialogue: 0,0:02:21.78,0:02:22.05,V6Line,,0,0,0,,Clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&} clip it up
+Dialogue: 0,0:02:22.05,0:02:22.32,V6Line,,0,0,0,,Clip it up {\1c&H0000FFFF&}clip{\1c&H00FFFFFF&} it up
+Dialogue: 0,0:02:22.32,0:02:22.59,V6Line,,0,0,0,,Clip it up clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up
+Dialogue: 0,0:02:22.59,0:02:23.11,V6Line,,0,0,0,,Clip it up clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:22.86,0:02:22.98,V6Line,,0,0,0,,{\1c&H0000FFFF&}More{\1c&H00FFFFFF&} and more never stop
+Dialogue: 0,0:02:22.98,0:02:23.14,V6Line,,0,0,0,,More {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} more never stop
+Dialogue: 0,0:02:23.14,0:02:23.46,V6Line,,0,0,0,,More and {\1c&H0000FFFF&}more{\1c&H00FFFFFF&} never stop
+Dialogue: 0,0:02:23.46,0:02:23.94,V6Line,,0,0,0,,More and more {\1c&H0000FFFF&}never{\1c&H00FFFFFF&} stop
+Dialogue: 0,0:02:23.94,0:02:24.75,V6Line,,0,0,0,,More and more never {\1c&H0000FFFF&}stop{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:24.58,0:02:25.76,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu hear it loud
+Dialogue: 0,0:02:25.76,0:02:25.94,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} hear it loud
+Dialogue: 0,0:02:25.94,0:02:26.22,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}hear{\1c&H00FFFFFF&} it loud
+Dialogue: 0,0:02:26.22,0:02:26.52,V6Line,,0,0,0,,WuBu WuBu hear {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} loud
+Dialogue: 0,0:02:26.52,0:02:27.09,V6Line,,0,0,0,,WuBu WuBu hear it {\1c&H0000FFFF&}loud{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:26.63,0:02:27.55,V6Line,,0,0,0,,{\1c&H0000FFFF&}WaefreBeorn{\1c&H00FFFFFF&} say it proud
+Dialogue: 0,0:02:27.55,0:02:27.85,V6Line,,0,0,0,,WaefreBeorn {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} it proud
+Dialogue: 0,0:02:27.85,0:02:28.16,V6Line,,0,0,0,,WaefreBeorn say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} proud
+Dialogue: 0,0:02:28.16,0:02:28.72,V6Line,,0,0,0,,WaefreBeorn say it {\1c&H0000FFFF&}proud{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:28.46,0:02:29.07,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu keep it going
+Dialogue: 0,0:02:29.07,0:02:29.68,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} keep it going
+Dialogue: 0,0:02:29.68,0:02:29.99,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it going
+Dialogue: 0,0:02:29.99,0:02:30.29,V6Line,,0,0,0,,WuBu WuBu keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} going
+Dialogue: 0,0:02:30.29,0:02:30.85,V6Line,,0,0,0,,WuBu WuBu keep it {\1c&H0000FFFF&}going{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:30.60,0:02:31.21,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu keep it growing
+Dialogue: 0,0:02:31.21,0:02:31.82,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} keep it growing
+Dialogue: 0,0:02:31.82,0:02:32.12,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it growing
+Dialogue: 0,0:02:32.12,0:02:32.43,V6Line,,0,0,0,,WuBu WuBu keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} growing
+Dialogue: 0,0:02:32.43,0:02:34.24,V6Line,,0,0,0,,WuBu WuBu keep it {\1c&H0000FFFF&}growing{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:50.04,0:02:50.68,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu
+Dialogue: 0,0:02:50.68,0:02:51.17,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:50.75,0:02:50.93,V6Line,,0,0,0,,{\1c&H0000FFFF&}Say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:02:50.93,0:02:51.11,V6Line,,0,0,0,,Say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:02:51.11,0:02:53.90,V6Line,,0,0,0,,Say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:53.90,0:02:54.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} it going
+Dialogue: 0,0:02:54.54,0:02:54.86,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} going
+Dialogue: 0,0:02:54.86,0:02:57.72,V6Line,,0,0,0,,Keep it {\1c&H0000FFFF&}going{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:57.72,0:02:57.94,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} it growing
+Dialogue: 0,0:02:57.94,0:02:58.17,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} growing
+Dialogue: 0,0:02:58.17,0:02:59.82,V6Line,,0,0,0,,Keep it {\1c&H0000FFFF&}growing{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:07.86,0:03:08.50,V6Line,,0,0,0,,{\1c&H0000FFFF&}Say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:03:08.50,0:03:09.14,V6Line,,0,0,0,,Say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:03:09.14,0:03:10.84,V6Line,,0,0,0,,Say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:19.20,0:03:19.85,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} it going
+Dialogue: 0,0:03:19.85,0:03:20.49,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} going
+Dialogue: 0,0:03:20.49,0:03:21.39,V6Line,,0,0,0,,Keep it {\1c&H0000FFFF&}going{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:21.14,0:03:21.49,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} it growing
+Dialogue: 0,0:03:21.49,0:03:21.84,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} growing
+Dialogue: 0,0:03:21.84,0:03:22.79,V6Line,,0,0,0,,Keep it {\1c&H0000FFFF&}growing{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:22.54,0:03:22.69,V6Line,,0,0,0,,{\1c&H0000FFFF&}Say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:03:22.69,0:03:22.84,V6Line,,0,0,0,,Say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:03:22.84,0:03:23.38,V6Line,,0,0,0,,Say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:23.13,0:03:23.28,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} it going
+Dialogue: 0,0:03:23.28,0:03:23.43,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} going
+Dialogue: 0,0:03:23.43,0:03:23.83,V6Line,,0,0,0,,Keep it {\1c&H0000FFFF&}going{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:23.58,0:03:23.72,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} it growing
+Dialogue: 0,0:03:23.72,0:03:23.87,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} growing
+Dialogue: 0,0:03:23.87,0:03:24.42,V6Line,,0,0,0,,Keep it {\1c&H0000FFFF&}growing{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:24.17,0:03:24.71,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:24.46,0:03:25.01,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:24.76,0:03:25.68,V6Line,,0,0,0,,{\1c&H0000FFFF&}One{\1c&H00FFFFFF&} more time
+Dialogue: 0,0:03:25.68,0:03:26.60,V6Line,,0,0,0,,One {\1c&H0000FFFF&}more{\1c&H00FFFFFF&} time
+Dialogue: 0,0:03:26.60,0:03:27.29,V6Line,,0,0,0,,One more {\1c&H0000FFFF&}time{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:27.04,0:03:27.83,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu
+Dialogue: 0,0:03:27.83,0:03:28.87,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:28.62,0:03:30.04,V6Line,,0,0,0,,{\1c&H0000FFFF&}Stay{\1c&H00FFFFFF&} with me
+Dialogue: 0,0:03:30.04,0:03:30.34,V6Line,,0,0,0,,Stay {\1c&H0000FFFF&}with{\1c&H00FFFFFF&} me
+Dialogue: 0,0:03:30.34,0:03:31.11,V6Line,,0,0,0,,Stay with {\1c&H0000FFFF&}me{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:30.86,0:03:32.22,V6Line,,0,0,0,,{\1c&H0000FFFF&}New{\1c&H00FFFFFF&} things coming wait and see
+Dialogue: 0,0:03:32.22,0:03:32.56,V6Line,,0,0,0,,New {\1c&H0000FFFF&}things{\1c&H00FFFFFF&} coming wait and see
+Dialogue: 0,0:03:32.56,0:03:33.00,V6Line,,0,0,0,,New things {\1c&H0000FFFF&}coming{\1c&H00FFFFFF&} wait and see
+Dialogue: 0,0:03:33.00,0:03:33.82,V6Line,,0,0,0,,New things coming {\1c&H0000FFFF&}wait{\1c&H00FFFFFF&} and see
+Dialogue: 0,0:03:33.82,0:03:34.14,V6Line,,0,0,0,,New things coming wait {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} see
+Dialogue: 0,0:03:34.14,0:03:35.02,V6Line,,0,0,0,,New things coming wait and {\1c&H0000FFFF&}see{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:35.02,0:03:36.02,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu say the name
+Dialogue: 0,0:03:36.02,0:03:37.02,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} say the name
+Dialogue: 0,0:03:37.02,0:03:37.52,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} the name
+Dialogue: 0,0:03:37.52,0:03:38.02,V6Line,,0,0,0,,WuBu WuBu say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} name
+Dialogue: 0,0:03:38.02,0:03:39.26,V6Line,,0,0,0,,WuBu WuBu say the {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:39.01,0:03:40.01,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu in the game
+Dialogue: 0,0:03:40.01,0:03:41.01,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} in the game
+Dialogue: 0,0:03:41.01,0:03:41.51,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} the game
+Dialogue: 0,0:03:41.51,0:03:42.01,V6Line,,0,0,0,,WuBu WuBu in {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} game
+Dialogue: 0,0:03:42.01,0:03:43.26,V6Line,,0,0,0,,WuBu WuBu in the {\1c&H0000FFFF&}game{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:43.01,0:03:43.51,V6Line,,0,0,0,,{\1c&H0000FFFF&}Clip{\1c&H00FFFFFF&} it up clip it up
+Dialogue: 0,0:03:43.51,0:03:44.01,V6Line,,0,0,0,,Clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up clip it up
+Dialogue: 0,0:03:44.01,0:03:44.51,V6Line,,0,0,0,,Clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&} clip it up
+Dialogue: 0,0:03:44.51,0:03:45.01,V6Line,,0,0,0,,Clip it up {\1c&H0000FFFF&}clip{\1c&H00FFFFFF&} it up
+Dialogue: 0,0:03:45.01,0:03:45.51,V6Line,,0,0,0,,Clip it up clip {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} up
+Dialogue: 0,0:03:45.51,0:03:46.26,V6Line,,0,0,0,,Clip it up clip it {\1c&H0000FFFF&}up{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:46.01,0:03:47.00,V6Line,,0,0,0,,{\1c&H0000FFFF&}More{\1c&H00FFFFFF&} and more never stop
+Dialogue: 0,0:03:47.00,0:03:47.50,V6Line,,0,0,0,,More {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} more never stop
+Dialogue: 0,0:03:47.50,0:03:48.50,V6Line,,0,0,0,,More and {\1c&H0000FFFF&}more{\1c&H00FFFFFF&} never stop
+Dialogue: 0,0:03:48.50,0:03:49.50,V6Line,,0,0,0,,More and more {\1c&H0000FFFF&}never{\1c&H00FFFFFF&} stop
+Dialogue: 0,0:03:49.50,0:03:50.25,V6Line,,0,0,0,,More and more never {\1c&H0000FFFF&}stop{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:50.00,0:03:51.01,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu hear it loud
+Dialogue: 0,0:03:51.01,0:03:52.02,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} hear it loud
+Dialogue: 0,0:03:52.02,0:03:52.52,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}hear{\1c&H00FFFFFF&} it loud
+Dialogue: 0,0:03:52.52,0:03:53.03,V6Line,,0,0,0,,WuBu WuBu hear {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} loud
+Dialogue: 0,0:03:53.03,0:03:53.78,V6Line,,0,0,0,,WuBu WuBu hear it {\1c&H0000FFFF&}loud{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:53.53,0:03:55.05,V6Line,,0,0,0,,{\1c&H0000FFFF&}WaefreBeorn{\1c&H00FFFFFF&} say it proud
+Dialogue: 0,0:03:55.05,0:03:55.56,V6Line,,0,0,0,,WaefreBeorn {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} it proud
+Dialogue: 0,0:03:55.56,0:03:56.06,V6Line,,0,0,0,,WaefreBeorn say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} proud
+Dialogue: 0,0:03:56.06,0:03:56.81,V6Line,,0,0,0,,WaefreBeorn say it {\1c&H0000FFFF&}proud{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:56.56,0:03:57.57,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu keep it going
+Dialogue: 0,0:03:57.57,0:03:58.58,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} keep it going
+Dialogue: 0,0:03:58.58,0:03:59.09,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it going
+Dialogue: 0,0:03:59.09,0:03:59.59,V6Line,,0,0,0,,WuBu WuBu keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} going
+Dialogue: 0,0:03:59.59,0:04:00.35,V6Line,,0,0,0,,WuBu WuBu keep it {\1c&H0000FFFF&}going{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:00.10,0:04:01.11,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu keep it growing
+Dialogue: 0,0:04:01.11,0:04:02.12,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} keep it growing
+Dialogue: 0,0:04:02.12,0:04:02.62,V6Line,,0,0,0,,WuBu WuBu {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} it growing
+Dialogue: 0,0:04:02.62,0:04:03.13,V6Line,,0,0,0,,WuBu WuBu keep {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} growing
+Dialogue: 0,0:04:03.13,0:04:04.39,V6Line,,0,0,0,,WuBu WuBu keep it {\1c&H0000FFFF&}growing{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:04.14,0:04:05.15,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu
+Dialogue: 0,0:04:05.15,0:04:06.41,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:06.16,0:04:07.26,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu
+Dialogue: 0,0:04:07.26,0:04:08.61,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:08.36,0:04:09.48,V6Line,,0,0,0,,{\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&} WuBu
+Dialogue: 0,0:04:09.48,0:04:11.60,V6Line,,0,0,0,,WuBu {\1c&H0000FFFF&}WuBu{\1c&H00FFFFFF&}
