@@ -1,0 +1,55 @@
+{
+ "take": "takes/mv18_s21_t1.mp4",
+ "words": [
+  {
+   "w": "And",
+   "start": 0.0,
+   "end": 0.72,
+   "p": 0.696
+  },
+  {
+   "w": "the",
+   "start": 0.72,
+   "end": 0.86,
+   "p": 0.998
+  },
+  {
+   "w": "screenshots",
+   "start": 0.86,
+   "end": 1.5,
+   "p": 0.98
+  },
+  {
+   "w": "are",
+   "start": 1.5,
+   "end": 2.02,
+   "p": 0.991
+  },
+  {
+   "w": "doing",
+   "start": 2.02,
+   "end": 2.4,
+   "p": 0.999
+  },
+  {
+   "w": "numbers",
+   "start": 2.4,
+   "end": 3.02,
+   "p": 0.999
+  },
+  {
+   "w": "now.",
+   "start": 3.02,
+   "end": 3.5,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "And the screenshots are doing numbers now.",
+   "avg_logprob": -0.241
+  }
+ ]
+}

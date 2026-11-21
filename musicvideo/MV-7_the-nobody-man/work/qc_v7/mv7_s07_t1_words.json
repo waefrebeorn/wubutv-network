@@ -1,0 +1,134 @@
+{
+ "track": "work/qc_v7/mv7_s07_t1_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 19,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 0.84,
+   "prob": 0.877
+  },
+  {
+   "word": "the",
+   "start": 0.84,
+   "end": 0.96,
+   "prob": 0.982
+  },
+  {
+   "word": "nobody",
+   "start": 0.96,
+   "end": 1.48,
+   "prob": 0.876
+  },
+  {
+   "word": "man",
+   "start": 1.48,
+   "end": 2.0,
+   "prob": 0.861
+  },
+  {
+   "word": "Still",
+   "start": 2.88,
+   "end": 3.34,
+   "prob": 0.458
+  },
+  {
+   "word": "here",
+   "start": 3.34,
+   "end": 3.84,
+   "prob": 0.917
+  },
+  {
+   "word": "still",
+   "start": 3.84,
+   "end": 4.2,
+   "prob": 0.168
+  },
+  {
+   "word": "stand",
+   "start": 4.2,
+   "end": 5.02,
+   "prob": 0.982
+  },
+  {
+   "word": "I",
+   "start": 5.02,
+   "end": 5.52,
+   "prob": 0.942
+  },
+  {
+   "word": "post",
+   "start": 5.52,
+   "end": 5.92,
+   "prob": 0.954
+  },
+  {
+   "word": "I",
+   "start": 5.92,
+   "end": 6.2,
+   "prob": 0.85
+  },
+  {
+   "word": "fade",
+   "start": 6.2,
+   "end": 6.6,
+   "prob": 0.983
+  },
+  {
+   "word": "I",
+   "start": 6.6,
+   "end": 6.86,
+   "prob": 0.921
+  },
+  {
+   "word": "post",
+   "start": 6.86,
+   "end": 7.2,
+   "prob": 0.991
+  },
+  {
+   "word": "again.",
+   "start": 7.2,
+   "end": 7.68,
+   "prob": 0.996
+  },
+  {
+   "word": "I'm",
+   "start": 8.06,
+   "end": 8.56,
+   "prob": 0.999
+  },
+  {
+   "word": "the",
+   "start": 8.56,
+   "end": 8.66,
+   "prob": 0.998
+  },
+  {
+   "word": "nobody",
+   "start": 8.66,
+   "end": 9.1,
+   "prob": 0.989
+  },
+  {
+   "word": "man",
+   "start": 9.1,
+   "end": 9.7,
+   "prob": 0.988
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "I'm the nobody man"
+  },
+  {
+   "start": 2.88,
+   "end": 9.7,
+   "text": "Still here still stand I post I fade I post again. I'm the nobody man"
+  }
+ ]
+}

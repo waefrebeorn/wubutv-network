@@ -1,0 +1,50 @@
+{
+ "md5": "395c314080d7bfc33ff6f0808b7463cd",
+ "size": 115936038,
+ "video codec h264": {
+  "pass": true,
+  "detail": "h264"
+ },
+ "resolution 1280x720": {
+  "pass": true,
+  "detail": "1280x720"
+ },
+ "fps 24": {
+  "pass": true,
+  "detail": "24/1"
+ },
+ "frames exactly 4954": {
+  "pass": true,
+  "detail": "4954"
+ },
+ "duration 206.417s": {
+  "pass": true,
+  "detail": "206.416667"
+ },
+ "audio AAC": {
+  "pass": true,
+  "detail": "aac"
+ },
+ "audio 48k stereo": {
+  "pass": true,
+  "detail": "48000 2ch"
+ },
+ "x264 SEI crf=18.0": {
+  "pass": true,
+  "detail": "x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option"
+ },
+ "faststart moov before mdat": {
+  "pass": true,
+  "detail": "moov@36 mdat@144036"
+ },
+ "audio agreement corr > 0.99 all windows": {
+  "pass": true,
+  "detail": "min=0.9982"
+ },
+ "motion: no frozen run >=24f in any sung piece": {
+  "pass": true,
+  "detail": "0 failing pieces"
+ },
+ "motion_failing_pieces": [],
+ "motion_320x180_longest_run": 18
+}

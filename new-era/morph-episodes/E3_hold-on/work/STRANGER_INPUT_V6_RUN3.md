@@ -1,0 +1,14 @@
+LAURA: Nine went in, Ansel. Count what's left.
+LAURA: Empty. I'm not chalking 'thief' off that.
+LAURA: Hands up, Courier.
+THE PEACH: Us next, Watcher.
+THE PEACH: Us two have held this bouquet since dawn.
+THE PEACH: Both hands on it. All morning.
+LAURA: Go on, point, Peach — pointing's not holding.
+LAURA: Keep 'em up.
+LAURA: That tin's come home safe every bell till today, Peach — so what's in yours, besides flowers?
+LAURA: There's your nine.
+LAURA: Bell rang, Peach. Yours pointed.
+LAURA: Three of them in the drain. Gone.
+LAURA: Your name on the board? Not yet, Peach.
+LAURA: Tomorrow's docket decides — the street's call.

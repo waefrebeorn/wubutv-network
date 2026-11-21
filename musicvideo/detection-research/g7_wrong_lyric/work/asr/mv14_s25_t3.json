@@ -1,0 +1,50 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s25-t3-0-43219b1f-a647-4296-bfec-bd64c8bd94ec.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.54,
+   "text": "There's a whole hard drive full.",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " There's",
+     "start": 0.0,
+     "end": 0.78,
+     "probability": 0.894
+    },
+    {
+     "word": " a",
+     "start": 0.78,
+     "end": 0.86,
+     "probability": 0.998
+    },
+    {
+     "word": " whole",
+     "start": 0.86,
+     "end": 1.24,
+     "probability": 0.99
+    },
+    {
+     "word": " hard",
+     "start": 1.24,
+     "end": 1.72,
+     "probability": 0.973
+    },
+    {
+     "word": " drive",
+     "start": 1.72,
+     "end": 2.08,
+     "probability": 0.992
+    },
+    {
+     "word": " full.",
+     "start": 2.08,
+     "end": 2.54,
+     "probability": 0.992
+    }
+   ]
+  }
+ ]
+}

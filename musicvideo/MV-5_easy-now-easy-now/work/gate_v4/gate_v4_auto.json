@@ -1,0 +1,1986 @@
+{
+ "results": {
+  "audio": {
+   "best_lag_samples_16k": 0,
+   "best_lag_ms": 0.0,
+   "corr_at_best_lag": 0.9985146775911614,
+   "corr_at_lag0": 0.9985146775911614,
+   "pass": true
+  },
+  "gated_line_count": 98,
+  "judder": {
+   "boundaries": 79,
+   "steps_over_1.35x": 9,
+   "worst": [
+    {
+     "at": 52.8017,
+     "from": "S07/phrase-L15/mv5_s07_t2",
+     "to": "S07/phrase-L16/mv5_s07_t1",
+     "playback_from": 1.911,
+     "playback_to": 0.796,
+     "ratio": 2.399
+    },
+    {
+     "at": 190.405,
+     "from": "S25/phrase-L106/mv5_s28_t3",
+     "to": "S26/cover-L108-zone/mv5_s26_t1",
+     "playback_from": 0.569,
+     "playback_to": 1.0,
+     "ratio": 1.759
+    },
+    {
+     "at": 47.7317,
+     "from": "S06/phrase-L12/mv5_s06_t2",
+     "to": "S07/phrase-L13-L14/mv5_s07_t1",
+     "playback_from": 0.813,
+     "playback_to": 1.355,
+     "ratio": 1.667
+    },
+    {
+     "at": 175.1183,
+     "from": "S23/phrase-L91-L95/mv5_s23_t1",
+     "to": "S23/phrase-L96/mv5_s23_t1",
+     "playback_from": 0.688,
+     "playback_to": 1.091,
+     "ratio": 1.587
+    },
+    {
+     "at": 158.0533,
+     "from": "S20/phrase-L80-L81/mv5_s20_t1",
+     "to": "S21/montage-L82-GIRL/mv5_s21_t12",
+     "playback_from": 1.579,
+     "playback_to": 1.0,
+     "ratio": 1.579
+    },
+    {
+     "at": 186.4467,
+     "from": "S25/phrase-L103-L105/mv5_s25_t1",
+     "to": "S25/phrase-L106/mv5_s28_t3",
+     "playback_from": 0.893,
+     "playback_to": 0.569,
+     "ratio": 1.571
+    },
+    {
+     "at": 169.1667,
+     "from": "S22/phrase-L90/mv5_s21_t3",
+     "to": "S23/phrase-L91-L95/mv5_s23_t1",
+     "playback_from": 1.0,
+     "playback_to": 0.688,
+     "ratio": 1.454
+    },
+    {
+     "at": 76.81,
+     "from": "S09/phrase-chorus1b/mv5_s09_t1",
+     "to": "S10/cutaway/mv5_s10_t1",
+     "playback_from": 0.691,
+     "playback_to": 1.0,
+     "ratio": 1.447
+    },
+    {
+     "at": 51.4683,
+     "from": "S07/phrase-L13-L14/mv5_s07_t1",
+     "to": "S07/phrase-L15/mv5_s07_t2",
+     "playback_from": 1.355,
+     "playback_to": 1.911,
+     "ratio": 1.41
+    }
+   ]
+  }
+ },
+ "gated_lines": [
+  {
+   "line": "I01",
+   "onset": 1.66,
+   "owner": "CAT",
+   "scene": "S01",
+   "kind": "leader-freeze",
+   "take": "mv5_s01_t1",
+   "gated": false
+  },
+  {
+   "line": "I02",
+   "onset": 3.58,
+   "owner": "CAT",
+   "scene": "S01",
+   "kind": "phrase-I01-I04",
+   "take": "mv5_s01_t1",
+   "gated": true
+  },
+  {
+   "line": "I03",
+   "onset": 5.98,
+   "owner": "CAT",
+   "scene": "S01",
+   "kind": "phrase-I01-I04",
+   "take": "mv5_s01_t1",
+   "gated": true
+  },
+  {
+   "line": "I04",
+   "onset": 8.3,
+   "owner": "CAT",
+   "scene": "S01",
+   "kind": "phrase-I01-I04",
+   "take": "mv5_s01_t1",
+   "gated": true
+  },
+  {
+   "line": "I05",
+   "onset": 10.04,
+   "owner": "CAT",
+   "scene": "S01",
+   "kind": "phrase-I01-I04",
+   "take": "mv5_s01_t1",
+   "gated": true
+  },
+  {
+   "line": "I06",
+   "onset": 13.34,
+   "owner": "CAT",
+   "scene": "S02",
+   "kind": "cutaway-I06",
+   "take": "mv5_s02_t1",
+   "gated": false
+  },
+  {
+   "line": "I07",
+   "onset": 15.4,
+   "owner": "CAT",
+   "scene": "S02",
+   "kind": "insert-I07",
+   "take": "mv5_s06_t1",
+   "gated": true
+  },
+  {
+   "line": "I08",
+   "onset": 15.4,
+   "owner": "CAT",
+   "scene": "S02",
+   "kind": "insert-I07",
+   "take": "mv5_s06_t1",
+   "gated": true
+  },
+  {
+   "line": "I09",
+   "onset": 18.4,
+   "owner": "GIRL",
+   "scene": "S02",
+   "kind": "cutaway-I08",
+   "take": "mv5_s02_t1",
+   "gated": false
+  },
+  {
+   "line": "L01",
+   "onset": 22.0,
+   "owner": "CAT",
+   "scene": "S03",
+   "kind": "span",
+   "take": "mv5_s03_t1",
+   "gated": true
+  },
+  {
+   "line": "L02",
+   "onset": 24,
+   "owner": "CAT",
+   "scene": "S04",
+   "kind": "phrase-L01",
+   "take": "mv5_s04_t1",
+   "gated": true
+  },
+  {
+   "line": "L03",
+   "onset": 25.4,
+   "owner": "CAT",
+   "scene": "S04",
+   "kind": "phrase-L02-L05",
+   "take": "mv5_s04_t1",
+   "gated": true
+  },
+  {
+   "line": "L04",
+   "onset": 27.8,
+   "owner": "CAT",
+   "scene": "S04",
+   "kind": "phrase-L02-L05",
+   "take": "mv5_s04_t1",
+   "gated": true
+  },
+  {
+   "line": "L05",
+   "onset": 30.1,
+   "owner": "CAT",
+   "scene": "S04",
+   "kind": "phrase-L02-L05",
+   "take": "mv5_s04_t1",
+   "gated": true
+  },
+  {
+   "line": "L06",
+   "onset": 32,
+   "owner": "CAT",
+   "scene": "S05",
+   "kind": "phrase-L06-L09",
+   "take": "mv5_s05_t1",
+   "gated": true
+  },
+  {
+   "line": "L07",
+   "onset": 34.1,
+   "owner": "CAT",
+   "scene": "S05",
+   "kind": "phrase-L06-L09",
+   "take": "mv5_s05_t1",
+   "gated": true
+  },
+  {
+   "line": "L08",
+   "onset": 36.6,
+   "owner": "CAT",
+   "scene": "S05",
+   "kind": "phrase-L06-L09",
+   "take": "mv5_s05_t1",
+   "gated": true
+  },
+  {
+   "line": "L09",
+   "onset": 38.62,
+   "owner": "CAT",
+   "scene": "S05",
+   "kind": "phrase-L06-L09",
+   "take": "mv5_s05_t1",
+   "gated": true
+  },
+  {
+   "line": "L10",
+   "onset": 41.1,
+   "owner": "CAT",
+   "scene": "S06",
+   "kind": "phrase-L10-L11",
+   "take": "mv5_s06_t1",
+   "gated": true
+  },
+  {
+   "line": "L11",
+   "onset": 43.2,
+   "owner": "CAT",
+   "scene": "S06",
+   "kind": "phrase-L10-L11",
+   "take": "mv5_s06_t1",
+   "gated": true
+  },
+  {
+   "line": "L12",
+   "onset": 44.8,
+   "owner": "CAT",
+   "scene": "S06",
+   "kind": "phrase-L10-L11",
+   "take": "mv5_s06_t1",
+   "gated": true
+  },
+  {
+   "line": "L13",
+   "onset": 47.8,
+   "owner": "CAT",
+   "scene": "S07",
+   "kind": "phrase-L13-L14",
+   "take": "mv5_s07_t1",
+   "gated": true
+  },
+  {
+   "line": "L14",
+   "onset": 49.8,
+   "owner": "CAT",
+   "scene": "S07",
+   "kind": "phrase-L13-L14",
+   "take": "mv5_s07_t1",
+   "gated": true
+  },
+  {
+   "line": "L15",
+   "onset": 51.6,
+   "owner": "CAT",
+   "scene": "S07",
+   "kind": "phrase-L15",
+   "take": "mv5_s07_t2",
+   "gated": true
+  },
+  {
+   "line": "L16",
+   "onset": 53.1,
+   "owner": "CAT",
+   "scene": "S07",
+   "kind": "phrase-L16",
+   "take": "mv5_s07_t1",
+   "gated": true
+  },
+  {
+   "line": "L17",
+   "onset": 57.9,
+   "owner": "GIRL",
+   "scene": "S08",
+   "kind": "phrase-L17-L20",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L18",
+   "onset": 59.4,
+   "owner": "CAT",
+   "scene": "S08",
+   "kind": "phrase-L17-L20",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L19",
+   "onset": 60.4,
+   "owner": "GIRL",
+   "scene": "S08",
+   "kind": "phrase-L17-L20",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L20",
+   "onset": 61.4,
+   "owner": "CAT",
+   "scene": "S08",
+   "kind": "phrase-L17-L20",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L21",
+   "onset": 62.9,
+   "owner": "GIRL",
+   "scene": "S08",
+   "kind": "phrase-L21-L23",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L22",
+   "onset": 63.9,
+   "owner": "CAT",
+   "scene": "S08",
+   "kind": "phrase-L21-L23",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L23",
+   "onset": 65.1,
+   "owner": "GIRL",
+   "scene": "S08",
+   "kind": "phrase-L21-L23",
+   "take": "mv5_s08_t2",
+   "gated": true
+  },
+  {
+   "line": "L24",
+   "onset": 66.2,
+   "owner": "CAT",
+   "scene": "S08",
+   "kind": "insert-L24",
+   "take": "mv5_s06_t1",
+   "gated": true
+  },
+  {
+   "line": "L25",
+   "onset": 67.4,
+   "owner": "GIRL",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L26",
+   "onset": 68.4,
+   "owner": "CAT",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L27",
+   "onset": 69.7,
+   "owner": "GIRL",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L28",
+   "onset": 70.7,
+   "owner": "CAT",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L29",
+   "onset": 72,
+   "owner": "GIRL",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L30",
+   "onset": 72.9,
+   "owner": "CAT",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L31",
+   "onset": 74.2,
+   "owner": "GIRL",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L32",
+   "onset": 75.2,
+   "owner": "CAT",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L33",
+   "onset": 76.8,
+   "owner": "CAT",
+   "scene": "S09",
+   "kind": "phrase-chorus1b",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L34",
+   "onset": 78.76,
+   "owner": "CAT",
+   "scene": "S10",
+   "kind": "cutaway",
+   "take": "mv5_s10_t1",
+   "gated": false
+  },
+  {
+   "line": "L35",
+   "onset": 81.76,
+   "owner": "CAT",
+   "scene": "S10",
+   "kind": "cutaway",
+   "take": "mv5_s10_t1",
+   "gated": false
+  },
+  {
+   "line": "L36",
+   "onset": 83.1,
+   "owner": "CAT",
+   "scene": "S10",
+   "kind": "cutaway",
+   "take": "mv5_s10_t1",
+   "gated": false
+  },
+  {
+   "line": "L37",
+   "onset": 85.7,
+   "owner": "CAT",
+   "scene": "S11",
+   "kind": "phrase-L37-L40",
+   "take": "mv5_s11_t4",
+   "gated": true
+  },
+  {
+   "line": "L38",
+   "onset": 86.6,
+   "owner": "GIRL",
+   "scene": "S11",
+   "kind": "phrase-L37-L40",
+   "take": "mv5_s11_t4",
+   "gated": true
+  },
+  {
+   "line": "L39",
+   "onset": 88,
+   "owner": "GIRL",
+   "scene": "S11",
+   "kind": "phrase-L37-L40",
+   "take": "mv5_s11_t4",
+   "gated": true
+  },
+  {
+   "line": "L40",
+   "onset": 89.4,
+   "owner": "SPLIT",
+   "scene": "S11",
+   "kind": "phrase-L37-L40",
+   "take": "mv5_s11_t4",
+   "gated": true
+  },
+  {
+   "line": "L41",
+   "onset": 93.9,
+   "owner": "GIRL",
+   "scene": "S12",
+   "kind": "phrase-L41-L44",
+   "take": "mv5_s12_t1",
+   "gated": true
+  },
+  {
+   "line": "L42",
+   "onset": 95.6,
+   "owner": "CAT",
+   "scene": "S12",
+   "kind": "phrase-L41-L44",
+   "take": "mv5_s12_t1",
+   "gated": true
+  },
+  {
+   "line": "L43",
+   "onset": 97.2,
+   "owner": "GIRL",
+   "scene": "S12",
+   "kind": "phrase-L41-L44",
+   "take": "mv5_s12_t1",
+   "gated": true
+  },
+  {
+   "line": "L44",
+   "onset": 98.6,
+   "owner": "CAT",
+   "scene": "S12",
+   "kind": "phrase-L41-L44",
+   "take": "mv5_s12_t1",
+   "gated": true
+  },
+  {
+   "line": "L45",
+   "onset": 103,
+   "owner": "GIRL",
+   "scene": "S13",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s13_t3",
+   "gated": false
+  },
+  {
+   "line": "L46",
+   "onset": 104.2,
+   "owner": "GIRL",
+   "scene": "S13",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s13_t4",
+   "gated": false
+  },
+  {
+   "line": "L47",
+   "onset": 105.3,
+   "owner": "CAT",
+   "scene": "S13",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s13_t2",
+   "gated": false
+  },
+  {
+   "line": "L48",
+   "onset": 106.6,
+   "owner": "SPLIT",
+   "scene": "S13",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s13_t7",
+   "gated": false
+  },
+  {
+   "line": "L49",
+   "onset": 107.2,
+   "owner": "GIRL",
+   "scene": "S13",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s13_t6",
+   "gated": false
+  },
+  {
+   "line": "L50",
+   "onset": 109.1,
+   "owner": "GIRL",
+   "scene": "S13",
+   "kind": "cover-tail",
+   "take": "mv5_s13_t6",
+   "gated": false
+  },
+  {
+   "line": "L51",
+   "onset": 109.88,
+   "owner": "GIRL",
+   "scene": "S13",
+   "kind": "cover-tail",
+   "take": "mv5_s13_t6",
+   "gated": false
+  },
+  {
+   "line": "L52",
+   "onset": 110.9,
+   "owner": "GIRL",
+   "scene": "S13",
+   "kind": "cover-tail",
+   "take": "mv5_s13_t6",
+   "gated": false
+  },
+  {
+   "line": "L53",
+   "onset": 112.3,
+   "owner": "CAT",
+   "scene": "S14",
+   "kind": "cover-tail",
+   "take": "mv5_s19b_t1",
+   "gated": false
+  },
+  {
+   "line": "L54",
+   "onset": 113.58,
+   "owner": "CAT",
+   "scene": "S14",
+   "kind": "cover-tail",
+   "take": "mv5_s27_t1",
+   "gated": false
+  },
+  {
+   "line": "L55",
+   "onset": 115,
+   "owner": "CAT",
+   "scene": "S14",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s16_t5",
+   "gated": false
+  },
+  {
+   "line": "L56",
+   "onset": 116.2,
+   "owner": "GIRL",
+   "scene": "S15",
+   "kind": "phrase-L56",
+   "take": "mv5_s15_t1",
+   "gated": true
+  },
+  {
+   "line": "L56b",
+   "onset": 119.3,
+   "owner": "GIRL",
+   "scene": "S15",
+   "kind": "phrase-L56",
+   "take": "mv5_s15_t1",
+   "gated": true
+  },
+  {
+   "line": "L57",
+   "onset": 121.6,
+   "owner": "GIRL",
+   "scene": "S16",
+   "kind": "insert-L57",
+   "take": "mv5_s24_t2",
+   "gated": true
+  },
+  {
+   "line": "L58",
+   "onset": 123.2,
+   "owner": "CAT",
+   "scene": "S16",
+   "kind": "base-L58",
+   "take": "mv5_s16_t1",
+   "gated": true
+  },
+  {
+   "line": "L59",
+   "onset": 124.2,
+   "owner": "GIRL",
+   "scene": "S16",
+   "kind": "insert-L59",
+   "take": "mv5_s24_t2",
+   "gated": true
+  },
+  {
+   "line": "L60",
+   "onset": 125.1,
+   "owner": "CAT",
+   "scene": "S16",
+   "kind": "base-L60",
+   "take": "mv5_s16_t1",
+   "gated": true
+  },
+  {
+   "line": "L61",
+   "onset": 126.6,
+   "owner": "GIRL",
+   "scene": "S16",
+   "kind": "insert-L61",
+   "take": "mv5_s24_t2",
+   "gated": true
+  },
+  {
+   "line": "L62",
+   "onset": 127.5,
+   "owner": "CAT",
+   "scene": "S16",
+   "kind": "base-L62",
+   "take": "mv5_s16_t1",
+   "gated": true
+  },
+  {
+   "line": "L63",
+   "onset": 128.8,
+   "owner": "GIRL",
+   "scene": "S16",
+   "kind": "insert-L63",
+   "take": "mv5_s24_t3",
+   "gated": true
+  },
+  {
+   "line": "L64",
+   "onset": 129.9,
+   "owner": "CAT",
+   "scene": "S16",
+   "kind": "base-L64",
+   "take": "mv5_s16_t1",
+   "gated": true
+  },
+  {
+   "line": "L65",
+   "onset": 131,
+   "owner": "GIRL",
+   "scene": "S17",
+   "kind": "phrase-L65-L68",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L66",
+   "onset": 132.1,
+   "owner": "CAT",
+   "scene": "S17",
+   "kind": "phrase-L65-L68",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L67",
+   "onset": 133.6,
+   "owner": "GIRL",
+   "scene": "S17",
+   "kind": "phrase-L65-L68",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L68",
+   "onset": 134.4,
+   "owner": "CAT",
+   "scene": "S17",
+   "kind": "phrase-L65-L68",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L69",
+   "onset": 135.9,
+   "owner": "GIRL",
+   "scene": "S17",
+   "kind": "phrase-L65-L68",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L70",
+   "onset": 136.6,
+   "owner": "CAT",
+   "scene": "S17",
+   "kind": "insert-L69",
+   "take": "mv5_s09_t1",
+   "gated": true
+  },
+  {
+   "line": "L71",
+   "onset": 138.2,
+   "owner": "GIRL",
+   "scene": "S17",
+   "kind": "phrase-L71-L72",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L72",
+   "onset": 138.84,
+   "owner": "CAT",
+   "scene": "S17",
+   "kind": "phrase-L71-L72",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L73a",
+   "onset": 140.48,
+   "owner": "CAT",
+   "scene": "S17",
+   "kind": "phrase-L71-L72",
+   "take": "mv5_s17_t1",
+   "gated": true
+  },
+  {
+   "line": "L73b",
+   "onset": 143.5,
+   "owner": "CAT",
+   "scene": "S18",
+   "kind": "cutaway",
+   "take": "mv5_s18_t1",
+   "gated": false
+  },
+  {
+   "line": "L73c",
+   "onset": 146.16,
+   "owner": "CAT",
+   "scene": "S18",
+   "kind": "cutaway",
+   "take": "mv5_s18_t1",
+   "gated": false
+  },
+  {
+   "line": "L73d",
+   "onset": 146.7,
+   "owner": "CAT",
+   "scene": "S18",
+   "kind": "cutaway",
+   "take": "mv5_s18_t1",
+   "gated": false
+  },
+  {
+   "line": "L74",
+   "onset": 149.2,
+   "owner": "CAT",
+   "scene": "S19a",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s19a_t2",
+   "gated": false
+  },
+  {
+   "line": "L75",
+   "onset": 150.2,
+   "owner": "CAT",
+   "scene": "S19a",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s19a_t2",
+   "gated": false
+  },
+  {
+   "line": "L76",
+   "onset": 151.5,
+   "owner": "SPLIT",
+   "scene": "S19a",
+   "kind": "cover-rej-tail",
+   "take": "mv5_s19a_t1",
+   "gated": false
+  },
+  {
+   "line": "L77",
+   "onset": 152.5,
+   "owner": "CAT",
+   "scene": "S19b",
+   "kind": "phrase-L77-L79",
+   "take": "mv5_s19b_t1",
+   "gated": true
+  },
+  {
+   "line": "L78",
+   "onset": 153.8,
+   "owner": "CAT",
+   "scene": "S19b",
+   "kind": "phrase-L77-L79",
+   "take": "mv5_s19b_t1",
+   "gated": true
+  },
+  {
+   "line": "L79",
+   "onset": 154.8,
+   "owner": "CAT",
+   "scene": "S19b",
+   "kind": "phrase-L77-L79",
+   "take": "mv5_s19b_t1",
+   "gated": true
+  },
+  {
+   "line": "L80",
+   "onset": 155.42,
+   "owner": "GIRL",
+   "scene": "S19b",
+   "kind": "phrase-L77-L79",
+   "take": "mv5_s19b_t1",
+   "gated": true
+  },
+  {
+   "line": "L81",
+   "onset": 157.1,
+   "owner": "CAT",
+   "scene": "S20",
+   "kind": "phrase-L80-L81",
+   "take": "mv5_s20_t1",
+   "gated": true
+  },
+  {
+   "line": "L82",
+   "onset": 158.2,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L82-GIRL",
+   "take": "mv5_s21_t12",
+   "gated": true
+  },
+  {
+   "line": "L83",
+   "onset": 159.4,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L83-CAT",
+   "take": "mv5_s21_t13",
+   "gated": true
+  },
+  {
+   "line": "L84",
+   "onset": 160.5,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L84-GIRL",
+   "take": "mv5_s21_t16",
+   "gated": true
+  },
+  {
+   "line": "L85",
+   "onset": 161.6,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L85-CAT",
+   "take": "mv5_s21_t13",
+   "gated": true
+  },
+  {
+   "line": "L86",
+   "onset": 162.7,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L86-GIRL",
+   "take": "mv5_s21_t11",
+   "gated": true
+  },
+  {
+   "line": "L87",
+   "onset": 163.8,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L87-CAT",
+   "take": "mv5_s21_t13",
+   "gated": true
+  },
+  {
+   "line": "L88",
+   "onset": 165.2,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L88-GIRL",
+   "take": "mv5_s21_t15",
+   "gated": true
+  },
+  {
+   "line": "L89",
+   "onset": 166.3,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "montage-L89-CAT",
+   "take": "mv5_s21_t13",
+   "gated": true
+  },
+  {
+   "line": "L90",
+   "onset": 167.5,
+   "owner": "CAT",
+   "scene": "S21",
+   "kind": "tail",
+   "take": "mv5_s21_t14",
+   "gated": true
+  },
+  {
+   "line": "L91",
+   "onset": 169.2,
+   "owner": "GIRL",
+   "scene": "S23",
+   "kind": "phrase-L91-L95",
+   "take": "mv5_s23_t1",
+   "gated": true
+  },
+  {
+   "line": "L92",
+   "onset": 170.6,
+   "owner": "CAT",
+   "scene": "S23",
+   "kind": "phrase-L91-L95",
+   "take": "mv5_s23_t1",
+   "gated": true
+  },
+  {
+   "line": "L93",
+   "onset": 171.7,
+   "owner": "GIRL",
+   "scene": "S23",
+   "kind": "phrase-L91-L95",
+   "take": "mv5_s23_t1",
+   "gated": true
+  },
+  {
+   "line": "L94",
+   "onset": 172.7,
+   "owner": "CAT",
+   "scene": "S23",
+   "kind": "phrase-L91-L95",
+   "take": "mv5_s23_t1",
+   "gated": true
+  },
+  {
+   "line": "L95",
+   "onset": 174,
+   "owner": "GIRL",
+   "scene": "S23",
+   "kind": "phrase-L91-L95",
+   "take": "mv5_s23_t1",
+   "gated": true
+  },
+  {
+   "line": "L96",
+   "onset": 175,
+   "owner": "SPLIT",
+   "scene": "S23",
+   "kind": "phrase-L91-L95",
+   "take": "mv5_s23_t1",
+   "gated": true
+  },
+  {
+   "line": "L97",
+   "onset": 176.3,
+   "owner": "GIRL",
+   "scene": "S24",
+   "kind": "phrase-L97-L100",
+   "take": "mv5_s24_t1",
+   "gated": true
+  },
+  {
+   "line": "L98",
+   "onset": 177.3,
+   "owner": "CAT",
+   "scene": "S24",
+   "kind": "phrase-L97-L100",
+   "take": "mv5_s24_t1",
+   "gated": true
+  },
+  {
+   "line": "L99",
+   "onset": 178.5,
+   "owner": "GIRL",
+   "scene": "S24",
+   "kind": "phrase-L97-L100",
+   "take": "mv5_s24_t1",
+   "gated": true
+  },
+  {
+   "line": "L100",
+   "onset": 179.6,
+   "owner": "CAT",
+   "scene": "S24",
+   "kind": "phrase-L97-L100",
+   "take": "mv5_s24_t1",
+   "gated": true
+  },
+  {
+   "line": "L101",
+   "onset": 180.8,
+   "owner": "GIRL",
+   "scene": "S24",
+   "kind": "phrase-L101-L102",
+   "take": "mv5_s24_t3",
+   "gated": true
+  },
+  {
+   "line": "L102",
+   "onset": 181.8,
+   "owner": "CAT",
+   "scene": "S24",
+   "kind": "phrase-L101-L102",
+   "take": "mv5_s24_t3",
+   "gated": true
+  },
+  {
+   "line": "L103",
+   "onset": 183,
+   "owner": "GIRL",
+   "scene": "S25",
+   "kind": "phrase-L103-L105",
+   "take": "mv5_s25_t1",
+   "gated": true
+  },
+  {
+   "line": "L104",
+   "onset": 184,
+   "owner": "CAT",
+   "scene": "S25",
+   "kind": "phrase-L103-L105",
+   "take": "mv5_s25_t1",
+   "gated": true
+  },
+  {
+   "line": "L105",
+   "onset": 184.68,
+   "owner": "GIRL",
+   "scene": "S25",
+   "kind": "phrase-L103-L105",
+   "take": "mv5_s25_t1",
+   "gated": true
+  },
+  {
+   "line": "L106",
+   "onset": 186.6,
+   "owner": "CAT",
+   "scene": "S25",
+   "kind": "phrase-L106",
+   "take": "mv5_s28_t3",
+   "gated": true
+  },
+  {
+   "line": "L107",
+   "onset": 192.06,
+   "owner": "GIRL",
+   "scene": "S26",
+   "kind": "cover-L108-zone",
+   "take": "mv5_s26_t1",
+   "gated": false
+  },
+  {
+   "line": "L108",
+   "onset": 194.46,
+   "owner": "CAT",
+   "scene": "S27",
+   "kind": "phrase-L108-L109",
+   "take": "mv5_s27_t1",
+   "gated": true
+  },
+  {
+   "line": "L109",
+   "onset": 196.6,
+   "owner": "GIRL",
+   "scene": "S27",
+   "kind": "phrase-L108-L109",
+   "take": "mv5_s27_t1",
+   "gated": true
+  },
+  {
+   "line": "L110",
+   "onset": 204.2,
+   "owner": "CAT",
+   "scene": "S28",
+   "kind": "cover-L110b-a",
+   "take": "mv5_s28_t3",
+   "gated": false
+  }
+ ],
+ "hooks": [
+  {
+   "line": "I01",
+   "onset": 1.66,
+   "grid": "v1"
+  },
+  {
+   "line": "I03",
+   "onset": 5.98,
+   "grid": "v1"
+  },
+  {
+   "line": "I05",
+   "onset": 10.04,
+   "grid": "v1"
+  },
+  {
+   "line": "I07",
+   "onset": 15.4,
+   "grid": "v1"
+  },
+  {
+   "line": "L17",
+   "onset": 57.9,
+   "grid": "app"
+  },
+  {
+   "line": "L19",
+   "onset": 60.4,
+   "grid": "app"
+  },
+  {
+   "line": "L21",
+   "onset": 62.9,
+   "grid": "app"
+  },
+  {
+   "line": "L23",
+   "onset": 65.1,
+   "grid": "app"
+  },
+  {
+   "line": "L25",
+   "onset": 67.4,
+   "grid": "app"
+  },
+  {
+   "line": "L27",
+   "onset": 69.7,
+   "grid": "app"
+  },
+  {
+   "line": "L29",
+   "onset": 72,
+   "grid": "app"
+  },
+  {
+   "line": "L31",
+   "onset": 74.2,
+   "grid": "app"
+  },
+  {
+   "line": "L57",
+   "onset": 121.6,
+   "grid": "app"
+  },
+  {
+   "line": "L59",
+   "onset": 124.2,
+   "grid": "app"
+  },
+  {
+   "line": "L61",
+   "onset": 126.6,
+   "grid": "app"
+  },
+  {
+   "line": "L63",
+   "onset": 128.8,
+   "grid": "app"
+  },
+  {
+   "line": "L65",
+   "onset": 131,
+   "grid": "app"
+  },
+  {
+   "line": "L67",
+   "onset": 133.6,
+   "grid": "app"
+  },
+  {
+   "line": "L69",
+   "onset": 135.9,
+   "grid": "app"
+  },
+  {
+   "line": "L71",
+   "onset": 138.2,
+   "grid": "app"
+  },
+  {
+   "line": "L91",
+   "onset": 169.2,
+   "grid": "app"
+  },
+  {
+   "line": "L93",
+   "onset": 171.7,
+   "grid": "app"
+  },
+  {
+   "line": "L95",
+   "onset": 174,
+   "grid": "app"
+  },
+  {
+   "line": "L97",
+   "onset": 176.3,
+   "grid": "app"
+  },
+  {
+   "line": "L99",
+   "onset": 178.5,
+   "grid": "app"
+  },
+  {
+   "line": "L101",
+   "onset": 180.8,
+   "grid": "app"
+  },
+  {
+   "line": "L103",
+   "onset": 183,
+   "grid": "app"
+  },
+  {
+   "line": "L105",
+   "onset": 184.68,
+   "grid": "v1"
+  },
+  {
+   "line": "L107",
+   "onset": 192.06,
+   "grid": "v1",
+   "informational": true
+  },
+  {
+   "line": "L109",
+   "onset": 196.6,
+   "grid": "app"
+  }
+ ],
+ "steps": [
+  {
+   "at": 1.6667,
+   "from": "S01/leader-freeze/mv5_s01_t1",
+   "to": "S01/phrase-I01-I04/mv5_s01_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.074,
+   "ratio": 1.074
+  },
+  {
+   "at": 10.0417,
+   "from": "S01/phrase-I01-I04/mv5_s01_t1",
+   "to": "S02/insert-I05/mv5_s06_t1",
+   "playback_from": 1.074,
+   "playback_to": 1.0,
+   "ratio": 1.074
+  },
+  {
+   "at": 11.165,
+   "from": "S02/insert-I05/mv5_s06_t1",
+   "to": "S02/cutaway-I06/mv5_s02_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 15.3733,
+   "from": "S02/cutaway-I06/mv5_s02_t1",
+   "to": "S02/insert-I07/mv5_s06_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 16.4983,
+   "from": "S02/insert-I07/mv5_s06_t1",
+   "to": "S02/cutaway-I08/mv5_s02_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 18.6233,
+   "from": "S02/cutaway-I08/mv5_s02_t1",
+   "to": "S03/span/mv5_s03_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.125,
+   "ratio": 1.125
+  },
+  {
+   "at": 22.015,
+   "from": "S03/span/mv5_s03_t1",
+   "to": "S04/phrase-L01/mv5_s04_t1",
+   "playback_from": 1.125,
+   "playback_to": 1.037,
+   "ratio": 1.084
+  },
+  {
+   "at": 24.5,
+   "from": "S04/phrase-L01/mv5_s04_t1",
+   "to": "S04/phrase-L02-L05/mv5_s04_t1",
+   "playback_from": 1.037,
+   "playback_to": 1.054,
+   "ratio": 1.016
+  },
+  {
+   "at": 31.5,
+   "from": "S04/phrase-L02-L05/mv5_s04_t1",
+   "to": "S05/phrase-L06-L09/mv5_s05_t1",
+   "playback_from": 1.054,
+   "playback_to": 1.0,
+   "ratio": 1.054
+  },
+  {
+   "at": 40.4383,
+   "from": "S05/phrase-L06-L09/mv5_s05_t1",
+   "to": "S06/phrase-L10-L11/mv5_s06_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.072,
+   "ratio": 1.072
+  },
+  {
+   "at": 45.3567,
+   "from": "S06/phrase-L10-L11/mv5_s06_t1",
+   "to": "S06/phrase-L12/mv5_s06_t2",
+   "playback_from": 1.072,
+   "playback_to": 0.813,
+   "ratio": 1.318
+  },
+  {
+   "at": 47.7317,
+   "from": "S06/phrase-L12/mv5_s06_t2",
+   "to": "S07/phrase-L13-L14/mv5_s07_t1",
+   "playback_from": 0.813,
+   "playback_to": 1.355,
+   "ratio": 1.667
+  },
+  {
+   "at": 51.4683,
+   "from": "S07/phrase-L13-L14/mv5_s07_t1",
+   "to": "S07/phrase-L15/mv5_s07_t2",
+   "playback_from": 1.355,
+   "playback_to": 1.911,
+   "ratio": 1.41
+  },
+  {
+   "at": 52.8017,
+   "from": "S07/phrase-L15/mv5_s07_t2",
+   "to": "S07/phrase-L16/mv5_s07_t1",
+   "playback_from": 1.911,
+   "playback_to": 0.796,
+   "ratio": 2.399
+  },
+  {
+   "at": 57.51,
+   "from": "S07/phrase-L16/mv5_s07_t1",
+   "to": "S08/phrase-L17-L20/mv5_s08_t2",
+   "playback_from": 0.796,
+   "playback_to": 0.971,
+   "ratio": 1.219
+  },
+  {
+   "at": 62.895,
+   "from": "S08/phrase-L17-L20/mv5_s08_t2",
+   "to": "S08/phrase-L21-L23/mv5_s08_t2",
+   "playback_from": 0.971,
+   "playback_to": 0.9,
+   "ratio": 1.079
+  },
+  {
+   "at": 66.0617,
+   "from": "S08/phrase-L21-L23/mv5_s08_t2",
+   "to": "S08/insert-L24/mv5_s06_t1",
+   "playback_from": 0.9,
+   "playback_to": 0.875,
+   "ratio": 1.029
+  },
+  {
+   "at": 67.0617,
+   "from": "S08/insert-L24/mv5_s06_t1",
+   "to": "S09/phrase-chorus1b/mv5_s09_t1",
+   "playback_from": 0.875,
+   "playback_to": 0.691,
+   "ratio": 1.266
+  },
+  {
+   "at": 76.81,
+   "from": "S09/phrase-chorus1b/mv5_s09_t1",
+   "to": "S10/cutaway/mv5_s10_t1",
+   "playback_from": 0.691,
+   "playback_to": 1.0,
+   "ratio": 1.447
+  },
+  {
+   "at": 85.175,
+   "from": "S10/cutaway/mv5_s10_t1",
+   "to": "S11/phrase-L37-L40/mv5_s11_t4",
+   "playback_from": 1.0,
+   "playback_to": 1.126,
+   "ratio": 1.126
+  },
+  {
+   "at": 93.785,
+   "from": "S11/phrase-L37-L40/mv5_s11_t4",
+   "to": "S12/phrase-L41-L44/mv5_s12_t1",
+   "playback_from": 1.126,
+   "playback_to": 1.044,
+   "ratio": 1.079
+  },
+  {
+   "at": 102.425,
+   "from": "S12/phrase-L41-L44/mv5_s12_t1",
+   "to": "S13/cover-rej-tail/mv5_s13_t5",
+   "playback_from": 1.044,
+   "playback_to": 1.0,
+   "ratio": 1.044
+  },
+  {
+   "at": 102.9,
+   "from": "S13/cover-rej-tail/mv5_s13_t5",
+   "to": "S13/cover-rej-tail/mv5_s13_t3",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 103.7333,
+   "from": "S13/cover-rej-tail/mv5_s13_t3",
+   "to": "S13/cover-rej-tail/mv5_s13_t4",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 104.5667,
+   "from": "S13/cover-rej-tail/mv5_s13_t4",
+   "to": "S13/cover-rej-tail/mv5_s13_t2",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 105.4417,
+   "from": "S13/cover-rej-tail/mv5_s13_t2",
+   "to": "S13/cover-rej-tail/mv5_s13_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 106.3167,
+   "from": "S13/cover-rej-tail/mv5_s13_t1",
+   "to": "S13/cover-rej-tail/mv5_s13_t7",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 106.8583,
+   "from": "S13/cover-rej-tail/mv5_s13_t7",
+   "to": "S13/cover-rej-tail/mv5_s13_t6",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 107.3583,
+   "from": "S13/cover-rej-tail/mv5_s13_t6",
+   "to": "S13/cover-tail/mv5_s13_t6",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 108.8167,
+   "from": "S13/cover-tail/mv5_s13_t6",
+   "to": "S13/cover-tail/mv5_s03_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 109.025,
+   "from": "S13/cover-tail/mv5_s03_t1",
+   "to": "S13/cover-tail/mv5_s13_t6",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 110.525,
+   "from": "S13/cover-tail/mv5_s13_t6",
+   "to": "S13/cover-tail/mv5_s13_t6",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 111.275,
+   "from": "S13/cover-tail/mv5_s13_t6",
+   "to": "S13/cover-tail/mv5_s08_t2",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 111.4,
+   "from": "S13/cover-tail/mv5_s08_t2",
+   "to": "S13/cover-tail/mv5_s17_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 111.6917,
+   "from": "S13/cover-tail/mv5_s17_t1",
+   "to": "S13/cover-tail/mv5_s13_t6",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 111.9,
+   "from": "S13/cover-tail/mv5_s13_t6",
+   "to": "S14/cover-tail/mv5_s19b_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 112.5667,
+   "from": "S14/cover-tail/mv5_s19b_t1",
+   "to": "S14/cover-rej-tail/mv5_s14_t3",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 112.8583,
+   "from": "S14/cover-rej-tail/mv5_s14_t3",
+   "to": "S14/cover-tail/mv5_s27_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 114.1083,
+   "from": "S14/cover-tail/mv5_s27_t1",
+   "to": "S14/cover-rej-tail/mv5_s16_t5",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 115.9833,
+   "from": "S14/cover-rej-tail/mv5_s16_t5",
+   "to": "S15/phrase-L56/mv5_s15_t1",
+   "playback_from": 1.0,
+   "playback_to": 0.811,
+   "ratio": 1.233
+  },
+  {
+   "at": 121.2917,
+   "from": "S15/phrase-L56/mv5_s15_t1",
+   "to": "S16/insert-L57/mv5_s24_t2",
+   "playback_from": 0.811,
+   "playback_to": 1.0,
+   "ratio": 1.233
+  },
+  {
+   "at": 122.5917,
+   "from": "S16/insert-L57/mv5_s24_t2",
+   "to": "S16/base-L58/mv5_s16_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 124.0083,
+   "from": "S16/base-L58/mv5_s16_t1",
+   "to": "S16/insert-L59/mv5_s24_t2",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 125.05,
+   "from": "S16/insert-L59/mv5_s24_t2",
+   "to": "S16/base-L60/mv5_s16_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 126.3,
+   "from": "S16/base-L60/mv5_s16_t1",
+   "to": "S16/insert-L61/mv5_s24_t2",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 127.3833,
+   "from": "S16/insert-L61/mv5_s24_t2",
+   "to": "S16/base-L62/mv5_s16_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 128.175,
+   "from": "S16/base-L62/mv5_s16_t1",
+   "to": "S16/insert-L63/mv5_s24_t3",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 129.675,
+   "from": "S16/insert-L63/mv5_s24_t3",
+   "to": "S16/base-L64/mv5_s16_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 130.8,
+   "from": "S16/base-L64/mv5_s16_t1",
+   "to": "S17/phrase-L65-L68/mv5_s17_t1",
+   "playback_from": 1.0,
+   "playback_to": 0.813,
+   "ratio": 1.23
+  },
+  {
+   "at": 135.905,
+   "from": "S17/phrase-L65-L68/mv5_s17_t1",
+   "to": "S17/insert-L69/mv5_s09_t1",
+   "playback_from": 0.813,
+   "playback_to": 1.0,
+   "ratio": 1.23
+  },
+  {
+   "at": 136.9883,
+   "from": "S17/insert-L69/mv5_s09_t1",
+   "to": "S17/insert-L70/mv5_s28_t1",
+   "playback_from": 1.0,
+   "playback_to": 0.828,
+   "ratio": 1.208
+  },
+  {
+   "at": 138.1967,
+   "from": "S17/insert-L70/mv5_s28_t1",
+   "to": "S17/phrase-L71-L72/mv5_s17_t1",
+   "playback_from": 0.828,
+   "playback_to": 0.813,
+   "ratio": 1.018
+  },
+  {
+   "at": 140.4883,
+   "from": "S17/phrase-L71-L72/mv5_s17_t1",
+   "to": "S18/cutaway/mv5_s18_t1",
+   "playback_from": 0.813,
+   "playback_to": 1.0,
+   "ratio": 1.23
+  },
+  {
+   "at": 148.7283,
+   "from": "S18/cutaway/mv5_s18_t1",
+   "to": "S19a/cover-rej-tail/mv5_s19a_t2",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 151.325,
+   "from": "S19a/cover-rej-tail/mv5_s19a_t2",
+   "to": "S19a/cover-rej-tail/mv5_s19a_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 152.3667,
+   "from": "S19a/cover-rej-tail/mv5_s19a_t1",
+   "to": "S19b/phrase-L77-L79/mv5_s19b_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.312,
+   "ratio": 1.312
+  },
+  {
+   "at": 155.6933,
+   "from": "S19b/phrase-L77-L79/mv5_s19b_t1",
+   "to": "S20/phrase-L80-L81/mv5_s20_t1",
+   "playback_from": 1.312,
+   "playback_to": 1.579,
+   "ratio": 1.203
+  },
+  {
+   "at": 158.0533,
+   "from": "S20/phrase-L80-L81/mv5_s20_t1",
+   "to": "S21/montage-L82-GIRL/mv5_s21_t12",
+   "playback_from": 1.579,
+   "playback_to": 1.0,
+   "ratio": 1.579
+  },
+  {
+   "at": 159.1017,
+   "from": "S21/montage-L82-GIRL/mv5_s21_t12",
+   "to": "S21/montage-L83-CAT/mv5_s21_t13",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 160.2267,
+   "from": "S21/montage-L83-CAT/mv5_s21_t13",
+   "to": "S21/montage-L84-GIRL/mv5_s21_t16",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 161.3517,
+   "from": "S21/montage-L84-GIRL/mv5_s21_t16",
+   "to": "S21/montage-L85-CAT/mv5_s21_t13",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 162.435,
+   "from": "S21/montage-L85-CAT/mv5_s21_t13",
+   "to": "S21/montage-L86-GIRL/mv5_s21_t11",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 163.5183,
+   "from": "S21/montage-L86-GIRL/mv5_s21_t11",
+   "to": "S21/montage-L87-CAT/mv5_s21_t13",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 164.5183,
+   "from": "S21/montage-L87-CAT/mv5_s21_t13",
+   "to": "S21/montage-L88-GIRL/mv5_s21_t15",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 165.8517,
+   "from": "S21/montage-L88-GIRL/mv5_s21_t15",
+   "to": "S21/montage-L89-CAT/mv5_s21_t13",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 166.7683,
+   "from": "S21/montage-L89-CAT/mv5_s21_t13",
+   "to": "S21/tail/mv5_s21_t14",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 167.5183,
+   "from": "S21/tail/mv5_s21_t14",
+   "to": "S22/phrase-L90/mv5_s21_t3",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  },
+  {
+   "at": 169.1667,
+   "from": "S22/phrase-L90/mv5_s21_t3",
+   "to": "S23/phrase-L91-L95/mv5_s23_t1",
+   "playback_from": 1.0,
+   "playback_to": 0.688,
+   "ratio": 1.454
+  },
+  {
+   "at": 175.1183,
+   "from": "S23/phrase-L91-L95/mv5_s23_t1",
+   "to": "S23/phrase-L96/mv5_s23_t1",
+   "playback_from": 0.688,
+   "playback_to": 1.091,
+   "ratio": 1.587
+  },
+  {
+   "at": 176.035,
+   "from": "S23/phrase-L96/mv5_s23_t1",
+   "to": "S24/phrase-L97-L100/mv5_s24_t1",
+   "playback_from": 1.091,
+   "playback_to": 1.136,
+   "ratio": 1.042
+  },
+  {
+   "at": 180.29,
+   "from": "S24/phrase-L97-L100/mv5_s24_t1",
+   "to": "S24/phrase-L101-L102/mv5_s24_t3",
+   "playback_from": 1.136,
+   "playback_to": 1.067,
+   "ratio": 1.065
+  },
+  {
+   "at": 182.79,
+   "from": "S24/phrase-L101-L102/mv5_s24_t3",
+   "to": "S25/phrase-L103-L105/mv5_s25_t1",
+   "playback_from": 1.067,
+   "playback_to": 0.893,
+   "ratio": 1.195
+  },
+  {
+   "at": 186.4467,
+   "from": "S25/phrase-L103-L105/mv5_s25_t1",
+   "to": "S25/phrase-L106/mv5_s28_t3",
+   "playback_from": 0.893,
+   "playback_to": 0.569,
+   "ratio": 1.571
+  },
+  {
+   "at": 190.405,
+   "from": "S25/phrase-L106/mv5_s28_t3",
+   "to": "S26/cover-L108-zone/mv5_s26_t1",
+   "playback_from": 0.569,
+   "playback_to": 1.0,
+   "ratio": 1.759
+  },
+  {
+   "at": 193.0033,
+   "from": "S26/cover-L108-zone/mv5_s26_t1",
+   "to": "S27/phrase-L108-L109/mv5_s27_t1",
+   "playback_from": 1.0,
+   "playback_to": 0.966,
+   "ratio": 1.035
+  },
+  {
+   "at": 197.9167,
+   "from": "S27/phrase-L108-L109/mv5_s27_t1",
+   "to": "S27/interlude-instrumental/mv5_s16_t6",
+   "playback_from": 0.966,
+   "playback_to": 1.0,
+   "ratio": 1.035
+  },
+  {
+   "at": 201.0,
+   "from": "S27/interlude-instrumental/mv5_s16_t6",
+   "to": "S27/phrase-L110a/mv5_s28_t1",
+   "playback_from": 1.0,
+   "playback_to": 0.966,
+   "ratio": 1.036
+  },
+  {
+   "at": 203.4167,
+   "from": "S27/phrase-L110a/mv5_s28_t1",
+   "to": "S28/cover-L110b-a/mv5_s28_t3",
+   "playback_from": 0.966,
+   "playback_to": 1.0,
+   "ratio": 1.036
+  },
+  {
+   "at": 205.42,
+   "from": "S28/cover-L110b-a/mv5_s28_t3",
+   "to": "S28/cover-L110b-b/mv5_s28_t1",
+   "playback_from": 1.0,
+   "playback_to": 1.0,
+   "ratio": 1.0
+  }
+ ]
+}

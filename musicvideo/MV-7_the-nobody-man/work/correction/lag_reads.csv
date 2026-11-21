@@ -1,0 +1,59 @@
+label,gate,lag_f,lag_s,state_at_onset,conf,note
+I-occ1,o,+7,0.292,closed grin,med,first clear parting +7f; fully singing +10f
+I-occ2,T,+9,0.375,open(prev tail) then closes +1,low,own gesture reopens gradually; first sustained parting ~+9f; weak articulation
+I-occ3,O,-4,-0.167,open articulating,high,open-through window; no closing; opening before -4f
+I-occ4,T,+1,0.042,closed grin at nominal onset,med,S01b first true frame +1 already open articulating
+I-occ5,T,+8,0.333,parted low-amplitude,low,gradual; clear wide opening +8f; mid-S01b
+V2.4,O,+5,0.208,closed grin,high,first parting +5f clear open +6f
+I-occ6,T,>+11,>0.458,closed grin,high,S02 head holds closed grin past +11f; EXTENDED WINDOW NEEDED
+I-occ7,T,0,0.000,open articulating at onset,low,brief close +2/+3 then reopens +6; treated OPEN-FLOW effective 0 (shift would risk harm)
+V1.1,T,>+11,>0.458,closed grin,high,S03 head closed grin + head-down through +11f; EXTENDED WINDOW NEEDED
+V1.2,T,+10,0.417,open(prev tail) at onset then closed,med,S03-V1.2 own opening ~+10f head-down parting +10/+11
+V1.3,O,+6,0.250,face-down mouth hidden then opens,med,round open shape +6/+7; pre-onset open belongs to prev segment
+V1.4,T,+7,0.292,closed grin,med,first lip separation +7f; weak grin-singing after
+V1.5,O,+5,0.208,parted slight profile,low,weak gesture; opening increase ~+5f; head-down take drift
+V1.6,T,0,0.000,open articulating flow,med,same-take contiguous with V1.5; OPEN-FLOW at onset; closes mid-phrase +7
+PC1.1,T,+10,0.417,closed grin,high,S05a head closed grin to +8; first clear opening +10f
+PC1.2,T,+7,0.292,closed grin,med,S05b head closed/head-down; first parting +7f
+PC1.3,T,+6,0.250,closed grin,med,S06 head closed grin; first parting +6f
+PC1.4,O,0,0.000,open articulating flow,high,profile mouth moving whole window; OPEN-FLOW
+C1.1,T,>+11,>0.458,closed grin,high,S07 head held grin past +11f; EXTENDED WINDOW NEEDED
+C1.2,O,0,0.000,open articulating flow,high,OPEN-FLOW whole window
+C1.3,O,0,0.000,open articulating flow,high,OPEN-FLOW whole window (same-take contiguous)
+C1.4,O,0,0.000,open articulating flow,high,OPEN-FLOW whole window
+C1.5,T,>+11,>0.458,closed grin,high,S08 head held grin past +11f; EXTENDED WINDOW NEEDED
+C1.6,O,0,0.000,parted low-amplitude flow,med,same-take contiguous; lips parted with subtle motion whole window; OPEN-FLOW
+C1.7,O,0,0.000,open articulating flow,high,OPEN-FLOW whole window
+C1.8a,T,>+11,>0.458,closed grin,high,S09 head held grin past +11f; EXTENDED WINDOW NEEDED
+C1.8b,O,>+11,>0.458,parted at onset then closes,med,S09-occ2 lands on gesture tail; mouth closes +1 and stays closed past +11f; EXTENDED WINDOW NEEDED
+C1.T1,T,+9,0.375,closed grin,med,S10 head closed grin; first parting +9f clear +10f
+C1.T2,O,0,0.000,open articulating flow,high,OPEN-FLOW (same-take contiguous)
+C1.T3,O,0,0.000,open articulating flow,high,OPEN-FLOW (same-take contiguous)
+V2.1,T,+4,0.167,closed grin,high,first parting +4f clear open +6f
+V2.2,T,+3,0.125,closed grin,med,first parting +3f wide open +7f (same-take skip boundary)
+V2.3,T,0,0.000,parted articulating flow,med,mouth never closes; flows into open articulation +3; OPEN-FLOW borderline
+V2.5,O,0,0.000,open articulating flow,high,OPEN-FLOW whole window
+V2.6,O,0,0.000,open articulating flow,med,OPEN-FLOW; head turns down but mouth keeps moving
+PC2.2,T,0,0.000,parted at first frame then weak,low,gesture tail at segment head; weak amplitude throughout; STRUCTURAL-WEAK no shift helps
+PC2.3,O,>+11,>0.458,closed grin,high,S14 head held grin past +11f (wide shot); EXTENDED WINDOW NEEDED
+PC2.4,O,0,0.000,open articulating flow,med,OPEN-FLOW sustained open posture whole window
+PC2.1,T,+10,0.417,closed grin,med,S13 head held grin; first parting +10f (wide shot)
+C2.1,T,>+11,>0.458,closed grin,high,S15 head held grin past +11f; EXTENDED WINDOW NEEDED
+C2.2,T,0,0.000,open articulating flow,high,OPEN-FLOW whole window
+C2.3,O,0,0.000,open at onset,med,brief close +1/+2 then reopen +4; OPEN-FLOW ruling
+C2.5,T,+9,0.375,closed grin,high,S16 head (after candle cover) closed grin; first parting +9f clear +10f
+C2.6,T,0,0.000,open articulating flow,high,OPEN-FLOW whole window (same-take)
+C2.7,T,>+11,>0.458,closed grin,high,S17 head held grin past +11f; EXTENDED WINDOW NEEDED
+C2.8,T,0,0.000,parted low-amplitude flow,med,segment first frame already parted; subtle articulation; OPEN-FLOW
+FC.1,T,+9,0.375,closed grin,med,S20 head (wide wall shot; segment truly starts +2f); first parting +9f
+FC.2,T,0,0.000,open articulating flow,high,mid-S20; OPEN-FLOW at onset
+FC.3,O,0,0.000,open articulating flow,high,mid-S20; big open gesture +2/+3; OPEN-FLOW
+FC.5,T,+8,0.333,closed grin,med,S21 head (after FC.4 cover; starts +2f); first parting +8f
+FC.6,T,0,0.000,open articulating flow,high,OPEN-FLOW whole window (same-take)
+FC.7,T,0,0.000,open articulating flow,high,OPEN-FLOW whole window (same-take overlap window)
+FC.8,T,>+11,>0.458,closed grin,high,S22 head held grin past +11f (starts +2f); EXTENDED WINDOW NEEDED
+FC.9,O,0,0.000,parted at first frame decaying,low,gesture tail at head; stays parted low-amp; STRUCTURAL-WEAK no shift helps
+FC.10,T,>+11,>0.458,closed grin,high,S23 head held grin past +11f; EXTENDED WINDOW NEEDED
+FC.T1,T,>+11,>0.458,closed grin,high,S24-P1 head held grin past +11f; EXTENDED WINDOW NEEDED
+FC.T2,O,0,0.000,open articulating flow,high,OPEN-FLOW whole window (S24-P2 ramp head)
+FC.T3,T,0,0.000,open articulating flow,high,mid-S24-P2; OPEN-FLOW whole window (auto_lag +0.417 claim rejected on visual)

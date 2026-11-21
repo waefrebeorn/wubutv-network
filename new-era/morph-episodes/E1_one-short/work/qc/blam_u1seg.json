@@ -1,0 +1,43 @@
+{
+ "label": "U1seg",
+ "audio": {
+  "median_dbfs": -26.4,
+  "t50_s": 1.0,
+  "t90_s": 2.2,
+  "lead_silence_s": 0.0,
+  "head_db_0_1s": -18.4,
+  "a3_delta_db": 8.1,
+  "accent_db_first_0.5s": -16.8,
+  "crackle_head": 31,
+  "crackle_ctrl": 2
+ },
+ "video": {
+  "mae_buckets_0.25s": [
+   6.03,
+   9.49,
+   11.14,
+   9.66,
+   9.28,
+   10.04,
+   7.91,
+   6.63,
+   6.13,
+   5.65,
+   5.56,
+   5.83
+  ],
+  "baseline_mae_3_10s": 4.22,
+  "motion_0_0.5s": 7.76,
+  "v1_ratio": 1.84,
+  "v2_first_bucket": 6.03,
+  "v2_ok": true
+ },
+ "gate": {
+  "A1": false,
+  "A2": true,
+  "A3": true,
+  "A4": false,
+  "V1": true,
+  "V2": true
+ }
+}

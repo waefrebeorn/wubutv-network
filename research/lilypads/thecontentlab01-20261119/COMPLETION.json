@@ -1,0 +1,376 @@
+{
+ "job": "thecontentlab01-big-slop-study-resume",
+ "user_order": "Telegram msg 706, 2026-11-19 ~00:58 EST \u2014 'another big slop study to make our slop better' (https://x.com/thecontentlab01)",
+ "session": "resume \u2014 first study agent died on a runtime transport error ~15 min in; its raw intake artifacts were reused, not redone",
+ "date": "2026-11-19",
+ "subject": {
+  "handle": "@Thecontentlab01",
+  "name": "The Content Lab",
+  "x_id": "1994419332206792704",
+  "joined": "2025-11-28",
+  "followers": "7815 (FxTwitter) / 7818 (GraphQL)",
+  "tweets": 605,
+  "media": 266
+ },
+ "deliverables": [
+  {
+   "path": "report.md",
+   "bytes": 18203,
+   "md5": "9ff8a58190c58a5f321b6365e291b6c6"
+  },
+  {
+   "path": "/home/hatch/memory/people/thecontentlab01.md",
+   "bytes": 5941,
+   "md5": "e34582453c5d6cf8b34004552fe633e2"
+  },
+  {
+   "path": "~/memory/people/INDEX.md",
+   "note": "one line added for thecontentlab01 after the niceaunties entry"
+  }
+ ],
+ "raw_artifacts": [
+  {
+   "path": "raw/corpus_recent.json",
+   "bytes": 2597,
+   "md5": "d08d0bdab3d30d8a56782a38c6ad2142"
+  },
+  {
+   "path": "raw/corpus_sample.json",
+   "bytes": 14333,
+   "md5": "a44d265b339bc2a18451b9c56577296e"
+  },
+  {
+   "path": "raw/ddg1.html",
+   "bytes": 14274,
+   "md5": "ea0ca9f1be31af857a373d51acd4fccb"
+  },
+  {
+   "path": "raw/ddg_lite.html",
+   "bytes": 14270,
+   "md5": "bac3b37b98d19eb475c8bc33f88dec19"
+  },
+  {
+   "path": "raw/ddg_tiktok.html",
+   "bytes": 14284,
+   "md5": "ff36bbcd6aa797df39e5594fe6b4c11f"
+  },
+  {
+   "path": "raw/pinned_fxtwitter.json",
+   "bytes": 4793,
+   "md5": "ad80b84a7863742fdda94e8c458ecce6"
+  },
+  {
+   "path": "raw/posts/2060415121088778566.json",
+   "bytes": 6790,
+   "md5": "233e4e9e25f68a443913ce7a36659907"
+  },
+  {
+   "path": "raw/posts/2060476783347015901.json",
+   "bytes": 7464,
+   "md5": "4043c4557d9e266dd461bf6de0d4066a"
+  },
+  {
+   "path": "raw/posts/2060689709303550226.json",
+   "bytes": 3300,
+   "md5": "e89c69415a8c346a9e7863d08e30c24d"
+  },
+  {
+   "path": "raw/posts/2060976694060519603.json",
+   "bytes": 7196,
+   "md5": "8d0ee557d810738f961f7a8e693a99f1"
+  },
+  {
+   "path": "raw/posts/2061327375762104604.json",
+   "bytes": 3358,
+   "md5": "bd77d154f7fd1b6d6a9e2d244f14a022"
+  },
+  {
+   "path": "raw/posts/2061542367526625699.json",
+   "bytes": 3344,
+   "md5": "daf9007e20ff0b2145e046abd938e860"
+  },
+  {
+   "path": "raw/posts/2062080373220102346.json",
+   "bytes": 3374,
+   "md5": "4e298cc5af5c8379fe2e5ef52a82607a"
+  },
+  {
+   "path": "raw/posts/2062278863984493004.json",
+   "bytes": 3272,
+   "md5": "883241948d7dd4f853a4564c717b2815"
+  },
+  {
+   "path": "raw/posts/2062458515139031123.json",
+   "bytes": 6140,
+   "md5": "a8c29bef74dc3a4d3c85e749783fe78f"
+  },
+  {
+   "path": "raw/posts/2062518904191099313.json",
+   "bytes": 6834,
+   "md5": "41b1cbaf6e528dcccd4b468e2c5cb73b"
+  },
+  {
+   "path": "raw/posts/2062909430035804468.json",
+   "bytes": 5879,
+   "md5": "faa5c9094e0f274c490eefd920044b5e"
+  },
+  {
+   "path": "raw/posts/2063350680966909998.json",
+   "bytes": 3303,
+   "md5": "9ea9002836fad579b6cc4938d3c3048e"
+  },
+  {
+   "path": "raw/posts/2064006498015908189.json",
+   "bytes": 3429,
+   "md5": "8551a58815433e44269e17b54b23b1d9"
+  },
+  {
+   "path": "raw/posts/2064490476971909188.json",
+   "bytes": 3225,
+   "md5": "675a72e0fcbf15acdbea3eb361af7e96"
+  },
+  {
+   "path": "raw/posts/2064742946767769823.json",
+   "bytes": 5913,
+   "md5": "bca00d2a09b51a7fa58f5c69ac61ee67"
+  },
+  {
+   "path": "raw/posts/2065176985140068854.json",
+   "bytes": 7800,
+   "md5": "33422143cdd5c7cfc6dc6e77a01e0af3"
+  },
+  {
+   "path": "raw/posts/2065575084140462201.json",
+   "bytes": 6611,
+   "md5": "01d35bc3b3959cd2a9ef5e449414b3ed"
+  },
+  {
+   "path": "raw/posts/2065582753681133623.json",
+   "bytes": 4657,
+   "md5": "ed637f626b02b8dc04df1b20a65644b1"
+  },
+  {
+   "path": "raw/posts/2065591789147258887.json",
+   "bytes": 4852,
+   "md5": "4bdc7773f0a0a9bea32ba6f3a59b39bc"
+  },
+  {
+   "path": "raw/posts/2065806027476414634.json",
+   "bytes": 3199,
+   "md5": "f47b17c2fee18a14097ea1867d9399d4"
+  },
+  {
+   "path": "raw/posts/2066056540604309941.json",
+   "bytes": 6692,
+   "md5": "faece04db6049d08b51cdbdcd5335d5a"
+  },
+  {
+   "path": "raw/posts/2066079412269797378.json",
+   "bytes": 3488,
+   "md5": "d01a8f2217b51046ac32be00cc990273"
+  },
+  {
+   "path": "raw/posts/2066917261852500464.json",
+   "bytes": 5912,
+   "md5": "30fd3b7cf83d7d579a4e2079b01723dc"
+  },
+  {
+   "path": "raw/posts/2067000151705595951.json",
+   "bytes": 3232,
+   "md5": "fd19ce8f460983dc573e02c9c8ebe98b"
+  },
+  {
+   "path": "raw/posts/2067497816113512687.json",
+   "bytes": 3195,
+   "md5": "4e13bb6ea56760fcedcc9ea97209be7f"
+  },
+  {
+   "path": "raw/posts/2067499127663980566.json",
+   "bytes": 6814,
+   "md5": "2f01d3e14a3359377be48fa9df139c73"
+  },
+  {
+   "path": "raw/posts/2067579867495875071.json",
+   "bytes": 9423,
+   "md5": "0e8ec920e80fabc20a1e6e7bcf82cf74"
+  },
+  {
+   "path": "raw/posts/2067737237396090982.json",
+   "bytes": 6085,
+   "md5": "7a8ae8e25effd29212cf23f113c0f7a1"
+  },
+  {
+   "path": "raw/posts/2067848263403757665.json",
+   "bytes": 5916,
+   "md5": "f931058a5c037fa0ed6e4a930344a592"
+  },
+  {
+   "path": "raw/posts/2068225903939739824.json",
+   "bytes": 10326,
+   "md5": "95a65d2c9113fd1ec9d55bb3d197d637"
+  },
+  {
+   "path": "raw/posts/2068440214847000589.json",
+   "bytes": 3376,
+   "md5": "d71b3002a070d359cf68d52bd30236a4"
+  },
+  {
+   "path": "raw/posts/2068686770137424135.json",
+   "bytes": 6745,
+   "md5": "bf8bf391e914cbfbd405167ad0597d37"
+  },
+  {
+   "path": "raw/posts/2069058625490854126.json",
+   "bytes": 3224,
+   "md5": "8ae2b69880ab0a54008a159cf85d529e"
+  },
+  {
+   "path": "raw/posts/2069325609923215676.json",
+   "bytes": 8090,
+   "md5": "db7ec7ad35bbe8268472446b820200d1"
+  },
+  {
+   "path": "raw/posts/2069569279872176449.json",
+   "bytes": 13136,
+   "md5": "20d600b6c70b6c954bb36271c9fd5559"
+  },
+  {
+   "path": "raw/posts/2069900846553321834.json",
+   "bytes": 3206,
+   "md5": "4cab1fac22fe6b25a639b02afcdc0a67"
+  },
+  {
+   "path": "raw/posts/2069978528578158741.json",
+   "bytes": 3214,
+   "md5": "436b3a01c418a1e5a7337addcc6f6684"
+  },
+  {
+   "path": "raw/posts/2070266067440599188.json",
+   "bytes": 8816,
+   "md5": "52f65bd71b570aefbf975d400adbaf59"
+  },
+  {
+   "path": "raw/posts_recent/2095386486577266889.json",
+   "bytes": 3806,
+   "md5": "eb200738d13a16138d05cdba435414b3"
+  },
+  {
+   "path": "raw/posts_recent/2096582853689577596.json",
+   "bytes": 6355,
+   "md5": "4330e71e199ecdfeeb99aee4e90e95c8"
+  },
+  {
+   "path": "raw/posts_recent/2098207543969407146.json",
+   "bytes": 4518,
+   "md5": "a66901f283df2c95dcd5b9d04c06dcdb"
+  },
+  {
+   "path": "raw/posts_recent/2099279622114304117.json",
+   "bytes": 3778,
+   "md5": "568185c56ee82f808365d52b16f708f3"
+  },
+  {
+   "path": "raw/posts_recent/2100596043469529421.json",
+   "bytes": 3822,
+   "md5": "9d58e634ef68dbb166654f10a33424fd"
+  },
+  {
+   "path": "raw/posts_recent/2101288173791756614.json",
+   "bytes": 4710,
+   "md5": "320e36549214625396fc2121a9395789"
+  },
+  {
+   "path": "raw/posts_recent/2102889121857310794.json",
+   "bytes": 5229,
+   "md5": "d361d6843e6c5195469bcf85bc94a066"
+  },
+  {
+   "path": "raw/posts_recent/2105435135533514880.json",
+   "bytes": 3742,
+   "md5": "5ce8dab4661b95715be7303165d3ef36"
+  },
+  {
+   "path": "raw/posts_recent/2110721122392244670.json",
+   "bytes": 3587,
+   "md5": "7081723a58b8c1f266854e2ac3e49e0c"
+  },
+  {
+   "path": "raw/posts_recent/2113957801240543580.json",
+   "bytes": 3587,
+   "md5": "86fed5b894691315bdad1043f91cd82d"
+  },
+  {
+   "path": "raw/posts_recent/2116647069675073942.json",
+   "bytes": 4591,
+   "md5": "4ed8f578bdad84b51db89ce27ac398d1"
+  },
+  {
+   "path": "raw/posts_recent/2118840433669501342.json",
+   "bytes": 3587,
+   "md5": "d0899c7f444a430e255dc31194355003"
+  },
+  {
+   "path": "raw/posts_recent/2121511339159928914.json",
+   "bytes": 3587,
+   "md5": "f6ae3f12c74a3493c54746cdb987b814"
+  },
+  {
+   "path": "raw/profile_creativeodysse_fxtwitter.json",
+   "bytes": 804,
+   "md5": "6e9614375e04c5c9e66c9ebbc6f34672"
+  },
+  {
+   "path": "raw/profile_fxtwitter.json",
+   "bytes": 792,
+   "md5": "52dc17c8d4a3e3287bf3c2e28cd8b149"
+  },
+  {
+   "path": "raw/profile_graphql.json",
+   "bytes": 2032,
+   "md5": "d3c7c1b6f9c364d5eb853fe6b5abbb56"
+  },
+  {
+   "path": "raw/wayback_cdx.json",
+   "bytes": 41677,
+   "md5": "1e6837ebb725701cd8b821565518359a"
+  },
+  {
+   "path": "raw/wayback_cdx_late.json",
+   "bytes": 10477,
+   "md5": "f16022acf5372c2e0e54626a966d3d0b"
+  },
+  {
+   "path": "raw/wayback_cdx_sep.json",
+   "bytes": 23166,
+   "md5": "272437c5105987c17c3da4dd826d0518"
+  },
+  {
+   "path": "raw/yt_channel_guess.html",
+   "bytes": 755,
+   "md5": "82334d73b8c62473bc96b3e228be9ef6"
+  }
+ ],
+ "verdict": "AI-slop creator confirmed: X-native Italian Brainrot operation on the shared Tung Tung/Udin canon. Originals are single vertical videos under a hard ~60s law (13/15 in 60.0-61.2s, May-Jun 2026), captions are one-line premises or empty, zero hashtags/CTA. Feed is ~58% curation retweets in the hot window, amplified by sibling account @creativeodysse (near-verbatim bio template); recent era adds verbatim follow-loop replies and loosens duration while captions go to zero. Writing-layer core: premise invention on a pre-memed cast + text refusal \u2014 the contrast case for the msg-704 writing rework.",
+ "forms_banked": [
+  "THE SIXTY-SECOND SAHUR",
+  "THE PREMISE IS THE CAPTION",
+  "THE WATCH-TWICE BIO",
+  "THE SIBLING AMPLIFIER",
+  "THE CURATION MAJORITY",
+  "THE GROW-TOGETHER CARPET",
+  "THE REVERSAL TITLE",
+  "THE CROSSOVER INJECTION",
+  "THE FRANCHISE-ONLY CAST"
+ ],
+ "gaps": [
+  "X timeline/search/followers login-gated on all graded routes; recent posts reached only via Wayback captures + pinned fetch",
+  "Per-post engagement unmeasured \u2014 Wayback API-mirror JSON zeroes public metrics",
+  "2 of 40 sampled Wayback captures (2063587718769045594, 2064393977873215664) serve only an interstitial; texts unrecovered",
+  "DDG throttled all session (HTML + Lite anomaly pages, incl. inherited ddg1.html) \u2014 discovery dorks unusable",
+  "TikTok presence UNVERIFIED (tikwm DEAD from this VM; DDG dork throttled)",
+  "YouTube presence: none found (handle 404; niche search shows no attributable channel) \u2014 search-bounded absence",
+  "Video interiors uninspected \u2014 no download/transcription; in-video dialogue/on-screen text unknown",
+  "Toolchain/workflow undisclosed in all fetched artifacts"
+ ],
+ "commits": "none \u2014 parent commits"
+}

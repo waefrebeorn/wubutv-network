@@ -1,0 +1,876 @@
+{
+ "identity": [
+  {
+   "old": "'03,",
+   "old_start": 3.5,
+   "old_prob": 0.853,
+   "new": "03",
+   "new_start": 3.52,
+   "new_prob": 0.627
+  },
+  {
+   "old": "Fourteen",
+   "old_start": 11.7,
+   "old_prob": 0.526,
+   "new": "14",
+   "new_start": 11.64,
+   "new_prob": 0.48
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 33.68,
+   "old_prob": 0.95,
+   "new": "Futuramah's",
+   "new_start": 33.9,
+   "new_prob": 0.656
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 39.72,
+   "old_prob": 0.924,
+   "new": "Futuramas",
+   "new_start": 39.62,
+   "new_prob": 0.657
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 41.42,
+   "old_prob": 0.995,
+   "new": "futuramas",
+   "new_start": 41.36,
+   "new_prob": 0.348
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 56.3,
+   "old_prob": 0.911,
+   "new": "Futuramas",
+   "new_start": 56.4,
+   "new_prob": 0.663
+  },
+  {
+   "old": "and",
+   "old_start": 69.96,
+   "old_prob": 0.167,
+   "new": "then",
+   "new_start": 70.22,
+   "new_prob": 1.0
+  },
+  {
+   "old": "We",
+   "old_start": 79.52,
+   "old_prob": 0.755,
+   "new": "We've",
+   "new_start": 79.44,
+   "new_prob": 0.938
+  },
+  {
+   "old": "The",
+   "old_start": 83.22,
+   "old_prob": 0.377,
+   "new": "Then",
+   "new_start": 83.26,
+   "new_prob": 0.634
+  },
+  {
+   "old": "songs",
+   "old_start": 88.1,
+   "old_prob": 0.93,
+   "new": "song's",
+   "new_start": 88.12,
+   "new_prob": 0.902
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 97.22,
+   "old_prob": 0.335,
+   "new": "Futuramma's",
+   "new_start": 97.56,
+   "new_prob": 0.728
+  },
+  {
+   "old": "For",
+   "old_start": 99.24,
+   "old_prob": 0.212,
+   "new": "More",
+   "new_start": 99.2,
+   "new_prob": 0.895
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 103.36,
+   "old_prob": 0.368,
+   "new": "Futuramas",
+   "new_start": 103.36,
+   "new_prob": 0.665
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 104.84,
+   "old_prob": 0.805,
+   "new": "FUTURAMMA's",
+   "new_start": 104.94,
+   "new_prob": 0.639
+  },
+  {
+   "old": "everyone",
+   "old_start": 115.12,
+   "old_prob": 0.932,
+   "new": "everybody,",
+   "new_start": 115.12,
+   "new_prob": 0.0
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 119.68,
+   "old_prob": 0.029,
+   "new": "Futuramas",
+   "new_start": 120.0,
+   "new_prob": 0.661
+  },
+  {
+   "old": "No",
+   "old_start": 133.82,
+   "old_prob": 0.192,
+   "new": "We'll",
+   "new_start": 133.54,
+   "new_prob": 0.667
+  },
+  {
+   "old": "one",
+   "old_start": 149.4,
+   "old_prob": 0.756,
+   "new": "ones",
+   "new_start": 149.38,
+   "new_prob": 0.904
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 160.62,
+   "old_prob": 0.524,
+   "new": "Futuramas",
+   "new_start": 161.02,
+   "new_prob": 0.658
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 168.0,
+   "old_prob": 0.383,
+   "new": "our",
+   "new_start": 168.18,
+   "new_prob": 0.7
+  },
+  {
+   "old": "finished",
+   "old_start": 169.3,
+   "old_prob": 0.985,
+   "new": "Futuramas",
+   "new_start": 168.34,
+   "new_prob": 0.658
+  },
+  {
+   "old": null,
+   "old_start": null,
+   "old_prob": null,
+   "new": "finish",
+   "new_start": 169.44,
+   "new_prob": 0.245
+  },
+  {
+   "old": "episode,",
+   "old_start": 170.34,
+   "old_prob": 0.365,
+   "new": "episodes,",
+   "new_start": 170.32,
+   "new_prob": 0.999
+  },
+  {
+   "old": "done",
+   "old_start": 180.3,
+   "old_prob": 0.991,
+   "new": "gone",
+   "new_start": 180.3,
+   "new_prob": 0.0
+  },
+  {
+   "old": "everyone,",
+   "old_start": 182.12,
+   "old_prob": 0.872,
+   "new": "everybody,",
+   "new_start": 181.98,
+   "new_prob": 0.0
+  },
+  {
+   "old": "news,",
+   "old_start": 182.86,
+   "old_prob": 0.996,
+   "new": "new",
+   "new_start": 183.02,
+   "new_prob": 0.0
+  },
+  {
+   "old": "Futurama's",
+   "old_start": 190.4,
+   "old_prob": 0.009,
+   "new": "Futuramas",
+   "new_start": 191.9,
+   "new_prob": 0.398
+  },
+  {
+   "old": "on",
+   "old_start": 210.18,
+   "old_prob": 0.98,
+   "new": "off",
+   "new_start": 206.68,
+   "new_prob": 0.001
+  }
+ ],
+ "timing": [
+  {
+   "word": "Then",
+   "old_start": 4.0,
+   "new_start": 3.86,
+   "d_start": -0.14,
+   "new_prob": 0.59
+  },
+  {
+   "word": "hit",
+   "old_start": 8.66,
+   "new_start": 8.9,
+   "d_start": 0.24,
+   "new_prob": 0.996
+  },
+  {
+   "word": "and",
+   "old_start": 9.76,
+   "new_start": 9.9,
+   "d_start": 0.14,
+   "new_prob": 0.834
+  },
+  {
+   "word": "seasons",
+   "old_start": 12.36,
+   "new_start": 12.24,
+   "d_start": -0.12,
+   "new_prob": 0.985
+  },
+  {
+   "word": "we're",
+   "old_start": 13.52,
+   "new_start": 13.64,
+   "d_start": 0.12,
+   "new_prob": 0.984
+  },
+  {
+   "word": "the",
+   "old_start": 17.1,
+   "new_start": 17.4,
+   "d_start": 0.3,
+   "new_prob": 0.99
+  },
+  {
+   "word": "That's",
+   "old_start": 19.76,
+   "new_start": 18.62,
+   "d_start": -1.14,
+   "new_prob": 0.966
+  },
+  {
+   "word": "file",
+   "old_start": 22.22,
+   "new_start": 22.42,
+   "d_start": 0.2,
+   "new_prob": 0.999
+  },
+  {
+   "word": "Matt",
+   "old_start": 23.34,
+   "new_start": 23.18,
+   "d_start": -0.16,
+   "new_prob": 0.452
+  },
+  {
+   "word": "the",
+   "old_start": 28.46,
+   "new_start": 28.62,
+   "d_start": 0.16,
+   "new_prob": 1.0
+  },
+  {
+   "word": "finished,",
+   "old_start": 40.72,
+   "new_start": 40.56,
+   "d_start": -0.16,
+   "new_prob": 0.973
+  },
+  {
+   "word": "finished",
+   "old_start": 42.58,
+   "new_start": 42.42,
+   "d_start": -0.16,
+   "new_prob": 0.985
+  },
+  {
+   "word": "that's",
+   "old_start": 44.28,
+   "new_start": 44.98,
+   "d_start": 0.7,
+   "new_prob": 0.999
+  },
+  {
+   "word": "Good",
+   "old_start": 46.88,
+   "new_start": 46.74,
+   "d_start": -0.14,
+   "new_prob": 0.993
+  },
+  {
+   "word": "the",
+   "old_start": 48.72,
+   "new_start": 48.6,
+   "d_start": -0.12,
+   "new_prob": 1.0
+  },
+  {
+   "word": "is",
+   "old_start": 49.2,
+   "new_start": 49.32,
+   "d_start": 0.12,
+   "new_prob": 1.0
+  },
+  {
+   "word": "Good",
+   "old_start": 50.26,
+   "new_start": 50.14,
+   "d_start": -0.12,
+   "new_prob": 0.728
+  },
+  {
+   "word": "won't",
+   "old_start": 52.8,
+   "new_start": 52.94,
+   "d_start": 0.14,
+   "new_prob": 0.997
+  },
+  {
+   "word": "Three",
+   "old_start": 64.82,
+   "new_start": 64.4,
+   "d_start": -0.42,
+   "new_prob": 0.942
+  },
+  {
+   "word": "27",
+   "old_start": 67.48,
+   "new_start": 67.68,
+   "d_start": 0.2,
+   "new_prob": 0.723
+  },
+  {
+   "word": "Christmas",
+   "old_start": 68.7,
+   "new_start": 68.56,
+   "d_start": -0.14,
+   "new_prob": 0.972
+  },
+  {
+   "word": "But",
+   "old_start": 72.8,
+   "new_start": 71.94,
+   "d_start": -0.86,
+   "new_prob": 0.997
+  },
+  {
+   "word": "seen",
+   "old_start": 79.92,
+   "new_start": 80.04,
+   "d_start": 0.12,
+   "new_prob": 0.996
+  },
+  {
+   "word": "about",
+   "old_start": 88.6,
+   "new_start": 88.76,
+   "d_start": 0.16,
+   "new_prob": 1.0
+  },
+  {
+   "word": "never",
+   "old_start": 92.4,
+   "new_start": 92.56,
+   "d_start": 0.16,
+   "new_prob": 0.994
+  },
+  {
+   "word": "Futurama's",
+   "old_start": 95.4,
+   "new_start": 96.06,
+   "d_start": 0.66,
+   "new_prob": 0.974
+  },
+  {
+   "word": "finished",
+   "old_start": 96.68,
+   "new_start": 96.94,
+   "d_start": 0.26,
+   "new_prob": 0.953
+  },
+  {
+   "word": "finished",
+   "old_start": 98.48,
+   "new_start": 98.8,
+   "d_start": 0.32,
+   "new_prob": 0.999
+  },
+  {
+   "word": "time",
+   "old_start": 100.16,
+   "new_start": 100.3,
+   "d_start": 0.14,
+   "new_prob": 1.0
+  },
+  {
+   "word": "finished",
+   "old_start": 106.04,
+   "new_start": 106.24,
+   "d_start": 0.2,
+   "new_prob": 0.957
+  },
+  {
+   "word": "That's",
+   "old_start": 108.18,
+   "new_start": 108.74,
+   "d_start": 0.56,
+   "new_prob": 0.996
+  },
+  {
+   "word": "Good",
+   "old_start": 110.34,
+   "new_start": 110.52,
+   "d_start": 0.18,
+   "new_prob": 0.846
+  },
+  {
+   "word": "The",
+   "old_start": 112.0,
+   "new_start": 112.3,
+   "d_start": 0.3,
+   "new_prob": 0.999
+  },
+  {
+   "word": "is",
+   "old_start": 112.84,
+   "new_start": 112.98,
+   "d_start": 0.14,
+   "new_prob": 1.0
+  },
+  {
+   "word": "The",
+   "old_start": 115.74,
+   "new_start": 116.02,
+   "d_start": 0.28,
+   "new_prob": 0.986
+  },
+  {
+   "word": "Futurama's",
+   "old_start": 117.96,
+   "new_start": 118.36,
+   "d_start": 0.4,
+   "new_prob": 0.975
+  },
+  {
+   "word": "finished",
+   "old_start": 119.14,
+   "new_start": 119.38,
+   "d_start": 0.24,
+   "new_prob": 0.965
+  },
+  {
+   "word": "No",
+   "old_start": 123.18,
+   "new_start": 123.32,
+   "d_start": 0.14,
+   "new_prob": 0.993
+  },
+  {
+   "word": "They",
+   "old_start": 126.44,
+   "new_start": 126.2,
+   "d_start": -0.24,
+   "new_prob": 0.997
+  },
+  {
+   "word": "Like",
+   "old_start": 130.46,
+   "new_start": 129.98,
+   "d_start": -0.48,
+   "new_prob": 0.966
+  },
+  {
+   "word": "the",
+   "old_start": 131.7,
+   "new_start": 131.86,
+   "d_start": 0.16,
+   "new_prob": 0.947
+  },
+  {
+   "word": "back",
+   "old_start": 132.84,
+   "new_start": 132.98,
+   "d_start": 0.14,
+   "new_prob": 0.999
+  },
+  {
+   "word": "He",
+   "old_start": 135.3,
+   "new_start": 135.52,
+   "d_start": 0.22,
+   "new_prob": 0.984
+  },
+  {
+   "word": "saying",
+   "old_start": 136.7,
+   "new_start": 136.88,
+   "d_start": 0.18,
+   "new_prob": 0.99
+  },
+  {
+   "word": "But",
+   "old_start": 148.4,
+   "new_start": 147.78,
+   "d_start": -0.62,
+   "new_prob": 0.998
+  },
+  {
+   "word": "And",
+   "old_start": 151.96,
+   "new_start": 151.78,
+   "d_start": -0.18,
+   "new_prob": 0.995
+  },
+  {
+   "word": "stays",
+   "old_start": 153.2,
+   "new_start": 153.32,
+   "d_start": 0.12,
+   "new_prob": 1.0
+  },
+  {
+   "word": "empty",
+   "old_start": 153.78,
+   "new_start": 153.96,
+   "d_start": 0.18,
+   "new_prob": 1.0
+  },
+  {
+   "word": "Futurama's",
+   "old_start": 158.76,
+   "new_start": 159.38,
+   "d_start": 0.62,
+   "new_prob": 0.933
+  },
+  {
+   "word": "finished",
+   "old_start": 160.08,
+   "new_start": 160.34,
+   "d_start": 0.26,
+   "new_prob": 0.878
+  },
+  {
+   "word": "For",
+   "old_start": 162.64,
+   "new_start": 162.48,
+   "d_start": -0.16,
+   "new_prob": 0.946
+  },
+  {
+   "word": "reruns",
+   "old_start": 164.64,
+   "new_start": 164.78,
+   "d_start": 0.14,
+   "new_prob": 0.884
+  },
+  {
+   "word": "finished",
+   "old_start": 167.46,
+   "new_start": 167.74,
+   "d_start": 0.28,
+   "new_prob": 0.583
+  },
+  {
+   "word": "that's",
+   "old_start": 171.16,
+   "new_start": 171.94,
+   "d_start": 0.78,
+   "new_prob": 0.999
+  },
+  {
+   "word": "Good",
+   "old_start": 173.9,
+   "new_start": 173.74,
+   "d_start": -0.16,
+   "new_prob": 0.995
+  },
+  {
+   "word": "everyone,",
+   "old_start": 174.74,
+   "new_start": 174.6,
+   "d_start": -0.14,
+   "new_prob": 0.78
+  },
+  {
+   "word": "everyone",
+   "old_start": 176.6,
+   "new_start": 176.24,
+   "d_start": -0.36,
+   "new_prob": 1.0
+  },
+  {
+   "word": "Good",
+   "old_start": 181.24,
+   "new_start": 180.8,
+   "d_start": -0.44,
+   "new_prob": 0.992
+  },
+  {
+   "word": "good",
+   "old_start": 182.42,
+   "new_start": 182.72,
+   "d_start": 0.3,
+   "new_prob": 0.977
+  },
+  {
+   "word": "everyone",
+   "old_start": 184.02,
+   "new_start": 183.54,
+   "d_start": -0.48,
+   "new_prob": 0.983
+  },
+  {
+   "word": "coming",
+   "old_start": 185.88,
+   "new_start": 186.02,
+   "d_start": 0.14,
+   "new_prob": 0.932
+  },
+  {
+   "word": "Futurama's",
+   "old_start": 188.24,
+   "new_start": 187.9,
+   "d_start": -0.34,
+   "new_prob": 0.822
+  },
+  {
+   "word": "finished",
+   "old_start": 189.56,
+   "new_start": 189.84,
+   "d_start": 0.28,
+   "new_prob": 0.849
+  },
+  {
+   "word": "this",
+   "old_start": 197.06,
+   "new_start": 197.2,
+   "d_start": 0.14,
+   "new_prob": 0.935
+  },
+  {
+   "word": "no",
+   "old_start": 198.38,
+   "new_start": 199.04,
+   "d_start": 0.66,
+   "new_prob": 0.909
+  },
+  {
+   "word": "more",
+   "old_start": 200.08,
+   "new_start": 200.26,
+   "d_start": 0.18,
+   "new_prob": 0.992
+  },
+  {
+   "word": "coming",
+   "old_start": 201.14,
+   "new_start": 201.32,
+   "d_start": 0.18,
+   "new_prob": 0.939
+  },
+  {
+   "word": "No",
+   "old_start": 205.09,
+   "new_start": 204.04,
+   "d_start": -1.05,
+   "new_prob": 0.907
+  },
+  {
+   "word": "more",
+   "old_start": 205.66,
+   "new_start": 204.74,
+   "d_start": -0.92,
+   "new_prob": 0.653
+  },
+  {
+   "word": "no",
+   "old_start": 207.46,
+   "new_start": 204.74,
+   "d_start": -2.72,
+   "new_prob": 0.935
+  },
+  {
+   "word": "more",
+   "old_start": 207.98,
+   "new_start": 205.66,
+   "d_start": -2.32,
+   "new_prob": 0.472
+  },
+  {
+   "word": "coming",
+   "old_start": 209.68,
+   "new_start": 206.12,
+   "d_start": -3.56,
+   "new_prob": 0.84
+  },
+  {
+   "word": "Good",
+   "old_start": 211.75,
+   "new_start": 211.62,
+   "d_start": -0.13,
+   "new_prob": 0.908
+  },
+  {
+   "word": "news,",
+   "old_start": 212.69,
+   "new_start": 212.82,
+   "d_start": 0.13,
+   "new_prob": 0.917
+  },
+  {
+   "word": "good",
+   "old_start": 214.17,
+   "new_start": 230.56,
+   "d_start": 16.39,
+   "new_prob": 0.853
+  },
+  {
+   "word": "news,",
+   "old_start": 214.71,
+   "new_start": 231.8,
+   "d_start": 17.09,
+   "new_prob": 1.0
+  },
+  {
+   "word": "everyone",
+   "old_start": 215.75,
+   "new_start": 232.58,
+   "d_start": 16.83,
+   "new_prob": 0.002
+  },
+  {
+   "word": "For",
+   "old_start": 217.75,
+   "new_start": 234.24,
+   "d_start": 16.49,
+   "new_prob": 0.996
+  },
+  {
+   "word": "real",
+   "old_start": 218.89,
+   "new_start": 236.24,
+   "d_start": 17.35,
+   "new_prob": 1.0
+  },
+  {
+   "word": "this",
+   "old_start": 219.51,
+   "new_start": 236.98,
+   "d_start": 17.47,
+   "new_prob": 0.0
+  },
+  {
+   "word": "time",
+   "old_start": 220.01,
+   "new_start": 237.48,
+   "d_start": 17.47,
+   "new_prob": 0.999
+  }
+ ],
+ "old_only": [
+  {
+   "word": "coming",
+   "start": 206.04,
+   "prob": 0.99
+  },
+  {
+   "word": "on",
+   "start": 206.66,
+   "prob": 0.906
+  },
+  {
+   "word": "For",
+   "start": 220.77,
+   "prob": 0.457
+  },
+  {
+   "word": "real",
+   "start": 222.81,
+   "prob": 0.914
+  },
+  {
+   "word": "this",
+   "start": 233.63,
+   "prob": 0.983
+  },
+  {
+   "word": "time",
+   "start": 237.51,
+   "prob": 0.998
+  }
+ ],
+ "new_only": [
+  {
+   "word": "No",
+   "start": 106.44,
+   "prob": 0.906
+  },
+  {
+   "word": "Oh,",
+   "start": 213.84,
+   "prob": 0.03
+  },
+  {
+   "word": "news,",
+   "start": 214.98,
+   "prob": 0.874
+  },
+  {
+   "word": "every",
+   "start": 215.7,
+   "prob": 0.0
+  },
+  {
+   "word": "one",
+   "start": 216.22,
+   "prob": 0.953
+  },
+  {
+   "word": "For",
+   "start": 218.28,
+   "prob": 0.986
+  },
+  {
+   "word": "real",
+   "start": 218.9,
+   "prob": 0.998
+  },
+  {
+   "word": "this",
+   "start": 219.52,
+   "prob": 0.968
+  },
+  {
+   "word": "time",
+   "start": 219.98,
+   "prob": 1.0
+  }
+ ]
+}

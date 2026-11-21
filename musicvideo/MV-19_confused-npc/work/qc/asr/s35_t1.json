@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv19_s35_t1.mp4",
+ "words": [
+  {
+   "w": "Just",
+   "start": 3.52,
+   "end": 4.92,
+   "p": 0.677
+  },
+  {
+   "w": "standing,",
+   "start": 4.92,
+   "end": 5.58,
+   "p": 0.989
+  },
+  {
+   "w": "just",
+   "start": 6.4,
+   "end": 7.28,
+   "p": 0.979
+  },
+  {
+   "w": "standing...",
+   "start": 7.28,
+   "end": 8.52,
+   "p": 0.578
+  }
+ ],
+ "segments": [
+  {
+   "start": 3.52,
+   "end": 8.52,
+   "text": "Just standing, just standing...",
+   "avg_logprob": -0.5
+  }
+ ]
+}

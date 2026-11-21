@@ -1,0 +1,40 @@
+#!/usr/bin/env python3
+"""Volley 7 QC driver: wav extract + transcribe + frame rule + 2fps sheet + RMS bins.
+S24 t2 never landed on disk (media.generate_video errored; no file) — S20 t2 only."""
+import subprocess, wave
+import numpy as np
+
+BASE = "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man"
+TAKES = {
+    "mv7_s20_t2": ("takes/media-generation-mv7v2-s20-t2-0-918d720a-9968-4d6a-ae48-b30351b503e5.mp4", 0.5, 9.5),
+}
+
+def run(cmd, **kw):
+    return subprocess.run(cmd, capture_output=True, text=True, **kw)
+
+for tag, (rel, w0, w1) in TAKES.items():
+    p = f"{BASE}/{rel}"
+    wav = f"{BASE}/work/qc_v7/{tag}_16k.wav"
+    run(["ffmpeg", "-v", "error", "-y", "-i", p, "-ar", "16000", "-ac", "1", wav])
+    out = run(["python3", f"{BASE}/work/qc_v7/transcribe_take.py", wav, f"{BASE}/work/qc_v7/{tag}_words.json"])
+    print(f"== {tag} transcribe rc={out.returncode}")
+    print(out.stdout.strip())
+    if out.returncode != 0:
+        print(out.stderr[-2000:])
+    fr = run(["python3", f"{BASE}/work/qc_v7/frame_rule.py", p, str(w0), str(w1)])
+    print(f"== {tag} frame_rule: {fr.stdout.strip()}")
+    sheet = f"{BASE}/work/qc_v7/{tag}_sheet.png"
+    run(["ffmpeg", "-v", "error", "-y", "-i", p, "-vf", "fps=2,scale=320:-1,tile=5x4", "-frames:v", "1", sheet])
+    with wave.open(wav, "rb") as w:
+        n, ch, sw = w.getnframes(), w.getnchannels(), w.getsampwidth()
+        raw = w.readframes(n)
+    a = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
+    if ch > 1:
+        a = a.reshape(-1, ch)[:, 0]
+    bins = []
+    for i in range(20):
+        seg = a[int(i * 0.5 * 16000):int((i + 1) * 0.5 * 16000)]
+        bins.append(round(float(np.sqrt((seg ** 2).mean())), 4) if len(seg) else 0.0)
+    print(f"== {tag} RMS 0.5s bins: {bins}")
+    print(flush=True)
+print("ALL DONE")

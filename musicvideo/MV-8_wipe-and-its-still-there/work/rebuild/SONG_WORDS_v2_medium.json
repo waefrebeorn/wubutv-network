@@ -1,0 +1,1063 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/track_16k.wav",
+ "model": "medium",
+ "language": "en",
+ "duration": 187.2,
+ "initial_prompt": false,
+ "vad_filter": false,
+ "beam_size": 5,
+ "n_words": 154,
+ "words": [
+  {
+   "word": "Wipe",
+   "start": 8.52,
+   "end": 9.6,
+   "prob": 0.364
+  },
+  {
+   "word": "and",
+   "start": 9.6,
+   "end": 9.82,
+   "prob": 0.426
+  },
+  {
+   "word": "it's",
+   "start": 9.82,
+   "end": 10.28,
+   "prob": 0.843
+  },
+  {
+   "word": "still",
+   "start": 10.28,
+   "end": 10.48,
+   "prob": 0.735
+  },
+  {
+   "word": "there,",
+   "start": 10.48,
+   "end": 11.7,
+   "prob": 0.9
+  },
+  {
+   "word": "wipe,",
+   "start": 11.7,
+   "end": 13.06,
+   "prob": 0.729
+  },
+  {
+   "word": "wipe",
+   "start": 13.06,
+   "end": 13.48,
+   "prob": 0.993
+  },
+  {
+   "word": "and",
+   "start": 13.48,
+   "end": 13.72,
+   "prob": 0.859
+  },
+  {
+   "word": "it's",
+   "start": 13.72,
+   "end": 13.98,
+   "prob": 0.985
+  },
+  {
+   "word": "still",
+   "start": 13.98,
+   "end": 14.34,
+   "prob": 0.992
+  },
+  {
+   "word": "there",
+   "start": 14.34,
+   "end": 16.12,
+   "prob": 0.998
+  },
+  {
+   "word": "Paper",
+   "start": 16.12,
+   "end": 16.98,
+   "prob": 0.356
+  },
+  {
+   "word": "comes",
+   "start": 16.98,
+   "end": 17.68,
+   "prob": 0.991
+  },
+  {
+   "word": "back",
+   "start": 17.68,
+   "end": 18.26,
+   "prob": 0.997
+  },
+  {
+   "word": "dirty,",
+   "start": 18.26,
+   "end": 19.24,
+   "prob": 0.965
+  },
+  {
+   "word": "dirty,",
+   "start": 19.24,
+   "end": 19.8,
+   "prob": 0.961
+  },
+  {
+   "word": "dirty,",
+   "start": 19.8,
+   "end": 21.22,
+   "prob": 0.993
+  },
+  {
+   "word": "dirty",
+   "start": 21.22,
+   "end": 22.08,
+   "prob": 0.992
+  },
+  {
+   "word": "Brown,",
+   "start": 22.08,
+   "end": 22.68,
+   "prob": 0.409
+  },
+  {
+   "word": "brown,",
+   "start": 22.68,
+   "end": 23.3,
+   "prob": 0.921
+  },
+  {
+   "word": "brown,",
+   "start": 23.3,
+   "end": 23.9,
+   "prob": 0.975
+  },
+  {
+   "word": "brown,",
+   "start": 23.9,
+   "end": 24.34,
+   "prob": 0.954
+  },
+  {
+   "word": "brown",
+   "start": 24.34,
+   "end": 24.74,
+   "prob": 0.928
+  },
+  {
+   "word": "Wipe",
+   "start": 24.74,
+   "end": 25.26,
+   "prob": 0.841
+  },
+  {
+   "word": "and",
+   "start": 25.26,
+   "end": 25.48,
+   "prob": 0.992
+  },
+  {
+   "word": "it's",
+   "start": 25.48,
+   "end": 25.96,
+   "prob": 0.991
+  },
+  {
+   "word": "still",
+   "start": 25.96,
+   "end": 26.08,
+   "prob": 0.996
+  },
+  {
+   "word": "there,",
+   "start": 26.08,
+   "end": 27.74,
+   "prob": 0.996
+  },
+  {
+   "word": "wipe,",
+   "start": 28.62,
+   "end": 28.9,
+   "prob": 0.977
+  },
+  {
+   "word": "wipe",
+   "start": 28.96,
+   "end": 29.18,
+   "prob": 0.998
+  },
+  {
+   "word": "and",
+   "start": 29.18,
+   "end": 29.38,
+   "prob": 0.986
+  },
+  {
+   "word": "it's",
+   "start": 29.38,
+   "end": 29.98,
+   "prob": 0.994
+  },
+  {
+   "word": "still",
+   "start": 29.98,
+   "end": 29.98,
+   "prob": 0.999
+  },
+  {
+   "word": "there",
+   "start": 29.98,
+   "end": 29.98,
+   "prob": 0.999
+  },
+  {
+   "word": "Fence",
+   "start": 30.98,
+   "end": 32.56,
+   "prob": 0.194
+  },
+  {
+   "word": "on",
+   "start": 32.56,
+   "end": 32.92,
+   "prob": 0.776
+  },
+  {
+   "word": "residue",
+   "start": 32.92,
+   "end": 33.76,
+   "prob": 0.802
+  },
+  {
+   "word": "stays",
+   "start": 33.76,
+   "end": 34.96,
+   "prob": 0.822
+  },
+  {
+   "word": "Brown,",
+   "start": 36.9,
+   "end": 38.3,
+   "prob": 0.578
+  },
+  {
+   "word": "brown,",
+   "start": 38.3,
+   "end": 39.64,
+   "prob": 0.776
+  },
+  {
+   "word": "brown,",
+   "start": 39.64,
+   "end": 39.9,
+   "prob": 0.967
+  },
+  {
+   "word": "brown,",
+   "start": 39.9,
+   "end": 40.38,
+   "prob": 0.95
+  },
+  {
+   "word": "brown",
+   "start": 40.38,
+   "end": 41.84,
+   "prob": 0.938
+  },
+  {
+   "word": "Sitting",
+   "start": 60.64,
+   "end": 61.32,
+   "prob": 0.019
+  },
+  {
+   "word": "on",
+   "start": 61.32,
+   "end": 61.68,
+   "prob": 0.98
+  },
+  {
+   "word": "the",
+   "start": 61.68,
+   "end": 62.02,
+   "prob": 0.923
+  },
+  {
+   "word": "toilet,",
+   "start": 62.02,
+   "end": 63.3,
+   "prob": 0.998
+  },
+  {
+   "word": "wipe,",
+   "start": 63.62,
+   "end": 63.76,
+   "prob": 0.002
+  },
+  {
+   "word": "wipe",
+   "start": 63.94,
+   "end": 63.94,
+   "prob": 0.874
+  },
+  {
+   "word": "Wipe",
+   "start": 63.94,
+   "end": 63.94,
+   "prob": 0.463
+  },
+  {
+   "word": "once,",
+   "start": 63.94,
+   "end": 64.22,
+   "prob": 0.858
+  },
+  {
+   "word": "still",
+   "start": 64.32,
+   "end": 64.66,
+   "prob": 0.505
+  },
+  {
+   "word": "brown",
+   "start": 64.66,
+   "end": 65.0,
+   "prob": 0.892
+  },
+  {
+   "word": "Fence",
+   "start": 65.6,
+   "end": 66.08,
+   "prob": 0.02
+  },
+  {
+   "word": "on,",
+   "start": 66.08,
+   "end": 66.42,
+   "prob": 0.036
+  },
+  {
+   "word": "wipe,",
+   "start": 66.48,
+   "end": 66.72,
+   "prob": 0.977
+  },
+  {
+   "word": "wipe",
+   "start": 66.76,
+   "end": 67.0,
+   "prob": 0.994
+  },
+  {
+   "word": "again",
+   "start": 67.0,
+   "end": 67.38,
+   "prob": 0.71
+  },
+  {
+   "word": "Wipe",
+   "start": 67.38,
+   "end": 67.92,
+   "prob": 0.711
+  },
+  {
+   "word": "and",
+   "start": 67.92,
+   "end": 68.08,
+   "prob": 0.047
+  },
+  {
+   "word": "it's",
+   "start": 68.08,
+   "end": 68.36,
+   "prob": 0.553
+  },
+  {
+   "word": "still",
+   "start": 68.36,
+   "end": 68.6,
+   "prob": 0.979
+  },
+  {
+   "word": "there,",
+   "start": 68.6,
+   "end": 69.1,
+   "prob": 0.964
+  },
+  {
+   "word": "never",
+   "start": 69.36,
+   "end": 69.54,
+   "prob": 0.972
+  },
+  {
+   "word": "clean",
+   "start": 69.54,
+   "end": 70.28,
+   "prob": 0.843
+  },
+  {
+   "word": "Wipe",
+   "start": 70.28,
+   "end": 71.54,
+   "prob": 0.896
+  },
+  {
+   "word": "and",
+   "start": 71.54,
+   "end": 71.98,
+   "prob": 0.894
+  },
+  {
+   "word": "it's",
+   "start": 71.98,
+   "end": 72.24,
+   "prob": 0.986
+  },
+  {
+   "word": "still",
+   "start": 72.24,
+   "end": 72.56,
+   "prob": 0.998
+  },
+  {
+   "word": "there,",
+   "start": 72.56,
+   "end": 73.0,
+   "prob": 0.977
+  },
+  {
+   "word": "wipe,",
+   "start": 73.0,
+   "end": 74.06,
+   "prob": 0.309
+  },
+  {
+   "word": "wipe",
+   "start": 74.06,
+   "end": 74.98,
+   "prob": 0.99
+  },
+  {
+   "word": "Wipe",
+   "start": 74.98,
+   "end": 75.48,
+   "prob": 0.955
+  },
+  {
+   "word": "and",
+   "start": 75.48,
+   "end": 75.82,
+   "prob": 0.971
+  },
+  {
+   "word": "it's",
+   "start": 75.82,
+   "end": 76.1,
+   "prob": 0.993
+  },
+  {
+   "word": "still",
+   "start": 76.1,
+   "end": 76.46,
+   "prob": 0.998
+  },
+  {
+   "word": "there",
+   "start": 76.46,
+   "end": 76.98,
+   "prob": 0.986
+  },
+  {
+   "word": "Endless",
+   "start": 76.98,
+   "end": 79.24,
+   "prob": 0.53
+  },
+  {
+   "word": "white",
+   "start": 79.24,
+   "end": 79.58,
+   "prob": 0.262
+  },
+  {
+   "word": "forever",
+   "start": 79.58,
+   "end": 81.08,
+   "prob": 0.88
+  },
+  {
+   "word": "White",
+   "start": 85.98,
+   "end": 86.84,
+   "prob": 0.438
+  },
+  {
+   "word": "and",
+   "start": 86.84,
+   "end": 87.16,
+   "prob": 0.406
+  },
+  {
+   "word": "you're",
+   "start": 87.16,
+   "end": 87.62,
+   "prob": 0.874
+  },
+  {
+   "word": "still",
+   "start": 87.62,
+   "end": 87.94,
+   "prob": 0.995
+  },
+  {
+   "word": "there",
+   "start": 87.94,
+   "end": 88.98,
+   "prob": 0.962
+  },
+  {
+   "word": "White",
+   "start": 95.52,
+   "end": 96.92,
+   "prob": 0.509
+  },
+  {
+   "word": "and",
+   "start": 96.92,
+   "end": 98.32,
+   "prob": 0.983
+  },
+  {
+   "word": "you're",
+   "start": 98.32,
+   "end": 98.94,
+   "prob": 0.993
+  },
+  {
+   "word": "still",
+   "start": 98.94,
+   "end": 99.48,
+   "prob": 0.999
+  },
+  {
+   "word": "there",
+   "start": 99.48,
+   "end": 100.18,
+   "prob": 0.997
+  },
+  {
+   "word": "And",
+   "start": 102.34,
+   "end": 103.4,
+   "prob": 0.031
+  },
+  {
+   "word": "from",
+   "start": 103.4,
+   "end": 104.02,
+   "prob": 0.759
+  },
+  {
+   "word": "wide",
+   "start": 104.02,
+   "end": 104.3,
+   "prob": 0.194
+  },
+  {
+   "word": "one",
+   "start": 104.3,
+   "end": 104.6,
+   "prob": 0.107
+  },
+  {
+   "word": "never",
+   "start": 104.6,
+   "end": 105.3,
+   "prob": 0.757
+  },
+  {
+   "word": "stops",
+   "start": 105.3,
+   "end": 105.98,
+   "prob": 0.98
+  },
+  {
+   "word": "White",
+   "start": 120.06,
+   "end": 121.12,
+   "prob": 0.003
+  },
+  {
+   "word": "and",
+   "start": 121.12,
+   "end": 121.8,
+   "prob": 0.122
+  },
+  {
+   "word": "you're",
+   "start": 121.8,
+   "end": 121.96,
+   "prob": 0.094
+  },
+  {
+   "word": "still",
+   "start": 121.96,
+   "end": 122.28,
+   "prob": 0.953
+  },
+  {
+   "word": "there",
+   "start": 122.28,
+   "end": 123.18,
+   "prob": 0.069
+  },
+  {
+   "word": "White",
+   "start": 124.68,
+   "end": 125.12,
+   "prob": 0.533
+  },
+  {
+   "word": "and",
+   "start": 125.12,
+   "end": 125.46,
+   "prob": 0.965
+  },
+  {
+   "word": "you're",
+   "start": 125.46,
+   "end": 125.72,
+   "prob": 0.992
+  },
+  {
+   "word": "still",
+   "start": 125.72,
+   "end": 126.1,
+   "prob": 0.999
+  },
+  {
+   "word": "there",
+   "start": 126.1,
+   "end": 127.18,
+   "prob": 0.962
+  },
+  {
+   "word": "Paper",
+   "start": 127.18,
+   "end": 128.76,
+   "prob": 0.01
+  },
+  {
+   "word": "comes",
+   "start": 128.76,
+   "end": 129.42,
+   "prob": 0.872
+  },
+  {
+   "word": "back",
+   "start": 129.42,
+   "end": 129.98,
+   "prob": 0.969
+  },
+  {
+   "word": "dirty",
+   "start": 129.98,
+   "end": 130.53,
+   "prob": 0.955
+  },
+  {
+   "word": "Dirty",
+   "start": 132.36,
+   "end": 133.46,
+   "prob": 0.542
+  },
+  {
+   "word": "Brown,",
+   "start": 133.46,
+   "end": 134.08,
+   "prob": 0.82
+  },
+  {
+   "word": "brown,",
+   "start": 134.08,
+   "end": 134.64,
+   "prob": 0.932
+  },
+  {
+   "word": "brown,",
+   "start": 134.64,
+   "end": 135.2,
+   "prob": 0.987
+  },
+  {
+   "word": "brown,",
+   "start": 135.2,
+   "end": 135.8,
+   "prob": 0.988
+  },
+  {
+   "word": "brown",
+   "start": 135.8,
+   "end": 136.4,
+   "prob": 0.972
+  },
+  {
+   "word": "White",
+   "start": 136.4,
+   "end": 136.8,
+   "prob": 0.022
+  },
+  {
+   "word": "and",
+   "start": 136.8,
+   "end": 136.88,
+   "prob": 0.029
+  },
+  {
+   "word": "you're",
+   "start": 136.88,
+   "end": 137.24,
+   "prob": 0.183
+  },
+  {
+   "word": "still",
+   "start": 137.24,
+   "end": 137.52,
+   "prob": 0.93
+  },
+  {
+   "word": "there",
+   "start": 137.52,
+   "end": 138.0,
+   "prob": 0.785
+  },
+  {
+   "word": "Still",
+   "start": 138.0,
+   "end": 138.44,
+   "prob": 0.445
+  },
+  {
+   "word": "there,",
+   "start": 138.44,
+   "end": 138.9,
+   "prob": 0.951
+  },
+  {
+   "word": "still",
+   "start": 138.9,
+   "end": 139.12,
+   "prob": 0.912
+  },
+  {
+   "word": "there",
+   "start": 139.12,
+   "end": 140.14,
+   "prob": 0.99
+  },
+  {
+   "word": "White",
+   "start": 140.14,
+   "end": 140.3,
+   "prob": 0.19
+  },
+  {
+   "word": "and",
+   "start": 140.3,
+   "end": 140.72,
+   "prob": 0.897
+  },
+  {
+   "word": "you're",
+   "start": 140.72,
+   "end": 141.26,
+   "prob": 0.98
+  },
+  {
+   "word": "still",
+   "start": 141.26,
+   "end": 141.26,
+   "prob": 0.986
+  },
+  {
+   "word": "there",
+   "start": 141.26,
+   "end": 141.96,
+   "prob": 0.994
+  },
+  {
+   "word": "Still",
+   "start": 141.96,
+   "end": 142.36,
+   "prob": 0.942
+  },
+  {
+   "word": "there,",
+   "start": 142.36,
+   "end": 143.16,
+   "prob": 0.991
+  },
+  {
+   "word": "white",
+   "start": 143.68,
+   "end": 143.68,
+   "prob": 0.003
+  },
+  {
+   "word": "and",
+   "start": 143.68,
+   "end": 143.68,
+   "prob": 0.759
+  },
+  {
+   "word": "you're",
+   "start": 143.68,
+   "end": 143.68,
+   "prob": 0.966
+  },
+  {
+   "word": "white",
+   "start": 143.68,
+   "end": 144.18,
+   "prob": 0.128
+  },
+  {
+   "word": "Endless",
+   "start": 144.18,
+   "end": 144.78,
+   "prob": 0.487
+  },
+  {
+   "word": "white",
+   "start": 144.78,
+   "end": 145.16,
+   "prob": 0.891
+  },
+  {
+   "word": "forever",
+   "start": 145.16,
+   "end": 146.02,
+   "prob": 0.0
+  },
+  {
+   "word": "White",
+   "start": 157.18,
+   "end": 157.18,
+   "prob": 0.0
+  },
+  {
+   "word": "and",
+   "start": 157.18,
+   "end": 157.18,
+   "prob": 0.01
+  },
+  {
+   "word": "you're",
+   "start": 157.18,
+   "end": 157.18,
+   "prob": 0.083
+  },
+  {
+   "word": "still",
+   "start": 157.18,
+   "end": 164.36,
+   "prob": 0.022
+  },
+  {
+   "word": "there",
+   "start": 164.36,
+   "end": 164.36,
+   "prob": 0.06
+  },
+  {
+   "word": "Still",
+   "start": 164.36,
+   "end": 164.36,
+   "prob": 0.0
+  },
+  {
+   "word": "there,",
+   "start": 164.36,
+   "end": 164.36,
+   "prob": 0.125
+  },
+  {
+   "word": "white",
+   "start": 164.36,
+   "end": 171.44,
+   "prob": 0.034
+  },
+  {
+   "word": "and",
+   "start": 171.44,
+   "end": 172.24,
+   "prob": 0.916
+  },
+  {
+   "word": "you're",
+   "start": 172.24,
+   "end": 172.24,
+   "prob": 0.948
+  },
+  {
+   "word": "white",
+   "start": 172.24,
+   "end": 172.24,
+   "prob": 0.0
+  },
+  {
+   "word": "Endless",
+   "start": 181.56,
+   "end": 182.96,
+   "prob": 0.39
+  },
+  {
+   "word": "white",
+   "start": 182.96,
+   "end": 182.96,
+   "prob": 0.031
+  },
+  {
+   "word": "forever",
+   "start": 182.96,
+   "end": 182.96,
+   "prob": 0.0
+  },
+  {
+   "word": "Brown",
+   "start": 182.96,
+   "end": 183.44,
+   "prob": 0.002
+  }
+ ],
+ "segments": [
+  {
+   "start": 8.52,
+   "end": 22.08,
+   "text": "Wipe and it's still there, wipe, wipe and it's still there Paper comes back dirty, dirty, dirty, dirty"
+  },
+  {
+   "start": 22.08,
+   "end": 29.98,
+   "text": "Brown, brown, brown, brown, brown Wipe and it's still there, wipe, wipe and it's still there"
+  },
+  {
+   "start": 30.98,
+   "end": 34.96,
+   "text": "Fence on residue stays"
+  },
+  {
+   "start": 36.9,
+   "end": 41.84,
+   "text": "Brown, brown, brown, brown, brown"
+  },
+  {
+   "start": 60.64,
+   "end": 64.98,
+   "text": "Sitting on the toilet, wipe, wipe Wipe once, still brown"
+  },
+  {
+   "start": 65.6,
+   "end": 70.28,
+   "text": "Fence on, wipe, wipe again Wipe and it's still there, never clean"
+  },
+  {
+   "start": 70.28,
+   "end": 76.98,
+   "text": "Wipe and it's still there, wipe, wipe Wipe and it's still there"
+  },
+  {
+   "start": 76.98,
+   "end": 81.08,
+   "text": "Endless white forever"
+  },
+  {
+   "start": 85.98,
+   "end": 88.98,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 95.52,
+   "end": 99.98,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 102.34,
+   "end": 105.98,
+   "text": "And from wide one never stops"
+  },
+  {
+   "start": 120.06,
+   "end": 123.18,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 124.68,
+   "end": 127.18,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 127.18,
+   "end": 130.18,
+   "text": "Paper comes back dirty"
+  },
+  {
+   "start": 132.36,
+   "end": 133.46,
+   "text": "Dirty"
+  },
+  {
+   "start": 133.46,
+   "end": 136.4,
+   "text": "Brown, brown, brown, brown, brown"
+  },
+  {
+   "start": 136.4,
+   "end": 138.0,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 138.0,
+   "end": 140.14,
+   "text": "Still there, still there"
+  },
+  {
+   "start": 140.14,
+   "end": 141.96,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 141.96,
+   "end": 144.18,
+   "text": "Still there, white and you're white"
+  },
+  {
+   "start": 144.18,
+   "end": 146.02,
+   "text": "Endless white forever"
+  },
+  {
+   "start": 157.18,
+   "end": 164.36,
+   "text": "White and you're still there"
+  },
+  {
+   "start": 164.36,
+   "end": 172.24,
+   "text": "Still there, white and you're white"
+  },
+  {
+   "start": 181.56,
+   "end": 182.96,
+   "text": "Endless white forever"
+  },
+  {
+   "start": 182.96,
+   "end": 183.44,
+   "text": "Brown"
+  }
+ ]
+}

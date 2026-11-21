@@ -1,0 +1,61 @@
+{
+ "take": "takes/mv18_s20_t1.mp4",
+ "words": [
+  {
+   "w": "Every",
+   "start": 0.0,
+   "end": 0.9,
+   "p": 0.803
+  },
+  {
+   "w": "cousin",
+   "start": 0.9,
+   "end": 1.38,
+   "p": 0.974
+  },
+  {
+   "w": "got",
+   "start": 1.38,
+   "end": 1.76,
+   "p": 0.988
+  },
+  {
+   "w": "a",
+   "start": 1.76,
+   "end": 1.98,
+   "p": 0.999
+  },
+  {
+   "w": "ping",
+   "start": 1.98,
+   "end": 2.4,
+   "p": 0.98
+  },
+  {
+   "w": "and",
+   "start": 2.4,
+   "end": 2.72,
+   "p": 0.979
+  },
+  {
+   "w": "a",
+   "start": 2.72,
+   "end": 2.9,
+   "p": 0.997
+  },
+  {
+   "w": "link",
+   "start": 2.9,
+   "end": 3.22,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.22,
+   "text": "Every cousin got a ping and a link",
+   "avg_logprob": -0.279
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s09-t1-0-50dd3854-70ed-4df2-a04b-0f57cbfa7a99.mp4",
+ "segments": [
+  {
+   "start": 0.86,
+   "end": 2.18,
+   "text": "You just saw the upload.",
+   "avg_logprob": -0.536,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " You",
+     "start": 0.86,
+     "end": 1.36,
+     "probability": 0.863
+    },
+    {
+     "word": " just",
+     "start": 1.36,
+     "end": 1.54,
+     "probability": 0.995
+    },
+    {
+     "word": " saw",
+     "start": 1.54,
+     "end": 1.74,
+     "probability": 0.999
+    },
+    {
+     "word": " the",
+     "start": 1.74,
+     "end": 1.84,
+     "probability": 0.998
+    },
+    {
+     "word": " upload.",
+     "start": 1.84,
+     "end": 2.18,
+     "probability": 0.984
+    }
+   ]
+  }
+ ]
+}

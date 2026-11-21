@@ -1,0 +1,50 @@
+{
+ "segment": 5,
+ "start": 66.76,
+ "end": 68.82,
+ "mix": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 66.76,
+    "end": 67.44,
+    "prob": 0.678
+   },
+   {
+    "word": "hits!",
+    "start": 67.44,
+    "end": 67.86,
+    "prob": 0.457
+   }
+  ],
+  "text": " Water hits!",
+  "wall_s": 19.7,
+  "score": {
+   "expected": 0,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 0,
+   "n_words": 2
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Whites!",
+    "start": 66.76,
+    "end": 67.82,
+    "prob": 0.451
+   }
+  ],
+  "text": " Whites!",
+  "wall_s": 23.5,
+  "score": {
+   "expected": 0,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 1,
+   "n_words": 1
+  }
+ },
+ "winner": "mix"
+}

@@ -1,0 +1,344 @@
+[
+ {
+  "n": 1,
+  "section": "V1",
+  "text": "Opened it slow and the light was already there",
+  "kind": "line",
+  "start": 7.54,
+  "end": 12.04,
+  "matched": "9/9",
+  "asr": "opened it slow and the light was already there"
+ },
+ {
+  "n": 2,
+  "section": "V1",
+  "text": "Closed it fast and I swear I heard it shut off",
+  "kind": "line",
+  "start": 12.8,
+  "end": 16.6,
+  "matched": "11/11",
+  "asr": "closed it fast and i swear i heard it shut off"
+ },
+ {
+  "n": 3,
+  "section": "V1",
+  "text": "Now I'm sitting on the floor with the door cracked open",
+  "kind": "line",
+  "start": 16.6,
+  "end": 20.78,
+  "matched": "11/11",
+  "asr": "now i'm sitting on the floor with the door cracked open"
+ },
+ {
+  "n": 4,
+  "section": "V1",
+  "text": "Waiting for proof that it only works when I'm looking",
+  "kind": "line",
+  "start": 20.78,
+  "end": 24.92,
+  "matched": "10/10",
+  "asr": "waiting for proof that it only works when i'm looking and",
+  "override": true
+ },
+ {
+  "n": 5,
+  "section": "PC1",
+  "text": "I checked, I checked",
+  "kind": "line",
+  "start": 24.92,
+  "end": 28.02,
+  "matched": "4/4",
+  "asr": "i checked, i checked",
+  "override": true
+ },
+ {
+  "n": 6,
+  "section": "PC1",
+  "text": "It was off, it was off",
+  "kind": "line",
+  "start": 28.02,
+  "end": 32.76,
+  "matched": "5/6",
+  "asr": "it was off it was on"
+ },
+ {
+  "n": 7,
+  "section": "C1",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 33.72,
+  "end": 38.12,
+  "matched": "12/12",
+  "asr": "why does the refrigerator light go off when i close the door?"
+ },
+ {
+  "n": 8,
+  "section": "C1",
+  "text": "Why does it go off",
+  "kind": "frag",
+  "start": 38.34,
+  "end": 40.38,
+  "matched": "5/5",
+  "asr": "why does it go off?"
+ },
+ {
+  "n": 9,
+  "section": "C1",
+  "text": "Why does that go off when I close the door",
+  "kind": "frag",
+  "start": 41.24,
+  "end": 42.36,
+  "matched": "10/10",
+  "asr": "why does that go off when i close to the door"
+ },
+ {
+  "n": 10,
+  "section": "C1",
+  "text": "I check twice",
+  "kind": "frag",
+  "start": 42.36,
+  "end": 43.46,
+  "matched": "3/3",
+  "asr": "i check twice"
+ },
+ {
+  "n": 11,
+  "section": "C1",
+  "text": "I check once",
+  "kind": "frag",
+  "start": 43.46,
+  "end": 44.44,
+  "matched": "3/3",
+  "asr": "i check once"
+ },
+ {
+  "n": 12,
+  "section": "C1",
+  "text": "And it's never on",
+  "kind": "line",
+  "start": 44.44,
+  "end": 46.64,
+  "matched": "4/4",
+  "asr": "and it's never on"
+ },
+ {
+  "n": 13,
+  "section": "C1",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 46.64,
+  "end": 51.34,
+  "matched": "10/12",
+  "asr": "why does this go off why does a refrigerator light go off when i close the doors?"
+ },
+ {
+  "n": 14,
+  "section": "V2",
+  "text": "Set up my phone and recorded the whole thing",
+  "kind": "line",
+  "start": 58.02,
+  "end": 63.24,
+  "matched": "9/9",
+  "asr": "set up my phone and recorded the whole thing"
+ },
+ {
+  "n": 15,
+  "section": "V2",
+  "text": "Played it back and the light only comes on when I open",
+  "kind": "line",
+  "start": 63.24,
+  "end": 67.36,
+  "matched": "12/12",
+  "asr": "played it back and the light only comes on when i open"
+ },
+ {
+  "n": 16,
+  "section": "V2",
+  "text": "Someone's turning it off the second I walk away",
+  "kind": "line",
+  "start": 67.36,
+  "end": 71.28,
+  "matched": "9/9",
+  "asr": "someone's turning it off the second i walk away"
+ },
+ {
+  "n": 17,
+  "section": "V2",
+  "text": "And I'm starting to think it's not just the fridge anymore",
+  "kind": "line",
+  "start": 71.28,
+  "end": 75.38,
+  "matched": "11/11",
+  "asr": "and i'm starting to think it's not just the fridge anymore"
+ },
+ {
+  "n": 18,
+  "section": "PC2",
+  "text": "I checked, I checked",
+  "kind": "line",
+  "start": 75.38,
+  "end": 79.2,
+  "matched": "4/4",
+  "asr": "i checked, i checked"
+ },
+ {
+  "n": 19,
+  "section": "PC2",
+  "text": "It was off, it was off",
+  "kind": "line",
+  "start": 79.2,
+  "end": 83.74,
+  "matched": "6/6",
+  "asr": "it was off, it was off"
+ },
+ {
+  "n": 20,
+  "section": "C2",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 84.5,
+  "end": 89.06,
+  "matched": "12/12",
+  "asr": "why does the refrigerator light go off when i close the door?"
+ },
+ {
+  "n": 21,
+  "section": "C2",
+  "text": "Why does it go off",
+  "kind": "frag",
+  "start": 89.24,
+  "end": 92.12,
+  "matched": "5/5",
+  "asr": "why does it go off?"
+ },
+ {
+  "n": 22,
+  "section": "C2",
+  "text": "I check twice, I check once",
+  "kind": "frag",
+  "start": 93.26,
+  "end": 95.4,
+  "matched": "6/6",
+  "asr": "i check twice, i check once"
+ },
+ {
+  "n": 23,
+  "section": "C2",
+  "text": "And it's never on",
+  "kind": "line",
+  "start": 95.4,
+  "end": 97.56,
+  "matched": "4/4",
+  "asr": "and it's never on"
+ },
+ {
+  "n": 24,
+  "section": "C2",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 97.56,
+  "end": 102.38,
+  "matched": "10/12",
+  "asr": "why does that refrigerator light go off when i close the doors?"
+ },
+ {
+  "n": 25,
+  "section": "BR",
+  "text": "I checked twice, I checked twice",
+  "kind": "line",
+  "start": 104.76,
+  "end": 108.64,
+  "matched": "2/6",
+  "asr": "i check times i check time"
+ },
+ {
+  "n": 26,
+  "section": "BR",
+  "text": "It was never on, it was never on",
+  "kind": "line",
+  "start": 108.64,
+  "end": 113.08,
+  "matched": "7/8",
+  "asr": "it was never on it was not on"
+ },
+ {
+  "n": 27,
+  "section": "BR",
+  "text": "When I close the door",
+  "kind": "line",
+  "start": 116.4,
+  "end": 119.3,
+  "matched": "5/5",
+  "asr": "when i close the door"
+ },
+ {
+  "n": 28,
+  "section": "C3",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 127.08,
+  "end": 131.5,
+  "matched": "12/12",
+  "asr": "why does the refrigerator light go off when i close the door?"
+ },
+ {
+  "n": 29,
+  "section": "C3",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 131.68,
+  "end": 135.68,
+  "matched": "12/12",
+  "asr": "why does the refrigerator light go off when i close the door?"
+ },
+ {
+  "n": 30,
+  "section": "C3",
+  "text": "I check twice, I check twice",
+  "kind": "frag",
+  "start": 135.9,
+  "end": 137.92,
+  "matched": "6/6",
+  "asr": "i check twice i check twice"
+ },
+ {
+  "n": 31,
+  "section": "C3",
+  "text": "And it's never on",
+  "kind": "line",
+  "start": 137.92,
+  "end": 140.04,
+  "matched": "4/4",
+  "asr": "and it's never on"
+ },
+ {
+  "n": 32,
+  "section": "C3",
+  "text": "Why does the refrigerator light go off when I close the door",
+  "kind": "line",
+  "start": 140.04,
+  "end": 144.7,
+  "matched": "12/12",
+  "asr": "why does the refrigerator light go off when i close the door"
+ },
+ {
+  "n": 33,
+  "section": "OUT",
+  "text": "Never on, never on",
+  "kind": "line",
+  "start": 148.68,
+  "end": 153.26,
+  "matched": "4/4",
+  "asr": "never run never run"
+ },
+ {
+  "n": 34,
+  "section": "OUT",
+  "text": "When I close the door",
+  "kind": "line",
+  "start": 153.26,
+  "end": 157.66,
+  "matched": "5/5",
+  "asr": "when i close the door"
+ }
+]

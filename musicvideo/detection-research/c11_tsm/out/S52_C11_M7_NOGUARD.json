@@ -1,0 +1,18 @@
+{
+ "take": "S52", "alpha": 1.0748, "sr": 16000,
+ "guard_hard": 0.5, "guard_op": 0.7, "guard_on": false,
+ "out_len": 50559, "out_len_s": 3.160, "runtime_s": 0.301,
+ "hit_max_abs_diff": 0,
+ "hit_centre_err_s": [0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000],
+ "gap_alphas": [1.093, 0.243, 2.200, 0.254, 2.556, 1.308, 1.526, 1.873],
+ "gaps": [
+  {"gap": 1, "kind": "inter", "alpha": 1.093, "in_s": [0.025, 0.455], "out_s": [0.025, 0.495], "flag": "none", "word_idx": 0, "word": "clip"},
+  {"gap": 2, "kind": "inter", "alpha": 0.243, "in_s": [0.505, 0.875], "out_s": [0.545, 0.635], "flag": "none", "word_idx": 1, "word": "it"},
+  {"gap": 3, "kind": "inter", "alpha": 2.200, "in_s": [0.925, 1.175], "out_s": [0.685, 1.235], "flag": "none", "word_idx": 2, "word": "post"},
+  {"gap": 4, "kind": "inter", "alpha": 0.254, "in_s": [1.225, 1.895], "out_s": [1.285, 1.455], "flag": "none", "word_idx": 3, "word": "it"},
+  {"gap": 5, "kind": "inter", "alpha": 2.556, "in_s": [1.945, 2.035], "out_s": [1.505, 1.735], "flag": "none", "word_idx": 4, "word": "help"},
+  {"gap": 6, "kind": "inter", "alpha": 1.308, "in_s": [2.085, 2.215], "out_s": [1.785, 1.955], "flag": "none", "word_idx": 5, "word": "me"},
+  {"gap": 7, "kind": "inter", "alpha": 1.526, "in_s": [2.265, 2.455], "out_s": [2.005, 2.295], "flag": "none", "word_idx": 6, "word": "stay"},
+  {"gap": 8, "kind": "tail", "alpha": 1.873, "in_s": [2.505, 2.940], "out_s": [2.345, 3.160], "flag": "none", "word_idx": 7, "word": "online"}
+ ]
+}

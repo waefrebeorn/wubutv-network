@@ -1,0 +1,74 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s50-t1-0-17a52bd8-6f12-4855-978a-9b814c81613d.mp4",
+ "segments": [
+  {
+   "start": 1.44,
+   "end": 2.64,
+   "text": "Keep the work.",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Keep",
+     "start": 1.44,
+     "end": 2.12,
+     "probability": 0.721
+    },
+    {
+     "word": " the",
+     "start": 2.12,
+     "end": 2.3,
+     "probability": 0.995
+    },
+    {
+     "word": " work.",
+     "start": 2.3,
+     "end": 2.64,
+     "probability": 0.986
+    }
+   ]
+  },
+  {
+   "start": 4.02,
+   "end": 4.92,
+   "text": "Keep the",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Keep",
+     "start": 4.02,
+     "end": 4.7,
+     "probability": 0.973
+    },
+    {
+     "word": " the",
+     "start": 4.7,
+     "end": 4.92,
+     "probability": 0.999
+    }
+   ]
+  },
+  {
+   "start": 4.92,
+   "end": 5.72,
+   "text": "work alive.",
+   "avg_logprob": -0.457,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " work",
+     "start": 4.92,
+     "end": 5.24,
+     "probability": 0.999
+    },
+    {
+     "word": " alive.",
+     "start": 5.24,
+     "end": 5.72,
+     "probability": 0.995
+    }
+   ]
+  }
+ ]
+}

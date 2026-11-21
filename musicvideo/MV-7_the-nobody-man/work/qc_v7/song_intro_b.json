@@ -1,0 +1,62 @@
+{
+ "track": "work/qc_v7/song_intro_b.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 7,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 0.44,
+   "prob": 0.841
+  },
+  {
+   "word": "the",
+   "start": 0.44,
+   "end": 0.56,
+   "prob": 0.93
+  },
+  {
+   "word": "nobody",
+   "start": 0.56,
+   "end": 1.16,
+   "prob": 0.746
+  },
+  {
+   "word": "man",
+   "start": 1.16,
+   "end": 2.06,
+   "prob": 0.977
+  },
+  {
+   "word": "I'm",
+   "start": 4.7,
+   "end": 5.4,
+   "prob": 0.645
+  },
+  {
+   "word": "nobody",
+   "start": 5.4,
+   "end": 6.12,
+   "prob": 0.931
+  },
+  {
+   "word": "man",
+   "start": 6.12,
+   "end": 6.98,
+   "prob": 0.923
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.06,
+   "text": "I'm the nobody man"
+  },
+  {
+   "start": 5.0,
+   "end": 6.98,
+   "text": "I'm nobody man"
+  }
+ ]
+}

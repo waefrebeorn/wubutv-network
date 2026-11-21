@@ -1,0 +1,80 @@
+{
+ "segment": 0,
+ "start": 14.13,
+ "end": 16.87,
+ "mix": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 14.13,
+    "end": 14.87,
+    "prob": 0.858
+   },
+   {
+    "word": "hits",
+    "start": 14.87,
+    "end": 15.17,
+    "prob": 0.976
+   },
+   {
+    "word": "my",
+    "start": 15.17,
+    "end": 15.53,
+    "prob": 0.993
+   },
+   {
+    "word": "balls",
+    "start": 15.53,
+    "end": 16.17,
+    "prob": 0.99
+   }
+  ],
+  "text": " Water hits my balls",
+  "wall_s": 18.2,
+  "score": {
+   "expected": 4,
+   "hit": 4,
+   "coverage": 1.0,
+   "non_lyric_words": 0,
+   "n_words": 4
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 14.13,
+    "end": 14.89,
+    "prob": 0.758
+   },
+   {
+    "word": "hits",
+    "start": 14.89,
+    "end": 15.19,
+    "prob": 0.965
+   },
+   {
+    "word": "my",
+    "start": 15.19,
+    "end": 15.55,
+    "prob": 0.991
+   },
+   {
+    "word": "balls",
+    "start": 15.55,
+    "end": 16.13,
+    "prob": 0.988
+   }
+  ],
+  "text": " Water hits my balls",
+  "wall_s": 20.5,
+  "score": {
+   "expected": 4,
+   "hit": 4,
+   "coverage": 1.0,
+   "non_lyric_words": 0,
+   "n_words": 4
+  }
+ },
+ "winner": "mix"
+}

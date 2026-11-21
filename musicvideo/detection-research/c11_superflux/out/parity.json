@@ -1,0 +1,23 @@
+{
+ "reference": "librosa 1.0.0 onset_strength(y, sr=16000, max_size=3), defaults otherwise",
+ "max_size_3": {
+  "n_frames": 5051,
+  "corr": 0.9999999999999835,
+  "affine_a": 0.9999999538538954,
+  "affine_b": 4.736501905226478e-09,
+  "max_abs_resid_after_affine": 3.689176166332686e-06,
+  "ref_max": 15.315592765808105,
+  "c11_max": 15.315590200549908
+ },
+ "max_size_1": {
+  "n_frames": 5051,
+  "corr": 0.970208131637601,
+  "affine_a": 0.705924461618382,
+  "affine_b": -0.3196971836379799,
+  "max_abs_resid_after_affine": 3.4491029071920796,
+  "ref_max": 17.262731552124023,
+  "c11_max": 15.315590200549908
+ },
+ "bar": "corr >= 0.999 (max_size=3)",
+ "pass": true
+}

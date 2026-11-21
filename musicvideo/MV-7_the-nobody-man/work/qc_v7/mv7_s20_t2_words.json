@@ -1,0 +1,115 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s20_t2_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 15,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 0.9,
+   "prob": 0.922
+  },
+  {
+   "word": "the",
+   "start": 0.9,
+   "end": 1.04,
+   "prob": 0.981
+  },
+  {
+   "word": "nobody",
+   "start": 1.04,
+   "end": 1.6,
+   "prob": 0.868
+  },
+  {
+   "word": "man.",
+   "start": 1.6,
+   "end": 2.18,
+   "prob": 0.771
+  },
+  {
+   "word": "Still",
+   "start": 2.94,
+   "end": 3.54,
+   "prob": 0.962
+  },
+  {
+   "word": "here,",
+   "start": 3.54,
+   "end": 3.98,
+   "prob": 0.94
+  },
+  {
+   "word": "still",
+   "start": 4.32,
+   "end": 4.5,
+   "prob": 0.983
+  },
+  {
+   "word": "stand.",
+   "start": 4.5,
+   "end": 5.1,
+   "prob": 0.99
+  },
+  {
+   "word": "I",
+   "start": 5.5,
+   "end": 5.64,
+   "prob": 0.996
+  },
+  {
+   "word": "post,",
+   "start": 5.64,
+   "end": 6.02,
+   "prob": 0.969
+  },
+  {
+   "word": "I",
+   "start": 6.44,
+   "end": 6.52,
+   "prob": 0.997
+  },
+  {
+   "word": "fade,",
+   "start": 6.52,
+   "end": 6.88,
+   "prob": 0.995
+  },
+  {
+   "word": "I",
+   "start": 7.26,
+   "end": 7.3,
+   "prob": 0.999
+  },
+  {
+   "word": "post",
+   "start": 7.3,
+   "end": 7.7,
+   "prob": 0.996
+  },
+  {
+   "word": "again.",
+   "start": 7.7,
+   "end": 8.12,
+   "prob": 0.989
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.18,
+   "text": "I'm the nobody man."
+  },
+  {
+   "start": 2.94,
+   "end": 5.1,
+   "text": "Still here, still stand."
+  },
+  {
+   "start": 5.5,
+   "end": 8.12,
+   "text": "I post, I fade, I post again."
+  }
+ ]
+}

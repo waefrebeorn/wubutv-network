@@ -1,0 +1,127 @@
+{
+ "take": "takes/mv20_s06_t1.mp4",
+ "words": [
+  {
+   "w": "Reached",
+   "start": 0.0,
+   "end": 0.46,
+   "p": 0.885
+  },
+  {
+   "w": "in",
+   "start": 0.46,
+   "end": 0.7,
+   "p": 0.997
+  },
+  {
+   "w": "for",
+   "start": 0.7,
+   "end": 0.9,
+   "p": 0.999
+  },
+  {
+   "w": "socks",
+   "start": 0.9,
+   "end": 1.42,
+   "p": 0.997
+  },
+  {
+   "w": "and",
+   "start": 1.42,
+   "end": 1.68,
+   "p": 0.938
+  },
+  {
+   "w": "pulled",
+   "start": 1.68,
+   "end": 2.08,
+   "p": 0.998
+  },
+  {
+   "w": "out",
+   "start": 2.08,
+   "end": 2.36,
+   "p": 0.999
+  },
+  {
+   "w": "a",
+   "start": 2.36,
+   "end": 2.62,
+   "p": 0.999
+  },
+  {
+   "w": "shirt",
+   "start": 2.62,
+   "end": 2.94,
+   "p": 0.999
+  },
+  {
+   "w": "Now",
+   "start": 2.94,
+   "end": 4.36,
+   "p": 0.498
+  },
+  {
+   "w": "I'm",
+   "start": 4.36,
+   "end": 4.9,
+   "p": 0.965
+  },
+  {
+   "w": "just",
+   "start": 4.9,
+   "end": 5.16,
+   "p": 0.998
+  },
+  {
+   "w": "digging",
+   "start": 5.16,
+   "end": 5.58,
+   "p": 0.774
+  },
+  {
+   "w": "like",
+   "start": 5.58,
+   "end": 6.04,
+   "p": 0.971
+  },
+  {
+   "w": "it's",
+   "start": 6.04,
+   "end": 6.38,
+   "p": 0.992
+  },
+  {
+   "w": "my",
+   "start": 6.38,
+   "end": 6.6,
+   "p": 0.999
+  },
+  {
+   "w": "only",
+   "start": 6.6,
+   "end": 7.08,
+   "p": 0.998
+  },
+  {
+   "w": "source",
+   "start": 7.08,
+   "end": 7.66,
+   "p": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.94,
+   "text": "Reached in for socks and pulled out a shirt",
+   "avg_logprob": -0.178
+  },
+  {
+   "start": 2.94,
+   "end": 7.66,
+   "text": "Now I'm just digging like it's my only source",
+   "avg_logprob": -0.178
+  }
+ ]
+}

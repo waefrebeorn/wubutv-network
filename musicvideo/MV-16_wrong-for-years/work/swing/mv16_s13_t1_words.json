@@ -1,0 +1,91 @@
+{
+ "take": "takes/mv16_s13_t1.mp4",
+ "words": [
+  {
+   "w": "Nobody",
+   "start": 0.0,
+   "end": 0.78,
+   "p": 0.879
+  },
+  {
+   "w": "stopped",
+   "start": 0.78,
+   "end": 1.18,
+   "p": 0.852
+  },
+  {
+   "w": "me,",
+   "start": 1.18,
+   "end": 1.74,
+   "p": 0.999
+  },
+  {
+   "w": "nobody",
+   "start": 1.96,
+   "end": 2.76,
+   "p": 0.936
+  },
+  {
+   "w": "stopped",
+   "start": 2.76,
+   "end": 3.24,
+   "p": 0.993
+  },
+  {
+   "w": "me",
+   "start": 3.24,
+   "end": 3.8,
+   "p": 1.0
+  },
+  {
+   "w": "Wrong",
+   "start": 3.8,
+   "end": 4.6,
+   "p": 0.425
+  },
+  {
+   "w": "for",
+   "start": 4.6,
+   "end": 4.98,
+   "p": 0.918
+  },
+  {
+   "w": "years,",
+   "start": 4.98,
+   "end": 5.78,
+   "p": 0.998
+  },
+  {
+   "w": "wrong",
+   "start": 6.18,
+   "end": 6.72,
+   "p": 0.997
+  },
+  {
+   "w": "for",
+   "start": 6.72,
+   "end": 7.16,
+   "p": 0.998
+  },
+  {
+   "w": "years",
+   "start": 7.16,
+   "end": 7.8,
+   "p": 0.992
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.8,
+   "text": "Nobody stopped me, nobody stopped me",
+   "avg_logprob": -0.336
+  },
+  {
+   "start": 3.8,
+   "end": 7.8,
+   "text": "Wrong for years, wrong for years",
+   "avg_logprob": -0.336
+  }
+ ]
+}

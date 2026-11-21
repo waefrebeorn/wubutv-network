@@ -1,0 +1,38 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s31-t1-0-14bf9ec9-1668-4eee-a6c4-afb1dc0700ef.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.74,
+   "text": "Take what's already there.",
+   "avg_logprob": -0.377,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Take",
+     "start": 0.0,
+     "end": 0.92,
+     "probability": 0.523
+    },
+    {
+     "word": " what's",
+     "start": 0.92,
+     "end": 1.16,
+     "probability": 0.988
+    },
+    {
+     "word": " already",
+     "start": 1.16,
+     "end": 1.4,
+     "probability": 0.998
+    },
+    {
+     "word": " there.",
+     "start": 1.4,
+     "end": 1.74,
+     "probability": 0.998
+    }
+   ]
+  }
+ ]
+}

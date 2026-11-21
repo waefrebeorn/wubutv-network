@@ -1,0 +1,44 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s46-t1-0-02ccaaa3-7a3b-4f34-baff-203f84ca3db2.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.16,
+   "text": "if you wanna help me.",
+   "avg_logprob": -0.502,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " if",
+     "start": 0.0,
+     "end": 0.94,
+     "probability": 0.413
+    },
+    {
+     "word": " you",
+     "start": 0.94,
+     "end": 1.1,
+     "probability": 0.999
+    },
+    {
+     "word": " wanna",
+     "start": 1.1,
+     "end": 1.38,
+     "probability": 0.623
+    },
+    {
+     "word": " help",
+     "start": 1.38,
+     "end": 1.78,
+     "probability": 0.996
+    },
+    {
+     "word": " me.",
+     "start": 1.78,
+     "end": 2.16,
+     "probability": 0.999
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: V6Line,DejaVu Sans,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.14,0:00:06.90,V6Line,,0,0,0,,{\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} poop, gotta poop, need to
+Dialogue: 0,0:00:06.90,0:00:07.32,V6Line,,0,0,0,,Gotta {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} gotta poop, need to
+Dialogue: 0,0:00:07.32,0:00:08.86,V6Line,,0,0,0,,Gotta poop, {\1c&H0000FFFF&}gotta{\1c&H00FFFFFF&} poop, need to
+Dialogue: 0,0:00:08.86,0:00:09.22,V6Line,,0,0,0,,Gotta poop, gotta {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} need to
+Dialogue: 0,0:00:09.22,0:00:09.60,V6Line,,0,0,0,,Gotta poop, gotta poop, {\1c&H0000FFFF&}need{\1c&H00FFFFFF&} to
+Dialogue: 0,0:00:09.60,0:00:10.07,V6Line,,0,0,0,,Gotta poop, gotta poop, need {\1c&H0000FFFF&}to{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:09.82,0:00:10.18,V6Line,,0,0,0,,{\1c&H0000FFFF&}go{\1c&H00FFFFFF&} right now Poop, poop, gotta
+Dialogue: 0,0:00:10.18,0:00:10.66,V6Line,,0,0,0,,go {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} now Poop, poop, gotta
+Dialogue: 0,0:00:10.66,0:00:11.20,V6Line,,0,0,0,,go right {\1c&H0000FFFF&}now{\1c&H00FFFFFF&} Poop, poop, gotta
+Dialogue: 0,0:00:11.20,0:00:11.86,V6Line,,0,0,0,,go right now {\1c&H0000FFFF&}Poop,{\1c&H00FFFFFF&} poop, gotta
+Dialogue: 0,0:00:11.86,0:00:12.14,V6Line,,0,0,0,,go right now Poop, {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} gotta
+Dialogue: 0,0:00:12.14,0:00:12.77,V6Line,,0,0,0,,go right now Poop, poop, {\1c&H0000FFFF&}gotta{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:12.52,0:00:14.10,V6Line,,0,0,0,,{\1c&H0000FFFF&}go!{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:16.84,0:00:17.60,V6Line,,0,0,0,,{\1c&H0000FFFF&}Can't{\1c&H00FFFFFF&} hold it Poop,
+Dialogue: 0,0:00:17.60,0:00:18.06,V6Line,,0,0,0,,Can't {\1c&H0000FFFF&}hold{\1c&H00FFFFFF&} it Poop,
+Dialogue: 0,0:00:18.06,0:00:18.44,V6Line,,0,0,0,,Can't hold {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} Poop,
+Dialogue: 0,0:00:18.44,0:00:19.64,V6Line,,0,0,0,,Can't hold it {\1c&H0000FFFF&}Poop,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:19.64,0:00:20.08,V6Line,,0,0,0,,{\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} poop, poop, poop! Gotta poop!
+Dialogue: 0,0:00:20.08,0:00:20.22,V6Line,,0,0,0,,poop, {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} poop, poop! Gotta poop!
+Dialogue: 0,0:00:20.22,0:00:20.62,V6Line,,0,0,0,,poop, poop, {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} poop! Gotta poop!
+Dialogue: 0,0:00:20.62,0:00:21.80,V6Line,,0,0,0,,poop, poop, poop, {\1c&H0000FFFF&}poop!{\1c&H00FFFFFF&} Gotta poop!
+Dialogue: 0,0:00:21.80,0:00:22.02,V6Line,,0,0,0,,poop, poop, poop, poop! {\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} poop!
+Dialogue: 0,0:00:22.02,0:00:23.09,V6Line,,0,0,0,,poop, poop, poop, poop! Gotta {\1c&H0000FFFF&}poop!{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:22.84,0:00:24.08,V6Line,,0,0,0,,{\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} poop
+Dialogue: 0,0:00:24.08,0:00:25.94,V6Line,,0,0,0,,Gotta {\1c&H0000FFFF&}poop{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:28.64,0:00:29.80,V6Line,,0,0,0,,{\1c&H0000FFFF&}Stomach{\1c&H00FFFFFF&} hurts
+Dialogue: 0,0:00:29.80,0:00:32.00,V6Line,,0,0,0,,Stomach {\1c&H0000FFFF&}hurts{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:32.00,0:00:33.16,V6Line,,0,0,0,,{\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} go right now Gotta poop
+Dialogue: 0,0:00:33.16,0:00:33.48,V6Line,,0,0,0,,Gotta {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} right now Gotta poop
+Dialogue: 0,0:00:33.48,0:00:34.00,V6Line,,0,0,0,,Gotta go {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} now Gotta poop
+Dialogue: 0,0:00:34.00,0:00:34.58,V6Line,,0,0,0,,Gotta go right {\1c&H0000FFFF&}now{\1c&H00FFFFFF&} Gotta poop
+Dialogue: 0,0:00:34.58,0:00:35.14,V6Line,,0,0,0,,Gotta go right now {\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} poop
+Dialogue: 0,0:00:35.14,0:00:40.48,V6Line,,0,0,0,,Gotta go right now Gotta {\1c&H0000FFFF&}poop{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:40.48,0:00:41.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}Right{\1c&H00FFFFFF&} now Gotta poop, gotta poop
+Dialogue: 0,0:00:41.64,0:00:42.30,V6Line,,0,0,0,,Right {\1c&H0000FFFF&}now{\1c&H00FFFFFF&} Gotta poop, gotta poop
+Dialogue: 0,0:00:42.30,0:00:44.38,V6Line,,0,0,0,,Right now {\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} poop, gotta poop
+Dialogue: 0,0:00:44.38,0:00:46.18,V6Line,,0,0,0,,Right now Gotta {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} gotta poop
+Dialogue: 0,0:00:46.18,0:00:46.68,V6Line,,0,0,0,,Right now Gotta poop, {\1c&H0000FFFF&}gotta{\1c&H00FFFFFF&} poop
+Dialogue: 0,0:00:46.68,0:00:47.29,V6Line,,0,0,0,,Right now Gotta poop, gotta {\1c&H0000FFFF&}poop{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:47.04,0:00:47.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} poop, gotta poop Gotta go
+Dialogue: 0,0:00:47.64,0:00:48.14,V6Line,,0,0,0,,Gotta {\1c&H0000FFFF&}poop,{\1c&H00FFFFFF&} gotta poop Gotta go
+Dialogue: 0,0:00:48.14,0:00:48.14,V6Line,,0,0,0,,Gotta poop, {\1c&H0000FFFF&}gotta{\1c&H00FFFFFF&} poop Gotta go
+Dialogue: 0,0:00:48.14,0:00:48.14,V6Line,,0,0,0,,Gotta poop, gotta {\1c&H0000FFFF&}poop{\1c&H00FFFFFF&} Gotta go
+Dialogue: 0,0:00:48.14,0:00:48.50,V6Line,,0,0,0,,Gotta poop, gotta poop {\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} go
+Dialogue: 0,0:00:48.50,0:00:48.99,V6Line,,0,0,0,,Gotta poop, gotta poop Gotta {\1c&H0000FFFF&}go{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:48.74,0:00:49.32,V6Line,,0,0,0,,{\1c&H0000FFFF&}right{\1c&H00FFFFFF&} now Gotta go Gotta, gotta,
+Dialogue: 0,0:00:49.32,0:00:49.96,V6Line,,0,0,0,,right {\1c&H0000FFFF&}now{\1c&H00FFFFFF&} Gotta go Gotta, gotta,
+Dialogue: 0,0:00:49.96,0:00:50.36,V6Line,,0,0,0,,right now {\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} go Gotta, gotta,
+Dialogue: 0,0:00:50.36,0:00:51.60,V6Line,,0,0,0,,right now Gotta {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} Gotta, gotta,
+Dialogue: 0,0:00:51.60,0:00:52.08,V6Line,,0,0,0,,right now Gotta go {\1c&H0000FFFF&}Gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:00:52.08,0:00:53.15,V6Line,,0,0,0,,right now Gotta go Gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:52.92,0:00:54.08,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:00:54.08,0:00:54.56,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:00:54.56,0:00:54.66,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:00:54.66,0:00:55.26,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:00:55.26,0:00:55.56,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:00:55.56,0:00:55.91,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:55.78,0:00:55.84,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:00:55.84,0:00:56.66,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:00:56.66,0:00:57.04,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:00:57.04,0:01:00.96,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:00.96,0:01:05.32,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:05.32,0:01:05.67,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:05.42,0:01:07.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:07.40,0:01:09.22,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:09.22,0:01:10.60,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:10.60,0:01:10.70,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:10.70,0:01:10.70,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:10.70,0:01:10.97,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:10.72,0:01:10.98,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:10.98,0:01:11.04,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:11.04,0:01:11.04,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:11.04,0:01:11.04,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:11.04,0:01:11.10,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:11.10,0:01:11.35,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:11.12,0:01:11.12,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:11.12,0:01:11.72,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:11.72,0:01:11.72,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:11.72,0:01:12.02,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:12.02,0:01:12.10,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:12.10,0:01:12.75,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:12.50,0:01:12.50,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:12.50,0:01:12.66,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:12.66,0:01:12.98,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:12.98,0:01:13.26,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:13.26,0:01:20.40,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:20.40,0:01:20.65,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:20.42,0:01:20.60,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:20.60,0:01:20.82,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:20.82,0:01:21.10,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.10,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta, gotta,
+Dialogue: 0,0:01:21.54,0:01:21.54,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta,
+Dialogue: 0,0:01:21.54,0:01:21.79,V6Line,,0,0,0,,gotta, gotta, gotta, gotta, gotta, {\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:21.54,0:01:21.56,V6Line,,0,0,0,,{\1c&H0000FFFF&}gotta,{\1c&H00FFFFFF&} gotta Gotta go
+Dialogue: 0,0:01:21.56,0:01:21.58,V6Line,,0,0,0,,gotta, {\1c&H0000FFFF&}gotta{\1c&H00FFFFFF&} Gotta go
+Dialogue: 0,0:01:21.58,0:01:22.10,V6Line,,0,0,0,,gotta, gotta {\1c&H0000FFFF&}Gotta{\1c&H00FFFFFF&} go
+Dialogue: 0,0:01:22.10,0:01:23.60,V6Line,,0,0,0,,gotta, gotta Gotta {\1c&H0000FFFF&}go{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:25.98,0:01:26.86,V6Line,,0,0,0,,{\1c&H0000FFFF&}Need{\1c&H00FFFFFF&} to go right now
+Dialogue: 0,0:01:26.86,0:01:27.08,V6Line,,0,0,0,,Need {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} go right now
+Dialogue: 0,0:01:27.08,0:01:27.48,V6Line,,0,0,0,,Need to {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} right now
+Dialogue: 0,0:01:27.48,0:01:27.92,V6Line,,0,0,0,,Need to go {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} now
+Dialogue: 0,0:01:27.92,0:01:29.70,V6Line,,0,0,0,,Need to go right {\1c&H0000FFFF&}now{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:33.66,0:01:34.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}Need{\1c&H00FFFFFF&} to go right now
+Dialogue: 0,0:01:34.54,0:01:34.76,V6Line,,0,0,0,,Need {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} go right now
+Dialogue: 0,0:01:34.76,0:01:35.20,V6Line,,0,0,0,,Need to {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} right now
+Dialogue: 0,0:01:35.20,0:01:35.58,V6Line,,0,0,0,,Need to go {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} now
+Dialogue: 0,0:01:35.58,0:01:37.42,V6Line,,0,0,0,,Need to go right {\1c&H0000FFFF&}now{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:57.82,0:01:59.58,V6Line,,0,0,0,,{\1c&H0000FFFF&}Poop!{\1c&H00FFFFFF&}

@@ -1,0 +1,43 @@
+{
+ "label": "MASTER",
+ "audio": {
+  "median_dbfs": -36.5,
+  "t50_s": 1.0,
+  "t90_s": 2.3000000000000003,
+  "lead_silence_s": 0.0,
+  "head_db_0_1s": -18.0,
+  "a3_delta_db": 18.5,
+  "accent_db_first_0.5s": -17.1,
+  "crackle_head": 0,
+  "crackle_ctrl": 0
+ },
+ "video": {
+  "mae_buckets_0.25s": [
+   4.64,
+   9.08,
+   11.19,
+   9.82,
+   8.94,
+   9.85,
+   8.02,
+   6.53,
+   6.23,
+   5.46,
+   5.28,
+   5.52
+  ],
+  "baseline_mae_3_10s": 4.15,
+  "motion_0_0.5s": 6.86,
+  "v1_ratio": 1.65,
+  "v2_first_bucket": 4.64,
+  "v2_ok": true
+ },
+ "gate": {
+  "A1": false,
+  "A2": true,
+  "A3": true,
+  "A4": true,
+  "V1": true,
+  "V2": true
+ }
+}

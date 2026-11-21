@@ -1,0 +1,639 @@
+{
+ "take": "mv5_s05_t1.mp4",
+ "take_duration_s": 9.003,
+ "prompted_line": "Rolling past the pier, I was posted up right here, now you're pulling near, backpack half-zipped",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 31.48-40.44",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Rolling",
+    0.0,
+    0.54
+   ],
+   [
+    "past",
+    0.54,
+    0.98
+   ],
+   [
+    "the",
+    0.98,
+    1.32
+   ],
+   [
+    "pier",
+    1.32,
+    1.74
+   ],
+   [
+    "I",
+    2.62,
+    3.06
+   ],
+   [
+    "was",
+    3.06,
+    3.26
+   ],
+   [
+    "posted",
+    3.26,
+    3.7
+   ],
+   [
+    "up",
+    3.7,
+    3.98
+   ],
+   [
+    "right",
+    3.98,
+    4.26
+   ],
+   [
+    "here",
+    4.26,
+    4.8
+   ],
+   [
+    "Now",
+    4.8,
+    5.4
+   ],
+   [
+    "you're",
+    5.4,
+    5.68
+   ],
+   [
+    "pulling",
+    5.68,
+    6.02
+   ],
+   [
+    "near",
+    6.02,
+    6.56
+   ],
+   [
+    "Backpack",
+    6.56,
+    7.7
+   ],
+   [
+    "half",
+    7.7,
+    8.18
+   ],
+   [
+    "zipped",
+    8.18,
+    8.72
+   ]
+  ],
+  "prompted": [
+   [
+    "Rolling",
+    0.0,
+    0.54
+   ],
+   [
+    "past",
+    0.54,
+    0.98
+   ],
+   [
+    "the",
+    0.98,
+    1.32
+   ],
+   [
+    "pier,",
+    1.32,
+    1.76
+   ],
+   [
+    "I",
+    2.8,
+    3.08
+   ],
+   [
+    "was",
+    3.08,
+    3.26
+   ],
+   [
+    "posted",
+    3.26,
+    3.7
+   ],
+   [
+    "up",
+    3.7,
+    3.98
+   ],
+   [
+    "right",
+    3.98,
+    4.26
+   ],
+   [
+    "here,",
+    4.26,
+    4.82
+   ],
+   [
+    "now",
+    5.16,
+    5.42
+   ],
+   [
+    "you're",
+    5.42,
+    5.68
+   ],
+   [
+    "pulling",
+    5.68,
+    6.02
+   ],
+   [
+    "near,",
+    6.02,
+    6.5
+   ],
+   [
+    "backpack",
+    7.14,
+    7.6
+   ],
+   [
+    "half",
+    7.6,
+    8.22
+   ],
+   [
+    "-zipped",
+    8.22,
+    8.7
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 0.956,
+ "words": [
+  {
+   "song_word": "Rolling",
+   "song_start": 31.84,
+   "song_end": 32.36,
+   "take_word": "Rolling",
+   "take_start": 0.0,
+   "take_end": 0.54,
+   "source": "unprompted",
+   "raw_offset": -31.84,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.54,
+    "song_interval_s": 0.52,
+    "playback_speed": 1.038,
+    "setpts_factor": 0.963,
+    "spans_song_words": 1
+   },
+   "verdict": "GOOD",
+   "notes": []
+  },
+  {
+   "song_word": "past",
+   "song_start": 32.36,
+   "song_end": 32.72,
+   "take_word": "past",
+   "take_start": 0.54,
+   "take_end": 0.98,
+   "source": "unprompted",
+   "raw_offset": -31.82,
+   "swing_offset": 0.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.44,
+    "song_interval_s": 0.36,
+    "playback_speed": 1.222,
+    "setpts_factor": 0.8182,
+    "spans_song_words": 1
+   },
+   "verdict": "GOOD",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 32.72,
+   "song_end": 33.1,
+   "take_word": "the",
+   "take_start": 0.98,
+   "take_end": 1.32,
+   "source": "unprompted",
+   "raw_offset": -31.74,
+   "swing_offset": 0.1,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.34,
+    "song_interval_s": 0.38,
+    "playback_speed": 0.895,
+    "setpts_factor": 1.1176,
+    "spans_song_words": 1
+   },
+   "verdict": "GOOD",
+   "notes": []
+  },
+  {
+   "song_word": "pier",
+   "song_start": 33.1,
+   "song_end": 33.62,
+   "take_word": "pier",
+   "take_start": 1.32,
+   "take_end": 1.74,
+   "source": "unprompted",
+   "raw_offset": -31.78,
+   "swing_offset": 0.06,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.3,
+    "song_interval_s": 0.52,
+    "playback_speed": 2.5,
+    "setpts_factor": 0.4,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "I",
+   "song_start": 33.62,
+   "song_end": 34.18,
+   "take_word": "I",
+   "take_start": 2.62,
+   "take_end": 3.06,
+   "source": "unprompted",
+   "raw_offset": -31.0,
+   "swing_offset": 0.84,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.44,
+    "song_interval_s": 0.56,
+    "playback_speed": 0.786,
+    "setpts_factor": 1.2727,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "was",
+   "song_start": 34.18,
+   "song_end": 34.32,
+   "take_word": "was",
+   "take_start": 3.06,
+   "take_end": 3.26,
+   "source": "unprompted",
+   "raw_offset": -31.12,
+   "swing_offset": 0.72,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.2,
+    "song_interval_s": 0.14,
+    "playback_speed": 1.429,
+    "setpts_factor": 0.7,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "posted",
+   "song_start": 34.32,
+   "song_end": 34.7,
+   "take_word": "posted",
+   "take_start": 3.26,
+   "take_end": 3.7,
+   "source": "unprompted",
+   "raw_offset": -31.06,
+   "swing_offset": 0.78,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.44,
+    "song_interval_s": 0.38,
+    "playback_speed": 1.158,
+    "setpts_factor": 0.8636,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "up",
+   "song_start": 34.7,
+   "song_end": 35.0,
+   "take_word": "up",
+   "take_start": 3.7,
+   "take_end": 3.98,
+   "source": "unprompted",
+   "raw_offset": -31.0,
+   "swing_offset": 0.84,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.28,
+    "song_interval_s": 0.3,
+    "playback_speed": 0.933,
+    "setpts_factor": 1.0714,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "right",
+   "song_start": 35.0,
+   "song_end": 35.28,
+   "take_word": "right",
+   "take_start": 3.98,
+   "take_end": 4.26,
+   "source": "unprompted",
+   "raw_offset": -31.02,
+   "swing_offset": 0.82,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.28,
+    "song_interval_s": 0.28,
+    "playback_speed": 1.0,
+    "setpts_factor": 1.0,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "here",
+   "song_start": 35.28,
+   "song_end": 36.1,
+   "take_word": "here",
+   "take_start": 4.26,
+   "take_end": 4.8,
+   "source": "unprompted",
+   "raw_offset": -31.02,
+   "swing_offset": 0.82,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.54,
+    "song_interval_s": 0.84,
+    "playback_speed": 0.643,
+    "setpts_factor": 1.5556,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Now",
+   "song_start": 36.12,
+   "song_end": 36.84,
+   "take_word": "Now",
+   "take_start": 4.8,
+   "take_end": 5.4,
+   "source": "unprompted",
+   "raw_offset": -31.32,
+   "swing_offset": 0.52,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.6,
+    "song_interval_s": 0.72,
+    "playback_speed": 0.833,
+    "setpts_factor": 1.2,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "you're",
+   "song_start": 36.84,
+   "song_end": 37.18,
+   "take_word": "you're",
+   "take_start": 5.4,
+   "take_end": 5.68,
+   "source": "unprompted",
+   "raw_offset": -31.44,
+   "swing_offset": 0.4,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.28,
+    "song_interval_s": 0.34,
+    "playback_speed": 0.824,
+    "setpts_factor": 1.2143,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "pulling",
+   "song_start": 37.18,
+   "song_end": 37.5,
+   "take_word": "pulling",
+   "take_start": 5.68,
+   "take_end": 6.02,
+   "source": "unprompted",
+   "raw_offset": -31.5,
+   "swing_offset": 0.34,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.34,
+    "song_interval_s": 0.32,
+    "playback_speed": 1.062,
+    "setpts_factor": 0.9412,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "near",
+   "song_start": 37.5,
+   "song_end": 38.62,
+   "take_word": "near",
+   "take_start": 6.02,
+   "take_end": 6.56,
+   "source": "unprompted",
+   "raw_offset": -31.48,
+   "swing_offset": 0.36,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.54,
+    "song_interval_s": 1.12,
+    "playback_speed": 0.482,
+    "setpts_factor": 2.0741,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-out-of-caps",
+   "notes": [
+    "interval needs playback 0.48x \u2014 past the 2x-slow cap; montage, never stretch"
+   ]
+  },
+  {
+   "song_word": "Backpack",
+   "song_start": 38.62,
+   "song_end": 39.32,
+   "take_word": "Backpack",
+   "take_start": 6.56,
+   "take_end": 7.7,
+   "source": "unprompted",
+   "raw_offset": -32.06,
+   "swing_offset": -0.22,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.14,
+    "song_interval_s": 0.7,
+    "playback_speed": 1.629,
+    "setpts_factor": 0.614,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "half-zipped",
+   "song_start": 39.32,
+   "song_end": 39.66,
+   "take_word": "half",
+   "take_start": 7.7,
+   "take_end": 8.18,
+   "source": "unprompted",
+   "raw_offset": -31.62,
+   "swing_offset": 0.22,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.48,
+    "song_interval_s": 0.34,
+    "playback_speed": 1.412,
+    "setpts_factor": 0.7083,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-wrong",
+   "notes": [
+    "take sings 'half' here"
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "word": "zipped",
+   "start": 8.18,
+   "end": 8.72,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "Rolling",
+   "song_time": 31.84,
+   "take_time": 0.0
+  },
+  {
+   "word": "past",
+   "song_time": 32.36,
+   "take_time": 0.54
+  },
+  {
+   "word": "the",
+   "song_time": 32.72,
+   "take_time": 0.98
+  },
+  {
+   "word": "pier",
+   "song_time": 33.1,
+   "take_time": 1.32
+  },
+  {
+   "word": "I",
+   "song_time": 33.62,
+   "take_time": 2.62
+  },
+  {
+   "word": "was",
+   "song_time": 34.18,
+   "take_time": 3.06
+  },
+  {
+   "word": "posted",
+   "song_time": 34.32,
+   "take_time": 3.26
+  },
+  {
+   "word": "up",
+   "song_time": 34.7,
+   "take_time": 3.7
+  },
+  {
+   "word": "right",
+   "song_time": 35.0,
+   "take_time": 3.98
+  },
+  {
+   "word": "here",
+   "song_time": 35.28,
+   "take_time": 4.26
+  },
+  {
+   "word": "Now",
+   "song_time": 36.12,
+   "take_time": 4.8
+  },
+  {
+   "word": "you're",
+   "song_time": 36.84,
+   "take_time": 5.4
+  },
+  {
+   "word": "pulling",
+   "song_time": 37.18,
+   "take_time": 5.68
+  },
+  {
+   "word": "Backpack",
+   "song_time": 38.62,
+   "take_time": 6.56
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "near"
+   ],
+   "span_song": [
+    37.5,
+    38.62
+   ],
+   "cut_out_beat": 37.268,
+   "return_onset": 38.62,
+   "return_beat": 39.01,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "half-zipped"
+   ],
+   "span_song": [
+    39.32,
+    39.66
+   ],
+   "cut_out_beat": 39.01,
+   "return_onset": null,
+   "return_beat": 40.147,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "GOOD": 3,
+  "WARPABLE": 11,
+  "BAD-out-of-caps": 1,
+  "BAD-wrong": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

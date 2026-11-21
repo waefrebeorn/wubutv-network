@@ -1,0 +1,40 @@
+{
+ "track": "work/otaku_qc/U30_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 4,
+ "words": [
+  {
+   "word": "Thank",
+   "start": 0.0,
+   "end": 0.8,
+   "prob": 0.001
+  },
+  {
+   "word": "you",
+   "start": 0.8,
+   "end": 8.22,
+   "prob": 0.907
+  },
+  {
+   "word": "for",
+   "start": 8.22,
+   "end": 9.92,
+   "prob": 0.316
+  },
+  {
+   "word": "watching!",
+   "start": 9.92,
+   "end": 9.92,
+   "prob": 0.783
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.92,
+   "text": "Thank you for watching!"
+  }
+ ]
+}

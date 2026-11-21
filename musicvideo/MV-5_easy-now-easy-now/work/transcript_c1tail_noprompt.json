@@ -1,0 +1,191 @@
+{
+ "tag": "c1tail",
+ "t0": 75.0,
+ "segments": [
+  {
+   "start": 75.0,
+   "end": 76.8,
+   "text": "Just two small sparks",
+   "words": [
+    {
+     "word": " Just",
+     "start": 75.0,
+     "end": 75.38,
+     "prob": 0.572
+    },
+    {
+     "word": " two",
+     "start": 75.38,
+     "end": 75.68,
+     "prob": 0.573
+    },
+    {
+     "word": " small",
+     "start": 75.68,
+     "end": 76.18,
+     "prob": 0.914
+    },
+    {
+     "word": " sparks",
+     "start": 76.18,
+     "end": 76.8,
+     "prob": 0.42
+    }
+   ]
+  },
+  {
+   "start": 76.8,
+   "end": 78.76,
+   "text": "I gotta go there again",
+   "words": [
+    {
+     "word": " I",
+     "start": 76.8,
+     "end": 76.98,
+     "prob": 0.076
+    },
+    {
+     "word": " gotta",
+     "start": 76.98,
+     "end": 77.58,
+     "prob": 0.351
+    },
+    {
+     "word": " go",
+     "start": 77.58,
+     "end": 78.04,
+     "prob": 0.32
+    },
+    {
+     "word": " there",
+     "start": 78.04,
+     "end": 78.34,
+     "prob": 0.54
+    },
+    {
+     "word": " again",
+     "start": 78.34,
+     "end": 78.76,
+     "prob": 0.329
+    }
+   ]
+  },
+  {
+   "start": 78.76,
+   "end": 81.76,
+   "text": "I gotta go there just two small sparks",
+   "words": [
+    {
+     "word": " I",
+     "start": 78.76,
+     "end": 79.16,
+     "prob": 0.674
+    },
+    {
+     "word": " gotta",
+     "start": 79.16,
+     "end": 79.38,
+     "prob": 0.894
+    },
+    {
+     "word": " go",
+     "start": 79.38,
+     "end": 79.64,
+     "prob": 0.589
+    },
+    {
+     "word": " there",
+     "start": 79.64,
+     "end": 79.76,
+     "prob": 0.667
+    },
+    {
+     "word": " just",
+     "start": 79.76,
+     "end": 79.98,
+     "prob": 0.44
+    },
+    {
+     "word": " two",
+     "start": 79.98,
+     "end": 80.32,
+     "prob": 0.978
+    },
+    {
+     "word": " small",
+     "start": 80.32,
+     "end": 80.76,
+     "prob": 0.992
+    },
+    {
+     "word": " sparks",
+     "start": 80.76,
+     "end": 81.76,
+     "prob": 0.993
+    }
+   ]
+  },
+  {
+   "start": 81.76,
+   "end": 83.14,
+   "text": "I gotta go there",
+   "words": [
+    {
+     "word": " I",
+     "start": 81.76,
+     "end": 82.18,
+     "prob": 0.105
+    },
+    {
+     "word": " gotta",
+     "start": 82.18,
+     "end": 83.14,
+     "prob": 0.884
+    },
+    {
+     "word": " go",
+     "start": 83.14,
+     "end": 83.14,
+     "prob": 0.977
+    },
+    {
+     "word": " there",
+     "start": 83.14,
+     "end": 83.14,
+     "prob": 0.976
+    }
+   ]
+  },
+  {
+   "start": 83.14,
+   "end": 85.2,
+   "text": "Just two small sparks",
+   "words": [
+    {
+     "word": " Just",
+     "start": 83.14,
+     "end": 83.14,
+     "prob": 0.179
+    },
+    {
+     "word": " two",
+     "start": 83.14,
+     "end": 83.62,
+     "prob": 0.988
+    },
+    {
+     "word": " small",
+     "start": 83.62,
+     "end": 84.14,
+     "prob": 0.987
+    },
+    {
+     "word": " sparks",
+     "start": 84.14,
+     "end": 85.2,
+     "prob": 0.992
+    }
+   ]
+  }
+ ]
+}

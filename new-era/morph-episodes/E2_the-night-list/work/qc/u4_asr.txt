@@ -1,0 +1,200 @@
+== u4.mp4
+[
+ {
+  "start": 0.8,
+  "end": 2.26,
+  "text": "Peter's bed pays tonight.",
+  "avg_logprob": -0.322,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Peter's",
+    "start": 0.8,
+    "end": 1.32,
+    "probability": 0.872
+   },
+   {
+    "word": " bed",
+    "start": 1.32,
+    "end": 1.54,
+    "probability": 0.932
+   },
+   {
+    "word": " pays",
+    "start": 1.54,
+    "end": 1.98,
+    "probability": 0.554
+   },
+   {
+    "word": " tonight.",
+    "start": 1.98,
+    "end": 2.26,
+    "probability": 0.987
+   }
+  ]
+ },
+ {
+  "start": 2.48,
+  "end": 4.48,
+  "text": "Last rule, carrying hands hold no money.",
+  "avg_logprob": -0.322,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Last",
+    "start": 2.48,
+    "end": 2.84,
+    "probability": 0.982
+   },
+   {
+    "word": " rule,",
+    "start": 2.84,
+    "end": 3.1,
+    "probability": 0.995
+   },
+   {
+    "word": " carrying",
+    "start": 3.24,
+    "end": 3.48,
+    "probability": 0.988
+   },
+   {
+    "word": " hands",
+    "start": 3.48,
+    "end": 3.82,
+    "probability": 0.998
+   },
+   {
+    "word": " hold",
+    "start": 3.82,
+    "end": 4.04,
+    "probability": 0.963
+   },
+   {
+    "word": " no",
+    "start": 4.04,
+    "end": 4.22,
+    "probability": 0.999
+   },
+   {
+    "word": " money.",
+    "start": 4.22,
+    "end": 4.48,
+    "probability": 1.0
+   }
+  ]
+ },
+ {
+  "start": 4.76,
+  "end": 6.34,
+  "text": "These hands weren't at that board.",
+  "avg_logprob": -0.322,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " These",
+    "start": 4.76,
+    "end": 5.28,
+    "probability": 0.912
+   },
+   {
+    "word": " hands",
+    "start": 5.28,
+    "end": 5.52,
+    "probability": 0.998
+   },
+   {
+    "word": " weren't",
+    "start": 5.52,
+    "end": 5.8,
+    "probability": 0.997
+   },
+   {
+    "word": " at",
+    "start": 5.8,
+    "end": 5.9,
+    "probability": 0.981
+   },
+   {
+    "word": " that",
+    "start": 5.9,
+    "end": 6.06,
+    "probability": 0.998
+   },
+   {
+    "word": " board.",
+    "start": 6.06,
+    "end": 6.34,
+    "probability": 0.99
+   }
+  ]
+ },
+ {
+  "start": 6.68,
+  "end": 7.74,
+  "text": "Elias wants it.",
+  "avg_logprob": -0.322,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Elias",
+    "start": 6.68,
+    "end": 7.2,
+    "probability": 0.882
+   },
+   {
+    "word": " wants",
+    "start": 7.2,
+    "end": 7.46,
+    "probability": 0.995
+   },
+   {
+    "word": " it.",
+    "start": 7.46,
+    "end": 7.74,
+    "probability": 0.999
+   }
+  ]
+ },
+ {
+  "start": 8.02,
+  "end": 9.46,
+  "text": "Peter's hands carried never spoke.",
+  "avg_logprob": -0.322,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Peter's",
+    "start": 8.02,
+    "end": 8.28,
+    "probability": 0.983
+   },
+   {
+    "word": " hands",
+    "start": 8.28,
+    "end": 8.48,
+    "probability": 0.936
+   },
+   {
+    "word": " carried",
+    "start": 8.48,
+    "end": 8.82,
+    "probability": 0.964
+   },
+   {
+    "word": " never",
+    "start": 8.82,
+    "end": 9.06,
+    "probability": 0.856
+   },
+   {
+    "word": " spoke.",
+    "start": 9.06,
+    "end": 9.46,
+    "probability": 1.0
+   }
+  ]
+ }
+]
+FULL: "Peter's bed pays tonight. Last rule, carrying hands hold no money. These hands weren't at that board. Elias wants it. Peter's hands carried never spoke."
+ASR DONE

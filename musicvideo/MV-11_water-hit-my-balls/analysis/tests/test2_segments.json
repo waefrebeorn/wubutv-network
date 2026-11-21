@@ -1,0 +1,63 @@
+{
+ "vocals_file": "track_44k_vocals_htdemucs.wav",
+ "params": {
+  "win": 0.025,
+  "hop": 0.01,
+  "thr_frac_p99": 0.1,
+  "min_silence_s": 1.0,
+  "max_len_s": 30.0,
+  "min_len_s": 0.5,
+  "pad_s": 0.3
+ },
+ "n_segments": 12,
+ "segments": [
+  {
+   "start": 14.13,
+   "end": 16.87
+  },
+  {
+   "start": 17.71,
+   "end": 24.77
+  },
+  {
+   "start": 25.9,
+   "end": 44.89
+  },
+  {
+   "start": 45.43,
+   "end": 52.48
+  },
+  {
+   "start": 55.14,
+   "end": 65.68
+  },
+  {
+   "start": 66.76,
+   "end": 68.82
+  },
+  {
+   "start": 69.27,
+   "end": 82.12
+  },
+  {
+   "start": 81.52,
+   "end": 107.0
+  },
+  {
+   "start": 109.29,
+   "end": 110.43
+  },
+  {
+   "start": 111.16,
+   "end": 140.85
+  },
+  {
+   "start": 141.51,
+   "end": 162.3
+  },
+  {
+   "start": 168.18,
+   "end": 171.44
+  }
+ ]
+}

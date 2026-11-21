@@ -1,0 +1,1849 @@
+{
+ "grid": "grid_merged.json",
+ "lines": [
+  {
+   "id": "I01",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    1.4,
+    3.72
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "I02",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "We ride, we ride",
+   "span": [
+    3.84,
+    5.76
+   ],
+   "n_words": 4,
+   "width_px": 406.2,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "I03",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    6.34,
+    8.04
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "I04",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "Till the morning comes",
+   "span": [
+    8.04,
+    10.04
+   ],
+   "n_words": 4,
+   "width_px": 568.6,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "I05",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    10.6,
+    12.72
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "I08",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "Till the morning comes",
+   "span": [
+    12.72,
+    17.52
+   ],
+   "n_words": 4,
+   "width_px": 568.6,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "I09",
+   "section": "Intro",
+   "mode": "karaoke fs=44",
+   "text": "Ta-da, ta-da, ta-da, ta-da, ta-da, ta-da",
+   "span": [
+    18.7,
+    21.4
+   ],
+   "n_words": 6,
+   "width_px": 944.5,
+   "srcs": [
+    "STEM-ENV"
+   ]
+  },
+  {
+   "id": "L01",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Bare feet on the boardwalk",
+   "span": [
+    22.0,
+    23.64
+   ],
+   "n_words": 5,
+   "width_px": 679.0,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L02",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Salt on my skin",
+   "span": [
+    22.96,
+    25.24
+   ],
+   "n_words": 4,
+   "width_px": 381.4,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L03",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "You came in laughing",
+   "span": [
+    25.5,
+    26.76
+   ],
+   "n_words": 4,
+   "width_px": 530.0,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L04",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Said, come on, let's begin",
+   "span": [
+    27.6,
+    29.74
+   ],
+   "n_words": 5,
+   "width_px": 641.1,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L05",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Blue shirt, red bicycle",
+   "span": [
+    30.1,
+    31.48
+   ],
+   "n_words": 4,
+   "width_px": 543.2,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L06",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Rolling past the pier",
+   "span": [
+    31.84,
+    33.62
+   ],
+   "n_words": 4,
+   "width_px": 506.8,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L07",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "I was posted up right here",
+   "span": [
+    33.62,
+    36.1
+   ],
+   "n_words": 6,
+   "width_px": 656.0,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L08",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Now you're pulling near",
+   "span": [
+    36.12,
+    39.32
+   ],
+   "n_words": 4,
+   "width_px": 592.4,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L09",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Backpack half-zipped",
+   "span": [
+    38.62,
+    39.66
+   ],
+   "n_words": 2,
+   "width_px": 528.2,
+   "srcs": [
+    "OLD",
+    "POS"
+   ]
+  },
+  {
+   "id": "L10",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Keys in your hand",
+   "span": [
+    40.82,
+    42.84
+   ],
+   "n_words": 4,
+   "width_px": 446.2,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L11",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "You nodded at the waves like",
+   "span": [
+    43.28,
+    44.58
+   ],
+   "n_words": 6,
+   "width_px": 727.9,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L12",
+   "section": "Verse 1",
+   "mode": "karaoke fs=44",
+   "text": "Yeah, they already understand",
+   "span": [
+    44.58,
+    46.86
+   ],
+   "n_words": 4,
+   "width_px": 763.9,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L13",
+   "section": "Pre-Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Slow down, take your time",
+   "span": [
+    47.62,
+    49.56
+   ],
+   "n_words": 5,
+   "width_px": 661.7,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L14",
+   "section": "Pre-Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Let the hard week fade",
+   "span": [
+    49.56,
+    51.24
+   ],
+   "n_words": 5,
+   "width_px": 576.4,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L15",
+   "section": "Pre-Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "One small look from you",
+   "span": [
+    51.24,
+    52.8
+   ],
+   "n_words": 5,
+   "width_px": 603.7,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L16",
+   "section": "Pre-Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "And my whole head replays",
+   "span": [
+    52.8,
+    57.74
+   ],
+   "n_words": 5,
+   "width_px": 683.5,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L17",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    57.74,
+    59.1
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L18",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "We ride, we ride",
+   "span": [
+    58.66,
+    60.2
+   ],
+   "n_words": 4,
+   "width_px": 406.2,
+   "srcs": [
+    "NOP+STEM",
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L19",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    60.26,
+    61.34
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L20",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "With you by my side",
+   "span": [
+    60.24,
+    62.58
+   ],
+   "n_words": 5,
+   "width_px": 504.8,
+   "srcs": [
+    "OLD",
+    "P1",
+    "POS+STEM"
+   ]
+  },
+  {
+   "id": "L21",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    62.58,
+    63.675
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "OLD",
+    "POS"
+   ]
+  },
+  {
+   "id": "L22",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "No need to run",
+   "span": [
+    62.72,
+    64.92
+   ],
+   "n_words": 4,
+   "width_px": 371.1,
+   "srcs": [
+    "NOP",
+    "OLD+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L23",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    64.88,
+    65.98
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L24",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "We hold the sun",
+   "span": [
+    65.56,
+    67.16
+   ],
+   "n_words": 4,
+   "width_px": 401.9,
+   "srcs": [
+    "NOP+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L25",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    67.08,
+    68.18
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L26",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Keep it loose, keep it low",
+   "span": [
+    67.86,
+    69.4
+   ],
+   "n_words": 6,
+   "width_px": 626.8,
+   "srcs": [
+    "OLD+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L27",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    69.38,
+    70.4
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L28",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Let it drift, let it go",
+   "span": [
+    69.48,
+    71.82
+   ],
+   "n_words": 6,
+   "width_px": 480.5,
+   "srcs": [
+    "NOP+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L29",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    71.82,
+    73.06
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "OLD",
+    "POS"
+   ]
+  },
+  {
+   "id": "L30",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "We're good where we are",
+   "span": [
+    71.86,
+    73.98
+   ],
+   "n_words": 5,
+   "width_px": 631.7,
+   "srcs": [
+    "OLD",
+    "OLD+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L31",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    74.04,
+    75.02
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "OLD",
+    "POS",
+    "POS+FIX"
+   ]
+  },
+  {
+   "id": "L32",
+   "section": "Chorus 1",
+   "mode": "karaoke fs=44",
+   "text": "Just two small sparks",
+   "span": [
+    75.04,
+    76.74
+   ],
+   "n_words": 4,
+   "width_px": 529.2,
+   "srcs": [
+    "OLD",
+    "P1"
+   ]
+  },
+  {
+   "id": "L33",
+   "section": "Chorus 1 tail",
+   "mode": "karaoke fs=44",
+   "text": "I gotta go there",
+   "span": [
+    76.64,
+    78.34
+   ],
+   "n_words": 4,
+   "width_px": 391.3,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L34",
+   "section": "Chorus 1 tail",
+   "mode": "karaoke fs=44",
+   "text": "I gotta go there, just two small sparks",
+   "span": [
+    78.52,
+    81.4
+   ],
+   "n_words": 8,
+   "width_px": 951.2,
+   "srcs": [
+    "NOP",
+    "NOP+FIX",
+    "P1+FIX"
+   ]
+  },
+  {
+   "id": "L35",
+   "section": "Chorus 1 tail",
+   "mode": "karaoke fs=44",
+   "text": "I gotta go there",
+   "span": [
+    81.84,
+    82.84
+   ],
+   "n_words": 4,
+   "width_px": 391.3,
+   "srcs": [
+    "NOP",
+    "NOP+FIX"
+   ]
+  },
+  {
+   "id": "L36",
+   "section": "Chorus 1 tail",
+   "mode": "karaoke fs=44",
+   "text": "Just two small sparks",
+   "span": [
+    82.84,
+    85.08
+   ],
+   "n_words": 4,
+   "width_px": 529.2,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L37",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Vendor at the corner",
+   "span": [
+    85.16,
+    86.5
+   ],
+   "n_words": 4,
+   "width_px": 516.0,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L38",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Calling mango sweet",
+   "span": [
+    86.5,
+    87.6
+   ],
+   "n_words": 3,
+   "width_px": 516.8,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L39",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Socks in the sand",
+   "span": [
+    87.6,
+    89.1
+   ],
+   "n_words": 4,
+   "width_px": 436.7,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L40",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "And the tide tapping time with our feet",
+   "span": [
+    89.1,
+    92.92
+   ],
+   "n_words": 8,
+   "width_px": 978.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L41",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Your laugh hit the air",
+   "span": [
+    93.7,
+    95.28
+   ],
+   "n_words": 5,
+   "width_px": 527.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L42",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Like a hand drum roll",
+   "span": [
+    95.44,
+    96.78
+   ],
+   "n_words": 5,
+   "width_px": 528.3,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L43",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "I forgot the list, forgot the bills",
+   "span": [
+    96.78,
+    98.46
+   ],
+   "n_words": 7,
+   "width_px": 777.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L44",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Forgot what I was told",
+   "span": [
+    98.46,
+    102.14
+   ],
+   "n_words": 5,
+   "width_px": 557.7,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L45",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Ice ice ice cup sweating",
+   "span": [
+    102.14,
+    104.12
+   ],
+   "n_words": 5,
+   "width_px": 589.8,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L46",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "On the rail by the steps",
+   "span": [
+    104.12,
+    105.18
+   ],
+   "n_words": 6,
+   "width_px": 586.2,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L47",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "You said, don't think too hard",
+   "span": [
+    105.18,
+    106.42
+   ],
+   "n_words": 6,
+   "width_px": 736.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L48",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "So I did it, not yet",
+   "span": [
+    106.42,
+    107.46
+   ],
+   "n_words": 6,
+   "width_px": 447.9,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L49",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Kids with a boombox",
+   "span": [
+    107.46,
+    108.8
+   ],
+   "n_words": 4,
+   "width_px": 518.5,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L50",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Cutting through the crowd",
+   "span": [
+    108.8,
+    109.74
+   ],
+   "n_words": 4,
+   "width_px": 660.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L51",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "You took my sleeve and spun me once",
+   "span": [
+    109.74,
+    110.86
+   ],
+   "n_words": 8,
+   "width_px": 947.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L52",
+   "section": "Verse 2",
+   "mode": "karaoke fs=44",
+   "text": "Like none of it was last",
+   "span": [
+    110.86,
+    111.9
+   ],
+   "n_words": 6,
+   "width_px": 574.3,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L53",
+   "section": "Pre-Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Slow down, take your time",
+   "span": [
+    111.94,
+    113.24
+   ],
+   "n_words": 5,
+   "width_px": 661.7,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L54",
+   "section": "Pre-Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Let the hard week fade",
+   "span": [
+    113.8,
+    114.9
+   ],
+   "n_words": 5,
+   "width_px": 576.4,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L55",
+   "section": "Pre-Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "One small look from you",
+   "span": [
+    114.9,
+    116.0
+   ],
+   "n_words": 5,
+   "width_px": 603.7,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L56",
+   "section": "Pre-Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "And my whole head replays",
+   "span": [
+    116.0,
+    119.14
+   ],
+   "n_words": 5,
+   "width_px": 683.5,
+   "srcs": [
+    "NOP",
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L57",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    121.4,
+    122.38
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L58",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "We ride, we ride",
+   "span": [
+    122.74,
+    123.96
+   ],
+   "n_words": 4,
+   "width_px": 406.2,
+   "srcs": [
+    "P1",
+    "POS+STEM"
+   ]
+  },
+  {
+   "id": "L59",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    123.96,
+    125.02
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L60",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "With you by my side",
+   "span": [
+    125.02,
+    126.24
+   ],
+   "n_words": 5,
+   "width_px": 504.8,
+   "srcs": [
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L61",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    126.24,
+    127.36
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L62",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "No need to run",
+   "span": [
+    127.22,
+    128.6
+   ],
+   "n_words": 4,
+   "width_px": 371.1,
+   "srcs": [
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L63",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    128.6,
+    129.62
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L64",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "We hold the sun",
+   "span": [
+    129.58,
+    130.8
+   ],
+   "n_words": 4,
+   "width_px": 401.9,
+   "srcs": [
+    "P1",
+    "POS+STEM"
+   ]
+  },
+  {
+   "id": "L65",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    130.8,
+    131.88
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L66",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Keep it loose, keep it low",
+   "span": [
+    131.68,
+    133.1
+   ],
+   "n_words": 6,
+   "width_px": 626.8,
+   "srcs": [
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L67",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    133.1,
+    134.06
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L68",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Let it drift, let it go",
+   "span": [
+    134.08,
+    135.4
+   ],
+   "n_words": 6,
+   "width_px": 480.5,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L69",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    135.4,
+    136.42
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L70",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "We're good where we are",
+   "span": [
+    136.34,
+    137.72
+   ],
+   "n_words": 5,
+   "width_px": 631.7,
+   "srcs": [
+    "NOP+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L71",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    137.72,
+    139.04
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L72",
+   "section": "Chorus 2",
+   "mode": "karaoke fs=44",
+   "text": "Just two small sparks",
+   "span": [
+    138.82,
+    140.52
+   ],
+   "n_words": 4,
+   "width_px": 529.2,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L73a",
+   "section": "Chorus 2 tail",
+   "mode": "karaoke fs=44",
+   "text": "I'm falling, I'm falling",
+   "span": [
+    140.52,
+    143.3
+   ],
+   "n_words": 4,
+   "width_px": 527.8,
+   "srcs": [
+    "NOP",
+    "POS"
+   ]
+  },
+  {
+   "id": "L73b",
+   "section": "Chorus 2 tail",
+   "mode": "karaoke fs=44",
+   "text": "Just two small sparks",
+   "span": [
+    143.18,
+    145.34
+   ],
+   "n_words": 4,
+   "width_px": 529.2,
+   "srcs": [
+    "NOP+STEM",
+    "P1",
+    "P1+FIX"
+   ]
+  },
+  {
+   "id": "L73d",
+   "section": "Chorus 2 tail",
+   "mode": "karaoke fs=44",
+   "text": "Just two small sparks",
+   "span": [
+    145.4,
+    148.86
+   ],
+   "n_words": 4,
+   "width_px": 529.2,
+   "srcs": [
+    "NOP+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L74",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "If the rain comes down",
+   "span": [
+    148.86,
+    150.1
+   ],
+   "n_words": 5,
+   "width_px": 568.7,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L75",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "We stay out in it",
+   "span": [
+    150.18,
+    151.3
+   ],
+   "n_words": 5,
+   "width_px": 407.4,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L76",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "If the day runs long",
+   "span": [
+    151.3,
+    152.38
+   ],
+   "n_words": 5,
+   "width_px": 486.2,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L77",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "We still move with it",
+   "span": [
+    152.46,
+    153.56
+   ],
+   "n_words": 5,
+   "width_px": 509.3,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L78",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "Hand in my hand",
+   "span": [
+    153.58,
+    154.58
+   ],
+   "n_words": 4,
+   "width_px": 420.1,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L79",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "No speech, no show",
+   "span": [
+    154.68,
+    155.68
+   ],
+   "n_words": 4,
+   "width_px": 494.5,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L80",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "Heart in the breeze",
+   "span": [
+    155.68,
+    156.84
+   ],
+   "n_words": 4,
+   "width_px": 482.0,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L81",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "And the bass moves slow",
+   "span": [
+    157.02,
+    157.94
+   ],
+   "n_words": 5,
+   "width_px": 626.8,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L82",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "If the sky turns gray",
+   "span": [
+    157.94,
+    159.1
+   ],
+   "n_words": 5,
+   "width_px": 504.9,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L83",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "We don't fold in",
+   "span": [
+    159.22,
+    160.26
+   ],
+   "n_words": 4,
+   "width_px": 392.7,
+   "srcs": [
+    "NOP",
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L84",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "We lean right back",
+   "span": [
+    160.26,
+    161.36
+   ],
+   "n_words": 4,
+   "width_px": 465.9,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L85",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "Let the whole thing spin",
+   "span": [
+    161.46,
+    162.46
+   ],
+   "n_words": 5,
+   "width_px": 603.9,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L86",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "You and me, same pace",
+   "span": [
+    162.46,
+    163.54
+   ],
+   "n_words": 5,
+   "width_px": 584.2,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L87",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "Same worn-in shoes",
+   "span": [
+    163.66,
+    164.88
+   ],
+   "n_words": 3,
+   "width_px": 500.1,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L88",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "Nothing to prove",
+   "span": [
+    164.88,
+    166.04
+   ],
+   "n_words": 3,
+   "width_px": 421.2,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L89",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "Nothing to lose",
+   "span": [
+    166.2,
+    167.44
+   ],
+   "n_words": 3,
+   "width_px": 380.6,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L90",
+   "section": "Bridge",
+   "mode": "karaoke fs=44",
+   "text": "No, no, no",
+   "span": [
+    167.5,
+    169.16
+   ],
+   "n_words": 3,
+   "width_px": 254.2,
+   "srcs": [
+    "NOP"
+   ]
+  },
+  {
+   "id": "L91",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    168.72,
+    170.16
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1"
+   ]
+  },
+  {
+   "id": "L92",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "We ride, we ride",
+   "span": [
+    169.58,
+    171.52
+   ],
+   "n_words": 4,
+   "width_px": 406.2,
+   "srcs": [
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L93",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    171.52,
+    172.56
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L94",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "With you by my side",
+   "span": [
+    171.46,
+    173.74
+   ],
+   "n_words": 5,
+   "width_px": 504.8,
+   "srcs": [
+    "P1",
+    "POS+STEM"
+   ]
+  },
+  {
+   "id": "L95",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    173.74,
+    174.78
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "P1",
+    "POS"
+   ]
+  },
+  {
+   "id": "L96",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "No need to run",
+   "span": [
+    174.44,
+    175.98
+   ],
+   "n_words": 4,
+   "width_px": 371.1,
+   "srcs": [
+    "NOP+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L97",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    176.04,
+    176.9
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "POS"
+   ]
+  },
+  {
+   "id": "L98",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "We hold the sun",
+   "span": [
+    176.04,
+    178.24
+   ],
+   "n_words": 4,
+   "width_px": 401.9,
+   "srcs": [
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L99",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    178.24,
+    179.12
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "POS"
+   ]
+  },
+  {
+   "id": "L100",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Keep it loose, keep it low",
+   "span": [
+    178.3,
+    180.5
+   ],
+   "n_words": 6,
+   "width_px": 626.8,
+   "srcs": [
+    "NOP",
+    "P1",
+    "P1+STEM"
+   ]
+  },
+  {
+   "id": "L101",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    180.5,
+    181.54
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "POS"
+   ]
+  },
+  {
+   "id": "L102",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Let it drift, let it go",
+   "span": [
+    180.54,
+    182.74
+   ],
+   "n_words": 6,
+   "width_px": 480.5,
+   "srcs": [
+    "P1",
+    "P1+STEM",
+    "POS"
+   ]
+  },
+  {
+   "id": "L103",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    182.78,
+    183.74
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "POS"
+   ]
+  },
+  {
+   "id": "L104",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "We're good where we are",
+   "span": [
+    182.7,
+    185.06
+   ],
+   "n_words": 5,
+   "width_px": 631.7,
+   "srcs": [
+    "NOP+STEM",
+    "P1"
+   ]
+  },
+  {
+   "id": "L105",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Easy now, easy now",
+   "span": [
+    185.02,
+    186.64
+   ],
+   "n_words": 4,
+   "width_px": 493.3,
+   "srcs": [
+    "POS"
+   ]
+  },
+  {
+   "id": "L106",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Just two small sparks",
+   "span": [
+    186.46,
+    188.04
+   ],
+   "n_words": 4,
+   "width_px": 529.2,
+   "srcs": [
+    "NOP",
+    "P1"
+   ]
+  },
+  {
+   "id": "L108",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=20 (scaled, w=1055px)",
+   "text": "Easy now, easy now, easy now, easy now, easy now, easy now, easy now, easy now, easy now",
+   "span": [
+    193.2,
+    201.12
+   ],
+   "n_words": 18,
+   "width_px": 1055.1,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "L109",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Till the morning comes",
+   "span": [
+    201.74,
+    203.1
+   ],
+   "n_words": 4,
+   "width_px": 568.6,
+   "srcs": [
+    "STEM"
+   ]
+  },
+  {
+   "id": "L110",
+   "section": "Final Chorus",
+   "mode": "karaoke fs=44",
+   "text": "Till the morning comes",
+   "span": [
+    203.84,
+    205.62
+   ],
+   "n_words": 4,
+   "width_px": 568.6,
+   "srcs": [
+    "STEM"
+   ]
+  }
+ ],
+ "n_events": 548,
+ "n_dropped_events": 0
+}

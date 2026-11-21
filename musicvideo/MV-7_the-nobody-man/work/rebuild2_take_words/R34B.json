@@ -1,0 +1,41 @@
+{
+ "track": "work/rebuild2_qc/R34B_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 5.0,
+ "n_words": 4,
+ "words": [
+  {
+   "word": "Flicking",
+   "start": 0.95,
+   "end": 1.37,
+   "prob": 0.711
+  },
+  {
+   "word": "in",
+   "start": 1.37,
+   "end": 1.67,
+   "prob": 0.944
+  },
+  {
+   "word": "the",
+   "start": 1.67,
+   "end": 1.81,
+   "prob": 0.997
+  },
+  {
+   "word": "dark.",
+   "start": 1.81,
+   "end": 2.19,
+   "prob": 0.971
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.95,
+   "end": 2.19,
+   "text": "Flicking in the dark."
+  }
+ ],
+ "note": "transcribed on audio trimmed to first RMS energy onset (0.95s) after two full-file DTW passes disagreed; stamps offset by +0.95s; span adjudicated against RMS envelope"
+}

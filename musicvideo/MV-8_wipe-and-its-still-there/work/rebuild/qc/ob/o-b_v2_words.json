@@ -1,0 +1,35 @@
+{
+ "segments": [
+  {
+   "start": 6.44,
+   "end": 7.9,
+   "text": "Let's clean this city!"
+  }
+ ],
+ "words": [
+  {
+   "word": "Let's",
+   "start": 6.44,
+   "end": 7.08,
+   "p": 0.91
+  },
+  {
+   "word": "clean",
+   "start": 7.08,
+   "end": 7.3,
+   "p": 0.99
+  },
+  {
+   "word": "this",
+   "start": 7.3,
+   "end": 7.62,
+   "p": 1.0
+  },
+  {
+   "word": "city!",
+   "start": 7.62,
+   "end": 7.9,
+   "p": 0.99
+  }
+ ]
+}

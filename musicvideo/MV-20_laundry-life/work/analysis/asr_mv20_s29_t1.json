@@ -1,0 +1,55 @@
+{
+ "take": "takes/mv20_s29_t1.mp4",
+ "words": [
+  {
+   "w": "Still",
+   "start": 0.0,
+   "end": 1.32,
+   "p": 0.66
+  },
+  {
+   "w": "on",
+   "start": 1.32,
+   "end": 1.84,
+   "p": 0.997
+  },
+  {
+   "w": "the",
+   "start": 1.84,
+   "end": 2.0,
+   "p": 0.998
+  },
+  {
+   "w": "floor,",
+   "start": 2.0,
+   "end": 2.76,
+   "p": 0.952
+  },
+  {
+   "w": "like",
+   "start": 3.04,
+   "end": 6.44,
+   "p": 0.976
+  },
+  {
+   "w": "a",
+   "start": 6.44,
+   "end": 6.74,
+   "p": 0.995
+  },
+  {
+   "w": "raccoon.",
+   "start": 6.74,
+   "end": 8.02,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.02,
+   "text": "Still on the floor, like a raccoon.",
+   "avg_logprob": -0.279
+  }
+ ]
+}

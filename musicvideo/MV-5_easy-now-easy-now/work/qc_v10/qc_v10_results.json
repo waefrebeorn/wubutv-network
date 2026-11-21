@@ -1,0 +1,260 @@
+{
+ "s24": {
+  "take": "mv5_s24_t3.mp4",
+  "song_slot": 6.74,
+  "motion": {
+   "frames": 168,
+   "mean_diff": 1.128,
+   "longest_neardup_run": 1,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 1.224,
+   "vocal_longest_neardup": 1,
+   "per_second_mean_diff": [
+    1.314,
+    1.305,
+    1.541,
+    0.657,
+    0.665
+   ]
+  },
+  "whisper_text": "Easy now, easy now Oh",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now",
+   " Oh"
+  ],
+  "whisper_nwords": 5,
+  "take_line_span": 4.38,
+  "first_word": 0.0,
+  "last_word_end": 4.38,
+  "line_ratio": 1.54,
+  "word_times": [
+   [
+    "Easy",
+    0.0,
+    0.56
+   ],
+   [
+    "now,",
+    0.56,
+    1.2
+   ],
+   [
+    "easy",
+    1.76,
+    2.42
+   ],
+   [
+    "now",
+    2.42,
+    3.28
+   ],
+   [
+    "Oh",
+    3.28,
+    4.38
+   ]
+  ],
+  "repeat_bigrams": [
+   "easy now"
+  ],
+  "forbidden_found": [],
+  "easy_now_count": 2
+ },
+ "s19a": {
+  "take": "mv5_s19a_t2.mp4",
+  "song_slot": 3.66,
+  "motion": {
+   "frames": 120,
+   "mean_diff": 1.495,
+   "longest_neardup_run": 0,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 1.349,
+   "vocal_longest_neardup": 0,
+   "per_second_mean_diff": [
+    1.333,
+    1.472,
+    1.242
+   ]
+  },
+  "whisper_text": "If the rain comes down, we stay out in it, if the rain comes down, we stay out in it, if the rain comes down.",
+  "whisper_words": [
+   " If",
+   " the",
+   " rain",
+   " comes",
+   " down,",
+   " we",
+   " stay",
+   " out",
+   " in",
+   " it,",
+   " if",
+   " the",
+   " rain",
+   " comes",
+   " down,",
+   " we",
+   " stay",
+   " out",
+   " in",
+   " it,",
+   " if",
+   " the",
+   " rain",
+   " comes",
+   " down."
+  ],
+  "whisper_nwords": 25,
+  "take_line_span": 4.96,
+  "first_word": 0.0,
+  "last_word_end": 4.96,
+  "line_ratio": 0.74,
+  "word_times": [
+   [
+    "If",
+    0.0,
+    0.46
+   ],
+   [
+    "the",
+    0.46,
+    0.68
+   ],
+   [
+    "rain",
+    0.68,
+    1.12
+   ],
+   [
+    "comes",
+    1.12,
+    1.76
+   ],
+   [
+    "down,",
+    1.76,
+    2.42
+   ],
+   [
+    "we",
+    3.36,
+    4.16
+   ],
+   [
+    "stay",
+    4.16,
+    4.94
+   ],
+   [
+    "out",
+    4.94,
+    4.94
+   ],
+   [
+    "in",
+    4.94,
+    4.94
+   ],
+   [
+    "it,",
+    4.94,
+    4.94
+   ],
+   [
+    "if",
+    4.94,
+    4.94
+   ],
+   [
+    "the",
+    4.94,
+    4.94
+   ],
+   [
+    "rain",
+    4.94,
+    4.94
+   ],
+   [
+    "comes",
+    4.94,
+    4.94
+   ],
+   [
+    "down,",
+    4.94,
+    4.94
+   ],
+   [
+    "we",
+    4.94,
+    4.94
+   ],
+   [
+    "stay",
+    4.94,
+    4.94
+   ],
+   [
+    "out",
+    4.94,
+    4.94
+   ],
+   [
+    "in",
+    4.94,
+    4.94
+   ],
+   [
+    "it,",
+    4.94,
+    4.94
+   ],
+   [
+    "if",
+    4.96,
+    4.96
+   ],
+   [
+    "the",
+    4.96,
+    4.96
+   ],
+   [
+    "rain",
+    4.96,
+    4.96
+   ],
+   [
+    "comes",
+    4.96,
+    4.96
+   ],
+   [
+    "down.",
+    4.96,
+    4.96
+   ]
+  ],
+  "repeat_bigrams": [
+   "if the",
+   "the rain",
+   "rain comes",
+   "comes down",
+   "down we",
+   "we stay",
+   "stay out",
+   "out in",
+   "in it",
+   "it if"
+  ],
+  "forbidden_found": []
+ }
+}

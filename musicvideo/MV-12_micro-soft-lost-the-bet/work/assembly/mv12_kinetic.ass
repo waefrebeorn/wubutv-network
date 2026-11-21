@@ -1,0 +1,441 @@
+[Script Info]
+Title: WuBuTV kinetic type (kinetic_ass.py)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bone,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Cadmium,Noto Sans,54,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Dim,Noto Sans,54,&H64DCEEF4,&H64DCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Draw,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+Style: LogoDisco,Noto Sans Display,30,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,10,1
+Style: LogoMetal,Noto Sans,30,&H1B3AE2,&H1B3AE2,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,10,1
+Style: LogoBlibbet,Noto Sans,30,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,10,1
+Style: LogoPacman,Noto Sans,30,&HFFFFFF,&HFFFFFF,&H141414,&H96000000,-1,1,0,0,100,100,0,0,1,3,0,1,10,10,10,1
+Style: LogoSquares,Noto Sans,30,&H9E9E9E,&H9E9E9E,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.49,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:00:00.00,0:00:01.34,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:00:01.34,0:00:01.68,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:00:01.68,0:00:02.12,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:00:02.12,0:00:02.66,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:00:02.66,0:00:03.18,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:00:03.18,0:00:03.46,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:00:03.46,0:00:03.70,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:00:03.70,0:00:04.12,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:00:04.12,0:00:04.44,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:00:04.44,0:00:04.62,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:00:04.62,0:00:05.44,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:00:08.78,0:00:12.28,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-69,610,191,610,0,220)\p1}m 0 0 l 898 0 l 898 7 l 0 7{\p0}
+Dialogue: 2,0:00:08.78,0:00:12.28,Bone,,0,0,0,,{\fnNoto Sans\an4\move(-229,576,190,576,0,200)\fad(60,0)}Micro soft
+Dialogue: 2,0:00:09.68,0:00:12.28,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1200,576,499,576,0,200)\fad(60,0)}Micro soft
+Dialogue: 2,0:00:10.66,0:00:12.28,Bone,,0,0,0,,{\fnNoto Sans\an4\move(388,576,808,576,0,200)\fad(60,0)}Micro soft
+Dialogue: 0,0:00:12.30,0:00:17.16,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:00:12.30,0:00:12.52,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:00:12.52,0:00:12.78,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:00:12.78,0:00:13.26,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:00:13.26,0:00:13.82,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:00:13.82,0:00:14.36,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:00:14.36,0:00:14.64,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:00:14.64,0:00:14.84,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:00:14.84,0:00:15.32,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:00:15.32,0:00:16.34,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:00:16.34,0:00:16.74,Cadmium,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:00:16.74,0:00:17.16,Bone,,0,0,0,,{\fnNoto Sans Display\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:00:17.18,0:00:18.98,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(86,610,346,610,0,220)\p1}m 0 0 l 589 0 l 589 7 l 0 7{\p0}
+Dialogue: 2,0:00:17.18,0:00:18.98,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-74,576,345,576,0,200)\fad(60,0)}Micro soft
+Dialogue: 2,0:00:17.94,0:00:18.98,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1354,576,654,576,0,200)\fad(60,0)}Micro soft
+Dialogue: 0,0:00:19.00,0:00:21.77,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(156,610,416,610,0,220)\p1}m 0 0 l 449 0 l 449 7 l 0 7{\p0}
+Dialogue: 2,0:00:19.00,0:00:21.77,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-4,576,415,576,0,200)\fad(60,0)}Yeah,
+Dialogue: 2,0:00:20.20,0:00:21.77,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1144,576,583,576,0,200)\fad(60,0)}yeah,
+Dialogue: 2,0:00:20.40,0:00:21.77,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(332,576,752,576,0,200)\fad(60,0)}yeah
+Dialogue: 0,0:00:22.00,0:00:23.45,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 2,0:00:22.00,0:00:23.45,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(9,576,429,576,0,200)\fad(60,0)}Micro soft
+Dialogue: 2,0:00:22.70,0:00:23.45,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1270,576,738,576,0,200)\fad(60,0)}yeah
+Dialogue: 0,0:00:24.60,0:00:26.66,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(86,610,346,610,0,220)\p1}m 0 0 l 589 0 l 589 7 l 0 7{\p0}
+Dialogue: 1,0:00:24.60,0:00:26.66,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(345,576)\fad(120,150)}He
+Dialogue: 1,0:00:24.60,0:00:26.66,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(429,576)\fad(120,150)}lost
+Dialogue: 1,0:00:24.60,0:00:26.66,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(569,576)\fad(120,150)}the
+Dialogue: 1,0:00:24.60,0:00:26.66,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(682,576)\fad(120,150)}bet
+Dialogue: 1,0:00:24.60,0:00:26.66,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(794,576)\fad(120,150)}Yeah,
+Dialogue: 2,0:00:24.60,0:00:25.56,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(345,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}He
+Dialogue: 2,0:00:25.44,0:00:25.88,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(429,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}lost
+Dialogue: 2,0:00:25.76,0:00:26.04,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(569,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:25.92,0:00:26.26,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(682,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}bet
+Dialogue: 2,0:00:26.14,0:00:26.64,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(794,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Yeah,
+Dialogue: 0,0:00:26.68,0:00:30.38,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(86,610,346,610,0,220)\p1}m 0 0 l 589 0 l 589 7 l 0 7{\p0}
+Dialogue: 1,0:00:26.68,0:00:30.38,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(345,576)\fad(120,150)}he
+Dialogue: 1,0:00:26.68,0:00:30.38,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(429,576)\fad(120,150)}lost
+Dialogue: 1,0:00:26.68,0:00:30.38,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(569,576)\fad(120,150)}the
+Dialogue: 1,0:00:26.68,0:00:30.38,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(682,576)\fad(120,150)}bet
+Dialogue: 1,0:00:26.68,0:00:30.38,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(794,576)\fad(120,150)}Yeah,
+Dialogue: 2,0:00:26.68,0:00:29.30,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(345,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}he
+Dialogue: 2,0:00:29.18,0:00:29.58,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(429,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}lost
+Dialogue: 2,0:00:29.46,0:00:29.74,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(569,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:29.62,0:00:29.96,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(682,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}bet
+Dialogue: 2,0:00:29.84,0:00:30.30,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(794,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Yeah,
+Dialogue: 0,0:00:30.40,0:00:31.58,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(240,610,500,610,0,220)\p1}m 0 0 l 280 0 l 280 7 l 0 7{\p0}
+Dialogue: 2,0:00:30.40,0:00:31.58,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(79,576,499,576,0,200)\fad(60,0)}yeah,
+Dialogue: 2,0:00:31.06,0:00:31.58,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1200,576,668,576,0,200)\fad(60,0)}yeah
+Dialogue: 0,0:00:31.60,0:00:33.18,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(170,610,430,610,0,220)\p1}m 0 0 l 421 0 l 421 7 l 0 7{\p0}
+Dialogue: 1,0:00:31.60,0:00:33.18,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(429,576)\fad(120,150)}He
+Dialogue: 1,0:00:31.60,0:00:33.18,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(513,576)\fad(120,150)}lost
+Dialogue: 1,0:00:31.60,0:00:33.18,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(654,576)\fad(120,150)}the
+Dialogue: 1,0:00:31.60,0:00:33.18,Dim,,0,0,0,,{\fnNoto Sans Display\an4\pos(766,576)\fad(120,150)}bet
+Dialogue: 2,0:00:31.60,0:00:32.52,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(429,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}He
+Dialogue: 2,0:00:32.40,0:00:32.90,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(513,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}lost
+Dialogue: 2,0:00:32.78,0:00:33.10,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(654,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:32.98,0:00:33.18,Cadmium,,0,0,0,,{\fnNoto Sans Display\an4\pos(766,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}bet
+Dialogue: 0,0:00:33.20,0:00:36.22,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:00:33.20,0:00:36.22,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(274,576)\fad(120,150)}Steve
+Dialogue: 1,0:00:33.20,0:00:36.22,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(443,576)\fad(120,150)}Jobs
+Dialogue: 1,0:00:33.20,0:00:36.22,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(583,576)\fad(120,150)}laughed
+Dialogue: 1,0:00:33.20,0:00:36.22,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(808,576)\fad(120,150)}so
+Dialogue: 1,0:00:33.20,0:00:36.22,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(892,576)\fad(120,150)}hard
+Dialogue: 2,0:00:33.20,0:00:33.80,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(274,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Steve
+Dialogue: 2,0:00:33.68,0:00:34.38,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(443,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Jobs
+Dialogue: 2,0:00:34.26,0:00:34.80,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(583,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}laughed
+Dialogue: 2,0:00:34.68,0:00:35.28,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(808,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}so
+Dialogue: 2,0:00:35.16,0:00:36.02,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(892,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}hard
+Dialogue: 0,0:00:36.24,0:00:39.50,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(29,610,289,610,0,220)\p1}m 0 0 l 702 0 l 702 7 l 0 7{\p0}
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(289,576)\fad(120,150)}Bill
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(429,576)\fad(120,150)}said
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(569,576)\fad(120,150)}I
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(625,576)\fad(120,150)}have
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(766,576)\fad(120,150)}to
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(850,576)\fad(120,150)}do
+Dialogue: 1,0:00:36.24,0:00:39.50,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(934,576)\fad(120,150)}it
+Dialogue: 2,0:00:36.24,0:00:36.70,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(289,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Bill
+Dialogue: 2,0:00:36.58,0:00:36.98,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(429,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}said
+Dialogue: 2,0:00:36.86,0:00:37.22,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(569,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}I
+Dialogue: 2,0:00:37.10,0:00:37.94,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(625,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}have
+Dialogue: 2,0:00:37.82,0:00:38.62,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(766,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}to
+Dialogue: 2,0:00:38.50,0:00:39.14,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(850,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}do
+Dialogue: 2,0:00:39.02,0:00:39.50,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(934,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}it
+Dialogue: 0,0:00:39.52,0:00:41.48,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(15,610,275,610,0,220)\p1}m 0 0 l 730 0 l 730 7 l 0 7{\p0}
+Dialogue: 1,0:00:39.52,0:00:41.48,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(274,576)\fad(120,150)}Name
+Dialogue: 1,0:00:39.52,0:00:41.48,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(415,576)\fad(120,150)}the
+Dialogue: 1,0:00:39.52,0:00:41.48,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(527,576)\fad(120,150)}company
+Dialogue: 1,0:00:39.52,0:00:41.48,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(752,576)\fad(120,150)}Microsoft
+Dialogue: 2,0:00:39.52,0:00:40.20,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(274,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Name
+Dialogue: 2,0:00:40.08,0:00:40.40,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(415,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:40.28,0:00:40.84,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(527,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}company
+Dialogue: 2,0:00:40.72,0:00:41.48,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(752,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Microsoft
+Dialogue: 0,0:00:41.50,0:00:43.78,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(86,610,346,610,0,220)\p1}m 0 0 l 589 0 l 589 7 l 0 7{\p0}
+Dialogue: 1,0:00:41.50,0:00:43.78,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(345,576)\fad(120,150)}That's
+Dialogue: 1,0:00:41.50,0:00:43.78,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(541,576)\fad(120,150)}the
+Dialogue: 1,0:00:41.50,0:00:43.78,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(654,576)\fad(120,150)}bet
+Dialogue: 1,0:00:41.50,0:00:43.78,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(766,576)\fad(120,150)}I
+Dialogue: 1,0:00:41.50,0:00:43.78,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(822,576)\fad(120,150)}lost
+Dialogue: 2,0:00:41.50,0:00:42.58,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(345,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}That's
+Dialogue: 2,0:00:42.46,0:00:42.72,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(541,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:42.60,0:00:43.06,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(654,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}bet
+Dialogue: 2,0:00:42.94,0:00:43.30,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(766,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}I
+Dialogue: 2,0:00:43.18,0:00:43.78,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(822,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}lost
+Dialogue: 0,0:00:43.80,0:00:45.80,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(29,610,289,610,0,220)\p1}m 0 0 l 702 0 l 702 7 l 0 7{\p0}
+Dialogue: 1,0:00:43.80,0:00:45.80,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(289,576)\fad(120,150)}Now
+Dialogue: 1,0:00:43.80,0:00:45.80,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(401,576)\fad(120,150)}we
+Dialogue: 1,0:00:43.80,0:00:45.80,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(485,576)\fad(120,150)}all
+Dialogue: 1,0:00:43.80,0:00:45.80,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(597,576)\fad(120,150)}know
+Dialogue: 1,0:00:43.80,0:00:45.80,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(738,576)\fad(120,150)}the
+Dialogue: 1,0:00:43.80,0:00:45.80,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(850,576)\fad(120,150)}story
+Dialogue: 2,0:00:43.80,0:00:44.36,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(289,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Now
+Dialogue: 2,0:00:44.24,0:00:44.68,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(401,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}we
+Dialogue: 2,0:00:44.56,0:00:45.00,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(485,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}all
+Dialogue: 2,0:00:44.88,0:00:45.28,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(597,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}know
+Dialogue: 2,0:00:45.16,0:00:45.52,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(738,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:45.40,0:00:45.80,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(850,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}story
+Dialogue: 0,0:00:45.82,0:00:47.42,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(44,610,304,610,0,220)\p1}m 0 0 l 673 0 l 673 7 l 0 7{\p0}
+Dialogue: 1,0:00:45.82,0:00:47.42,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(303,576)\fad(120,150)}Now
+Dialogue: 1,0:00:45.82,0:00:47.42,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(415,576)\fad(120,150)}we
+Dialogue: 1,0:00:45.82,0:00:47.42,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(499,576)\fad(120,150)}all
+Dialogue: 1,0:00:45.82,0:00:47.42,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(611,576)\fad(120,150)}know
+Dialogue: 1,0:00:45.82,0:00:47.42,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(752,576)\fad(120,150)}the
+Dialogue: 1,0:00:45.82,0:00:47.42,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(864,576)\fad(120,150)}joke
+Dialogue: 2,0:00:45.82,0:00:46.22,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(303,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Now
+Dialogue: 2,0:00:46.10,0:00:46.46,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(415,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}we
+Dialogue: 2,0:00:46.34,0:00:46.80,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(499,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}all
+Dialogue: 2,0:00:46.68,0:00:47.02,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(611,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}know
+Dialogue: 2,0:00:46.90,0:00:47.18,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(752,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}the
+Dialogue: 2,0:00:47.06,0:00:47.40,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(864,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}joke
+Dialogue: 0,0:00:47.44,0:00:51.24,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:00:47.44,0:00:47.72,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:00:47.72,0:00:48.06,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:00:48.06,0:00:48.50,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:00:48.50,0:00:49.02,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:00:49.02,0:00:49.54,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:00:49.54,0:00:49.86,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:00:49.86,0:00:50.06,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:00:50.06,0:00:50.40,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:00:50.40,0:00:50.74,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:00:50.74,0:00:51.04,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:00:51.04,0:00:51.24,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:00:51.26,0:00:54.98,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:00:51.26,0:00:51.50,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:00:51.50,0:00:51.72,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:00:51.72,0:00:52.18,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:00:52.18,0:00:52.72,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:00:52.72,0:00:53.26,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:00:53.26,0:00:53.56,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:00:53.56,0:00:53.76,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:00:53.76,0:00:54.10,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:00:54.10,0:00:54.46,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:00:54.46,0:00:54.72,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:00:54.72,0:00:54.98,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:00:55.00,0:00:56.74,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(114,610,374,610,0,220)\p1}m 0 0 l 533 0 l 533 7 l 0 7{\p0}
+Dialogue: 2,0:00:55.00,0:00:56.74,Bone,,0,0,0,,{\fnNoto Sans\an4\move(-46,576,373,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 2,0:00:55.90,0:00:56.74,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1326,576,654,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 0,0:00:56.76,0:01:03.40,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:00:56.76,0:00:58.18,Bone,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:00:58.18,0:00:59.18,Cadmium,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:00:59.18,0:00:59.60,Bone,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:00:59.60,0:01:00.18,Cadmium,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:01:00.18,0:01:00.66,Bone,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:01:00.66,0:01:00.94,Cadmium,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:01:00.94,0:01:01.14,Bone,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:01:01.14,0:01:01.64,Cadmium,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:01:01.64,0:01:02.66,Bone,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:01:02.66,0:01:03.06,Cadmium,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:01:03.06,0:01:03.40,Bone,,0,0,0,,{\fnNoto Sans\i1an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:01:03.42,0:01:06.06,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-111,610,149,610,0,220)\p1}m 0 0 l 982 0 l 982 7 l 0 7{\p0}
+Dialogue: 2,0:01:03.42,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-271,576,148,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:03.76,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(737,576,289,576,0,200)\fad(60,0)}a
+Dialogue: 2,0:01:04.00,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-74,576,345,576,0,200)\fad(60,0)}bet,
+Dialogue: 2,0:01:04.36,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1017,576,485,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:04.68,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(205,576,625,576,0,200)\fad(60,0)}a
+Dialogue: 2,0:01:04.90,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1186,576,682,576,0,200)\fad(60,0)}bet
+Dialogue: 2,0:01:05.22,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(374,576,794,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:05.58,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1439,576,934,576,0,200)\fad(60,0)}the
+Dialogue: 2,0:01:05.78,0:01:06.06,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(627,576,1047,576,0,200)\fad(60,0)}bet
+Dialogue: 0,0:01:06.08,0:01:07.66,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(86,610,346,610,0,220)\p1}m 0 0 l 589 0 l 589 7 l 0 7{\p0}
+Dialogue: 2,0:01:06.08,0:01:07.66,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(-74,576,345,576,0,200)\fad(60,0)}Lost
+Dialogue: 2,0:01:06.54,0:01:07.66,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(933,576,485,576,0,200)\fad(60,0)}a
+Dialogue: 2,0:01:06.74,0:01:07.66,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(121,576,541,576,0,200)\fad(60,0)}bet
+Dialogue: 2,0:01:07.06,0:01:07.66,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1158,576,654,576,0,200)\fad(60,0)}and
+Dialogue: 2,0:01:07.28,0:01:07.66,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(346,576,766,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:07.46,0:01:07.66,Bone,,0,0,0,,{\fnNoto Sans Display\an4\move(1354,576,906,576,0,200)\fad(60,0)}a
+Dialogue: 0,0:01:07.68,0:01:13.30,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-13,610,247,610,0,220)\p1}m 0 0 l 786 0 l 786 7 l 0 7{\p0}
+Dialogue: 1,0:01:07.68,0:01:13.30,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(246,576)\fad(120,150)}Microsoft,
+Dialogue: 1,0:01:07.68,0:01:13.30,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(555,576)\fad(120,150)}he
+Dialogue: 1,0:01:07.68,0:01:13.30,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(640,576)\fad(120,150)}had
+Dialogue: 1,0:01:07.68,0:01:13.30,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(752,576)\fad(120,150)}to
+Dialogue: 1,0:01:07.68,0:01:13.30,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(836,576)\fad(120,150)}name
+Dialogue: 1,0:01:07.68,0:01:13.30,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(976,576)\fad(120,150)}it
+Dialogue: 2,0:01:07.68,0:01:08.60,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(246,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}Microsoft,
+Dialogue: 2,0:01:09.10,0:01:10.14,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(555,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}he
+Dialogue: 2,0:01:10.02,0:01:10.36,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(640,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}had
+Dialogue: 2,0:01:10.24,0:01:10.54,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(752,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}to
+Dialogue: 2,0:01:10.42,0:01:11.48,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(836,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}name
+Dialogue: 2,0:01:11.36,0:01:13.30,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(976,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}it
+Dialogue: 0,0:01:13.32,0:01:17.19,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(142,610,402,610,0,220)\p1}m 0 0 l 477 0 l 477 7 l 0 7{\p0}
+Dialogue: 1,0:01:13.32,0:01:17.19,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(401,576)\fad(120,150)}He
+Dialogue: 1,0:01:13.32,0:01:17.19,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(485,576)\fad(120,150)}had
+Dialogue: 1,0:01:13.32,0:01:17.19,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(597,576)\fad(120,150)}to
+Dialogue: 1,0:01:13.32,0:01:17.19,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(682,576)\fad(120,150)}name
+Dialogue: 1,0:01:13.32,0:01:17.19,Dim,,0,0,0,,{\fnNoto Sans\i1an4\pos(822,576)\fad(120,150)}it
+Dialogue: 2,0:01:13.32,0:01:13.50,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(401,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}He
+Dialogue: 2,0:01:13.38,0:01:14.04,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(485,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}had
+Dialogue: 2,0:01:13.92,0:01:14.20,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(597,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}to
+Dialogue: 2,0:01:14.08,0:01:15.22,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(682,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}name
+Dialogue: 2,0:01:15.10,0:01:16.86,Cadmium,,0,0,0,,{\fnNoto Sans\i1an4\pos(822,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}it
+Dialogue: 0,0:01:20.86,0:01:28.34,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:01:20.86,0:01:21.04,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:01:21.04,0:01:21.40,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:01:21.40,0:01:21.78,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:01:21.78,0:01:22.36,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:01:22.36,0:01:22.86,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:01:22.86,0:01:23.18,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:01:23.18,0:01:23.40,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:01:23.40,0:01:23.70,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:01:23.70,0:01:24.06,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:01:24.06,0:01:28.02,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:01:28.02,0:01:28.34,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:01:28.36,0:01:31.39,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(-27,610,233,610,0,220)\p1}m 0 0 l 814 0 l 814 7 l 0 7{\p0}
+Dialogue: 2,0:01:28.36,0:01:31.39,Bone,,0,0,0,,{\fnNoto Sans\an4\move(-187,576,232,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 2,0:01:29.06,0:01:31.39,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1186,576,513,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 2,0:01:29.94,0:01:31.39,Bone,,0,0,0,,{\fnNoto Sans\an4\move(374,576,794,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 0,0:01:31.66,0:01:38.62,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-476,610,-216,610,0,220)\p1}m 0 0 l 1712 0 l 1712 7 l 0 7{\p0}
+Dialogue: 2,0:01:31.66,0:01:32.12,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}I
+Dialogue: 2,0:01:32.12,0:01:32.34,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}can't
+Dialogue: 2,0:01:32.34,0:01:32.84,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}believe
+Dialogue: 2,0:01:32.84,0:01:33.46,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Bill
+Dialogue: 2,0:01:33.46,0:01:33.98,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}Gates
+Dialogue: 2,0:01:33.98,0:01:34.26,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}named
+Dialogue: 2,0:01:34.26,0:01:34.50,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}that
+Dialogue: 2,0:01:34.50,0:01:35.00,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}company
+Dialogue: 2,0:01:35.00,0:01:37.78,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}after
+Dialogue: 2,0:01:37.78,0:01:38.18,Cadmium,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}his
+Dialogue: 2,0:01:38.18,0:01:38.62,Bone,,0,0,0,,{\fnNoto Sans\an5\pos(640,576)\fscx300\fscy300\alpha&HFF&\t(0,60,\fscx300\fscy300\alpha&H00&)\t(60,150,\fscx100\fscy100)\fad(0,90)}penis
+Dialogue: 0,0:01:38.64,0:01:43.13,Draw,,0,0,0,,{\an7\1c&H334D1E\bord0\shad0\move(44,610,304,610,0,220)\p1}m 0 0 l 673 0 l 673 7 l 0 7{\p0}
+Dialogue: 2,0:01:38.64,0:01:43.13,Bone,,0,0,0,,{\fnNoto Sans\an4\move(-116,576,303,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 2,0:01:39.64,0:01:43.13,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1116,576,583,576,0,200)\fad(60,0)}Yeah
+Dialogue: 2,0:01:42.16,0:01:43.13,Bone,,0,0,0,,{\fnNoto Sans\an4\move(304,576,724,576,0,200)\fad(60,0)}Microsoft
+Dialogue: 0,0:01:45.24,0:01:46.98,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\move(100,610,360,610,0,220)\p1}m 0 0 l 561 0 l 561 7 l 0 7{\p0}
+Dialogue: 2,0:01:45.24,0:01:46.98,Bone,,0,0,0,,{\fnNoto Sans\an4\move(-60,576,359,576,0,200)\fad(60,0)}He
+Dialogue: 2,0:01:45.92,0:01:46.98,Bone,,0,0,0,,{\fnNoto Sans\an4\move(975,576,443,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:46.30,0:01:46.98,Bone,,0,0,0,,{\fnNoto Sans\an4\move(163,576,583,576,0,200)\fad(60,0)}the
+Dialogue: 2,0:01:46.42,0:01:46.98,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1200,576,696,576,0,200)\fad(60,0)}bet
+Dialogue: 2,0:01:46.78,0:01:46.98,Bone,,0,0,0,,{\fnNoto Sans\an4\move(388,576,808,576,0,200)\fad(60,0)}yeah
+Dialogue: 0,0:01:47.00,0:01:53.95,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\move(1,610,261,610,0,220)\p1}m 0 0 l 758 0 l 758 7 l 0 7{\p0}
+Dialogue: 2,0:01:47.00,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(-159,576,260,576,0,200)\fad(60,0)}He
+Dialogue: 2,0:01:47.96,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(877,576,345,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:49.98,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(65,576,485,576,0,200)\fad(60,0)}the
+Dialogue: 2,0:01:50.10,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1102,576,597,576,0,200)\fad(60,0)}bet
+Dialogue: 2,0:01:50.50,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(290,576,710,576,0,200)\fad(60,0)}he
+Dialogue: 2,0:01:50.64,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(1326,576,794,576,0,200)\fad(60,0)}lost
+Dialogue: 2,0:01:51.44,0:01:53.95,Bone,,0,0,0,,{\fnNoto Sans\an4\move(514,576,934,576,0,200)\fad(60,0)}the
+Dialogue: 0,0:00:00.00,0:00:02.08,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:02.08,0:00:03.90,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:03.90,0:00:05.73,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:05.73,0:00:07.55,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:07.55,0:00:09.38,LogoMetal,,0,0,0,,{\an1\pos(40,692)\fsp2}MICROSOFT
+Dialogue: 0,0:00:09.38,0:00:11.21,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:11.21,0:00:13.03,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:13.03,0:00:14.86,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:14.86,0:00:16.68,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:16.68,0:00:18.51,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:18.51,0:00:20.34,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:20.34,0:00:22.16,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:22.16,0:00:23.99,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:23.99,0:00:25.81,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:25.81,0:00:27.64,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:27.64,0:00:29.47,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:29.47,0:00:31.29,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:31.29,0:00:33.12,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:33.12,0:00:36.30,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:00:36.30,0:00:39.50,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:00:39.50,0:00:41.50,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:00:41.50,0:00:44.07,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:00:44.07,0:00:47.72,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:00:47.72,0:00:49.55,LogoBlibbet,,0,0,0,,{\an1\pos(40,692)}MICROSOFT
+Dialogue: 0,0:00:49.55,0:00:51.37,LogoBlibbet,,0,0,0,,{\an1\pos(40,692)}MICROSOFT
+Dialogue: 0,0:00:51.37,0:00:53.20,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:00:53.20,0:00:55.02,LogoBlibbet,,0,0,0,,{\an1\pos(40,692)}MICROSOFT
+Dialogue: 0,0:00:55.02,0:00:56.85,LogoBlibbet,,0,0,0,,{\an1\pos(40,692)}MICROSOFT
+Dialogue: 0,0:00:56.85,0:00:58.67,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:00:58.67,0:01:00.50,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:00.50,0:01:02.32,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:02.32,0:01:03.42,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:03.42,0:01:04.75,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:01:04.75,0:01:06.08,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:01:06.08,0:01:07.68,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 0,0:01:07.68,0:01:09.10,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:09.10,0:01:10.50,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:10.50,0:01:11.90,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:11.90,0:01:13.32,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:13.32,0:01:15.03,LogoPacman,,0,0,0,,{\an1\pos(40,692)\i1}Microsoft
+Dialogue: 0,0:01:15.03,0:01:16.74,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:15.03,0:01:16.74,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:15.03,0:01:16.74,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:15.03,0:01:16.74,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:15.03,0:01:16.74,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:16.74,0:01:20.57,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:16.74,0:01:20.57,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:16.74,0:01:20.57,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:16.74,0:01:20.57,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:16.74,0:01:20.57,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:20.57,0:01:22.40,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:20.57,0:01:22.40,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:20.57,0:01:22.40,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:20.57,0:01:22.40,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:20.57,0:01:22.40,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:22.40,0:01:24.22,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:22.40,0:01:24.22,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:22.40,0:01:24.22,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:22.40,0:01:24.22,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:22.40,0:01:24.22,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:24.22,0:01:26.05,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:24.22,0:01:26.05,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:24.22,0:01:26.05,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:24.22,0:01:26.05,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:24.22,0:01:26.05,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:26.05,0:01:27.87,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:26.05,0:01:27.87,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:26.05,0:01:27.87,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:26.05,0:01:27.87,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:26.05,0:01:27.87,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:27.87,0:01:29.70,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:27.87,0:01:29.70,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:27.87,0:01:29.70,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:27.87,0:01:29.70,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:27.87,0:01:29.70,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:29.70,0:01:31.52,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:29.70,0:01:31.52,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:29.70,0:01:31.52,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:29.70,0:01:31.52,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:29.70,0:01:31.52,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:31.52,0:01:33.35,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:31.52,0:01:33.35,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:31.52,0:01:33.35,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:31.52,0:01:33.35,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:31.52,0:01:33.35,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:33.35,0:01:35.17,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:33.35,0:01:35.17,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:33.35,0:01:35.17,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:33.35,0:01:35.17,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:33.35,0:01:35.17,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:35.17,0:01:37.00,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:35.17,0:01:37.00,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:35.17,0:01:37.00,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:35.17,0:01:37.00,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:35.17,0:01:37.00,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:37.00,0:01:38.82,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:37.00,0:01:38.82,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:37.00,0:01:38.82,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:37.00,0:01:38.82,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:37.00,0:01:38.82,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:38.82,0:01:40.65,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:38.82,0:01:40.65,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:38.82,0:01:40.65,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:38.82,0:01:40.65,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:38.82,0:01:40.65,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:40.65,0:01:42.47,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:40.65,0:01:42.47,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:40.65,0:01:42.47,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:40.65,0:01:42.47,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:40.65,0:01:42.47,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:42.47,0:01:46.12,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:42.47,0:01:46.12,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:42.47,0:01:46.12,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:42.47,0:01:46.12,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:42.47,0:01:46.12,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:46.12,0:01:49.77,Draw,,0,0,0,,{\an7\1c&H1B3AE2\bord0\shad0\pos(40,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:46.12,0:01:49.77,Draw,,0,0,0,,{\an7\1c&H51A600\bord0\shad0\pos(62,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:46.12,0:01:49.77,Draw,,0,0,0,,{\an7\1c&HD47800\bord0\shad0\pos(84,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:46.12,0:01:49.77,Draw,,0,0,0,,{\an7\1c&H1EC6FF\bord0\shad0\pos(106,668)\p1}m 0 0 l 18 0 l 18 18 l 0 18{\p0}
+Dialogue: 0,0:01:46.12,0:01:49.77,LogoSquares,,0,0,0,,{\an1\pos(118,692)}Microsoft
+Dialogue: 0,0:01:49.77,0:01:54.22,LogoDisco,,0,0,0,,{\an1\pos(40,692)\fsp6}MICROSOFT
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1414,510,1154,510,0,180)\p1}m 0 0 l 13 0 l 13 112 l 0 112{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1414,609,1154,609,0,180)\p1}m 0 0 l 70 0 l 70 13 l 0 13{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1472,510,1212,510,0,180)\p1}m 0 0 l 12 0 l 12 112 l 0 112{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1433,539,1173,539,0,180)\p1}m 0 0 l 13 0 l 13 61 l 0 61{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1433,587,1173,587,0,180)\p1}m 0 0 l 32 0 l 32 13 l 0 13{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1452,539,1192,539,0,180)\p1}m 0 0 l 13 0 l 13 48 l 0 48{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&H141414\bord0\shad0\move(1436,523,1176,523,0,180)\p1}m 0 0 l 8 0 l 8 8 l 0 8{\p0}
+Dialogue: 2,0:00:13.23,0:00:14.73,Draw,,0,0,0,,{\an7\1c&H141414\bord0\shad0\move(1459,523,1199,523,0,180)\p1}m 0 0 l 8 0 l 8 8 l 0 8{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1414,510,1154,510,0,180)\p1}m 0 0 l 13 0 l 13 112 l 0 112{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1414,609,1154,609,0,180)\p1}m 0 0 l 70 0 l 70 13 l 0 13{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1472,510,1212,510,0,180)\p1}m 0 0 l 12 0 l 12 112 l 0 112{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1433,539,1173,539,0,180)\p1}m 0 0 l 13 0 l 13 61 l 0 61{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1433,587,1173,587,0,180)\p1}m 0 0 l 32 0 l 32 13 l 0 13{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1452,539,1192,539,0,180)\p1}m 0 0 l 13 0 l 13 48 l 0 48{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&H141414\bord0\shad0\move(1436,523,1176,523,0,180)\p1}m 0 0 l 8 0 l 8 8 l 0 8{\p0}
+Dialogue: 2,0:00:57.05,0:00:58.55,Draw,,0,0,0,,{\an7\1c&H141414\bord0\shad0\move(1459,523,1199,523,0,180)\p1}m 0 0 l 8 0 l 8 8 l 0 8{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1414,510,1154,510,0,180)\p1}m 0 0 l 13 0 l 13 112 l 0 112{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1414,609,1154,609,0,180)\p1}m 0 0 l 70 0 l 70 13 l 0 13{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1472,510,1212,510,0,180)\p1}m 0 0 l 12 0 l 12 112 l 0 112{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1433,539,1173,539,0,180)\p1}m 0 0 l 13 0 l 13 61 l 0 61{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1433,587,1173,587,0,180)\p1}m 0 0 l 32 0 l 32 13 l 0 13{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&HCCCCCC\bord0\shad0\move(1452,539,1192,539,0,180)\p1}m 0 0 l 13 0 l 13 48 l 0 48{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&H141414\bord0\shad0\move(1436,523,1176,523,0,180)\p1}m 0 0 l 8 0 l 8 8 l 0 8{\p0}
+Dialogue: 2,0:01:31.72,0:01:33.22,Draw,,0,0,0,,{\an7\1c&H141414\bord0\shad0\move(1459,523,1199,523,0,180)\p1}m 0 0 l 8 0 l 8 8 l 0 8{\p0}
+Dialogue: 3,0:00:16.88,0:00:18.08,Draw,,0,0,0,,{\an7\1c&H00D5FF\bord0\shad0\move(10,678,330,678,0,1200)\p1}m 0 0 l 14 9 l 10 13 l 4 16 l -1 16 l -7 15 l -12 11 l -15 6 l -17 0 l -15 -6 l -12 -11 l -7 -15 l -1 -16 l 4 -16 l 10 -13 l 14 -9 l 0 0{\p0}
+Dialogue: 3,0:00:58.87,0:01:00.07,Draw,,0,0,0,,{\an7\1c&H00D5FF\bord0\shad0\move(10,678,330,678,0,1200)\p1}m 0 0 l 14 9 l 10 13 l 4 16 l -1 16 l -7 15 l -12 11 l -15 6 l -17 0 l -15 -6 l -12 -11 l -7 -15 l -1 -16 l 4 -16 l 10 -13 l 14 -9 l 0 0{\p0}
+Dialogue: 3,0:01:35.37,0:01:36.57,Draw,,0,0,0,,{\an7\1c&H00D5FF\bord0\shad0\move(10,678,330,678,0,1200)\p1}m 0 0 l 14 9 l 10 13 l 4 16 l -1 16 l -7 15 l -12 11 l -15 6 l -17 0 l -15 -6 l -12 -11 l -7 -15 l -1 -16 l 4 -16 l 10 -13 l 14 -9 l 0 0{\p0}
+Dialogue: 0,0:00:00.00,0:01:54.22,Bone,,0,0,0,,{\an3\pos(1252,692)\fs22\alpha&H80&}~ WuBu ~

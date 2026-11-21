@@ -1,0 +1,57 @@
+{
+ "take": "media-generation-mv11-rebuild-s21-t2-0-c903a853-2991-4691-bcb8-1207d10896b9.mp4",
+ "scene": "S21",
+ "take_no": "2",
+ "duration": 5.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Thanks",
+   "start": 0.0,
+   "end": 0.92,
+   "prob": 0.001
+  },
+  {
+   "word": "for",
+   "start": 0.92,
+   "end": 0.92,
+   "prob": 0.812
+  },
+  {
+   "word": "watching!",
+   "start": 0.92,
+   "end": 5.0,
+   "prob": 0.927
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "86b2ba84a5c7",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 1.5,
+   "md5": "05705b7271bf",
+   "mean_abs_diff_from_prev": 40.78
+  },
+  {
+   "t": 2.5,
+   "md5": "873b65ebe62f",
+   "mean_abs_diff_from_prev": 47.2
+  },
+  {
+   "t": 3.5,
+   "md5": "2364379ca4ee",
+   "mean_abs_diff_from_prev": 35.62
+  },
+  {
+   "t": 4.0,
+   "md5": "0fc42230f396",
+   "mean_abs_diff_from_prev": 21.03
+  }
+ ],
+ "frames_distinct": true
+}

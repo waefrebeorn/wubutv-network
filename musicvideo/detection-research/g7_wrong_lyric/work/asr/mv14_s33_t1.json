@@ -1,0 +1,44 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s33-t1-0-ac1b6dea-49f2-4450-bd94-ae9b9d10ddad.mp4",
+ "segments": [
+  {
+   "start": 4.22,
+   "end": 4.92,
+   "text": "I'll see you next time.",
+   "avg_logprob": -1.221,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " I'll",
+     "start": 4.22,
+     "end": 4.26,
+     "probability": 0.047
+    },
+    {
+     "word": " see",
+     "start": 4.26,
+     "end": 4.28,
+     "probability": 0.284
+    },
+    {
+     "word": " you",
+     "start": 4.28,
+     "end": 4.28,
+     "probability": 0.935
+    },
+    {
+     "word": " next",
+     "start": 4.28,
+     "end": 4.9,
+     "probability": 0.451
+    },
+    {
+     "word": " time.",
+     "start": 4.9,
+     "end": 4.92,
+     "probability": 0.866
+    }
+   ]
+  }
+ ]
+}

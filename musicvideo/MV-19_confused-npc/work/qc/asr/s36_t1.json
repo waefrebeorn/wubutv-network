@@ -1,0 +1,37 @@
+{
+ "take": "takes/mv19_s36_t1.mp4",
+ "words": [
+  {
+   "w": "Forgot",
+   "start": 0.0,
+   "end": 2.76,
+   "p": 0.737
+  },
+  {
+   "w": "why,",
+   "start": 2.76,
+   "end": 3.4,
+   "p": 0.947
+  },
+  {
+   "w": "forgot",
+   "start": 4.6,
+   "end": 6.28,
+   "p": 0.914
+  },
+  {
+   "w": "why.",
+   "start": 6.28,
+   "end": 7.06,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.06,
+   "text": "Forgot why, forgot why.",
+   "avg_logprob": -0.477
+  }
+ ]
+}

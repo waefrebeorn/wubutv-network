@@ -1,0 +1,67 @@
+{
+  "S05_WARPED": {
+    "take": "mv2_s05_t6_warped.mp4",
+    "factor": 1.3,
+    "words": [
+      [
+        "toll",
+        0.0,
+        1.16,
+        "tall"
+      ],
+      [
+        "roads",
+        1.16,
+        1.78,
+        "roads"
+      ],
+      [
+        "are",
+        1.78,
+        2.32,
+        "are"
+      ],
+      [
+        "dumb",
+        2.32,
+        2.82,
+        "dumb"
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      2.82
+    ],
+    "frame": {
+      "vocal_span": [
+        0.0,
+        2.82
+      ],
+      "vocal_transitions": 68,
+      "vocal_changed_gt_0_5": 29,
+      "vocal_near_dup_run": 12,
+      "vocal_frozen_run": 2,
+      "vocal_mean_diff": 0.61,
+      "frame_gate": "PASS"
+    }
+  },
+  "S13_T3": {
+    "take": "mv2_s13_t3.mp4",
+    "vocal_span": [
+      0.0,
+      3.64
+    ],
+    "frame": {
+      "vocal_span": [
+        0.0,
+        3.64
+      ],
+      "vocal_transitions": 88,
+      "vocal_changed_gt_0_5": 35,
+      "vocal_near_dup_run": 11,
+      "vocal_frozen_run": 1,
+      "vocal_mean_diff": 0.97,
+      "frame_gate": "PASS"
+    }
+  }
+}

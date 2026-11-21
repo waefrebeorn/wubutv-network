@@ -1,0 +1,9 @@
+ON AIR E1 "The Signed Folder" — DELIVERED (pending parent verification)
+Master: masters/ON_AIR_E1_MASTER.mp4
+MD5: 06cd491007f6919357716010495a00af
+Size: 28253893 bytes
+Frames: 1440 (60.000s, 1280x720, 24fps, h264 + AAC, faststart)
+Gates: segments 6/6 probe PASS; dialogue ASR 87/87 verbatim; joint gate PASS x5; cohesion gate 4 PASS + 1 CONDITIONAL (U1-U2 reframing); wordmark full-span sweep PASS; BLAM all bars PASS; CRF 18 proven by 1.78x differential vs CRF 23.
+Flaws: see work/GATE_LOG.md (F1 cat-mouth composite reads as a cat mouth; F2 strip head fade-in ~0.25s; F3 loudness landing -17.12 LUFS / TP -1.42; F4 U1-U2 conditional cohesion; F5 U3 sung vocables; F6 mono audio).
+Gate log: work/GATE_LOG.md
+Completed: 2026-11-16 (recovery coordinator; coordinator 1 failed ~03:15 EST pre-master, no segments refired)

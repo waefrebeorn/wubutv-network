@@ -1,0 +1,91 @@
+{
+ "take": "takes/mv16_s28_t2.mp4",
+ "words": [
+  {
+   "w": "Nobody",
+   "start": 0.0,
+   "end": 0.68,
+   "p": 0.81
+  },
+  {
+   "w": "stop",
+   "start": 0.68,
+   "end": 1.08,
+   "p": 0.724
+  },
+  {
+   "w": "me,",
+   "start": 1.08,
+   "end": 1.48,
+   "p": 0.997
+  },
+  {
+   "w": "nobody",
+   "start": 1.56,
+   "end": 2.12,
+   "p": 0.933
+  },
+  {
+   "w": "stop",
+   "start": 2.12,
+   "end": 2.6,
+   "p": 0.994
+  },
+  {
+   "w": "me",
+   "start": 2.6,
+   "end": 3.08,
+   "p": 0.999
+  },
+  {
+   "w": "Wrong",
+   "start": 3.08,
+   "end": 3.68,
+   "p": 0.609
+  },
+  {
+   "w": "for",
+   "start": 3.68,
+   "end": 4.0,
+   "p": 0.921
+  },
+  {
+   "w": "years,",
+   "start": 4.0,
+   "end": 4.64,
+   "p": 0.997
+  },
+  {
+   "w": "wrong",
+   "start": 5.0,
+   "end": 5.6,
+   "p": 0.994
+  },
+  {
+   "w": "for",
+   "start": 5.6,
+   "end": 5.98,
+   "p": 0.998
+  },
+  {
+   "w": "years",
+   "start": 5.98,
+   "end": 6.9,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.08,
+   "text": "Nobody stop me, nobody stop me",
+   "avg_logprob": -0.293
+  },
+  {
+   "start": 3.08,
+   "end": 6.9,
+   "text": "Wrong for years, wrong for years",
+   "avg_logprob": -0.293
+  }
+ ]
+}

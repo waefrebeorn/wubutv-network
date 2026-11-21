@@ -1,0 +1,92 @@
+{
+ "take": "media-generation-mv11-rebuild-s07-t2-0-8311824b-9293-48a3-9509-12c33f39aff7.mp4",
+ "scene": "S07",
+ "take_no": "2",
+ "duration": 5.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Sitting",
+   "start": 0.0,
+   "end": 0.94,
+   "prob": 0.652
+  },
+  {
+   "word": "on",
+   "start": 0.94,
+   "end": 1.36,
+   "prob": 0.992
+  },
+  {
+   "word": "the",
+   "start": 1.36,
+   "end": 1.56,
+   "prob": 0.996
+  },
+  {
+   "word": "toilet,",
+   "start": 1.56,
+   "end": 2.16,
+   "prob": 0.983
+  },
+  {
+   "word": "water",
+   "start": 2.52,
+   "end": 3.04,
+   "prob": 0.909
+  },
+  {
+   "word": "hits",
+   "start": 3.04,
+   "end": 3.54,
+   "prob": 0.989
+  },
+  {
+   "word": "my",
+   "start": 3.54,
+   "end": 4.22,
+   "prob": 0.95
+  },
+  {
+   "word": "balls",
+   "start": 4.22,
+   "end": 4.62,
+   "prob": 0.638
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "16de60696b71",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 1.0,
+   "md5": "25f9d6824311",
+   "mean_abs_diff_from_prev": 24.62
+  },
+  {
+   "t": 2.0,
+   "md5": "c6e26d3f60d7",
+   "mean_abs_diff_from_prev": 30.33
+  },
+  {
+   "t": 3.0,
+   "md5": "31d8124e3fd4",
+   "mean_abs_diff_from_prev": 29.98
+  },
+  {
+   "t": 3.65,
+   "md5": "b6fa1f2e4af3",
+   "mean_abs_diff_from_prev": 24.07
+  },
+  {
+   "t": 4.5,
+   "md5": "961c29e2dc17",
+   "mean_abs_diff_from_prev": 33.18
+  }
+ ],
+ "frames_distinct": true
+}

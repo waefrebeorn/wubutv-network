@@ -1,0 +1,154 @@
+{
+ "stem": "c1tail",
+ "offset": 59.0,
+ "model": "large-v3-turbo",
+ "n_words": 19,
+ "words": [
+  {
+   "word": "Settle",
+   "start": 59.0,
+   "end": 59.48,
+   "prob": 0.697
+  },
+  {
+   "word": "the",
+   "start": 59.48,
+   "end": 59.72,
+   "prob": 0.933
+  },
+  {
+   "word": "lemons,",
+   "start": 59.72,
+   "end": 60.1,
+   "prob": 0.535
+  },
+  {
+   "word": "bacon",
+   "start": 60.12,
+   "end": 61.14,
+   "prob": 0.874
+  },
+  {
+   "word": "head,",
+   "start": 61.14,
+   "end": 61.58,
+   "prob": 0.306
+  },
+  {
+   "word": "settle",
+   "start": 61.72,
+   "end": 61.98,
+   "prob": 0.75
+  },
+  {
+   "word": "the",
+   "start": 61.98,
+   "end": 62.82,
+   "prob": 0.976
+  },
+  {
+   "word": "lemons",
+   "start": 62.82,
+   "end": 63.6,
+   "prob": 0.983
+  },
+  {
+   "word": "NERGA",
+   "start": 65.42,
+   "end": 66.3,
+   "prob": 0.495
+  },
+  {
+   "word": "GONNA",
+   "start": 66.3,
+   "end": 67.18,
+   "prob": 0.432
+  },
+  {
+   "word": "SELL",
+   "start": 67.18,
+   "end": 68.28,
+   "prob": 0.401
+  },
+  {
+   "word": "THE",
+   "start": 68.28,
+   "end": 68.48,
+   "prob": 0.387
+  },
+  {
+   "word": "LEMONS",
+   "start": 68.48,
+   "end": 69.12,
+   "prob": 0.776
+  },
+  {
+   "word": "Never",
+   "start": 69.12,
+   "end": 69.42,
+   "prob": 0.074
+  },
+  {
+   "word": "gonna",
+   "start": 69.42,
+   "end": 69.72,
+   "prob": 0.949
+  },
+  {
+   "word": "stop.",
+   "start": 69.72,
+   "end": 70.14,
+   "prob": 0.956
+  },
+  {
+   "word": "Stop.",
+   "start": 70.34,
+   "end": 71.16,
+   "prob": 0.214
+  },
+  {
+   "word": "Stop.",
+   "start": 72.16,
+   "end": 72.5,
+   "prob": 0.522
+  },
+  {
+   "word": "Lemon.",
+   "start": 73.1,
+   "end": 73.56,
+   "prob": 0.805
+  }
+ ],
+ "segments": [
+  {
+   "start": 59.0,
+   "end": 63.6,
+   "text": "Settle the lemons, bacon head, settle the lemons"
+  },
+  {
+   "start": 65.42,
+   "end": 69.12,
+   "text": "NERGA GONNA SELL THE LEMONS"
+  },
+  {
+   "start": 69.12,
+   "end": 70.14,
+   "text": "Never gonna stop."
+  },
+  {
+   "start": 70.34,
+   "end": 71.16,
+   "text": "Stop."
+  },
+  {
+   "start": 72.16,
+   "end": 72.5,
+   "text": "Stop."
+  },
+  {
+   "start": 73.1,
+   "end": 73.56,
+   "text": "Lemon."
+  }
+ ]
+}

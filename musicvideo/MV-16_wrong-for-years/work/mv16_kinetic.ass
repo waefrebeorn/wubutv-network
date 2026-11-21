@@ -1,0 +1,1423 @@
+[Script Info]
+Title: MV-16 Wrong for Years — kinetic layer (REBUILD, correct take)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Line,Arial,44,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,2,40,40,26,1
+Style: Slam,Arial,58,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,30,1
+Style: Chase,Arial,40,&H0000E6FF,&H0000E6FF,&H00141414,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0,0,0,1
+Style: Tee,Arial,30,&H002E1A1A,&H002E1A1A,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,5,0,0,0,1
+Style: Bug,Arial,22,&H66FFFFFF,&H66FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,20,16,12,1
+Style: Draw,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:01.48,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:00:00.00,0:03:18.10,Bug,,0,0,0,,{\pos(1252,700)}~ WuBu ~
+Dialogue: 0,0:00:01.48,0:00:01.58,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:00:01.58,0:00:01.90,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:00:01.90,0:00:02.16,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:00:02.16,0:00:02.50,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:00:02.50,0:00:03.14,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:03.14,0:00:03.60,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:00:03.60,0:00:03.86,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:00:03.86,0:00:04.54,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:05.56,0:00:06.48,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:00:06.48,0:00:07.24,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:00:07.24,0:00:07.64,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:07.64,0:00:07.92,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:00:07.92,0:00:08.02,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:00:08.02,0:00:08.60,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:00:08.60,0:00:08.94,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:00:08.94,0:00:09.40,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:00:09.40,0:00:09.96,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:09.96,0:00:10.30,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:00:10.30,0:00:10.50,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:10.50,0:00:12.32,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:00:12.32,0:00:13.74,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:00:14.56,0:00:15.10,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:00:15.10,0:00:15.78,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:15.96,0:00:16.44,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:00:16.44,0:00:16.72,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:00:16.72,0:00:17.30,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:17.30,0:00:17.62,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm still going
+Dialogue: 0,0:00:17.62,0:00:17.92,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} still going
+Dialogue: 0,0:00:17.92,0:00:18.42,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} going
+Dialogue: 0,0:00:18.42,0:00:19.56,Line,,0,0,0,,And I'm still {\c&H00FFFF&\b1}going{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:19.56,0:00:20.88,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:00:20.88,0:00:20.96,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:00:20.96,0:00:21.30,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:00:21.30,0:00:21.62,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:00:21.62,0:00:21.94,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:00:21.94,0:00:22.58,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:22.58,0:00:23.04,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:00:23.04,0:00:23.24,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:00:23.24,0:00:23.76,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:23.76,0:00:24.50,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:00:24.50,0:00:25.30,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:00:25.30,0:00:25.88,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:27.78,0:00:28.66,Line,,0,0,0,,{\c&H00FFFF&\b1}Belted{\c&HFFFFFF&\b1} the whole chorus in the car
+Dialogue: 0,0:00:28.66,0:00:28.82,Line,,0,0,0,,Belted {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} whole chorus in the car
+Dialogue: 0,0:00:28.82,0:00:29.02,Line,,0,0,0,,Belted the {\c&H00FFFF&\b1}whole{\c&HFFFFFF&\b1} chorus in the car
+Dialogue: 0,0:00:29.02,0:00:29.44,Line,,0,0,0,,Belted the whole {\c&H00FFFF&\b1}chorus{\c&HFFFFFF&\b1} in the car
+Dialogue: 0,0:00:29.44,0:00:29.68,Line,,0,0,0,,Belted the whole chorus {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1} the car
+Dialogue: 0,0:00:29.68,0:00:29.82,Line,,0,0,0,,Belted the whole chorus in {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} car
+Dialogue: 0,0:00:29.82,0:00:30.16,Line,,0,0,0,,Belted the whole chorus in the {\c&H00FFFF&\b1}car{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:30.16,0:00:30.48,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} I wrote it
+Dialogue: 0,0:00:30.48,0:00:30.66,Line,,0,0,0,,Like {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} wrote it
+Dialogue: 0,0:00:30.66,0:00:30.96,Line,,0,0,0,,Like I {\c&H00FFFF&\b1}wrote{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:30.96,0:00:31.26,Line,,0,0,0,,Like I wrote {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:31.26,0:00:31.76,Line,,0,0,0,,{\c&H00FFFF&\b1}yeah{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:33.16,0:00:34.04,Line,,0,0,0,,{\c&H00FFFF&\b1}Friends{\c&HFFFFFF&\b1} in the back just nodded
+Dialogue: 0,0:00:34.04,0:00:34.52,Line,,0,0,0,,Friends {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1} the back just nodded
+Dialogue: 0,0:00:34.52,0:00:34.66,Line,,0,0,0,,Friends in {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} back just nodded
+Dialogue: 0,0:00:34.66,0:00:35.00,Line,,0,0,0,,Friends in the {\c&H00FFFF&\b1}back{\c&HFFFFFF&\b1} just nodded
+Dialogue: 0,0:00:35.00,0:00:35.38,Line,,0,0,0,,Friends in the back {\c&H00FFFF&\b1}just{\c&HFFFFFF&\b1} nodded
+Dialogue: 0,0:00:35.38,0:00:36.20,Line,,0,0,0,,Friends in the back just {\c&H00FFFF&\b1}nodded{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:36.20,0:00:37.02,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} let it ride
+Dialogue: 0,0:00:37.02,0:00:37.42,Line,,0,0,0,,And {\c&H00FFFF&\b1}let{\c&HFFFFFF&\b1} it ride
+Dialogue: 0,0:00:37.42,0:00:37.68,Line,,0,0,0,,And let {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} ride
+Dialogue: 0,0:00:37.68,0:00:38.68,Line,,0,0,0,,And let it {\c&H00FFFF&\b1}ride{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:38.68,0:00:40.32,Line,,0,0,0,,{\c&H00FFFF&\b1}Now{\c&HFFFFFF&\b1} I'm at karaoke
+Dialogue: 0,0:00:38.68,0:00:39.44,Draw,,0,0,0,,{\p1\c&H141414&\alpha&HB0&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:00:38.68,0:00:39.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:00:38.68,0:00:39.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:00:38.68,0:00:39.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:00:38.68,0:00:39.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:00:39.44,0:00:40.20,Draw,,0,0,0,,{\p1\c&H141414&\alpha&H70&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:00:39.44,0:00:40.20,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:00:39.44,0:00:40.20,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:00:39.44,0:00:40.20,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:00:39.44,0:00:40.20,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:00:40.20,0:00:51.88,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:00:40.20,0:00:51.88,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:00:40.20,0:00:51.88,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:00:40.20,0:00:51.88,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:00:40.20,0:00:51.88,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:00:40.32,0:00:40.64,Line,,0,0,0,,Now {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} at karaoke
+Dialogue: 0,0:00:40.64,0:00:40.76,Line,,0,0,0,,Now I'm {\c&H00FFFF&\b1}at{\c&HFFFFFF&\b1} karaoke
+Dialogue: 0,0:00:40.76,0:00:41.24,Line,,0,0,0,,Now I'm at {\c&H00FFFF&\b1}karaoke{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:41.24,0:00:42.52,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} the screen says different
+Dialogue: 0,0:00:42.52,0:00:42.68,Line,,0,0,0,,And {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} screen says different
+Dialogue: 0,0:00:42.68,0:00:43.02,Line,,0,0,0,,And the {\c&H00FFFF&\b1}screen{\c&HFFFFFF&\b1} says different
+Dialogue: 0,0:00:43.02,0:00:43.50,Line,,0,0,0,,And the screen {\c&H00FFFF&\b1}says{\c&HFFFFFF&\b1} different
+Dialogue: 0,0:00:43.50,0:00:43.96,Line,,0,0,0,,And the screen says {\c&H00FFFF&\b1}different{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:43.96,0:00:44.78,Line,,0,0,0,,{\c&H00FFFF&\b1}But{\c&HFFFFFF&\b1} I'm already locked in
+Dialogue: 0,0:00:44.78,0:00:45.04,Line,,0,0,0,,But {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} already locked in
+Dialogue: 0,0:00:45.04,0:00:45.48,Line,,0,0,0,,But I'm {\c&H00FFFF&\b1}already{\c&HFFFFFF&\b1} locked in
+Dialogue: 0,0:00:45.48,0:00:45.94,Line,,0,0,0,,But I'm already {\c&H00FFFF&\b1}locked{\c&HFFFFFF&\b1} in
+Dialogue: 0,0:00:45.94,0:00:46.40,Line,,0,0,0,,But I'm already locked {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:46.40,0:00:46.88,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm not switching sides
+Dialogue: 0,0:00:46.88,0:00:47.50,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} not switching sides
+Dialogue: 0,0:00:47.50,0:00:48.66,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}not{\c&HFFFFFF&\b1} switching sides
+Dialogue: 0,0:00:48.66,0:00:50.06,Line,,0,0,0,,And I'm not {\c&H00FFFF&\b1}switching{\c&HFFFFFF&\b1} sides
+Dialogue: 0,0:00:50.06,0:00:51.88,Line,,0,0,0,,And I'm not switching {\c&H00FFFF&\b1}sides{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:51.88,0:00:53.12,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} learned it wrong
+Dialogue: 0,0:00:51.88,0:00:58.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:00:51.88,0:00:58.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:00:51.88,0:00:58.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:00:51.88,0:00:58.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:00:51.88,0:00:58.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:00:53.12,0:00:53.66,Line,,0,0,0,,I {\c&H00FFFF&\b1}learned{\c&HFFFFFF&\b1} it wrong
+Dialogue: 0,0:00:53.48,0:00:53.66,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1010 480 l 1240 480 l 1240 492 l 1010 492
+Dialogue: 0,0:00:53.66,0:00:53.94,Line,,0,0,0,,I learned {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} wrong
+Dialogue: 0,0:00:53.94,0:00:54.36,Line,,0,0,0,,I learned it {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:54.36,0:00:54.70,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} learned it wrong
+Dialogue: 0,0:00:54.70,0:00:55.04,Line,,0,0,0,,I {\c&H00FFFF&\b1}learned{\c&HFFFFFF&\b1} it wrong
+Dialogue: 0,0:00:54.98,0:00:55.16,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1010 480 l 1240 480 l 1240 492 l 1010 492
+Dialogue: 0,0:00:55.04,0:00:55.38,Line,,0,0,0,,I learned {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} wrong
+Dialogue: 0,0:00:55.38,0:00:55.72,Line,,0,0,0,,I learned it {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:55.72,0:00:56.14,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I kept it
+Dialogue: 0,0:00:56.14,0:00:56.32,Line,,0,0,0,,And {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} kept it
+Dialogue: 0,0:00:56.32,0:00:56.82,Line,,0,0,0,,And I {\c&H00FFFF&\b1}kept{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:56.58,0:00:56.76,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1010 480 l 1240 480 l 1240 492 l 1010 492
+Dialogue: 0,0:00:56.82,0:00:57.30,Line,,0,0,0,,And I kept {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:57.30,0:00:57.76,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I kept it
+Dialogue: 0,0:00:57.76,0:00:57.96,Line,,0,0,0,,And {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} kept it
+Dialogue: 0,0:00:57.96,0:00:58.38,Line,,0,0,0,,And I {\c&H00FFFF&\b1}kept{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:58.38,0:00:58.84,Line,,0,0,0,,And I kept {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:58.84,0:00:59.56,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:00:58.84,0:00:59.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:00:58.84,0:00:59.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:00:58.84,0:00:59.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:00:58.84,0:00:59.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:00:58.84,0:00:59.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:00:58.84,0:00:59.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:00:59.56,0:00:59.72,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:00:59.64,0:01:00.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:00:59.64,0:01:00.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:00:59.64,0:01:00.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:00:59.64,0:01:00.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:00:59.64,0:01:00.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:00:59.64,0:01:00.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:00:59.72,0:01:00.00,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:01:00.00,0:01:00.24,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:01:00.24,0:01:00.62,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:01:00.44,0:01:01.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:00.44,0:01:01.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:00.44,0:01:01.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:00.44,0:01:01.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:00.44,0:01:01.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:00.44,0:01:01.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:00.62,0:01:01.22,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:01.22,0:01:01.68,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:01:01.24,0:01:02.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:01.24,0:01:02.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:01.24,0:01:02.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:01.24,0:01:02.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:01.24,0:01:02.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:01.24,0:01:02.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:01.68,0:01:01.98,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:01:01.98,0:01:02.54,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:02.04,0:01:02.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:02.04,0:01:02.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:02.04,0:01:02.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:02.04,0:01:02.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:02.04,0:01:02.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:02.04,0:01:02.84,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:02.84,0:01:03.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:02.84,0:01:03.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:02.84,0:01:03.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:02.84,0:01:03.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:02.84,0:01:03.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:02.84,0:01:03.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:03.64,0:01:04.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:03.64,0:01:04.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:03.64,0:01:04.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:03.64,0:01:04.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:03.64,0:01:04.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:03.64,0:01:04.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:03.64,0:01:04.60,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:01:04.44,0:01:05.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:04.44,0:01:05.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:04.44,0:01:05.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:04.44,0:01:05.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:04.44,0:01:05.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:04.44,0:01:05.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:04.60,0:01:05.34,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:01:05.24,0:01:06.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:05.24,0:01:06.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:05.24,0:01:06.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:05.24,0:01:06.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:05.24,0:01:06.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:05.24,0:01:06.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:05.34,0:01:05.70,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:05.70,0:01:06.02,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:01:06.02,0:01:06.10,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:01:06.04,0:01:06.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:06.04,0:01:06.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:06.04,0:01:06.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:06.04,0:01:06.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:06.04,0:01:06.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:06.04,0:01:06.84,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:06.10,0:01:06.44,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:01:06.44,0:01:06.74,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:01:06.74,0:01:07.04,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:01:06.84,0:01:07.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:06.84,0:01:07.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:06.84,0:01:07.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:06.84,0:01:07.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:06.84,0:01:07.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:06.84,0:01:07.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:07.04,0:01:07.66,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:07.64,0:01:08.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:07.64,0:01:08.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:07.64,0:01:08.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:07.64,0:01:08.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:07.64,0:01:08.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:07.64,0:01:08.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:07.66,0:01:08.14,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:01:08.14,0:01:08.38,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:01:08.38,0:01:08.90,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:08.44,0:01:09.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:08.44,0:01:09.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:08.44,0:01:09.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:08.44,0:01:09.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:08.44,0:01:09.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:08.44,0:01:09.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:09.24,0:01:10.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:09.24,0:01:10.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:09.24,0:01:10.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:09.24,0:01:10.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:09.24,0:01:10.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:09.24,0:01:10.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:10.04,0:01:10.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:10.04,0:01:10.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:10.04,0:01:10.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:10.04,0:01:10.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:10.04,0:01:10.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:10.04,0:01:10.84,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:10.06,0:01:11.02,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:01:10.84,0:01:11.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:10.84,0:01:11.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:10.84,0:01:11.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:10.84,0:01:11.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:10.84,0:01:11.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:10.84,0:01:11.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:11.02,0:01:11.80,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:01:11.64,0:01:12.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:11.64,0:01:12.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:11.64,0:01:12.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:11.64,0:01:12.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:11.64,0:01:12.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:11.64,0:01:12.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:11.80,0:01:12.30,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:12.30,0:01:12.88,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:01:12.44,0:01:13.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:12.44,0:01:13.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:12.44,0:01:13.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:12.44,0:01:13.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:12.44,0:01:13.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:12.44,0:01:13.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:12.88,0:01:13.16,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:01:13.16,0:01:13.82,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:13.24,0:01:14.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:13.24,0:01:14.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:13.24,0:01:14.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:13.24,0:01:14.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:13.24,0:01:14.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:13.24,0:01:14.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:13.82,0:01:14.21,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:01:14.04,0:01:14.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:14.04,0:01:14.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:14.04,0:01:14.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:14.04,0:01:14.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:14.04,0:01:14.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:14.04,0:01:14.84,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:14.21,0:01:14.61,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:01:14.61,0:01:15.00,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:14.84,0:01:15.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:14.84,0:01:15.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:14.84,0:01:15.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:14.84,0:01:15.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:14.84,0:01:15.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:14.84,0:01:15.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:15.00,0:01:15.64,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm still going
+Dialogue: 0,0:01:15.64,0:01:16.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:15.64,0:01:16.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:15.64,0:01:16.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:15.64,0:01:16.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:15.64,0:01:16.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:15.64,0:01:16.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:15.64,0:01:15.94,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} still going
+Dialogue: 0,0:01:15.94,0:01:16.42,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} going
+Dialogue: 0,0:01:16.42,0:01:17.58,Line,,0,0,0,,And I'm still {\c&H00FFFF&\b1}going{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:16.44,0:01:17.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:16.44,0:01:17.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:16.44,0:01:17.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:16.44,0:01:17.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:16.44,0:01:17.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:16.44,0:01:17.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:17.24,0:01:18.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:17.24,0:01:18.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:17.24,0:01:18.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:17.24,0:01:18.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:17.24,0:01:18.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:17.24,0:01:18.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:17.58,0:01:18.90,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:01:18.04,0:01:18.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:18.04,0:01:18.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:18.04,0:01:18.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:18.04,0:01:18.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:18.04,0:01:18.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:18.04,0:01:18.84,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:18.84,0:01:19.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:18.84,0:01:19.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:18.84,0:01:19.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:18.84,0:01:19.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:18.84,0:01:19.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:18.84,0:01:19.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:18.90,0:01:19.02,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:01:19.02,0:01:19.36,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:01:19.36,0:01:19.64,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:01:19.64,0:01:20.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:19.64,0:01:20.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:19.64,0:01:20.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:19.64,0:01:20.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:19.64,0:01:20.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:19.64,0:01:20.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:19.64,0:01:20.00,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:01:20.00,0:01:20.56,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:20.44,0:01:21.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:20.44,0:01:21.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:20.44,0:01:21.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:20.44,0:01:21.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:20.44,0:01:21.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:20.44,0:01:21.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:20.56,0:01:21.00,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:01:21.00,0:01:21.22,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:01:21.22,0:01:21.70,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:21.24,0:01:22.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:21.24,0:01:22.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:21.24,0:01:22.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:21.24,0:01:22.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:21.24,0:01:22.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:21.24,0:01:22.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:21.70,0:01:22.68,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:01:22.04,0:01:22.84,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:22.04,0:01:22.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:22.04,0:01:22.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:22.04,0:01:22.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:22.04,0:01:22.84,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:22.04,0:01:22.84,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:22.68,0:01:23.24,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:01:22.84,0:01:23.64,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:22.84,0:01:23.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:22.84,0:01:23.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:22.84,0:01:23.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:22.84,0:01:23.64,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:22.84,0:01:23.64,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:23.24,0:01:25.06,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:23.64,0:01:24.44,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:23.64,0:01:24.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:23.64,0:01:24.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:23.64,0:01:24.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:23.64,0:01:24.44,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:23.64,0:01:24.44,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:24.44,0:01:25.24,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:24.44,0:01:25.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:24.44,0:01:25.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:24.44,0:01:25.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:24.44,0:01:25.24,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:24.44,0:01:25.24,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 550 l 1240 550 l 1240 560 l 1010 560
+Dialogue: 0,0:01:25.24,0:01:26.04,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:25.24,0:01:26.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:25.24,0:01:26.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:25.24,0:01:26.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:25.24,0:01:26.04,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:25.24,0:01:26.04,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 470 l 1240 470 l 1240 480 l 1010 480
+Dialogue: 0,0:01:26.04,0:01:26.65,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:26.04,0:01:26.65,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:26.04,0:01:26.65,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:26.04,0:01:26.65,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:26.04,0:01:26.65,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:26.04,0:01:26.65,Draw,,0,0,0,,{\p1\c&H8A8A8A&\pos(0,0)}m 1010 510 l 1240 510 l 1240 520 l 1010 520
+Dialogue: 0,0:01:26.65,0:01:27.05,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:26.65,0:01:27.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:26.65,0:01:27.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:26.65,0:01:27.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:26.65,0:01:27.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:27.05,0:01:27.45,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:27.05,0:01:27.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:27.05,0:01:27.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:27.05,0:01:27.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:27.05,0:01:27.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:27.45,0:01:27.85,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:27.45,0:01:27.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:27.45,0:01:27.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:27.45,0:01:27.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:27.45,0:01:27.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:27.85,0:01:28.25,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:27.85,0:01:28.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:27.85,0:01:28.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:27.85,0:01:28.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:27.85,0:01:28.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:28.24,0:01:29.00,Chase,,0,0,0,,{\pos(70,110)}Wrong
+Dialogue: 0,0:01:28.25,0:01:28.65,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:28.25,0:01:28.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:28.25,0:01:28.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:28.25,0:01:28.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:28.25,0:01:28.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:28.65,0:01:29.05,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:28.65,0:01:29.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:28.65,0:01:29.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:28.65,0:01:29.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:28.65,0:01:29.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:29.00,0:01:29.42,Chase,,0,0,0,,{\pos(70,110)}Wrong for
+Dialogue: 0,0:01:29.05,0:01:29.45,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:29.05,0:01:29.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:29.05,0:01:29.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:29.05,0:01:29.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:29.05,0:01:29.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:29.42,0:01:30.68,Chase,,0,0,0,,{\pos(70,110)}Wrong for years
+Dialogue: 0,0:01:29.45,0:01:29.85,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:29.45,0:01:29.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:29.45,0:01:29.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:29.45,0:01:29.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:29.45,0:01:29.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:29.85,0:01:30.25,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:29.85,0:01:30.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:29.85,0:01:30.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:29.85,0:01:30.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:29.85,0:01:30.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:30.25,0:01:30.65,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:30.25,0:01:30.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:30.25,0:01:30.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:30.25,0:01:30.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:30.25,0:01:30.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:30.65,0:01:31.05,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:30.65,0:01:31.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:30.65,0:01:31.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:30.65,0:01:31.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:30.65,0:01:31.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:30.68,0:01:32.26,Chase,,0,0,0,,{\pos(70,110)}Wrong
+Dialogue: 0,0:01:31.05,0:01:31.45,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:31.05,0:01:31.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:31.05,0:01:31.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:31.05,0:01:31.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:31.05,0:01:31.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:31.45,0:01:31.85,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:31.45,0:01:31.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:31.45,0:01:31.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:31.45,0:01:31.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:31.45,0:01:31.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:31.85,0:01:32.25,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:31.85,0:01:32.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:31.85,0:01:32.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:31.85,0:01:32.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:31.85,0:01:32.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:32.25,0:01:32.65,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:32.25,0:01:32.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:32.25,0:01:32.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:32.25,0:01:32.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:32.25,0:01:32.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:32.26,0:01:32.64,Chase,,0,0,0,,{\pos(70,110)}Wrong for
+Dialogue: 0,0:01:32.64,0:01:33.88,Chase,,0,0,0,,{\pos(70,110)}Wrong for years
+Dialogue: 0,0:01:32.65,0:01:33.05,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:32.65,0:01:33.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:32.65,0:01:33.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:32.65,0:01:33.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:32.65,0:01:33.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:33.05,0:01:33.45,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:33.05,0:01:33.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:33.05,0:01:33.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:33.05,0:01:33.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:33.05,0:01:33.45,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:33.45,0:01:33.85,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:33.45,0:01:33.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:33.45,0:01:33.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:33.45,0:01:33.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:33.45,0:01:33.85,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:33.85,0:01:34.25,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:33.85,0:01:34.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:33.85,0:01:34.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:33.85,0:01:34.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:33.85,0:01:34.25,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:34.25,0:01:34.65,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:34.25,0:01:34.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:34.25,0:01:34.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:34.25,0:01:34.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:34.25,0:01:34.65,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:34.65,0:01:35.05,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:34.65,0:01:35.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:34.65,0:01:35.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:34.65,0:01:35.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:34.65,0:01:35.05,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:35.05,0:01:35.36,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:35.05,0:01:35.36,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:35.05,0:01:35.36,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:35.05,0:01:35.36,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:35.05,0:01:35.36,Draw,,0,0,0,,{\p1\c&H00E6FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:35.36,0:01:36.12,Line,,0,0,0,,{\c&H00FFFF&\b1}Mic{\c&HFFFFFF&\b1} in my hand
+Dialogue: 0,0:01:35.36,0:02:21.96,Draw,,0,0,0,,{\p1\c&H0A0A0A&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:01:35.36,0:02:21.96,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:01:35.36,0:02:21.96,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:01:35.36,0:02:21.96,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:01:35.36,0:02:21.96,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:01:36.12,0:01:36.50,Line,,0,0,0,,Mic {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1} my hand
+Dialogue: 0,0:01:36.50,0:01:36.70,Line,,0,0,0,,Mic in {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} hand
+Dialogue: 0,0:01:36.70,0:01:37.14,Line,,0,0,0,,Mic in my {\c&H00FFFF&\b1}hand{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:37.14,0:01:37.34,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} the room starts to notice
+Dialogue: 0,0:01:37.34,0:01:37.48,Line,,0,0,0,,And {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} room starts to notice
+Dialogue: 0,0:01:37.48,0:01:37.78,Line,,0,0,0,,And the {\c&H00FFFF&\b1}room{\c&HFFFFFF&\b1} starts to notice
+Dialogue: 0,0:01:37.78,0:01:38.10,Line,,0,0,0,,And the room {\c&H00FFFF&\b1}starts{\c&HFFFFFF&\b1} to notice
+Dialogue: 0,0:01:38.10,0:01:38.32,Line,,0,0,0,,And the room starts {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} notice
+Dialogue: 0,0:01:38.32,0:01:38.64,Line,,0,0,0,,And the room starts to {\c&H00FFFF&\b1}notice{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:38.64,0:01:38.88,Line,,0,0,0,,{\c&H00FFFF&\b1}yeah{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:38.88,0:01:39.06,Line,,0,0,0,,But {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong version hits harder
+Dialogue: 0,0:01:39.06,0:01:39.42,Line,,0,0,0,,But the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} version hits harder
+Dialogue: 0,0:01:39.42,0:01:39.88,Line,,0,0,0,,But the wrong {\c&H00FFFF&\b1}version{\c&HFFFFFF&\b1} hits harder
+Dialogue: 0,0:01:39.88,0:01:40.20,Line,,0,0,0,,But the wrong version {\c&H00FFFF&\b1}hits{\c&HFFFFFF&\b1} harder
+Dialogue: 0,0:01:40.20,0:01:40.70,Line,,0,0,0,,But the wrong version hits {\c&H00FFFF&\b1}harder{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:40.70,0:01:41.08,Line,,0,0,0,,{\c&H00FFFF&\b1}So{\c&HFFFFFF&\b1} I'm staying
+Dialogue: 0,0:01:41.08,0:01:41.44,Line,,0,0,0,,So {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} staying
+Dialogue: 0,0:01:41.44,0:01:41.82,Line,,0,0,0,,So I'm {\c&H00FFFF&\b1}staying{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:41.82,0:01:42.44,Line,,0,0,0,,{\c&H00FFFF&\b1}They{\c&HFFFFFF&\b1} can read the screen all they want
+Dialogue: 0,0:01:42.44,0:01:42.66,Line,,0,0,0,,They {\c&H00FFFF&\b1}can{\c&HFFFFFF&\b1} read the screen all they want
+Dialogue: 0,0:01:42.66,0:01:42.90,Line,,0,0,0,,They can {\c&H00FFFF&\b1}read{\c&HFFFFFF&\b1} the screen all they want
+Dialogue: 0,0:01:42.90,0:01:43.06,Line,,0,0,0,,They can read {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} screen all they want
+Dialogue: 0,0:01:43.06,0:01:43.42,Line,,0,0,0,,They can read the {\c&H00FFFF&\b1}screen{\c&HFFFFFF&\b1} all they want
+Dialogue: 0,0:01:43.42,0:01:43.74,Line,,0,0,0,,They can read the screen {\c&H00FFFF&\b1}all{\c&HFFFFFF&\b1} they want
+Dialogue: 0,0:01:43.74,0:01:43.90,Line,,0,0,0,,They can read the screen all {\c&H00FFFF&\b1}they{\c&HFFFFFF&\b1} want
+Dialogue: 0,0:01:43.90,0:01:44.20,Line,,0,0,0,,They can read the screen all they {\c&H00FFFF&\b1}want{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:44.20,0:01:44.54,Line,,0,0,0,,{\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} committed
+Dialogue: 0,0:01:44.54,0:01:45.06,Line,,0,0,0,,I'm {\c&H00FFFF&\b1}committed{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:45.06,0:01:45.76,Line,,0,0,0,,{\c&H00FFFF&\b1}Ten{\c&HFFFFFF&\b1} years deep
+Dialogue: 0,0:01:45.76,0:01:46.22,Line,,0,0,0,,Ten {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1} deep
+Dialogue: 0,0:01:46.22,0:01:46.60,Line,,0,0,0,,Ten years {\c&H00FFFF&\b1}deep{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:46.60,0:01:46.98,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm not rewriting it now
+Dialogue: 0,0:01:46.98,0:01:47.16,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} not rewriting it now
+Dialogue: 0,0:01:47.16,0:01:47.32,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}not{\c&HFFFFFF&\b1} rewriting it now
+Dialogue: 0,0:01:47.32,0:01:47.84,Line,,0,0,0,,And I'm not {\c&H00FFFF&\b1}rewriting{\c&HFFFFFF&\b1} it now
+Dialogue: 0,0:01:47.84,0:01:48.24,Line,,0,0,0,,And I'm not rewriting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} now
+Dialogue: 0,0:01:48.24,0:01:48.70,Line,,0,0,0,,And I'm not rewriting it {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:48.70,0:01:49.38,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} learned it wrong
+Dialogue: 0,0:01:49.38,0:01:49.80,Line,,0,0,0,,I {\c&H00FFFF&\b1}learned{\c&HFFFFFF&\b1} it wrong
+Dialogue: 0,0:01:49.80,0:01:50.08,Line,,0,0,0,,I learned {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} wrong
+Dialogue: 0,0:01:50.08,0:01:50.50,Line,,0,0,0,,I learned it {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:51.60,0:01:51.74,Line,,0,0,0,,I learned it {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:52.36,0:01:52.64,Line,,0,0,0,,And {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} kept it
+Dialogue: 0,0:01:52.64,0:01:53.10,Line,,0,0,0,,And I kept {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:53.08,0:01:53.58,Line,,0,0,0,,And {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} kept it
+Dialogue: 0,0:01:53.58,0:01:54.00,Line,,0,0,0,,And I kept {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:54.00,0:01:54.70,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:01:54.70,0:01:55.92,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:01:55.92,0:01:56.26,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:01:56.26,0:01:56.52,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:01:56.52,0:01:56.86,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:01:56.86,0:01:57.48,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:57.48,0:01:57.94,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:01:57.94,0:01:58.24,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:01:58.24,0:01:58.78,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:58.78,0:01:59.82,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:01:59.82,0:02:00.78,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:00.78,0:02:01.92,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:01.92,0:02:02.26,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:02:02.26,0:02:02.36,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:02:02.36,0:02:02.66,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:02:02.66,0:02:02.94,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:02:02.94,0:02:03.30,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:02:03.30,0:02:03.88,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:03.88,0:02:04.34,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:02:04.34,0:02:04.64,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:02:04.64,0:02:05.20,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:06.24,0:02:07.20,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:02:07.20,0:02:08.00,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:08.00,0:02:08.48,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:08.48,0:02:09.10,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:02:09.10,0:02:09.34,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:02:09.34,0:02:10.10,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:10.10,0:02:10.59,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:02:10.59,0:02:11.07,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:02:11.07,0:02:11.56,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:11.82,0:02:12.12,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} still going
+Dialogue: 0,0:02:12.12,0:02:12.60,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} going
+Dialogue: 0,0:02:12.60,0:02:13.78,Line,,0,0,0,,And I'm still {\c&H00FFFF&\b1}going{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:13.78,0:02:15.04,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:02:15.04,0:02:15.16,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:02:15.16,0:02:15.56,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:02:15.56,0:02:15.72,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:02:15.72,0:02:16.12,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:02:16.12,0:02:16.70,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:16.70,0:02:17.14,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:02:17.14,0:02:17.42,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:02:17.42,0:02:18.26,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:19.40,0:02:20.36,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:02:20.36,0:02:20.84,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:20.84,0:02:21.46,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:21.96,0:02:36.16,Draw,,0,0,0,,{\p1\c&H050505&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:21.96,0:02:36.16,Draw,,0,0,0,,{\p1\c&H5A5A5A&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:21.96,0:02:36.16,Draw,,0,0,0,,{\p1\c&H5A5A5A&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:21.96,0:02:36.16,Draw,,0,0,0,,{\p1\c&H5A5A5A&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:21.96,0:02:36.16,Draw,,0,0,0,,{\p1\c&H5A5A5A&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:22.46,0:02:23.42,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:02:23.42,0:02:23.72,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:02:23.72,0:02:24.42,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:24.42,0:02:25.14,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:02:25.14,0:02:25.34,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:02:25.34,0:02:25.96,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:25.96,0:02:26.74,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:02:26.74,0:02:26.98,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:02:26.98,0:02:27.56,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:28.94,0:02:29.82,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:02:29.82,0:02:30.58,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:30.58,0:02:31.08,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:31.08,0:02:31.44,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:02:31.44,0:02:32.06,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:32.06,0:02:32.70,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:32.70,0:02:34.16,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm still going
+Dialogue: 0,0:02:34.16,0:02:34.46,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} still going
+Dialogue: 0,0:02:34.46,0:02:34.94,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} going
+Dialogue: 0,0:02:34.94,0:02:36.16,Line,,0,0,0,,And I'm still {\c&H00FFFF&\b1}going{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:36.16,0:02:37.44,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:36.16,0:02:36.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:36.56,0:02:36.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:36.96,0:02:37.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:37.36,0:02:37.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:37.44,0:02:37.56,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:02:37.56,0:02:37.86,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:37.76,0:02:38.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:37.86,0:02:38.14,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:02:38.14,0:02:38.46,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:38.16,0:02:38.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:38.46,0:02:39.08,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:38.56,0:02:38.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:38.96,0:02:39.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:39.08,0:02:39.44,Line,,0,0,0,,{\c&H00FFFF&\b1}For{\c&HFFFFFF&\b1} a decade
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:39.36,0:02:39.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:39.44,0:02:39.80,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:39.76,0:02:40.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:39.80,0:02:40.18,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:40.16,0:02:40.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:40.56,0:02:40.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:40.96,0:02:41.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:41.36,0:02:41.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:41.48,0:02:42.36,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:41.76,0:02:42.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:42.16,0:02:42.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:42.36,0:02:43.16,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:42.56,0:02:42.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:42.96,0:02:43.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:43.16,0:02:43.52,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:43.36,0:02:43.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:43.52,0:02:43.84,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:43.76,0:02:44.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:43.84,0:02:43.92,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:02:43.92,0:02:44.26,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:44.16,0:02:44.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:44.26,0:02:44.56,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:02:44.56,0:02:44.82,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:44.56,0:02:44.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:44.82,0:02:45.86,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:44.96,0:02:45.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:45.36,0:02:45.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:45.76,0:02:46.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:45.86,0:02:46.14,Line,,0,0,0,,For {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} decade
+Dialogue: 0,0:02:46.14,0:02:46.58,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:46.16,0:02:46.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:46.56,0:02:46.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:46.96,0:02:47.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:47.36,0:02:47.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:47.76,0:02:48.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:47.86,0:02:48.74,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:48.16,0:02:48.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:48.56,0:02:48.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:48.74,0:02:49.62,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:48.96,0:02:49.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:49.36,0:02:49.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:49.62,0:02:50.14,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:49.76,0:02:50.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:50.14,0:02:50.64,Tee,,0,0,0,,{\pos(650,520)}{\c&H0000FF&\b1}Wrong{\c&H2E1A1A&\b1} for years
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:50.16,0:02:50.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:50.56,0:02:50.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:50.64,0:02:50.90,Tee,,0,0,0,,{\pos(650,520)}Wrong {\c&H0000FF&\b1}for{\c&H2E1A1A&\b1} years
+Dialogue: 0,0:02:50.90,0:02:51.60,Tee,,0,0,0,,{\pos(650,520)}Wrong for {\c&H0000FF&\b1}years{\c&H2E1A1A&\b1}
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:50.96,0:02:51.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:51.36,0:02:51.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:51.60,0:02:52.24,Tee,,0,0,0,,{\pos(650,520)}{\c&H0000FF&\b1}Wrong{\c&H2E1A1A&\b1} for years
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:51.76,0:02:52.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:52.16,0:02:52.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:52.24,0:02:52.54,Tee,,0,0,0,,{\pos(650,520)}Wrong {\c&H0000FF&\b1}for{\c&H2E1A1A&\b1} years
+Dialogue: 0,0:02:52.54,0:02:52.96,Tee,,0,0,0,,{\pos(650,520)}Wrong for {\c&H0000FF&\b1}years{\c&H2E1A1A&\b1}
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:52.56,0:02:52.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:52.96,0:02:53.40,Tee,,0,0,0,,{\pos(650,520)}{\c&H0000FF&\b1}And{\c&H2E1A1A&\b1} I'm still going
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:52.96,0:02:53.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:53.36,0:02:53.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:53.40,0:02:53.58,Tee,,0,0,0,,{\pos(650,520)}And {\c&H0000FF&\b1}I'm{\c&H2E1A1A&\b1} still going
+Dialogue: 0,0:02:53.58,0:02:54.12,Tee,,0,0,0,,{\pos(650,520)}And I'm {\c&H0000FF&\b1}still{\c&H2E1A1A&\b1} going
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:53.76,0:02:54.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:54.12,0:02:55.22,Tee,,0,0,0,,{\pos(650,520)}And I'm still {\c&H0000FF&\b1}going{\c&H2E1A1A&\b1}
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:54.16,0:02:54.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:54.56,0:02:54.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:54.96,0:02:55.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:55.36,0:02:55.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:55.76,0:02:56.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:55.96,0:02:56.62,Line,,0,0,0,,{\c&H00FFFF&\b1}I've{\c&HFFFFFF&\b1} been singing the wrong lyrics
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:56.16,0:02:56.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:56.56,0:02:56.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:56.62,0:02:56.78,Line,,0,0,0,,I've {\c&H00FFFF&\b1}been{\c&HFFFFFF&\b1} singing the wrong lyrics
+Dialogue: 0,0:02:56.78,0:02:57.08,Line,,0,0,0,,I've been {\c&H00FFFF&\b1}singing{\c&HFFFFFF&\b1} the wrong lyrics
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:56.96,0:02:57.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:57.08,0:02:57.32,Line,,0,0,0,,I've been singing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} wrong lyrics
+Dialogue: 0,0:02:57.32,0:02:57.80,Line,,0,0,0,,I've been singing the {\c&H00FFFF&\b1}wrong{\c&HFFFFFF&\b1} lyrics
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:57.36,0:02:57.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:57.76,0:02:58.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:57.80,0:02:58.82,Line,,0,0,0,,I've been singing the wrong {\c&H00FFFF&\b1}lyrics{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:58.16,0:02:58.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:02:58.56,0:02:58.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:02:58.82,0:02:59.38,Line,,0,0,0,,For a {\c&H00FFFF&\b1}decade{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:02:58.96,0:02:59.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:02:59.36,0:02:59.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:02:59.76,0:03:00.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:03:00.16,0:03:00.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:03:00.56,0:03:00.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:03:00.96,0:03:01.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:03:01.36,0:03:01.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:03:01.76,0:03:02.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:03:02.16,0:03:02.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:03:02.56,0:03:02.96,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:03:02.72,0:03:03.66,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:03:02.96,0:03:03.36,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 560 l 1048 560 l 1048 590 l 1020 590
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 520 l 1093 520 l 1093 590 l 1065 590
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 480 l 1138 480 l 1138 590 l 1110 590
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 530 l 1183 530 l 1183 590 l 1155 590
+Dialogue: 0,0:03:03.36,0:03:03.76,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 500 l 1228 500 l 1228 590 l 1200 590
+Dialogue: 0,0:03:03.66,0:03:04.18,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 510 l 1048 510 l 1048 590 l 1020 590
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 470 l 1093 470 l 1093 590 l 1065 590
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 540 l 1138 540 l 1138 590 l 1110 590
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 490 l 1183 490 l 1183 590 l 1155 590
+Dialogue: 0,0:03:03.76,0:03:04.16,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 550 l 1228 550 l 1228 590 l 1200 590
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 480 l 1048 480 l 1048 590 l 1020 590
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 530 l 1093 530 l 1093 590 l 1065 590
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 500 l 1138 500 l 1138 590 l 1110 590
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 460 l 1183 460 l 1183 590 l 1155 590
+Dialogue: 0,0:03:04.16,0:03:04.56,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 520 l 1228 520 l 1228 590 l 1200 590
+Dialogue: 0,0:03:04.18,0:03:04.68,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H101010&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1020 530 l 1048 530 l 1048 590 l 1020 590
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1065 490 l 1093 490 l 1093 590 l 1065 590
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1110 460 l 1138 460 l 1138 590 l 1110 590
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1155 545 l 1183 545 l 1183 590 l 1155 590
+Dialogue: 0,0:03:04.56,0:03:04.73,Draw,,0,0,0,,{\p1\c&H00C8FF&\pos(0,0)}m 1200 485 l 1228 485 l 1228 590 l 1200 590
+Dialogue: 0,0:03:04.73,0:03:07.50,Draw,,0,0,0,,{\p1\c&H141414&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:04.73,0:03:07.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:04.73,0:03:07.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:04.73,0:03:07.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:04.73,0:03:07.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:04.78,0:03:05.18,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:03:05.18,0:03:05.68,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:03:06.14,0:03:06.42,Line,,0,0,0,,{\c&H00FFFF&\b1}Nobody{\c&HFFFFFF&\b1} stopped me
+Dialogue: 0,0:03:06.42,0:03:07.86,Line,,0,0,0,,Nobody {\c&H00FFFF&\b1}stopped{\c&HFFFFFF&\b1} me
+Dialogue: 0,0:03:07.50,0:03:10.50,Draw,,0,0,0,,{\p1\c&H141414&\alpha&H70&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:07.50,0:03:10.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:07.50,0:03:10.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:07.50,0:03:10.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:07.50,0:03:10.50,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&H70&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:07.86,0:03:09.28,Line,,0,0,0,,Nobody stopped {\c&H00FFFF&\b1}me{\c&HFFFFFF&\b1}
+Dialogue: 0,0:03:09.28,0:03:09.88,Slam,,0,0,0,,{\c&H00FFFF&\b1}Wrong{\c&HFFFFFF&\b1} for years
+Dialogue: 0,0:03:09.88,0:03:10.30,Slam,,0,0,0,,Wrong {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} years
+Dialogue: 0,0:03:10.30,0:03:10.78,Slam,,0,0,0,,Wrong for {\c&H00FFFF&\b1}years{\c&HFFFFFF&\b1}
+Dialogue: 0,0:03:10.50,0:03:18.10,Draw,,0,0,0,,{\p1\c&H141414&\alpha&HB0&\pos(0,0)}m 1000 440 l 1250 440 l 1250 600 l 1000 600
+Dialogue: 0,0:03:10.50,0:03:18.10,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 996 436 l 1254 436 l 1254 441 l 996 441
+Dialogue: 0,0:03:10.50,0:03:18.10,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 996 599 l 1254 599 l 1254 604 l 996 604
+Dialogue: 0,0:03:10.50,0:03:18.10,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 996 436 l 1001 436 l 1001 604 l 996 604
+Dialogue: 0,0:03:10.50,0:03:18.10,Draw,,0,0,0,,{\p1\c&HB0B0B0&\alpha&HB0&\pos(0,0)}m 1249 436 l 1254 436 l 1254 604 l 1249 604
+Dialogue: 0,0:03:13.50,0:03:15.42,Line,,0,0,0,,{\c&H00FFFF&\b1}yeah{\c&HFFFFFF&\b1}

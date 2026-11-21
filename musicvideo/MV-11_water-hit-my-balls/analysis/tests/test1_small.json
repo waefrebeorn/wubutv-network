@@ -1,0 +1,30 @@
+{
+ "model": "small",
+ "wall_s": 7.1,
+ "words_total": 3,
+ "words_102_172": 0,
+ "words_110_155": 0,
+ "max_same_word_run": 1,
+ "words_over_2s": 0,
+ "words": [
+  {
+   "word": "It's",
+   "start": 0.0,
+   "end": 1.0,
+   "prob": 0.687
+  },
+  {
+   "word": "my",
+   "start": 15.24,
+   "end": 15.48,
+   "prob": 0.882
+  },
+  {
+   "word": "balls",
+   "start": 15.48,
+   "end": 16.12,
+   "prob": 0.934
+  }
+ ],
+ "text": " It's my balls"
+}

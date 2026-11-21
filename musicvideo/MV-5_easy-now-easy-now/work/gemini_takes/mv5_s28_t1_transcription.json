@@ -1,0 +1,40 @@
+{
+  "file": "mv5_s28_t1.wav",
+  "kind": "Take",
+  "totalWords": 4,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "till",
+      "start": 0.1,
+      "end": 0.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 0.6,
+      "end": 0.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "morning",
+      "start": 0.8,
+      "end": 2.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "comes.",
+      "start": 2.1,
+      "end": 3.1,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.1,
+      "end": 3.1,
+      "text": "till the morning comes."
+    }
+  ]
+}

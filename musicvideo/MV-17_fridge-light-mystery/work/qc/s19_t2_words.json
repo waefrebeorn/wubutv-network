@@ -1,0 +1,49 @@
+{
+ "take": "takes/mv17_s19_t2.mp4",
+ "words": [
+  {
+   "w": "I",
+   "start": 0.0,
+   "end": 0.34,
+   "p": 0.847
+  },
+  {
+   "w": "checked,",
+   "start": 0.34,
+   "end": 0.86,
+   "p": 0.986
+  },
+  {
+   "w": "I",
+   "start": 1.14,
+   "end": 1.48,
+   "p": 0.966
+  },
+  {
+   "w": "checked,",
+   "start": 1.48,
+   "end": 2.1,
+   "p": 0.999
+  },
+  {
+   "w": "I",
+   "start": 2.12,
+   "end": 3.64,
+   "p": 0.991
+  },
+  {
+   "w": "checked",
+   "start": 3.64,
+   "end": 4.2,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.2,
+   "text": "I checked, I checked, I checked",
+   "avg_logprob": -0.383
+  }
+ ]
+}

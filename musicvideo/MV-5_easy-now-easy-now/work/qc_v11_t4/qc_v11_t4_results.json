@@ -1,0 +1,82 @@
+{
+ "s28": {
+  "take": "mv5_s28_t4.mp4",
+  "song_slot": 1.6,
+  "motion": {
+   "frames": 72,
+   "mean_diff": 21.717,
+   "longest_neardup_run": 0,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 25.649,
+   "vocal_longest_neardup": 0,
+   "per_second_mean_diff": [
+    24.838
+   ]
+  },
+  "whisper_text": "Till the morning comes Till the morning comes",
+  "whisper_words": [
+   " Till",
+   " the",
+   " morning",
+   " comes",
+   " Till",
+   " the",
+   " morning",
+   " comes"
+  ],
+  "whisper_nwords": 8,
+  "take_line_span": 2.6,
+  "first_word": 0.0,
+  "last_word_end": 2.6,
+  "line_ratio": 0.62,
+  "word_times": [
+   [
+    "Till",
+    0.0,
+    0.36
+   ],
+   [
+    "the",
+    0.36,
+    0.7
+   ],
+   [
+    "morning",
+    0.7,
+    1.42
+   ],
+   [
+    "comes",
+    1.42,
+    2.18
+   ],
+   [
+    "Till",
+    2.18,
+    2.26
+   ],
+   [
+    "the",
+    2.26,
+    2.52
+   ],
+   [
+    "morning",
+    2.52,
+    2.52
+   ],
+   [
+    "comes",
+    2.52,
+    2.6
+   ]
+  ],
+  "repeat_bigrams": [
+   "till the",
+   "the morning",
+   "morning comes"
+  ]
+ }
+}

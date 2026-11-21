@@ -1,0 +1,3 @@
+[0:v][1:v]overlay=0:684[v1];
+[v1]drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='~ WuBu ~':fontcolor=0xFFC400:fontsize=22:x=w-tw-14:y=650[vout];
+[2:a]apad=whole_dur=60[aout]

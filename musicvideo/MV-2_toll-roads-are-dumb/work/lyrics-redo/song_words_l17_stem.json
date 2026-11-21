@@ -1,0 +1,105 @@
+{
+ "stem": "l17",
+ "offset": 91.0,
+ "model": "large-v3-turbo",
+ "n_words": 15,
+ "words": [
+  {
+   "word": "coming",
+   "start": 91.0,
+   "end": 91.5,
+   "prob": 0.46
+  },
+  {
+   "word": "express",
+   "start": 91.5,
+   "end": 93.44,
+   "prob": 0.661
+  },
+  {
+   "word": "lanes",
+   "start": 93.44,
+   "end": 93.96,
+   "prob": 0.997
+  },
+  {
+   "word": "look",
+   "start": 93.96,
+   "end": 94.28,
+   "prob": 0.988
+  },
+  {
+   "word": "clean",
+   "start": 94.28,
+   "end": 94.72,
+   "prob": 0.999
+  },
+  {
+   "word": "but",
+   "start": 94.72,
+   "end": 95.22,
+   "prob": 0.952
+  },
+  {
+   "word": "the",
+   "start": 95.22,
+   "end": 95.52,
+   "prob": 0.997
+  },
+  {
+   "word": "mergers",
+   "start": 95.52,
+   "end": 95.94,
+   "prob": 0.954
+  },
+  {
+   "word": "get",
+   "start": 95.94,
+   "end": 96.16,
+   "prob": 0.997
+  },
+  {
+   "word": "hot",
+   "start": 96.16,
+   "end": 96.48,
+   "prob": 0.587
+  },
+  {
+   "word": "speed",
+   "start": 96.48,
+   "end": 97.0,
+   "prob": 0.955
+  },
+  {
+   "word": "up",
+   "start": 97.0,
+   "end": 97.38,
+   "prob": 0.994
+  },
+  {
+   "word": "cut",
+   "start": 97.38,
+   "end": 97.78,
+   "prob": 0.986
+  },
+  {
+   "word": "over",
+   "start": 97.78,
+   "end": 98.24,
+   "prob": 0.997
+  },
+  {
+   "word": "somebody",
+   "start": 98.24,
+   "end": 98.84,
+   "prob": 0.789
+  }
+ ],
+ "segments": [
+  {
+   "start": 91.0,
+   "end": 98.84,
+   "text": "coming express lanes look clean but the mergers get hot speed up cut over somebody"
+  }
+ ]
+}

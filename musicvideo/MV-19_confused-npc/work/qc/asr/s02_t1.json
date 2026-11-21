@@ -1,0 +1,31 @@
+{
+ "take": "takes/mv19_s02_t1.mp4",
+ "words": [
+  {
+   "w": "What",
+   "start": 2.82,
+   "end": 3.82,
+   "p": 0.744
+  },
+  {
+   "w": "was",
+   "start": 3.82,
+   "end": 4.4,
+   "p": 0.984
+  },
+  {
+   "w": "it?",
+   "start": 4.4,
+   "end": 4.8,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 2.82,
+   "end": 4.8,
+   "text": "What was it?",
+   "avg_logprob": -0.501
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "file": "takes/U5_t1.mp4",
+ "head_rms_0_1.7": 0.2967003583908081,
+ "ambient_rms_0_0.5": 0.47879499197006226,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 1.81,
+    "end": 4.89,
+    "text": "Okay, so technically, it was my mum's.",
+    "words": [
+     {
+      "w": " Okay,",
+      "start": 1.81,
+      "end": 2.35
+     },
+     {
+      "w": " so",
+      "start": 2.41,
+      "end": 2.65
+     },
+     {
+      "w": " technically,",
+      "start": 2.65,
+      "end": 3.25
+     },
+     {
+      "w": " it",
+      "start": 3.51,
+      "end": 4.15
+     },
+     {
+      "w": " was",
+      "start": 4.15,
+      "end": 4.29
+     },
+     {
+      "w": " my",
+      "start": 4.29,
+      "end": 4.43
+     },
+     {
+      "w": " mum's.",
+      "start": 4.43,
+      "end": 4.89
+     }
+    ],
+    "seg_rms": 0.2534
+   },
+   {
+    "start": 5.43,
+    "end": 7.43,
+    "text": "Bus pass taped under the handle.",
+    "words": [
+     {
+      "w": " Bus",
+      "start": 5.43,
+      "end": 6.01
+     },
+     {
+      "w": " pass",
+      "start": 6.01,
+      "end": 6.27
+     },
+     {
+      "w": " taped",
+      "start": 6.27,
+      "end": 6.67
+     },
+     {
+      "w": " under",
+      "start": 6.67,
+      "end": 7.01
+     },
+     {
+      "w": " the",
+      "start": 7.01,
+      "end": 7.13
+     },
+     {
+      "w": " handle.",
+      "start": 7.13,
+      "end": 7.43
+     }
+    ],
+    "seg_rms": 0.1884
+   },
+   {
+    "start": 7.87,
+    "end": 8.77,
+    "text": "Yellow ribbon.",
+    "words": [
+     {
+      "w": " Yellow",
+      "start": 7.87,
+      "end": 8.45
+     },
+     {
+      "w": " ribbon.",
+      "start": 8.45,
+      "end": 8.77
+     }
+    ],
+    "seg_rms": 0.2097
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 1.81,
+    "end": 5.05,
+    "text": "Okay, so technically, it was my mum's.",
+    "words": [
+     {
+      "w": " Okay,",
+      "start": 1.81,
+      "end": 2.39
+     },
+     {
+      "w": " so",
+      "start": 2.79,
+      "end": 2.79
+     },
+     {
+      "w": " technically,",
+      "start": 2.79,
+      "end": 3.45
+     },
+     {
+      "w": " it",
+      "start": 4.23,
+      "end": 4.23
+     },
+     {
+      "w": " was",
+      "start": 4.23,
+      "end": 4.35
+     },
+     {
+      "w": " my",
+      "start": 4.35,
+      "end": 4.53
+     },
+     {
+      "w": " mum's.",
+      "start": 4.53,
+      "end": 5.05
+     }
+    ],
+    "seg_rms": 0.2477
+   },
+   {
+    "start": 5.75,
+    "end": 8.89,
+    "text": "Bus pass taped under the handle, yellow ribbon.",
+    "words": [
+     {
+      "w": " Bus",
+      "start": 5.75,
+      "end": 6.13
+     },
+     {
+      "w": " pass",
+      "start": 6.13,
+      "end": 6.51
+     },
+     {
+      "w": " taped",
+      "start": 6.51,
+      "end": 6.83
+     },
+     {
+      "w": " under",
+      "start": 6.83,
+      "end": 7.09
+     },
+     {
+      "w": " the",
+      "start": 7.09,
+      "end": 7.21
+     },
+     {
+      "w": " handle,",
+      "start": 7.21,
+      "end": 7.55
+     },
+     {
+      "w": " yellow",
+      "start": 8.33,
+      "end": 8.55
+     },
+     {
+      "w": " ribbon.",
+      "start": 8.55,
+      "end": 8.89
+     }
+    ],
+    "seg_rms": 0.1915
+   }
+  ]
+ }
+}

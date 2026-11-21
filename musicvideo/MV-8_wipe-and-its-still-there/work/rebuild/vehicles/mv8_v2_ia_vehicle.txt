@@ -1,0 +1,19 @@
+# MV-8 REBUILD v2 — Volley 2 vehicle: I-A "Inside the Sheet" (SINGING -> JOURNEY)
+# Scene: I-A, song 34.96–45.51 (839–1092f). 10.54s scene; one 10s take.
+# Song line: L8 "Brown brown brown brown brown" 36.90–41.84 (five browns), then
+# NO words to 45.51. The take sings the five browns in its first half, then
+# continues as a macro-world journey (fibre drift, ambient motion, never frozen).
+# Anchors: F_HERO_TEST_v2.jpg FIRST (identity anchor; L8 is sung). Single-anchor call.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white tunic,
+# full-length white trousers, white boots, bright yellow rubber gloves. The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — giant white paper fibres
+# already drifting past the camera and the Champion already turning toward it.
+# No frozen lead-in, no held macro shot.
+
+PROMPT (verbatim for media.generate_video, text entry):
+"16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. Inside a giant world made of white toilet paper: huge soft paper fibres drifting slowly past the camera like snow, warm golden light glowing through the fibres, a glossy chocolate-brown river canyon far below. The Champion, an adult woman in her late twenties with a long dark braid over one shoulder, defined cheekbones and jaw, warm determined expression, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, floats among the drifting fibres, already turning toward camera as the clip opens, the camera already slowly drifting with her, never still. From 1 to 5 seconds she sings clearly and articulately 'Brown brown brown brown brown', mouth opening and closing on every syllable, visible jaw movement. After the last Brown her mouth closes and stays closed, and the camera keeps drifting through the fibre world, fibres streaming past, the chocolate river glinting below, continuous gentle motion to the last frame. No text, no logos, no extra limbs, no morphing, no children, no other characters."
+
+IMAGE ORDER: [F_HERO_TEST_v2.jpg] then the text above.

@@ -1,0 +1,64 @@
+{
+ "track": "work/rebuild2_qc/R18B_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 5.0,
+ "n_words": 8,
+ "words": [
+  {
+   "word": "Half",
+   "start": 0.0,
+   "end": 0.9,
+   "prob": 0.601
+  },
+  {
+   "word": "mad",
+   "start": 0.9,
+   "end": 1.2,
+   "prob": 0.806
+  },
+  {
+   "word": "thoughts",
+   "start": 1.2,
+   "end": 1.68,
+   "prob": 0.993
+  },
+  {
+   "word": "and",
+   "start": 1.68,
+   "end": 2.16,
+   "prob": 0.859
+  },
+  {
+   "word": "a",
+   "start": 2.16,
+   "end": 2.28,
+   "prob": 0.993
+  },
+  {
+   "word": "stack",
+   "start": 2.28,
+   "end": 2.54,
+   "prob": 0.992
+  },
+  {
+   "word": "of",
+   "start": 2.54,
+   "end": 2.72,
+   "prob": 0.997
+  },
+  {
+   "word": "joins.",
+   "start": 2.72,
+   "end": 3.2,
+   "prob": 0.663
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.2,
+   "text": "Half mad thoughts and a stack of joins."
+  }
+ ]
+}

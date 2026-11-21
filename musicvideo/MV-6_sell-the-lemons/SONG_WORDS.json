@@ -1,0 +1,2527 @@
+{
+ "track": "work/track_16k.wav",
+ "model": "base",
+ "language": "en",
+ "duration": 228.8,
+ "n_words": 376,
+ "words": [
+  {
+   "word": "Watch",
+   "start": 30.0,
+   "end": 30.64,
+   "prob": 0.292
+  },
+  {
+   "word": "the",
+   "start": 30.64,
+   "end": 31.0,
+   "prob": 0.971
+  },
+  {
+   "word": "cash",
+   "start": 31.0,
+   "end": 31.34,
+   "prob": 0.905
+  },
+  {
+   "word": "climb,",
+   "start": 31.34,
+   "end": 31.7,
+   "prob": 0.848
+  },
+  {
+   "word": "upgrade",
+   "start": 31.9,
+   "end": 32.64,
+   "prob": 0.929
+  },
+  {
+   "word": "the",
+   "start": 32.64,
+   "end": 32.98,
+   "prob": 0.924
+  },
+  {
+   "word": "juicer",
+   "start": 32.98,
+   "end": 33.58,
+   "prob": 0.775
+  },
+  {
+   "word": "double",
+   "start": 33.58,
+   "end": 34.08,
+   "prob": 0.443
+  },
+  {
+   "word": "the",
+   "start": 34.08,
+   "end": 34.36,
+   "prob": 0.961
+  },
+  {
+   "word": "pain",
+   "start": 34.36,
+   "end": 34.82,
+   "prob": 0.256
+  },
+  {
+   "word": "Automate",
+   "start": 34.82,
+   "end": 35.88,
+   "prob": 0.538
+  },
+  {
+   "word": "the",
+   "start": 35.88,
+   "end": 36.08,
+   "prob": 0.988
+  },
+  {
+   "word": "stance",
+   "start": 36.08,
+   "end": 36.28,
+   "prob": 0.379
+  },
+  {
+   "word": "so",
+   "start": 36.28,
+   "end": 36.58,
+   "prob": 0.418
+  },
+  {
+   "word": "I",
+   "start": 36.58,
+   "end": 36.72,
+   "prob": 0.978
+  },
+  {
+   "word": "can",
+   "start": 36.72,
+   "end": 36.88,
+   "prob": 0.997
+  },
+  {
+   "word": "walk",
+   "start": 36.88,
+   "end": 37.22,
+   "prob": 0.998
+  },
+  {
+   "word": "away",
+   "start": 37.22,
+   "end": 38.02,
+   "prob": 0.988
+  },
+  {
+   "word": "Money",
+   "start": 38.02,
+   "end": 38.76,
+   "prob": 0.613
+  },
+  {
+   "word": "on",
+   "start": 38.76,
+   "end": 39.08,
+   "prob": 0.877
+  },
+  {
+   "word": "the",
+   "start": 39.08,
+   "end": 39.24,
+   "prob": 0.997
+  },
+  {
+   "word": "floor,",
+   "start": 39.24,
+   "end": 39.52,
+   "prob": 0.999
+  },
+  {
+   "word": "walk",
+   "start": 39.72,
+   "end": 39.92,
+   "prob": 0.986
+  },
+  {
+   "word": "over",
+   "start": 39.92,
+   "end": 40.36,
+   "prob": 0.992
+  },
+  {
+   "word": "and",
+   "start": 40.36,
+   "end": 40.66,
+   "prob": 0.878
+  },
+  {
+   "word": "grab",
+   "start": 40.66,
+   "end": 41.14,
+   "prob": 0.969
+  },
+  {
+   "word": "Then",
+   "start": 41.14,
+   "end": 41.58,
+   "prob": 0.699
+  },
+  {
+   "word": "buy",
+   "start": 41.58,
+   "end": 41.82,
+   "prob": 0.668
+  },
+  {
+   "word": "the",
+   "start": 41.82,
+   "end": 42.0,
+   "prob": 0.998
+  },
+  {
+   "word": "next",
+   "start": 42.0,
+   "end": 42.3,
+   "prob": 0.999
+  },
+  {
+   "word": "thing,",
+   "start": 42.3,
+   "end": 42.88,
+   "prob": 0.996
+  },
+  {
+   "word": "keep",
+   "start": 42.92,
+   "end": 43.4,
+   "prob": 0.958
+  },
+  {
+   "word": "on",
+   "start": 43.4,
+   "end": 43.64,
+   "prob": 0.996
+  },
+  {
+   "word": "the",
+   "start": 43.64,
+   "end": 43.76,
+   "prob": 0.984
+  },
+  {
+   "word": "tab",
+   "start": 43.76,
+   "end": 44.2,
+   "prob": 0.131
+  },
+  {
+   "word": "Sell",
+   "start": 45.0,
+   "end": 45.34,
+   "prob": 0.738
+  },
+  {
+   "word": "the",
+   "start": 45.34,
+   "end": 45.54,
+   "prob": 0.991
+  },
+  {
+   "word": "lemons,",
+   "start": 45.54,
+   "end": 45.88,
+   "prob": 0.788
+  },
+  {
+   "word": "sell",
+   "start": 46.04,
+   "end": 46.88,
+   "prob": 0.959
+  },
+  {
+   "word": "the",
+   "start": 46.88,
+   "end": 47.1,
+   "prob": 0.997
+  },
+  {
+   "word": "lemons",
+   "start": 47.1,
+   "end": 47.5,
+   "prob": 0.977
+  },
+  {
+   "word": "Bacon",
+   "start": 47.5,
+   "end": 48.52,
+   "prob": 0.234
+  },
+  {
+   "word": "hits,",
+   "start": 48.52,
+   "end": 49.02,
+   "prob": 0.423
+  },
+  {
+   "word": "selling",
+   "start": 49.26,
+   "end": 49.4,
+   "prob": 0.585
+  },
+  {
+   "word": "lemons",
+   "start": 49.4,
+   "end": 49.78,
+   "prob": 0.997
+  },
+  {
+   "word": "all",
+   "start": 49.78,
+   "end": 50.26,
+   "prob": 0.91
+  },
+  {
+   "word": "day",
+   "start": 50.26,
+   "end": 50.58,
+   "prob": 0.944
+  },
+  {
+   "word": "Sell",
+   "start": 50.58,
+   "end": 51.56,
+   "prob": 0.939
+  },
+  {
+   "word": "the",
+   "start": 51.56,
+   "end": 51.82,
+   "prob": 0.996
+  },
+  {
+   "word": "lemons,",
+   "start": 51.82,
+   "end": 52.18,
+   "prob": 0.988
+  },
+  {
+   "word": "sell",
+   "start": 52.36,
+   "end": 53.04,
+   "prob": 0.986
+  },
+  {
+   "word": "the",
+   "start": 53.04,
+   "end": 53.38,
+   "prob": 0.987
+  },
+  {
+   "word": "lemons,",
+   "start": 53.38,
+   "end": 53.78,
+   "prob": 0.995
+  },
+  {
+   "word": "click",
+   "start": 53.78,
+   "end": 54.22,
+   "prob": 0.95
+  },
+  {
+   "word": "upgrade",
+   "start": 54.22,
+   "end": 54.74,
+   "prob": 0.529
+  },
+  {
+   "word": "sale",
+   "start": 54.74,
+   "end": 55.28,
+   "prob": 0.807
+  },
+  {
+   "word": "Don't",
+   "start": 55.28,
+   "end": 55.7,
+   "prob": 0.87
+  },
+  {
+   "word": "stop",
+   "start": 55.7,
+   "end": 55.96,
+   "prob": 0.984
+  },
+  {
+   "word": "the",
+   "start": 55.96,
+   "end": 56.32,
+   "prob": 0.986
+  },
+  {
+   "word": "play,",
+   "start": 56.32,
+   "end": 56.84,
+   "prob": 0.714
+  },
+  {
+   "word": "sell",
+   "start": 57.02,
+   "end": 57.88,
+   "prob": 0.978
+  },
+  {
+   "word": "the",
+   "start": 57.88,
+   "end": 58.12,
+   "prob": 0.995
+  },
+  {
+   "word": "lemons",
+   "start": 58.12,
+   "end": 58.44,
+   "prob": 0.959
+  },
+  {
+   "word": "Sell",
+   "start": 58.44,
+   "end": 58.74,
+   "prob": 0.018
+  },
+  {
+   "word": "the",
+   "start": 58.74,
+   "end": 59.66,
+   "prob": 0.678
+  },
+  {
+   "word": "lemons,",
+   "start": 59.66,
+   "end": 60.02,
+   "prob": 0.763
+  },
+  {
+   "word": "sell",
+   "start": 60.14,
+   "end": 60.44,
+   "prob": 0.228
+  },
+  {
+   "word": "the",
+   "start": 60.44,
+   "end": 60.44,
+   "prob": 0.944
+  },
+  {
+   "word": "lemons,",
+   "start": 60.44,
+   "end": 60.78,
+   "prob": 0.786
+  },
+  {
+   "word": "bacon",
+   "start": 61.04,
+   "end": 61.14,
+   "prob": 0.002
+  },
+  {
+   "word": "hits,",
+   "start": 61.14,
+   "end": 61.52,
+   "prob": 0.002
+  },
+  {
+   "word": "sell",
+   "start": 61.72,
+   "end": 61.88,
+   "prob": 0.935
+  },
+  {
+   "word": "the",
+   "start": 61.88,
+   "end": 62.0,
+   "prob": 0.982
+  },
+  {
+   "word": "lemons",
+   "start": 62.0,
+   "end": 62.3,
+   "prob": 0.78
+  },
+  {
+   "word": "No,",
+   "start": 62.3,
+   "end": 62.62,
+   "prob": 0.031
+  },
+  {
+   "word": "the",
+   "start": 62.68,
+   "end": 62.8,
+   "prob": 0.062
+  },
+  {
+   "word": "lemons,",
+   "start": 62.8,
+   "end": 63.58,
+   "prob": 0.996
+  },
+  {
+   "word": "never",
+   "start": 64.36,
+   "end": 65.06,
+   "prob": 0.704
+  },
+  {
+   "word": "gonna",
+   "start": 65.06,
+   "end": 65.96,
+   "prob": 0.753
+  },
+  {
+   "word": "stop",
+   "start": 65.96,
+   "end": 67.52,
+   "prob": 0.94
+  },
+  {
+   "word": "Sell",
+   "start": 67.52,
+   "end": 68.1,
+   "prob": 0.428
+  },
+  {
+   "word": "up",
+   "start": 68.1,
+   "end": 68.48,
+   "prob": 0.872
+  },
+  {
+   "word": "the",
+   "start": 68.48,
+   "end": 68.64,
+   "prob": 0.926
+  },
+  {
+   "word": "lemons,",
+   "start": 68.64,
+   "end": 68.96,
+   "prob": 0.939
+  },
+  {
+   "word": "never",
+   "start": 69.16,
+   "end": 69.34,
+   "prob": 0.996
+  },
+  {
+   "word": "gonna",
+   "start": 69.34,
+   "end": 69.68,
+   "prob": 0.973
+  },
+  {
+   "word": "stop",
+   "start": 69.68,
+   "end": 70.1,
+   "prob": 0.998
+  },
+  {
+   "word": "Never",
+   "start": 70.1,
+   "end": 70.8,
+   "prob": 0.828
+  },
+  {
+   "word": "gonna",
+   "start": 70.8,
+   "end": 71.02,
+   "prob": 0.993
+  },
+  {
+   "word": "stop,",
+   "start": 71.02,
+   "end": 72.08,
+   "prob": 0.996
+  },
+  {
+   "word": "never",
+   "start": 72.08,
+   "end": 72.36,
+   "prob": 0.967
+  },
+  {
+   "word": "gonna",
+   "start": 72.36,
+   "end": 72.56,
+   "prob": 0.991
+  },
+  {
+   "word": "stop",
+   "start": 72.56,
+   "end": 73.32,
+   "prob": 0.993
+  },
+  {
+   "word": "Lemon",
+   "start": 73.32,
+   "end": 73.64,
+   "prob": 0.889
+  },
+  {
+   "word": "dash,",
+   "start": 73.64,
+   "end": 74.04,
+   "prob": 0.346
+  },
+  {
+   "word": "lemon",
+   "start": 74.28,
+   "end": 74.46,
+   "prob": 0.917
+  },
+  {
+   "word": "deep",
+   "start": 74.46,
+   "end": 74.8,
+   "prob": 0.261
+  },
+  {
+   "word": "oak,",
+   "start": 74.8,
+   "end": 75.08,
+   "prob": 0.149
+  },
+  {
+   "word": "the",
+   "start": 75.2,
+   "end": 75.34,
+   "prob": 0.967
+  },
+  {
+   "word": "numbers",
+   "start": 75.34,
+   "end": 75.64,
+   "prob": 0.989
+  },
+  {
+   "word": "get",
+   "start": 75.64,
+   "end": 75.9,
+   "prob": 0.96
+  },
+  {
+   "word": "big",
+   "start": 75.9,
+   "end": 76.24,
+   "prob": 0.578
+  },
+  {
+   "word": "Check",
+   "start": 76.24,
+   "end": 76.56,
+   "prob": 0.1
+  },
+  {
+   "word": "back",
+   "start": 76.56,
+   "end": 76.96,
+   "prob": 0.47
+  },
+  {
+   "word": "on",
+   "start": 76.96,
+   "end": 77.2,
+   "prob": 0.792
+  },
+  {
+   "word": "fly",
+   "start": 77.2,
+   "end": 77.52,
+   "prob": 0.544
+  },
+  {
+   "word": "up",
+   "start": 77.52,
+   "end": 77.72,
+   "prob": 0.644
+  },
+  {
+   "word": "high",
+   "start": 77.72,
+   "end": 78.2,
+   "prob": 0.954
+  },
+  {
+   "word": "Do",
+   "start": 78.2,
+   "end": 78.52,
+   "prob": 0.817
+  },
+  {
+   "word": "a",
+   "start": 78.52,
+   "end": 78.88,
+   "prob": 0.986
+  },
+  {
+   "word": "little",
+   "start": 78.88,
+   "end": 79.26,
+   "prob": 0.947
+  },
+  {
+   "word": "g",
+   "start": 79.26,
+   "end": 79.48,
+   "prob": 0.378
+  },
+  {
+   "word": "-gree,",
+   "start": 79.48,
+   "end": 79.9,
+   "prob": 0.425
+  },
+  {
+   "word": "birth",
+   "start": 80.1,
+   "end": 80.38,
+   "prob": 0.522
+  },
+  {
+   "word": "when",
+   "start": 80.38,
+   "end": 80.62,
+   "prob": 0.901
+  },
+  {
+   "word": "the",
+   "start": 80.62,
+   "end": 80.84,
+   "prob": 0.984
+  },
+  {
+   "word": "buttons",
+   "start": 80.84,
+   "end": 81.14,
+   "prob": 0.957
+  },
+  {
+   "word": "cost",
+   "start": 81.14,
+   "end": 81.5,
+   "prob": 0.928
+  },
+  {
+   "word": "too",
+   "start": 81.5,
+   "end": 81.96,
+   "prob": 0.763
+  },
+  {
+   "word": "much",
+   "start": 81.96,
+   "end": 82.58,
+   "prob": 0.999
+  },
+  {
+   "word": "Joe",
+   "start": 82.58,
+   "end": 82.86,
+   "prob": 0.695
+  },
+  {
+   "word": "the",
+   "start": 82.86,
+   "end": 83.24,
+   "prob": 0.381
+  },
+  {
+   "word": "alien",
+   "start": 83.24,
+   "end": 83.54,
+   "prob": 0.912
+  },
+  {
+   "word": "shows",
+   "start": 83.54,
+   "end": 83.92,
+   "prob": 0.983
+  },
+  {
+   "word": "up,",
+   "start": 83.92,
+   "end": 84.26,
+   "prob": 0.999
+  },
+  {
+   "word": "give",
+   "start": 84.32,
+   "end": 84.54,
+   "prob": 0.971
+  },
+  {
+   "word": "the",
+   "start": 84.54,
+   "end": 84.76,
+   "prob": 0.994
+  },
+  {
+   "word": "button",
+   "start": 84.76,
+   "end": 85.18,
+   "prob": 0.988
+  },
+  {
+   "word": "a",
+   "start": 85.18,
+   "end": 85.4,
+   "prob": 0.958
+  },
+  {
+   "word": "touchmull",
+   "start": 85.4,
+   "end": 86.02,
+   "prob": 0.495
+  },
+  {
+   "word": "To",
+   "start": 86.02,
+   "end": 86.28,
+   "prob": 0.114
+  },
+  {
+   "word": "play",
+   "start": 86.28,
+   "end": 86.52,
+   "prob": 0.332
+  },
+  {
+   "word": "a",
+   "start": 86.52,
+   "end": 86.76,
+   "prob": 0.948
+  },
+  {
+   "word": "stack,",
+   "start": 86.76,
+   "end": 87.02,
+   "prob": 0.896
+  },
+  {
+   "word": "the",
+   "start": 87.26,
+   "end": 87.48,
+   "prob": 0.667
+  },
+  {
+   "word": "cash",
+   "start": 87.48,
+   "end": 87.8,
+   "prob": 0.722
+  },
+  {
+   "word": "comes",
+   "start": 87.8,
+   "end": 88.12,
+   "prob": 0.973
+  },
+  {
+   "word": "in",
+   "start": 88.12,
+   "end": 88.4,
+   "prob": 0.991
+  },
+  {
+   "word": "ways",
+   "start": 88.4,
+   "end": 88.9,
+   "prob": 0.402
+  },
+  {
+   "word": "Boy,",
+   "start": 88.9,
+   "end": 89.32,
+   "prob": 0.105
+  },
+  {
+   "word": "portal",
+   "start": 89.54,
+   "end": 89.8,
+   "prob": 0.894
+  },
+  {
+   "word": "opens,",
+   "start": 89.8,
+   "end": 90.28,
+   "prob": 0.95
+  },
+  {
+   "word": "evolution",
+   "start": 90.58,
+   "end": 91.22,
+   "prob": 0.71
+  },
+  {
+   "word": "sees",
+   "start": 91.22,
+   "end": 92.06,
+   "prob": 0.565
+  },
+  {
+   "word": "From",
+   "start": 92.06,
+   "end": 92.44,
+   "prob": 0.254
+  },
+  {
+   "word": "stand",
+   "start": 92.44,
+   "end": 92.94,
+   "prob": 0.756
+  },
+  {
+   "word": "to",
+   "start": 92.94,
+   "end": 93.18,
+   "prob": 0.963
+  },
+  {
+   "word": "space,",
+   "start": 93.18,
+   "end": 93.42,
+   "prob": 0.992
+  },
+  {
+   "word": "the",
+   "start": 93.42,
+   "end": 93.84,
+   "prob": 0.918
+  },
+  {
+   "word": "empire",
+   "start": 93.84,
+   "end": 94.42,
+   "prob": 0.701
+  },
+  {
+   "word": "keeps",
+   "start": 94.42,
+   "end": 94.82,
+   "prob": 0.697
+  },
+  {
+   "word": "growing",
+   "start": 94.82,
+   "end": 95.14,
+   "prob": 0.849
+  },
+  {
+   "word": "Bacon",
+   "start": 95.14,
+   "end": 95.66,
+   "prob": 0.13
+  },
+  {
+   "word": "head",
+   "start": 95.66,
+   "end": 96.04,
+   "prob": 0.37
+  },
+  {
+   "word": "on",
+   "start": 96.04,
+   "end": 96.36,
+   "prob": 0.971
+  },
+  {
+   "word": "the",
+   "start": 96.36,
+   "end": 96.48,
+   "prob": 0.927
+  },
+  {
+   "word": "screen",
+   "start": 96.48,
+   "end": 96.8,
+   "prob": 0.972
+  },
+  {
+   "word": "The",
+   "start": 96.8,
+   "end": 97.36,
+   "prob": 0.769
+  },
+  {
+   "word": "lemons",
+   "start": 97.36,
+   "end": 97.62,
+   "prob": 0.218
+  },
+  {
+   "word": "still",
+   "start": 97.62,
+   "end": 97.94,
+   "prob": 0.527
+  },
+  {
+   "word": "flow",
+   "start": 97.94,
+   "end": 98.28,
+   "prob": 0.407
+  },
+  {
+   "word": "in",
+   "start": 98.28,
+   "end": 98.58,
+   "prob": 0.387
+  },
+  {
+   "word": "Sell",
+   "start": 98.58,
+   "end": 98.74,
+   "prob": 0.01
+  },
+  {
+   "word": "the",
+   "start": 98.74,
+   "end": 98.92,
+   "prob": 0.977
+  },
+  {
+   "word": "lemons,",
+   "start": 98.92,
+   "end": 99.26,
+   "prob": 0.991
+  },
+  {
+   "word": "sell",
+   "start": 99.54,
+   "end": 100.2,
+   "prob": 0.955
+  },
+  {
+   "word": "the",
+   "start": 100.2,
+   "end": 100.48,
+   "prob": 0.997
+  },
+  {
+   "word": "lemons",
+   "start": 100.48,
+   "end": 100.88,
+   "prob": 0.996
+  },
+  {
+   "word": "Bacon",
+   "start": 100.88,
+   "end": 101.82,
+   "prob": 0.915
+  },
+  {
+   "word": "hits,",
+   "start": 101.82,
+   "end": 102.5,
+   "prob": 0.047
+  },
+  {
+   "word": "selling",
+   "start": 102.54,
+   "end": 102.78,
+   "prob": 0.231
+  },
+  {
+   "word": "lemons",
+   "start": 102.78,
+   "end": 103.16,
+   "prob": 0.614
+  },
+  {
+   "word": "all",
+   "start": 103.16,
+   "end": 103.64,
+   "prob": 0.827
+  },
+  {
+   "word": "day",
+   "start": 103.64,
+   "end": 104.12,
+   "prob": 0.559
+  },
+  {
+   "word": "Sell",
+   "start": 104.12,
+   "end": 105.02,
+   "prob": 0.958
+  },
+  {
+   "word": "the",
+   "start": 105.02,
+   "end": 105.22,
+   "prob": 0.999
+  },
+  {
+   "word": "lemons,",
+   "start": 105.22,
+   "end": 105.62,
+   "prob": 0.997
+  },
+  {
+   "word": "sell",
+   "start": 105.9,
+   "end": 106.42,
+   "prob": 0.971
+  },
+  {
+   "word": "the",
+   "start": 106.42,
+   "end": 106.74,
+   "prob": 0.995
+  },
+  {
+   "word": "lemons,",
+   "start": 106.74,
+   "end": 107.14,
+   "prob": 0.996
+  },
+  {
+   "word": "click",
+   "start": 107.14,
+   "end": 107.58,
+   "prob": 0.634
+  },
+  {
+   "word": "upgrade",
+   "start": 107.58,
+   "end": 108.1,
+   "prob": 0.022
+  },
+  {
+   "word": "sale",
+   "start": 108.1,
+   "end": 108.62,
+   "prob": 0.386
+  },
+  {
+   "word": "Don't",
+   "start": 108.62,
+   "end": 109.04,
+   "prob": 0.77
+  },
+  {
+   "word": "stop",
+   "start": 109.04,
+   "end": 109.38,
+   "prob": 0.987
+  },
+  {
+   "word": "the",
+   "start": 109.38,
+   "end": 109.72,
+   "prob": 0.974
+  },
+  {
+   "word": "play,",
+   "start": 109.72,
+   "end": 110.3,
+   "prob": 0.666
+  },
+  {
+   "word": "sell",
+   "start": 110.3,
+   "end": 111.3,
+   "prob": 0.977
+  },
+  {
+   "word": "the",
+   "start": 111.3,
+   "end": 111.5,
+   "prob": 0.992
+  },
+  {
+   "word": "lemons",
+   "start": 111.5,
+   "end": 111.86,
+   "prob": 0.931
+  },
+  {
+   "word": "Sell",
+   "start": 111.86,
+   "end": 112.12,
+   "prob": 0.449
+  },
+  {
+   "word": "the",
+   "start": 112.12,
+   "end": 112.32,
+   "prob": 0.993
+  },
+  {
+   "word": "lemons,",
+   "start": 112.32,
+   "end": 112.66,
+   "prob": 0.568
+  },
+  {
+   "word": "sell",
+   "start": 112.74,
+   "end": 112.76,
+   "prob": 0.935
+  },
+  {
+   "word": "the",
+   "start": 112.76,
+   "end": 113.08,
+   "prob": 0.995
+  },
+  {
+   "word": "lemons,",
+   "start": 113.08,
+   "end": 113.58,
+   "prob": 0.985
+  },
+  {
+   "word": "bacon",
+   "start": 113.64,
+   "end": 114.6,
+   "prob": 0.758
+  },
+  {
+   "word": "hits",
+   "start": 114.6,
+   "end": 115.08,
+   "prob": 0.262
+  },
+  {
+   "word": "Sell",
+   "start": 115.08,
+   "end": 116.14,
+   "prob": 0.002
+  },
+  {
+   "word": "the",
+   "start": 116.14,
+   "end": 116.24,
+   "prob": 0.683
+  },
+  {
+   "word": "lemons,",
+   "start": 116.24,
+   "end": 117.04,
+   "prob": 0.732
+  },
+  {
+   "word": "never",
+   "start": 117.04,
+   "end": 118.52,
+   "prob": 0.937
+  },
+  {
+   "word": "gonna",
+   "start": 118.52,
+   "end": 119.7,
+   "prob": 0.44
+  },
+  {
+   "word": "stop",
+   "start": 119.7,
+   "end": 121.0,
+   "prob": 0.705
+  },
+  {
+   "word": "Click",
+   "start": 121.0,
+   "end": 121.52,
+   "prob": 0.404
+  },
+  {
+   "word": "sale",
+   "start": 121.52,
+   "end": 122.02,
+   "prob": 0.242
+  },
+  {
+   "word": "upgrade",
+   "start": 122.02,
+   "end": 122.84,
+   "prob": 0.082
+  },
+  {
+   "word": "sale",
+   "start": 122.84,
+   "end": 123.56,
+   "prob": 0.939
+  },
+  {
+   "word": "Click",
+   "start": 124.08,
+   "end": 124.66,
+   "prob": 0.09
+  },
+  {
+   "word": "sale",
+   "start": 124.66,
+   "end": 125.14,
+   "prob": 0.992
+  },
+  {
+   "word": "upgrade",
+   "start": 125.14,
+   "end": 125.98,
+   "prob": 0.99
+  },
+  {
+   "word": "sale",
+   "start": 125.98,
+   "end": 126.84,
+   "prob": 0.996
+  },
+  {
+   "word": "Automate",
+   "start": 126.84,
+   "end": 127.78,
+   "prob": 0.6
+  },
+  {
+   "word": "the",
+   "start": 127.78,
+   "end": 127.96,
+   "prob": 0.993
+  },
+  {
+   "word": "line,",
+   "start": 127.96,
+   "end": 128.52,
+   "prob": 0.953
+  },
+  {
+   "word": "watch",
+   "start": 128.6,
+   "end": 129.0,
+   "prob": 0.99
+  },
+  {
+   "word": "the",
+   "start": 129.0,
+   "end": 129.16,
+   "prob": 0.963
+  },
+  {
+   "word": "cash",
+   "start": 129.16,
+   "end": 129.42,
+   "prob": 0.903
+  },
+  {
+   "word": "fly",
+   "start": 129.42,
+   "end": 129.9,
+   "prob": 0.644
+  },
+  {
+   "word": "Bacon",
+   "start": 129.9,
+   "end": 130.66,
+   "prob": 0.005
+  },
+  {
+   "word": "hits,",
+   "start": 130.66,
+   "end": 130.94,
+   "prob": 0.006
+  },
+  {
+   "word": "dancing",
+   "start": 131.2,
+   "end": 131.5,
+   "prob": 0.973
+  },
+  {
+   "word": "while",
+   "start": 131.5,
+   "end": 131.74,
+   "prob": 0.958
+  },
+  {
+   "word": "the",
+   "start": 131.74,
+   "end": 131.9,
+   "prob": 0.894
+  },
+  {
+   "word": "numbers",
+   "start": 131.9,
+   "end": 132.2,
+   "prob": 0.991
+  },
+  {
+   "word": "go",
+   "start": 132.2,
+   "end": 132.54,
+   "prob": 0.99
+  },
+  {
+   "word": "high",
+   "start": 132.54,
+   "end": 133.0,
+   "prob": 0.917
+  },
+  {
+   "word": "Sell",
+   "start": 133.0,
+   "end": 133.32,
+   "prob": 0.64
+  },
+  {
+   "word": "the",
+   "start": 133.32,
+   "end": 133.56,
+   "prob": 0.972
+  },
+  {
+   "word": "lemons,",
+   "start": 133.56,
+   "end": 133.96,
+   "prob": 0.994
+  },
+  {
+   "word": "sell",
+   "start": 134.32,
+   "end": 134.88,
+   "prob": 0.967
+  },
+  {
+   "word": "the",
+   "start": 134.88,
+   "end": 135.08,
+   "prob": 0.999
+  },
+  {
+   "word": "lemons,",
+   "start": 135.08,
+   "end": 135.6,
+   "prob": 0.995
+  },
+  {
+   "word": "sell",
+   "start": 135.72,
+   "end": 136.4,
+   "prob": 0.981
+  },
+  {
+   "word": "the",
+   "start": 136.4,
+   "end": 136.68,
+   "prob": 0.996
+  },
+  {
+   "word": "lemons",
+   "start": 136.68,
+   "end": 137.46,
+   "prob": 0.992
+  },
+  {
+   "word": "Sell",
+   "start": 137.46,
+   "end": 138.0,
+   "prob": 0.773
+  },
+  {
+   "word": "the",
+   "start": 138.0,
+   "end": 138.26,
+   "prob": 0.998
+  },
+  {
+   "word": "lemons,",
+   "start": 138.26,
+   "end": 138.62,
+   "prob": 0.99
+  },
+  {
+   "word": "sell",
+   "start": 138.98,
+   "end": 139.42,
+   "prob": 0.994
+  },
+  {
+   "word": "the",
+   "start": 139.42,
+   "end": 139.98,
+   "prob": 0.997
+  },
+  {
+   "word": "lemons,",
+   "start": 139.98,
+   "end": 140.58,
+   "prob": 0.985
+  },
+  {
+   "word": "sell",
+   "start": 141.0,
+   "end": 141.2,
+   "prob": 0.991
+  },
+  {
+   "word": "the",
+   "start": 141.2,
+   "end": 141.4,
+   "prob": 0.996
+  },
+  {
+   "word": "lemons",
+   "start": 141.4,
+   "end": 142.2,
+   "prob": 0.992
+  },
+  {
+   "word": "Sell",
+   "start": 142.2,
+   "end": 142.72,
+   "prob": 0.004
+  },
+  {
+   "word": "the",
+   "start": 142.72,
+   "end": 142.94,
+   "prob": 0.875
+  },
+  {
+   "word": "lemons,",
+   "start": 142.94,
+   "end": 143.36,
+   "prob": 0.881
+  },
+  {
+   "word": "sell",
+   "start": 143.4,
+   "end": 143.84,
+   "prob": 0.092
+  },
+  {
+   "word": "the",
+   "start": 143.84,
+   "end": 145.06,
+   "prob": 0.89
+  },
+  {
+   "word": "lemons",
+   "start": 145.06,
+   "end": 145.41,
+   "prob": 0.894
+  },
+  {
+   "word": "World",
+   "start": 145.9,
+   "end": 146.34,
+   "prob": 0.305
+  },
+  {
+   "word": "to",
+   "start": 146.34,
+   "end": 146.7,
+   "prob": 0.347
+  },
+  {
+   "word": "come,",
+   "start": 146.7,
+   "end": 147.22,
+   "prob": 0.908
+  },
+  {
+   "word": "oxygen",
+   "start": 147.5,
+   "end": 148.08,
+   "prob": 0.88
+  },
+  {
+   "word": "next,",
+   "start": 148.08,
+   "end": 148.66,
+   "prob": 0.67
+  },
+  {
+   "word": "same",
+   "start": 148.94,
+   "end": 149.12,
+   "prob": 0.918
+  },
+  {
+   "word": "look",
+   "start": 149.12,
+   "end": 149.42,
+   "prob": 0.356
+  },
+  {
+   "word": "bigger",
+   "start": 149.42,
+   "end": 149.94,
+   "prob": 0.415
+  },
+  {
+   "word": "checks",
+   "start": 149.94,
+   "end": 150.38,
+   "prob": 0.397
+  },
+  {
+   "word": "Never",
+   "start": 150.38,
+   "end": 150.92,
+   "prob": 0.495
+  },
+  {
+   "word": "perplexed,",
+   "start": 150.92,
+   "end": 152.14,
+   "prob": 0.684
+  },
+  {
+   "word": "offline",
+   "start": 152.14,
+   "end": 152.68,
+   "prob": 0.38
+  },
+  {
+   "word": "cash",
+   "start": 152.68,
+   "end": 153.32,
+   "prob": 0.772
+  },
+  {
+   "word": "keeps",
+   "start": 153.32,
+   "end": 153.72,
+   "prob": 0.906
+  },
+  {
+   "word": "ticking",
+   "start": 153.72,
+   "end": 154.18,
+   "prob": 0.995
+  },
+  {
+   "word": "while",
+   "start": 154.18,
+   "end": 154.48,
+   "prob": 0.92
+  },
+  {
+   "word": "I",
+   "start": 154.48,
+   "end": 154.64,
+   "prob": 0.981
+  },
+  {
+   "word": "sleep",
+   "start": 154.64,
+   "end": 155.14,
+   "prob": 0.993
+  },
+  {
+   "word": "Wake",
+   "start": 155.14,
+   "end": 155.68,
+   "prob": 0.864
+  },
+  {
+   "word": "up,",
+   "start": 155.68,
+   "end": 155.9,
+   "prob": 0.986
+  },
+  {
+   "word": "richer,",
+   "start": 156.16,
+   "end": 156.34,
+   "prob": 0.437
+  },
+  {
+   "word": "the",
+   "start": 156.6,
+   "end": 156.68,
+   "prob": 0.971
+  },
+  {
+   "word": "empire",
+   "start": 156.68,
+   "end": 157.24,
+   "prob": 0.62
+  },
+  {
+   "word": "is",
+   "start": 157.24,
+   "end": 157.68,
+   "prob": 0.975
+  },
+  {
+   "word": "dejected",
+   "start": 157.68,
+   "end": 158.52,
+   "prob": 0.495
+  },
+  {
+   "word": "The",
+   "start": 158.52,
+   "end": 158.6,
+   "prob": 0.665
+  },
+  {
+   "word": "dreams",
+   "start": 158.6,
+   "end": 158.96,
+   "prob": 0.517
+  },
+  {
+   "word": "grab",
+   "start": 158.96,
+   "end": 159.18,
+   "prob": 0.943
+  },
+  {
+   "word": "the",
+   "start": 159.18,
+   "end": 159.4,
+   "prob": 0.992
+  },
+  {
+   "word": "bags",
+   "start": 159.4,
+   "end": 159.74,
+   "prob": 0.941
+  },
+  {
+   "word": "to",
+   "start": 159.74,
+   "end": 160.0,
+   "prob": 0.677
+  },
+  {
+   "word": "the",
+   "start": 160.0,
+   "end": 160.22,
+   "prob": 0.995
+  },
+  {
+   "word": "deals",
+   "start": 160.22,
+   "end": 160.8,
+   "prob": 0.841
+  },
+  {
+   "word": "Bacon",
+   "start": 160.8,
+   "end": 161.3,
+   "prob": 0.085
+  },
+  {
+   "word": "hits,",
+   "start": 161.3,
+   "end": 161.58,
+   "prob": 0.137
+  },
+  {
+   "word": "selling",
+   "start": 161.7,
+   "end": 162.02,
+   "prob": 0.001
+  },
+  {
+   "word": "that's",
+   "start": 162.02,
+   "end": 162.9,
+   "prob": 0.552
+  },
+  {
+   "word": "how",
+   "start": 162.9,
+   "end": 163.12,
+   "prob": 0.996
+  },
+  {
+   "word": "it",
+   "start": 163.12,
+   "end": 163.3,
+   "prob": 0.983
+  },
+  {
+   "word": "feel",
+   "start": 163.3,
+   "end": 163.8,
+   "prob": 0.649
+  },
+  {
+   "word": "From",
+   "start": 163.8,
+   "end": 164.12,
+   "prob": 0.162
+  },
+  {
+   "word": "one",
+   "start": 164.12,
+   "end": 164.44,
+   "prob": 0.993
+  },
+  {
+   "word": "little",
+   "start": 164.44,
+   "end": 164.78,
+   "prob": 0.994
+  },
+  {
+   "word": "stand",
+   "start": 164.78,
+   "end": 165.16,
+   "prob": 0.74
+  },
+  {
+   "word": "to",
+   "start": 165.16,
+   "end": 165.52,
+   "prob": 0.808
+  },
+  {
+   "word": "the",
+   "start": 165.52,
+   "end": 165.66,
+   "prob": 0.993
+  },
+  {
+   "word": "top",
+   "start": 165.66,
+   "end": 165.9,
+   "prob": 0.997
+  },
+  {
+   "word": "of",
+   "start": 165.9,
+   "end": 166.12,
+   "prob": 0.995
+  },
+  {
+   "word": "the",
+   "start": 166.12,
+   "end": 166.26,
+   "prob": 0.959
+  },
+  {
+   "word": "sky",
+   "start": 166.26,
+   "end": 166.66,
+   "prob": 0.442
+  },
+  {
+   "word": "Sell",
+   "start": 166.66,
+   "end": 167.48,
+   "prob": 0.007
+  },
+  {
+   "word": "the",
+   "start": 167.48,
+   "end": 167.68,
+   "prob": 0.891
+  },
+  {
+   "word": "lemons,",
+   "start": 167.68,
+   "end": 167.94,
+   "prob": 0.868
+  },
+  {
+   "word": "keep",
+   "start": 168.12,
+   "end": 168.2,
+   "prob": 0.953
+  },
+  {
+   "word": "the",
+   "start": 168.2,
+   "end": 168.42,
+   "prob": 0.981
+  },
+  {
+   "word": "machine",
+   "start": 168.42,
+   "end": 168.8,
+   "prob": 0.919
+  },
+  {
+   "word": "running",
+   "start": 168.8,
+   "end": 169.58,
+   "prob": 0.955
+  },
+  {
+   "word": "high",
+   "start": 169.58,
+   "end": 170.46,
+   "prob": 0.874
+  },
+  {
+   "word": "Sell",
+   "start": 173.38,
+   "end": 174.12,
+   "prob": 0.329
+  },
+  {
+   "word": "the",
+   "start": 174.12,
+   "end": 174.3,
+   "prob": 0.983
+  },
+  {
+   "word": "lemons,",
+   "start": 174.3,
+   "end": 174.64,
+   "prob": 0.993
+  },
+  {
+   "word": "sell",
+   "start": 174.94,
+   "end": 175.68,
+   "prob": 0.672
+  },
+  {
+   "word": "the",
+   "start": 175.68,
+   "end": 175.88,
+   "prob": 0.987
+  },
+  {
+   "word": "lemons",
+   "start": 175.88,
+   "end": 176.28,
+   "prob": 0.995
+  },
+  {
+   "word": "Bacon",
+   "start": 176.28,
+   "end": 177.2,
+   "prob": 0.009
+  },
+  {
+   "word": "hits,",
+   "start": 177.2,
+   "end": 177.92,
+   "prob": 0.002
+  },
+  {
+   "word": "selling",
+   "start": 177.96,
+   "end": 178.2,
+   "prob": 0.593
+  },
+  {
+   "word": "lemons",
+   "start": 178.2,
+   "end": 178.56,
+   "prob": 0.987
+  },
+  {
+   "word": "all",
+   "start": 178.56,
+   "end": 179.02,
+   "prob": 0.828
+  },
+  {
+   "word": "day",
+   "start": 179.02,
+   "end": 179.52,
+   "prob": 0.798
+  },
+  {
+   "word": "Sell",
+   "start": 179.52,
+   "end": 180.34,
+   "prob": 0.87
+  },
+  {
+   "word": "the",
+   "start": 180.34,
+   "end": 180.56,
+   "prob": 0.996
+  },
+  {
+   "word": "lemons,",
+   "start": 180.56,
+   "end": 180.96,
+   "prob": 0.994
+  },
+  {
+   "word": "sell",
+   "start": 181.24,
+   "end": 181.8,
+   "prob": 0.95
+  },
+  {
+   "word": "the",
+   "start": 181.8,
+   "end": 182.12,
+   "prob": 0.992
+  },
+  {
+   "word": "lemons,",
+   "start": 182.12,
+   "end": 182.56,
+   "prob": 0.995
+  },
+  {
+   "word": "click",
+   "start": 182.66,
+   "end": 182.98,
+   "prob": 0.027
+  },
+  {
+   "word": "upgrade",
+   "start": 182.98,
+   "end": 183.5,
+   "prob": 0.004
+  },
+  {
+   "word": "sale",
+   "start": 183.5,
+   "end": 184.06,
+   "prob": 0.506
+  },
+  {
+   "word": "Don't",
+   "start": 184.06,
+   "end": 184.44,
+   "prob": 0.626
+  },
+  {
+   "word": "stop",
+   "start": 184.44,
+   "end": 184.78,
+   "prob": 0.985
+  },
+  {
+   "word": "the",
+   "start": 184.78,
+   "end": 185.2,
+   "prob": 0.962
+  },
+  {
+   "word": "play,",
+   "start": 185.2,
+   "end": 185.74,
+   "prob": 0.216
+  },
+  {
+   "word": "sell",
+   "start": 185.74,
+   "end": 188.18,
+   "prob": 0.968
+  },
+  {
+   "word": "the",
+   "start": 188.18,
+   "end": 188.42,
+   "prob": 0.99
+  },
+  {
+   "word": "lemons",
+   "start": 188.42,
+   "end": 188.8,
+   "prob": 0.916
+  },
+  {
+   "word": "Sell",
+   "start": 188.8,
+   "end": 189.06,
+   "prob": 0.616
+  },
+  {
+   "word": "the",
+   "start": 189.06,
+   "end": 189.24,
+   "prob": 0.996
+  },
+  {
+   "word": "lemons,",
+   "start": 189.24,
+   "end": 189.5,
+   "prob": 0.465
+  },
+  {
+   "word": "never",
+   "start": 189.54,
+   "end": 189.9,
+   "prob": 0.0
+  },
+  {
+   "word": "gonna",
+   "start": 189.9,
+   "end": 193.64,
+   "prob": 0.026
+  },
+  {
+   "word": "stop",
+   "start": 193.64,
+   "end": 196.64,
+   "prob": 0.012
+  },
+  {
+   "word": "Sell",
+   "start": 199.72,
+   "end": 200.56,
+   "prob": 0.005
+  },
+  {
+   "word": "the",
+   "start": 200.56,
+   "end": 200.9,
+   "prob": 0.824
+  },
+  {
+   "word": "lemons,",
+   "start": 200.9,
+   "end": 201.32,
+   "prob": 0.79
+  },
+  {
+   "word": "sell",
+   "start": 201.5,
+   "end": 203.64,
+   "prob": 0.754
+  },
+  {
+   "word": "the",
+   "start": 203.64,
+   "end": 204.04,
+   "prob": 0.987
+  },
+  {
+   "word": "lemons",
+   "start": 204.04,
+   "end": 204.48,
+   "prob": 0.89
+  },
+  {
+   "word": "Sell",
+   "start": 204.48,
+   "end": 205.28,
+   "prob": 0.023
+  },
+  {
+   "word": "the",
+   "start": 205.28,
+   "end": 205.28,
+   "prob": 0.976
+  },
+  {
+   "word": "lemons,",
+   "start": 205.28,
+   "end": 205.52,
+   "prob": 0.994
+  },
+  {
+   "word": "never",
+   "start": 205.52,
+   "end": 205.52,
+   "prob": 0.0
+  },
+  {
+   "word": "gonna",
+   "start": 205.52,
+   "end": 208.92,
+   "prob": 0.004
+  },
+  {
+   "word": "stop",
+   "start": 208.92,
+   "end": 212.14,
+   "prob": 0.003
+  },
+  {
+   "word": "Click",
+   "start": 212.14,
+   "end": 212.14,
+   "prob": 0.0
+  },
+  {
+   "word": "upgrade",
+   "start": 212.14,
+   "end": 212.14,
+   "prob": 0.085
+  },
+  {
+   "word": "sale",
+   "start": 212.14,
+   "end": 212.16,
+   "prob": 0.908
+  },
+  {
+   "word": "Sell",
+   "start": 218.46,
+   "end": 219.3,
+   "prob": 0.179
+  },
+  {
+   "word": "the",
+   "start": 219.3,
+   "end": 219.66,
+   "prob": 0.978
+  },
+  {
+   "word": "lemons,",
+   "start": 219.66,
+   "end": 220.06,
+   "prob": 0.966
+  },
+  {
+   "word": "sell",
+   "start": 220.38,
+   "end": 222.34,
+   "prob": 0.591
+  },
+  {
+   "word": "the",
+   "start": 222.34,
+   "end": 222.8,
+   "prob": 0.979
+  },
+  {
+   "word": "lemons",
+   "start": 222.8,
+   "end": 223.14,
+   "prob": 0.955
+  },
+  {
+   "word": "Sell",
+   "start": 224.7,
+   "end": 225.54,
+   "prob": 0.676
+  },
+  {
+   "word": "the",
+   "start": 225.54,
+   "end": 225.96,
+   "prob": 0.983
+  },
+  {
+   "word": "lemons,",
+   "start": 225.96,
+   "end": 226.36,
+   "prob": 0.983
+  },
+  {
+   "word": "sell",
+   "start": 226.62,
+   "end": 226.62,
+   "prob": 0.748
+  },
+  {
+   "word": "the",
+   "start": 226.62,
+   "end": 226.62,
+   "prob": 0.965
+  },
+  {
+   "word": "lemons",
+   "start": 226.62,
+   "end": 226.62,
+   "prob": 0.954
+  },
+  {
+   "word": "Sell",
+   "start": 226.62,
+   "end": 228.78,
+   "prob": 0.0
+  },
+  {
+   "word": "the",
+   "start": 228.78,
+   "end": 228.78,
+   "prob": 0.06
+  },
+  {
+   "word": "lemons,",
+   "start": 228.78,
+   "end": 228.78,
+   "prob": 0.0
+  },
+  {
+   "word": "sell",
+   "start": 228.78,
+   "end": 228.78,
+   "prob": 0.008
+  },
+  {
+   "word": "the",
+   "start": 228.78,
+   "end": 228.78,
+   "prob": 0.636
+  },
+  {
+   "word": "lemons",
+   "start": 228.78,
+   "end": 228.78,
+   "prob": 0.275
+  }
+ ],
+ "segments": [
+  {
+   "start": 30.0,
+   "end": 34.82,
+   "text": "Watch the cash climb, upgrade the juicer double the pain"
+  },
+  {
+   "start": 34.82,
+   "end": 38.02,
+   "text": "Automate the stance so I can walk away"
+  },
+  {
+   "start": 38.02,
+   "end": 41.14,
+   "text": "Money on the floor, walk over and grab"
+  },
+  {
+   "start": 41.14,
+   "end": 44.2,
+   "text": "Then buy the next thing, keep on the tab"
+  },
+  {
+   "start": 45.0,
+   "end": 47.5,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 47.5,
+   "end": 50.58,
+   "text": "Bacon hits, selling lemons all day"
+  },
+  {
+   "start": 50.58,
+   "end": 55.28,
+   "text": "Sell the lemons, sell the lemons, click upgrade sale"
+  },
+  {
+   "start": 55.28,
+   "end": 58.44,
+   "text": "Don't stop the play, sell the lemons"
+  },
+  {
+   "start": 58.44,
+   "end": 62.3,
+   "text": "Sell the lemons, sell the lemons, bacon hits, sell the lemons"
+  },
+  {
+   "start": 62.3,
+   "end": 67.52,
+   "text": "No, the lemons, never gonna stop"
+  },
+  {
+   "start": 67.52,
+   "end": 70.1,
+   "text": "Sell up the lemons, never gonna stop"
+  },
+  {
+   "start": 70.1,
+   "end": 73.32,
+   "text": "Never gonna stop, never gonna stop"
+  },
+  {
+   "start": 73.32,
+   "end": 76.24,
+   "text": "Lemon dash, lemon deep oak, the numbers get big"
+  },
+  {
+   "start": 76.24,
+   "end": 78.2,
+   "text": "Check back on fly up high"
+  },
+  {
+   "start": 78.2,
+   "end": 82.58,
+   "text": "Do a little g-gree, birth when the buttons cost too much"
+  },
+  {
+   "start": 82.58,
+   "end": 86.02,
+   "text": "Joe the alien shows up, give the button a touchmull"
+  },
+  {
+   "start": 86.02,
+   "end": 88.9,
+   "text": "To play a stack, the cash comes in ways"
+  },
+  {
+   "start": 88.9,
+   "end": 92.06,
+   "text": "Boy, portal opens, evolution sees"
+  },
+  {
+   "start": 92.06,
+   "end": 95.14,
+   "text": "From stand to space, the empire keeps growing"
+  },
+  {
+   "start": 95.14,
+   "end": 96.8,
+   "text": "Bacon head on the screen"
+  },
+  {
+   "start": 96.8,
+   "end": 98.58,
+   "text": "The lemons still flow in"
+  },
+  {
+   "start": 98.58,
+   "end": 100.88,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 100.88,
+   "end": 104.12,
+   "text": "Bacon hits, selling lemons all day"
+  },
+  {
+   "start": 104.12,
+   "end": 108.62,
+   "text": "Sell the lemons, sell the lemons, click upgrade sale"
+  },
+  {
+   "start": 108.62,
+   "end": 111.86,
+   "text": "Don't stop the play, sell the lemons"
+  },
+  {
+   "start": 111.86,
+   "end": 115.08,
+   "text": "Sell the lemons, sell the lemons, bacon hits"
+  },
+  {
+   "start": 115.08,
+   "end": 121.0,
+   "text": "Sell the lemons, never gonna stop"
+  },
+  {
+   "start": 121.0,
+   "end": 123.56,
+   "text": "Click sale upgrade sale"
+  },
+  {
+   "start": 124.08,
+   "end": 126.84,
+   "text": "Click sale upgrade sale"
+  },
+  {
+   "start": 126.84,
+   "end": 129.9,
+   "text": "Automate the line, watch the cash fly"
+  },
+  {
+   "start": 129.9,
+   "end": 133.0,
+   "text": "Bacon hits, dancing while the numbers go high"
+  },
+  {
+   "start": 133.0,
+   "end": 137.46,
+   "text": "Sell the lemons, sell the lemons, sell the lemons"
+  },
+  {
+   "start": 137.46,
+   "end": 142.2,
+   "text": "Sell the lemons, sell the lemons, sell the lemons"
+  },
+  {
+   "start": 142.2,
+   "end": 145.2,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 145.9,
+   "end": 150.38,
+   "text": "World to come, oxygen next, same look bigger checks"
+  },
+  {
+   "start": 150.38,
+   "end": 155.14,
+   "text": "Never perplexed, offline cash keeps ticking while I sleep"
+  },
+  {
+   "start": 155.14,
+   "end": 158.52,
+   "text": "Wake up, richer, the empire is dejected"
+  },
+  {
+   "start": 158.52,
+   "end": 160.8,
+   "text": "The dreams grab the bags to the deals"
+  },
+  {
+   "start": 160.8,
+   "end": 163.8,
+   "text": "Bacon hits, selling that's how it feel"
+  },
+  {
+   "start": 163.8,
+   "end": 166.66,
+   "text": "From one little stand to the top of the sky"
+  },
+  {
+   "start": 166.66,
+   "end": 170.46,
+   "text": "Sell the lemons, keep the machine running high"
+  },
+  {
+   "start": 173.38,
+   "end": 176.28,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 176.28,
+   "end": 179.52,
+   "text": "Bacon hits, selling lemons all day"
+  },
+  {
+   "start": 179.52,
+   "end": 184.06,
+   "text": "Sell the lemons, sell the lemons, click upgrade sale"
+  },
+  {
+   "start": 184.06,
+   "end": 188.8,
+   "text": "Don't stop the play, sell the lemons"
+  },
+  {
+   "start": 188.8,
+   "end": 196.64,
+   "text": "Sell the lemons, never gonna stop"
+  },
+  {
+   "start": 199.72,
+   "end": 204.48,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 204.48,
+   "end": 212.14,
+   "text": "Sell the lemons, never gonna stop"
+  },
+  {
+   "start": 212.14,
+   "end": 212.16,
+   "text": "Click upgrade sale"
+  },
+  {
+   "start": 218.46,
+   "end": 223.14,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 224.7,
+   "end": 226.62,
+   "text": "Sell the lemons, sell the lemons"
+  },
+  {
+   "start": 226.62,
+   "end": 228.78,
+   "text": "Sell the lemons, sell the lemons"
+  }
+ ]
+}

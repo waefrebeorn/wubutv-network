@@ -1,0 +1,9 @@
+{
+ "tool": "c11_superflux",
+ "wav": "../c11_mir/mv14_16k.wav",
+ "sr": 16000,
+ "n_samples": 2585600,
+ "duration_s": 161.6000,
+ "grid_librosa": {"n_fft": 2048, "hop": 512, "hop_s": 0.032000, "n_frames": 5051},
+ "grid_mir": {"n_fft": 1024, "hop": 256, "hop_s": 0.016000, "n_frames": 10101}
+}

@@ -1,0 +1,39 @@
+{
+  "job": "CLAIM WINDOW pilot Part 1 'Very Umbrella' — production (recovery coordinator; first coordinator stopped silently after U1, resumed from disk)",
+  "date": "2026-11-19",
+  "deliverables": {
+    "master": {"path": "masters/CLAIM_WINDOW_pilot_16x9.mp4", "md5": "b0df7c96609f185e8d31b7d06f7809ca", "bytes": 24232634, "probe": "h264 1280x720 24fps, 1440 frames, 60.000s, AAC 48kHz stereo, faststart"},
+    "chat_copy": {"path": "masters/CLAIM_WINDOW_pilot_chat.mp4", "md5": "b0df7c96609f185e8d31b7d06f7809ca", "bytes": 24232634, "note": "byte copy of master (<=50MB)"},
+    "poster": {"path": "masters/CLAIM_WINDOW_pilot_poster.png", "md5": "929a6f8d8d565e9fd08b15c9fd904319", "bytes": 868962},
+    "gate_log": {"path": "GATE_LOG.md"}
+  },
+  "kept_takes": ["takes/U1_t1.mp4", "takes/U2_t1.mp4", "takes/U3_t1.mp4", "takes/U4_t1.mp4", "takes/U5_t2.mp4", "takes/U6_t1.mp4"],
+  "outtakes_kept": ["takes/U4_t2.mp4", "takes/U5_t1.mp4"],
+  "crf18_proof": "size differential vs CRF-23 encode of the same joined.mp4: 24,232,634 / 13,122,685 = 1.85x (SEI string not used — always reads 23.0 on this VM)",
+  "gate_summary": {
+    "F-9_master_dual_checkpoint": "PASS — 14/14 scripted lines on the master's own audio (large-v3 + distil-large-v3 + Rumble adjudication); 0 missing, 0 confirmed extra; 3 disagreement spans adjudicated with RMS/clip reads (see GATE_LOG)",
+    "ear_test": "PASS",
+    "gate_f_cold_run": "SHIP",
+    "quote_back_master": "PASS — 'That's not a description, that's a wish.'; show-off THE PEACH named; gossip attitude: shameless",
+    "floor_check_stranger_master": "PASS",
+    "zhe_checks": "PASS (surface accuracy Y, next-step legible Y, muted test Y)",
+    "poster_frame": "PASS",
+    "blam": "E1 PASS (bell impact ~0.0s), A2 PASS, A3 PASS, V1 PASS (0.97x); A1 energy-form FAIL disclosed (t50 1.89s / t90 2.71s; first word 1.17s)",
+    "wordmark": "PASS — '~ WuBu ~' bug eye-verified head (0.2s) and tail (59.5s)",
+    "structural": "PASS — exactly 1440f / 60.000s / 1280x720 / 24fps / AAC 48kHz / faststart",
+    "joints": "J1 MATCH · J2 MATCH (prop note) · J3 REPAIR-disclosed (U4 recomposition, bell lost) · J4 MATCH (light note) · J5 REPAIR-disclosed (U6 camera recomposition)"
+  },
+  "spend": {"video_generations": "8/12", "image_generations": "3/8", "refires_used": ["U4 (refire worse, rejected; t1 kept)", "U5 (refire fixed a legible-text reject; t2 kept)"], "429s": 0},
+  "disclosed_flaws": [
+    "BLAM A1 energy-form FAIL — first spoken word at 1.17s; bell impact at frame 0 carries the hook",
+    "J3 cohesion break: U4 recomposes tighter, brass bell absent from U4 on, form stack relocates, June's silent sunglasses push-back not visibly performed (arms crossed), sunglasses end centre-counter",
+    "U3 beach umbrella generated open over the counter rather than planted upright closed",
+    "U5 kept take: stylised lightning bolt rendered inside the room at the open; U4 sunglasses do not carry onto U5's counter",
+    "U6/J5: camera recomposes to a three-quarter angle; June's hair reads lighter/centre-parted; final smile broader than scripted; small legible 'Lost Property' background labels (declared-blank forms stay clean in every unit)",
+    "U2: faint printed-form texture (not legible) + duplicate form on the counter in the tail; June's readback more animated than flat; Peach's stem settles upright from U2 on",
+    "U1 end-state NIT: Peach's hand raised palm-to-glass rather than flat on it pointing",
+    "ASR adjudications: Rumble drops U1 line 1 (present per dual Whisper + RMS); pronoun-like onset artefact at the U4 joint in two master reads, adjudicated not an extra word",
+    "Takes generated at 1248x704, scale-conformed to 1280x720 in assembly (<0.3% non-uniformity)"
+  ],
+  "notes": "No TTS used (tiny-voca on user-ordered hold). No git commit, no delivered flag — parent verifies, flags, delivers. Full record: GATE_LOG.md."
+}

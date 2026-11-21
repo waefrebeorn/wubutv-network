@@ -1,0 +1,17 @@
+# MV-8 v3 — VOLLEY 3 vehicle: I-B "The Gate" GATE (CARTOON EVENT, no singing)
+# Scene: I-B, song 45.51–60.46 (1092–1451f). 14.95s scene; this take covers the
+# gate-approach half: flight toward the gate, ending ON the open gate 60.43.
+# The river-flight half already exists (V2 I-B_v3_river KEEP). Instrumental —
+# no words; the WIPE counter ticks and beat flashes land in post. This take is
+# pure cartoon event.
+# Anchor: G04.jpg (work/rebuild/stills_v3/G04.jpg, md5 8796bb52564f6b707263893dd4170438).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow
+# SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the flight is already rushing toward the gate at frame 0 — never
+# still. Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G04.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow the sole bright accent colour. A fast flight already rushing toward a towering open porcelain gate as the clip opens, never still: the camera already swooping low over a glossy chocolate river, white fibre hills rushing past on both banks, the great porcelain gate growing larger ahead, its doors swinging wide open as the flight approaches, golden light and a golden palace city with toilet-paper banners pouring through the opening, the flight passing through the gate and the shot ending on the open gate with the golden city beyond. Continuous rushing motion from the very first frame to the last. No people, no text, no logos, no letters."

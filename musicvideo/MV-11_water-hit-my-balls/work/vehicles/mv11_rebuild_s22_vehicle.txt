@@ -1,0 +1,60 @@
+MV-11 REBUILD S22 t1 — "Settle" (the water comes down) — CONTINUITY volley 5 (FINAL)
+Song window: 155.06–165.06 (10.00s slot). Scene: OUT-A. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN from S21 t2 @4.06s (work/stills/stack/chain_s21_last.png,
+md5 c7b21fd38b4f7d3c7cb02afbef43506b — the frozen apex, duck on top,
+frame 97 @4.042s, the last frame inside the 4.06s slot).
+End ref: s22_end (generated this volley, conditioned on the S21
+slot-end frame — settled water, wide slow rings, duck at the centre,
+soft warm lamp light; read back PASS, md5
+3794d336c4440f2fe7bef8620c7e4daa).
+Lines: "Balls" + brass stabs (outro). Word times are anchor-level
+only — Whisper fell into a degenerate "water" loop 110.7–130.7, so
+motion is keyed to the BEAT GRID, not word times.
+Kinetic in post: none (the settle plays clean; the stabs are carried
+by the falling water and the slowing rings).
+Images:
+[1] work/stills/stack/chain_s21_last.png (md5 c7b21fd38b4f7d3c7cb02afbef43506b)
+[2] work/stills/stack/s22_end_1248x704.webp (md5 3794d336c4440f2fe7bef8620c7e4daa — read back PASS:
+same toilet-bowl room, settled water, wide slow rings, duck at the
+centre, soft lamp light)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.07/0.53/0.98/1.44/1.90/2.35/2.81/3.27/3.72/4.18/4.64/5.09/5.55/6.01/
+6.46/6.92/7.38/7.83/8.29/8.75/9.20/9.66.
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The water settles INSIDE the wide frame; the bowl
+stays fully visible at all times; the duck stays visible in the
+foreground.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, a toilet-paper holder on the left wall. The BIGGEST splash crown of the whole video is frozen at its apex above the bowl, the yellow rubber duck with an orange beak riding the very top, droplets suspended in the air, arcs frozen mid-air over the rim, the room glowing gold. Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the crown frozen at its apex, the duck on top, the room glowing gold. The picture is already moving at frame 0 — the droplets are falling, the rings are widening. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s21_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full ten seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 3 seconds the crown comes down: the frozen apex collapses back into the bowl in slow arcs, the water falling in bright streams, droplets raining in the lamp light, the yellow duck riding the falling water down toward the bowl. From 3 to 7 seconds the water settles — wide rings widening and slowing across the bowl and the floor puddle, the duck drifting back to the centre of the bowl, the lamp light softening from gold to warm, the last arcs dripping from the rim. From 7 to 10 seconds the bowl is calm, wide slow rings circling the duck at the centre, the floor puddle still, a few last droplets dripping from the rim, the room warm and quiet. The camera holds this exact wide framing for the full ten seconds — it does NOT push in, it does NOT circle the duck, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s22_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: the water settled, wide slow rings circling the yellow duck at the centre of the bowl, the floor puddle still, the lamp light soft and warm, ready for the last drop.
+
+NOTES: S22 is the outro's first scene — the settle AFTER the peak.
+The settle must READ: the water visibly CALMER at 7s than at 2s (the
+reverse of S20's climb). This is the LAST video of the volley-5 cap
+(6/6) — S23 is owed to a volley 6.
+QC focus: the water visibly SETTLING (calmer at 7s than at 2s; the
+crown fallen by ~4s); rings WIDENING and SLOWING; the duck VISIBLE in
+every sampled frame, drifting centre-ward, never filling more than
+~20% of frame height; ONE duck throughout; framing HELD WIDE (bowl
+fully visible at all times); room identity = the SAME toilet-bowl room
+as the S21 slot end (white porcelain toilet, teal tiles, vermilion
+towel, dome lamp, window, toilet-paper holder — NO bathtub, NO sink,
+NO door, NO plant). Joint J21 is CHAIN: frame 0 must match
+chain_s21_last.png (same framing, lighting, subject — the frozen
+apex). Assembly uses the full 10.00s slot. Chain frame for S23 (volley
+6): the S22 take's slot-end frame — extract it even though S23 is
+owed, so the next coordinator starts from a chain frame on disk.

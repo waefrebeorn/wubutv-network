@@ -1,0 +1,6 @@
+[0:a]asplit=2[am][as];
+[as]atrim=start=0.4,asetpts=PTS-STARTPTS,showwaves=s=1280x56:mode=cline:rate=24:colors=0x0047AB,format=yuv420p,tpad=stop_mode=clone:stop_duration=2,trim=end_frame=1440,setpts=N/(24*TB)[wv];
+[0:v]setpts=N/(24*TB)[v0];
+[v0][wv]overlay=0:664[v1];
+[v1]drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='~ WuBu ~':fontcolor=0xF2C230@0.9:fontsize=24:borderw=1:bordercolor=black@0.6:x=w-text_w-18:y=16[vout];
+[am]atrim=0:60,asetpts=PTS-STARTPTS,loudnorm=I=-16:TP=-1.5:LRA=11:measured_I=-16.86:measured_TP=0.49:measured_LRA=7.40:measured_thresh=-27.94:offset=-0.90,aresample=48000[aout]

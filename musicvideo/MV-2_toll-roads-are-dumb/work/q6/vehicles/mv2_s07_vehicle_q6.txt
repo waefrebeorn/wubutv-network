@@ -1,0 +1,29 @@
+MV-2 Q6 RESTAGE VEHICLE — S07 (slot 72.28–80.78, song 8.50s)
+Song line 14, PERFORMED version (captions + mouths use the performed line;
+Q16 ear item is OUT OF SCOPE for Q6 — this restage keeps the performed line
+exactly as the v6 take sings it): "We've been slamming the danger roads,
+toll roads are dumb" (10 words).
+Beat line (same as v6final take, so the assembly word map stays valid):
+"We've been slamming the danger roads, toll roads are dumb"
+
+GENERATION CALL (ordered entries):
+[1] text:
+"Flat cartoon animation, bold outlines, cel-shaded, 16:9 widescreen, 1280 by 720, exactly 10 seconds. At a toll plaza at night: THE VOICE, a cartoon crooner in medium close-up, locked-off steady camera, facing camera, mouth clearly visible and unobstructed. He has light olive skin, a narrow angular face, sharp cheekbones, slicked-back dark hair, clean-shaven, no jewelry, no chain. He wears a dark ink suit, a bone-white shirt, a cadmium-yellow pocket square, holds a blank paper ticket, a chrome microphone on a stand before him. Night toll plaza behind him, dark blue night sky, toll booths with blank dark panels, red and amber lights glowing, no readable words anywhere."
+[2] image: work/q6/voice_anchor_night.png (night-VOICE character anchor — same face, same world as the rest of the video)
+[3] text:
+"From 1.0 to 8.0 seconds THE VOICE sings clearly and articulately, mouth opening and closing on the words "We've been slamming the danger roads, toll roads are dumb". He sings the full line "We've been slamming the danger roads, toll roads are dumb" from start to finish, every word, no words dropped, no words repeated. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. He holds the blank ticket still before the first word, then sings facing camera; after the final word his mouth closes and stays closed for the remainder of the clip, clean held pose. One singer only, no other visible character. No photorealistic look, no live-action look, no text, no logos, no legible signs, no printed words on the ticket, no extra limbs, no morphing."
+
+WHY THIS VEHICLE: volley-18 restage of S07 failed frame (mean 0.496,
+marginal) + photorealistic + text ("STOP"). Fixes: "flat cartoon" is the
+FIRST style term (the volley-18 omission); the image anchor pins the
+night-VOICE face; the window 1.0–8.0 is the proven volley-17 window
+(v6final take: 10/10, ratio 1.039).
+
+GATES (in order): lyric sequence FIRST (10/10 exactly once), ratio second
+(usable 0.80–1.25; grey warp-rescue ≤1.5x to band edge, gates re-run),
+frame third (FAIL if vocal near-dup run ≥24f during vocal OR vocal mean
+diff <0.5), character (G1: face = night-VOICE lock vs anchor), text (G2:
+zero legible on-screen text), exactly-once check, split-half recheck on
+zero-word decodes.
+Mishear classes: tall/told/toe=toll, done=dumb, paid=pay, plasers=plazas,
+comin'=coming, tell=sell.

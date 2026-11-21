@@ -1,0 +1,2523 @@
+{
+ "lines": [
+  {
+   "ref": "I1a",
+   "lyric": "I'm The Nobody Man",
+   "a": 0.0,
+   "b": 2.485,
+   "kind": "KEEP",
+   "key": "U01t2",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u01_t2.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.88
+    },
+    {
+     "w": "the",
+     "s": 1.88,
+     "e": 2.08
+    },
+    {
+     "w": "nobody",
+     "s": 2.08,
+     "e": 2.78
+    },
+    {
+     "w": "man",
+     "s": 2.78,
+     "e": 3.5
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.02212987012987013,
+   "curve_max": 0.0587012987012987
+  },
+  {
+   "ref": "I1b",
+   "lyric": "I'm The Nobody Man",
+   "a": 2.485,
+   "b": 4.97,
+   "kind": "KEEP",
+   "key": "U01t2",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u01_t2.mp4",
+   "slice": [
+    {
+     "w": "nobody",
+     "s": 3.5,
+     "e": 5.04
+    },
+    {
+     "w": "man",
+     "s": 5.04,
+     "e": 5.74
+    }
+   ],
+   "head_audio_onset": 3.5,
+   "head_event": 3.4583333333333335,
+   "head_lag": -0.042,
+   "head_score_at_audio_onset": 0.04394805194805195,
+   "curve_max": 0.0587012987012987
+  },
+  {
+   "ref": "I1c",
+   "lyric": "I'm The Nobody Man",
+   "a": 4.97,
+   "b": 7.445,
+   "kind": "RESCUE",
+   "key": "U02",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u02_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 0.64
+    },
+    {
+     "w": "the",
+     "s": 0.64,
+     "e": 0.8
+    },
+    {
+     "w": "nobody",
+     "s": 0.8,
+     "e": 1.28
+    },
+    {
+     "w": "man.",
+     "s": 1.28,
+     "e": 1.8
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.023584415584415583,
+   "curve_max": 0.03345454545454545
+  },
+  {
+   "ref": "I1d",
+   "lyric": "I'm The Nobody Man",
+   "a": 7.445,
+   "b": 9.92,
+   "kind": "RESCUE",
+   "key": "U02",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u02_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 2.34,
+     "e": 2.76
+    },
+    {
+     "w": "the",
+     "s": 2.76,
+     "e": 2.9
+    },
+    {
+     "w": "nobody",
+     "s": 2.9,
+     "e": 3.36
+    },
+    {
+     "w": "man.",
+     "s": 3.36,
+     "e": 3.92
+    }
+   ],
+   "head_audio_onset": 2.34,
+   "head_event": 2.2916666666666665,
+   "head_lag": -0.048,
+   "head_score_at_audio_onset": 0.018077922077922078,
+   "curve_max": 0.03345454545454545
+  },
+  {
+   "ref": "I2a",
+   "lyric": "I'm The Nobody Man",
+   "a": 9.92,
+   "b": 12.16,
+   "kind": "KEEP",
+   "key": "U03",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u03_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.02
+    },
+    {
+     "w": "the",
+     "s": 1.02,
+     "e": 1.16
+    },
+    {
+     "w": "nobody",
+     "s": 1.16,
+     "e": 1.6
+    },
+    {
+     "w": "man.",
+     "s": 1.6,
+     "e": 2.18
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.021922077922077923,
+   "curve_max": 0.04831168831168831
+  },
+  {
+   "ref": "I2b",
+   "lyric": "I'm The Nobody Man",
+   "a": 12.16,
+   "b": 14.4,
+   "kind": "KEEP",
+   "key": "U03",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u03_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 2.62,
+     "e": 3.5
+    },
+    {
+     "w": "the",
+     "s": 3.5,
+     "e": 3.64
+    },
+    {
+     "w": "nobody",
+     "s": 3.64,
+     "e": 4.1
+    },
+    {
+     "w": "man.",
+     "s": 4.1,
+     "e": 4.68
+    }
+   ],
+   "head_audio_onset": 2.62,
+   "head_event": 2.5833333333333335,
+   "head_lag": -0.037,
+   "head_score_at_audio_onset": 0.03428571428571429,
+   "curve_max": 0.04831168831168831
+  },
+  {
+   "ref": "I2c",
+   "lyric": "I'm The Nobody Man",
+   "a": 14.4,
+   "b": 19.58,
+   "kind": "KEEP",
+   "key": "U04",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u04_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.74
+    },
+    {
+     "w": "the",
+     "s": 1.74,
+     "e": 2.08
+    },
+    {
+     "w": "nobody",
+     "s": 2.08,
+     "e": 3.02
+    },
+    {
+     "w": "man.",
+     "s": 3.02,
+     "e": 4.32
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.022025974025974025,
+   "curve_max": 0.059844155844155845
+  },
+  {
+   "ref": "V1.1",
+   "lyric": "I got a profile, got a pile",
+   "a": 19.58,
+   "b": 22.6,
+   "kind": "COND",
+   "key": "R05A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r05a_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 1.5
+    },
+    {
+     "w": "got",
+     "s": 1.5,
+     "e": 1.78
+    },
+    {
+     "w": "a",
+     "s": 1.78,
+     "e": 2.0
+    },
+    {
+     "w": "profile,",
+     "s": 2.0,
+     "e": 3.0
+    },
+    {
+     "w": "got",
+     "s": 3.66,
+     "e": 4.5
+    },
+    {
+     "w": "a",
+     "s": 4.5,
+     "e": 4.66
+    },
+    {
+     "w": "pile",
+     "s": 4.66,
+     "e": 5.3
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.023896103896103898,
+   "curve_max": 0.1012987012987013,
+   "word_lags": [
+    0.0,
+    -0.042,
+    -0.03,
+    -0.042,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "ref": "V1.2",
+   "lyric": "Got a thousand posts in a folder file",
+   "a": 22.6,
+   "b": 24.62,
+   "kind": "STRUCT",
+   "key": "R05B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r05b_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "V1.3",
+   "lyric": "Old meme face and a busted grin",
+   "a": 24.62,
+   "b": 26.82,
+   "kind": "STRUCT",
+   "key": "R06A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r06a_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "V1.4",
+   "lyric": "Been here so long, I could sign back in",
+   "a": 26.82,
+   "b": 29.42,
+   "kind": "RESCUE",
+   "key": "R06B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r06b_t1.mp4",
+   "slice": [
+    {
+     "w": "Been",
+     "s": 0.0,
+     "e": 1.06
+    },
+    {
+     "w": "here",
+     "s": 1.06,
+     "e": 1.46
+    },
+    {
+     "w": "so",
+     "s": 1.46,
+     "e": 1.8
+    },
+    {
+     "w": "long,",
+     "s": 1.8,
+     "e": 2.3
+    },
+    {
+     "w": "I",
+     "s": 2.52,
+     "e": 2.76
+    },
+    {
+     "w": "could",
+     "s": 2.76,
+     "e": 2.96
+    },
+    {
+     "w": "sign",
+     "s": 2.96,
+     "e": 3.34
+    },
+    {
+     "w": "back",
+     "s": 3.34,
+     "e": 3.7
+    },
+    {
+     "w": "in",
+     "s": 3.7,
+     "e": 4.26
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.022025974025974025,
+   "curve_max": 0.04374025974025974
+  },
+  {
+   "ref": "V1.5",
+   "lyric": "Made a joke at a quarter past eight",
+   "a": 29.42,
+   "b": 31.74,
+   "kind": "KEEP",
+   "key": "U07",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u07_t1.mp4",
+   "slice": [
+    {
+     "w": "Made",
+     "s": 0.0,
+     "e": 0.4
+    },
+    {
+     "w": "a",
+     "s": 0.4,
+     "e": 0.6
+    },
+    {
+     "w": "joke",
+     "s": 0.6,
+     "e": 0.92
+    },
+    {
+     "w": "at",
+     "s": 0.92,
+     "e": 1.22
+    },
+    {
+     "w": "a",
+     "s": 1.22,
+     "e": 1.32
+    },
+    {
+     "w": "quarter",
+     "s": 1.32,
+     "e": 1.64
+    },
+    {
+     "w": "past",
+     "s": 1.64,
+     "e": 2.02
+    },
+    {
+     "w": "eight.",
+     "s": 2.02,
+     "e": 2.52
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.025974025974025976,
+   "curve_max": 0.043116883116883116
+  },
+  {
+   "ref": "V1.6",
+   "lyric": "Watched it sit there while I wait",
+   "a": 31.74,
+   "b": 34.02,
+   "kind": "KEEP",
+   "key": "U07",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u07_t1.mp4",
+   "slice": [
+    {
+     "w": "Watched",
+     "s": 2.82,
+     "e": 3.42
+    },
+    {
+     "w": "it",
+     "s": 3.42,
+     "e": 3.5
+    },
+    {
+     "w": "sit",
+     "s": 3.5,
+     "e": 3.72
+    },
+    {
+     "w": "there",
+     "s": 3.72,
+     "e": 4.08
+    },
+    {
+     "w": "while",
+     "s": 4.08,
+     "e": 4.32
+    },
+    {
+     "w": "I",
+     "s": 4.32,
+     "e": 4.54
+    },
+    {
+     "w": "wait.",
+     "s": 4.54,
+     "e": 4.8
+    }
+   ],
+   "head_audio_onset": 2.82,
+   "head_event": 2.75,
+   "head_lag": -0.07,
+   "head_score_at_audio_onset": 0.03968831168831169,
+   "curve_max": 0.043116883116883116
+  },
+  {
+   "ref": "PC1.1",
+   "lyric": "I kept clicking, kept sticking around",
+   "a": 34.02,
+   "b": 36.5,
+   "kind": "RESCUE",
+   "key": "R08A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r08a_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 1.3
+    },
+    {
+     "w": "kept",
+     "s": 1.3,
+     "e": 1.58
+    },
+    {
+     "w": "clicking,",
+     "s": 1.58,
+     "e": 2.06
+    },
+    {
+     "w": "kept",
+     "s": 2.7,
+     "e": 2.82
+    },
+    {
+     "w": "sticking",
+     "s": 2.82,
+     "e": 3.2
+    },
+    {
+     "w": "around.",
+     "s": 3.2,
+     "e": 3.98
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.020987012987012988,
+   "curve_max": 0.04072727272727273
+  },
+  {
+   "ref": "PC1.2",
+   "lyric": "Little by little, I learned the sound",
+   "a": 36.5,
+   "b": 38.6,
+   "kind": "RESCUE",
+   "key": "R08B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r08b_t1.mp4",
+   "slice": [
+    {
+     "w": "Little",
+     "s": 0.0,
+     "e": 1.36
+    },
+    {
+     "w": "by",
+     "s": 1.36,
+     "e": 1.66
+    },
+    {
+     "w": "little",
+     "s": 1.66,
+     "e": 2.08
+    },
+    {
+     "w": "I",
+     "s": 2.08,
+     "e": 2.4
+    },
+    {
+     "w": "learned",
+     "s": 2.4,
+     "e": 2.74
+    },
+    {
+     "w": "the",
+     "s": 2.74,
+     "e": 2.96
+    },
+    {
+     "w": "sound.",
+     "s": 2.96,
+     "e": 3.52
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.024727272727272726,
+   "curve_max": 0.06846753246753247
+  },
+  {
+   "ref": "PC1.3",
+   "lyric": "Nobody noticing? Fine by me",
+   "a": 38.6,
+   "b": 42.9,
+   "kind": "KEEP",
+   "key": "U09",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u09_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 0.0,
+     "e": 1.5
+    },
+    {
+     "w": "noticing,",
+     "s": 1.5,
+     "e": 2.34
+    },
+    {
+     "w": "fine",
+     "s": 2.96,
+     "e": 3.52
+    },
+    {
+     "w": "by",
+     "s": 3.52,
+     "e": 3.94
+    },
+    {
+     "w": "me",
+     "s": 3.94,
+     "e": 4.36
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.022233766233766234,
+   "curve_max": 0.036883116883116886
+  },
+  {
+   "ref": "PC1.4",
+   "lyric": "I built my kingdom quietly",
+   "a": 42.9,
+   "b": 46.2,
+   "kind": "KEEP",
+   "key": "U10",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u10_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 1.12
+    },
+    {
+     "w": "built",
+     "s": 1.12,
+     "e": 1.5
+    },
+    {
+     "w": "my",
+     "s": 1.5,
+     "e": 1.8
+    },
+    {
+     "w": "kingdom",
+     "s": 1.8,
+     "e": 2.46
+    },
+    {
+     "w": "quietly",
+     "s": 2.46,
+     "e": 3.36
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.01890909090909091,
+   "curve_max": 0.028363636363636365
+  },
+  {
+   "ref": "C1.1",
+   "lyric": "I'm The Nobody Man",
+   "a": 47.02,
+   "b": 49.4,
+   "kind": "KEEP",
+   "key": "U11",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u11_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.06
+    },
+    {
+     "w": "the",
+     "s": 1.06,
+     "e": 1.24
+    },
+    {
+     "w": "nobody",
+     "s": 1.24,
+     "e": 1.72
+    },
+    {
+     "w": "man.",
+     "s": 1.72,
+     "e": 2.28
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.2916666666666667,
+   "head_lag": 0.292,
+   "head_score_at_audio_onset": 0.024831168831168832,
+   "curve_max": 0.08394805194805195
+  },
+  {
+   "ref": "C1.2",
+   "lyric": "Still here, still stand",
+   "a": 49.4,
+   "b": 51.76,
+   "kind": "KEEP",
+   "key": "U11",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u11_t1.mp4",
+   "slice": [
+    {
+     "w": "Still",
+     "s": 2.98,
+     "e": 3.4
+    },
+    {
+     "w": "here,",
+     "s": 3.4,
+     "e": 3.76
+    },
+    {
+     "w": "still",
+     "s": 3.98,
+     "e": 4.14
+    },
+    {
+     "w": "stand.",
+     "s": 4.14,
+     "e": 4.66
+    }
+   ],
+   "head_audio_onset": 2.98,
+   "head_event": null,
+   "head_lag": null,
+   "head_score_at_audio_onset": 0.0,
+   "curve_max": 0.08394805194805195
+  },
+  {
+   "ref": "C1.3",
+   "lyric": "I post, I fade, I post again",
+   "a": 51.76,
+   "b": 53.82,
+   "kind": "KEEP",
+   "key": "U12",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u12_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.36
+    },
+    {
+     "w": "post,",
+     "s": 0.36,
+     "e": 0.82
+    },
+    {
+     "w": "I",
+     "s": 1.14,
+     "e": 1.2
+    },
+    {
+     "w": "fade,",
+     "s": 1.2,
+     "e": 1.54
+    },
+    {
+     "w": "I",
+     "s": 1.98,
+     "e": 2.04
+    },
+    {
+     "w": "post",
+     "s": 2.04,
+     "e": 2.38
+    },
+    {
+     "w": "again,",
+     "s": 2.38,
+     "e": 2.7
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.023584415584415583,
+   "curve_max": 0.03241558441558442
+  },
+  {
+   "ref": "C1.4",
+   "lyric": "I'm The Nobody Man",
+   "a": 53.82,
+   "b": 56.18,
+   "kind": "KEEP",
+   "key": "U12",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u12_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 3.36,
+     "e": 3.54
+    },
+    {
+     "w": "the",
+     "s": 3.54,
+     "e": 3.68
+    },
+    {
+     "w": "nobody",
+     "s": 3.68,
+     "e": 4.14
+    },
+    {
+     "w": "man.",
+     "s": 4.14,
+     "e": 4.6
+    }
+   ],
+   "head_audio_onset": 3.36,
+   "head_event": 3.2916666666666665,
+   "head_lag": -0.068,
+   "head_score_at_audio_onset": 0.02181818181818182,
+   "curve_max": 0.03241558441558442
+  },
+  {
+   "ref": "C1.5",
+   "lyric": "I got a thousand little sparks",
+   "a": 56.18,
+   "b": 59.34,
+   "kind": "KEEP",
+   "key": "R13A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r13a_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.62
+    },
+    {
+     "w": "got",
+     "s": 0.62,
+     "e": 0.74
+    },
+    {
+     "w": "a",
+     "s": 0.74,
+     "e": 0.96
+    },
+    {
+     "w": "thousand",
+     "s": 0.96,
+     "e": 1.34
+    },
+    {
+     "w": "little",
+     "s": 1.34,
+     "e": 1.68
+    },
+    {
+     "w": "sparks.",
+     "s": 1.68,
+     "e": 2.26
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.021506493506493505,
+   "curve_max": 0.04031168831168831
+  },
+  {
+   "ref": "C1.6",
+   "lyric": "Flicking in the dark",
+   "a": 59.34,
+   "b": 61.46,
+   "kind": "KEEP",
+   "key": "R13B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r13b_t1.mp4",
+   "slice": [
+    {
+     "w": "flicking",
+     "s": 0.0,
+     "e": 0.88
+    },
+    {
+     "w": "in",
+     "s": 0.88,
+     "e": 1.06
+    },
+    {
+     "w": "the",
+     "s": 1.06,
+     "e": 1.16
+    },
+    {
+     "w": "dark.",
+     "s": 1.16,
+     "e": 1.62
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.0212987012987013,
+   "curve_max": 0.32935064935064934
+  },
+  {
+   "ref": "C1.7",
+   "lyric": "I'm The Nobody Man",
+   "a": 61.46,
+   "b": 63.72,
+   "kind": "RESCUE",
+   "key": "R14",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r14_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.52
+    },
+    {
+     "w": "the",
+     "s": 1.52,
+     "e": 1.98
+    },
+    {
+     "w": "nobody",
+     "s": 1.98,
+     "e": 2.4
+    },
+    {
+     "w": "man.",
+     "s": 2.4,
+     "e": 2.88
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.7916666666666666,
+   "head_lag": 0.792,
+   "head_score_at_audio_onset": 0.021194805194805193,
+   "curve_max": 0.14607792207792208
+  },
+  {
+   "ref": "C1.8",
+   "lyric": "Nobody Man, Nobody Man",
+   "a": 63.72,
+   "b": 67.8,
+   "kind": "KEEP",
+   "key": "R15",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r15_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 0.0,
+     "e": 1.42
+    },
+    {
+     "w": "man,",
+     "s": 1.42,
+     "e": 1.9
+    },
+    {
+     "w": "nobody",
+     "s": 2.26,
+     "e": 2.74
+    },
+    {
+     "w": "man.",
+     "s": 2.74,
+     "e": 3.56
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.020051948051948053,
+   "curve_max": 0.08093506493506493
+  },
+  {
+   "ref": "C1.Ta",
+   "lyric": "Nobody Man",
+   "a": 67.8,
+   "b": 69.85,
+   "kind": "COND",
+   "key": "R16A",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r16a_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 0.0,
+     "e": 1.82
+    },
+    {
+     "w": "man.",
+     "s": 1.82,
+     "e": 3.56
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.875,
+   "head_lag": 0.875,
+   "head_score_at_audio_onset": 0.02296103896103896,
+   "curve_max": 0.09174025974025975,
+   "word_lags": [
+    0.875,
+    -0.07
+   ]
+  },
+  {
+   "ref": "C1.Tb",
+   "lyric": "Nobody Man",
+   "a": 69.85,
+   "b": 71.9,
+   "kind": "STRUCT",
+   "key": "R16B",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r16b_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "C1.Tc",
+   "lyric": "Nobody Man",
+   "a": 71.9,
+   "b": 73.87,
+   "kind": "KEEP",
+   "key": "R17A",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r17a_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 0.0,
+     "e": 1.28
+    },
+    {
+     "w": "man!",
+     "s": 1.28,
+     "e": 2.36
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.02264935064935065,
+   "curve_max": 0.07231168831168831
+  },
+  {
+   "ref": "C1.Td",
+   "lyric": "Nobody Man",
+   "a": 73.87,
+   "b": 75.84,
+   "kind": "KEEP",
+   "key": "R17B",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r17b_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody,",
+     "s": 2.32,
+     "e": 3.72
+    },
+    {
+     "w": "man.",
+     "s": 4.36,
+     "e": 4.86
+    }
+   ],
+   "head_audio_onset": 2.32,
+   "head_event": 2.25,
+   "head_lag": -0.07,
+   "head_score_at_audio_onset": 0.04883116883116883,
+   "curve_max": 0.09028571428571429
+  },
+  {
+   "ref": "V2.1",
+   "lyric": "I got drafts in the drawer like coins",
+   "a": 75.84,
+   "b": 78.5,
+   "kind": "KEEP",
+   "key": "R18A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r18a_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.62
+    },
+    {
+     "w": "got",
+     "s": 0.62,
+     "e": 0.78
+    },
+    {
+     "w": "drafts",
+     "s": 0.78,
+     "e": 1.3
+    },
+    {
+     "w": "in",
+     "s": 1.3,
+     "e": 1.38
+    },
+    {
+     "w": "the",
+     "s": 1.38,
+     "e": 1.5
+    },
+    {
+     "w": "drawer",
+     "s": 1.5,
+     "e": 1.84
+    },
+    {
+     "w": "like",
+     "s": 1.84,
+     "e": 2.16
+    },
+    {
+     "w": "coins.",
+     "s": 2.16,
+     "e": 2.72
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.16666666666666666,
+   "head_lag": 0.167,
+   "head_score_at_audio_onset": 0.008,
+   "curve_max": 0.15376623376623377
+  },
+  {
+   "ref": "V2.2",
+   "lyric": "Half-mad thoughts and a stack of joins",
+   "a": 78.5,
+   "b": 80.58,
+   "kind": "RESCUE",
+   "key": "R18B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r18b_t1.mp4",
+   "slice": [
+    {
+     "w": "Half",
+     "s": 0.0,
+     "e": 0.9
+    },
+    {
+     "w": "mad",
+     "s": 0.9,
+     "e": 1.2
+    },
+    {
+     "w": "thoughts",
+     "s": 1.2,
+     "e": 1.68
+    },
+    {
+     "w": "and",
+     "s": 1.68,
+     "e": 2.16
+    },
+    {
+     "w": "a",
+     "s": 2.16,
+     "e": 2.28
+    },
+    {
+     "w": "stack",
+     "s": 2.28,
+     "e": 2.54
+    },
+    {
+     "w": "of",
+     "s": 2.54,
+     "e": 2.72
+    },
+    {
+     "w": "joins.",
+     "s": 2.72,
+     "e": 3.2
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.25,
+   "head_lag": 0.25,
+   "head_score_at_audio_onset": 0.008935064935064935,
+   "curve_max": 0.15501298701298702
+  },
+  {
+   "ref": "V2.3",
+   "lyric": "Tiny wins in a low-lit room",
+   "a": 80.58,
+   "b": 82.94,
+   "kind": "KEEP",
+   "key": "U19t2",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u19_t2.mp4",
+   "slice": [
+    {
+     "w": "Tiny",
+     "s": 0.0,
+     "e": 0.7
+    },
+    {
+     "w": "winds",
+     "s": 0.7,
+     "e": 1.2
+    },
+    {
+     "w": "in",
+     "s": 1.2,
+     "e": 1.52
+    },
+    {
+     "w": "a",
+     "s": 1.52,
+     "e": 1.64
+    },
+    {
+     "w": "low",
+     "s": 1.64,
+     "e": 1.92
+    },
+    {
+     "w": "-lit",
+     "s": 1.92,
+     "e": 2.2
+    },
+    {
+     "w": "room,",
+     "s": 2.2,
+     "e": 2.62
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.025142857142857144,
+   "curve_max": 0.04581818181818182
+  },
+  {
+   "ref": "V2.4",
+   "lyric": "One more clip and one more zoom",
+   "a": 82.94,
+   "b": 85.18,
+   "kind": "KEEP",
+   "key": "U19t2",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u19_t2.mp4",
+   "slice": [
+    {
+     "w": "one",
+     "s": 2.76,
+     "e": 2.92
+    },
+    {
+     "w": "more",
+     "s": 2.92,
+     "e": 3.12
+    },
+    {
+     "w": "clip",
+     "s": 3.12,
+     "e": 3.38
+    },
+    {
+     "w": "and",
+     "s": 3.38,
+     "e": 3.64
+    },
+    {
+     "w": "one",
+     "s": 3.64,
+     "e": 3.86
+    },
+    {
+     "w": "more",
+     "s": 3.86,
+     "e": 4.12
+    },
+    {
+     "w": "zoom",
+     "s": 4.12,
+     "e": 4.46
+    }
+   ],
+   "head_audio_onset": 2.76,
+   "head_event": 2.7083333333333335,
+   "head_lag": -0.052,
+   "head_score_at_audio_onset": 0.03335064935064935,
+   "curve_max": 0.04581818181818182
+  },
+  {
+   "ref": "V2.5",
+   "lyric": "Everybody chasing that giant shout",
+   "a": 85.18,
+   "b": 87.66,
+   "kind": "RESCUE",
+   "key": "R20A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r20a_t1.mp4",
+   "slice": [
+    {
+     "w": "Everybody",
+     "s": 0.0,
+     "e": 1.42
+    },
+    {
+     "w": "chasing",
+     "s": 1.42,
+     "e": 1.94
+    },
+    {
+     "w": "that",
+     "s": 1.94,
+     "e": 2.24
+    },
+    {
+     "w": "giant",
+     "s": 2.24,
+     "e": 2.64
+    },
+    {
+     "w": "shout.",
+     "s": 2.64,
+     "e": 3.1
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.375,
+   "head_lag": 0.375,
+   "head_score_at_audio_onset": 0.006337662337662337,
+   "curve_max": 0.06981818181818182
+  },
+  {
+   "ref": "V2.6",
+   "lyric": "I got a small flame I won't put out",
+   "a": 87.66,
+   "b": 89.92,
+   "kind": "RESCUE",
+   "key": "R20B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r20b_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.72
+    },
+    {
+     "w": "got",
+     "s": 0.72,
+     "e": 0.94
+    },
+    {
+     "w": "a",
+     "s": 0.94,
+     "e": 1.12
+    },
+    {
+     "w": "small",
+     "s": 1.12,
+     "e": 1.48
+    },
+    {
+     "w": "flame",
+     "s": 1.48,
+     "e": 1.92
+    },
+    {
+     "w": "I",
+     "s": 1.92,
+     "e": 2.24
+    },
+    {
+     "w": "won't",
+     "s": 2.24,
+     "e": 2.58
+    },
+    {
+     "w": "put",
+     "s": 2.58,
+     "e": 2.78
+    },
+    {
+     "w": "out",
+     "s": 2.78,
+     "e": 3.18
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.019324675324675324,
+   "curve_max": 0.054753246753246755
+  },
+  {
+   "ref": "PC2.1",
+   "lyric": "I kept clicking, kept sticking around",
+   "a": 89.92,
+   "b": 93.08,
+   "kind": "RESCUE",
+   "key": "R21A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r21a_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 1.32
+    },
+    {
+     "w": "kept",
+     "s": 1.32,
+     "e": 1.56
+    },
+    {
+     "w": "clicking,",
+     "s": 1.56,
+     "e": 1.96
+    },
+    {
+     "w": "kept",
+     "s": 2.3,
+     "e": 2.42
+    },
+    {
+     "w": "sticking",
+     "s": 2.42,
+     "e": 2.84
+    },
+    {
+     "w": "around.",
+     "s": 2.84,
+     "e": 3.66
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.9166666666666666,
+   "head_lag": 0.917,
+   "head_score_at_audio_onset": 0.007376623376623376,
+   "curve_max": 0.108987012987013
+  },
+  {
+   "ref": "PC2.2",
+   "lyric": "Little by little, I learned the sound",
+   "a": 93.08,
+   "b": 95.2,
+   "kind": "STRUCT",
+   "key": "R21B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r21b_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "PC2.3",
+   "lyric": "No one crowned me, no one had to",
+   "a": 95.2,
+   "b": 99.82,
+   "kind": "KEEP",
+   "key": "R22",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r22_t1.mp4",
+   "slice": [
+    {
+     "w": "No",
+     "s": 0.0,
+     "e": 0.96
+    },
+    {
+     "w": "one",
+     "s": 0.96,
+     "e": 1.34
+    },
+    {
+     "w": "crowned",
+     "s": 1.34,
+     "e": 1.96
+    },
+    {
+     "w": "me.",
+     "s": 1.96,
+     "e": 2.14
+    },
+    {
+     "w": "No",
+     "s": 2.56,
+     "e": 2.84
+    },
+    {
+     "w": "one",
+     "s": 2.84,
+     "e": 3.14
+    },
+    {
+     "w": "had",
+     "s": 3.14,
+     "e": 3.44
+    },
+    {
+     "w": "to.",
+     "s": 3.44,
+     "e": 3.78
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.375,
+   "head_lag": 0.375,
+   "head_score_at_audio_onset": 0.007168831168831169,
+   "curve_max": 0.042077922077922075
+  },
+  {
+   "ref": "PC2.4",
+   "lyric": "I made this mess on purpose too",
+   "a": 99.82,
+   "b": 103.36,
+   "kind": "KEEP",
+   "key": "U23",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u23_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.86
+    },
+    {
+     "w": "made",
+     "s": 0.86,
+     "e": 1.14
+    },
+    {
+     "w": "this",
+     "s": 1.14,
+     "e": 1.54
+    },
+    {
+     "w": "mess",
+     "s": 1.54,
+     "e": 1.92
+    },
+    {
+     "w": "on",
+     "s": 1.92,
+     "e": 2.34
+    },
+    {
+     "w": "purpose",
+     "s": 2.34,
+     "e": 2.96
+    },
+    {
+     "w": "too",
+     "s": 2.96,
+     "e": 3.56
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.2916666666666667,
+   "head_lag": 0.292,
+   "head_score_at_audio_onset": 0.008623376623376623,
+   "curve_max": 0.05423376623376623
+  },
+  {
+   "ref": "C2.1",
+   "lyric": "I'm The Nobody Man",
+   "a": 103.36,
+   "b": 105.5,
+   "kind": "KEEP",
+   "key": "U24t2",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u24_t2.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.1
+    },
+    {
+     "w": "the",
+     "s": 1.1,
+     "e": 1.26
+    },
+    {
+     "w": "nobody",
+     "s": 1.26,
+     "e": 1.76
+    },
+    {
+     "w": "man,",
+     "s": 1.76,
+     "e": 2.34
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.2916666666666667,
+   "head_lag": 0.292,
+   "head_score_at_audio_onset": 0.008415584415584416,
+   "curve_max": 0.04851948051948052
+  },
+  {
+   "ref": "C2.2",
+   "lyric": "Still here, still stand",
+   "a": 105.5,
+   "b": 108.28,
+   "kind": "KEEP",
+   "key": "U24t2",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u24_t2.mp4",
+   "slice": [
+    {
+     "w": "still",
+     "s": 2.8,
+     "e": 3.24
+    },
+    {
+     "w": "here,",
+     "s": 3.24,
+     "e": 3.6
+    },
+    {
+     "w": "still",
+     "s": 3.8,
+     "e": 4.0
+    },
+    {
+     "w": "stand.",
+     "s": 4.0,
+     "e": 4.52
+    }
+   ],
+   "head_audio_onset": 2.8,
+   "head_event": 2.75,
+   "head_lag": -0.05,
+   "head_score_at_audio_onset": 0.030441558441558443,
+   "curve_max": 0.04851948051948052
+  },
+  {
+   "ref": "C2.3",
+   "lyric": "I post, I fade, I post again",
+   "a": 108.28,
+   "b": 110.36,
+   "kind": "KEEP",
+   "key": "U25",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u25_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.82
+    },
+    {
+     "w": "post,",
+     "s": 0.82,
+     "e": 1.22
+    },
+    {
+     "w": "I",
+     "s": 1.7,
+     "e": 1.76
+    },
+    {
+     "w": "fade,",
+     "s": 1.76,
+     "e": 2.12
+    },
+    {
+     "w": "I",
+     "s": 2.58,
+     "e": 2.62
+    },
+    {
+     "w": "post",
+     "s": 2.62,
+     "e": 2.96
+    },
+    {
+     "w": "again,",
+     "s": 2.96,
+     "e": 3.26
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.2916666666666667,
+   "head_lag": 0.292,
+   "head_score_at_audio_onset": 0.007376623376623376,
+   "curve_max": 0.062441558441558444
+  },
+  {
+   "ref": "C2.4",
+   "lyric": "I'm The Nobody Man",
+   "a": 110.36,
+   "b": 112.86,
+   "kind": "KEEP",
+   "key": "U25",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u25_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 3.7,
+     "e": 3.86
+    },
+    {
+     "w": "the",
+     "s": 3.86,
+     "e": 3.98
+    },
+    {
+     "w": "nobody",
+     "s": 3.98,
+     "e": 4.28
+    },
+    {
+     "w": "man.",
+     "s": 4.28,
+     "e": 4.62
+    }
+   ],
+   "head_audio_onset": 3.7,
+   "head_event": 3.6666666666666665,
+   "head_lag": -0.033,
+   "head_score_at_audio_onset": 0.029714285714285714,
+   "curve_max": 0.062441558441558444
+  },
+  {
+   "ref": "C2.5",
+   "lyric": "I got a thousand little sparks",
+   "a": 112.86,
+   "b": 115.42,
+   "kind": "KEEP",
+   "key": "U26",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u26_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 0.34
+    },
+    {
+     "w": "got",
+     "s": 0.34,
+     "e": 0.52
+    },
+    {
+     "w": "a",
+     "s": 0.52,
+     "e": 0.72
+    },
+    {
+     "w": "thousand",
+     "s": 0.72,
+     "e": 1.24
+    },
+    {
+     "w": "little",
+     "s": 1.24,
+     "e": 1.76
+    },
+    {
+     "w": "sparks",
+     "s": 1.76,
+     "e": 2.5
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.125,
+   "head_lag": 0.125,
+   "head_score_at_audio_onset": 0.009870129870129871,
+   "curve_max": 0.03968831168831169
+  },
+  {
+   "ref": "C2.6",
+   "lyric": "Flicking in the dark",
+   "a": 115.42,
+   "b": 117.86,
+   "kind": "KEEP",
+   "key": "U26",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u26_t1.mp4",
+   "slice": [
+    {
+     "w": "flicking",
+     "s": 2.5,
+     "e": 3.58
+    },
+    {
+     "w": "in",
+     "s": 3.58,
+     "e": 3.86
+    },
+    {
+     "w": "the",
+     "s": 3.86,
+     "e": 4.02
+    },
+    {
+     "w": "dark.",
+     "s": 4.02,
+     "e": 4.5
+    }
+   ],
+   "head_audio_onset": 2.5,
+   "head_event": 2.9583333333333335,
+   "head_lag": 0.458,
+   "head_score_at_audio_onset": 0.012883116883116883,
+   "curve_max": 0.03968831168831169
+  },
+  {
+   "ref": "C2.7",
+   "lyric": "I'm The Nobody Man",
+   "a": 117.86,
+   "b": 120.32,
+   "kind": "KEEP",
+   "key": "U27",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u27_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 2.14
+    },
+    {
+     "w": "the",
+     "s": 2.14,
+     "e": 2.38
+    },
+    {
+     "w": "nobody",
+     "s": 2.38,
+     "e": 3.02
+    },
+    {
+     "w": "man.",
+     "s": 3.02,
+     "e": 3.82
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.7083333333333334,
+   "head_lag": 0.708,
+   "head_score_at_audio_onset": 0.008519480519480519,
+   "curve_max": 0.08696103896103896
+  },
+  {
+   "ref": "C2.8",
+   "lyric": "Nobody Man",
+   "a": 120.32,
+   "b": 123.26,
+   "kind": "KEEP",
+   "key": "U27",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u27_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 4.78,
+     "e": 5.48
+    },
+    {
+     "w": "man.",
+     "s": 5.48,
+     "e": 6.52
+    }
+   ],
+   "head_audio_onset": 4.78,
+   "head_event": null,
+   "head_lag": null,
+   "head_score_at_audio_onset": 0.01174025974025974,
+   "curve_max": 0.08696103896103896
+  },
+  {
+   "ref": "B.1",
+   "lyric": "Call me lost, call me late",
+   "a": 123.26,
+   "b": 126.46,
+   "kind": "MONTAGE",
+   "key": "U28",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u28_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "B.2",
+   "lyric": "Call me anything you wanna say",
+   "a": 126.46,
+   "b": 128.1,
+   "kind": "MONTAGE",
+   "key": "U28",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u28_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "B.3",
+   "lyric": "I got roots in the endless feed",
+   "a": 128.1,
+   "b": 130.46,
+   "kind": "MONTAGE",
+   "key": "U29",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u29_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "B.4",
+   "lyric": "And every scar is a saved receipt",
+   "a": 130.46,
+   "b": 132.58,
+   "kind": "MONTAGE",
+   "key": "U29",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u29_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "B.5",
+   "lyric": "If fame won't call, then let it pass",
+   "a": 132.58,
+   "b": 137.02,
+   "kind": "MONTAGE",
+   "key": "U30",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u30_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "B.6",
+   "lyric": "I'm the joke that lasts and lasts",
+   "a": 137.02,
+   "b": 141.44,
+   "kind": "KEEP",
+   "key": "U31",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u31_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.56
+    },
+    {
+     "w": "the",
+     "s": 1.56,
+     "e": 1.72
+    },
+    {
+     "w": "joke",
+     "s": 1.72,
+     "e": 2.18
+    },
+    {
+     "w": "that",
+     "s": 2.18,
+     "e": 2.5
+    },
+    {
+     "w": "lasts",
+     "s": 2.5,
+     "e": 2.96
+    },
+    {
+     "w": "and",
+     "s": 2.96,
+     "e": 3.22
+    },
+    {
+     "w": "lasts",
+     "s": 3.22,
+     "e": 3.86
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.5833333333333334,
+   "head_lag": 0.583,
+   "head_score_at_audio_onset": 0.010181818181818183,
+   "curve_max": 0.04550649350649351
+  },
+  {
+   "ref": "FC.1",
+   "lyric": "I'm The Nobody Man",
+   "a": 143.4,
+   "b": 145.52,
+   "kind": "STRUCT",
+   "key": "R32A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r32a_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "FC.2",
+   "lyric": "Still here, still stand",
+   "a": 145.52,
+   "b": 148.24,
+   "kind": "STRUCT",
+   "key": "R32B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r32b_t1.mp4",
+   "slice": null
+  },
+  {
+   "ref": "FC.3",
+   "lyric": "I post, I fade, I post again",
+   "a": 148.24,
+   "b": 150.38,
+   "kind": "KEEP",
+   "key": "U33",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u33_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.0,
+     "e": 1.16
+    },
+    {
+     "w": "post,",
+     "s": 1.16,
+     "e": 1.54
+    },
+    {
+     "w": "I",
+     "s": 1.98,
+     "e": 2.04
+    },
+    {
+     "w": "fade,",
+     "s": 2.04,
+     "e": 2.44
+    },
+    {
+     "w": "I",
+     "s": 2.86,
+     "e": 2.92
+    },
+    {
+     "w": "post",
+     "s": 2.92,
+     "e": 3.24
+    },
+    {
+     "w": "again,",
+     "s": 3.24,
+     "e": 3.54
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.07407792207792208,
+   "curve_max": 0.27116883116883117
+  },
+  {
+   "ref": "FC.4",
+   "lyric": "I'm The Nobody Man",
+   "a": 150.38,
+   "b": 152.88,
+   "kind": "KEEP",
+   "key": "U33",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u33_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 3.98,
+     "e": 4.16
+    },
+    {
+     "w": "the",
+     "s": 4.16,
+     "e": 4.28
+    },
+    {
+     "w": "nobody",
+     "s": 4.28,
+     "e": 4.54
+    },
+    {
+     "w": "ma",
+     "s": 4.54,
+     "e": 4.54
+    }
+   ],
+   "head_audio_onset": 3.98,
+   "head_event": 3.9166666666666665,
+   "head_lag": -0.063,
+   "head_score_at_audio_onset": 0.26524675324675323,
+   "curve_max": 0.27116883116883117
+  },
+  {
+   "ref": "FC.5",
+   "lyric": "I got a thousand little sparks",
+   "a": 152.88,
+   "b": 155.4,
+   "kind": "RESCUE",
+   "key": "R34A",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r34a_t1.mp4",
+   "slice": [
+    {
+     "w": "I",
+     "s": 0.85,
+     "e": 1.07
+    },
+    {
+     "w": "got",
+     "s": 1.07,
+     "e": 1.21
+    },
+    {
+     "w": "a",
+     "s": 1.21,
+     "e": 1.41
+    },
+    {
+     "w": "thousand",
+     "s": 1.41,
+     "e": 1.79
+    },
+    {
+     "w": "little",
+     "s": 1.79,
+     "e": 2.15
+    },
+    {
+     "w": "sparks.",
+     "s": 2.15,
+     "e": 2.79
+    }
+   ],
+   "head_audio_onset": 0.85,
+   "head_event": 0.7916666666666666,
+   "head_lag": -0.058,
+   "head_score_at_audio_onset": 0.10046753246753247,
+   "curve_max": 0.26046753246753246
+  },
+  {
+   "ref": "FC.6",
+   "lyric": "Flicking in the dark",
+   "a": 155.4,
+   "b": 157.84,
+   "kind": "COND",
+   "key": "R34B",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r34b_t1.mp4",
+   "slice": [
+    {
+     "w": "Flicking",
+     "s": 0.95,
+     "e": 1.37
+    },
+    {
+     "w": "in",
+     "s": 1.37,
+     "e": 1.67
+    },
+    {
+     "w": "the",
+     "s": 1.67,
+     "e": 1.81
+    },
+    {
+     "w": "dark.",
+     "s": 1.81,
+     "e": 2.19
+    }
+   ],
+   "head_audio_onset": 0.95,
+   "head_event": 0.9166666666666666,
+   "head_lag": -0.033,
+   "head_score_at_audio_onset": 0.1833766233766234,
+   "curve_max": 0.2660779220779221,
+   "word_lags": [
+    -0.033,
+    -0.037,
+    -0.045,
+    -0.06
+   ]
+  },
+  {
+   "ref": "FC.7",
+   "lyric": "I'm The Nobody Man",
+   "a": 157.84,
+   "b": 160.02,
+   "kind": "COND",
+   "key": "R35",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/rebuild2/mv7r2_r35_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.82
+    },
+    {
+     "w": "the",
+     "s": 1.82,
+     "e": 2.34
+    },
+    {
+     "w": "nobody",
+     "s": 2.34,
+     "e": 2.86
+    },
+    {
+     "w": "man.",
+     "s": 2.86,
+     "e": 3.5
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.09423376623376624,
+   "curve_max": 0.23937662337662338,
+   "word_lags": [
+    0.0,
+    -0.07,
+    -0.048,
+    -0.068
+   ]
+  },
+  {
+   "ref": "FC.8",
+   "lyric": "Nobody Man",
+   "a": 160.02,
+   "b": 164.16,
+   "kind": "RESCUE",
+   "key": "U36",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u36_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 0.0,
+     "e": 1.76
+    },
+    {
+     "w": "man.",
+     "s": 1.76,
+     "e": 3.36
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.08197402597402598,
+   "curve_max": 0.3929350649350649
+  },
+  {
+   "ref": "FC.9",
+   "lyric": "I'm The Nobody Man",
+   "a": 164.16,
+   "b": 168.16,
+   "kind": "RESCUE",
+   "key": "U37",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u37_t1.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.32
+    },
+    {
+     "w": "the",
+     "s": 1.32,
+     "e": 1.56
+    },
+    {
+     "w": "nobody",
+     "s": 1.56,
+     "e": 2.24
+    },
+    {
+     "w": "man",
+     "s": 2.24,
+     "e": 3.1
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.08966233766233767,
+   "curve_max": 0.25953246753246756
+  },
+  {
+   "ref": "FC.10",
+   "lyric": "Yeah, I turn the small things grand",
+   "a": 168.16,
+   "b": 173.3,
+   "kind": "KEEP",
+   "key": "U38",
+   "chant": false,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u38_t1.mp4",
+   "slice": [
+    {
+     "w": "Yeah,",
+     "s": 0.0,
+     "e": 0.54
+    },
+    {
+     "w": "I",
+     "s": 1.04,
+     "e": 1.96
+    },
+    {
+     "w": "turn",
+     "s": 1.96,
+     "e": 2.8
+    },
+    {
+     "w": "the",
+     "s": 2.8,
+     "e": 3.28
+    },
+    {
+     "w": "small",
+     "s": 3.28,
+     "e": 4.06
+    },
+    {
+     "w": "things",
+     "s": 4.06,
+     "e": 4.8
+    },
+    {
+     "w": "grand",
+     "s": 4.8,
+     "e": 5.88
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.08945454545454545,
+   "curve_max": 0.3438961038961039
+  },
+  {
+   "ref": "FC.Ta",
+   "lyric": "I'm The Nobody Man",
+   "a": 173.3,
+   "b": 176.26,
+   "kind": "KEEP",
+   "key": "U39t2",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u39_t2.mp4",
+   "slice": [
+    {
+     "w": "I'm",
+     "s": 0.0,
+     "e": 1.4
+    },
+    {
+     "w": "the",
+     "s": 1.4,
+     "e": 1.62
+    },
+    {
+     "w": "nobody",
+     "s": 1.62,
+     "e": 2.1
+    },
+    {
+     "w": "man,",
+     "s": 2.1,
+     "e": 2.72
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.0829090909090909,
+   "curve_max": 0.3304935064935065
+  },
+  {
+   "ref": "FC.Tb",
+   "lyric": "Nobody Man",
+   "a": 176.26,
+   "b": 178.3,
+   "kind": "KEEP",
+   "key": "U39t2",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u39_t2.mp4",
+   "slice": [
+    {
+     "w": "nobody",
+     "s": 3.02,
+     "e": 3.5
+    },
+    {
+     "w": "man.",
+     "s": 3.5,
+     "e": 4.3
+    }
+   ],
+   "head_audio_onset": 3.02,
+   "head_event": 2.9583333333333335,
+   "head_lag": -0.062,
+   "head_score_at_audio_onset": 0.2025974025974026,
+   "curve_max": 0.3304935064935065
+  },
+  {
+   "ref": "FC.Tc",
+   "lyric": "Nobody Man",
+   "a": 178.3,
+   "b": 181.44,
+   "kind": "KEEP",
+   "key": "U40",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u40_t1.mp4",
+   "slice": [
+    {
+     "w": "Nobody",
+     "s": 0.0,
+     "e": 1.98
+    },
+    {
+     "w": "man",
+     "s": 1.98,
+     "e": 3.08
+    }
+   ],
+   "head_audio_onset": 0.0,
+   "head_event": 0.0,
+   "head_lag": 0.0,
+   "head_score_at_audio_onset": 0.10015584415584415,
+   "curve_max": 0.30597402597402595
+  },
+  {
+   "ref": "FC.Td",
+   "lyric": "Nobody Man",
+   "a": 181.44,
+   "b": 183.24,
+   "kind": "KEEP",
+   "key": "U40",
+   "chant": true,
+   "take": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/takes/otaku/mv7o_u40_t1.mp4",
+   "slice": [
+    {
+     "w": "man",
+     "s": 3.08,
+     "e": 4.28
+    }
+   ],
+   "head_audio_onset": 3.08,
+   "head_event": 3.0416666666666665,
+   "head_lag": -0.038,
+   "head_score_at_audio_onset": 0.14774025974025973,
+   "curve_max": 0.30597402597402595
+  }
+ ],
+ "song_rms_onsets": {
+  "intro": [
+   0.78,
+   1.97,
+   3.15,
+   4.32,
+   5.8,
+   7.27,
+   8.45,
+   9.62,
+   11.4,
+   12.88,
+   14.35,
+   16.71
+  ],
+  "tags": [
+   67.92,
+   69.08,
+   70.27,
+   71.45,
+   72.62,
+   73.8,
+   74.97
+  ],
+  "fctag": [
+   173.41,
+   174.67,
+   175.82,
+   177.02,
+   178.5,
+   179.68,
+   180.85,
+   182.02,
+   183.2
+  ]
+ }
+}

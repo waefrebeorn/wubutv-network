@@ -1,0 +1,52 @@
+{
+ "file": "U6_t1.mp4",
+ "frames": 240,
+ "steps": 239,
+ "curve_stats": {
+  "25": 0.54,
+  "50": 2.12,
+  "75": 4.05,
+  "90": 6.74,
+  "95": 7.84,
+  "99": 8.39
+ },
+ "th_lo_median": 2.12,
+ "th_hi_p75": 4.05,
+ "events": [
+  {
+   "onset_step": 1,
+   "peak_step": 20,
+   "peak_val": 8.54,
+   "end_step": 70,
+   "dur_steps": 70,
+   "class": "SUSTAINED"
+  },
+  {
+   "onset_step": 175,
+   "peak_step": 198,
+   "peak_val": 4.37,
+   "end_step": 224,
+   "dur_steps": 50,
+   "class": "SUSTAINED"
+  }
+ ],
+ "head": {
+  "class": "RAMP",
+  "mean_0_12": 4.25,
+  "mean_0_24": 6.15,
+  "first_onset_step": 1
+ },
+ "tail": {
+  "final12_mean": 1.59,
+  "last_event": {
+   "onset_step": 175,
+   "peak_step": 198,
+   "peak_val": 4.37,
+   "end_step": 224,
+   "dur_steps": 50,
+   "class": "SUSTAINED"
+  },
+  "settled_from_step": 225,
+  "phase_at_final_step": "SETTLED"
+ }
+}

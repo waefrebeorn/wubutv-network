@@ -1,0 +1,14 @@
+{
+  "n_nodes": 178,
+  "n_bn_folded_into_convtranspose": 5,
+  "n_bn_explicit_after_matmul": 22,
+  "n_instr": 173,
+  "n_slots": 18,
+  "arena_bytes": 572805120,
+  "arena_peak_bytes": 572805120,
+  "live_peak_bytes": 377487360,
+  "arena_mb": 546.26953125,
+  "weight_blob_mb": 63.60792541503906,
+  "input_slot": 0,
+  "output_slot": 0
+}

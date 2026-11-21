@@ -1,0 +1,350 @@
+{
+ "segment": 9,
+ "start": 111.16,
+ "end": 140.85,
+ "mix": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 112.48,
+    "end": 113.16,
+    "prob": 0.58
+   },
+   {
+    "word": "Water",
+    "start": 113.68,
+    "end": 113.98,
+    "prob": 0.136
+   },
+   {
+    "word": "Water",
+    "start": 113.98,
+    "end": 115.02,
+    "prob": 0.53
+   },
+   {
+    "word": "Water",
+    "start": 115.02,
+    "end": 115.34,
+    "prob": 0.765
+   },
+   {
+    "word": "hits",
+    "start": 115.34,
+    "end": 123.86,
+    "prob": 0.001
+   },
+   {
+    "word": "my",
+    "start": 123.86,
+    "end": 124.2,
+    "prob": 0.978
+   },
+   {
+    "word": "bones",
+    "start": 124.2,
+    "end": 124.9,
+    "prob": 0.694
+   },
+   {
+    "word": "Water",
+    "start": 124.9,
+    "end": 125.26,
+    "prob": 0.206
+   },
+   {
+    "word": "hits",
+    "start": 125.26,
+    "end": 125.78,
+    "prob": 0.986
+   },
+   {
+    "word": "My",
+    "start": 127.16,
+    "end": 127.92,
+    "prob": 0.001
+   },
+   {
+    "word": "bones",
+    "start": 127.92,
+    "end": 128.68,
+    "prob": 0.82
+   },
+   {
+    "word": "When",
+    "start": 128.68,
+    "end": 129.02,
+    "prob": 0.624
+   },
+   {
+    "word": "I",
+    "start": 129.02,
+    "end": 129.18,
+    "prob": 0.877
+   },
+   {
+    "word": "prove",
+    "start": 129.18,
+    "end": 129.64,
+    "prob": 0.506
+   },
+   {
+    "word": "it's",
+    "start": 129.64,
+    "end": 129.98,
+    "prob": 0.79
+   },
+   {
+    "word": "pleasure",
+    "start": 129.98,
+    "end": 130.48,
+    "prob": 0.727
+   },
+   {
+    "word": "Bones",
+    "start": 131.06,
+    "end": 131.66,
+    "prob": 0.281
+   },
+   {
+    "word": "Bones",
+    "start": 131.66,
+    "end": 132.68,
+    "prob": 0.728
+   },
+   {
+    "word": "Bones",
+    "start": 132.68,
+    "end": 133.8,
+    "prob": 0.948
+   },
+   {
+    "word": "Water",
+    "start": 133.8,
+    "end": 136.0,
+    "prob": 0.0
+   },
+   {
+    "word": "hits",
+    "start": 136.0,
+    "end": 138.84,
+    "prob": 0.461
+   },
+   {
+    "word": "My",
+    "start": 138.84,
+    "end": 139.18,
+    "prob": 0.404
+   },
+   {
+    "word": "bones",
+    "start": 139.18,
+    "end": 139.78,
+    "prob": 0.958
+   }
+  ],
+  "text": " Water  Water  Water  Water hits my bones  Water hits  My bones  When I prove it's pleasure  Bones  Bones  Bones  Water hits  My bones",
+  "wall_s": 17.1,
+  "score": {
+   "expected": 13,
+   "hit": 7,
+   "coverage": 0.538,
+   "non_lyric_words": 9,
+   "n_words": 23
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Water.",
+    "start": 111.16,
+    "end": 111.82,
+    "prob": 0.192
+   },
+   {
+    "word": "Water",
+    "start": 122.38,
+    "end": 123.12,
+    "prob": 0.899
+   },
+   {
+    "word": "hits",
+    "start": 123.12,
+    "end": 123.86,
+    "prob": 0.777
+   },
+   {
+    "word": "my",
+    "start": 123.86,
+    "end": 124.2,
+    "prob": 0.994
+   },
+   {
+    "word": "balls.",
+    "start": 124.2,
+    "end": 124.9,
+    "prob": 0.894
+   },
+   {
+    "word": "Water",
+    "start": 125.04,
+    "end": 125.36,
+    "prob": 0.881
+   },
+   {
+    "word": "hits",
+    "start": 125.36,
+    "end": 125.76,
+    "prob": 0.997
+   },
+   {
+    "word": "my",
+    "start": 125.76,
+    "end": 126.12,
+    "prob": 0.998
+   },
+   {
+    "word": "balls",
+    "start": 126.12,
+    "end": 128.64,
+    "prob": 0.988
+   },
+   {
+    "word": "when",
+    "start": 128.64,
+    "end": 129.02,
+    "prob": 0.12
+   },
+   {
+    "word": "a",
+    "start": 129.02,
+    "end": 129.2,
+    "prob": 0.09
+   },
+   {
+    "word": "group",
+    "start": 129.2,
+    "end": 129.62,
+    "prob": 0.764
+   },
+   {
+    "word": "is",
+    "start": 129.62,
+    "end": 129.9,
+    "prob": 0.609
+   },
+   {
+    "word": "black,",
+    "start": 129.9,
+    "end": 130.34,
+    "prob": 0.125
+   },
+   {
+    "word": "yeah.",
+    "start": 130.7,
+    "end": 130.72,
+    "prob": 0.207
+   },
+   {
+    "word": "Balls.",
+    "start": 131.24,
+    "end": 131.76,
+    "prob": 0.541
+   },
+   {
+    "word": "Balls,",
+    "start": 132.0,
+    "end": 132.74,
+    "prob": 0.962
+   },
+   {
+    "word": "ball,",
+    "start": 132.86,
+    "end": 133.02,
+    "prob": 0.073
+   },
+   {
+    "word": "balls.",
+    "start": 133.88,
+    "end": 133.9,
+    "prob": 0.89
+   },
+   {
+    "word": "Balls",
+    "start": 134.18,
+    "end": 134.7,
+    "prob": 0.903
+   },
+   {
+    "word": "and",
+    "start": 134.7,
+    "end": 134.88,
+    "prob": 0.002
+   },
+   {
+    "word": "balls.",
+    "start": 134.88,
+    "end": 135.7,
+    "prob": 0.953
+   },
+   {
+    "word": "Balls",
+    "start": 135.86,
+    "end": 136.52,
+    "prob": 0.889
+   },
+   {
+    "word": "like",
+    "start": 136.52,
+    "end": 136.74,
+    "prob": 0.003
+   },
+   {
+    "word": "balls.",
+    "start": 136.74,
+    "end": 137.36,
+    "prob": 0.989
+   },
+   {
+    "word": "Water",
+    "start": 137.72,
+    "end": 138.44,
+    "prob": 0.734
+   },
+   {
+    "word": "hits",
+    "start": 138.44,
+    "end": 138.86,
+    "prob": 0.998
+   },
+   {
+    "word": "my",
+    "start": 138.86,
+    "end": 139.18,
+    "prob": 0.999
+   },
+   {
+    "word": "balls,",
+    "start": 139.18,
+    "end": 139.72,
+    "prob": 0.992
+   },
+   {
+    "word": "man.",
+    "start": 140.04,
+    "end": 140.34,
+    "prob": 0.109
+   }
+  ],
+  "text": " Water.  Water hits my balls.  Water hits  my balls when a group  is black, yeah.  Balls. Balls, ball, balls.  Balls and balls.  Balls like balls.  Water hits  my balls, man.",
+  "wall_s": 42.3,
+  "score": {
+   "expected": 13,
+   "hit": 12,
+   "coverage": 0.923,
+   "non_lyric_words": 8,
+   "n_words": 30
+  }
+ },
+ "winner": "vocals"
+}

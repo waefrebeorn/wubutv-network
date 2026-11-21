@@ -1,0 +1,18 @@
+# MV-8 v3 — VOLLEY 2 vehicle: H1-B "Brown Brown" STEPS (CARTOON EVENT, no singing)
+# Scene: H1-B, song 22.08–34.96 (530–839f). 12.88s scene; this take covers the
+# palace-steps half: a TP-roll bounces down the palace steps. Song lines L4
+# five Browns 22.08, L5 24.74, L6 28.62, L7 30.98 — the WORDS live in the
+# kinetic layer in post (CASCADE on the five Browns; SLAM on "Phantom" 30.98);
+# the SINGER INSERT (INS-2, v2 H1-B) covers L6 as a cutaway at assembly.
+# This take is pure cartoon event.
+# Anchor: G02.jpg (work/rebuild/stills_v3/G02.jpg, md5 dc04f4dd474b35931bf1e843bf739455).
+# Single-anchor call. Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, squash-and-stretch energy, porcelain white + warm gold +
+# chocolate brown, bright yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: the roll is already bouncing down the steps at frame 0 — never still.
+# Continuous motion to the last frame.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G02.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, golden porcelain palace steps and warm gold light, white toilet-paper banners, chocolate brown the antagonist colour, bright yellow the sole bright accent colour. A white toilet-paper roll is already bouncing down a grand staircase of golden porcelain palace steps as the clip opens, never still: it bounces step to step with squash-and-stretch energy, unspooling a ribbon of white paper behind it, the camera already swooping down the steps with it, fountains spraying white foam on either side, toilet-paper banners snapping in the wind, the roll gathering speed, hopping the last steps in one big leap and landing with a wobble at the plaza below. Continuous bouncy motion from the very first frame to the last. No people, no text, no logos, no letters."

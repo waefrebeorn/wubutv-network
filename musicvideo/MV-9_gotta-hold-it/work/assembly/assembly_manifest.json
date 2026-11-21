@@ -1,0 +1,508 @@
+[
+ {
+  "scene": "S01",
+  "frames": 340,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S01.mp4",
+   "frames": 340,
+   "md5": "bdc073ffb427aa2a8888339ab57e15a9"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s01a-t2",
+    "t0": 0.0,
+    "t1": 7.071,
+    "f0": 0,
+    "f1": 170,
+    "note": "intro wide, natural; 19f hold at 7.17s avoided"
+   },
+   {
+    "kind": "uniform",
+    "take": "s01b-t2",
+    "t0": 0.0,
+    "t1": 2.6,
+    "f0": 170,
+    "f1": 232,
+    "note": "line closer, moving cut 1"
+   },
+   {
+    "kind": "uniform",
+    "take": "s01b-t2",
+    "t0": 5.2,
+    "t1": 9.7,
+    "f0": 232,
+    "f1": 340,
+    "note": "line closer, moving cut 2 (hold 2.67-5.17 skipped); jump lands on beat 9.671s"
+   }
+  ]
+ },
+ {
+  "scene": "S02",
+  "frames": 162,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S02.mp4",
+   "frames": 162,
+   "md5": "bd25752ca55fcb452a89390b0a06b9d2"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s02",
+    "t0": 0.0,
+    "t1": 4.8,
+    "f0": 340,
+    "f1": 489,
+    "note": "vocal 0-4.80 -> song 14.18-20.38 @1.29x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s02",
+    "t0": 4.8,
+    "t1": 5.0,
+    "f0": 489,
+    "f1": 494,
+    "note": "tail natural 5f"
+   },
+   {
+    "kind": "freeze",
+    "take": "s02",
+    "t0": 5.0,
+    "f0": 494,
+    "f1": 502,
+    "note": "8f freeze of last frame, no-word window 20.58-20.90 (disclosed)"
+   }
+  ]
+ },
+ {
+  "scene": "S03",
+  "frames": 194,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S03.mp4",
+   "frames": 194,
+   "md5": "0e8c2f06b9abfc7a70a7a645fdf13f5d"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s03",
+    "t0": 0.0,
+    "t1": 2.24,
+    "f0": 502,
+    "f1": 553,
+    "note": "vocal part 1 'Hold it, gotta hold it' @0.95x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s03",
+    "t0": 5.76,
+    "t1": 6.44,
+    "f0": 553,
+    "f1": 570,
+    "note": "BAD-WORD cutaway: 16f montage from the take's own tail (mouth closed, moving)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s03",
+    "t0": 2.92,
+    "t1": 5.76,
+    "f0": 570,
+    "f1": 648,
+    "note": "vocal part 2 'gotta hold it in the line' @1.14x; 'gotta' lands 23.73 (+0.13s)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s03",
+    "t0": 6.44,
+    "t1": 8.46,
+    "f0": 648,
+    "f1": 696,
+    "note": "post-line gap cover, tail natural @0.99x"
+   }
+  ]
+ },
+ {
+  "scene": "S04",
+  "frames": 358,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S04.mp4",
+   "frames": 358,
+   "md5": "0067dc409b73ccaeb1d768767a06ce88"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s04a",
+    "t0": 0.0,
+    "t1": 7.48,
+    "f0": 696,
+    "f1": 872,
+    "note": "full 15-word line + stray 'line' trimmed @0.98x (ledger correction: vocal ends 7.48, not 6.48)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s04b",
+    "t0": 0.0,
+    "t1": 4.72,
+    "f0": 872,
+    "f1": 960,
+    "note": "phrase 1 'Need to go, need to go, porta potty line' @0.78x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s04b",
+    "t0": 4.72,
+    "t1": 5.38,
+    "f0": 960,
+    "f1": 975,
+    "note": "inter-phrase gap @0.95x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s04b",
+    "t0": 5.38,
+    "t1": 8.06,
+    "f0": 975,
+    "f1": 1054,
+    "note": "phrase 2 'Gotta hold it, hold it' @1.23x; 'Gotta' lands exactly 40.62"
+   }
+  ]
+ },
+ {
+  "scene": "S05",
+  "frames": 314,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S05.mp4",
+   "frames": 314,
+   "md5": "56a9663b2bb1945312a5eb520d81a36e"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s05a-t2",
+    "t0": 0.0,
+    "t1": 7.714,
+    "f0": 1054,
+    "f1": 1239,
+    "note": "chant montage 1, natural; opens with a whip, ~0.4s wristband hold (montage grammar)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s05b",
+    "t0": 3.96,
+    "t1": 9.346,
+    "f0": 1239,
+    "f1": 1368,
+    "note": "chant montage 2, natural; starts after the 37f doorway hold; ~10f held door shot ~6.45s (montage grammar)"
+   }
+  ]
+ },
+ {
+  "scene": "S06",
+  "frames": 223,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S06.mp4",
+   "frames": 223,
+   "md5": "844c9a2cafaa0326ada0cf719dd07a87"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s06",
+    "t0": 0.0,
+    "t1": 9.28,
+    "f0": 1368,
+    "f1": 1591,
+    "note": "instrumental + chant pickup, natural; line-doubling/fence-tilt NOT visible (disclosed)"
+   }
+  ]
+ },
+ {
+  "scene": "S07",
+  "frames": 163,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S07.mp4",
+   "frames": 163,
+   "md5": "cee931905cb3e5b0a711528aa903ef67"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s07-t2",
+    "t0": 0.0,
+    "t1": 5.0,
+    "f0": 1591,
+    "f1": 1754,
+    "note": "door event, visual slot (0 words), whole take @1.36x slow (disclosed)"
+   }
+  ]
+ },
+ {
+  "scene": "S08",
+  "frames": 329,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S08.mp4",
+   "frames": 329,
+   "md5": "3e8c92cf2abdbcbd1e5f8b3b0ef759e3"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s08a",
+    "t0": 0.0,
+    "t1": 5.48,
+    "f0": 1754,
+    "f1": 1863,
+    "note": "vocal 'Lock the plastic door...' @0.83x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s08a",
+    "t0": 5.48,
+    "t1": 6.0,
+    "f0": 1863,
+    "f1": 1876,
+    "note": "tail natural 13f (before the 25f near-dup run at 7.3s)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s08b",
+    "t0": 0.0,
+    "t1": 4.7,
+    "f0": 1876,
+    "f1": 2015,
+    "note": "vocal 'Inside the porta, festival box' @1.23x; 'Box' leads song ~1.6s (disclosed, cap-bound)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s08b",
+    "t0": 4.7,
+    "t1": 7.54,
+    "f0": 2015,
+    "f1": 2083,
+    "note": "tail natural, extended to 86.80 to cover the 85.28-86.80 inter-scene gap (36f, no words)"
+   }
+  ]
+ },
+ {
+  "scene": "S09",
+  "frames": 359,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S09.mp4",
+   "frames": 359,
+   "md5": "37bc0a5582971c4c8604a805f45f9962"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s09a-t2",
+    "t0": 0.0,
+    "t1": 5.14,
+    "f0": 2083,
+    "f1": 2190,
+    "note": "phrase 1 @0.87x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s09a-t2",
+    "t0": 5.84,
+    "t1": 7.98,
+    "f0": 2190,
+    "f1": 2248,
+    "note": "phrase 2 @1.13x; 0.70s take gap cut at the phrase boundary; 'Gotta' lands 91.25"
+   },
+   {
+    "kind": "uniform",
+    "take": "s09a-t2",
+    "t0": 7.98,
+    "t1": 8.42,
+    "f0": 2248,
+    "f1": 2258,
+    "note": "tail (smile end state) natural 10f"
+   },
+   {
+    "kind": "uniform",
+    "take": "s09b-t2",
+    "t0": 0.0,
+    "t1": 7.7,
+    "f0": 2258,
+    "f1": 2442,
+    "note": "full line @1.00x; extra two 'hold it' pairs drop with the tail"
+   }
+  ]
+ },
+ {
+  "scene": "S10",
+  "frames": 183,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S10.mp4",
+   "frames": 183,
+   "md5": "c725a4f8140ed8bec7bb500129a476de"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s10a",
+    "t0": 0.0,
+    "t1": 4.83,
+    "f0": 2442,
+    "f1": 2557,
+    "note": "four squares + QR, natural; includes 4f (0.16s) of the QR hold, <=0.5s sanction"
+   },
+   {
+    "kind": "uniform",
+    "take": "s10b",
+    "t0": 0.0,
+    "t1": 2.8,
+    "f0": 2557,
+    "f1": 2625,
+    "note": "half-bar silence, pure haze, natural (ledger correction: 0-2.8s, one continuous shot)"
+   }
+  ]
+ },
+ {
+  "scene": "S11",
+  "frames": 276,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S11.mp4",
+   "frames": 276,
+   "md5": "c4f72ba64aa0ff2789bf7ffb866d2ce7"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s11a-t2",
+    "t0": 0.0,
+    "t1": 5.38,
+    "f0": 2625,
+    "f1": 2754,
+    "note": "soap + water, natural; water runs DOWN not uphill (disclosed)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s11b",
+    "t0": 0.0,
+    "t1": 6.125,
+    "f0": 2754,
+    "f1": 2901,
+    "note": "held haze that moves, natural"
+   }
+  ]
+ },
+ {
+  "scene": "S12",
+  "frames": 596,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S12.mp4",
+   "frames": 596,
+   "md5": "aac4ddc97cd85551b9dc3621a3a1b62e"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s12a-t2",
+    "t0": 0.0,
+    "t1": 5.2,
+    "f0": 2901,
+    "f1": 3106,
+    "note": "final chorus block 1, first three pairs @1.64x (just past grey edge, in cap)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s12a-t2",
+    "t0": 6.94,
+    "t1": 10.0,
+    "f0": 3106,
+    "f1": 3226,
+    "note": "between-blocks gap cover: tail @1.63x slow (crowd builds, mouth closed)"
+   },
+   {
+    "kind": "uniform",
+    "take": "s12b-t2",
+    "t0": 0.0,
+    "t1": 7.02,
+    "f0": 3226,
+    "f1": 3497,
+    "note": "final chorus block 2, three pairs @1.61x (just past grey edge, in cap)"
+   }
+  ]
+ },
+ {
+  "scene": "S13",
+  "frames": 285,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S13.mp4",
+   "frames": 285,
+   "md5": "f40b54e6b187cac25a0c74f4e0772dc0"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s13a",
+    "t0": 0.0,
+    "t1": 4.84,
+    "f0": 3497,
+    "f1": 3612,
+    "note": "'Pull the party light, gotta hold it' x4 @0.99x"
+   },
+   {
+    "kind": "uniform",
+    "take": "s13b-t2",
+    "t0": 0.3,
+    "t1": 7.34,
+    "f0": 3612,
+    "f1": 3782,
+    "note": "dance montage @1.01x; head trimmed 0.3s (motion starts ~0.3s)"
+   }
+  ]
+ },
+ {
+  "scene": "S14",
+  "frames": 362,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S14.mp4",
+   "frames": 362,
+   "md5": "82670ce2596a41058d3fc0b8b62de786"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s14a",
+    "t0": 0.0,
+    "t1": 7.666,
+    "f0": 3782,
+    "f1": 3966,
+    "note": "kaleidoscope 1, natural"
+   },
+   {
+    "kind": "uniform",
+    "take": "s14b",
+    "t0": 0.0,
+    "t1": 7.414,
+    "f0": 3966,
+    "f1": 4144,
+    "note": "kaleidoscope 2, natural; cut on beat 165.266s (k=366)"
+   }
+  ]
+ },
+ {
+  "scene": "S15",
+  "frames": 272,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/assembly/seg/S15.mp4",
+   "frames": 272,
+   "md5": "df2d5a7aabe3f6d3bfca8761819c112e"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "s15-t2",
+    "t0": 0.0,
+    "t1": 10.0,
+    "f0": 4144,
+    "f1": 4416,
+    "note": "outro, one continuous drifting line shot @1.13x slow (disclosed)"
+   }
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s40-t1-0-af3e1446-0d88-486a-ac15-0ff79b32e70d.mp4",
+ "segments": [
+  {
+   "start": 3.78,
+   "end": 4.56,
+   "text": "Post it.",
+   "avg_logprob": -0.513,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Post",
+     "start": 3.78,
+     "end": 4.3,
+     "probability": 0.515
+    },
+    {
+     "word": " it.",
+     "start": 4.3,
+     "end": 4.56,
+     "probability": 0.785
+    }
+   ]
+  }
+ ]
+}

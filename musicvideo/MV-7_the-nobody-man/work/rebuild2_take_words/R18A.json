@@ -1,0 +1,64 @@
+{
+ "track": "work/rebuild2_qc/R18A_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 5.0,
+ "n_words": 8,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.62,
+   "prob": 0.812
+  },
+  {
+   "word": "got",
+   "start": 0.62,
+   "end": 0.78,
+   "prob": 0.955
+  },
+  {
+   "word": "drafts",
+   "start": 0.78,
+   "end": 1.3,
+   "prob": 0.976
+  },
+  {
+   "word": "in",
+   "start": 1.3,
+   "end": 1.38,
+   "prob": 0.997
+  },
+  {
+   "word": "the",
+   "start": 1.38,
+   "end": 1.5,
+   "prob": 0.995
+  },
+  {
+   "word": "drawer",
+   "start": 1.5,
+   "end": 1.84,
+   "prob": 0.913
+  },
+  {
+   "word": "like",
+   "start": 1.84,
+   "end": 2.16,
+   "prob": 0.882
+  },
+  {
+   "word": "coins.",
+   "start": 2.16,
+   "end": 2.72,
+   "prob": 0.988
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.72,
+   "text": "I got drafts in the drawer like coins."
+  }
+ ]
+}

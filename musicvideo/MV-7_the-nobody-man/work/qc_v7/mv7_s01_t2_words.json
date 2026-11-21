@@ -1,0 +1,63 @@
+{
+ "track": "mv7_s01_t2_audio.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 8,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 0.92,
+   "prob": 0.9
+  },
+  {
+   "word": "the",
+   "start": 0.92,
+   "end": 1.06,
+   "prob": 0.972
+  },
+  {
+   "word": "nobody",
+   "start": 1.06,
+   "end": 1.7,
+   "prob": 0.835
+  },
+  {
+   "word": "man,",
+   "start": 1.7,
+   "end": 2.46,
+   "prob": 0.907
+  },
+  {
+   "word": "nobody",
+   "start": 2.7,
+   "end": 3.92,
+   "prob": 0.957
+  },
+  {
+   "word": "man,",
+   "start": 3.92,
+   "end": 4.66,
+   "prob": 0.987
+  },
+  {
+   "word": "nobody",
+   "start": 4.8,
+   "end": 5.28,
+   "prob": 0.963
+  },
+  {
+   "word": "man",
+   "start": 5.28,
+   "end": 6.2,
+   "prob": 0.992
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.2,
+   "text": "I'm the nobody man, nobody man, nobody man"
+  }
+ ]
+}

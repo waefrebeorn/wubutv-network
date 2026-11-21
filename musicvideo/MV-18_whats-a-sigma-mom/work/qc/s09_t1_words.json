@@ -1,0 +1,55 @@
+{
+ "take": "takes/mv18_s09_t1.mp4",
+ "words": [
+  {
+   "w": "She's",
+   "start": 0.0,
+   "end": 0.54,
+   "p": 0.935
+  },
+  {
+   "w": "googling",
+   "start": 0.54,
+   "end": 1.0,
+   "p": 0.883
+  },
+  {
+   "w": "slang",
+   "start": 1.0,
+   "end": 1.46,
+   "p": 0.983
+  },
+  {
+   "w": "from",
+   "start": 1.46,
+   "end": 1.78,
+   "p": 0.997
+  },
+  {
+   "w": "2024",
+   "start": 1.78,
+   "end": 2.32,
+   "p": 0.964
+  },
+  {
+   "w": "for",
+   "start": 2.32,
+   "end": 3.2,
+   "p": 0.995
+  },
+  {
+   "w": "fun.",
+   "start": 3.2,
+   "end": 3.62,
+   "p": 0.994
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.62,
+   "text": "She's googling slang from 2024 for fun.",
+   "avg_logprob": -0.124
+  }
+ ]
+}

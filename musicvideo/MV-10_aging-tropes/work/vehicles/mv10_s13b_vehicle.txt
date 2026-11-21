@@ -1,0 +1,17 @@
+MV-10 S13b — "The Morning Glass" (outro, second half — last frame)
+Song window: 171.40–178.00 (no words — outro tail, hottest part of the track). Scene: OUT. Tag: MONTAGE.
+Vehicle v1. Fired in volley 5, fourth.
+Last frame: the water glass on the nightstand, morning light — rhymes with S01's first frame (the same glass, night → morning). The old man reaches for the glass as the song ends.
+Image-conditioned on work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image, action text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. The bedroom in the early morning, deep night blue giving way to warm morning gold light through the window, the water glass on the nightstand glowing in the first light, the clock on the wall. The old man from the reference image — lean, sharp nose, dark messy hair grey at the temples, deeper lines, grey stubble, navy cardigan, reading glasses on a chain around his neck, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — sits up in bed facing camera in medium close-up, mouth clearly visible and unobstructed.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[3] TEXT:
+He reaches slowly for the water glass on the nightstand and lifts it toward the morning light, his mouth closed and still for the entire clip — he does not sing, he does not speak, his mouth stays closed. He looks at the glass, then out the window, a small tired smile, the same glass from the first frame of the video, now in morning light. The camera is steady, a slow drift toward the water glass as he lifts it. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: no words in this span (SONG_WORDS.json: last word 164.82, outro 165.24–178.00 wordless). Assembly uses ~6.6s of this 10s take (171.40–178.00). The final frame of the video is the water glass on the nightstand in morning light — the rhyme with S01's first frame (night glass → morning glass). Mouth closed throughout is correct — there is nothing to sing in the outro.

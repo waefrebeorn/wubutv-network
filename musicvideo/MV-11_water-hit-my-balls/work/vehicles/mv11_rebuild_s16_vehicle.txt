@@ -1,0 +1,48 @@
+MV-11 REBUILD S16 t1 — "The Silence" (THE DROP — the splash freezes, then shatters) — CONTINUITY volley 4
+Song window: 101.78–111.00 (9.22s slot). Scene: DROP-A. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: FRESH (per the plan — the Drop turns on a new first frame; it must
+line up with the outgoing world = the S15 t2 slot-end state: settled
+water, duck bobbing, gold room, same toilet-bowl room).
+End ref: s16_end (generated this volley, conditioned on the S15 slot-end
+frame — shattered water settling into wide rings, duck bobbing hard,
+same room, NEVER a bathtub/sink/door/plant).
+Start ref: s16_start (generated this volley, conditioned on the S15
+slot-end frame — settled water with a new splash BEGINNING to rise, so
+the take opens already moving).
+Lines: "Water..." ~110.70 (take ~8.92s) then "BALLS!" (the drop's hit,
+right at/after the slot end). The SILENCE is the dadaspec dark band
+~107s (take ~5.22s) — a half-bar, ~0.9s. Kinetic in post: SLAM on
+"BALLS!".
+Images:
+[1] work/stills/stack/s16_start_1248x704.webp (md5 8419b702ffa79a629eabf3de9fab2899 — settled water,
+duck bobbing, a new splash beginning to rise, gold room; generated
+volley 4, read back PASS)
+[2] work/stills/stack/s16_end_1248x704.webp (md5 69995f3291b26400901a808f39081690 — shattered water
+settling into wide rings, duck bobbing hard, gold room; generated
+volley 4, read back PASS)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.26/0.71/1.17/1.63/2.08/2.54/2.99/3.45/3.91/4.36/4.82/5.27/5.73/6.19/
+6.64/7.10/7.55/8.01/8.47/8.92.
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The splash rises and shatters INSIDE the wide frame;
+the bowl stays fully visible at all times; the duck stays visible in
+the foreground.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight. The water is settled after the last splash, a yellow rubber duck with an orange beak bobbing small in the centre of the bowl — and a new splash is BEGINNING to rise, the cobalt water just starting to lift out of the bowl, droplets starting to hang in the lamp light. Wide 16:9 video, exactly 9 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the water settled, the duck bobbing, the new splash just beginning to rise. The picture is already moving at frame 0 — the water is lifting, the duck is bobbing. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s16_start_1248x704.webp
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full nine seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 5 seconds the new splash rises — the cobalt water climbs higher and higher out of the bowl on every beat, a tall crown forming above the bowl, droplets hanging in the lamp light, the yellow duck riding the crest, the whole room glowing gold. At about 5 seconds the music falls SILENT and the splash FREEZES mid-air: the tall water crown hangs suspended above the bowl, droplets frozen in the lamp light, the yellow duck suspended on the crest — everything held, still, for one long breath, about one second. Then the hard hit SHATTERS it: the frozen crown explodes into a thousand drops, the water crashing back down in slow arcs, ripples racing outward across the bowl, the duck riding the crash down and bobbing hard. From 6 to 9 seconds the shattered water settles into wide spreading rings, the duck bobbing hard in the centre. The camera holds this exact wide framing for the full nine seconds — it does NOT push in, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s16_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: the shattered water settling into wide rings, the yellow duck bobbing hard, the room glowing gold, ready for the Final Hook.
+
+NOTES: THE FREEZE IS THE SCENE — the ~1s hold at ~5 seconds is the song's silence made visible, NOT a motion failure. The motion audit will show a near-still run confined to the freeze window (~5.2–6.1s, wordless) — judge it like the MV-10 S12 held note: the eye is the decider, and a freeze run OUTSIDE the silence window is a fail. The splash must RISE 0–5s (visibly higher at 4s than at 1s), FREEZE ~5.2s (crown suspended, droplets hanging, duck suspended), SHATTER ~6s, SETTLE 6–9s. Assembly uses the 9.22s slot. QC focus: motion audit must show 0 near-still runs ≥12f OUTSIDE the freeze window; water visibly higher at 4s than at 1s; the freeze reads as a suspended crown (not a dead frame); the duck VISIBLE in every sampled frame and never filling more than ~20% of frame height; ONE duck throughout; room identity = the SAME toilet-bowl room as the S15 slot end (white porcelain toilet, teal tiles, vermilion towel, dome lamp, window — NO bathtub, NO sink, NO door, NO plant). Joint J15 is FRESH by design: the take's frame 0 is the new start ref — verify the frame 0 world matches the S15 slot-end world (same room, same bowl, same lamp, same towel) by eye, not by MAE.

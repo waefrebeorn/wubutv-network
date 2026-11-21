@@ -1,0 +1,15 @@
+{
+ "master": "mv3_i_am_your_dad_16x9_recut.mp4",
+ "md5": "300c89feaf5276763e0f8598bc2656d6",
+ "master_word_count": 585,
+ "song_word_count": 729,
+ "matched_words": 492,
+ "agreement_vs_song_words": 0.675,
+ "median_abs_offset_s": 0.02,
+ "max_abs_offset_s": 21.1,
+ "within_0.25s": 387,
+ "within_0.50s": 410,
+ "usable_pairs": 459,
+ "wrong_repeat_pairs_over_2s": 10,
+ "note": "Same audio on both sides (master audio IS the song), so this measures dictation stability only. Picture sync is scored by the placement cross-check, not by this number."
+}

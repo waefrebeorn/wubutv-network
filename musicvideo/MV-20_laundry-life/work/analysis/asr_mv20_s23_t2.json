@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv20_s23_t2.mp4",
+ "words": [
+  {
+   "w": "Still",
+   "start": 0.0,
+   "end": 1.1,
+   "p": 0.661
+  },
+  {
+   "w": "on",
+   "start": 1.1,
+   "end": 1.56,
+   "p": 0.997
+  },
+  {
+   "w": "the",
+   "start": 1.56,
+   "end": 1.74,
+   "p": 0.997
+  },
+  {
+   "w": "floor,",
+   "start": 1.74,
+   "end": 2.34,
+   "p": 0.889
+  },
+  {
+   "w": "I",
+   "start": 2.4,
+   "end": 4.16,
+   "p": 0.997
+  },
+  {
+   "w": "washed",
+   "start": 4.16,
+   "end": 4.74,
+   "p": 0.998
+  },
+  {
+   "w": "it,",
+   "start": 4.74,
+   "end": 5.3,
+   "p": 0.999
+  },
+  {
+   "w": "I",
+   "start": 7.5,
+   "end": 7.66,
+   "p": 0.997
+  },
+  {
+   "w": "dried",
+   "start": 7.66,
+   "end": 7.98,
+   "p": 0.999
+  },
+  {
+   "w": "it.",
+   "start": 7.98,
+   "end": 8.54,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.54,
+   "text": "Still on the floor, I washed it, I dried it.",
+   "avg_logprob": -0.302
+  }
+ ]
+}

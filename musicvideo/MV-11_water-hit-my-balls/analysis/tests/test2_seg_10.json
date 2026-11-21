@@ -1,0 +1,164 @@
+{
+ "segment": 10,
+ "start": 141.51,
+ "end": 162.3,
+ "mix": {
+  "words": [
+   {
+    "word": "Water",
+    "start": 141.51,
+    "end": 142.17,
+    "prob": 0.582
+   },
+   {
+    "word": "hits",
+    "start": 142.17,
+    "end": 142.61,
+    "prob": 0.969
+   },
+   {
+    "word": "my",
+    "start": 142.61,
+    "end": 142.93,
+    "prob": 0.987
+   },
+   {
+    "word": "balls",
+    "start": 142.93,
+    "end": 143.67,
+    "prob": 0.975
+   },
+   {
+    "word": "When",
+    "start": 143.67,
+    "end": 145.77,
+    "prob": 0.621
+   },
+   {
+    "word": "I'm",
+    "start": 145.77,
+    "end": 146.15,
+    "prob": 0.913
+   },
+   {
+    "word": "pooping",
+    "start": 146.15,
+    "end": 146.59,
+    "prob": 0.667
+   },
+   {
+    "word": "Splash",
+    "start": 146.59,
+    "end": 148.89,
+    "prob": 0.438
+   },
+   {
+    "word": "Balls,",
+    "start": 152.85,
+    "end": 154.25,
+    "prob": 0.557
+   },
+   {
+    "word": "balls",
+    "start": 154.29,
+    "end": 154.53,
+    "prob": 0.836
+   },
+   {
+    "word": "Balls",
+    "start": 154.53,
+    "end": 155.27,
+    "prob": 0.548
+   },
+   {
+    "word": "Balls",
+    "start": 155.95,
+    "end": 156.77,
+    "prob": 0.499
+   },
+   {
+    "word": "Balls",
+    "start": 156.77,
+    "end": 157.47,
+    "prob": 0.513
+   }
+  ],
+  "text": " Water hits my balls  When I'm pooping  Splash  Balls, balls  Balls  Balls  Balls  Balls  Balls  Balls  Balls  Balls",
+  "wall_s": 26.1,
+  "score": {
+   "expected": 11,
+   "hit": 7,
+   "coverage": 0.636,
+   "non_lyric_words": 2,
+   "n_words": 13
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Why",
+    "start": 141.51,
+    "end": 142.19,
+    "prob": 0.28
+   },
+   {
+    "word": "hits",
+    "start": 142.19,
+    "end": 142.61,
+    "prob": 0.356
+   },
+   {
+    "word": "my",
+    "start": 142.61,
+    "end": 142.93,
+    "prob": 0.705
+   },
+   {
+    "word": "balls?",
+    "start": 142.93,
+    "end": 143.69,
+    "prob": 0.945
+   },
+   {
+    "word": "Poo",
+    "start": 145.74,
+    "end": 146.29,
+    "prob": 0.224
+   },
+   {
+    "word": "-pit",
+    "start": 146.29,
+    "end": 146.51,
+    "prob": 0.178
+   },
+   {
+    "word": "Strasher",
+    "start": 148.07,
+    "end": 149.17,
+    "prob": 0.343
+   },
+   {
+    "word": "Balls,",
+    "start": 153.19,
+    "end": 154.29,
+    "prob": 0.571
+   },
+   {
+    "word": "balls",
+    "start": 154.29,
+    "end": 154.65,
+    "prob": 0.869
+   }
+  ],
+  "text": " Why hits my balls?  Poo-pit  Strasher  Balls, balls",
+  "wall_s": 39.2,
+  "score": {
+   "expected": 11,
+   "hit": 5,
+   "coverage": 0.455,
+   "non_lyric_words": 4,
+   "n_words": 9
+  }
+ },
+ "winner": "mix"
+}

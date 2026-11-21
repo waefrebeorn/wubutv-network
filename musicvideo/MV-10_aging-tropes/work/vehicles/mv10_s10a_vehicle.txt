@@ -1,0 +1,23 @@
+MV-10 S10a — "Bop in the Memory" (bridge memory chorus — two-image journey old → young)
+Song window: 127.56–140.86 (gap 127.56–131.76 + vocal 131.76–137.60 + gap). Scene: BR-B. Tag: SINGING/MONTAGE.
+Vehicle v1. Fired in volley 3, sixth.
+TWO-IMAGE JOURNEY per the scene plan: old → young → old across S10a/S10b. This take is old → young (the memory takes over); S10b (volley 4) is young → old (the return to the bedroom).
+Image 1: work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+Image 2: MV-9 work/stills/anchor_young_man_1248x704.png (md5 5fceb18f6ec53602355e07f8d3f5e71e).
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A quiet bedroom at night, deep night blue, warm lamp gold light. The old man from the first reference image — lean, sharp nose, dark messy hair grey at the temples, deeper lines, grey stubble, navy cardigan, reading glasses on a chain around his neck, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — stands facing camera in medium close-up, mouth clearly visible and unobstructed, staring at the glowing phone in his hand as the memory takes hold.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[3] TEXT:
+His face shifts into the young man's face from the second reference image — the SAME man, young again, late twenties, sunburned nose, dark messy hair, damp grey t-shirt — as the festival line shimmers in behind him, sunny and smeared, the fence and the blue porta-potties hazy at the edges, the memory taking over the room.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/stills/anchor_young_man_1248x704.png
+
+[5] TEXT:
+From 0.0 to 6.0 seconds the young man sings clearly and articulately, mouth opening and closing on the words "Bop-bee-bop, you don't stop, gotta pee a lot, and prostate check, bend over, oh oh oh", facing camera, the festival line doubling behind him, the QR code glowing cadmium on the phone in his right hand. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. His head stays facing camera for the entire clip — he never turns to profile, never looks away, his face stays front-on through the final words "oh oh oh" at the end of the line. The camera is steady and locked-off during the singing. The plain solid cadmium yellow wristband with no numbers and no text stays on his left wrist for the entire clip. His mouth remains closed and still before the first word. After the final word the mouth closes and stays closed for the remainder of the clip, a clean held pose, the festival haze settling around him. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: line verified against analysis/SONG_WORDS.json: "Bop-bee-bop" 131.76, "you don't stop" 133.12–133.86, "gotta pee a lot" 133.98–134.80, "and prostate check" 134.96–136.16 (ASR hears "price state" — sheet is "prostate check"), "bend over" 136.16–136.86, "oh oh oh" 137.12–139.02. Vocal window 131.76–137.60 (5.84s) inside the 127.56–140.86 scene span; the 4.2s gap before the first word is the memory starting (S08's longest breath hands off here). Two-image measured behavior (video-api-mastery): start-anchor → ~0.5s morph → ~9 of 10s in the second image's world — the young man sings the hook, which IS the plan's "young man's face flickers inside the old man's face". The return to the bedroom is S10b's job (volley 4, young → old). HAZE ONLY for the memory — nothing explicit, nothing graphic. The singer here is the young man by design (the memory chorus); the old man returns in S10b.

@@ -1,0 +1,31 @@
+MV-2 Q6 RESTAGE VEHICLE — S21 (slot 205.20–214.44, song 9.24s)
+Song words 340–353 (the real line; SONG_WORDS_BASE words 333–339 are phantom
+zero-duration echo tokens, EXCLUDED from captions): "The wrecks just come,
+pay to go faster, the rest of us slow" (14 words).
+Beat line (same as v6final take, so the assembly word map stays valid):
+"The wrecks just come, pay to go faster, the rest of us slow"
+
+GENERATION CALL (ordered entries):
+[1] text:
+"Flat cartoon animation, bold outlines, cel-shaded, 16:9 widescreen, 1280 by 720, exactly 10 seconds. At a toll plaza at night: THE VOICE, a cartoon crooner in medium close-up, locked-off steady camera, facing camera, mouth clearly visible and unobstructed. He has light olive skin, a narrow angular face, sharp cheekbones, slicked-back dark hair, clean-shaven, no jewelry, no chain. He wears a dark ink suit, a bone-white shirt, a cadmium-yellow pocket square, holds a blank paper ticket, a chrome microphone on a stand before him. Night toll plaza behind him, dark blue night sky, toll booths with blank dark panels, red and amber lights glowing, no readable words anywhere."
+[2] image: work/q6/voice_anchor_night.png (night-VOICE character anchor — same face, same world as the rest of the video)
+[3] text:
+"From 0.5 to 9.5 seconds THE VOICE sings clearly and articulately, mouth opening and closing on the words "The wrecks just come, pay to go faster, the rest of us slow". He sings the full line "The wrecks just come, pay to go faster, the rest of us slow" from start to finish, every word, no words dropped, no words repeated. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. He holds the blank ticket still before the first word, then sings facing camera; after the final word his mouth closes and stays closed for the remainder of the clip, clean held pose. One singer only, no other visible character. No photorealistic look, no live-action look, no text, no logos, no legible signs, no printed words on the ticket, no extra limbs, no morphing."
+
+WHY THIS VEHICLE: volley-18 restage of S21 failed photorealistic + text
+(lyric 13/14 with the same dropped-"to" micro-gap class as v6final, frame
+PASS). Fixes: "flat cartoon" is the FIRST style term (the volley-18
+omission); the image anchor pins the night-VOICE face; the second "to"
+is named in the completeness clause ("every word, no words dropped") to
+push for 14/14. The dropped-"to" remains an accepted minor class if it
+recurs (same as v6final).
+
+GATES (in order): lyric sequence FIRST (14/14 exactly once; 13/14 with
+the dropped-"to" minor class is a candidate, as v6final was), ratio second
+(usable 0.80–1.25; grey warp-rescue ≤1.5x to band edge, gates re-run),
+frame third (FAIL if vocal near-dup run ≥24f during vocal OR vocal mean
+diff <0.5), character (G1: face = night-VOICE lock vs anchor), text (G2:
+zero legible on-screen text), exactly-once check, split-half recheck on
+zero-word decodes.
+Mishear classes: tall/told/toe=toll, done=dumb, paid=pay, plasers=plazas,
+comin'=coming, tell=sell.

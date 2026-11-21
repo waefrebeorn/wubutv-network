@@ -1,0 +1,50 @@
+{
+  "S23_t4_norm": {
+    "warped_take": "mv2_s23_t4_warped.mp4",
+    "vocal_span": [
+      0.0,
+      1.94
+    ],
+    "vocal_transitions": 47,
+    "vocal_changed_gt_0_5": 28,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 0.9386524822695037,
+    "gate": "PASS"
+  },
+  "S23_t5_norm": {
+    "warped_take": "mv2_s23_t5_warped.mp4",
+    "vocal_span": [
+      0.0,
+      1.92
+    ],
+    "vocal_transitions": 47,
+    "vocal_changed_gt_0_5": 47,
+    "vocal_near_dup_run": 0,
+    "vocal_mean_diff": 1.2616445035460995,
+    "gate": "PASS"
+  },
+  "R6_t4_scaled": {
+    "warped_take": "mv2_r6_t4_warped.mp4",
+    "vocal_span": [
+      1.355,
+      4.08
+    ],
+    "vocal_transitions": 68,
+    "vocal_changed_gt_0_5": 62,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 2.223704044117647,
+    "gate": "PASS"
+  },
+  "S22_t4_scaled": {
+    "warped_take": "mv2_s22_t4_warped.mp4",
+    "vocal_span": [
+      3.27,
+      5.03
+    ],
+    "vocal_transitions": 44,
+    "vocal_changed_gt_0_5": 24,
+    "vocal_near_dup_run": 2,
+    "vocal_mean_diff": 1.4417282196969696,
+    "gate": "PASS"
+  }
+}
