@@ -12,7 +12,7 @@ Total episodes: 69 (ST-001 … ST-069). TikTok posts in series order (ST-001 fir
 | ST-004 | The First Reading / The Third Reading | station/episodes/station_ep004_1m_16x9.mp4 | 16b25e1dfb147a28a95a2b117cac19c0 | 60.12s | posted 2026-11-19 | posted 2026-11-17 | posted 2026-11-04 |
 | ST-005 | The Fifth Reading / The First Precedent | station/episodes/station_ep005_1m_16x9.mp4 | 1321612ac140098242c769234b15606f | 60.20s | posted 2026-11-20 | posted 2026-11-18 | posted 2026-11-04 |
 | ST-006 | The First Settlement / The First Recount | station/episodes/station_ep006_1m_16x9.mp4 | 4120c8e3a99bc0001d7ccfefb7afe1b2 | 60.08s | posted 2026-11-21 | posted 2026-11-18 | posted 2026-11-04 |
-| ST-007 | The Keeper'S Hearing / The First Standing | station/episodes/station_ep007_1m_16x9.mp4 | d7198c5089177b5dc74689ea4eed6bf5 | 60.12s | — | posted 2026-11-19 | posted 2026-11-04 |
+| ST-007 | The Keeper'S Hearing / The First Standing | station/episodes/station_ep007_1m_16x9.mp4 | d7198c5089177b5dc74689ea4eed6bf5 | 60.12s | posted 2026-11-22 | posted 2026-11-19 | posted 2026-11-04 |
 | ST-008 | The Heard Guest'S First Telling / The First Holding | station/episodes/station_ep008_1m_16x9.mp4 | 1a32cb600eb152cdcac0e5275c3be8a3 | 59.96s | — | posted 2026-11-19 | posted 2026-11-04 |
 | ST-009 | The First Seating In The Gallery / The First Filing | station/episodes/station_ep009_1m_16x9.mp4 | 534b91c1c8e75ed997ad3cbec630d4e4 | 60.12s | — | posted 2026-11-20 | posted 2026-11-04 |
 | ST-010 | The Returned Hearing / The Sealed Question | station/episodes/station_ep010_1m_16x9.mp4 | 93468004c4a933c7ab80eda84f13a7ac | 60.09s | — | posted 2026-11-20 | posted 2026-11-04 |
