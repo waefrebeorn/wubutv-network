@@ -150,6 +150,40 @@ MORPH_E3_HELD = [
 # catalogue entry — MV-16 is already catalogued above; an entry would risk
 # an exact-duplicate post. Do not flag it as uncatalogued.
 
+# --- BUMPER tier (added 2026-11-22, DA pass-2 distribution fix F1) ---
+# Finished bumpers: a row in slate/BUMPERS.md whose File column names a
+# file in bumpers/. UNSHOT / DENIED rows name no file and never appear.
+# B-100..B-104 are reserved by the E1M movie assembler (assembly/
+# E1M_QUEUE.md) and are excluded so the release queue can never spend
+# them. Per-platform exclusion of already-posted bumpers is NOT done
+# here — the conductor applies posted_registry.json per platform, same
+# as every other tier (172 historical bumper posts are in the registry).
+BUMPER_RESERVED = {100, 101, 102, 103, 104}  # E1M-reserved
+
+def _bumper_rows():
+    import re
+    slate = os.path.join(NET, "slate", "BUMPERS.md")
+    if not os.path.exists(slate):
+        return
+    with open(slate, errors="replace") as f:
+        for line in f:
+            cells = [c.strip() for c in line.split("|")]
+            if len(cells) < 6:
+                continue
+            m = re.match(r'B-(\d+)\s+"([^"]+)"', cells[1])
+            if not m or not re.fullmatch(r"bumpers/[\w.\-]+\.mp4", cells[2]):
+                continue
+            num, title = int(m.group(1)), m.group(2)
+            if num in BUMPER_RESERVED:
+                continue
+            # The spoken line: early rows carry it as the whole Line
+            # column; later rows embed it quoted inside the QC prose.
+            hook = None
+            q = re.search(r'"([^"]{1,90})"', cells[4])
+            if q:
+                hook = q.group(1)
+            yield num, title, cells[2], hook
+
 def catalogue():
     """Yield item dicts: id, title, kind, tier, path (abs or None), lore, flags."""
     for num, title, fn in MV_CURRENT:
@@ -194,3 +228,9 @@ def catalogue():
         yield {"id": iid, "title": f"Station episode {iid}", "kind": "station-episode",
                "tier": "current", "path": p if os.path.exists(p) else None,
                "lore": {"arc": None, "chain": None}, "delivered": None}
+    for num, title, rel, hook in _bumper_rows():
+        p = os.path.join(NET, rel)
+        yield {"id": f"B-{num}", "title": title, "kind": "bumper",
+               "tier": "bumper", "path": p if os.path.exists(p) else None,
+               "lore": {"arc": None, "chain": None}, "delivered": None,
+               "hook_line": hook}

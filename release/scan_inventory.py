@@ -10,6 +10,7 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from catalogue import catalogue, NET
+from blam_records import blam_class_for
 
 REL = os.path.join(NET, "release")
 DEST = os.path.join(REL, "inventory.json")
@@ -87,6 +88,11 @@ def postable_path(path):
     return path, None
 
 def identity(item, prev):
+    # BLAM gate verdict from the item's on-disk gate record (None when no
+    # record exists — an honest null). Stamped fresh every scan so the
+    # metrics harvest, which copies features from the inventory entry,
+    # finally has a blam_class to copy (it was null in 74/74 rows).
+    item = {**item, "blam_class": blam_class_for(item)}
     path = item["path"]
     if not path or not os.path.exists(path):
         return {**item, "path": path, "exists": False}
