@@ -107,6 +107,7 @@ NEW_ERA = [
     ("THE-RETELLING",           "THE RETELLING", "new-era/redemption/masters/THE_RETELLING_16x9.mp4", "ARC-1", "2026-11-19"),
     ("CLAIM-WINDOW-PILOT",      "CLAIM WINDOW — Pilot: Very Umbrella", "new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4", "ARC-1", "2026-11-19"),
     ("CLAIM-WINDOW-E2",         "CLAIM WINDOW E2 — The Bus Pass", "new-era/claim-window-e2/masters/CLAIM_WINDOW_E2_16x9.mp4", "ARC-1", "2026-11-19"),
+    ("CLAIM-WINDOW-E3",         "CLAIM WINDOW E3 — The True Bag", "new-era/claim-window-e3/masters/CLAIM_WINDOW_E3_16x9.mp4", "ARC-1", "2026-11-21"),
 ]
 
 # --- New-era alternate-takes pieces (msg 664 salvage; msg 518 label rule) ---
