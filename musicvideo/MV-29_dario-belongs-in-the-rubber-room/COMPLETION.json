@@ -1,1 +1,55 @@
-{"completed_utc":"2026-11-21T20:05:00Z","deliverables":{"AUDIO_ANALYSIS.md":{"md5":"29295c0ac391ae37b8c9de6c2ca008d1"},"INTAKE.md":{"md5":"b89dd3a8d0c5e9177ae958c8b79b61b9"},"LYRIC_TIMELINE.md":{"md5":"8599947406def7c4b6832f9545014393"},"SONG_WORDS.json":{"md5":"9c9f6d581eb86d9e2a2d9cef350efed4","note":"269 ASR words with timestamps (large-v3-turbo int8, NO VAD) — TIMING authority"},"lyrics.txt":{"md5":"32767023a2847b53b0de1a3c62ec77e2","note":"byte-identical to the user-supplied official sheet"},"lyrics_user_sheet.txt":{"md5":"32767023a2847b53b0de1a3c62ec77e2","note":"user-supplied official lyric sheet (Telegram 2026-11-21) — lyric TEXT authority"},"track.mp3":{"md5":"1bcd872ed38680d5947060f4c62d6da3","note":"libmp3lame q2 extraction"},"track.mp4":{"md5":"05b2585d741a8f5581386d1a87b5ff20","note":"verbatim copy of the user-supplied source, md5 re-verified"}},"job":"MV-29 intake","lyrics":{"confirmed":35,"inferred":11,"lines":47,"sections":["Intro","Chorus","Verse 1","Pre-Chorus","Chorus","Verse 2","Pre-Chorus","Chorus","Breakdown","Final Chorus","Outro"],"text_authority":"user-supplied official lyric sheet, confirmed line-by-line against the baked-in karaoke frames (full agreement on all 47 lines)","timing_authority":"faster-whisper large-v3-turbo int8, cpu_threads=2, NO VAD, word_timestamps=True (audio fed as ffmpeg-decoded float32; the installed PyAV rejects faster-whisper's file-path decode kwargs)","unmatched":1,"unmatched_detail":"L29 (Chorus 3 'Talks the doom then he takes the cash' slot, 109.18-113.30): ASR renders a third consecutive 'Dario belongs in the Rubber Room' — sheet line not ASR-verified in its slot"},"project":"MV-29_dario-belongs-in-the-rubber-room","refs":{"refs/anthropic_nasdaq_group.jpg":"a9ab7b52e5fcd1436a33fa1e2e9e5c51","refs/dario_hoodie_headshot.jpg":"bfff08e07bb34daac196813c2fea9ef6","refs/dario_interview.jpg":"285f807d09a67abf121ebe8983bd2ce6","refs/jensen_huang.jpg":"6c41251fd8978063e80d7a4bd85ef57d","refs/padded_room_render.jpg":"eabb2b5643ebdf1cb99d3699d78d75b1","refs/rubber_room_meme.jpg":"70d97183248e83caf32aa0ed30fc4002"},"source":{"bytes":7681081,"duration_s":185.216,"file":"A6120EB6-064D-43C3-A1D8-AC0947127BBB-Dario Belongs in the Rubber Room.mp4","format":"h264 824x1464 @10fps + AAC (Suno lyric video)","md5":"05b2585d741a8f5581386d1a87b5ff20"},"status":"INTAKE COMPLETE","tempo":{"measured_bpm":61.5,"note":"autocorrelation top pick is the half-time grid (ac 0.633); 122.5 BPM alternate at ac 0.619 with the IOI histogram peaking at 0.48s — the performed beat is the double-time grid","performed_grid_bpm":122.5,"period_s":0.976,"phase_s":0.31},"title":"Dario Belongs in the Rubber Room"}
+{
+ "job": "MV-29 assembly (coordinator c7548fc3)",
+ "project": "MV-29_dario-belongs-in-the-rubber-room",
+ "title": "Dario Belongs in the Rubber Room",
+ "status": "DELIVERED",
+ "delivered_utc": "2026-11-22T00:31:19Z",
+ "master": {
+  "path": "masters/mv29_dario-belongs-in-the-rubber-room_16x9.mp4",
+  "md5": "b63bd7a08330cab46bafec2be4101aab",
+  "bytes": 82267792,
+  "frames": 4445,
+  "duration_s": 185.216,
+  "spec": "1280x720 24fps h264 yuv420p CRF18, AAC-LC 48kHz stereo, faststart, mov_text(55 cues) + burned-in karaoke subs, ~ WuBu ~ corner bug"
+ },
+ "chat_copy_50mb": {
+  "path": "masters/mv29_dario-belongs-in-the-rubber-room_16x9_50mb.mp4",
+  "md5": "95dc15766ce363afcde9909a4a90326e",
+  "bytes": 35775579
+ },
+ "gates": {
+  "joined_assert": "PASS (4445 frames AND 185.205s probed before master encode)",
+  "frames_exact": 4445,
+  "duration_vs_track_s": 185.216,
+  "crf18_proof_ratio": 1.91,
+  "crf23_twin_bytes": 43152548,
+  "freezedetect_freezes": 0,
+  "subtitles_burned_in": "PASS (55 lines / 281 word events; grabs at 8 timestamps)",
+  "wordmark_bug": "PASS (head/mid/tail grabs)",
+  "master_transcript_spotcheck": "PASS (267 vs 269 words, similarity 0.9776, landmarks <=0.16s)",
+  "zero_reused_picture": "PASS (planner claim-ledger audit clean)"
+ },
+ "disclosures": [
+  "S04 ships as caption-carried cover (generation blocked x2): s03 prop-swap span + s01 bounce span at k=1.0",
+  "S08 L14 (52.24-57.36) ships as beat-cut montage cover from S08 takes' non-sung spans (structural pacing 1.68/1.72); final 0.31s of the cover is a fill-stretched walk sliver at k=1.667",
+  "S16 hook-2 'belong' stumble (take 4.98-5.80) beat-cut to montage per the bad-word rule; never warped; Dario seg k=1.875, phrase k=0.635",
+  "S21 The Freeze event-read shortfall: orderlies move during hook 1, stand in the tail (inverse of design); ships as-is",
+  "S24 KEEP t3: doubled head Yeah trimmed (anchor = second Yeah); L46 warp k=1.743",
+  "S25: neither take lands the designed tail mid-bounce rhyme with frame 0; unison sway minimal in both; TA primary / TB head, mid-block cut",
+  "S01 L02 Yeah sub-segment fitted at k=0.857 (whole 0.70s token onto the 0.60s slot) rather than a k=1.0 hard trim",
+  "Grey warps: S02 hooks 0.692/0.668, S12 0.674/0.697, S13 t2 0.630/0.620, S03 L06 1.350, S07 L12 1.328, S08 L13 1.126",
+  "L29: song-side ASR unmatched (hears a hook repeat); sheet line captioned, S17 take sang it verbatim",
+  "Caption timings: 47/55 lines real ASR word timings; 8 syllable-split (L29, L33-L38 ASR-silent breakdown, L40 ASR-merged hook token)",
+  "First encode's ASS Format header omitted 'Layer' (copied from MV-28's .py source, which diverges from its shipped .ass): all caption events stacked; caught on frame grabs, builder fixed, test-rendered, full suite re-encoded; defective encodes deleted pre-delivery"
+ ],
+ "spend": {
+  "video_calls": 35,
+  "video_budget": 40,
+  "images": 4
+ },
+ "notes": [
+  "USED_EVENTS append for MV-29 (motif THE PADDING SPREADS, 25 events) is the parent's job at delivery - not appended here (duplication risk)",
+  "MV-29 nag-list migration still owed by parent",
+  "No git commit, no chat delivery by this coordinator (per brief)"
+ ]
+}
