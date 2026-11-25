@@ -1,0 +1,76 @@
+[
+ {
+  "scene": "S13",
+  "chunk": "L42",
+  "src": [
+   0.0,
+   1.96
+  ],
+  "tgt": [
+   77.9,
+   79.54
+  ],
+  "factor": 1.195,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L43",
+  "src": [
+   1.96,
+   3.8
+  ],
+  "tgt": [
+   79.54,
+   81.1
+  ],
+  "factor": 1.179,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L44",
+  "src": [
+   3.8,
+   6.18
+  ],
+  "tgt": [
+   81.1,
+   83.06
+  ],
+  "factor": 1.214,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L45",
+  "src": [
+   6.18,
+   8.1
+  ],
+  "tgt": [
+   83.06,
+   84.91
+  ],
+  "factor": 1.038,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "chunk": "L45-gap",
+  "src": [
+   8.65,
+   10.04
+  ],
+  "tgt": [
+   84.91,
+   86.66
+  ],
+  "factor": 0.794,
+  "flag": false
+ },
+ {
+  "scene": "S13",
+  "tpad_frames": 2
+ }
+]

@@ -1,0 +1,75 @@
+{
+ "track": "/home/hatch/workspace/wubutv-network/musicvideo/MV-7_the-nobody-man/work/qc_v7/mv7_s16_t1_16k.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 10,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.96,
+   "prob": 0.708
+  },
+  {
+   "word": "got",
+   "start": 0.96,
+   "end": 1.22,
+   "prob": 0.915
+  },
+  {
+   "word": "a",
+   "start": 1.22,
+   "end": 1.6,
+   "prob": 0.973
+  },
+  {
+   "word": "thousand",
+   "start": 1.6,
+   "end": 2.38,
+   "prob": 0.99
+  },
+  {
+   "word": "little",
+   "start": 2.38,
+   "end": 3.1,
+   "prob": 0.993
+  },
+  {
+   "word": "sparks",
+   "start": 3.1,
+   "end": 4.22,
+   "prob": 0.992
+  },
+  {
+   "word": "flicking",
+   "start": 4.22,
+   "end": 6.14,
+   "prob": 0.79
+  },
+  {
+   "word": "in",
+   "start": 6.14,
+   "end": 6.56,
+   "prob": 0.998
+  },
+  {
+   "word": "the",
+   "start": 6.56,
+   "end": 6.8,
+   "prob": 0.999
+  },
+  {
+   "word": "dark",
+   "start": 6.8,
+   "end": 7.46,
+   "prob": 0.996
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.46,
+   "text": "I got a thousand little sparks flicking in the dark"
+  }
+ ]
+}

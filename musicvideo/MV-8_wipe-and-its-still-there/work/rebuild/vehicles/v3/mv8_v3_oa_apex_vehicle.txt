@@ -1,0 +1,42 @@
+# MV-8 v3 — VOLLEY 1 vehicle: O-A "The Return Flight" APEX WINDOW (CARTOON EVENT, no singing)
+# Scene: O-A, song 146.00–163.00 (3504–3912f). 17.00s scene; SPLIT assembly.
+# Instrumental. TRUE-PEAK SCENE: loop apex MUST land on frame 3826 (159.435s),
+# 322f into O-A = 3.435s into the 156.00–163.00 apex window.
+# SPLIT DESIGN (proven in v2, re-applied with fresh takes):
+# - APPROACH (146.00–156.00, 240f): the approach take (separate vehicle).
+# - APEX WINDOW (156.00–163.00, 7.00s = 168f): THIS take, trimmed so its
+#   crest lands at 3.435s into the window (frame 3826). Trim-in = crest_time
+#   - 3.435s (e.g. crest at 6.0s -> trim-in 2.565s; used span 2.565–9.565s).
+#   The take's dive / vortex tail carries 159.435s -> 163.00.
+# NEW AXIS — APEX-WINDOW / MID-CLIMB START (v2 split-apex design, re-used):
+# the rider is ALREADY HIGH and ALREADY MID-CLIMB at frame 0, the great water
+# ring already ahead of her and rising. No climb build-up is asked for — the
+# clip IS the approach to the ring, the crest, and the dive. The crest is the
+# clip's natural climax, expected in the generator's 55–65% window (~5.5–6.5s).
+# The dive after the crest is fully shown.
+# Anchor: G14.jpg (work/rebuild/stills_v3/G14.jpg, md5 0978e44a21510cf152934c00666cd1b4).
+# Single-anchor call. NO second image — two-image morphs front-load the loop
+# (v2 lesson). Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Style lock: FLAT BOLD 2D CARTOON — cel-shaded animated film, thick ink outlines,
+# flat colour fields, porcelain white + warm gold + chocolate brown, bright yellow
+# SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: already flying fast and already high at frame 0 — camera already
+# swooping, never still. Continuous motion to the last frame.
+# Casting: the Champion, adult woman late-20s, long dark braid streaming, full
+# layered toilet-paper breastplate over long-sleeved white tunic, full-length white
+# trousers, white boots, bright yellow rubber gloves, riding Sir Swirl (giant glossy
+# chocolate-brown soft-serve swirl creature with aviator goggles and cream scarf).
+# Adults only, no children.
+# QC GATE (take-level, before KEEP): adult Champion matches the still chain, no
+# text, no child, motion from frame 0, and the crest is MEASURABLE BY EYE from
+# frames and PLACEABLE on 159.435s by trimming the take's head alone
+# (trim-in = crest - 3.435s must be >= 0 and the remaining tail must cover
+# 7.00s, i.e. crest <= 6.565s; a crest past ~6.565s leaves <7s of tail and the
+# window must instead slow-warp slightly — report the math honestly).
+# If the crest cannot be placed within ±6f of frame 3826 by trimming alone,
+# ONE re-fire on a NEW axis only; if that also misses, STOP and report.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Image 1: work/rebuild/stills_v3/G14.jpg
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields. High above a golden porcelain palace city at golden hour, the Champion, an adult woman in her late twenties with a long dark braid streaming behind her, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots and bright yellow rubber cleaning gloves, rides a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles and a cream scarf streaming behind. She is already flying fast and already high as the clip opens, already mid-climb, the camera already swooping with her, never still. The great water ring is already ahead of her, huge and rising out of the clouds, and she banks toward it, climbing the last stretch to the ring, rolling over the very top of the loop at the highest point of the flight, the biggest visual in the video, and dives down the far side toward a vast spiralling white foam vortex below, spray and bubbles streaming past, the dive carrying her all the way down to the last frame. Continuous motion to the last frame. No text, no logos, no children, no other characters."
+Text 2: "Ends on the dive: the Champion rolling over the top of the great water ring at the highest point of the flight, plunging toward the foam vortex below, spray and bubbles streaming, continuous motion to the last frame. No text, no logos, no children, no other characters."

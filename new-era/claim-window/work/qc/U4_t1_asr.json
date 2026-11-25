@@ -1,0 +1,177 @@
+{
+ "file": "takes/U4_t1.mp4",
+ "head_rms_0_1.7": 0.10086853057146072,
+ "ambient_rms_0_0.5": 0.16325707733631134,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.0,
+    "end": 8.45,
+    "text": "for your trouble. Designer. A dog designed them but still. My dignity's in that umbrella.",
+    "words": [
+     {
+      "w": " for",
+      "start": 0.0,
+      "end": 0.1
+     },
+     {
+      "w": " your",
+      "start": 0.1,
+      "end": 0.2
+     },
+     {
+      "w": " trouble.",
+      "start": 0.2,
+      "end": 0.48
+     },
+     {
+      "w": " Designer.",
+      "start": 1.26,
+      "end": 1.82
+     },
+     {
+      "w": " A",
+      "start": 2.42,
+      "end": 2.98
+     },
+     {
+      "w": " dog",
+      "start": 2.98,
+      "end": 3.2
+     },
+     {
+      "w": " designed",
+      "start": 3.2,
+      "end": 3.5
+     },
+     {
+      "w": " them",
+      "start": 3.5,
+      "end": 3.78
+     },
+     {
+      "w": " but",
+      "start": 3.78,
+      "end": 4.0
+     },
+     {
+      "w": " still.",
+      "start": 4.0,
+      "end": 4.28
+     },
+     {
+      "w": " My",
+      "start": 6.75,
+      "end": 7.31
+     },
+     {
+      "w": " dignity's",
+      "start": 7.31,
+      "end": 7.91
+     },
+     {
+      "w": " in",
+      "start": 7.91,
+      "end": 7.99
+     },
+     {
+      "w": " that",
+      "start": 7.99,
+      "end": 8.15
+     },
+     {
+      "w": " umbrella.",
+      "start": 8.15,
+      "end": 8.45
+     }
+    ],
+    "seg_rms": 0.0913
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.0,
+    "end": 8.63,
+    "text": "for your trouble. Designer. A dog designed them, but still. My dignity's in that umbrella.",
+    "words": [
+     {
+      "w": " for",
+      "start": 0.0,
+      "end": 0.08
+     },
+     {
+      "w": " your",
+      "start": 0.08,
+      "end": 0.28
+     },
+     {
+      "w": " trouble.",
+      "start": 0.28,
+      "end": 0.66
+     },
+     {
+      "w": " Designer.",
+      "start": 2.12,
+      "end": 2.14
+     },
+     {
+      "w": " A",
+      "start": 3.06,
+      "end": 3.06
+     },
+     {
+      "w": " dog",
+      "start": 3.06,
+      "end": 3.28
+     },
+     {
+      "w": " designed",
+      "start": 3.28,
+      "end": 3.7
+     },
+     {
+      "w": " them,",
+      "start": 3.7,
+      "end": 3.88
+     },
+     {
+      "w": " but",
+      "start": 4.06,
+      "end": 4.06
+     },
+     {
+      "w": " still.",
+      "start": 4.06,
+      "end": 4.44
+     },
+     {
+      "w": " My",
+      "start": 7.23,
+      "end": 7.39
+     },
+     {
+      "w": " dignity's",
+      "start": 7.39,
+      "end": 7.99
+     },
+     {
+      "w": " in",
+      "start": 7.99,
+      "end": 8.09
+     },
+     {
+      "w": " that",
+      "start": 8.09,
+      "end": 8.25
+     },
+     {
+      "w": " umbrella.",
+      "start": 8.25,
+      "end": 8.63
+     }
+    ],
+    "seg_rms": 0.0917
+   }
+  ]
+ }
+}

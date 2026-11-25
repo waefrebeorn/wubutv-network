@@ -1,0 +1,42 @@
+{
+  "project": "MV-25_turkeys-not-the-only-one",
+  "title": "Turkey's Not the Only One",
+  "status": "DELIVERED",
+  "built": "2026-11-20",
+  "master": {
+    "path": "masters/mv25_turkeys_not_the_only_one_16x9.mp4",
+    "md5": "a74c3f279e4d2c30fb198bd334d57aa2",
+    "bytes": 105921643,
+    "duration_s": 196.0,
+    "frames": 4704,
+    "spec": "1280x720 24fps h264 CRF18 (differential proof 1.85x vs CRF23), AAC 48kHz 192k from track.mp3, mov_text lyric subtitle track, faststart, ~ WuBu ~ corner bug"
+  },
+  "chat_copy": {
+    "path": "masters/mv25_turkeys_not_the_only_one_chat.mp4",
+    "md5": "ccfd62adcf69f148707cf1416f0127fd",
+    "bytes": 45355156,
+    "note": "bitrate-capped 1700k encode of the house master (house master exceeds 50 MB), audio and subtitles copied"
+  },
+  "generation_spend": {
+    "landed": 31,
+    "refusals": 3,
+    "budget": 40,
+    "note": "25 first takes + 6 cast-axis rerolls (S10/S16/S18/S20/S21/S22 t2). Refusals: S08 singing x2, S10 singing x1 — the sung hook lyric; all six hook windows shipped as wordless event covers."
+  },
+  "qc_summary": {
+    "g7": "1.00 on every shipped singing take except S16 t2 (0.889, one dropped function word); wordless covers verified wordless (two G7 hand-check overrides for a decoder artifact, logged)",
+    "motion": "per-take near-dup runs 0.0s everywhere; master freezedetect: zero freeze runs >= 1.5s",
+    "cast": "adults only — six t1 takes rejected for apparent minors and re-fired; shipped takes eye-verified",
+    "text_licensed": "no on-screen text (one faint illegible blurred background sign in S11, disclosed), no licensed material",
+    "master_gate": "22 onset frames read from the master: correct scenes, mouths in motion at singing onsets, bug reads exactly '~ WuBu ~'"
+  },
+  "disclosed_flaws": [
+    "All six hook windows (the 'stuffed tonight' lyric) are wordless event covers, not mouth-sung — the generator refused that sung lyric three times; covers are flagged in GATE_LOG.md and CUTLIST.md.",
+    "Word-sync is anchored on take-ASR word times; visible mouth events may lag song onsets by a few tenths of a second on some lines. No phoneme-accurate lipsync is claimed.",
+    "Grey-zone smooth warps on S03 (k=0.794), S04 (k=0.767) and S22 t2 (k=1.286) — exact words, strong motion, disclosed in GATE_LOG.",
+    "S25's final line ends ~1.1s after the song's line end, resolving into the wordless outro tail.",
+    "S19's take chants 'So proud' three times across the song's two chant lines; the extra chant reads as in-line mouth motion on the held second line.",
+    "S07's Freeze event reads as a posed family rather than a hard freeze; S06's appliance choreography reads mainly through the wife's cooking action.",
+    "S01 husband's sweater reads a darker burgundy than the reference still; S11 has a faint illegible blurred wall sign in the background."
+  ]
+}

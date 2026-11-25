@@ -1,0 +1,70 @@
+{
+ "seg": 9,
+ "scene": "S06a",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s06-t1-desc-0-2ed99e16-13a6-4f2a-8745-0e961b83c5f6.mp4",
+ "take_span": [
+  0.0,
+  2.68
+ ],
+ "song_span": [
+  26.791666666666668,
+  29.041666666666668
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  1.009,
+  1.44,
+  0.647,
+  0.225
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 1.391
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 300.0,
+   "worst_anchor_drift_ms": 148.3
+  }
+ ],
+ "penalty_extra_words": 0,
+ "worst_word_drift": {
+  "word": "They",
+  "song_onset": 28.92,
+  "take_onset": 2.14,
+  "carried": false,
+  "drift_ms": -148.3
+ },
+ "word_drifts": [
+  {
+   "word": "Eleven",
+   "song_onset": 26.8,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": -8.3
+  },
+  {
+   "word": "days",
+   "song_onset": 27.76,
+   "take_onset": 0.96,
+   "carried": false,
+   "drift_ms": -16.5
+  },
+  {
+   "word": "later",
+   "song_onset": 28.48,
+   "take_onset": 1.46,
+   "carried": false,
+   "drift_ms": -52.0
+  },
+  {
+   "word": "They",
+   "song_onset": 28.92,
+   "take_onset": 2.14,
+   "carried": false,
+   "drift_ms": -148.3
+  }
+ ]
+}

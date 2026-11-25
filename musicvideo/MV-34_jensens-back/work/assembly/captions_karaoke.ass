@@ -1,0 +1,124 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: V6Line,DejaVu Sans,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.14,0:00:03.82,V6Line,,0,0,0,,{\1c&H0000FFFF&}Jensen's{\1c&H00FFFFFF&} back
+Dialogue: 0,0:00:03.82,0:00:04.10,V6Line,,0,0,0,,Jensen's {\1c&H0000FFFF&}back{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:05.78,0:00:06.46,V6Line,,0,0,0,,{\1c&H0000FFFF&}He's{\1c&H00FFFFFF&} back
+Dialogue: 0,0:00:06.46,0:00:06.98,V6Line,,0,0,0,,He's {\1c&H0000FFFF&}back{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:07.68,0:00:08.36,V6Line,,0,0,0,,{\1c&H0000FFFF&}He's{\1c&H00FFFFFF&} back
+Dialogue: 0,0:00:08.36,0:00:08.86,V6Line,,0,0,0,,He's {\1c&H0000FFFF&}back{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:11.26,0:00:11.94,V6Line,,0,0,0,,{\1c&H0000FFFF&}He's{\1c&H00FFFFFF&} back
+Dialogue: 0,0:00:11.94,0:00:12.44,V6Line,,0,0,0,,He's {\1c&H0000FFFF&}back{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:14.96,0:00:15.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}He{\1c&H00FFFFFF&} stepped out for a minute
+Dialogue: 0,0:00:15.64,0:00:15.94,V6Line,,0,0,0,,He {\1c&H0000FFFF&}stepped{\1c&H00FFFFFF&} out for a minute
+Dialogue: 0,0:00:15.94,0:00:16.48,V6Line,,0,0,0,,He stepped {\1c&H0000FFFF&}out{\1c&H00FFFFFF&} for a minute
+Dialogue: 0,0:00:16.48,0:00:16.92,V6Line,,0,0,0,,He stepped out {\1c&H0000FFFF&}for{\1c&H00FFFFFF&} a minute
+Dialogue: 0,0:00:16.92,0:00:17.22,V6Line,,0,0,0,,He stepped out for {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} minute
+Dialogue: 0,0:00:17.22,0:00:17.54,V6Line,,0,0,0,,He stepped out for a {\1c&H0000FFFF&}minute{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:17.54,0:00:17.86,V6Line,,0,0,0,,{\1c&H0000FFFF&}Then{\1c&H00FFFFFF&} the board said stay gone
+Dialogue: 0,0:00:17.86,0:00:18.00,V6Line,,0,0,0,,Then {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} board said stay gone
+Dialogue: 0,0:00:18.00,0:00:18.28,V6Line,,0,0,0,,Then the {\1c&H0000FFFF&}board{\1c&H00FFFFFF&} said stay gone
+Dialogue: 0,0:00:18.28,0:00:18.54,V6Line,,0,0,0,,Then the board {\1c&H0000FFFF&}said{\1c&H00FFFFFF&} stay gone
+Dialogue: 0,0:00:18.54,0:00:18.80,V6Line,,0,0,0,,Then the board said {\1c&H0000FFFF&}stay{\1c&H00FFFFFF&} gone
+Dialogue: 0,0:00:18.80,0:00:19.16,V6Line,,0,0,0,,Then the board said stay {\1c&H0000FFFF&}gone{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:19.16,0:00:19.46,V6Line,,0,0,0,,{\1c&H0000FFFF&}Stock{\1c&H00FFFFFF&} went down, people talked
+Dialogue: 0,0:00:19.46,0:00:19.76,V6Line,,0,0,0,,Stock {\1c&H0000FFFF&}went{\1c&H00FFFFFF&} down, people talked
+Dialogue: 0,0:00:19.76,0:00:20.56,V6Line,,0,0,0,,Stock went {\1c&H0000FFFF&}down,{\1c&H00FFFFFF&} people talked
+Dialogue: 0,0:00:20.56,0:00:20.86,V6Line,,0,0,0,,Stock went down, {\1c&H0000FFFF&}people{\1c&H00FFFFFF&} talked
+Dialogue: 0,0:00:20.86,0:00:21.34,V6Line,,0,0,0,,Stock went down, people {\1c&H0000FFFF&}talked{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:21.34,0:00:21.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}Now{\1c&H00FFFFFF&} the lights are back on
+Dialogue: 0,0:00:21.64,0:00:21.80,V6Line,,0,0,0,,Now {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} lights are back on
+Dialogue: 0,0:00:21.80,0:00:22.16,V6Line,,0,0,0,,Now the {\1c&H0000FFFF&}lights{\1c&H00FFFFFF&} are back on
+Dialogue: 0,0:00:22.16,0:00:22.36,V6Line,,0,0,0,,Now the lights {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} back on
+Dialogue: 0,0:00:22.36,0:00:22.68,V6Line,,0,0,0,,Now the lights are {\1c&H0000FFFF&}back{\1c&H00FFFFFF&} on
+Dialogue: 0,0:00:22.68,0:00:23.22,V6Line,,0,0,0,,Now the lights are back {\1c&H0000FFFF&}on{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:23.22,0:00:23.74,V6Line,,0,0,0,,{\1c&H0000FFFF&}He{\1c&H00FFFFFF&} said he was sorry
+Dialogue: 0,0:00:23.74,0:00:24.08,V6Line,,0,0,0,,He {\1c&H0000FFFF&}said{\1c&H00FFFFFF&} he was sorry
+Dialogue: 0,0:00:24.08,0:00:24.28,V6Line,,0,0,0,,He said {\1c&H0000FFFF&}he{\1c&H00FFFFFF&} was sorry
+Dialogue: 0,0:00:24.28,0:00:24.48,V6Line,,0,0,0,,He said he {\1c&H0000FFFF&}was{\1c&H00FFFFFF&} sorry
+Dialogue: 0,0:00:24.48,0:00:25.12,V6Line,,0,0,0,,He said he was {\1c&H0000FFFF&}sorry{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:25.12,0:00:25.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}They{\1c&H00FFFFFF&} checked with the top
+Dialogue: 0,0:00:25.40,0:00:25.84,V6Line,,0,0,0,,They {\1c&H0000FFFF&}checked{\1c&H00FFFFFF&} with the top
+Dialogue: 0,0:00:25.84,0:00:26.16,V6Line,,0,0,0,,They checked {\1c&H0000FFFF&}with{\1c&H00FFFFFF&} the top
+Dialogue: 0,0:00:26.16,0:00:26.42,V6Line,,0,0,0,,They checked with {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} top
+Dialogue: 0,0:00:26.42,0:00:26.80,V6Line,,0,0,0,,They checked with the {\1c&H0000FFFF&}top{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:26.80,0:00:27.76,V6Line,,0,0,0,,{\1c&H0000FFFF&}Eleven{\1c&H00FFFFFF&} days later
+Dialogue: 0,0:00:27.76,0:00:28.48,V6Line,,0,0,0,,Eleven {\1c&H0000FFFF&}days{\1c&H00FFFFFF&} later
+Dialogue: 0,0:00:28.48,0:00:28.92,V6Line,,0,0,0,,Eleven days {\1c&H0000FFFF&}later{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:28.92,0:00:29.04,V6Line,,0,0,0,,{\1c&H0000FFFF&}They{\1c&H00FFFFFF&} said come back, don't stop
+Dialogue: 0,0:00:29.04,0:00:29.46,V6Line,,0,0,0,,They {\1c&H0000FFFF&}said{\1c&H00FFFFFF&} come back, don't stop
+Dialogue: 0,0:00:29.46,0:00:29.48,V6Line,,0,0,0,,They said {\1c&H0000FFFF&}come{\1c&H00FFFFFF&} back, don't stop
+Dialogue: 0,0:00:29.48,0:00:29.82,V6Line,,0,0,0,,They said come {\1c&H0000FFFF&}back,{\1c&H00FFFFFF&} don't stop
+Dialogue: 0,0:00:29.82,0:00:30.18,V6Line,,0,0,0,,They said come back, {\1c&H0000FFFF&}don't{\1c&H00FFFFFF&} stop
+Dialogue: 0,0:00:30.18,0:00:30.58,V6Line,,0,0,0,,They said come back, don't {\1c&H0000FFFF&}stop{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:30.58,0:00:31.38,V6Line,,0,0,0,,{\1c&H0000FFFF&}Numbers{\1c&H00FFFFFF&} jumping, phones ringing
+Dialogue: 0,0:00:31.38,0:00:31.96,V6Line,,0,0,0,,Numbers {\1c&H0000FFFF&}jumping,{\1c&H00FFFFFF&} phones ringing
+Dialogue: 0,0:00:31.96,0:00:32.28,V6Line,,0,0,0,,Numbers jumping, {\1c&H0000FFFF&}phones{\1c&H00FFFFFF&} ringing
+Dialogue: 0,0:00:32.28,0:00:32.68,V6Line,,0,0,0,,Numbers jumping, phones {\1c&H0000FFFF&}ringing{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:32.68,0:00:33.20,V6Line,,0,0,0,,{\1c&H0000FFFF&}Everybody{\1c&H00FFFFFF&} watching the screen
+Dialogue: 0,0:00:33.20,0:00:33.68,V6Line,,0,0,0,,Everybody {\1c&H0000FFFF&}watching{\1c&H00FFFFFF&} the screen
+Dialogue: 0,0:00:33.68,0:00:33.96,V6Line,,0,0,0,,Everybody watching {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} screen
+Dialogue: 0,0:00:33.96,0:00:34.34,V6Line,,0,0,0,,Everybody watching the {\1c&H0000FFFF&}screen{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:34.34,0:00:34.70,V6Line,,0,0,0,,{\1c&H0000FFFF&}He{\1c&H00FFFFFF&} walked back in
+Dialogue: 0,0:00:34.70,0:00:35.00,V6Line,,0,0,0,,He {\1c&H0000FFFF&}walked{\1c&H00FFFFFF&} back in
+Dialogue: 0,0:00:35.00,0:00:35.22,V6Line,,0,0,0,,He walked {\1c&H0000FFFF&}back{\1c&H00FFFFFF&} in
+Dialogue: 0,0:00:35.22,0:00:35.92,V6Line,,0,0,0,,He walked back {\1c&H0000FFFF&}in{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:35.92,0:00:36.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}Like{\1c&H00FFFFFF&} the whole thing was a dream
+Dialogue: 0,0:00:36.64,0:00:36.84,V6Line,,0,0,0,,Like {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} whole thing was a dream
+Dialogue: 0,0:00:36.84,0:00:37.26,V6Line,,0,0,0,,Like the {\1c&H0000FFFF&}whole{\1c&H00FFFFFF&} thing was a dream
+Dialogue: 0,0:00:37.26,0:00:37.58,V6Line,,0,0,0,,Like the whole {\1c&H0000FFFF&}thing{\1c&H00FFFFFF&} was a dream
+Dialogue: 0,0:00:37.58,0:00:37.84,V6Line,,0,0,0,,Like the whole thing {\1c&H0000FFFF&}was{\1c&H00FFFFFF&} a dream
+Dialogue: 0,0:00:37.84,0:00:38.02,V6Line,,0,0,0,,Like the whole thing was {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} dream
+Dialogue: 0,0:00:38.02,0:00:38.48,V6Line,,0,0,0,,Like the whole thing was a {\1c&H0000FFFF&}dream{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:40.28,0:00:40.92,V6Line,,0,0,0,,{\1c&H0000FFFF&}Jensen's{\1c&H00FFFFFF&} back
+Dialogue: 0,0:00:40.92,0:00:41.14,V6Line,,0,0,0,,Jensen's {\1c&H0000FFFF&}back{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:41.14,0:00:42.30,V6Line,,0,0,0,,{\1c&H0000FFFF&}Stock{\1c&H00FFFFFF&} goes up, don't look back
+Dialogue: 0,0:00:42.30,0:00:42.84,V6Line,,0,0,0,,Stock {\1c&H0000FFFF&}goes{\1c&H00FFFFFF&} up, don't look back
+Dialogue: 0,0:00:42.84,0:00:43.10,V6Line,,0,0,0,,Stock goes {\1c&H0000FFFF&}up,{\1c&H00FFFFFF&} don't look back
+Dialogue: 0,0:00:43.10,0:00:43.36,V6Line,,0,0,0,,Stock goes up, {\1c&H0000FFFF&}don't{\1c&H00FFFFFF&} look back
+Dialogue: 0,0:00:43.36,0:00:43.52,V6Line,,0,0,0,,Stock goes up, don't {\1c&H0000FFFF&}look{\1c&H00FFFFFF&} back
+Dialogue: 0,0:00:43.52,0:00:43.88,V6Line,,0,0,0,,Stock goes up, don't look {\1c&H0000FFFF&}back{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:43.88,0:00:44.72,V6Line,,0,0,0,,{\1c&H0000FFFF&}Jensen's{\1c&H00FFFFFF&} back, hear that name
+Dialogue: 0,0:00:44.72,0:00:44.96,V6Line,,0,0,0,,Jensen's {\1c&H0000FFFF&}back,{\1c&H00FFFFFF&} hear that name
+Dialogue: 0,0:00:44.96,0:00:45.28,V6Line,,0,0,0,,Jensen's back, {\1c&H0000FFFF&}hear{\1c&H00FFFFFF&} that name
+Dialogue: 0,0:00:45.28,0:00:45.64,V6Line,,0,0,0,,Jensen's back, hear {\1c&H0000FFFF&}that{\1c&H00FFFFFF&} name
+Dialogue: 0,0:00:45.64,0:00:45.94,V6Line,,0,0,0,,Jensen's back, hear that {\1c&H0000FFFF&}name{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:46.02,0:00:46.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}Thirty{\1c&H00FFFFFF&} percent, not the same
+Dialogue: 0,0:00:46.40,0:00:46.76,V6Line,,0,0,0,,Thirty {\1c&H0000FFFF&}percent,{\1c&H00FFFFFF&} not the same
+Dialogue: 0,0:00:46.76,0:00:47.12,V6Line,,0,0,0,,Thirty percent, {\1c&H0000FFFF&}not{\1c&H00FFFFFF&} the same
+Dialogue: 0,0:00:47.12,0:00:47.28,V6Line,,0,0,0,,Thirty percent, not {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} same
+Dialogue: 0,0:00:47.28,0:00:47.68,V6Line,,0,0,0,,Thirty percent, not the {\1c&H0000FFFF&}same{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:47.68,0:00:48.56,V6Line,,0,0,0,,{\1c&H0000FFFF&}Jensen's{\1c&H00FFFFFF&} back, say it loud
+Dialogue: 0,0:00:48.56,0:00:48.72,V6Line,,0,0,0,,Jensen's {\1c&H0000FFFF&}back,{\1c&H00FFFFFF&} say it loud
+Dialogue: 0,0:00:48.72,0:00:49.04,V6Line,,0,0,0,,Jensen's back, {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} it loud
+Dialogue: 0,0:00:49.04,0:00:49.28,V6Line,,0,0,0,,Jensen's back, say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} loud
+Dialogue: 0,0:00:49.28,0:00:49.58,V6Line,,0,0,0,,Jensen's back, say it {\1c&H0000FFFF&}loud{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:49.84,0:00:50.04,V6Line,,0,0,0,,{\1c&H0000FFFF&}Board{\1c&H00FFFFFF&} said yes, crowd got loud
+Dialogue: 0,0:00:50.04,0:00:50.38,V6Line,,0,0,0,,Board {\1c&H0000FFFF&}said{\1c&H00FFFFFF&} yes, crowd got loud
+Dialogue: 0,0:00:50.38,0:00:50.60,V6Line,,0,0,0,,Board said {\1c&H0000FFFF&}yes,{\1c&H00FFFFFF&} crowd got loud
+Dialogue: 0,0:00:50.60,0:00:50.88,V6Line,,0,0,0,,Board said yes, {\1c&H0000FFFF&}crowd{\1c&H00FFFFFF&} got loud
+Dialogue: 0,0:00:50.88,0:00:51.10,V6Line,,0,0,0,,Board said yes, crowd {\1c&H0000FFFF&}got{\1c&H00FFFFFF&} loud
+Dialogue: 0,0:00:51.10,0:00:51.48,V6Line,,0,0,0,,Board said yes, crowd got {\1c&H0000FFFF&}loud{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:51.48,0:00:52.32,V6Line,,0,0,0,,{\1c&H0000FFFF&}Jensen's{\1c&H00FFFFFF&} back, one more time
+Dialogue: 0,0:00:52.32,0:00:52.54,V6Line,,0,0,0,,Jensen's {\1c&H0000FFFF&}back,{\1c&H00FFFFFF&} one more time
+Dialogue: 0,0:00:52.54,0:00:52.86,V6Line,,0,0,0,,Jensen's back, {\1c&H0000FFFF&}one{\1c&H00FFFFFF&} more time
+Dialogue: 0,0:00:52.86,0:00:53.20,V6Line,,0,0,0,,Jensen's back, one {\1c&H0000FFFF&}more{\1c&H00FFFFFF&} time
+Dialogue: 0,0:00:53.20,0:00:53.68,V6Line,,0,0,0,,Jensen's back, one more {\1c&H0000FFFF&}time{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:53.88,0:00:54.04,V6Line,,0,0,0,,{\1c&H0000FFFF&}He's{\1c&H00FFFFFF&} the one, he's the line
+Dialogue: 0,0:00:54.04,0:00:54.16,V6Line,,0,0,0,,He's {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} one, he's the line
+Dialogue: 0,0:00:54.16,0:00:54.76,V6Line,,0,0,0,,He's the {\1c&H0000FFFF&}one,{\1c&H00FFFFFF&} he's the line
+Dialogue: 0,0:00:54.76,0:00:55.72,V6Line,,0,0,0,,He's the one, {\1c&H0000FFFF&}he's{\1c&H00FFFFFF&} the line
+Dialogue: 0,0:00:55.72,0:00:55.86,V6Line,,0,0,0,,He's the one, he's {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} line
+Dialogue: 0,0:00:55.86,0:00:56.40,V6Line,,0,0,0,,He's the one, he's the {\1c&H0000FFFF&}line{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:58.60,0:00:59.52,V6Line,,0,0,0,,{\1c&H0000FFFF&}He's{\1c&H00FFFFFF&} the line
+Dialogue: 0,0:00:59.52,0:00:59.64,V6Line,,0,0,0,,He's {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} line
+Dialogue: 0,0:00:59.64,0:01:00.10,V6Line,,0,0,0,,He's the {\1c&H0000FFFF&}line{\1c&H00FFFFFF&}

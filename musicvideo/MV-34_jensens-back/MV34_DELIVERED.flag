@@ -1,0 +1,11 @@
+MV-34 "Jensen's Back" — DELIVERED by parent 2026-11-24
+Master: masters/mv34_jensens-back_16x9.mp4
+md5: 95765c98411f77954479f01229923f41
+Bytes: 17520525
+Spec: 1280x720 24fps h264 CRF 18 (size-differential proof 2.089x vs CRF-23 twin), AAC 48kHz stereo from track.mp3 (sole master audio; measured agreement offset 0 samples, correlation 0.9973), 1450 frames decoded (= 60.416s track, frame-exact), faststart, mov_text (25 cues) + burned karaoke ASS (112 word events, MV-28 header).
+Chat copy: masters/mv34_jensens-back_16x9_chat.mp4 (byte-identical, 17.5 MB)
+Gates (GATE_LOG.md): warp-slope histogram PASS (6,647 samples, 0.500-2.000, out-of-cap 0, pre-encode structural gate); pacing PASS (10 shots median 5.74s; 14 render units median 2.69s, sub-1s 0); context rhythm 99/112 within +/-120ms, 107/112 within +/-250ms, 100/112 in beat cell (127 BPM grid); motion audit PASS (all 13 joints in-motion); CRF-18 differential PASS.
+Volley: 10/10 KEEP, all description-only T2V (compact image class refused 6/6 for this build; stack stills served as QC references only). S02 t5 landed on v5 THE BLINDS after t1 rejected (one of two hook hits) and t2/t3 refused; both hook hits performed on t5.
+Parent verification: md5 + 1450 frames + streams probed from disk by parent 2026-11-24 ~18:47 EST; frames at t=41.6 and t=54.6 eye-checked (grave expression, karaoke highlight + gold bug correct).
+Disclosed residuals: sustained-word class at the warp ceiling (S08 "Stock" +360 / "goes" -383ms; S09 "the" -553 / "line" -402ms; phrase edges tight); S02 hit 2 +240ms; S01 head chunk at ratio 2.00 (hook words within +/-21ms); S02's Checkpoint B (Rumble) adjudication unavailable at volley QC (Checkpoint A + RMS + eye only, ledgered V-28).
+Awaiting user playback verdict.

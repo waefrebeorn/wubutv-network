@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv20_s25_t1.mp4",
+ "words": [
+  {
+   "w": "The",
+   "start": 0.0,
+   "end": 0.66,
+   "p": 0.797
+  },
+  {
+   "w": "laundry",
+   "start": 0.66,
+   "end": 1.16,
+   "p": 0.984
+  },
+  {
+   "w": "is",
+   "start": 1.16,
+   "end": 1.54,
+   "p": 0.954
+  },
+  {
+   "w": "clean,",
+   "start": 1.54,
+   "end": 1.88,
+   "p": 0.999
+  },
+  {
+   "w": "but",
+   "start": 2.02,
+   "end": 2.3,
+   "p": 0.992
+  },
+  {
+   "w": "it's",
+   "start": 2.3,
+   "end": 2.6,
+   "p": 0.993
+  },
+  {
+   "w": "still",
+   "start": 2.6,
+   "end": 2.9,
+   "p": 1.0
+  },
+  {
+   "w": "on",
+   "start": 2.9,
+   "end": 3.22,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 3.22,
+   "end": 3.36,
+   "p": 0.999
+  },
+  {
+   "w": "floor.",
+   "start": 3.36,
+   "end": 3.74,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.74,
+   "text": "The laundry is clean, but it's still on the floor.",
+   "avg_logprob": -0.234
+  }
+ ]
+}

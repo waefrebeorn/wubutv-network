@@ -1,0 +1,450 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,44,&H00FFFFFF,&H001EC6FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.66,0:00:02.22,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:00:02.22,0:00:02.78,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:00:02.78,0:00:02.96,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:00:02.96,0:00:03.58,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:00:03.58,0:00:04.00,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} ride, we ride
+Dialogue: 0,0:00:04.00,0:00:04.72,Cap,,0,0,0,,We {\1c&H1EC6FF&}ride,{\r} we ride
+Dialogue: 0,0:00:04.72,0:00:04.90,Cap,,0,0,0,,We ride, {\1c&H1EC6FF&}we{\r} ride
+Dialogue: 0,0:00:04.90,0:00:05.98,Cap,,0,0,0,,We ride, we {\1c&H1EC6FF&}ride{\r}
+Dialogue: 0,0:00:05.98,0:00:06.66,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:00:06.66,0:00:07.32,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:00:07.32,0:00:07.54,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:00:07.54,0:00:08.01,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:00:08.30,0:00:08.40,Cap,,0,0,0,,{\1c&H1EC6FF&}Till{\r} the morning comes
+Dialogue: 0,0:00:08.40,0:00:08.50,Cap,,0,0,0,,Till {\1c&H1EC6FF&}the{\r} morning comes
+Dialogue: 0,0:00:08.50,0:00:09.20,Cap,,0,0,0,,Till the {\1c&H1EC6FF&}morning{\r} comes
+Dialogue: 0,0:00:09.20,0:00:10.04,Cap,,0,0,0,,Till the morning {\1c&H1EC6FF&}comes{\r}
+Dialogue: 0,0:00:10.04,0:00:10.71,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:00:10.71,0:00:11.38,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:00:11.38,0:00:12.05,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:00:12.05,0:00:12.72,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:00:12.72,0:00:15.40,Cap,,0,0,0,,We ride, we ride
+Dialogue: 0,0:00:15.40,0:00:15.50,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:00:15.50,0:00:16.30,Cap,,0,0,0,,Till {\1c&H1EC6FF&}the{\r} morning comes
+Dialogue: 0,0:00:16.30,0:00:16.90,Cap,,0,0,0,,Till the {\1c&H1EC6FF&}morning{\r} comes
+Dialogue: 0,0:00:16.90,0:00:18.40,Cap,,0,0,0,,Till the morning {\1c&H1EC6FF&}comes{\r}
+Dialogue: 0,0:00:18.40,0:00:18.64,Cap,,0,0,0,,{\1c&H1EC6FF&}Ta-da,{\r} ta-da, ta-da, ta-da, ta-da, ta-da
+Dialogue: 0,0:00:18.64,0:00:19.20,Cap,,0,0,0,,Ta-da, {\1c&H1EC6FF&}ta-da,{\r} ta-da, ta-da, ta-da, ta-da
+Dialogue: 0,0:00:19.20,0:00:19.54,Cap,,0,0,0,,Ta-da, ta-da, {\1c&H1EC6FF&}ta-da,{\r} ta-da, ta-da, ta-da
+Dialogue: 0,0:00:19.54,0:00:19.68,Cap,,0,0,0,,Ta-da, ta-da, ta-da, {\1c&H1EC6FF&}ta-da,{\r} ta-da, ta-da
+Dialogue: 0,0:00:19.68,0:00:19.82,Cap,,0,0,0,,Ta-da, ta-da, ta-da, ta-da, {\1c&H1EC6FF&}ta-da,{\r} ta-da
+Dialogue: 0,0:00:19.82,0:00:22.00,Cap,,0,0,0,,Ta-da, ta-da, ta-da, ta-da, ta-da, {\1c&H1EC6FF&}ta-da{\r}
+Dialogue: 0,0:00:22.00,0:00:23.42,Cap,,0,0,0,,Bare feet on the boardwalk
+Dialogue: 0,0:00:24.00,0:00:24.40,Cap,,0,0,0,,{\1c&H1EC6FF&}Salt{\r} on my skin
+Dialogue: 0,0:00:24.40,0:00:24.60,Cap,,0,0,0,,Salt {\1c&H1EC6FF&}on{\r} my skin
+Dialogue: 0,0:00:25.40,0:00:25.70,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} came in laughing
+Dialogue: 0,0:00:25.70,0:00:26.10,Cap,,0,0,0,,You {\1c&H1EC6FF&}came{\r} in laughing
+Dialogue: 0,0:00:26.10,0:00:26.30,Cap,,0,0,0,,You came {\1c&H1EC6FF&}in{\r} laughing
+Dialogue: 0,0:00:26.30,0:00:26.76,Cap,,0,0,0,,You came in {\1c&H1EC6FF&}laughing{\r}
+Dialogue: 0,0:00:27.80,0:00:28.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Said,{\r} come on, let's begin
+Dialogue: 0,0:00:28.00,0:00:28.30,Cap,,0,0,0,,Said, {\1c&H1EC6FF&}come{\r} on, let's begin
+Dialogue: 0,0:00:28.30,0:00:28.60,Cap,,0,0,0,,Said, come {\1c&H1EC6FF&}on,{\r} let's begin
+Dialogue: 0,0:00:28.60,0:00:29.10,Cap,,0,0,0,,Said, come on, {\1c&H1EC6FF&}let's{\r} begin
+Dialogue: 0,0:00:29.10,0:00:29.60,Cap,,0,0,0,,Said, come on, let's {\1c&H1EC6FF&}begin{\r}
+Dialogue: 0,0:00:30.10,0:00:30.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Blue{\r} shirt, red bicycle
+Dialogue: 0,0:00:30.30,0:00:30.60,Cap,,0,0,0,,Blue {\1c&H1EC6FF&}shirt,{\r} red bicycle
+Dialogue: 0,0:00:30.60,0:00:30.90,Cap,,0,0,0,,Blue shirt, {\1c&H1EC6FF&}red{\r} bicycle
+Dialogue: 0,0:00:30.90,0:00:31.48,Cap,,0,0,0,,Blue shirt, red {\1c&H1EC6FF&}bicycle{\r}
+Dialogue: 0,0:00:32.00,0:00:32.50,Cap,,0,0,0,,{\1c&H1EC6FF&}Rolling{\r} past the pier
+Dialogue: 0,0:00:32.50,0:00:33.00,Cap,,0,0,0,,Rolling {\1c&H1EC6FF&}past{\r} the pier
+Dialogue: 0,0:00:33.00,0:00:33.10,Cap,,0,0,0,,Rolling past {\1c&H1EC6FF&}the{\r} pier
+Dialogue: 0,0:00:33.10,0:00:33.62,Cap,,0,0,0,,Rolling past the {\1c&H1EC6FF&}pier{\r}
+Dialogue: 0,0:00:34.10,0:00:34.20,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} was posted up right here
+Dialogue: 0,0:00:34.20,0:00:34.40,Cap,,0,0,0,,I {\1c&H1EC6FF&}was{\r} posted up right here
+Dialogue: 0,0:00:34.40,0:00:34.90,Cap,,0,0,0,,I was {\1c&H1EC6FF&}posted{\r} up right here
+Dialogue: 0,0:00:34.90,0:00:35.10,Cap,,0,0,0,,I was posted {\1c&H1EC6FF&}up{\r} right here
+Dialogue: 0,0:00:35.10,0:00:35.60,Cap,,0,0,0,,I was posted up {\1c&H1EC6FF&}right{\r} here
+Dialogue: 0,0:00:35.60,0:00:36.14,Cap,,0,0,0,,I was posted up right {\1c&H1EC6FF&}here{\r}
+Dialogue: 0,0:00:36.60,0:00:36.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Now{\r} you're pulling near
+Dialogue: 0,0:00:36.90,0:00:37.20,Cap,,0,0,0,,Now {\1c&H1EC6FF&}you're{\r} pulling near
+Dialogue: 0,0:00:37.20,0:00:37.60,Cap,,0,0,0,,Now you're {\1c&H1EC6FF&}pulling{\r} near
+Dialogue: 0,0:00:37.60,0:00:38.48,Cap,,0,0,0,,Now you're pulling {\1c&H1EC6FF&}near{\r}
+Dialogue: 0,0:00:38.62,0:00:39.32,Cap,,0,0,0,,{\1c&H1EC6FF&}Backpack{\r} half-zipped
+Dialogue: 0,0:00:39.32,0:00:40.44,Cap,,0,0,0,,Backpack {\1c&H1EC6FF&}half-zipped{\r}
+Dialogue: 0,0:00:41.10,0:00:41.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Keys{\r} in your hand
+Dialogue: 0,0:00:41.70,0:00:41.80,Cap,,0,0,0,,Keys {\1c&H1EC6FF&}in{\r} your hand
+Dialogue: 0,0:00:41.80,0:00:42.00,Cap,,0,0,0,,Keys in {\1c&H1EC6FF&}your{\r} hand
+Dialogue: 0,0:00:42.00,0:00:42.82,Cap,,0,0,0,,Keys in your {\1c&H1EC6FF&}hand{\r}
+Dialogue: 0,0:00:43.20,0:00:43.40,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} nodded at the waves like
+Dialogue: 0,0:00:43.40,0:00:43.80,Cap,,0,0,0,,You {\1c&H1EC6FF&}nodded{\r} at the waves like
+Dialogue: 0,0:00:43.80,0:00:43.90,Cap,,0,0,0,,You nodded {\1c&H1EC6FF&}at{\r} the waves like
+Dialogue: 0,0:00:43.90,0:00:44.00,Cap,,0,0,0,,You nodded at {\1c&H1EC6FF&}the{\r} waves like
+Dialogue: 0,0:00:44.00,0:00:44.40,Cap,,0,0,0,,You nodded at the {\1c&H1EC6FF&}waves{\r} like
+Dialogue: 0,0:00:44.40,0:00:44.58,Cap,,0,0,0,,You nodded at the waves {\1c&H1EC6FF&}like{\r}
+Dialogue: 0,0:00:44.80,0:00:44.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Yeah,{\r} they already understand
+Dialogue: 0,0:00:44.90,0:00:45.40,Cap,,0,0,0,,Yeah, {\1c&H1EC6FF&}they{\r} already understand
+Dialogue: 0,0:00:45.40,0:00:45.80,Cap,,0,0,0,,Yeah, they {\1c&H1EC6FF&}already{\r} understand
+Dialogue: 0,0:00:45.80,0:00:46.86,Cap,,0,0,0,,Yeah, they already {\1c&H1EC6FF&}understand{\r}
+Dialogue: 0,0:00:47.80,0:00:48.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Slow{\r} down, take your time
+Dialogue: 0,0:00:48.00,0:00:48.60,Cap,,0,0,0,,Slow {\1c&H1EC6FF&}down,{\r} take your time
+Dialogue: 0,0:00:48.60,0:00:48.90,Cap,,0,0,0,,Slow down, {\1c&H1EC6FF&}take{\r} your time
+Dialogue: 0,0:00:48.90,0:00:49.20,Cap,,0,0,0,,Slow down, take {\1c&H1EC6FF&}your{\r} time
+Dialogue: 0,0:00:49.20,0:00:49.60,Cap,,0,0,0,,Slow down, take your {\1c&H1EC6FF&}time{\r}
+Dialogue: 0,0:00:49.80,0:00:50.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Let{\r} the hard week fade
+Dialogue: 0,0:00:50.00,0:00:50.20,Cap,,0,0,0,,Let {\1c&H1EC6FF&}the{\r} hard week fade
+Dialogue: 0,0:00:50.20,0:00:50.60,Cap,,0,0,0,,Let the {\1c&H1EC6FF&}hard{\r} week fade
+Dialogue: 0,0:00:50.60,0:00:50.90,Cap,,0,0,0,,Let the hard {\1c&H1EC6FF&}week{\r} fade
+Dialogue: 0,0:00:50.90,0:00:51.46,Cap,,0,0,0,,Let the hard week {\1c&H1EC6FF&}fade{\r}
+Dialogue: 0,0:00:51.60,0:00:51.70,Cap,,0,0,0,,{\1c&H1EC6FF&}One{\r} small look from you
+Dialogue: 0,0:00:51.70,0:00:52.20,Cap,,0,0,0,,One {\1c&H1EC6FF&}small{\r} look from you
+Dialogue: 0,0:00:52.20,0:00:52.30,Cap,,0,0,0,,One small {\1c&H1EC6FF&}look{\r} from you
+Dialogue: 0,0:00:52.30,0:00:52.60,Cap,,0,0,0,,One small look {\1c&H1EC6FF&}from{\r} you
+Dialogue: 0,0:00:52.60,0:00:52.80,Cap,,0,0,0,,One small look from {\1c&H1EC6FF&}you{\r}
+Dialogue: 0,0:00:53.10,0:00:53.20,Cap,,0,0,0,,{\1c&H1EC6FF&}And{\r} my whole head replays
+Dialogue: 0,0:00:53.20,0:00:53.40,Cap,,0,0,0,,And {\1c&H1EC6FF&}my{\r} whole head replays
+Dialogue: 0,0:00:53.40,0:00:53.70,Cap,,0,0,0,,And my {\1c&H1EC6FF&}whole{\r} head replays
+Dialogue: 0,0:00:53.70,0:00:55.00,Cap,,0,0,0,,And my whole {\1c&H1EC6FF&}head{\r} replays
+Dialogue: 0,0:00:55.00,0:00:56.50,Cap,,0,0,0,,And my whole head {\1c&H1EC6FF&}replays{\r}
+Dialogue: 0,0:00:57.90,0:00:58.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:00:58.00,0:00:58.30,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:00:58.30,0:00:58.40,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:00:58.40,0:00:59.10,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:00:59.40,0:00:59.50,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} ride, we ride
+Dialogue: 0,0:00:59.50,0:00:59.70,Cap,,0,0,0,,We {\1c&H1EC6FF&}ride,{\r} we ride
+Dialogue: 0,0:00:59.70,0:00:59.80,Cap,,0,0,0,,We ride, {\1c&H1EC6FF&}we{\r} ride
+Dialogue: 0,0:00:59.80,0:01:00.22,Cap,,0,0,0,,We ride, we {\1c&H1EC6FF&}ride{\r}
+Dialogue: 0,0:01:00.40,0:01:00.50,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:00.50,0:01:00.60,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:00.60,0:01:00.90,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:00.90,0:01:01.34,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:01.40,0:01:01.50,Cap,,0,0,0,,{\1c&H1EC6FF&}With{\r} you by my side
+Dialogue: 0,0:01:01.50,0:01:01.70,Cap,,0,0,0,,With {\1c&H1EC6FF&}you{\r} by my side
+Dialogue: 0,0:01:01.70,0:01:01.90,Cap,,0,0,0,,With you {\1c&H1EC6FF&}by{\r} my side
+Dialogue: 0,0:01:01.90,0:01:02.10,Cap,,0,0,0,,With you by {\1c&H1EC6FF&}my{\r} side
+Dialogue: 0,0:01:02.10,0:01:02.52,Cap,,0,0,0,,With you by my {\1c&H1EC6FF&}side{\r}
+Dialogue: 0,0:01:02.90,0:01:03.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:03.00,0:01:03.10,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:03.10,0:01:03.40,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:03.40,0:01:03.66,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:03.90,0:01:04.00,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} need to run
+Dialogue: 0,0:01:04.00,0:01:04.30,Cap,,0,0,0,,No {\1c&H1EC6FF&}need{\r} to run
+Dialogue: 0,0:01:04.30,0:01:04.50,Cap,,0,0,0,,No need {\1c&H1EC6FF&}to{\r} run
+Dialogue: 0,0:01:04.50,0:01:04.92,Cap,,0,0,0,,No need to {\1c&H1EC6FF&}run{\r}
+Dialogue: 0,0:01:05.10,0:01:05.20,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:05.20,0:01:05.50,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:05.50,0:01:05.60,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:05.60,0:01:05.96,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:06.20,0:01:06.30,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} hold the sun
+Dialogue: 0,0:01:06.30,0:01:06.60,Cap,,0,0,0,,We {\1c&H1EC6FF&}hold{\r} the sun
+Dialogue: 0,0:01:06.60,0:01:06.70,Cap,,0,0,0,,We hold {\1c&H1EC6FF&}the{\r} sun
+Dialogue: 0,0:01:06.70,0:01:07.06,Cap,,0,0,0,,We hold the {\1c&H1EC6FF&}sun{\r}
+Dialogue: 0,0:01:07.40,0:01:07.50,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:07.50,0:01:07.60,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:07.60,0:01:07.90,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:07.90,0:01:08.20,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:08.40,0:01:08.50,Cap,,0,0,0,,{\1c&H1EC6FF&}Keep{\r} it loose, keep it low
+Dialogue: 0,0:01:08.50,0:01:08.60,Cap,,0,0,0,,Keep {\1c&H1EC6FF&}it{\r} loose, keep it low
+Dialogue: 0,0:01:08.60,0:01:08.90,Cap,,0,0,0,,Keep it {\1c&H1EC6FF&}loose,{\r} keep it low
+Dialogue: 0,0:01:08.90,0:01:09.10,Cap,,0,0,0,,Keep it loose, {\1c&H1EC6FF&}keep{\r} it low
+Dialogue: 0,0:01:09.10,0:01:09.20,Cap,,0,0,0,,Keep it loose, keep {\1c&H1EC6FF&}it{\r} low
+Dialogue: 0,0:01:09.20,0:01:09.40,Cap,,0,0,0,,Keep it loose, keep it {\1c&H1EC6FF&}low{\r}
+Dialogue: 0,0:01:09.70,0:01:09.80,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:09.80,0:01:09.90,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:09.90,0:01:10.10,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:10.10,0:01:10.46,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:10.70,0:01:10.80,Cap,,0,0,0,,{\1c&H1EC6FF&}Let{\r} it drift, let it go
+Dialogue: 0,0:01:10.80,0:01:10.90,Cap,,0,0,0,,Let {\1c&H1EC6FF&}it{\r} drift, let it go
+Dialogue: 0,0:01:10.90,0:01:11.10,Cap,,0,0,0,,Let it {\1c&H1EC6FF&}drift,{\r} let it go
+Dialogue: 0,0:01:11.10,0:01:11.40,Cap,,0,0,0,,Let it drift, {\1c&H1EC6FF&}let{\r} it go
+Dialogue: 0,0:01:11.40,0:01:11.50,Cap,,0,0,0,,Let it drift, let {\1c&H1EC6FF&}it{\r} go
+Dialogue: 0,0:01:11.50,0:01:11.66,Cap,,0,0,0,,Let it drift, let it {\1c&H1EC6FF&}go{\r}
+Dialogue: 0,0:01:12.00,0:01:12.10,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:12.10,0:01:12.20,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:12.20,0:01:12.30,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:12.30,0:01:12.74,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:12.90,0:01:13.00,Cap,,0,0,0,,{\1c&H1EC6FF&}We're{\r} good where we are
+Dialogue: 0,0:01:13.00,0:01:13.10,Cap,,0,0,0,,We're {\1c&H1EC6FF&}good{\r} where we are
+Dialogue: 0,0:01:13.10,0:01:13.40,Cap,,0,0,0,,We're good {\1c&H1EC6FF&}where{\r} we are
+Dialogue: 0,0:01:13.40,0:01:13.70,Cap,,0,0,0,,We're good where {\1c&H1EC6FF&}we{\r} are
+Dialogue: 0,0:01:13.70,0:01:14.02,Cap,,0,0,0,,We're good where we {\1c&H1EC6FF&}are{\r}
+Dialogue: 0,0:01:14.20,0:01:14.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:01:14.30,0:01:14.60,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:01:14.60,0:01:14.70,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:01:14.70,0:01:15.04,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:01:15.20,0:01:15.40,Cap,,0,0,0,,{\1c&H1EC6FF&}Just{\r} two small sparks
+Dialogue: 0,0:01:15.40,0:01:15.90,Cap,,0,0,0,,Just {\1c&H1EC6FF&}two{\r} small sparks
+Dialogue: 0,0:01:15.90,0:01:16.30,Cap,,0,0,0,,Just two {\1c&H1EC6FF&}small{\r} sparks
+Dialogue: 0,0:01:16.30,0:01:16.80,Cap,,0,0,0,,Just two small {\1c&H1EC6FF&}sparks{\r}
+Dialogue: 0,0:01:16.80,0:01:16.98,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} gotta go there
+Dialogue: 0,0:01:16.98,0:01:17.58,Cap,,0,0,0,,I {\1c&H1EC6FF&}gotta{\r} go there
+Dialogue: 0,0:01:17.58,0:01:18.04,Cap,,0,0,0,,I gotta {\1c&H1EC6FF&}go{\r} there
+Dialogue: 0,0:01:18.04,0:01:18.76,Cap,,0,0,0,,I gotta go {\1c&H1EC6FF&}there{\r}
+Dialogue: 0,0:01:18.76,0:01:19.16,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} gotta go there, just two small sparks
+Dialogue: 0,0:01:19.16,0:01:19.38,Cap,,0,0,0,,I {\1c&H1EC6FF&}gotta{\r} go there, just two small sparks
+Dialogue: 0,0:01:19.38,0:01:19.64,Cap,,0,0,0,,I gotta {\1c&H1EC6FF&}go{\r} there, just two small sparks
+Dialogue: 0,0:01:19.64,0:01:19.76,Cap,,0,0,0,,I gotta go {\1c&H1EC6FF&}there,{\r} just two small sparks
+Dialogue: 0,0:01:19.76,0:01:19.98,Cap,,0,0,0,,I gotta go there, {\1c&H1EC6FF&}just{\r} two small sparks
+Dialogue: 0,0:01:19.98,0:01:20.32,Cap,,0,0,0,,I gotta go there, just {\1c&H1EC6FF&}two{\r} small sparks
+Dialogue: 0,0:01:20.32,0:01:20.76,Cap,,0,0,0,,I gotta go there, just two {\1c&H1EC6FF&}small{\r} sparks
+Dialogue: 0,0:01:20.76,0:01:21.76,Cap,,0,0,0,,I gotta go there, just two small {\1c&H1EC6FF&}sparks{\r}
+Dialogue: 0,0:01:21.76,0:01:23.10,Cap,,0,0,0,,I gotta go there
+Dialogue: 0,0:01:23.10,0:01:23.40,Cap,,0,0,0,,{\1c&H1EC6FF&}Just{\r} two small sparks
+Dialogue: 0,0:01:23.40,0:01:23.90,Cap,,0,0,0,,Just {\1c&H1EC6FF&}two{\r} small sparks
+Dialogue: 0,0:01:23.90,0:01:24.40,Cap,,0,0,0,,Just two {\1c&H1EC6FF&}small{\r} sparks
+Dialogue: 0,0:01:24.40,0:01:25.20,Cap,,0,0,0,,Just two small {\1c&H1EC6FF&}sparks{\r}
+Dialogue: 0,0:01:25.70,0:01:26.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Vendor{\r} at the corner
+Dialogue: 0,0:01:26.00,0:01:26.10,Cap,,0,0,0,,Vendor {\1c&H1EC6FF&}at{\r} the corner
+Dialogue: 0,0:01:26.10,0:01:26.20,Cap,,0,0,0,,Vendor at {\1c&H1EC6FF&}the{\r} corner
+Dialogue: 0,0:01:26.20,0:01:26.60,Cap,,0,0,0,,Vendor at the {\1c&H1EC6FF&}corner{\r}
+Dialogue: 0,0:01:26.60,0:01:26.80,Cap,,0,0,0,,{\1c&H1EC6FF&}Calling{\r} mango sweet
+Dialogue: 0,0:01:26.80,0:01:27.30,Cap,,0,0,0,,Calling {\1c&H1EC6FF&}mango{\r} sweet
+Dialogue: 0,0:01:27.30,0:01:27.60,Cap,,0,0,0,,Calling mango {\1c&H1EC6FF&}sweet{\r}
+Dialogue: 0,0:01:28.00,0:01:28.20,Cap,,0,0,0,,{\1c&H1EC6FF&}Socks{\r} in the sand
+Dialogue: 0,0:01:28.20,0:01:28.40,Cap,,0,0,0,,Socks {\1c&H1EC6FF&}in{\r} the sand
+Dialogue: 0,0:01:28.40,0:01:28.50,Cap,,0,0,0,,Socks in {\1c&H1EC6FF&}the{\r} sand
+Dialogue: 0,0:01:28.50,0:01:28.92,Cap,,0,0,0,,Socks in the {\1c&H1EC6FF&}sand{\r}
+Dialogue: 0,0:01:29.40,0:01:29.60,Cap,,0,0,0,,{\1c&H1EC6FF&}And{\r} the tide tapping time with our feet
+Dialogue: 0,0:01:29.60,0:01:29.70,Cap,,0,0,0,,And {\1c&H1EC6FF&}the{\r} tide tapping time with our feet
+Dialogue: 0,0:01:29.70,0:01:30.50,Cap,,0,0,0,,And the {\1c&H1EC6FF&}tide{\r} tapping time with our feet
+Dialogue: 0,0:01:30.50,0:01:31.30,Cap,,0,0,0,,And the tide {\1c&H1EC6FF&}tapping{\r} time with our feet
+Dialogue: 0,0:01:31.30,0:01:31.70,Cap,,0,0,0,,And the tide tapping {\1c&H1EC6FF&}time{\r} with our feet
+Dialogue: 0,0:01:31.70,0:01:32.00,Cap,,0,0,0,,And the tide tapping time {\1c&H1EC6FF&}with{\r} our feet
+Dialogue: 0,0:01:32.00,0:01:32.40,Cap,,0,0,0,,And the tide tapping time with {\1c&H1EC6FF&}our{\r} feet
+Dialogue: 0,0:01:32.40,0:01:33.00,Cap,,0,0,0,,And the tide tapping time with our {\1c&H1EC6FF&}feet{\r}
+Dialogue: 0,0:01:33.90,0:01:34.20,Cap,,0,0,0,,{\1c&H1EC6FF&}Your{\r} laugh hit the air
+Dialogue: 0,0:01:34.20,0:01:34.50,Cap,,0,0,0,,Your {\1c&H1EC6FF&}laugh{\r} hit the air
+Dialogue: 0,0:01:34.50,0:01:34.70,Cap,,0,0,0,,Your laugh {\1c&H1EC6FF&}hit{\r} the air
+Dialogue: 0,0:01:34.70,0:01:34.80,Cap,,0,0,0,,Your laugh hit {\1c&H1EC6FF&}the{\r} air
+Dialogue: 0,0:01:34.80,0:01:35.12,Cap,,0,0,0,,Your laugh hit the {\1c&H1EC6FF&}air{\r}
+Dialogue: 0,0:01:35.80,0:01:36.84,Cap,,0,0,0,,Like a hand drum roll
+Dialogue: 0,0:01:36.84,0:01:38.44,Cap,,0,0,0,,I forgot the list, forgot the bills
+Dialogue: 0,0:01:38.60,0:01:39.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Forgot{\r} what I was told
+Dialogue: 0,0:01:39.00,0:01:39.50,Cap,,0,0,0,,Forgot {\1c&H1EC6FF&}what{\r} I was told
+Dialogue: 0,0:01:39.50,0:01:41.00,Cap,,0,0,0,,Forgot what {\1c&H1EC6FF&}I{\r} was told
+Dialogue: 0,0:01:41.00,0:01:41.60,Cap,,0,0,0,,Forgot what I {\1c&H1EC6FF&}was{\r} told
+Dialogue: 0,0:01:41.60,0:01:42.40,Cap,,0,0,0,,Forgot what I was {\1c&H1EC6FF&}told{\r}
+Dialogue: 0,0:01:43.00,0:01:43.60,Cap,,0,0,0,,{\1c&H1EC6FF&}Ice{\r} cup sweating
+Dialogue: 0,0:01:43.60,0:01:43.80,Cap,,0,0,0,,Ice {\1c&H1EC6FF&}cup{\r} sweating
+Dialogue: 0,0:01:44.20,0:01:44.40,Cap,,0,0,0,,{\1c&H1EC6FF&}On{\r} the rail by the steps
+Dialogue: 0,0:01:44.40,0:01:44.50,Cap,,0,0,0,,On {\1c&H1EC6FF&}the{\r} rail by the steps
+Dialogue: 0,0:01:44.50,0:01:44.70,Cap,,0,0,0,,On the {\1c&H1EC6FF&}rail{\r} by the steps
+Dialogue: 0,0:01:44.70,0:01:44.72,Cap,,0,0,0,,On the rail {\1c&H1EC6FF&}by{\r} the steps
+Dialogue: 0,0:01:44.72,0:01:44.90,Cap,,0,0,0,,You said, don't think too hard
+Dialogue: 0,0:01:46.42,0:01:47.52,Cap,,0,0,0,,So I didn't, not yet
+Dialogue: 0,0:01:47.80,0:01:47.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Here{\r} for the boardwalks
+Dialogue: 0,0:01:47.90,0:01:48.00,Cap,,0,0,0,,Here {\1c&H1EC6FF&}for{\r} the boardwalks
+Dialogue: 0,0:01:48.00,0:01:48.10,Cap,,0,0,0,,Here for {\1c&H1EC6FF&}the{\r} boardwalks
+Dialogue: 0,0:01:48.10,0:01:48.72,Cap,,0,0,0,,Here for the {\1c&H1EC6FF&}boardwalks{\r}
+Dialogue: 0,0:01:49.10,0:01:49.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Cutting{\r} through the crowd
+Dialogue: 0,0:01:49.30,0:01:49.40,Cap,,0,0,0,,Cutting {\1c&H1EC6FF&}through{\r} the crowd
+Dialogue: 0,0:01:49.40,0:01:49.50,Cap,,0,0,0,,Cutting through {\1c&H1EC6FF&}the{\r} crowd
+Dialogue: 0,0:01:49.50,0:01:49.74,Cap,,0,0,0,,Cutting through the {\1c&H1EC6FF&}crowd{\r}
+Dialogue: 0,0:01:49.74,0:01:50.70,Cap,,0,0,0,,You took my sneakers from me once
+Dialogue: 0,0:01:50.90,0:01:51.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Like{\r} none of it was last
+Dialogue: 0,0:01:51.00,0:01:51.20,Cap,,0,0,0,,Like {\1c&H1EC6FF&}none{\r} of it was last
+Dialogue: 0,0:01:51.20,0:01:51.30,Cap,,0,0,0,,Like none {\1c&H1EC6FF&}of{\r} it was last
+Dialogue: 0,0:01:51.30,0:01:51.50,Cap,,0,0,0,,Like none of {\1c&H1EC6FF&}it{\r} was last
+Dialogue: 0,0:01:51.50,0:01:51.70,Cap,,0,0,0,,Like none of it {\1c&H1EC6FF&}was{\r} last
+Dialogue: 0,0:01:51.70,0:01:51.90,Cap,,0,0,0,,Like none of it was {\1c&H1EC6FF&}last{\r}
+Dialogue: 0,0:01:52.30,0:01:52.40,Cap,,0,0,0,,{\1c&H1EC6FF&}Slow{\r} down, take your time
+Dialogue: 0,0:01:52.40,0:01:52.60,Cap,,0,0,0,,Slow {\1c&H1EC6FF&}down,{\r} take your time
+Dialogue: 0,0:01:52.60,0:01:52.70,Cap,,0,0,0,,Slow down, {\1c&H1EC6FF&}take{\r} your time
+Dialogue: 0,0:01:52.70,0:01:52.80,Cap,,0,0,0,,Slow down, take {\1c&H1EC6FF&}your{\r} time
+Dialogue: 0,0:01:52.80,0:01:53.58,Cap,,0,0,0,,Slow down, take your {\1c&H1EC6FF&}time{\r}
+Dialogue: 0,0:01:53.58,0:01:53.80,Cap,,0,0,0,,{\1c&H1EC6FF&}Let{\r} the hard week fade
+Dialogue: 0,0:01:53.80,0:01:53.98,Cap,,0,0,0,,Let {\1c&H1EC6FF&}the{\r} hard week fade
+Dialogue: 0,0:01:53.98,0:01:54.10,Cap,,0,0,0,,Let the {\1c&H1EC6FF&}hard{\r} week fade
+Dialogue: 0,0:01:54.10,0:01:54.32,Cap,,0,0,0,,Let the hard {\1c&H1EC6FF&}week{\r} fade
+Dialogue: 0,0:01:54.32,0:01:54.94,Cap,,0,0,0,,Let the hard week {\1c&H1EC6FF&}fade{\r}
+Dialogue: 0,0:01:55.00,0:01:55.20,Cap,,0,0,0,,{\1c&H1EC6FF&}One{\r} small look from you
+Dialogue: 0,0:01:55.20,0:01:55.60,Cap,,0,0,0,,One {\1c&H1EC6FF&}small{\r} look from you
+Dialogue: 0,0:01:55.60,0:01:55.70,Cap,,0,0,0,,One small {\1c&H1EC6FF&}look{\r} from you
+Dialogue: 0,0:01:55.70,0:01:55.90,Cap,,0,0,0,,One small look {\1c&H1EC6FF&}from{\r} you
+Dialogue: 0,0:01:55.90,0:01:56.00,Cap,,0,0,0,,One small look from {\1c&H1EC6FF&}you{\r}
+Dialogue: 0,0:01:56.20,0:01:56.30,Cap,,0,0,0,,{\1c&H1EC6FF&}And{\r} my whole head replays
+Dialogue: 0,0:01:56.30,0:01:56.40,Cap,,0,0,0,,And {\1c&H1EC6FF&}my{\r} whole head replays
+Dialogue: 0,0:01:56.40,0:01:56.50,Cap,,0,0,0,,And my {\1c&H1EC6FF&}whole{\r} head replays
+Dialogue: 0,0:01:56.50,0:01:59.50,Cap,,0,0,0,,And my whole {\1c&H1EC6FF&}head{\r} replays
+Dialogue: 0,0:01:59.50,0:02:00.02,Cap,,0,0,0,,And my whole head {\1c&H1EC6FF&}replays{\r}
+Dialogue: 0,0:02:01.60,0:02:01.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:01.70,0:02:02.00,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:02.00,0:02:02.10,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:02.10,0:02:02.58,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:03.20,0:02:03.30,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} ride, we ride
+Dialogue: 0,0:02:03.30,0:02:03.40,Cap,,0,0,0,,We {\1c&H1EC6FF&}ride,{\r} we ride
+Dialogue: 0,0:02:03.40,0:02:03.50,Cap,,0,0,0,,We ride, {\1c&H1EC6FF&}we{\r} ride
+Dialogue: 0,0:02:03.50,0:02:04.00,Cap,,0,0,0,,We ride, we {\1c&H1EC6FF&}ride{\r}
+Dialogue: 0,0:02:04.20,0:02:04.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:04.30,0:02:04.60,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:04.60,0:02:04.70,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:04.70,0:02:05.06,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:05.10,0:02:05.20,Cap,,0,0,0,,{\1c&H1EC6FF&}With{\r} you by my side
+Dialogue: 0,0:02:05.20,0:02:05.40,Cap,,0,0,0,,With {\1c&H1EC6FF&}you{\r} by my side
+Dialogue: 0,0:02:05.40,0:02:05.60,Cap,,0,0,0,,With you {\1c&H1EC6FF&}by{\r} my side
+Dialogue: 0,0:02:05.60,0:02:05.70,Cap,,0,0,0,,With you by {\1c&H1EC6FF&}my{\r} side
+Dialogue: 0,0:02:05.70,0:02:06.30,Cap,,0,0,0,,With you by my {\1c&H1EC6FF&}side{\r}
+Dialogue: 0,0:02:06.60,0:02:06.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:06.70,0:02:07.00,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:07.00,0:02:07.10,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:07.10,0:02:07.38,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:07.50,0:02:07.70,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} need to run
+Dialogue: 0,0:02:07.70,0:02:08.00,Cap,,0,0,0,,No {\1c&H1EC6FF&}need{\r} to run
+Dialogue: 0,0:02:08.00,0:02:08.20,Cap,,0,0,0,,No need {\1c&H1EC6FF&}to{\r} run
+Dialogue: 0,0:02:08.20,0:02:08.52,Cap,,0,0,0,,No need to {\1c&H1EC6FF&}run{\r}
+Dialogue: 0,0:02:08.52,0:02:09.66,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:02:09.66,0:02:10.78,Cap,,0,0,0,,We hold the sun
+Dialogue: 0,0:02:11.00,0:02:11.10,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:11.10,0:02:11.20,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:11.20,0:02:11.40,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:11.40,0:02:11.88,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:12.10,0:02:12.20,Cap,,0,0,0,,{\1c&H1EC6FF&}Keep{\r} it loose, keep it low
+Dialogue: 0,0:02:12.20,0:02:12.30,Cap,,0,0,0,,Keep {\1c&H1EC6FF&}it{\r} loose, keep it low
+Dialogue: 0,0:02:12.30,0:02:12.50,Cap,,0,0,0,,Keep it {\1c&H1EC6FF&}loose,{\r} keep it low
+Dialogue: 0,0:02:12.50,0:02:12.70,Cap,,0,0,0,,Keep it loose, {\1c&H1EC6FF&}keep{\r} it low
+Dialogue: 0,0:02:12.70,0:02:12.80,Cap,,0,0,0,,Keep it loose, keep {\1c&H1EC6FF&}it{\r} low
+Dialogue: 0,0:02:12.80,0:02:13.08,Cap,,0,0,0,,Keep it loose, keep it {\1c&H1EC6FF&}low{\r}
+Dialogue: 0,0:02:13.60,0:02:13.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:13.70,0:02:13.80,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:13.80,0:02:13.90,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:13.90,0:02:14.18,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:14.40,0:02:14.50,Cap,,0,0,0,,{\1c&H1EC6FF&}Let{\r} it drift, let it go
+Dialogue: 0,0:02:14.50,0:02:14.60,Cap,,0,0,0,,Let {\1c&H1EC6FF&}it{\r} drift, let it go
+Dialogue: 0,0:02:14.60,0:02:14.80,Cap,,0,0,0,,Let it {\1c&H1EC6FF&}drift,{\r} let it go
+Dialogue: 0,0:02:14.80,0:02:15.00,Cap,,0,0,0,,Let it drift, {\1c&H1EC6FF&}let{\r} it go
+Dialogue: 0,0:02:15.00,0:02:15.10,Cap,,0,0,0,,Let it drift, let {\1c&H1EC6FF&}it{\r} go
+Dialogue: 0,0:02:15.10,0:02:15.36,Cap,,0,0,0,,Let it drift, let it {\1c&H1EC6FF&}go{\r}
+Dialogue: 0,0:02:15.90,0:02:16.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:16.00,0:02:16.10,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:16.10,0:02:16.20,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:16.20,0:02:16.44,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:16.60,0:02:16.70,Cap,,0,0,0,,{\1c&H1EC6FF&}We're{\r} good where we are
+Dialogue: 0,0:02:16.70,0:02:16.80,Cap,,0,0,0,,We're {\1c&H1EC6FF&}good{\r} where we are
+Dialogue: 0,0:02:16.80,0:02:17.00,Cap,,0,0,0,,We're good {\1c&H1EC6FF&}where{\r} we are
+Dialogue: 0,0:02:17.00,0:02:17.10,Cap,,0,0,0,,We're good where {\1c&H1EC6FF&}we{\r} are
+Dialogue: 0,0:02:17.10,0:02:17.62,Cap,,0,0,0,,We're good where we {\1c&H1EC6FF&}are{\r}
+Dialogue: 0,0:02:18.20,0:02:18.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:18.30,0:02:18.40,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:18.40,0:02:18.70,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:18.70,0:02:18.82,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:18.82,0:02:20.48,Cap,,0,0,0,,Just two small sparks
+Dialogue: 0,0:02:20.48,0:02:20.84,Cap,,0,0,0,,{\1c&H1EC6FF&}I'm{\r} falling, I'm falling
+Dialogue: 0,0:02:20.84,0:02:21.56,Cap,,0,0,0,,I'm {\1c&H1EC6FF&}falling,{\r} I'm falling
+Dialogue: 0,0:02:21.56,0:02:22.44,Cap,,0,0,0,,I'm falling, {\1c&H1EC6FF&}I'm{\r} falling
+Dialogue: 0,0:02:22.44,0:02:23.14,Cap,,0,0,0,,I'm falling, I'm {\1c&H1EC6FF&}falling{\r}
+Dialogue: 0,0:02:23.50,0:02:23.60,Cap,,0,0,0,,{\1c&H1EC6FF&}Just{\r} two small sparks
+Dialogue: 0,0:02:23.60,0:02:24.10,Cap,,0,0,0,,Just {\1c&H1EC6FF&}two{\r} small sparks
+Dialogue: 0,0:02:24.10,0:02:24.40,Cap,,0,0,0,,Just two {\1c&H1EC6FF&}small{\r} sparks
+Dialogue: 0,0:02:24.40,0:02:25.56,Cap,,0,0,0,,Just two small {\1c&H1EC6FF&}sparks{\r}
+Dialogue: 0,0:02:25.56,0:02:26.62,Cap,,0,0,0,,I'm falling
+Dialogue: 0,0:02:26.62,0:02:28.70,Cap,,0,0,0,,Just two small sparks
+Dialogue: 0,0:02:28.70,0:02:30.00,Cap,,0,0,0,,If the rain comes down
+Dialogue: 0,0:02:30.20,0:02:30.30,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} stay out in it
+Dialogue: 0,0:02:30.30,0:02:30.60,Cap,,0,0,0,,We {\1c&H1EC6FF&}stay{\r} out in it
+Dialogue: 0,0:02:30.60,0:02:31.00,Cap,,0,0,0,,We stay {\1c&H1EC6FF&}out{\r} in it
+Dialogue: 0,0:02:31.00,0:02:31.20,Cap,,0,0,0,,We stay out {\1c&H1EC6FF&}in{\r} it
+Dialogue: 0,0:02:31.20,0:02:31.30,Cap,,0,0,0,,We stay out in {\1c&H1EC6FF&}it{\r}
+Dialogue: 0,0:02:31.30,0:02:32.36,Cap,,0,0,0,,If the day runs long
+Dialogue: 0,0:02:32.50,0:02:32.60,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} still move with it
+Dialogue: 0,0:02:32.60,0:02:32.80,Cap,,0,0,0,,We {\1c&H1EC6FF&}still{\r} move with it
+Dialogue: 0,0:02:32.80,0:02:33.30,Cap,,0,0,0,,We still {\1c&H1EC6FF&}move{\r} with it
+Dialogue: 0,0:02:33.30,0:02:33.50,Cap,,0,0,0,,We still move {\1c&H1EC6FF&}with{\r} it
+Dialogue: 0,0:02:33.50,0:02:33.58,Cap,,0,0,0,,We still move with {\1c&H1EC6FF&}it{\r}
+Dialogue: 0,0:02:33.80,0:02:33.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Hand{\r} in my hand
+Dialogue: 0,0:02:33.90,0:02:34.00,Cap,,0,0,0,,Hand {\1c&H1EC6FF&}in{\r} my hand
+Dialogue: 0,0:02:34.00,0:02:34.20,Cap,,0,0,0,,Hand in {\1c&H1EC6FF&}my{\r} hand
+Dialogue: 0,0:02:34.20,0:02:34.42,Cap,,0,0,0,,Hand in my {\1c&H1EC6FF&}hand{\r}
+Dialogue: 0,0:02:34.42,0:02:35.72,Cap,,0,0,0,,No speech, no show
+Dialogue: 0,0:02:35.72,0:02:36.70,Cap,,0,0,0,,Heart in the breeze
+Dialogue: 0,0:02:36.70,0:02:38.06,Cap,,0,0,0,,And the bass move slow
+Dialogue: 0,0:02:38.06,0:02:39.10,Cap,,0,0,0,,If the sky turns gray
+Dialogue: 0,0:02:39.10,0:02:40.24,Cap,,0,0,0,,We don't fold in
+Dialogue: 0,0:02:40.50,0:02:40.60,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} lean right back
+Dialogue: 0,0:02:40.60,0:02:40.80,Cap,,0,0,0,,We {\1c&H1EC6FF&}lean{\r} right back
+Dialogue: 0,0:02:40.80,0:02:41.10,Cap,,0,0,0,,We lean {\1c&H1EC6FF&}right{\r} back
+Dialogue: 0,0:02:41.10,0:02:41.36,Cap,,0,0,0,,We lean right {\1c&H1EC6FF&}back{\r}
+Dialogue: 0,0:02:41.36,0:02:42.46,Cap,,0,0,0,,Let the whole thing spin
+Dialogue: 0,0:02:42.70,0:02:42.80,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} and me, same pace
+Dialogue: 0,0:02:42.80,0:02:42.90,Cap,,0,0,0,,You {\1c&H1EC6FF&}and{\r} me, same pace
+Dialogue: 0,0:02:42.90,0:02:43.00,Cap,,0,0,0,,You and {\1c&H1EC6FF&}me,{\r} same pace
+Dialogue: 0,0:02:43.00,0:02:43.10,Cap,,0,0,0,,You and me, {\1c&H1EC6FF&}same{\r} pace
+Dialogue: 0,0:02:43.10,0:02:43.58,Cap,,0,0,0,,You and me, same {\1c&H1EC6FF&}pace{\r}
+Dialogue: 0,0:02:43.80,0:02:44.00,Cap,,0,0,0,,{\1c&H1EC6FF&}Same{\r} worn-in shoes
+Dialogue: 0,0:02:44.00,0:02:44.50,Cap,,0,0,0,,Same {\1c&H1EC6FF&}worn-in{\r} shoes
+Dialogue: 0,0:02:44.50,0:02:44.90,Cap,,0,0,0,,Same worn-in {\1c&H1EC6FF&}shoes{\r}
+Dialogue: 0,0:02:45.20,0:02:45.50,Cap,,0,0,0,,{\1c&H1EC6FF&}Nothing{\r} to prove
+Dialogue: 0,0:02:45.50,0:02:45.60,Cap,,0,0,0,,Nothing {\1c&H1EC6FF&}to{\r} prove
+Dialogue: 0,0:02:45.60,0:02:45.88,Cap,,0,0,0,,Nothing to {\1c&H1EC6FF&}prove{\r}
+Dialogue: 0,0:02:46.30,0:02:46.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Nothing{\r} to lose
+Dialogue: 0,0:02:46.70,0:02:46.80,Cap,,0,0,0,,Nothing {\1c&H1EC6FF&}to{\r} lose
+Dialogue: 0,0:02:46.80,0:02:47.50,Cap,,0,0,0,,Nothing to {\1c&H1EC6FF&}lose{\r}
+Dialogue: 0,0:02:47.50,0:02:48.02,Cap,,0,0,0,,{\1c&H1EC6FF&}No,{\r} no, no
+Dialogue: 0,0:02:48.02,0:02:48.62,Cap,,0,0,0,,No, {\1c&H1EC6FF&}no,{\r} no
+Dialogue: 0,0:02:48.62,0:02:49.16,Cap,,0,0,0,,No, no, {\1c&H1EC6FF&}no{\r}
+Dialogue: 0,0:02:49.20,0:02:49.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:49.30,0:02:49.40,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:49.40,0:02:49.50,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:49.50,0:02:50.18,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:50.60,0:02:50.70,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} ride, we ride
+Dialogue: 0,0:02:50.70,0:02:51.00,Cap,,0,0,0,,We {\1c&H1EC6FF&}ride,{\r} we ride
+Dialogue: 0,0:02:51.00,0:02:51.10,Cap,,0,0,0,,We ride, {\1c&H1EC6FF&}we{\r} ride
+Dialogue: 0,0:02:51.10,0:02:51.44,Cap,,0,0,0,,We ride, we {\1c&H1EC6FF&}ride{\r}
+Dialogue: 0,0:02:51.44,0:02:52.58,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:02:52.70,0:02:52.80,Cap,,0,0,0,,{\1c&H1EC6FF&}With{\r} you by my side
+Dialogue: 0,0:02:52.80,0:02:52.90,Cap,,0,0,0,,With {\1c&H1EC6FF&}you{\r} by my side
+Dialogue: 0,0:02:52.90,0:02:53.10,Cap,,0,0,0,,With you {\1c&H1EC6FF&}by{\r} my side
+Dialogue: 0,0:02:53.10,0:02:53.30,Cap,,0,0,0,,With you by {\1c&H1EC6FF&}my{\r} side
+Dialogue: 0,0:02:53.30,0:02:53.62,Cap,,0,0,0,,With you by my {\1c&H1EC6FF&}side{\r}
+Dialogue: 0,0:02:54.00,0:02:54.10,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:02:54.10,0:02:54.20,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:02:54.20,0:02:54.30,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:02:54.30,0:02:54.92,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:02:55.00,0:02:55.20,Cap,,0,0,0,,{\1c&H1EC6FF&}No{\r} need to run
+Dialogue: 0,0:02:55.20,0:02:55.50,Cap,,0,0,0,,No {\1c&H1EC6FF&}need{\r} to run
+Dialogue: 0,0:02:55.50,0:02:55.70,Cap,,0,0,0,,No need {\1c&H1EC6FF&}to{\r} run
+Dialogue: 0,0:02:55.70,0:02:56.04,Cap,,0,0,0,,No need to {\1c&H1EC6FF&}run{\r}
+Dialogue: 0,0:02:56.04,0:02:57.20,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:02:57.30,0:02:57.40,Cap,,0,0,0,,{\1c&H1EC6FF&}We{\r} hold the sun
+Dialogue: 0,0:02:57.40,0:02:57.50,Cap,,0,0,0,,We {\1c&H1EC6FF&}hold{\r} the sun
+Dialogue: 0,0:02:57.50,0:02:57.60,Cap,,0,0,0,,We hold {\1c&H1EC6FF&}the{\r} sun
+Dialogue: 0,0:02:57.60,0:02:58.24,Cap,,0,0,0,,We hold the {\1c&H1EC6FF&}sun{\r}
+Dialogue: 0,0:02:58.24,0:02:59.30,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:02:59.60,0:02:59.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Keep{\r} it loose, keep it low
+Dialogue: 0,0:02:59.70,0:02:59.80,Cap,,0,0,0,,Keep {\1c&H1EC6FF&}it{\r} loose, keep it low
+Dialogue: 0,0:02:59.80,0:02:59.90,Cap,,0,0,0,,Keep it {\1c&H1EC6FF&}loose,{\r} keep it low
+Dialogue: 0,0:02:59.90,0:03:00.00,Cap,,0,0,0,,Keep it loose, {\1c&H1EC6FF&}keep{\r} it low
+Dialogue: 0,0:03:00.00,0:03:00.10,Cap,,0,0,0,,Keep it loose, keep {\1c&H1EC6FF&}it{\r} low
+Dialogue: 0,0:03:00.10,0:03:00.50,Cap,,0,0,0,,Keep it loose, keep it {\1c&H1EC6FF&}low{\r}
+Dialogue: 0,0:03:00.80,0:03:00.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:03:00.90,0:03:01.00,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:03:01.00,0:03:01.10,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:03:01.10,0:03:01.56,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:03:01.80,0:03:01.90,Cap,,0,0,0,,{\1c&H1EC6FF&}Let{\r} it drift, let it go
+Dialogue: 0,0:03:01.90,0:03:02.00,Cap,,0,0,0,,Let {\1c&H1EC6FF&}it{\r} drift, let it go
+Dialogue: 0,0:03:02.00,0:03:02.20,Cap,,0,0,0,,Let it {\1c&H1EC6FF&}drift,{\r} let it go
+Dialogue: 0,0:03:02.20,0:03:02.30,Cap,,0,0,0,,Let it drift, {\1c&H1EC6FF&}let{\r} it go
+Dialogue: 0,0:03:02.30,0:03:02.40,Cap,,0,0,0,,Let it drift, let {\1c&H1EC6FF&}it{\r} go
+Dialogue: 0,0:03:02.40,0:03:02.78,Cap,,0,0,0,,Let it drift, let it {\1c&H1EC6FF&}go{\r}
+Dialogue: 0,0:03:02.78,0:03:03.80,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:03:04.00,0:03:04.10,Cap,,0,0,0,,{\1c&H1EC6FF&}We're{\r} good where we are
+Dialogue: 0,0:03:04.10,0:03:04.20,Cap,,0,0,0,,We're {\1c&H1EC6FF&}good{\r} where we are
+Dialogue: 0,0:03:04.20,0:03:04.30,Cap,,0,0,0,,We're good {\1c&H1EC6FF&}where{\r} we are
+Dialogue: 0,0:03:04.30,0:03:04.40,Cap,,0,0,0,,We're good where {\1c&H1EC6FF&}we{\r} are
+Dialogue: 0,0:03:04.40,0:03:04.68,Cap,,0,0,0,,We're good where we {\1c&H1EC6FF&}are{\r}
+Dialogue: 0,0:03:04.68,0:03:05.02,Cap,,0,0,0,,{\1c&H1EC6FF&}Easy{\r} now, easy now
+Dialogue: 0,0:03:05.02,0:03:05.56,Cap,,0,0,0,,Easy {\1c&H1EC6FF&}now,{\r} easy now
+Dialogue: 0,0:03:05.56,0:03:05.88,Cap,,0,0,0,,Easy now, {\1c&H1EC6FF&}easy{\r} now
+Dialogue: 0,0:03:05.88,0:03:06.46,Cap,,0,0,0,,Easy now, easy {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:03:06.60,0:03:06.70,Cap,,0,0,0,,{\1c&H1EC6FF&}Just{\r} two small sparks
+Dialogue: 0,0:03:06.70,0:03:06.80,Cap,,0,0,0,,Just {\1c&H1EC6FF&}two{\r} small sparks
+Dialogue: 0,0:03:06.80,0:03:06.90,Cap,,0,0,0,,Just two {\1c&H1EC6FF&}small{\r} sparks
+Dialogue: 0,0:03:06.90,0:03:08.04,Cap,,0,0,0,,Just two small {\1c&H1EC6FF&}sparks{\r}
+Dialogue: 0,0:03:14.10,0:03:17.58,Cap,,0,0,0,,This is now, this is now, this is now
+Dialogue: 0,0:03:17.58,0:03:21.00,Cap,,0,0,0,,Easy now, easy now
+Dialogue: 0,0:03:21.00,0:03:23.42,Cap,,0,0,0,,Till the morning comes
+Dialogue: 0,0:03:24.20,0:03:24.30,Cap,,0,0,0,,{\1c&H1EC6FF&}Till{\r} the morning comes
+Dialogue: 0,0:03:24.30,0:03:24.40,Cap,,0,0,0,,Till {\1c&H1EC6FF&}the{\r} morning comes
+Dialogue: 0,0:03:24.40,0:03:25.30,Cap,,0,0,0,,Till the {\1c&H1EC6FF&}morning{\r} comes
+Dialogue: 0,0:03:25.30,0:03:25.58,Cap,,0,0,0,,Till the morning {\1c&H1EC6FF&}comes{\r}

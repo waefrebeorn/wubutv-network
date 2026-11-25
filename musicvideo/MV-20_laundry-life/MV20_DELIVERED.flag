@@ -1,0 +1,7 @@
+MV-20 "Laundry Life" — DELIVERED 2026-11-14 by parent (WuBu) to user in main chat.
+House master: masters/mv20_laundry_life_16x9.mp4 md5 1d59b572ba292cd63b80dabb680f23ec, 98,824,182 B, 3888f / 162.000s, 1280x720 24fps, CRF 18 (SEI crf=18.0), AAC 48k stereo, faststart.
+Chat copy: masters/mv20_laundry_life_chat.mp4 md5 ae016a44b687667c01dfad5865349f59, 48,382,569 B.
+Gates (GATE_LOG.md): audio agreement 0.99851 global / 0.99784 worst-10s; zero-still PASS worst run 0f; G7 all shipped >=0.750 except one logged hand-check override (S30 wordless slot, ASR hallucination).
+Measured tempo 87.21 BPM; 34 scenes; fires 39 video + 2 image; zero 429s, zero refusals.
+Build path: original coordinator died 12:10:55 EST (daemon restart) mid-Volley-7; recovery coordinator (revive-detector) finished QC + conform + single-pass assembly; a parallel recovery stood down under parent collision discipline.
+Awaiting user verdict.

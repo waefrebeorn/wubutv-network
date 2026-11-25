@@ -1,0 +1,671 @@
+{
+ "AD-334": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-335": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-343": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-344": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-345": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "AD-346": {
+  "bed": "MV1-BED-NETWORK",
+  "sting": "MV1-STING-NETWORK"
+ },
+ "E-220": {
+  "bed": "MV1-BED-LABS",
+  "sting": "MV1-STING-LABS"
+ },
+ "E-221": {
+  "bed": "MV1-BED-ORIGINALS",
+  "sting": "MV1-STING-ORIGINALS"
+ },
+ "E-222": {
+  "bed": "MV1-BED-LABS",
+  "sting": "MV1-STING-LABS"
+ },
+ "P02": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P109": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P117": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P125": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P133": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P141": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P149": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P165": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P173": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P189": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P197": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P221": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P229": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P237": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P238": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P253": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P261": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P269": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P277": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P285": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P293": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P301": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P309": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P33": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P41": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P479": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "P93": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "S1-2": {
+  "bed": "serial-1-orig",
+  "sting": "orig"
+ },
+ "_note": "unit id -> {bed, sting}. Era I masters backfill as legacy-none in the manifest; this file starts empty and grows at ship time. See MUSIC_TAGS.md.",
+ "station_piece310": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece325": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece333": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece341": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece349": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece357": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece365": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece379": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece385": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece386": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece387": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece415": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece427": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece434": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece457": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece463": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece469": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece470": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece471": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece472": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece473": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece474": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece475": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece476": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece477": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece478": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece480": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece481": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece482": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece483": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece484": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece485": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece486": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece487": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece488": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece489": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece490": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece491": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece492": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece493": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece494": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece495": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece496": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece497": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece498": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece499": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece500": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece501": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece502": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece503": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece504": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece505": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece506": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece507": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece508": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece509": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece510": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece511": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece512": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece513": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece514": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece515": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece516": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece517": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece518": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece519": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece520": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece521": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece522": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece523": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece524": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece525": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece526": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece527": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece528": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece529": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece530": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece531": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece533": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece534": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece535": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece536": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece538": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece539": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece540": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece541": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece542": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece543": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece544": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece545": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece546": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece547": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece548": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece549": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece550": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece551": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece552": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece553": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece554": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece555": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece556": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece557": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece558": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece559": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece560": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece561": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece562": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece563": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece564": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece565": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece566": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece567": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece568": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece569": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece570": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece571": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece572": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece573": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece574": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece575": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece576": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece577": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece578": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece579": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece580": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece581": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece582": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece583": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece584": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ },
+ "station_piece585": {
+  "bed": "MV1-BED-NEWS",
+  "sting": "MV1-STING-NEWS"
+ }
+}

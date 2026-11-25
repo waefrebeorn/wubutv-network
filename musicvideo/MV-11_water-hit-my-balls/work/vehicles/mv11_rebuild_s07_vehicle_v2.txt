@@ -1,0 +1,42 @@
+MV-11 REBUILD S07 — "Sitting" (Verse — THE ONE SUNG SCENE) — VEHICLE v2 (REROLL)
+Song window: 45.18–50.14 (4.96s slot). Scene: V-A. Tag: SINGING (in-world —
+side/back, never to camera; user order 2026-11-09 ~22:04 EST).
+REROLL AXIS: PACING. t1 REJECTED (G5): the 10s request spread the three
+phrases across the full 10 seconds ("Sitting" 0.0–~2.5, "Water hits"
+3.36–~6.5, "My balls" 6.54–~9.5 vs song 0.0–2.0 / 2.0–3.46 / 3.46–4.96) —
+line ratio 0.52, clear miss; assembly would need ~2.15x speedup on P2
+(a chipmunk verse). Second fail in t1: the slow push-in overshot into an
+extreme profile close-up by 5s and the bowl/water/duck left the frame.
+The v1 t3 restage PROVED a 5s request keeps the phrases in 0–4.38s —
+this vehicle requests exactly 5 seconds (the 4.96s slot IS the take) and
+caps the push-in at a medium profile with the bowl and water still
+visible below.
+Device: FRESH first frame (J06 — the cut TURNS: the man enters). Same
+alignment as v1: S06@6.24s world (dome lamp top-left, gold wash, towel
+left, window top-right, duck in calm ringed water).
+Images:
+[1] work/stills/stack/s07_start_1248x704.webp (md5 f94f058a1ab5)
+[2] work/stills/stack/s07_end_1248x704.webp (md5 eabc4347a3fc)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.03/0.49/0.95/1.40/1.86/2.32/2.77/3.23/3.68/4.14/4.60.
+Phrases (take time — phrase-bracketed, v3 restage phrasing): "Sitting on
+the toilet" 0.0–2.0; "Water hits" 2.0–3.5; "My balls" 3.5–5.0 (the last
+phrase MUST be sung). The clip is five seconds long and the three
+phrases fill it exactly — do not stretch them across a longer clip.
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 5 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. A stylized cartoon bathroom: deep teal wall tiles, warm gold lamp light from a ceiling dome lamp at the top left, a vermilion towel on a hook on the left wall, a small window with daylight at the top right. The man from the first image — adult, early 30s, short dark hair, light stubble, blue bathrobe over a plain white tee, brown slippers — sits on a white porcelain toilet seen from behind and to the side, three-quarter back view, his face in profile, mouth clearly visible and unobstructed, looking down at the deep cobalt-blue water in the bowl below, where a yellow rubber duck bobs on gentle rings. He never faces the camera. The picture is already moving at frame 0 — the water is already rippling and the camera is already pushing in slowly.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s07_start_1248x704.webp
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. He chants the verse in three short phrases, one after the other, with no gap and no other words, and the three phrases fill the whole five-second clip exactly. From 0.0 to 2.0 seconds he sings "Sitting on the toilet". From 2.0 to 3.5 seconds he sings "Water hits". From 3.5 to 5.0 seconds he sings "My balls" — the last phrase must be sung, clearly, with his mouth open on the words "My balls" until the end of the clip. He sings the whole line "Sitting on the toilet, water hits, my balls" exactly once, in that order, nothing else: no greeting, no farewell, no thank-you, no outro, no commentary, no other words at all. He chants softly to the room in a low dark crooning voice, his head bobbing gently on the beat, the water below rippling in time. Clear open mouth shapes on every syllable, visible jaw drop, lips forming distinct shapes, no still mouth. The camera pushes in slowly from the bowl toward his profile across the five seconds and stops at a medium profile shot with the bowl and the rippling water still visible below — never closer than that, never a face-only close-up. After the final word the mouth closes. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s07_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: the man seated behind and to the side, his face in profile with his mouth open mid-phrase, looking down at the rippling cobalt water, the yellow duck bobbing, warm gold lamp light on the teal tiles.
+
+NOTES: REROLL on the PACING axis only (same refs, same phrase brackets, same framing law). The one change that matters: exactly 5 seconds, not 10 — the take IS the slot, so the phrases cannot spread past it. Framing law: side/back three-quarter ONLY — facing camera / talking-head is a FAIL. Judge sync on VISIBLE MOUTH EVENTS, never take audio alone. Lines verified against LYRIC_TIMELINE.md: "Sitting on the toilet" 45.18 · "Water hits" 47.18 · "My balls" 48.64–50.14. Kinetic in post: HIGHLIGHT per line.

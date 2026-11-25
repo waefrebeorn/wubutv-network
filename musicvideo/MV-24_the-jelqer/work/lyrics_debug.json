@@ -1,0 +1,142 @@
+{
+ "lines": [
+  {
+   "kind": "lyric",
+   "text": "I said the Jelqer is a wanted man,",
+   "match": "inferred",
+   "start": 63.52,
+   "end": 66.42
+  },
+  {
+   "kind": "lyric",
+   "text": "And makes his way all across the land",
+   "match": "unmatched",
+   "start": null,
+   "end": null
+  },
+  {
+   "kind": "lyric",
+   "text": "I see him twistin' a d*ck in his hands,",
+   "match": "inferred",
+   "start": 69.52,
+   "end": 72.72
+  },
+  {
+   "kind": "lyric",
+   "text": "So I tell you all the story",
+   "match": "confirmed",
+   "start": 72.72,
+   "end": 74.38
+  },
+  {
+   "kind": "lyric",
+   "text": "'bout the Jelqer and the Qu**f in the night",
+   "match": "inferred",
+   "start": 74.38,
+   "end": 76.52
+  },
+  {
+   "kind": "lyric",
+   "text": "He looks for victims at the leave of the light",
+   "match": "confirmed",
+   "start": 82.54,
+   "end": 85.36
+  },
+  {
+   "kind": "lyric",
+   "text": "He likes it better when they put up a fight",
+   "match": "confirmed",
+   "start": 85.36,
+   "end": 88.72
+  },
+  {
+   "kind": "lyric",
+   "text": "The young and pretty are set in his sights",
+   "match": "inferred",
+   "start": 89.32,
+   "end": 91.7
+  },
+  {
+   "kind": "lyric",
+   "text": "And they are not comin' home",
+   "match": "confirmed",
+   "start": 91.7,
+   "end": 96.04
+  },
+  {
+   "kind": "lyric",
+   "text": "Can you see the Jelqer creeping over?",
+   "match": "inferred",
+   "start": 113.46,
+   "end": 118.34
+  },
+  {
+   "kind": "lyric",
+   "text": "He's bout to bust, he's going supernova",
+   "match": "confirmed",
+   "start": 119.86,
+   "end": 124.64
+  },
+  {
+   "kind": "lyric",
+   "text": "Rubbing it out, every day",
+   "match": "confirmed",
+   "start": 126.66,
+   "end": 129.72
+  },
+  {
+   "kind": "lyric",
+   "text": "Why the f*ck haven't we locked him away?",
+   "match": "inferred",
+   "start": 129.72,
+   "end": 132.68
+  },
+  {
+   "kind": "lyric",
+   "text": "I said the Jelqer is a wanted man,",
+   "match": "inferred",
+   "start": 139.14,
+   "end": 142.38
+  },
+  {
+   "kind": "lyric",
+   "text": "And makes his way all across the land",
+   "match": "confirmed",
+   "start": 142.38,
+   "end": 145.4
+  },
+  {
+   "kind": "lyric",
+   "text": "I see him twistin' a d*ck in his hands",
+   "match": "inferred",
+   "start": 145.4,
+   "end": 148.48
+  },
+  {
+   "kind": "lyric",
+   "text": "So I tell ya, I tell ya, I tell ya, I tell ya",
+   "match": "inferred",
+   "start": 148.48,
+   "end": 151.6
+  },
+  {
+   "kind": "lyric",
+   "text": "A story 'bout the Jelqer",
+   "match": "inferred",
+   "start": 151.82,
+   "end": 153.62
+  },
+  {
+   "kind": "lyric",
+   "text": "Tell you what he's done",
+   "match": "confirmed",
+   "start": 155.5,
+   "end": 158.9
+  }
+ ],
+ "uncertain": [
+  "ASR hears the singer say 'Thank you' at ~3.7s and ~34.8s during the long intro; no such line on the sheet (the display parks verse 1 on screen for the first minute) \u2014 stage patter, not a sheet line",
+  "ASR hears 'Joker' for 'Jelqer', 'hands' pluralizations vary, and 'Quiffin'' for the sheet's censored 'Qu**f' \u2014 sheet text is frame-verified, including its own asterisk censorship (d*ck, Qu**f, f*ck)",
+  "UNMATCHED in ASR: 'And makes his way all across the land'"
+ ]
+}

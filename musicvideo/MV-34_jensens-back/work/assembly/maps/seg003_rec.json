@@ -1,0 +1,94 @@
+{
+ "seg": 3,
+ "scene": "S03a",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s03-t1-desc-0-46a9e730-13e4-46e9-8681-0d3ef1509835.mp4",
+ "take_span": [
+  0.0,
+  4.02
+ ],
+ "song_span": [
+  14.958333333333334,
+  17.875
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  1.065,
+  0.625,
+  1.0,
+  0.733,
+  0.833,
+  0.696,
+  0.356
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 1.0672
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 300.0,
+   "worst_anchor_drift_ms": 135.0
+  }
+ ],
+ "penalty_extra_words": 0,
+ "worst_word_drift": {
+  "word": "Then",
+  "song_onset": 17.54,
+  "take_onset": 3.08,
+  "carried": false,
+  "drift_ms": -135.0
+ },
+ "word_drifts": [
+  {
+   "word": "He",
+   "song_onset": 14.96,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": -1.7
+  },
+  {
+   "word": "stepped",
+   "song_onset": 15.64,
+   "take_onset": 0.64,
+   "carried": false,
+   "drift_ms": -0.8
+  },
+  {
+   "word": "out",
+   "song_onset": 15.94,
+   "take_onset": 1.12,
+   "carried": false,
+   "drift_ms": -0.9
+  },
+  {
+   "word": "for",
+   "song_onset": 16.48,
+   "take_onset": 1.66,
+   "carried": false,
+   "drift_ms": -5.6
+  },
+  {
+   "word": "a",
+   "song_onset": 16.92,
+   "take_onset": 2.26,
+   "carried": false,
+   "drift_ms": -17.9
+  },
+  {
+   "word": "minute",
+   "song_onset": 17.22,
+   "take_onset": 2.62,
+   "carried": false,
+   "drift_ms": -45.9
+  },
+  {
+   "word": "Then",
+   "song_onset": 17.54,
+   "take_onset": 3.08,
+   "carried": false,
+   "drift_ms": -135.0
+  }
+ ]
+}

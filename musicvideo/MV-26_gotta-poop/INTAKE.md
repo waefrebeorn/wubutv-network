@@ -1,0 +1,31 @@
+# MV-26 — INTAKE — "Gotta Poop"
+
+- Source: user upload 2026-11-20, Suno lyric video 824x1464 @10fps (lyrics burned in as scrolling karaoke).
+- track.mp4: md5 ca8b0f6fac6fab33b4eaf20de7c7eebf, duration 119.616s (ffprobe).
+- track.mp3: md5 550bd9d767e6d0637fb77757f180838f (pre-existing from first intake pass).
+- Lyrics: 41 lyric lines + 0 section tags (lyrics.txt, OCR of burned-in sheet, ASR cross-checked). Sections: none.
+- ASR words: 174; first word at 6.14s, last word ends 118.58s (SONG_WORDS.json).
+- Tempo: 127 BPM measured (AUDIO_ANALYSIS.md).
+- Uncertain lines (21):
+  - Scatological comedy chant: the sheet is a deconstructed loop of '[Brass Stab] Gotta poop' / 'Need to go right now' lines with per-line performance cues ([Brass Stab], [Short String Hit], [Light Rimshot], [Brass Accent]) and literal fragment lines ('op', 'OP!', '...', '!') — transcribed as displayed; the performance is a near-continuous 'gotta' chant (ASR: ~100x 'gotta' in one 30s segment), so many sheet lines are inferred/unmatched in the timeline
+  - ASR hears 'Stomach hurts' at ~28.6s and a final 'Poop!' at ~117.8s; neither appears on the sheet (frame-checked) — performed ad-libs or ASR artifacts
+  - Sheet has NO section tags; the bracketed tags are per-line performance cues kept inline in lyrics.txt
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: '...'
+  - UNMATCHED in ASR: 'OP!'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: '[Brass Stab] Need to go right now'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: '[Brass Stab] Need to go right now'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: '!'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: '[Brass Stab] Need to go right now'
+  - UNMATCHED in ASR: '[Short String Hit] Poop poop'
+  - UNMATCHED in ASR: 'op'
+  - UNMATCHED in ASR: '[Brass Stab] Need to go right now'
+  - UNMATCHED in ASR: '[Short String Hit] Poop poop'
+  - UNMATCHED in ASR: '(Right now) Need to go right now'
+- Anomalies: Scatological comedy track (bathroom-urgency chant); lyrics are crude by design — noted factually for production (visuals stay non-graphic).

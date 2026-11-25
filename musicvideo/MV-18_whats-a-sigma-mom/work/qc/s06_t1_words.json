@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv18_s06_t1.mp4",
+ "words": [
+  {
+   "w": "I",
+   "start": 0.0,
+   "end": 0.86,
+   "p": 0.815
+  },
+  {
+   "w": "said",
+   "start": 0.86,
+   "end": 1.36,
+   "p": 0.992
+  },
+  {
+   "w": "the",
+   "start": 1.36,
+   "end": 1.6,
+   "p": 0.981
+  },
+  {
+   "w": "thing,",
+   "start": 1.6,
+   "end": 2.18,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 2.54,
+   "end": 3.48,
+   "p": 0.993
+  },
+  {
+   "w": "she",
+   "start": 3.48,
+   "end": 3.8,
+   "p": 0.999
+  },
+  {
+   "w": "looked",
+   "start": 3.8,
+   "end": 4.28,
+   "p": 0.999
+  },
+  {
+   "w": "at",
+   "start": 4.28,
+   "end": 4.62,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 4.62,
+   "end": 4.84,
+   "p": 0.999
+  },
+  {
+   "w": "screen.",
+   "start": 4.84,
+   "end": 5.42,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.42,
+   "text": "I said the thing, and she looked at the screen.",
+   "avg_logprob": -0.177
+  }
+ ]
+}

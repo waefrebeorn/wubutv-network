@@ -1,0 +1,62 @@
+{
+ "seg": 8,
+ "scene": "S05b",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s05-t1-desc-0-2d87f105-ccfc-41dd-b775-017d162dc27a.mp4",
+ "take_span": [
+  6.42,
+  8.142
+ ],
+ "song_span": [
+  25.416666666666668,
+  26.791666666666668
+ ],
+ "method": "chunk (already in cap)",
+ "chunk_ratios": [
+  0.715,
+  0.926
+ ],
+ "capped": {
+  "ratio_min": 0.7147,
+  "ratio_max": 0.9262
+ },
+ "qp_rounds": [],
+ "penalty_extra_words": 3,
+ "worst_word_drift": {
+  "word": "checked",
+  "song_onset": 25.416666666666668,
+  "take_onset": 6.46,
+  "carried": false,
+  "drift_ms": 28.6
+ },
+ "word_drifts": [
+  {
+   "word": "checked",
+   "song_onset": 25.416666666666668,
+   "take_onset": 6.46,
+   "carried": false,
+   "drift_ms": 28.6
+  },
+  {
+   "word": "with",
+   "song_onset": 25.84,
+   "take_onset": 7.0,
+   "carried": false,
+   "drift_ms": -8.8
+  },
+  {
+   "word": "the",
+   "song_onset": 26.16,
+   "take_onset": 7.46,
+   "carried": false,
+   "drift_ms": 0.4
+  },
+  {
+   "word": "top",
+   "song_onset": 26.42,
+   "take_onset": 7.72,
+   "carried": false,
+   "drift_ms": -19.2
+  }
+ ]
+}

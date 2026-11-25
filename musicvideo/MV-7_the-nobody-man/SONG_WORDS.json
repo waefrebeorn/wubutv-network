@@ -1,0 +1,2126 @@
+{
+ "track": "work/track_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 187.2,
+ "n_words": 330,
+ "words": [
+  {
+   "word": "I'm",
+   "start": 0.0,
+   "end": 0.94,
+   "prob": 0.395
+  },
+  {
+   "word": "the",
+   "start": 0.94,
+   "end": 1.04,
+   "prob": 0.826
+  },
+  {
+   "word": "nobody",
+   "start": 1.04,
+   "end": 1.4,
+   "prob": 0.595
+  },
+  {
+   "word": "man,",
+   "start": 1.4,
+   "end": 2.28,
+   "prob": 0.713
+  },
+  {
+   "word": "nobody",
+   "start": 2.28,
+   "end": 4.14,
+   "prob": 0.717
+  },
+  {
+   "word": "man,",
+   "start": 4.14,
+   "end": 4.14,
+   "prob": 0.972
+  },
+  {
+   "word": "nobody",
+   "start": 4.14,
+   "end": 5.7,
+   "prob": 0.899
+  },
+  {
+   "word": "man,",
+   "start": 5.7,
+   "end": 6.9,
+   "prob": 0.983
+  },
+  {
+   "word": "nobody",
+   "start": 6.9,
+   "end": 6.9,
+   "prob": 0.772
+  },
+  {
+   "word": "man,",
+   "start": 6.9,
+   "end": 7.06,
+   "prob": 0.979
+  },
+  {
+   "word": "nobody",
+   "start": 7.28,
+   "end": 8.48,
+   "prob": 0.674
+  },
+  {
+   "word": "man,",
+   "start": 8.48,
+   "end": 9.46,
+   "prob": 0.968
+  },
+  {
+   "word": "nobody",
+   "start": 9.92,
+   "end": 10.06,
+   "prob": 0.746
+  },
+  {
+   "word": "man,",
+   "start": 10.06,
+   "end": 14.3,
+   "prob": 0.977
+  },
+  {
+   "word": "nobody",
+   "start": 14.3,
+   "end": 15.2,
+   "prob": 0.841
+  },
+  {
+   "word": "man",
+   "start": 15.2,
+   "end": 18.74,
+   "prob": 0.98
+  },
+  {
+   "word": "I",
+   "start": 19.58,
+   "end": 20.3,
+   "prob": 0.128
+  },
+  {
+   "word": "got",
+   "start": 20.3,
+   "end": 20.68,
+   "prob": 0.883
+  },
+  {
+   "word": "a",
+   "start": 20.68,
+   "end": 20.8,
+   "prob": 0.994
+  },
+  {
+   "word": "profile,",
+   "start": 20.8,
+   "end": 21.16,
+   "prob": 0.982
+  },
+  {
+   "word": "got",
+   "start": 21.64,
+   "end": 21.86,
+   "prob": 0.807
+  },
+  {
+   "word": "a",
+   "start": 21.86,
+   "end": 22.0,
+   "prob": 0.996
+  },
+  {
+   "word": "pile,",
+   "start": 22.0,
+   "end": 22.38,
+   "prob": 0.931
+  },
+  {
+   "word": "got",
+   "start": 22.6,
+   "end": 22.74,
+   "prob": 0.975
+  },
+  {
+   "word": "a",
+   "start": 22.74,
+   "end": 22.86,
+   "prob": 0.928
+  },
+  {
+   "word": "thousand",
+   "start": 22.86,
+   "end": 23.08,
+   "prob": 0.968
+  },
+  {
+   "word": "posts",
+   "start": 23.08,
+   "end": 23.38,
+   "prob": 0.927
+  },
+  {
+   "word": "in",
+   "start": 23.38,
+   "end": 23.64,
+   "prob": 0.653
+  },
+  {
+   "word": "a",
+   "start": 23.64,
+   "end": 23.8,
+   "prob": 0.867
+  },
+  {
+   "word": "folder",
+   "start": 23.8,
+   "end": 24.08,
+   "prob": 0.734
+  },
+  {
+   "word": "file",
+   "start": 24.08,
+   "end": 24.62,
+   "prob": 0.986
+  },
+  {
+   "word": "Old",
+   "start": 24.62,
+   "end": 25.16,
+   "prob": 0.018
+  },
+  {
+   "word": "meme",
+   "start": 25.16,
+   "end": 25.4,
+   "prob": 0.299
+  },
+  {
+   "word": "face",
+   "start": 25.4,
+   "end": 25.74,
+   "prob": 0.601
+  },
+  {
+   "word": "in",
+   "start": 25.74,
+   "end": 26.0,
+   "prob": 0.72
+  },
+  {
+   "word": "a",
+   "start": 26.0,
+   "end": 26.14,
+   "prob": 0.856
+  },
+  {
+   "word": "busted",
+   "start": 26.14,
+   "end": 26.42,
+   "prob": 0.363
+  },
+  {
+   "word": "grin",
+   "start": 26.42,
+   "end": 26.82,
+   "prob": 0.931
+  },
+  {
+   "word": "been",
+   "start": 26.82,
+   "end": 27.18,
+   "prob": 0.296
+  },
+  {
+   "word": "here",
+   "start": 27.18,
+   "end": 27.46,
+   "prob": 0.989
+  },
+  {
+   "word": "so",
+   "start": 27.46,
+   "end": 27.74,
+   "prob": 0.832
+  },
+  {
+   "word": "long",
+   "start": 27.74,
+   "end": 28.12,
+   "prob": 0.994
+  },
+  {
+   "word": "I",
+   "start": 28.12,
+   "end": 28.32,
+   "prob": 0.851
+  },
+  {
+   "word": "could",
+   "start": 28.32,
+   "end": 28.42,
+   "prob": 0.828
+  },
+  {
+   "word": "sign",
+   "start": 28.42,
+   "end": 28.68,
+   "prob": 0.939
+  },
+  {
+   "word": "back",
+   "start": 28.68,
+   "end": 29.0,
+   "prob": 0.985
+  },
+  {
+   "word": "in",
+   "start": 29.0,
+   "end": 29.42,
+   "prob": 0.95
+  },
+  {
+   "word": "I",
+   "start": 29.42,
+   "end": 29.76,
+   "prob": 0.011
+  },
+  {
+   "word": "prayed",
+   "start": 29.76,
+   "end": 29.92,
+   "prob": 0.298
+  },
+  {
+   "word": "a",
+   "start": 29.92,
+   "end": 30.08,
+   "prob": 0.941
+  },
+  {
+   "word": "joke,",
+   "start": 30.08,
+   "end": 30.44,
+   "prob": 0.972
+  },
+  {
+   "word": "got",
+   "start": 30.52,
+   "end": 30.68,
+   "prob": 0.406
+  },
+  {
+   "word": "a",
+   "start": 30.68,
+   "end": 30.84,
+   "prob": 0.994
+  },
+  {
+   "word": "quarter",
+   "start": 30.84,
+   "end": 30.98,
+   "prob": 0.692
+  },
+  {
+   "word": "past",
+   "start": 30.98,
+   "end": 31.3,
+   "prob": 0.688
+  },
+  {
+   "word": "eight,",
+   "start": 31.3,
+   "end": 31.74,
+   "prob": 0.895
+  },
+  {
+   "word": "watched",
+   "start": 31.74,
+   "end": 32.22,
+   "prob": 0.967
+  },
+  {
+   "word": "it",
+   "start": 32.22,
+   "end": 32.44,
+   "prob": 0.995
+  },
+  {
+   "word": "sit",
+   "start": 32.44,
+   "end": 32.7,
+   "prob": 0.984
+  },
+  {
+   "word": "there",
+   "start": 32.7,
+   "end": 33.08,
+   "prob": 0.996
+  },
+  {
+   "word": "while",
+   "start": 33.08,
+   "end": 33.32,
+   "prob": 0.988
+  },
+  {
+   "word": "I",
+   "start": 33.32,
+   "end": 33.58,
+   "prob": 0.986
+  },
+  {
+   "word": "wait",
+   "start": 33.58,
+   "end": 34.02,
+   "prob": 0.951
+  },
+  {
+   "word": "I",
+   "start": 34.02,
+   "end": 34.48,
+   "prob": 0.772
+  },
+  {
+   "word": "kept",
+   "start": 34.48,
+   "end": 34.74,
+   "prob": 0.989
+  },
+  {
+   "word": "clicking,",
+   "start": 34.74,
+   "end": 35.12,
+   "prob": 0.915
+  },
+  {
+   "word": "kept",
+   "start": 35.36,
+   "end": 35.38,
+   "prob": 0.997
+  },
+  {
+   "word": "sticking",
+   "start": 35.38,
+   "end": 35.68,
+   "prob": 0.952
+  },
+  {
+   "word": "around,",
+   "start": 35.68,
+   "end": 36.3,
+   "prob": 0.994
+  },
+  {
+   "word": "little",
+   "start": 36.5,
+   "end": 36.9,
+   "prob": 0.921
+  },
+  {
+   "word": "by",
+   "start": 36.9,
+   "end": 37.18,
+   "prob": 0.997
+  },
+  {
+   "word": "little",
+   "start": 37.18,
+   "end": 37.5,
+   "prob": 0.998
+  },
+  {
+   "word": "I",
+   "start": 37.5,
+   "end": 37.78,
+   "prob": 0.918
+  },
+  {
+   "word": "learned",
+   "start": 37.78,
+   "end": 38.1,
+   "prob": 0.941
+  },
+  {
+   "word": "the",
+   "start": 38.1,
+   "end": 38.32,
+   "prob": 0.993
+  },
+  {
+   "word": "sound",
+   "start": 38.32,
+   "end": 38.6,
+   "prob": 0.988
+  },
+  {
+   "word": "Nobody",
+   "start": 38.6,
+   "end": 39.28,
+   "prob": 0.826
+  },
+  {
+   "word": "noticing,",
+   "start": 39.28,
+   "end": 40.24,
+   "prob": 0.979
+  },
+  {
+   "word": "fine",
+   "start": 40.24,
+   "end": 41.24,
+   "prob": 0.575
+  },
+  {
+   "word": "by",
+   "start": 41.24,
+   "end": 41.7,
+   "prob": 0.962
+  },
+  {
+   "word": "me,",
+   "start": 41.7,
+   "end": 42.54,
+   "prob": 0.985
+  },
+  {
+   "word": "I",
+   "start": 42.9,
+   "end": 43.66,
+   "prob": 0.986
+  },
+  {
+   "word": "built",
+   "start": 43.66,
+   "end": 43.96,
+   "prob": 0.717
+  },
+  {
+   "word": "my",
+   "start": 43.96,
+   "end": 44.24,
+   "prob": 0.997
+  },
+  {
+   "word": "kingdom",
+   "start": 44.24,
+   "end": 45.04,
+   "prob": 0.974
+  },
+  {
+   "word": "quietly",
+   "start": 45.04,
+   "end": 46.2,
+   "prob": 0.929
+  },
+  {
+   "word": "I'm",
+   "start": 47.02,
+   "end": 47.62,
+   "prob": 0.882
+  },
+  {
+   "word": "the",
+   "start": 47.62,
+   "end": 47.76,
+   "prob": 0.982
+  },
+  {
+   "word": "nobody",
+   "start": 47.76,
+   "end": 48.5,
+   "prob": 0.782
+  },
+  {
+   "word": "man,",
+   "start": 48.5,
+   "end": 49.06,
+   "prob": 0.88
+  },
+  {
+   "word": "still",
+   "start": 49.4,
+   "end": 49.86,
+   "prob": 0.866
+  },
+  {
+   "word": "here,",
+   "start": 49.86,
+   "end": 50.26,
+   "prob": 0.993
+  },
+  {
+   "word": "still",
+   "start": 50.5,
+   "end": 50.72,
+   "prob": 0.979
+  },
+  {
+   "word": "stand,",
+   "start": 50.72,
+   "end": 51.46,
+   "prob": 0.866
+  },
+  {
+   "word": "I",
+   "start": 51.76,
+   "end": 51.94,
+   "prob": 0.94
+  },
+  {
+   "word": "post,",
+   "start": 51.94,
+   "end": 52.22,
+   "prob": 0.71
+  },
+  {
+   "word": "I",
+   "start": 52.38,
+   "end": 52.46,
+   "prob": 0.996
+  },
+  {
+   "word": "fade,",
+   "start": 52.46,
+   "end": 52.86,
+   "prob": 0.975
+  },
+  {
+   "word": "I",
+   "start": 53.02,
+   "end": 53.08,
+   "prob": 0.999
+  },
+  {
+   "word": "post",
+   "start": 53.08,
+   "end": 53.42,
+   "prob": 0.965
+  },
+  {
+   "word": "again",
+   "start": 53.42,
+   "end": 53.82,
+   "prob": 0.972
+  },
+  {
+   "word": "I'm",
+   "start": 53.82,
+   "end": 54.62,
+   "prob": 0.133
+  },
+  {
+   "word": "the",
+   "start": 54.62,
+   "end": 54.8,
+   "prob": 0.535
+  },
+  {
+   "word": "nobody",
+   "start": 54.8,
+   "end": 55.32,
+   "prob": 0.646
+  },
+  {
+   "word": "man,",
+   "start": 55.32,
+   "end": 56.18,
+   "prob": 0.829
+  },
+  {
+   "word": "I",
+   "start": 56.18,
+   "end": 56.6,
+   "prob": 0.314
+  },
+  {
+   "word": "got",
+   "start": 56.6,
+   "end": 56.88,
+   "prob": 0.68
+  },
+  {
+   "word": "a",
+   "start": 56.88,
+   "end": 57.18,
+   "prob": 0.891
+  },
+  {
+   "word": "thousand",
+   "start": 57.18,
+   "end": 57.62,
+   "prob": 0.932
+  },
+  {
+   "word": "little",
+   "start": 57.62,
+   "end": 58.16,
+   "prob": 0.923
+  },
+  {
+   "word": "spots",
+   "start": 58.16,
+   "end": 58.56,
+   "prob": 0.356
+  },
+  {
+   "word": "Flipping",
+   "start": 59.34,
+   "end": 60.06,
+   "prob": 0.612
+  },
+  {
+   "word": "in",
+   "start": 60.06,
+   "end": 60.42,
+   "prob": 0.932
+  },
+  {
+   "word": "the",
+   "start": 60.42,
+   "end": 60.6,
+   "prob": 0.944
+  },
+  {
+   "word": "dark,",
+   "start": 60.6,
+   "end": 61.2,
+   "prob": 0.995
+  },
+  {
+   "word": "I'm",
+   "start": 61.46,
+   "end": 61.74,
+   "prob": 0.987
+  },
+  {
+   "word": "the",
+   "start": 61.74,
+   "end": 61.88,
+   "prob": 0.995
+  },
+  {
+   "word": "nobody",
+   "start": 61.88,
+   "end": 62.68,
+   "prob": 0.96
+  },
+  {
+   "word": "man,",
+   "start": 62.68,
+   "end": 63.72,
+   "prob": 0.996
+  },
+  {
+   "word": "nobody",
+   "start": 63.72,
+   "end": 64.9,
+   "prob": 0.799
+  },
+  {
+   "word": "man,",
+   "start": 64.9,
+   "end": 66.26,
+   "prob": 0.99
+  },
+  {
+   "word": "nobody",
+   "start": 66.26,
+   "end": 66.98,
+   "prob": 0.744
+  },
+  {
+   "word": "man",
+   "start": 66.98,
+   "end": 67.8,
+   "prob": 0.691
+  },
+  {
+   "word": "Nobody",
+   "start": 67.8,
+   "end": 67.8,
+   "prob": 0.118
+  },
+  {
+   "word": "man,",
+   "start": 67.8,
+   "end": 67.92,
+   "prob": 0.763
+  },
+  {
+   "word": "nobody",
+   "start": 68.16,
+   "end": 68.86,
+   "prob": 0.654
+  },
+  {
+   "word": "man,",
+   "start": 68.86,
+   "end": 71.9,
+   "prob": 0.971
+  },
+  {
+   "word": "nobody",
+   "start": 71.9,
+   "end": 71.92,
+   "prob": 0.766
+  },
+  {
+   "word": "man,",
+   "start": 71.92,
+   "end": 71.92,
+   "prob": 0.984
+  },
+  {
+   "word": "nobody",
+   "start": 71.92,
+   "end": 72.34,
+   "prob": 0.733
+  },
+  {
+   "word": "man",
+   "start": 72.34,
+   "end": 75.84,
+   "prob": 0.986
+  },
+  {
+   "word": "I",
+   "start": 75.84,
+   "end": 76.38,
+   "prob": 0.558
+  },
+  {
+   "word": "got",
+   "start": 76.38,
+   "end": 76.62,
+   "prob": 0.942
+  },
+  {
+   "word": "drafts",
+   "start": 76.62,
+   "end": 77.08,
+   "prob": 0.857
+  },
+  {
+   "word": "in",
+   "start": 77.08,
+   "end": 77.16,
+   "prob": 0.841
+  },
+  {
+   "word": "the",
+   "start": 77.16,
+   "end": 77.28,
+   "prob": 0.983
+  },
+  {
+   "word": "drawer",
+   "start": 77.28,
+   "end": 77.52,
+   "prob": 0.693
+  },
+  {
+   "word": "like",
+   "start": 77.52,
+   "end": 77.78,
+   "prob": 0.798
+  },
+  {
+   "word": "coins,",
+   "start": 77.78,
+   "end": 78.38,
+   "prob": 0.986
+  },
+  {
+   "word": "half",
+   "start": 78.5,
+   "end": 78.72,
+   "prob": 0.857
+  },
+  {
+   "word": "-made",
+   "start": 78.72,
+   "end": 78.92,
+   "prob": 0.474
+  },
+  {
+   "word": "thoughts",
+   "start": 78.92,
+   "end": 79.28,
+   "prob": 0.432
+  },
+  {
+   "word": "in",
+   "start": 79.28,
+   "end": 79.5,
+   "prob": 0.369
+  },
+  {
+   "word": "a",
+   "start": 79.5,
+   "end": 79.64,
+   "prob": 0.955
+  },
+  {
+   "word": "stack",
+   "start": 79.64,
+   "end": 79.84,
+   "prob": 0.861
+  },
+  {
+   "word": "of",
+   "start": 79.84,
+   "end": 80.08,
+   "prob": 0.964
+  },
+  {
+   "word": "joints",
+   "start": 80.08,
+   "end": 80.58,
+   "prob": 0.683
+  },
+  {
+   "word": "Tiny",
+   "start": 80.58,
+   "end": 81.2,
+   "prob": 0.056
+  },
+  {
+   "word": "wins",
+   "start": 81.2,
+   "end": 81.56,
+   "prob": 0.595
+  },
+  {
+   "word": "in",
+   "start": 81.56,
+   "end": 81.88,
+   "prob": 0.873
+  },
+  {
+   "word": "a",
+   "start": 81.88,
+   "end": 82.02,
+   "prob": 0.784
+  },
+  {
+   "word": "lonely",
+   "start": 82.02,
+   "end": 82.34,
+   "prob": 0.812
+  },
+  {
+   "word": "room,",
+   "start": 82.34,
+   "end": 82.88,
+   "prob": 0.951
+  },
+  {
+   "word": "one",
+   "start": 82.94,
+   "end": 83.34,
+   "prob": 0.754
+  },
+  {
+   "word": "more",
+   "start": 83.34,
+   "end": 83.66,
+   "prob": 0.992
+  },
+  {
+   "word": "clip",
+   "start": 83.66,
+   "end": 83.94,
+   "prob": 0.907
+  },
+  {
+   "word": "and",
+   "start": 83.94,
+   "end": 84.26,
+   "prob": 0.86
+  },
+  {
+   "word": "one",
+   "start": 84.26,
+   "end": 84.52,
+   "prob": 0.988
+  },
+  {
+   "word": "more",
+   "start": 84.52,
+   "end": 84.86,
+   "prob": 0.993
+  },
+  {
+   "word": "zoom",
+   "start": 84.86,
+   "end": 85.18,
+   "prob": 0.54
+  },
+  {
+   "word": "Everybody",
+   "start": 85.18,
+   "end": 85.94,
+   "prob": 0.286
+  },
+  {
+   "word": "chasing",
+   "start": 85.94,
+   "end": 86.36,
+   "prob": 0.67
+  },
+  {
+   "word": "that",
+   "start": 86.36,
+   "end": 86.64,
+   "prob": 0.896
+  },
+  {
+   "word": "giant",
+   "start": 86.64,
+   "end": 87.08,
+   "prob": 0.961
+  },
+  {
+   "word": "shout,",
+   "start": 87.08,
+   "end": 87.5,
+   "prob": 0.785
+  },
+  {
+   "word": "I",
+   "start": 87.66,
+   "end": 87.86,
+   "prob": 0.83
+  },
+  {
+   "word": "got",
+   "start": 87.86,
+   "end": 88.0,
+   "prob": 0.97
+  },
+  {
+   "word": "a",
+   "start": 88.0,
+   "end": 88.12,
+   "prob": 0.995
+  },
+  {
+   "word": "small",
+   "start": 88.12,
+   "end": 88.36,
+   "prob": 0.996
+  },
+  {
+   "word": "flame",
+   "start": 88.36,
+   "end": 88.68,
+   "prob": 0.974
+  },
+  {
+   "word": "I",
+   "start": 88.68,
+   "end": 88.98,
+   "prob": 0.786
+  },
+  {
+   "word": "won't",
+   "start": 88.98,
+   "end": 89.32,
+   "prob": 0.962
+  },
+  {
+   "word": "put",
+   "start": 89.32,
+   "end": 89.5,
+   "prob": 0.994
+  },
+  {
+   "word": "out",
+   "start": 89.5,
+   "end": 89.92,
+   "prob": 0.993
+  },
+  {
+   "word": "I",
+   "start": 89.92,
+   "end": 90.16,
+   "prob": 0.328
+  },
+  {
+   "word": "kept",
+   "start": 90.16,
+   "end": 91.18,
+   "prob": 0.839
+  },
+  {
+   "word": "clicking,",
+   "start": 91.18,
+   "end": 91.62,
+   "prob": 0.883
+  },
+  {
+   "word": "kept",
+   "start": 91.78,
+   "end": 91.84,
+   "prob": 0.994
+  },
+  {
+   "word": "sticking",
+   "start": 91.84,
+   "end": 92.14,
+   "prob": 0.974
+  },
+  {
+   "word": "around,",
+   "start": 92.14,
+   "end": 92.74,
+   "prob": 0.995
+  },
+  {
+   "word": "little",
+   "start": 93.08,
+   "end": 93.38,
+   "prob": 0.879
+  },
+  {
+   "word": "by",
+   "start": 93.38,
+   "end": 93.64,
+   "prob": 0.997
+  },
+  {
+   "word": "little",
+   "start": 93.64,
+   "end": 93.98,
+   "prob": 0.998
+  },
+  {
+   "word": "I",
+   "start": 93.98,
+   "end": 94.28,
+   "prob": 0.909
+  },
+  {
+   "word": "learned",
+   "start": 94.28,
+   "end": 94.6,
+   "prob": 0.937
+  },
+  {
+   "word": "the",
+   "start": 94.6,
+   "end": 94.82,
+   "prob": 0.886
+  },
+  {
+   "word": "sound",
+   "start": 94.82,
+   "end": 95.2,
+   "prob": 0.985
+  },
+  {
+   "word": "No",
+   "start": 95.2,
+   "end": 95.64,
+   "prob": 0.843
+  },
+  {
+   "word": "one",
+   "start": 95.64,
+   "end": 95.96,
+   "prob": 0.942
+  },
+  {
+   "word": "crowned",
+   "start": 95.96,
+   "end": 96.88,
+   "prob": 0.906
+  },
+  {
+   "word": "me,",
+   "start": 96.88,
+   "end": 97.14,
+   "prob": 0.959
+  },
+  {
+   "word": "no",
+   "start": 97.58,
+   "end": 97.96,
+   "prob": 0.952
+  },
+  {
+   "word": "one",
+   "start": 97.96,
+   "end": 98.38,
+   "prob": 0.986
+  },
+  {
+   "word": "had",
+   "start": 98.38,
+   "end": 98.9,
+   "prob": 0.994
+  },
+  {
+   "word": "to,",
+   "start": 98.9,
+   "end": 99.36,
+   "prob": 0.988
+  },
+  {
+   "word": "I",
+   "start": 99.82,
+   "end": 100.14,
+   "prob": 0.993
+  },
+  {
+   "word": "made",
+   "start": 100.14,
+   "end": 100.44,
+   "prob": 0.989
+  },
+  {
+   "word": "this",
+   "start": 100.44,
+   "end": 100.72,
+   "prob": 0.997
+  },
+  {
+   "word": "mess",
+   "start": 100.72,
+   "end": 101.12,
+   "prob": 0.997
+  },
+  {
+   "word": "on",
+   "start": 101.12,
+   "end": 101.86,
+   "prob": 0.817
+  },
+  {
+   "word": "purpose",
+   "start": 101.86,
+   "end": 102.62,
+   "prob": 0.986
+  },
+  {
+   "word": "too",
+   "start": 102.62,
+   "end": 103.36,
+   "prob": 0.856
+  },
+  {
+   "word": "I'm",
+   "start": 103.36,
+   "end": 104.08,
+   "prob": 0.518
+  },
+  {
+   "word": "the",
+   "start": 104.08,
+   "end": 104.24,
+   "prob": 0.932
+  },
+  {
+   "word": "nobody",
+   "start": 104.24,
+   "end": 104.72,
+   "prob": 0.705
+  },
+  {
+   "word": "man,",
+   "start": 104.72,
+   "end": 105.5,
+   "prob": 0.913
+  },
+  {
+   "word": "still",
+   "start": 105.5,
+   "end": 106.36,
+   "prob": 0.509
+  },
+  {
+   "word": "here,",
+   "start": 106.36,
+   "end": 106.72,
+   "prob": 0.9
+  },
+  {
+   "word": "still",
+   "start": 106.98,
+   "end": 107.24,
+   "prob": 0.97
+  },
+  {
+   "word": "stand,",
+   "start": 107.24,
+   "end": 107.88,
+   "prob": 0.523
+  },
+  {
+   "word": "I",
+   "start": 108.28,
+   "end": 108.36,
+   "prob": 0.907
+  },
+  {
+   "word": "post,",
+   "start": 108.36,
+   "end": 108.68,
+   "prob": 0.808
+  },
+  {
+   "word": "I",
+   "start": 108.84,
+   "end": 108.92,
+   "prob": 0.994
+  },
+  {
+   "word": "fade,",
+   "start": 108.92,
+   "end": 109.32,
+   "prob": 0.98
+  },
+  {
+   "word": "I",
+   "start": 109.48,
+   "end": 109.54,
+   "prob": 0.997
+  },
+  {
+   "word": "post",
+   "start": 109.54,
+   "end": 109.9,
+   "prob": 0.986
+  },
+  {
+   "word": "again",
+   "start": 109.9,
+   "end": 110.36,
+   "prob": 0.941
+  },
+  {
+   "word": "I'm",
+   "start": 110.36,
+   "end": 111.12,
+   "prob": 0.642
+  },
+  {
+   "word": "the",
+   "start": 111.12,
+   "end": 111.26,
+   "prob": 0.996
+  },
+  {
+   "word": "nobody",
+   "start": 111.26,
+   "end": 111.78,
+   "prob": 0.967
+  },
+  {
+   "word": "man,",
+   "start": 111.78,
+   "end": 112.76,
+   "prob": 0.995
+  },
+  {
+   "word": "I",
+   "start": 112.86,
+   "end": 113.18,
+   "prob": 0.975
+  },
+  {
+   "word": "got",
+   "start": 113.18,
+   "end": 113.4,
+   "prob": 0.863
+  },
+  {
+   "word": "a",
+   "start": 113.4,
+   "end": 113.64,
+   "prob": 0.922
+  },
+  {
+   "word": "thousand",
+   "start": 113.64,
+   "end": 114.12,
+   "prob": 0.96
+  },
+  {
+   "word": "little",
+   "start": 114.12,
+   "end": 114.62,
+   "prob": 0.922
+  },
+  {
+   "word": "spots",
+   "start": 114.62,
+   "end": 115.42,
+   "prob": 0.005
+  },
+  {
+   "word": "Flipping",
+   "start": 115.42,
+   "end": 116.44,
+   "prob": 0.559
+  },
+  {
+   "word": "in",
+   "start": 116.44,
+   "end": 116.88,
+   "prob": 0.989
+  },
+  {
+   "word": "the",
+   "start": 116.88,
+   "end": 117.08,
+   "prob": 0.998
+  },
+  {
+   "word": "dark,",
+   "start": 117.08,
+   "end": 117.76,
+   "prob": 0.998
+  },
+  {
+   "word": "I'm",
+   "start": 117.86,
+   "end": 118.22,
+   "prob": 0.996
+  },
+  {
+   "word": "the",
+   "start": 118.22,
+   "end": 118.36,
+   "prob": 0.998
+  },
+  {
+   "word": "nobody",
+   "start": 118.36,
+   "end": 118.88,
+   "prob": 0.985
+  },
+  {
+   "word": "man,",
+   "start": 118.88,
+   "end": 120.32,
+   "prob": 0.997
+  },
+  {
+   "word": "nobody",
+   "start": 120.32,
+   "end": 121.3,
+   "prob": 0.908
+  },
+  {
+   "word": "man",
+   "start": 121.3,
+   "end": 123.26,
+   "prob": 0.984
+  },
+  {
+   "word": "Call",
+   "start": 123.26,
+   "end": 124.1,
+   "prob": 0.348
+  },
+  {
+   "word": "me",
+   "start": 124.1,
+   "end": 124.84,
+   "prob": 0.998
+  },
+  {
+   "word": "lost,",
+   "start": 124.84,
+   "end": 125.34,
+   "prob": 0.876
+  },
+  {
+   "word": "call",
+   "start": 125.66,
+   "end": 125.74,
+   "prob": 0.977
+  },
+  {
+   "word": "me",
+   "start": 125.74,
+   "end": 125.98,
+   "prob": 0.998
+  },
+  {
+   "word": "late,",
+   "start": 125.98,
+   "end": 126.28,
+   "prob": 0.988
+  },
+  {
+   "word": "call",
+   "start": 126.46,
+   "end": 126.54,
+   "prob": 0.633
+  },
+  {
+   "word": "me",
+   "start": 126.54,
+   "end": 126.76,
+   "prob": 0.996
+  },
+  {
+   "word": "anything",
+   "start": 126.76,
+   "end": 127.0,
+   "prob": 0.988
+  },
+  {
+   "word": "you",
+   "start": 127.0,
+   "end": 127.32,
+   "prob": 0.986
+  },
+  {
+   "word": "wanna",
+   "start": 127.32,
+   "end": 127.62,
+   "prob": 0.746
+  },
+  {
+   "word": "say",
+   "start": 127.62,
+   "end": 128.1,
+   "prob": 0.996
+  },
+  {
+   "word": "I",
+   "start": 128.1,
+   "end": 128.78,
+   "prob": 0.325
+  },
+  {
+   "word": "got",
+   "start": 128.78,
+   "end": 128.96,
+   "prob": 0.775
+  },
+  {
+   "word": "roots",
+   "start": 128.96,
+   "end": 129.26,
+   "prob": 0.861
+  },
+  {
+   "word": "in",
+   "start": 129.26,
+   "end": 129.52,
+   "prob": 0.967
+  },
+  {
+   "word": "the",
+   "start": 129.52,
+   "end": 129.7,
+   "prob": 0.988
+  },
+  {
+   "word": "endless",
+   "start": 129.7,
+   "end": 130.0,
+   "prob": 0.991
+  },
+  {
+   "word": "feed",
+   "start": 130.0,
+   "end": 130.46,
+   "prob": 0.693
+  },
+  {
+   "word": "and",
+   "start": 130.46,
+   "end": 130.8,
+   "prob": 0.665
+  },
+  {
+   "word": "every",
+   "start": 130.8,
+   "end": 131.14,
+   "prob": 0.954
+  },
+  {
+   "word": "scar",
+   "start": 131.14,
+   "end": 131.48,
+   "prob": 0.978
+  },
+  {
+   "word": "is",
+   "start": 131.48,
+   "end": 131.88,
+   "prob": 0.928
+  },
+  {
+   "word": "a",
+   "start": 131.88,
+   "end": 132.0,
+   "prob": 0.734
+  },
+  {
+   "word": "same",
+   "start": 132.0,
+   "end": 132.28,
+   "prob": 0.474
+  },
+  {
+   "word": "receipt",
+   "start": 132.28,
+   "end": 132.58,
+   "prob": 0.908
+  },
+  {
+   "word": "If",
+   "start": 132.58,
+   "end": 133.18,
+   "prob": 0.158
+  },
+  {
+   "word": "fame",
+   "start": 133.18,
+   "end": 133.44,
+   "prob": 0.497
+  },
+  {
+   "word": "won't",
+   "start": 133.44,
+   "end": 133.7,
+   "prob": 0.981
+  },
+  {
+   "word": "call,",
+   "start": 133.7,
+   "end": 134.14,
+   "prob": 0.881
+  },
+  {
+   "word": "then",
+   "start": 134.42,
+   "end": 134.72,
+   "prob": 0.954
+  },
+  {
+   "word": "let",
+   "start": 134.72,
+   "end": 135.3,
+   "prob": 0.992
+  },
+  {
+   "word": "it",
+   "start": 135.3,
+   "end": 135.66,
+   "prob": 0.996
+  },
+  {
+   "word": "pass",
+   "start": 135.66,
+   "end": 137.02,
+   "prob": 0.995
+  },
+  {
+   "word": "I'm",
+   "start": 137.02,
+   "end": 138.18,
+   "prob": 0.886
+  },
+  {
+   "word": "the",
+   "start": 138.18,
+   "end": 138.34,
+   "prob": 0.987
+  },
+  {
+   "word": "joke",
+   "start": 138.34,
+   "end": 138.88,
+   "prob": 0.701
+  },
+  {
+   "word": "that",
+   "start": 138.88,
+   "end": 139.46,
+   "prob": 0.975
+  },
+  {
+   "word": "lessen",
+   "start": 139.46,
+   "end": 140.44,
+   "prob": 0.56
+  },
+  {
+   "word": "land",
+   "start": 140.44,
+   "end": 141.44,
+   "prob": 0.449
+  },
+  {
+   "word": "I'm",
+   "start": 143.4,
+   "end": 144.08,
+   "prob": 0.842
+  },
+  {
+   "word": "the",
+   "start": 144.08,
+   "end": 144.24,
+   "prob": 0.989
+  },
+  {
+   "word": "nobody",
+   "start": 144.24,
+   "end": 144.7,
+   "prob": 0.762
+  },
+  {
+   "word": "man,",
+   "start": 144.7,
+   "end": 145.52,
+   "prob": 0.952
+  },
+  {
+   "word": "still",
+   "start": 145.52,
+   "end": 146.26,
+   "prob": 0.777
+  },
+  {
+   "word": "here,",
+   "start": 146.26,
+   "end": 146.76,
+   "prob": 0.936
+  },
+  {
+   "word": "still",
+   "start": 147.0,
+   "end": 147.2,
+   "prob": 0.99
+  },
+  {
+   "word": "stand,",
+   "start": 147.2,
+   "end": 147.92,
+   "prob": 0.859
+  },
+  {
+   "word": "I",
+   "start": 148.24,
+   "end": 148.4,
+   "prob": 0.86
+  },
+  {
+   "word": "post,",
+   "start": 148.4,
+   "end": 148.68,
+   "prob": 0.879
+  },
+  {
+   "word": "I",
+   "start": 148.92,
+   "end": 148.92,
+   "prob": 0.995
+  },
+  {
+   "word": "fade,",
+   "start": 148.92,
+   "end": 149.36,
+   "prob": 0.989
+  },
+  {
+   "word": "I",
+   "start": 149.46,
+   "end": 149.56,
+   "prob": 0.998
+  },
+  {
+   "word": "post",
+   "start": 149.56,
+   "end": 149.9,
+   "prob": 0.987
+  },
+  {
+   "word": "again",
+   "start": 149.9,
+   "end": 150.38,
+   "prob": 0.959
+  },
+  {
+   "word": "I'm",
+   "start": 150.38,
+   "end": 151.1,
+   "prob": 0.928
+  },
+  {
+   "word": "the",
+   "start": 151.1,
+   "end": 151.24,
+   "prob": 0.997
+  },
+  {
+   "word": "nobody",
+   "start": 151.24,
+   "end": 151.88,
+   "prob": 0.983
+  },
+  {
+   "word": "man,",
+   "start": 151.88,
+   "end": 152.68,
+   "prob": 0.994
+  },
+  {
+   "word": "I",
+   "start": 152.88,
+   "end": 153.16,
+   "prob": 0.987
+  },
+  {
+   "word": "got",
+   "start": 153.16,
+   "end": 153.36,
+   "prob": 0.945
+  },
+  {
+   "word": "a",
+   "start": 153.36,
+   "end": 153.62,
+   "prob": 0.918
+  },
+  {
+   "word": "thousand",
+   "start": 153.62,
+   "end": 154.1,
+   "prob": 0.987
+  },
+  {
+   "word": "little",
+   "start": 154.1,
+   "end": 154.6,
+   "prob": 0.991
+  },
+  {
+   "word": "spots",
+   "start": 154.6,
+   "end": 155.4,
+   "prob": 0.001
+  },
+  {
+   "word": "Flipping",
+   "start": 155.4,
+   "end": 156.58,
+   "prob": 0.459
+  },
+  {
+   "word": "in",
+   "start": 156.58,
+   "end": 156.9,
+   "prob": 0.993
+  },
+  {
+   "word": "the",
+   "start": 156.9,
+   "end": 157.06,
+   "prob": 0.999
+  },
+  {
+   "word": "dark,",
+   "start": 157.06,
+   "end": 157.82,
+   "prob": 0.997
+  },
+  {
+   "word": "I'm",
+   "start": 157.84,
+   "end": 158.2,
+   "prob": 0.969
+  },
+  {
+   "word": "the",
+   "start": 158.2,
+   "end": 158.36,
+   "prob": 0.937
+  },
+  {
+   "word": "nobody",
+   "start": 158.36,
+   "end": 159.12,
+   "prob": 0.79
+  },
+  {
+   "word": "man,",
+   "start": 159.12,
+   "end": 159.7,
+   "prob": 0.982
+  },
+  {
+   "word": "nobody",
+   "start": 160.02,
+   "end": 161.32,
+   "prob": 0.869
+  },
+  {
+   "word": "man",
+   "start": 161.32,
+   "end": 162.36,
+   "prob": 0.99
+  },
+  {
+   "word": "I'm",
+   "start": 164.16,
+   "end": 165.28,
+   "prob": 0.766
+  },
+  {
+   "word": "the",
+   "start": 165.28,
+   "end": 165.44,
+   "prob": 0.996
+  },
+  {
+   "word": "nobody",
+   "start": 165.44,
+   "end": 166.2,
+   "prob": 0.989
+  },
+  {
+   "word": "man,",
+   "start": 166.2,
+   "end": 168.16,
+   "prob": 0.991
+  },
+  {
+   "word": "can't",
+   "start": 168.16,
+   "end": 169.66,
+   "prob": 0.584
+  },
+  {
+   "word": "turn",
+   "start": 169.66,
+   "end": 169.92,
+   "prob": 0.96
+  },
+  {
+   "word": "the",
+   "start": 169.92,
+   "end": 170.1,
+   "prob": 0.874
+  },
+  {
+   "word": "small",
+   "start": 170.1,
+   "end": 170.6,
+   "prob": 0.994
+  },
+  {
+   "word": "things",
+   "start": 170.6,
+   "end": 171.2,
+   "prob": 0.978
+  },
+  {
+   "word": "cray",
+   "start": 171.2,
+   "end": 171.74,
+   "prob": 0.133
+  },
+  {
+   "word": "I'm",
+   "start": 173.3,
+   "end": 174.7,
+   "prob": 0.566
+  },
+  {
+   "word": "the",
+   "start": 174.7,
+   "end": 174.84,
+   "prob": 0.504
+  },
+  {
+   "word": "nobody",
+   "start": 174.84,
+   "end": 175.56,
+   "prob": 0.837
+  },
+  {
+   "word": "man,",
+   "start": 175.56,
+   "end": 176.26,
+   "prob": 0.984
+  },
+  {
+   "word": "nobody",
+   "start": 176.26,
+   "end": 180.18,
+   "prob": 0.92
+  },
+  {
+   "word": "man,",
+   "start": 180.18,
+   "end": 181.4,
+   "prob": 0.992
+  },
+  {
+   "word": "nobody",
+   "start": 181.44,
+   "end": 182.38,
+   "prob": 0.976
+  },
+  {
+   "word": "man",
+   "start": 182.38,
+   "end": 183.24,
+   "prob": 0.988
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 18.74,
+   "text": "I'm the nobody man, nobody man, nobody man, nobody man, nobody man, nobody man, nobody man"
+  },
+  {
+   "start": 19.58,
+   "end": 24.62,
+   "text": "I got a profile, got a pile, got a thousand posts in a folder file"
+  },
+  {
+   "start": 24.62,
+   "end": 29.42,
+   "text": "Old meme face in a busted grin been here so long I could sign back in"
+  },
+  {
+   "start": 29.42,
+   "end": 34.02,
+   "text": "I prayed a joke, got a quarter past eight, watched it sit there while I wait"
+  },
+  {
+   "start": 34.02,
+   "end": 38.6,
+   "text": "I kept clicking, kept sticking around, little by little I learned the sound"
+  },
+  {
+   "start": 38.6,
+   "end": 46.2,
+   "text": "Nobody noticing, fine by me, I built my kingdom quietly"
+  },
+  {
+   "start": 47.02,
+   "end": 53.82,
+   "text": "I'm the nobody man, still here, still stand, I post, I fade, I post again"
+  },
+  {
+   "start": 53.82,
+   "end": 58.56,
+   "text": "I'm the nobody man, I got a thousand little spots"
+  },
+  {
+   "start": 59.34,
+   "end": 67.8,
+   "text": "Flipping in the dark, I'm the nobody man, nobody man, nobody man"
+  },
+  {
+   "start": 67.8,
+   "end": 75.84,
+   "text": "Nobody man, nobody man, nobody man, nobody man"
+  },
+  {
+   "start": 75.84,
+   "end": 80.58,
+   "text": "I got drafts in the drawer like coins, half-made thoughts in a stack of joints"
+  },
+  {
+   "start": 80.58,
+   "end": 85.18,
+   "text": "Tiny wins in a lonely room, one more clip and one more zoom"
+  },
+  {
+   "start": 85.18,
+   "end": 89.92,
+   "text": "Everybody chasing that giant shout, I got a small flame I won't put out"
+  },
+  {
+   "start": 89.92,
+   "end": 95.2,
+   "text": "I kept clicking, kept sticking around, little by little I learned the sound"
+  },
+  {
+   "start": 95.2,
+   "end": 103.36,
+   "text": "No one crowned me, no one had to, I made this mess on purpose too"
+  },
+  {
+   "start": 103.36,
+   "end": 110.36,
+   "text": "I'm the nobody man, still here, still stand, I post, I fade, I post again"
+  },
+  {
+   "start": 110.36,
+   "end": 115.42,
+   "text": "I'm the nobody man, I got a thousand little spots"
+  },
+  {
+   "start": 115.42,
+   "end": 123.26,
+   "text": "Flipping in the dark, I'm the nobody man, nobody man"
+  },
+  {
+   "start": 123.26,
+   "end": 128.1,
+   "text": "Call me lost, call me late, call me anything you wanna say"
+  },
+  {
+   "start": 128.1,
+   "end": 132.58,
+   "text": "I got roots in the endless feed and every scar is a same receipt"
+  },
+  {
+   "start": 132.58,
+   "end": 137.02,
+   "text": "If fame won't call, then let it pass"
+  },
+  {
+   "start": 137.02,
+   "end": 141.44,
+   "text": "I'm the joke that lessen land"
+  },
+  {
+   "start": 143.4,
+   "end": 150.38,
+   "text": "I'm the nobody man, still here, still stand, I post, I fade, I post again"
+  },
+  {
+   "start": 150.38,
+   "end": 155.4,
+   "text": "I'm the nobody man, I got a thousand little spots"
+  },
+  {
+   "start": 155.4,
+   "end": 162.36,
+   "text": "Flipping in the dark, I'm the nobody man, nobody man"
+  },
+  {
+   "start": 164.16,
+   "end": 171.74,
+   "text": "I'm the nobody man, can't turn the small things cray"
+  },
+  {
+   "start": 173.3,
+   "end": 183.24,
+   "text": "I'm the nobody man, nobody man, nobody man"
+  }
+ ]
+}

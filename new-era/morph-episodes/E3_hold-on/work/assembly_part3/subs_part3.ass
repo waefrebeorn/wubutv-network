@@ -1,0 +1,84 @@
+[Script Info]
+Title: HOLD ON E3 Part 3 - Write His Name
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,34,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,-1,0,0,0,100,100,0,0,3,1,0,2,40,40,26,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.54,0:00:03.08,Default,,0,0,0,,{\1c&H00FFFF&}Dawn{\1c&HFFFFFF&} delivery.
+Dialogue: 0,0:00:03.08,0:00:03.48,Default,,0,0,0,,Dawn {\1c&H00FFFF&}delivery.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:03.48,0:00:06.34,Default,,0,0,0,,{\1c&H00FFFF&}Sign{\1c&HFFFFFF&} for the box, keeper.
+Dialogue: 0,0:00:06.34,0:00:06.60,Default,,0,0,0,,Sign {\1c&H00FFFF&}for{\1c&HFFFFFF&} the box, keeper.
+Dialogue: 0,0:00:06.60,0:00:06.68,Default,,0,0,0,,Sign for {\1c&H00FFFF&}the{\1c&HFFFFFF&} box, keeper.
+Dialogue: 0,0:00:06.68,0:00:06.90,Default,,0,0,0,,Sign for the {\1c&H00FFFF&}box,{\1c&HFFFFFF&} keeper.
+Dialogue: 0,0:00:06.90,0:00:07.20,Default,,0,0,0,,Sign for the box, {\1c&H00FFFF&}keeper.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:10.94,0:00:11.38,Default,,0,0,0,,{\1c&H00FFFF&}The{\1c&HFFFFFF&} wall says the street said no.
+Dialogue: 0,0:00:11.38,0:00:11.48,Default,,0,0,0,,The {\1c&H00FFFF&}wall{\1c&HFFFFFF&} says the street said no.
+Dialogue: 0,0:00:11.48,0:00:11.70,Default,,0,0,0,,The wall {\1c&H00FFFF&}says{\1c&HFFFFFF&} the street said no.
+Dialogue: 0,0:00:11.70,0:00:11.88,Default,,0,0,0,,The wall says {\1c&H00FFFF&}the{\1c&HFFFFFF&} street said no.
+Dialogue: 0,0:00:11.88,0:00:12.10,Default,,0,0,0,,The wall says the {\1c&H00FFFF&}street{\1c&HFFFFFF&} said no.
+Dialogue: 0,0:00:12.10,0:00:12.30,Default,,0,0,0,,The wall says the street {\1c&H00FFFF&}said{\1c&HFFFFFF&} no.
+Dialogue: 0,0:00:12.30,0:00:12.56,Default,,0,0,0,,The wall says the street said {\1c&H00FFFF&}no.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:14.57,0:00:15.01,Default,,0,0,0,,{\1c&H00FFFF&}The{\1c&HFFFFFF&} vote was last night.
+Dialogue: 0,0:00:15.01,0:00:15.21,Default,,0,0,0,,The {\1c&H00FFFF&}vote{\1c&HFFFFFF&} was last night.
+Dialogue: 0,0:00:15.21,0:00:15.37,Default,,0,0,0,,The vote {\1c&H00FFFF&}was{\1c&HFFFFFF&} last night.
+Dialogue: 0,0:00:15.37,0:00:15.57,Default,,0,0,0,,The vote was {\1c&H00FFFF&}last{\1c&HFFFFFF&} night.
+Dialogue: 0,0:00:15.57,0:00:15.87,Default,,0,0,0,,The vote was last {\1c&H00FFFF&}night.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:17.19,0:00:17.63,Default,,0,0,0,,{\1c&H00FFFF&}Who{\1c&HFFFFFF&} held the chalk last?
+Dialogue: 0,0:00:17.63,0:00:17.95,Default,,0,0,0,,Who {\1c&H00FFFF&}held{\1c&HFFFFFF&} the chalk last?
+Dialogue: 0,0:00:17.95,0:00:18.09,Default,,0,0,0,,Who held {\1c&H00FFFF&}the{\1c&HFFFFFF&} chalk last?
+Dialogue: 0,0:00:18.09,0:00:18.35,Default,,0,0,0,,Who held the {\1c&H00FFFF&}chalk{\1c&HFFFFFF&} last?
+Dialogue: 0,0:00:18.35,0:00:18.65,Default,,0,0,0,,Who held the chalk {\1c&H00FFFF&}last?{\1c&HFFFFFF&}
+Dialogue: 0,0:00:22.38,0:00:22.98,Default,,0,0,0,,{\1c&H00FFFF&}Four{\1c&HFFFFFF&} hundred bells. Never dropped one.
+Dialogue: 0,0:00:22.98,0:00:23.52,Default,,0,0,0,,Four {\1c&H00FFFF&}hundred{\1c&HFFFFFF&} bells. Never dropped one.
+Dialogue: 0,0:00:23.52,0:00:24.58,Default,,0,0,0,,Four hundred {\1c&H00FFFF&}bells.{\1c&HFFFFFF&} Never dropped one.
+Dialogue: 0,0:00:24.58,0:00:25.18,Default,,0,0,0,,Four hundred bells. {\1c&H00FFFF&}Never{\1c&HFFFFFF&} dropped one.
+Dialogue: 0,0:00:25.18,0:00:25.46,Default,,0,0,0,,Four hundred bells. Never {\1c&H00FFFF&}dropped{\1c&HFFFFFF&} one.
+Dialogue: 0,0:00:25.46,0:00:25.72,Default,,0,0,0,,Four hundred bells. Never dropped {\1c&H00FFFF&}one.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:26.18,0:00:26.78,Default,,0,0,0,,{\1c&H00FFFF&}At{\1c&HFFFFFF&} dawn I was holding this box. Here.
+Dialogue: 0,0:00:26.78,0:00:27.14,Default,,0,0,0,,At {\1c&H00FFFF&}dawn{\1c&HFFFFFF&} I was holding this box. Here.
+Dialogue: 0,0:00:27.14,0:00:27.34,Default,,0,0,0,,At dawn {\1c&H00FFFF&}I{\1c&HFFFFFF&} was holding this box. Here.
+Dialogue: 0,0:00:27.34,0:00:27.50,Default,,0,0,0,,At dawn I {\1c&H00FFFF&}was{\1c&HFFFFFF&} holding this box. Here.
+Dialogue: 0,0:00:27.50,0:00:27.78,Default,,0,0,0,,At dawn I was {\1c&H00FFFF&}holding{\1c&HFFFFFF&} this box. Here.
+Dialogue: 0,0:00:27.78,0:00:28.02,Default,,0,0,0,,At dawn I was holding {\1c&H00FFFF&}this{\1c&HFFFFFF&} box. Here.
+Dialogue: 0,0:00:28.02,0:00:28.60,Default,,0,0,0,,At dawn I was holding this {\1c&H00FFFF&}box.{\1c&HFFFFFF&} Here.
+Dialogue: 0,0:00:28.60,0:00:29.20,Default,,0,0,0,,At dawn I was holding this box. {\1c&H00FFFF&}Here.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:30.14,0:00:30.58,Default,,0,0,0,,{\1c&H00FFFF&}Your{\1c&HFFFFFF&} sleeve's been holding chalk all morning.
+Dialogue: 0,0:00:30.58,0:00:30.88,Default,,0,0,0,,Your {\1c&H00FFFF&}sleeve's{\1c&HFFFFFF&} been holding chalk all morning.
+Dialogue: 0,0:00:30.88,0:00:31.06,Default,,0,0,0,,Your sleeve's {\1c&H00FFFF&}been{\1c&HFFFFFF&} holding chalk all morning.
+Dialogue: 0,0:00:31.06,0:00:31.38,Default,,0,0,0,,Your sleeve's been {\1c&H00FFFF&}holding{\1c&HFFFFFF&} chalk all morning.
+Dialogue: 0,0:00:31.38,0:00:31.68,Default,,0,0,0,,Your sleeve's been holding {\1c&H00FFFF&}chalk{\1c&HFFFFFF&} all morning.
+Dialogue: 0,0:00:31.68,0:00:31.94,Default,,0,0,0,,Your sleeve's been holding chalk {\1c&H00FFFF&}all{\1c&HFFFFFF&} morning.
+Dialogue: 0,0:00:31.94,0:00:32.28,Default,,0,0,0,,Your sleeve's been holding chalk all {\1c&H00FFFF&}morning.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:32.28,0:00:33.70,Default,,0,0,0,,{\1c&H00FFFF&}The{\1c&HFFFFFF&} street voted yes.
+Dialogue: 0,0:00:33.70,0:00:33.98,Default,,0,0,0,,The {\1c&H00FFFF&}street{\1c&HFFFFFF&} voted yes.
+Dialogue: 0,0:00:33.98,0:00:34.20,Default,,0,0,0,,The street {\1c&H00FFFF&}voted{\1c&HFFFFFF&} yes.
+Dialogue: 0,0:00:34.20,0:00:34.62,Default,,0,0,0,,The street voted {\1c&H00FFFF&}yes.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:36.60,0:00:37.18,Default,,0,0,0,,{\1c&H00FFFF&}You{\1c&HFFFFFF&} scraped their yes off the wall.
+Dialogue: 0,0:00:37.18,0:00:37.76,Default,,0,0,0,,You {\1c&H00FFFF&}scraped{\1c&HFFFFFF&} their yes off the wall.
+Dialogue: 0,0:00:37.76,0:00:37.82,Default,,0,0,0,,You scraped {\1c&H00FFFF&}their{\1c&HFFFFFF&} yes off the wall.
+Dialogue: 0,0:00:37.82,0:00:38.04,Default,,0,0,0,,You scraped their {\1c&H00FFFF&}yes{\1c&HFFFFFF&} off the wall.
+Dialogue: 0,0:00:38.04,0:00:38.26,Default,,0,0,0,,You scraped their yes {\1c&H00FFFF&}off{\1c&HFFFFFF&} the wall.
+Dialogue: 0,0:00:38.26,0:00:38.42,Default,,0,0,0,,You scraped their yes off {\1c&H00FFFF&}the{\1c&HFFFFFF&} wall.
+Dialogue: 0,0:00:38.42,0:00:38.62,Default,,0,0,0,,You scraped their yes off the {\1c&H00FFFF&}wall.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:43.63,0:00:44.13,Default,,0,0,0,,{\1c&H00FFFF&}Sign{\1c&HFFFFFF&} for the box, keeper.
+Dialogue: 0,0:00:44.13,0:00:44.31,Default,,0,0,0,,Sign {\1c&H00FFFF&}for{\1c&HFFFFFF&} the box, keeper.
+Dialogue: 0,0:00:44.31,0:00:44.39,Default,,0,0,0,,Sign for {\1c&H00FFFF&}the{\1c&HFFFFFF&} box, keeper.
+Dialogue: 0,0:00:44.39,0:00:44.57,Default,,0,0,0,,Sign for the {\1c&H00FFFF&}box,{\1c&HFFFFFF&} keeper.
+Dialogue: 0,0:00:44.57,0:00:44.93,Default,,0,0,0,,Sign for the box, {\1c&H00FFFF&}keeper.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:46.23,0:00:46.73,Default,,0,0,0,,{\1c&H00FFFF&}There's{\1c&HFFFFFF&} the vote. On your sleeve.
+Dialogue: 0,0:00:46.73,0:00:46.83,Default,,0,0,0,,There's {\1c&H00FFFF&}the{\1c&HFFFFFF&} vote. On your sleeve.
+Dialogue: 0,0:00:46.83,0:00:47.07,Default,,0,0,0,,There's the {\1c&H00FFFF&}vote.{\1c&HFFFFFF&} On your sleeve.
+Dialogue: 0,0:00:47.07,0:00:48.03,Default,,0,0,0,,There's the vote. {\1c&H00FFFF&}On{\1c&HFFFFFF&} your sleeve.
+Dialogue: 0,0:00:48.03,0:00:48.25,Default,,0,0,0,,There's the vote. On {\1c&H00FFFF&}your{\1c&HFFFFFF&} sleeve.
+Dialogue: 0,0:00:48.25,0:00:48.53,Default,,0,0,0,,There's the vote. On your {\1c&H00FFFF&}sleeve.{\1c&HFFFFFF&}
+Dialogue: 0,0:00:54.75,0:00:55.19,Default,,0,0,0,,{\1c&H00FFFF&}Your{\1c&HFFFFFF&} name's up, Watcher.
+Dialogue: 0,0:00:55.19,0:00:55.47,Default,,0,0,0,,Your {\1c&H00FFFF&}name's{\1c&HFFFFFF&} up, Watcher.
+Dialogue: 0,0:00:55.47,0:00:55.61,Default,,0,0,0,,Your name's {\1c&H00FFFF&}up,{\1c&HFFFFFF&} Watcher.
+Dialogue: 0,0:00:55.61,0:00:56.07,Default,,0,0,0,,Your name's up, {\1c&H00FFFF&}Watcher.{\1c&HFFFFFF&}

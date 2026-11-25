@@ -1,0 +1,91 @@
+{
+ "take": "takes/mv16_s05_t3.mp4",
+ "words": [
+  {
+   "w": "Belted",
+   "start": 0.0,
+   "end": 0.78,
+   "p": 0.775
+  },
+  {
+   "w": "the",
+   "start": 0.78,
+   "end": 1.04,
+   "p": 0.995
+  },
+  {
+   "w": "whole",
+   "start": 1.04,
+   "end": 1.62,
+   "p": 0.997
+  },
+  {
+   "w": "chorus",
+   "start": 1.62,
+   "end": 2.44,
+   "p": 0.981
+  },
+  {
+   "w": "in",
+   "start": 2.44,
+   "end": 2.96,
+   "p": 0.857
+  },
+  {
+   "w": "the",
+   "start": 2.96,
+   "end": 3.18,
+   "p": 0.997
+  },
+  {
+   "w": "car",
+   "start": 3.18,
+   "end": 3.8,
+   "p": 0.999
+  },
+  {
+   "w": "like",
+   "start": 3.8,
+   "end": 4.26,
+   "p": 0.83
+  },
+  {
+   "w": "I",
+   "start": 4.26,
+   "end": 4.58,
+   "p": 0.973
+  },
+  {
+   "w": "rode",
+   "start": 4.58,
+   "end": 5.02,
+   "p": 0.925
+  },
+  {
+   "w": "it",
+   "start": 5.02,
+   "end": 5.72,
+   "p": 0.997
+  },
+  {
+   "w": "Yeah",
+   "start": 6.94,
+   "end": 8.04,
+   "p": 0.275
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.72,
+   "text": "Belted the whole chorus in the car like I rode it",
+   "avg_logprob": -0.37
+  },
+  {
+   "start": 6.94,
+   "end": 8.04,
+   "text": "Yeah",
+   "avg_logprob": -0.37
+  }
+ ]
+}

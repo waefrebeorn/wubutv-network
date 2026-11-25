@@ -1,0 +1,14 @@
+{
+ "take": "S50", "alpha": 0.8023, "sr": 16000,
+ "guard_hard": 0.5, "guard_op": 0.7, "guard_on": true,
+ "out_len": 22080, "out_len_s": 1.380, "runtime_s": 0.212,
+ "hit_max_abs_diff": 0,
+ "hit_centre_err_s": [0.000, -0.000, 0.000, 0.000],
+ "gap_alphas": [0.333, 1.118, 1.148, 1.042],
+ "gaps": [
+  {"gap": 1, "kind": "inter", "alpha": 0.333, "in_s": [0.025, 0.655], "out_s": [0.025, 0.235], "flag": "hard", "word_idx": 0, "word": "keep"},
+  {"gap": 2, "kind": "inter", "alpha": 1.118, "in_s": [0.705, 0.875], "out_s": [0.285, 0.475], "flag": "none", "word_idx": 1, "word": "the"},
+  {"gap": 3, "kind": "inter", "alpha": 1.148, "in_s": [0.925, 1.195], "out_s": [0.525, 0.835], "flag": "none", "word_idx": 2, "word": "work"},
+  {"gap": 4, "kind": "tail", "alpha": 1.042, "in_s": [1.245, 1.720], "out_s": [0.885, 1.380], "flag": "none", "word_idx": 3, "word": "alive"}
+ ]
+}

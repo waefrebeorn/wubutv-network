@@ -1,0 +1,56 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s47-t1-0-e01ad392-dfec-494f-9cb4-232c95232730.mp4",
+ "segments": [
+  {
+   "start": 1.16,
+   "end": 2.82,
+   "text": "This is how you do it now.",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " This",
+     "start": 1.16,
+     "end": 1.56,
+     "probability": 0.848
+    },
+    {
+     "word": " is",
+     "start": 1.56,
+     "end": 1.96,
+     "probability": 0.919
+    },
+    {
+     "word": " how",
+     "start": 1.96,
+     "end": 2.1,
+     "probability": 0.925
+    },
+    {
+     "word": " you",
+     "start": 2.1,
+     "end": 2.26,
+     "probability": 0.997
+    },
+    {
+     "word": " do",
+     "start": 2.26,
+     "end": 2.4,
+     "probability": 0.996
+    },
+    {
+     "word": " it",
+     "start": 2.4,
+     "end": 2.56,
+     "probability": 0.999
+    },
+    {
+     "word": " now.",
+     "start": 2.56,
+     "end": 2.82,
+     "probability": 0.997
+    }
+   ]
+  }
+ ]
+}

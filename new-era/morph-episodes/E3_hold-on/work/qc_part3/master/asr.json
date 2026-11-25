@@ -1,0 +1,900 @@
+{
+ "file": "masters/E3_hold-on_part3_16x9.mp4",
+ "head_rms_0_1.7": 0.11187659204006195,
+ "ambient_rms_0_0.5": 0.10873371362686157,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.54,
+    "end": 3.48,
+    "text": "Dawn delivery",
+    "words": [
+     {
+      "w": " Dawn",
+      "start": 2.54,
+      "end": 3.0
+     },
+     {
+      "w": " delivery",
+      "start": 3.0,
+      "end": 3.48
+     }
+    ],
+    "seg_rms": 0.2079
+   },
+   {
+    "start": 5.7,
+    "end": 15.92,
+    "text": "Sign for the box keeper the wall says the street said no the vote was last night",
+    "words": [
+     {
+      "w": " Sign",
+      "start": 5.7,
+      "end": 6.3
+     },
+     {
+      "w": " for",
+      "start": 6.3,
+      "end": 6.6
+     },
+     {
+      "w": " the",
+      "start": 6.6,
+      "end": 6.7
+     },
+     {
+      "w": " box",
+      "start": 6.7,
+      "end": 6.92
+     },
+     {
+      "w": " keeper",
+      "start": 6.92,
+      "end": 7.22
+     },
+     {
+      "w": " the",
+      "start": 7.22,
+      "end": 8.14
+     },
+     {
+      "w": " wall",
+      "start": 11.18,
+      "end": 11.48
+     },
+     {
+      "w": " says",
+      "start": 11.48,
+      "end": 11.68
+     },
+     {
+      "w": " the",
+      "start": 11.68,
+      "end": 11.9
+     },
+     {
+      "w": " street",
+      "start": 11.9,
+      "end": 12.1
+     },
+     {
+      "w": " said",
+      "start": 12.1,
+      "end": 12.3
+     },
+     {
+      "w": " no",
+      "start": 12.3,
+      "end": 12.56
+     },
+     {
+      "w": " the",
+      "start": 12.56,
+      "end": 13.62
+     },
+     {
+      "w": " vote",
+      "start": 15.0,
+      "end": 15.18
+     },
+     {
+      "w": " was",
+      "start": 15.18,
+      "end": 15.38
+     },
+     {
+      "w": " last",
+      "start": 15.38,
+      "end": 15.56
+     },
+     {
+      "w": " night",
+      "start": 15.56,
+      "end": 15.92
+     }
+    ],
+    "seg_rms": 0.0997
+   },
+   {
+    "start": 17.04,
+    "end": 18.64,
+    "text": "Who held the chalk last?",
+    "words": [
+     {
+      "w": " Who",
+      "start": 17.04,
+      "end": 17.64
+     },
+     {
+      "w": " held",
+      "start": 17.64,
+      "end": 17.96
+     },
+     {
+      "w": " the",
+      "start": 17.96,
+      "end": 18.1
+     },
+     {
+      "w": " chalk",
+      "start": 18.1,
+      "end": 18.34
+     },
+     {
+      "w": " last?",
+      "start": 18.34,
+      "end": 18.64
+     }
+    ],
+    "seg_rms": 0.1468
+   },
+   {
+    "start": 22.95,
+    "end": 23.85,
+    "text": "400 bells",
+    "words": [
+     {
+      "w": " 400",
+      "start": 22.95,
+      "end": 23.25
+     },
+     {
+      "w": " bells",
+      "start": 23.25,
+      "end": 23.85
+     }
+    ],
+    "seg_rms": 0.194
+   },
+   {
+    "start": 24.57,
+    "end": 29.21,
+    "text": "Never dropped one at dawn. I was holding this box here",
+    "words": [
+     {
+      "w": " Never",
+      "start": 24.57,
+      "end": 25.17
+     },
+     {
+      "w": " dropped",
+      "start": 25.17,
+      "end": 25.47
+     },
+     {
+      "w": " one",
+      "start": 25.47,
+      "end": 25.73
+     },
+     {
+      "w": " at",
+      "start": 25.73,
+      "end": 26.75
+     },
+     {
+      "w": " dawn.",
+      "start": 26.75,
+      "end": 27.05
+     },
+     {
+      "w": " I",
+      "start": 27.21,
+      "end": 27.35
+     },
+     {
+      "w": " was",
+      "start": 27.35,
+      "end": 27.49
+     },
+     {
+      "w": " holding",
+      "start": 27.49,
+      "end": 27.79
+     },
+     {
+      "w": " this",
+      "start": 27.79,
+      "end": 28.01
+     },
+     {
+      "w": " box",
+      "start": 28.01,
+      "end": 28.29
+     },
+     {
+      "w": " here",
+      "start": 28.29,
+      "end": 29.21
+     }
+    ],
+    "seg_rms": 0.1242
+   },
+   {
+    "start": 29.21,
+    "end": 32.27,
+    "text": "Your sleeves been holding chalk all morning",
+    "words": [
+     {
+      "w": " Your",
+      "start": 29.21,
+      "end": 30.09
+     },
+     {
+      "w": " sleeves",
+      "start": 30.09,
+      "end": 30.87
+     },
+     {
+      "w": " been",
+      "start": 30.87,
+      "end": 31.05
+     },
+     {
+      "w": " holding",
+      "start": 31.05,
+      "end": 31.37
+     },
+     {
+      "w": " chalk",
+      "start": 31.37,
+      "end": 31.67
+     },
+     {
+      "w": " all",
+      "start": 31.67,
+      "end": 31.93
+     },
+     {
+      "w": " morning",
+      "start": 31.93,
+      "end": 32.27
+     }
+    ],
+    "seg_rms": 0.1545
+   },
+   {
+    "start": 33.09,
+    "end": 34.63,
+    "text": "the street voted yes",
+    "words": [
+     {
+      "w": " the",
+      "start": 33.09,
+      "end": 33.69
+     },
+     {
+      "w": " street",
+      "start": 33.69,
+      "end": 33.95
+     },
+     {
+      "w": " voted",
+      "start": 33.95,
+      "end": 34.19
+     },
+     {
+      "w": " yes",
+      "start": 34.19,
+      "end": 34.63
+     }
+    ],
+    "seg_rms": 0.1319
+   },
+   {
+    "start": 36.79,
+    "end": 48.54,
+    "text": "you scraped their yes off the wall sign for the box keeper there's the vote on your sleeve",
+    "words": [
+     {
+      "w": " you",
+      "start": 36.79,
+      "end": 37.27
+     },
+     {
+      "w": " scraped",
+      "start": 37.27,
+      "end": 37.75
+     },
+     {
+      "w": " their",
+      "start": 37.75,
+      "end": 37.85
+     },
+     {
+      "w": " yes",
+      "start": 37.85,
+      "end": 38.05
+     },
+     {
+      "w": " off",
+      "start": 38.05,
+      "end": 38.27
+     },
+     {
+      "w": " the",
+      "start": 38.27,
+      "end": 38.41
+     },
+     {
+      "w": " wall",
+      "start": 38.41,
+      "end": 38.65
+     },
+     {
+      "w": " sign",
+      "start": 38.65,
+      "end": 39.71
+     },
+     {
+      "w": " for",
+      "start": 44.06,
+      "end": 44.3
+     },
+     {
+      "w": " the",
+      "start": 44.3,
+      "end": 44.42
+     },
+     {
+      "w": " box",
+      "start": 44.42,
+      "end": 44.62
+     },
+     {
+      "w": " keeper",
+      "start": 44.62,
+      "end": 44.92
+     },
+     {
+      "w": " there's",
+      "start": 44.92,
+      "end": 46.74
+     },
+     {
+      "w": " the",
+      "start": 46.74,
+      "end": 46.82
+     },
+     {
+      "w": " vote",
+      "start": 46.82,
+      "end": 47.06
+     },
+     {
+      "w": " on",
+      "start": 47.06,
+      "end": 48.08
+     },
+     {
+      "w": " your",
+      "start": 48.08,
+      "end": 48.26
+     },
+     {
+      "w": " sleeve",
+      "start": 48.26,
+      "end": 48.54
+     }
+    ],
+    "seg_rms": 0.0799
+   },
+   {
+    "start": 54.69,
+    "end": 56.07,
+    "text": "your name's up watcher",
+    "words": [
+     {
+      "w": " your",
+      "start": 54.69,
+      "end": 55.17
+     },
+     {
+      "w": " name's",
+      "start": 55.17,
+      "end": 55.47
+     },
+     {
+      "w": " up",
+      "start": 55.47,
+      "end": 55.61
+     },
+     {
+      "w": " watcher",
+      "start": 55.61,
+      "end": 56.07
+     }
+    ],
+    "seg_rms": 0.1058
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.54,
+    "end": 3.78,
+    "text": "Dawn delivery.",
+    "words": [
+     {
+      "w": " Dawn",
+      "start": 2.54,
+      "end": 3.16
+     },
+     {
+      "w": " delivery.",
+      "start": 3.16,
+      "end": 3.78
+     }
+    ],
+    "seg_rms": 0.1921
+   },
+   {
+    "start": 6.4,
+    "end": 7.44,
+    "text": "Sign for the boxkeeper.",
+    "words": [
+     {
+      "w": " Sign",
+      "start": 6.4,
+      "end": 6.48
+     },
+     {
+      "w": " for",
+      "start": 6.48,
+      "end": 6.68
+     },
+     {
+      "w": " the",
+      "start": 6.68,
+      "end": 6.8
+     },
+     {
+      "w": " boxkeeper.",
+      "start": 6.8,
+      "end": 7.44
+     }
+    ],
+    "seg_rms": 0.1486
+   },
+   {
+    "start": 11.4,
+    "end": 12.7,
+    "text": "The wall says the street said no.",
+    "words": [
+     {
+      "w": " The",
+      "start": 11.4,
+      "end": 11.4
+     },
+     {
+      "w": " wall",
+      "start": 11.4,
+      "end": 11.56
+     },
+     {
+      "w": " says",
+      "start": 11.56,
+      "end": 11.8
+     },
+     {
+      "w": " the",
+      "start": 11.8,
+      "end": 11.94
+     },
+     {
+      "w": " street",
+      "start": 11.94,
+      "end": 12.18
+     },
+     {
+      "w": " said",
+      "start": 12.18,
+      "end": 12.42
+     },
+     {
+      "w": " no.",
+      "start": 12.42,
+      "end": 12.7
+     }
+    ],
+    "seg_rms": 0.1798
+   },
+   {
+    "start": 15.02,
+    "end": 16.08,
+    "text": "The vote was last night.",
+    "words": [
+     {
+      "w": " The",
+      "start": 15.02,
+      "end": 15.08
+     },
+     {
+      "w": " vote",
+      "start": 15.08,
+      "end": 15.28
+     },
+     {
+      "w": " was",
+      "start": 15.28,
+      "end": 15.46
+     },
+     {
+      "w": " last",
+      "start": 15.46,
+      "end": 15.74
+     },
+     {
+      "w": " night.",
+      "start": 15.74,
+      "end": 16.08
+     }
+    ],
+    "seg_rms": 0.1411
+   },
+   {
+    "start": 17.66,
+    "end": 18.92,
+    "text": "Who held the chalk last?",
+    "words": [
+     {
+      "w": " Who",
+      "start": 17.66,
+      "end": 17.76
+     },
+     {
+      "w": " held",
+      "start": 17.76,
+      "end": 18.04
+     },
+     {
+      "w": " the",
+      "start": 18.04,
+      "end": 18.18
+     },
+     {
+      "w": " chalk",
+      "start": 18.18,
+      "end": 18.48
+     },
+     {
+      "w": " last?",
+      "start": 18.48,
+      "end": 18.92
+     }
+    ],
+    "seg_rms": 0.1672
+   },
+   {
+    "start": 22.89,
+    "end": 24.19,
+    "text": "Four hundred bells.",
+    "words": [
+     {
+      "w": " Four",
+      "start": 22.89,
+      "end": 23.09
+     },
+     {
+      "w": " hundred",
+      "start": 23.09,
+      "end": 23.65
+     },
+     {
+      "w": " bells.",
+      "start": 23.65,
+      "end": 24.19
+     }
+    ],
+    "seg_rms": 0.1757
+   },
+   {
+    "start": 25.13,
+    "end": 25.85,
+    "text": "Never dropped one.",
+    "words": [
+     {
+      "w": " Never",
+      "start": 25.13,
+      "end": 25.29
+     },
+     {
+      "w": " dropped",
+      "start": 25.29,
+      "end": 25.57
+     },
+     {
+      "w": " one.",
+      "start": 25.57,
+      "end": 25.85
+     }
+    ],
+    "seg_rms": 0.1296
+   },
+   {
+    "start": 26.73,
+    "end": 28.51,
+    "text": "At dawn I was holding this box.",
+    "words": [
+     {
+      "w": " At",
+      "start": 26.73,
+      "end": 26.89
+     },
+     {
+      "w": " dawn",
+      "start": 26.89,
+      "end": 27.21
+     },
+     {
+      "w": " I",
+      "start": 27.21,
+      "end": 27.43
+     },
+     {
+      "w": " was",
+      "start": 27.43,
+      "end": 27.57
+     },
+     {
+      "w": " holding",
+      "start": 27.57,
+      "end": 27.87
+     },
+     {
+      "w": " this",
+      "start": 27.87,
+      "end": 28.11
+     },
+     {
+      "w": " box.",
+      "start": 28.11,
+      "end": 28.51
+     }
+    ],
+    "seg_rms": 0.179
+   },
+   {
+    "start": 29.23,
+    "end": 29.33,
+    "text": "Here.",
+    "words": [
+     {
+      "w": " Here.",
+      "start": 29.23,
+      "end": 29.33
+     }
+    ],
+    "seg_rms": 0.1769
+   },
+   {
+    "start": 30.51,
+    "end": 32.39,
+    "text": "Your sleeve's been holding chalk all morning.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 30.51,
+      "end": 30.65
+     },
+     {
+      "w": " sleeve's",
+      "start": 30.65,
+      "end": 31.03
+     },
+     {
+      "w": " been",
+      "start": 31.03,
+      "end": 31.15
+     },
+     {
+      "w": " holding",
+      "start": 31.15,
+      "end": 31.45
+     },
+     {
+      "w": " chalk",
+      "start": 31.45,
+      "end": 31.81
+     },
+     {
+      "w": " all",
+      "start": 31.81,
+      "end": 32.03
+     },
+     {
+      "w": " morning.",
+      "start": 32.03,
+      "end": 32.39
+     }
+    ],
+    "seg_rms": 0.1935
+   },
+   {
+    "start": 33.75,
+    "end": 34.85,
+    "text": "The street voted yes.",
+    "words": [
+     {
+      "w": " The",
+      "start": 33.75,
+      "end": 33.79
+     },
+     {
+      "w": " street",
+      "start": 33.79,
+      "end": 34.11
+     },
+     {
+      "w": " voted",
+      "start": 34.11,
+      "end": 34.47
+     },
+     {
+      "w": " yes.",
+      "start": 34.47,
+      "end": 34.85
+     }
+    ],
+    "seg_rms": 0.1601
+   },
+   {
+    "start": 36.77,
+    "end": 38.83,
+    "text": "You scraped their yes off the wall.",
+    "words": [
+     {
+      "w": " You",
+      "start": 36.77,
+      "end": 37.35
+     },
+     {
+      "w": " scraped",
+      "start": 37.35,
+      "end": 37.75
+     },
+     {
+      "w": " their",
+      "start": 37.75,
+      "end": 37.93
+     },
+     {
+      "w": " yes",
+      "start": 37.93,
+      "end": 38.19
+     },
+     {
+      "w": " off",
+      "start": 38.19,
+      "end": 38.35
+     },
+     {
+      "w": " the",
+      "start": 38.35,
+      "end": 38.49
+     },
+     {
+      "w": " wall.",
+      "start": 38.49,
+      "end": 38.83
+     }
+    ],
+    "seg_rms": 0.1437
+   },
+   {
+    "start": 43.8,
+    "end": 44.36,
+    "text": "Signed for the wall.",
+    "words": [
+     {
+      "w": " Signed",
+      "start": 43.8,
+      "end": 44.32
+     },
+     {
+      "w": " for",
+      "start": 44.32,
+      "end": 44.36
+     },
+     {
+      "w": " the",
+      "start": 44.36,
+      "end": 44.36
+     },
+     {
+      "w": " wall.",
+      "start": 44.36,
+      "end": 44.36
+     }
+    ],
+    "seg_rms": 0.1
+   },
+   {
+    "start": 44.38,
+    "end": 56.11,
+    "text": "the boxkeeper. There's the vote on your sleeve. Your name's up watcher.",
+    "words": [
+     {
+      "w": " the",
+      "start": 44.38,
+      "end": 44.46
+     },
+     {
+      "w": " boxkeeper.",
+      "start": 44.46,
+      "end": 45.12
+     },
+     {
+      "w": " There's",
+      "start": 46.72,
+      "end": 46.82
+     },
+     {
+      "w": " the",
+      "start": 46.82,
+      "end": 46.92
+     },
+     {
+      "w": " vote",
+      "start": 46.92,
+      "end": 47.22
+     },
+     {
+      "w": " on",
+      "start": 47.22,
+      "end": 48.22
+     },
+     {
+      "w": " your",
+      "start": 48.22,
+      "end": 48.34
+     },
+     {
+      "w": " sleeve.",
+      "start": 48.34,
+      "end": 48.8
+     },
+     {
+      "w": " Your",
+      "start": 55.23,
+      "end": 55.25
+     },
+     {
+      "w": " name's",
+      "start": 55.25,
+      "end": 55.57
+     },
+     {
+      "w": " up",
+      "start": 55.57,
+      "end": 55.71
+     },
+     {
+      "w": " watcher.",
+      "start": 55.71,
+      "end": 56.11
+     }
+    ],
+    "seg_rms": 0.072
+   }
+  ]
+ }
+}

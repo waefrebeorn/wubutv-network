@@ -1,0 +1,55 @@
+{
+ "job": "MV-29 assembly (coordinator c7548fc3)",
+ "project": "MV-29_dario-belongs-in-the-rubber-room",
+ "title": "Dario Belongs in the Rubber Room",
+ "status": "DELIVERED",
+ "delivered_utc": "2026-11-22T00:31:19Z",
+ "master": {
+  "path": "masters/mv29_dario-belongs-in-the-rubber-room_16x9.mp4",
+  "md5": "b63bd7a08330cab46bafec2be4101aab",
+  "bytes": 82267792,
+  "frames": 4445,
+  "duration_s": 185.216,
+  "spec": "1280x720 24fps h264 yuv420p CRF18, AAC-LC 48kHz stereo, faststart, mov_text(55 cues) + burned-in karaoke subs, ~ WuBu ~ corner bug"
+ },
+ "chat_copy_50mb": {
+  "path": "masters/mv29_dario-belongs-in-the-rubber-room_16x9_50mb.mp4",
+  "md5": "95dc15766ce363afcde9909a4a90326e",
+  "bytes": 35775579
+ },
+ "gates": {
+  "joined_assert": "PASS (4445 frames AND 185.205s probed before master encode)",
+  "frames_exact": 4445,
+  "duration_vs_track_s": 185.216,
+  "crf18_proof_ratio": 1.91,
+  "crf23_twin_bytes": 43152548,
+  "freezedetect_freezes": 0,
+  "subtitles_burned_in": "PASS (55 lines / 281 word events; grabs at 8 timestamps)",
+  "wordmark_bug": "PASS (head/mid/tail grabs)",
+  "master_transcript_spotcheck": "PASS (267 vs 269 words, similarity 0.9776, landmarks <=0.16s)",
+  "zero_reused_picture": "PASS (planner claim-ledger audit clean)"
+ },
+ "disclosures": [
+  "S04 ships as caption-carried cover (generation blocked x2): s03 prop-swap span + s01 bounce span at k=1.0",
+  "S08 L14 (52.24-57.36) ships as beat-cut montage cover from S08 takes' non-sung spans (structural pacing 1.68/1.72); final 0.31s of the cover is a fill-stretched walk sliver at k=1.667",
+  "S16 hook-2 'belong' stumble (take 4.98-5.80) beat-cut to montage per the bad-word rule; never warped; Dario seg k=1.875, phrase k=0.635",
+  "S21 The Freeze event-read shortfall: orderlies move during hook 1, stand in the tail (inverse of design); ships as-is",
+  "S24 KEEP t3: doubled head Yeah trimmed (anchor = second Yeah); L46 warp k=1.743",
+  "S25: neither take lands the designed tail mid-bounce rhyme with frame 0; unison sway minimal in both; TA primary / TB head, mid-block cut",
+  "S01 L02 Yeah sub-segment fitted at k=0.857 (whole 0.70s token onto the 0.60s slot) rather than a k=1.0 hard trim",
+  "Grey warps: S02 hooks 0.692/0.668, S12 0.674/0.697, S13 t2 0.630/0.620, S03 L06 1.350, S07 L12 1.328, S08 L13 1.126",
+  "L29: song-side ASR unmatched (hears a hook repeat); sheet line captioned, S17 take sang it verbatim",
+  "Caption timings: 47/55 lines real ASR word timings; 8 syllable-split (L29, L33-L38 ASR-silent breakdown, L40 ASR-merged hook token)",
+  "First encode's ASS Format header omitted 'Layer' (copied from MV-28's .py source, which diverges from its shipped .ass): all caption events stacked; caught on frame grabs, builder fixed, test-rendered, full suite re-encoded; defective encodes deleted pre-delivery"
+ ],
+ "spend": {
+  "video_calls": 35,
+  "video_budget": 40,
+  "images": 4
+ },
+ "notes": [
+  "USED_EVENTS append for MV-29 (motif THE PADDING SPREADS, 25 events) is the parent's job at delivery - not appended here (duplication risk)",
+  "MV-29 nag-list migration still owed by parent",
+  "No git commit, no chat delivery by this coordinator (per brief)"
+ ]
+}

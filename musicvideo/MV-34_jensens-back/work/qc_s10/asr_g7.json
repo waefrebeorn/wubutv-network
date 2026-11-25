@@ -1,0 +1,32 @@
+{
+ "file": "takes/media-generation-mv34-s10-t1-desc-0-5ed47b40-e35d-4e8c-9dc6-06604473c88c.mp4",
+ "segments": [
+  {
+   "start": 1.78,
+   "end": 4.18,
+   "text": "He's the line",
+   "avg_logprob": -0.173,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " He's",
+     "start": 1.78,
+     "end": 3.18,
+     "probability": 0.737
+    },
+    {
+     "word": " the",
+     "start": 3.18,
+     "end": 3.38,
+     "probability": 0.977
+    },
+    {
+     "word": " line",
+     "start": 3.38,
+     "end": 4.18,
+     "probability": 0.762
+    }
+   ]
+  }
+ ]
+}

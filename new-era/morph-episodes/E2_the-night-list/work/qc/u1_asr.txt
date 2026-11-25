@@ -1,0 +1,209 @@
+== u1.mp4
+[
+ {
+  "start": 1.16,
+  "end": 3.56,
+  "text": "You put him back on, Keeper. Eleven names!",
+  "avg_logprob": -0.259,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " You",
+    "start": 1.16,
+    "end": 1.6,
+    "probability": 0.825
+   },
+   {
+    "word": " put",
+    "start": 1.6,
+    "end": 1.8,
+    "probability": 0.988
+   },
+   {
+    "word": " him",
+    "start": 1.8,
+    "end": 1.9,
+    "probability": 0.985
+   },
+   {
+    "word": " back",
+    "start": 1.9,
+    "end": 2.08,
+    "probability": 0.999
+   },
+   {
+    "word": " on,",
+    "start": 2.08,
+    "end": 2.28,
+    "probability": 0.998
+   },
+   {
+    "word": " Keeper.",
+    "start": 2.34,
+    "end": 2.62,
+    "probability": 0.718
+   },
+   {
+    "word": " Eleven",
+    "start": 2.74,
+    "end": 3.1,
+    "probability": 0.796
+   },
+   {
+    "word": " names!",
+    "start": 3.1,
+    "end": 3.56,
+    "probability": 0.985
+   }
+  ]
+ },
+ {
+  "start": 3.78,
+  "end": 5.92,
+  "text": "I want quiet. Name off ends arguing.",
+  "avg_logprob": -0.259,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " I",
+    "start": 3.78,
+    "end": 3.88,
+    "probability": 0.936
+   },
+   {
+    "word": " want",
+    "start": 3.88,
+    "end": 4.06,
+    "probability": 0.999
+   },
+   {
+    "word": " quiet.",
+    "start": 4.06,
+    "end": 4.48,
+    "probability": 0.685
+   },
+   {
+    "word": " Name",
+    "start": 4.8,
+    "end": 5.12,
+    "probability": 0.958
+   },
+   {
+    "word": " off",
+    "start": 5.12,
+    "end": 5.3,
+    "probability": 0.984
+   },
+   {
+    "word": " ends",
+    "start": 5.3,
+    "end": 5.5,
+    "probability": 0.72
+   },
+   {
+    "word": " arguing.",
+    "start": 5.5,
+    "end": 5.92,
+    "probability": 0.959
+   }
+  ]
+ },
+ {
+  "start": 6.1,
+  "end": 7.8,
+  "text": "Quiet? I want it for Elias.",
+  "avg_logprob": -0.259,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Quiet?",
+    "start": 6.1,
+    "end": 6.4,
+    "probability": 0.977
+   },
+   {
+    "word": " I",
+    "start": 6.62,
+    "end": 6.86,
+    "probability": 0.998
+   },
+   {
+    "word": " want",
+    "start": 6.86,
+    "end": 7.04,
+    "probability": 0.999
+   },
+   {
+    "word": " it",
+    "start": 7.04,
+    "end": 7.14,
+    "probability": 0.995
+   },
+   {
+    "word": " for",
+    "start": 7.14,
+    "end": 7.26,
+    "probability": 0.999
+   },
+   {
+    "word": " Elias.",
+    "start": 7.26,
+    "end": 7.8,
+    "probability": 0.984
+   }
+  ]
+ },
+ {
+  "start": 7.96,
+  "end": 9.88,
+  "text": "Door test spoke and carried same hands.",
+  "avg_logprob": -0.259,
+  "no_speech_prob": 0.0,
+  "words": [
+   {
+    "word": " Door",
+    "start": 7.96,
+    "end": 8.22,
+    "probability": 0.547
+   },
+   {
+    "word": " test",
+    "start": 8.22,
+    "end": 8.48,
+    "probability": 0.954
+   },
+   {
+    "word": " spoke",
+    "start": 8.48,
+    "end": 8.86,
+    "probability": 0.123
+   },
+   {
+    "word": " and",
+    "start": 8.86,
+    "end": 8.98,
+    "probability": 0.981
+   },
+   {
+    "word": " carried",
+    "start": 8.98,
+    "end": 9.3,
+    "probability": 0.996
+   },
+   {
+    "word": " same",
+    "start": 9.3,
+    "end": 9.56,
+    "probability": 0.82
+   },
+   {
+    "word": " hands.",
+    "start": 9.56,
+    "end": 9.88,
+    "probability": 0.988
+   }
+  ]
+ }
+]
+FULL: 'You put him back on, Keeper. Eleven names! I want quiet. Name off ends arguing. Quiet? I want it for Elias. Door test spoke and carried same hands.'
+ASR DONE

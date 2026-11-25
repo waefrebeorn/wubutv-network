@@ -1,0 +1,98 @@
+{
+ "stem": "l27",
+ "offset": 194.0,
+ "model": "large-v3-turbo",
+ "n_words": 13,
+ "words": [
+  {
+   "word": "Hello",
+   "start": 194.0,
+   "end": 194.32,
+   "prob": 0.178
+  },
+  {
+   "word": "man,",
+   "start": 194.32,
+   "end": 194.56,
+   "prob": 0.429
+  },
+  {
+   "word": "hello,",
+   "start": 194.7,
+   "end": 195.18,
+   "prob": 0.602
+  },
+  {
+   "word": "telling",
+   "start": 196.08,
+   "end": 196.38,
+   "prob": 0.478
+  },
+  {
+   "word": "every",
+   "start": 196.38,
+   "end": 196.88,
+   "prob": 0.787
+  },
+  {
+   "word": "listener",
+   "start": 196.88,
+   "end": 197.42,
+   "prob": 0.973
+  },
+  {
+   "word": "what",
+   "start": 197.42,
+   "end": 198.1,
+   "prob": 0.812
+  },
+  {
+   "word": "they",
+   "start": 198.1,
+   "end": 198.38,
+   "prob": 0.997
+  },
+  {
+   "word": "already",
+   "start": 198.38,
+   "end": 198.96,
+   "prob": 0.993
+  },
+  {
+   "word": "know.",
+   "start": 198.96,
+   "end": 199.4,
+   "prob": 0.991
+  },
+  {
+   "word": "I",
+   "start": 199.66,
+   "end": 200.22,
+   "prob": 0.988
+  },
+  {
+   "word": "am",
+   "start": 200.22,
+   "end": 200.7,
+   "prob": 0.968
+  },
+  {
+   "word": "your...",
+   "start": 200.7,
+   "end": 201.38,
+   "prob": 0.669
+  }
+ ],
+ "segments": [
+  {
+   "start": 194.0,
+   "end": 199.4,
+   "text": "Hello man, hello, telling every listener what they already know."
+  },
+  {
+   "start": 199.66,
+   "end": 201.38,
+   "text": "I am your..."
+  }
+ ]
+}

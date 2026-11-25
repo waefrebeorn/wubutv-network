@@ -1,0 +1,157 @@
+{
+ "file": "takes_v6/U6_t2.mp4",
+ "head_rms_0_1.7": 0.014595845714211464,
+ "ambient_rms_0_0.5": 0.012792285531759262,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.19,
+    "end": 6.27,
+    "text": "Not yet, Peach. Not on the board. It goes to the street tomorrow.",
+    "words": [
+     {
+      "w": " Not",
+      "start": 2.19,
+      "end": 2.71
+     },
+     {
+      "w": " yet,",
+      "start": 2.71,
+      "end": 2.91
+     },
+     {
+      "w": " Peach.",
+      "start": 2.95,
+      "end": 3.15
+     },
+     {
+      "w": " Not",
+      "start": 3.51,
+      "end": 3.91
+     },
+     {
+      "w": " on",
+      "start": 3.91,
+      "end": 4.09
+     },
+     {
+      "w": " the",
+      "start": 4.09,
+      "end": 4.19
+     },
+     {
+      "w": " board.",
+      "start": 4.19,
+      "end": 4.47
+     },
+     {
+      "w": " It",
+      "start": 4.89,
+      "end": 5.29
+     },
+     {
+      "w": " goes",
+      "start": 5.29,
+      "end": 5.49
+     },
+     {
+      "w": " to",
+      "start": 5.49,
+      "end": 5.63
+     },
+     {
+      "w": " the",
+      "start": 5.63,
+      "end": 5.73
+     },
+     {
+      "w": " street",
+      "start": 5.73,
+      "end": 5.99
+     },
+     {
+      "w": " tomorrow.",
+      "start": 5.99,
+      "end": 6.27
+     }
+    ],
+    "seg_rms": 0.045
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.19,
+    "end": 6.45,
+    "text": "Not yet, Peach, not on the board. It goes to the street tomorrow.",
+    "words": [
+     {
+      "w": " Not",
+      "start": 2.19,
+      "end": 2.79
+     },
+     {
+      "w": " yet,",
+      "start": 2.79,
+      "end": 3.01
+     },
+     {
+      "w": " Peach,",
+      "start": 3.11,
+      "end": 3.43
+     },
+     {
+      "w": " not",
+      "start": 3.87,
+      "end": 4.01
+     },
+     {
+      "w": " on",
+      "start": 4.01,
+      "end": 4.17
+     },
+     {
+      "w": " the",
+      "start": 4.17,
+      "end": 4.27
+     },
+     {
+      "w": " board.",
+      "start": 4.27,
+      "end": 4.57
+     },
+     {
+      "w": " It",
+      "start": 5.33,
+      "end": 5.37
+     },
+     {
+      "w": " goes",
+      "start": 5.37,
+      "end": 5.57
+     },
+     {
+      "w": " to",
+      "start": 5.57,
+      "end": 5.71
+     },
+     {
+      "w": " the",
+      "start": 5.71,
+      "end": 5.81
+     },
+     {
+      "w": " street",
+      "start": 5.81,
+      "end": 6.11
+     },
+     {
+      "w": " tomorrow.",
+      "start": 6.11,
+      "end": 6.45
+     }
+    ],
+    "seg_rms": 0.0459
+   }
+  ]
+ }
+}

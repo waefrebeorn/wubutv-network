@@ -1,0 +1,780 @@
+[
+ {
+  "scene": "IN-A",
+  "song": [
+   0.0,
+   5.97
+  ],
+  "frames": 143,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/IN-A.mp4",
+   "frames": 143,
+   "md5": "ba7a0bd9cac1321d1a62f5d0d1cf874c"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "IN-A_v3",
+    "t0": 0.0,
+    "s0": 0.0,
+    "frames": 143,
+    "note": "bathroom->sheet->vortex, natural; tail hold outside span trimmed"
+   }
+  ]
+ },
+ {
+  "scene": "H1-A",
+  "song": [
+   5.97,
+   22.08
+  ],
+  "frames": 387,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/H1-A.mp4",
+   "frames": 387,
+   "md5": "c7ab13a7dbe57d849d9d295a8e5a59a1"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "H1-A_v3_city",
+    "t0": 0.0,
+    "s0": 5.97,
+    "frames": 48,
+    "note": "lead 5.97-7.98 from city take head (mid-flight, motion min 53.1)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-A_v2_c1",
+    "anchors": [
+     [
+      0.0,
+      7.98
+     ],
+     [
+      1.66,
+      9.6
+     ],
+     [
+      2.08,
+      9.82
+     ],
+     [
+      2.48,
+      10.28
+     ],
+     [
+      2.8,
+      10.48
+     ],
+     [
+      3.76,
+      11.7
+     ]
+    ],
+    "note": "INS-1 L1 (v2 anchors, verified in v2 master)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-A_v2_c1",
+    "anchors": [
+     [
+      4.5,
+      11.7
+     ],
+     [
+      5.64,
+      13.48
+     ],
+     [
+      7.42,
+      14.34
+     ]
+    ],
+    "note": "INS-1 L2 (v2 anchors)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H1-A_v2_c1",
+    "t0": 7.42,
+    "t1": 8.12,
+    "s0": 14.34,
+    "s1": 15.74,
+    "note": "INS-1 'there' held at 2x cap (v2)"
+   },
+   {
+    "kind": "natural",
+    "take": "H1-A_v2_c1",
+    "t0": 8.12,
+    "s0": 15.74,
+    "frames": 9,
+    "note": "INS-1 line tail (note decays under it)"
+   },
+   {
+    "kind": "natural",
+    "take": "H1-A_v3_smears",
+    "t0": 0.0,
+    "s0": 16.12,
+    "frames": 143,
+    "note": "L3 + dirty echoes on smears montage (L3 montage by design)"
+   }
+  ]
+ },
+ {
+  "scene": "H1-B",
+  "song": [
+   22.08,
+   34.96
+  ],
+  "frames": 309,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/H1-B.mp4",
+   "frames": 309,
+   "md5": "82a5ba18b3b827abf90cc01af432c631"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "H1-B_v3_browns",
+    "t0": 1.0,
+    "t1": 7.0,
+    "s0": 22.08,
+    "s1": 28.62,
+    "note": "five browns 1.0-7.0s @0.92x (opens slow, tail zoom loses five-count after ~7s); L4+L5 montage, CASCADE kinetic"
+   },
+   {
+    "kind": "pchip",
+    "take": "H1-B_v2",
+    "anchors": [
+     [
+      4.0,
+      28.62
+     ],
+     [
+      4.58,
+      29.38
+     ],
+     [
+      5.16,
+      29.8
+     ],
+     [
+      5.6,
+      29.98
+     ]
+    ],
+    "note": "INS-2 L6, take span 4.0-5.6s only (v2 anchors)"
+   },
+   {
+    "kind": "natural",
+    "take": "H1-B_v3_steps",
+    "t0": 0.0,
+    "s0": 29.98,
+    "frames": 119,
+    "note": "steps take 0-4.96s; L7 + tail (L7 montage by design)"
+   }
+  ]
+ },
+ {
+  "scene": "I-A",
+  "song": [
+   34.96,
+   45.51
+  ],
+  "frames": 253,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/I-A.mp4",
+   "frames": 253,
+   "md5": "12bc7f3da7e76e47c3b9d6971dfc1dc6"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "I-A_v3_fibres",
+    "t0": 0.0,
+    "s0": 34.96,
+    "frames": 165,
+    "note": "fibre world + L8 browns (CASCADE kinetic), 0-6.875s"
+   },
+   {
+    "kind": "natural",
+    "take": "I-A_v3_chocoriver",
+    "t0": 0.0,
+    "s0": 41.84,
+    "frames": 88,
+    "note": "chocolate river flight, 0-3.667s; type goes quiet, river carries"
+   }
+  ]
+ },
+ {
+  "scene": "I-B",
+  "song": [
+   45.51,
+   60.46
+  ],
+  "frames": 359,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/I-B.mp4",
+   "frames": 359,
+   "md5": "65923070e580ce22773ad3c4073a7a01"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "I-B_v3_river",
+    "t0": 0.0,
+    "s0": 45.51,
+    "frames": 120,
+    "note": "river flight 0-5.0s incl storm cluster 45.51-48.88"
+   },
+   {
+    "kind": "natural",
+    "take": "I-B_v3_gate",
+    "t0": 0.0,
+    "s0": 50.51,
+    "frames": 239,
+    "note": "gate take 0-9.96s, ends ON the open gate 60.43"
+   }
+  ]
+ },
+ {
+  "scene": "V-0",
+  "song": [
+   60.46,
+   65.12
+  ],
+  "frames": 112,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/V-0.mp4",
+   "frames": 112,
+   "md5": "163c7c09e4a2c179b84fb451c16fe6ee"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "V-0_v3_throne",
+    "t0": 0.0,
+    "s0": 60.46,
+    "frames": 76,
+    "note": "throne 0-3.167s, opens mid-swing; L9 montage (ambiguous 'Toil Brown' never mouth-gated). NOTE: throne runs to 63.62, NOT 63.00 \u2014 see INS-4 note."
+   },
+   {
+    "kind": "pchip",
+    "take": "V-0_v2",
+    "anchors": [
+     [
+      1.98,
+      63.62
+     ],
+     [
+      2.86,
+      63.94
+     ],
+     [
+      3.16,
+      64.32
+     ],
+     [
+      3.64,
+      64.66
+     ],
+     [
+      4.14,
+      65.0
+     ]
+    ],
+    "note": "INS-4 L10, take span 1.98-4.14s only (v2 anchors VERBATIM). The 63.00 first-anchor shift was REVERTED: SONG_WORDS_v2.json (the adjudication's canonical word list) puts L10's first word at 63.62 (medium); the LYRIC_TIMELINE '63.00' mixes witnesses (v1 onset + medium L9 end 63.30 = phantom overlap). v2's 63.62 placement matches the canonical words AND the kinetic highlight \u2014 mouth/kinetic agree. Throne montage covers 63.00-63.62 (L9's tail sounds there)."
+   },
+   {
+    "kind": "natural",
+    "take": "V-0_v2",
+    "t0": 4.14,
+    "s0": 65.0,
+    "frames": 3,
+    "note": "INS-4 line tail (note decays under it) to the scene end 65.12"
+   }
+  ]
+ },
+ {
+  "scene": "PH-A",
+  "song": [
+   65.12,
+   67.26
+  ],
+  "frames": 51,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/PH-A.mp4",
+   "frames": 51,
+   "md5": "77751b3d9c4cbf9b70c711b0b1f52c12"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "PH-A_v3_arming",
+    "t0": 2.5,
+    "s0": 65.12,
+    "frames": 51,
+    "note": "arming 2.5-4.625s (pieces snapping on with flashes); 51f too short for a mouth cutaway, NO insert"
+   }
+  ]
+ },
+ {
+  "scene": "H2-A",
+  "song": [
+   67.26,
+   81.08
+  ],
+  "frames": 332,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/H2-A.mp4",
+   "frames": 332,
+   "md5": "b39c439e4c6ef01fd01f43b08fb5fc8b"
+  },
+  "pieces": [
+   {
+    "kind": "freeze",
+    "take": "H2-A_v2",
+    "t0": 0.0,
+    "frames": 3,
+    "note": "67.26-67.38 lead: take frame 0 held 3f (NO-WORD window; keeps v2 L12 anchors intact, no take reuse)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-A_v2",
+    "anchors": [
+     [
+      0.0,
+      67.38
+     ],
+     [
+      0.6,
+      67.92
+     ],
+     [
+      0.88,
+      68.08
+     ],
+     [
+      1.18,
+      68.36
+     ],
+     [
+      1.4,
+      68.6
+     ],
+     [
+      2.24,
+      69.36
+     ],
+     [
+      2.7,
+      69.54
+     ],
+     [
+      3.46,
+      70.28
+     ]
+    ],
+    "note": "INS-5 L12 (v2 anchors)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-A_v2",
+    "anchors": [
+     [
+      3.46,
+      70.28
+     ],
+     [
+      4.44,
+      71.54
+     ],
+     [
+      4.72,
+      71.98
+     ],
+     [
+      5.04,
+      72.24
+     ],
+     [
+      5.28,
+      72.56
+     ],
+     [
+      5.76,
+      73.0
+     ]
+    ],
+    "note": "INS-5 L13 (v2 anchors); L14/L15 spans of this take NOT used"
+   },
+   {
+    "kind": "natural",
+    "take": "H2-A_v3_departure",
+    "t0": 0.0,
+    "s0": 73.0,
+    "frames": 95,
+    "note": "departure 0-3.96s; L14 montage (never sung in v2)"
+   },
+   {
+    "kind": "natural",
+    "take": "H2-A_v3_ribbon",
+    "t0": 0.0,
+    "s0": 76.98,
+    "frames": 99,
+    "note": "ribbon 0-4.125s; L15 montage (mouth not visible in v2)"
+   }
+  ]
+ },
+ {
+  "scene": "H2-B",
+  "song": [
+   81.08,
+   93.0
+  ],
+  "frames": 286,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/H2-B.mp4",
+   "frames": 286,
+   "md5": "42f262b4f8fbb4b20d7b635fc98619a9"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "H2-B_v3_canal",
+    "t0": 0.0,
+    "s0": 81.08,
+    "frames": 14,
+    "note": "canal lead 0-0.58s (boats drifting, motion min 42.5)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-B_v2",
+    "anchors": [
+     [
+      0.0,
+      81.66
+     ],
+     [
+      0.66,
+      82.48
+     ],
+     [
+      0.86,
+      82.88
+     ],
+     [
+      2.16,
+      83.74
+     ]
+    ],
+    "note": "INS-6 L16 (v2 anchors; contested line, Brown-counter kinetic accent)"
+   },
+   {
+    "kind": "uniform",
+    "take": "H2-B_v2",
+    "t0": 2.16,
+    "t1": 2.92,
+    "s0": 83.74,
+    "s1": 85.26,
+    "note": "INS-6 inter-line gap at exactly 2x cap (0.50x, allowed)"
+   },
+   {
+    "kind": "natural",
+    "take": "H2-B_v2",
+    "t0": 5.72,
+    "s0": 85.26,
+    "frames": 17,
+    "note": "INS-6 gap remainder from tail (v2)"
+   },
+   {
+    "kind": "pchip",
+    "take": "H2-B_v2",
+    "anchors": [
+     [
+      2.92,
+      85.98
+     ],
+     [
+      3.72,
+      86.84
+     ],
+     [
+      4.14,
+      87.62
+     ],
+     [
+      4.44,
+      87.94
+     ],
+     [
+      5.14,
+      88.98
+     ]
+    ],
+    "note": "INS-6 L17 (v2 anchors; 1.35 grey, rescue envelope \u2014 re-verify mouth on warped render)"
+   },
+   {
+    "kind": "natural",
+    "take": "H2-B_v3_pupil",
+    "t0": 0.0,
+    "s0": 88.98,
+    "frames": 97,
+    "note": "pupil dive 0-4.04s (F12 CLEAR); tail glow-burst 7.5-10s unused"
+   }
+  ]
+ },
+ {
+  "scene": "H2-C",
+  "song": [
+   93.0,
+   105.94
+  ],
+  "frames": 311,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/H2-C.mp4",
+   "frames": 311,
+   "md5": "ebdd497af36d91e9ba4df89b6898d6b9"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "H2-C_v3_clog",
+    "t0": 0.0,
+    "t1": 8.0,
+    "s0": 93.0,
+    "s1": 102.34,
+    "note": "clog quest 0-8s @0.86x (tail 8-10s exhausted hold unused); L18 montage by design (named v2 flaw, never a warped singer take)"
+   },
+   {
+    "kind": "natural",
+    "take": "H2-C_v3_gate",
+    "t0": 0.0,
+    "s0": 102.34,
+    "frames": 87,
+    "note": "gate quest 0-3.625s; L19 staged on the 'never stops' tail"
+   }
+  ]
+ },
+ {
+  "scene": "D-A",
+  "song": [
+   105.94,
+   112.25
+  ],
+  "frames": 151,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/D-A.mp4",
+   "frames": 151,
+   "md5": "4aac5c53f957ca9c65aca95f66dea6cf"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "D-A_v3_duel",
+    "t0": 0.0,
+    "s0": 105.94,
+    "frames": 151,
+    "note": "cradle shot natural 0-6.29s; DISCLOSED: she dismounts ~1.0s and grapples on foot (ledger's 'mounted opening' is only ~1s) \u2014 the dismount reads as fight choreography inside one contiguous span; no two-span stitch (no-reuse law)"
+   }
+  ]
+ },
+ {
+  "scene": "D-B",
+  "song": [
+   112.25,
+   120.06
+  ],
+  "frames": 187,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/D-B.mp4",
+   "frames": 187,
+   "md5": "df3bb3a3bcfd7f9fb9a4d63021104804"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "D-B_v3_serpent",
+    "t0": 0.0,
+    "s0": 112.25,
+    "frames": 187,
+    "note": "serpent close-up natural 0-7.79s; motion throughout; STILL THERE! slam is kinetic"
+   }
+  ]
+ },
+ {
+  "scene": "FH-A",
+  "song": [
+   120.06,
+   133.46
+  ],
+  "frames": 322,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/FH-A.mp4",
+   "frames": 322,
+   "md5": "4d364ac043608cd98458062559eb2036"
+  },
+  "pieces": [
+   {
+    "kind": "pchip",
+    "take": "FH-A_v2",
+    "anchors": [
+     [
+      0.0,
+      120.06
+     ],
+     [
+      0.82,
+      121.12
+     ],
+     [
+      1.28,
+      121.96
+     ],
+     [
+      1.58,
+      122.28
+     ],
+     [
+      2.68,
+      123.18
+     ]
+    ],
+    "note": "INS-7 L20, take span 0.0-2.68s only (v2 anchors)"
+   },
+   {
+    "kind": "natural",
+    "take": "FH-A_v3_flush",
+    "t0": 0.0,
+    "s0": 123.18,
+    "frames": 96,
+    "note": "flush 0-4.0s; L21 montage ('there' never sung in v2)"
+   },
+   {
+    "kind": "natural",
+    "take": "FH-A_v3_paperstorm",
+    "t0": 0.0,
+    "s0": 127.18,
+    "frames": 151,
+    "note": "paper storm 0-6.29s; L22 montage (named v2 flaw) + dirty echo smears"
+   }
+  ]
+ },
+ {
+  "scene": "FH-B",
+  "song": [
+   133.46,
+   146.0
+  ],
+  "frames": 301,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/FH-B.mp4",
+   "frames": 301,
+   "md5": "d458d6e755353ccb22951a849514f11e"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "FH-B_v3_pipeflight",
+    "t0": 0.0,
+    "s0": 133.46,
+    "frames": 160,
+    "note": "pipe-flight 0-6.67s; L23+L24 montage (whole scene montage, FH-B fully montage)"
+   },
+   {
+    "kind": "natural",
+    "take": "FH-B_v3_citizens",
+    "t0": 0.0,
+    "s0": 140.14,
+    "frames": 141,
+    "note": "citizens 0-5.875s; L25+L26 montage + phantom flicker"
+   }
+  ]
+ },
+ {
+  "scene": "O-A",
+  "song": [
+   146.0,
+   163.0
+  ],
+  "frames": 408,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/O-A.mp4",
+   "frames": 408,
+   "md5": "47e412703dde49606a2f2e73ab14ba08"
+  },
+  "pieces": [
+   {
+    "kind": "uniform",
+    "take": "O-A_v3_approach_c3",
+    "t0": 0.0,
+    "t1": 6.0,
+    "s0": 146.0,
+    "s1": 156.0,
+    "note": "approach: climb-only take (NO crest) 0-6.0s @0.6x -> 240f; ends below the crown"
+   },
+   {
+    "kind": "natural",
+    "take": "O-A_v3_approach",
+    "t0": 2.605,
+    "s0": 156.0,
+    "frames": 168,
+    "note": "apex-window: crest measured BY EYE at take 6.04s (frame 145; 5.96 still ascending, 6.13 tipping over); trim-in 2.605s puts crest at in-window 3.435s = segment frame 322 = song frame 3826; NO diff-peak re-cut (retired)"
+   }
+  ]
+ },
+ {
+  "scene": "O-B",
+  "song": [
+   163.0,
+   180.0
+  ],
+  "frames": 408,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/O-B.mp4",
+   "frames": 408,
+   "md5": "758983c8bca019fc4b189c268442d47b"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "O-B_v3_dam",
+    "t0": 0.0,
+    "s0": 163.0,
+    "frames": 212,
+    "note": "dam 0-8.83s; split at beat 345 (171.851s)"
+   },
+   {
+    "kind": "natural",
+    "take": "O-B_v3_wave",
+    "t0": 0.0,
+    "s0": 171.851,
+    "frames": 196,
+    "note": "wave 0-8.17s; stab run 177.11-180.56 inside (clean-reveal per district)"
+   }
+  ]
+ },
+ {
+  "scene": "O-C",
+  "song": [
+   180.0,
+   187.2
+  ],
+  "frames": 173,
+  "built": {
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-8_wipe-and-its-still-there/work/rebuild/assembly_v3/seg/O-C.mp4",
+   "frames": 173,
+   "md5": "d59a2e7e2e4c3672f55d4cdbe7ea9b5e"
+  },
+  "pieces": [
+   {
+    "kind": "natural",
+    "take": "O-C_v3_ghostwipe",
+    "t0": 0.0,
+    "s0": 180.0,
+    "frames": 173,
+    "note": "ghost wipe 0-7.21s; WIPE 001-CLEAN reset is kinetic; final frame rhymes with G00"
+   }
+  ]
+ }
+]

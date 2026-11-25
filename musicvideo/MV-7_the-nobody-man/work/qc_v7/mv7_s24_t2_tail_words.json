@@ -1,0 +1,39 @@
+{
+ "track": "work/qc_v7/mv7_s24_t2_tail.wav",
+ "model": "small",
+ "language": "en",
+ "n_words": 4,
+ "words": [
+  {
+   "word": "Nobody",
+   "start": 0.0,
+   "end": 0.36,
+   "prob": 0.313
+  },
+  {
+   "word": "man,",
+   "start": 0.36,
+   "end": 0.88,
+   "prob": 0.777
+  },
+  {
+   "word": "nobody",
+   "start": 1.32,
+   "end": 1.96,
+   "prob": 0.868
+  },
+  {
+   "word": "man",
+   "start": 1.96,
+   "end": 2.84,
+   "prob": 0.985
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.84,
+   "text": "Nobody man, nobody man"
+  }
+ ]
+}

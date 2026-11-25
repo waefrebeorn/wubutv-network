@@ -1,0 +1,180 @@
+# c11_sep program: 173 instructions, 18 slots, arena 572805120 bytes
+# input slot 0 shape [4, 3072, 256], output slot 0
+  0 CONV1X1 input(s0) -> slot 1 W@0 b@768
+  1 RELU in=468 slot 1 (in-place)
+  2 TRANSPOSE 469(s1) -> slot 2
+  3 CONV3X3 470(s2) -> slot 1 W@960 b@83904
+  4 RELU in=471 slot 1 (in-place)
+  5 CONV3X3 472(s1) -> slot 2 W@84096 b@167040
+  6 RELU in=473 slot 2 (in-place)
+  7 CONV3X3 474(s2) -> slot 1 W@167232 b@250176
+  8 RELU in=475 slot 1 (in-place)
+  9 MATMUL 476(s1) -> slot 3 B@250368 (no bias; BN follows)
+ 10 BN in=478 slot 3 (in-place) s@4968960 shift@4969152
+ 11 RELU in=479 slot 3 (in-place)
+ 12 MATMUL 480(s3) -> slot 2 B@4969344 (no bias; BN follows)
+ 13 BN in=482 slot 2 (in-place) s@9687936 shift@9688128
+ 14 RELU in=483 slot 2 (in-place)
+ 15 Add 476(s1) 484(s2) -> slot 1
+ 16 CONV2X2_S2 485(s1) -> slot 4 W@9688320 b@9762048
+ 17 RELU in=486 slot 4 (in-place)
+ 18 CONV3X3 487(s4) -> slot 5 W@9762432 b@10094208
+ 19 RELU in=488 slot 5 (in-place)
+ 20 CONV3X3 489(s5) -> slot 4 W@10094592 b@10426368
+ 21 RELU in=490 slot 4 (in-place)
+ 22 CONV3X3 491(s4) -> slot 5 W@10426752 b@10758528
+ 23 RELU in=492 slot 5 (in-place)
+ 24 MATMUL 493(s5) -> slot 6 B@10758912 (no bias; BN follows)
+ 25 BN in=495 slot 6 (in-place) s@11938560 shift@11938944
+ 26 RELU in=496 slot 6 (in-place)
+ 27 MATMUL 497(s6) -> slot 4 B@11939328 (no bias; BN follows)
+ 28 BN in=499 slot 4 (in-place) s@13118976 shift@13119360
+ 29 RELU in=500 slot 4 (in-place)
+ 30 Add 493(s5) 501(s4) -> slot 5
+ 31 CONV2X2_S2 502(s5) -> slot 7 W@13119744 b@13340928
+ 32 RELU in=503 slot 7 (in-place)
+ 33 CONV3X3 504(s7) -> slot 8 W@13341504 b@14088000
+ 34 RELU in=505 slot 8 (in-place)
+ 35 CONV3X3 506(s8) -> slot 7 W@14088576 b@14835072
+ 36 RELU in=507 slot 7 (in-place)
+ 37 CONV3X3 508(s7) -> slot 8 W@14835648 b@15582144
+ 38 RELU in=509 slot 8 (in-place)
+ 39 MATMUL 510(s8) -> slot 9 B@15582720 (no bias; BN follows)
+ 40 BN in=512 slot 9 (in-place) s@15877632 shift@15878208
+ 41 RELU in=513 slot 9 (in-place)
+ 42 MATMUL 514(s9) -> slot 7 B@15878784 (no bias; BN follows)
+ 43 BN in=516 slot 7 (in-place) s@16173696 shift@16174272
+ 44 RELU in=517 slot 7 (in-place)
+ 45 Add 510(s8) 518(s7) -> slot 8
+ 46 CONV2X2_S2 519(s8) -> slot 6 W@16174848 b@16617216
+ 47 RELU in=520 slot 6 (in-place)
+ 48 CONV3X3 521(s6) -> slot 10 W@16617984 b@17945088
+ 49 RELU in=522 slot 10 (in-place)
+ 50 CONV3X3 523(s10) -> slot 6 W@17945856 b@19272960
+ 51 RELU in=524 slot 6 (in-place)
+ 52 CONV3X3 525(s6) -> slot 10 W@19273728 b@20600832
+ 53 RELU in=526 slot 10 (in-place)
+ 54 MATMUL 527(s10) -> slot 11 B@20601600 (no bias; BN follows)
+ 55 BN in=529 slot 11 (in-place) s@20675328 shift@20676096
+ 56 RELU in=530 slot 11 (in-place)
+ 57 MATMUL 531(s11) -> slot 6 B@20676864 (no bias; BN follows)
+ 58 BN in=533 slot 6 (in-place) s@20750592 shift@20751360
+ 59 RELU in=534 slot 6 (in-place)
+ 60 Add 527(s10) 535(s6) -> slot 10
+ 61 CONV2X2_S2 536(s10) -> slot 12 W@20752128 b@21489408
+ 62 RELU in=537 slot 12 (in-place)
+ 63 CONV3X3 538(s12) -> slot 13 W@21490368 b@23563968
+ 64 RELU in=539 slot 13 (in-place)
+ 65 CONV3X3 540(s13) -> slot 12 W@23564928 b@25638528
+ 66 RELU in=541 slot 12 (in-place)
+ 67 CONV3X3 542(s12) -> slot 13 W@25639488 b@27713088
+ 68 RELU in=543 slot 13 (in-place)
+ 69 MATMUL 544(s13) -> slot 14 B@27714048 (no bias; BN follows)
+ 70 BN in=546 slot 14 (in-place) s@27732480 shift@27733440
+ 71 RELU in=547 slot 14 (in-place)
+ 72 MATMUL 548(s14) -> slot 12 B@27734400 (no bias; BN follows)
+ 73 BN in=550 slot 12 (in-place) s@27752832 shift@27753792
+ 74 RELU in=551 slot 12 (in-place)
+ 75 Add 544(s13) 552(s12) -> slot 13
+ 76 CONV2X2_S2 553(s13) -> slot 15 W@27754752 b@28860672
+ 77 RELU in=554 slot 15 (in-place)
+ 78 CONV3X3 555(s15) -> slot 16 W@28861824 b@31847808
+ 79 RELU in=556 slot 16 (in-place)
+ 80 CONV3X3 557(s16) -> slot 15 W@31848960 b@34834944
+ 81 RELU in=558 slot 15 (in-place)
+ 82 CONV3X3 559(s15) -> slot 16 W@34836096 b@37822080
+ 83 RELU in=560 slot 16 (in-place)
+ 84 MATMUL 561(s16) -> slot 17 B@37823232 (no bias; BN follows)
+ 85 BN in=563 slot 17 (in-place) s@37827840 shift@37828992
+ 86 RELU in=564 slot 17 (in-place)
+ 87 MATMUL 565(s17) -> slot 15 B@37830144 (no bias; BN follows)
+ 88 BN in=567 slot 15 (in-place) s@37834752 shift@37835904
+ 89 RELU in=568 slot 15 (in-place)
+ 90 Add 561(s16) 569(s15) -> slot 16
+ 91 CONVTRANSPOSE2X2 570(s16) -> slot 12 W@37837056 b@38942976 (folded=True)
+ 92 BN (folded) 571 -> 572 slot 12
+ 93 RELU in=572 slot 12 (in-place)
+ 94 Mul 573(s12) 553(s13) -> slot 12
+ 95 CONV3X3 574(s12) -> slot 13 W@38943936 b@41017536
+ 96 RELU in=575 slot 13 (in-place)
+ 97 CONV3X3 576(s13) -> slot 12 W@41018496 b@43092096
+ 98 RELU in=577 slot 12 (in-place)
+ 99 CONV3X3 578(s12) -> slot 13 W@43093056 b@45166656
+100 RELU in=579 slot 13 (in-place)
+101 MATMUL 580(s13) -> slot 14 B@45167616 (no bias; BN follows)
+102 BN in=582 slot 14 (in-place) s@45186048 shift@45187008
+103 RELU in=583 slot 14 (in-place)
+104 MATMUL 584(s14) -> slot 12 B@45187968 (no bias; BN follows)
+105 BN in=586 slot 12 (in-place) s@45206400 shift@45207360
+106 RELU in=587 slot 12 (in-place)
+107 Add 580(s13) 588(s12) -> slot 13
+108 CONVTRANSPOSE2X2 589(s13) -> slot 6 W@45208320 b@45945600 (folded=True)
+109 BN (folded) 590 -> 591 slot 6
+110 RELU in=591 slot 6 (in-place)
+111 Mul 592(s6) 536(s10) -> slot 6
+112 CONV3X3 593(s6) -> slot 10 W@45946368 b@47273472
+113 RELU in=594 slot 10 (in-place)
+114 CONV3X3 595(s10) -> slot 6 W@47274240 b@48601344
+115 RELU in=596 slot 6 (in-place)
+116 CONV3X3 597(s6) -> slot 10 W@48602112 b@49929216
+117 RELU in=598 slot 10 (in-place)
+118 MATMUL 599(s10) -> slot 11 B@49929984 (no bias; BN follows)
+119 BN in=601 slot 11 (in-place) s@50003712 shift@50004480
+120 RELU in=602 slot 11 (in-place)
+121 MATMUL 603(s11) -> slot 6 B@50005248 (no bias; BN follows)
+122 BN in=605 slot 6 (in-place) s@50078976 shift@50079744
+123 RELU in=606 slot 6 (in-place)
+124 Add 599(s10) 607(s6) -> slot 10
+125 CONVTRANSPOSE2X2 608(s10) -> slot 7 W@50080512 b@50522880 (folded=True)
+126 BN (folded) 609 -> 610 slot 7
+127 RELU in=610 slot 7 (in-place)
+128 Mul 611(s7) 519(s8) -> slot 7
+129 CONV3X3 612(s7) -> slot 8 W@50523456 b@51269952
+130 RELU in=613 slot 8 (in-place)
+131 CONV3X3 614(s8) -> slot 7 W@51270528 b@52017024
+132 RELU in=615 slot 7 (in-place)
+133 CONV3X3 616(s7) -> slot 8 W@52017600 b@52764096
+134 RELU in=617 slot 8 (in-place)
+135 MATMUL 618(s8) -> slot 9 B@52764672 (no bias; BN follows)
+136 BN in=620 slot 9 (in-place) s@53059584 shift@53060160
+137 RELU in=621 slot 9 (in-place)
+138 MATMUL 622(s9) -> slot 7 B@53060736 (no bias; BN follows)
+139 BN in=624 slot 7 (in-place) s@53355648 shift@53356224
+140 RELU in=625 slot 7 (in-place)
+141 Add 618(s8) 626(s7) -> slot 8
+142 CONVTRANSPOSE2X2 627(s8) -> slot 4 W@53356800 b@53577984 (folded=True)
+143 BN (folded) 628 -> 629 slot 4
+144 RELU in=629 slot 4 (in-place)
+145 Mul 630(s4) 502(s5) -> slot 4
+146 CONV3X3 631(s4) -> slot 5 W@53578368 b@53910144
+147 RELU in=632 slot 5 (in-place)
+148 CONV3X3 633(s5) -> slot 4 W@53910528 b@54242304
+149 RELU in=634 slot 4 (in-place)
+150 CONV3X3 635(s4) -> slot 5 W@54242688 b@54574464
+151 RELU in=636 slot 5 (in-place)
+152 MATMUL 637(s5) -> slot 10 B@54574848 (no bias; BN follows)
+153 BN in=639 slot 10 (in-place) s@55754496 shift@55754880
+154 RELU in=640 slot 10 (in-place)
+155 MATMUL 641(s10) -> slot 4 B@55755264 (no bias; BN follows)
+156 BN in=643 slot 4 (in-place) s@56934912 shift@56935296
+157 RELU in=644 slot 4 (in-place)
+158 Add 637(s5) 645(s4) -> slot 5
+159 CONVTRANSPOSE2X2 646(s5) -> slot 2 W@56935680 b@57009408 (folded=True)
+160 BN (folded) 647 -> 648 slot 2
+161 RELU in=648 slot 2 (in-place)
+162 Mul 649(s2) 485(s1) -> slot 2
+163 CONV3X3 650(s2) -> slot 1 W@57009600 b@57092544
+164 RELU in=651 slot 1 (in-place)
+165 CONV3X3 652(s1) -> slot 2 W@57092736 b@57175680
+166 RELU in=653 slot 2 (in-place)
+167 CONV3X3 654(s2) -> slot 1 W@57175872 b@57258816
+168 RELU in=655 slot 1 (in-place)
+169 MATMUL 656(s1) -> slot 3 B@57259008 (no bias; BN follows)
+170 BN in=658 slot 3 (in-place) s@61977600 shift@61977792
+171 RELU in=659 slot 3 (in-place)
+172 MATMUL 660(s3) -> slot 2 B@61977984 (no bias; BN follows)
+173 BN in=662 slot 2 (in-place) s@66696576 shift@66696768
+174 RELU in=663 slot 2 (in-place)
+175 Add 656(s1) 664(s2) -> slot 1
+176 TRANSPOSE 665(s1) -> slot 2
+177 CONV1X1 666(s2) -> slot 0 W@66696960 b@66697728

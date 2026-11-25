@@ -1,0 +1,62 @@
+{
+ "segment": 8,
+ "start": 109.29,
+ "end": 110.43,
+ "mix": {
+  "words": [
+   {
+    "word": "We'll",
+    "start": 109.29,
+    "end": 109.89,
+    "prob": 0.4
+   },
+   {
+    "word": "be",
+    "start": 109.89,
+    "end": 110.17,
+    "prob": 0.587
+   },
+   {
+    "word": "right",
+    "start": 110.17,
+    "end": 110.41,
+    "prob": 0.858
+   },
+   {
+    "word": "back.",
+    "start": 110.41,
+    "end": 110.41,
+    "prob": 0.994
+   }
+  ],
+  "text": " We'll be right back.",
+  "wall_s": 16.4,
+  "score": {
+   "expected": 1,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 3,
+   "n_words": 4
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "Wow",
+    "start": 109.29,
+    "end": 109.87,
+    "prob": 0.101
+   }
+  ],
+  "text": " Wow",
+  "wall_s": 14.4,
+  "score": {
+   "expected": 1,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 1,
+   "n_words": 1
+  }
+ },
+ "winner": "vocals"
+}

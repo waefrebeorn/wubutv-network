@@ -1,0 +1,132 @@
+{
+  "mv4_s23_t1": {
+    "prompted": [
+      {
+        "word": "Good",
+        "start": 0.0,
+        "end": 0.46
+      },
+      {
+        "word": "news,",
+        "start": 0.46,
+        "end": 1.06
+      },
+      {
+        "word": "everyone,",
+        "start": 1.62,
+        "end": 2.12
+      },
+      {
+        "word": "good",
+        "start": 2.72,
+        "end": 3.02
+      },
+      {
+        "word": "news,",
+        "start": 3.02,
+        "end": 3.58
+      },
+      {
+        "word": "everyone,",
+        "start": 4.0,
+        "end": 4.58
+      },
+      {
+        "word": "the",
+        "start": 5.36,
+        "end": 5.5
+      },
+      {
+        "word": "ride",
+        "start": 5.5,
+        "end": 5.94
+      },
+      {
+        "word": "is",
+        "start": 5.94,
+        "end": 6.32
+      },
+      {
+        "word": "done",
+        "start": 6.32,
+        "end": 6.66
+      }
+    ],
+    "half_0_5": [
+      {
+        "word": "Good",
+        "start": 0.0,
+        "end": 0.46
+      },
+      {
+        "word": "news,",
+        "start": 0.46,
+        "end": 1.06
+      },
+      {
+        "word": "everyone!",
+        "start": 1.62,
+        "end": 2.12
+      }
+    ],
+    "half_5_10": [
+      {
+        "word": "The",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "word": "ride",
+        "start": 0.52,
+        "end": 0.94
+      },
+      {
+        "word": "is",
+        "start": 0.94,
+        "end": 1.32
+      },
+      {
+        "word": "done",
+        "start": 1.32,
+        "end": 1.68
+      }
+    ]
+  },
+  "mv4_s25_t1": {
+    "prompted": [
+      {
+        "word": "Futurama's",
+        "start": 0.0,
+        "end": 1.74
+      },
+      {
+        "word": "finished",
+        "start": 1.74,
+        "end": 2.92
+      },
+      {
+        "word": "Futurama's",
+        "start": 8.58,
+        "end": 9.98
+      },
+      {
+        "word": "finished",
+        "start": 9.98,
+        "end": 10.0
+      }
+    ],
+    "half_0_5": [
+      {
+        "word": "Futurama's",
+        "start": 0.0,
+        "end": 1.74
+      },
+      {
+        "word": "finished",
+        "start": 1.74,
+        "end": 2.74
+      }
+    ],
+    "half_5_10": []
+  }
+}

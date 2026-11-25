@@ -1,0 +1,37 @@
+{
+ "file": "U5_t4.mp4",
+ "frames": 240,
+ "steps": 239,
+ "curve_stats": {
+  "25": 1.23,
+  "50": 3.13,
+  "75": 4.29,
+  "90": 5.07,
+  "95": 5.95,
+  "99": 6.23
+ },
+ "th_lo_median": 3.13,
+ "th_hi_p75": 4.29,
+ "events": [
+  {
+   "onset_step": 12,
+   "peak_step": 88,
+   "peak_val": 6.42,
+   "end_step": 131,
+   "dur_steps": 120,
+   "class": "SUSTAINED"
+  }
+ ],
+ "head": {
+  "class": "RAMP",
+  "mean_0_12": 2.06,
+  "mean_0_24": 3.08,
+  "first_onset_step": 12
+ },
+ "tail": {
+  "final12_mean": 1.2,
+  "last_event": null,
+  "settled_from_step": 132,
+  "phase_at_final_step": "SETTLED"
+ }
+}

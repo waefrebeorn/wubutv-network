@@ -1,0 +1,4333 @@
+{
+ "S01": {
+  "take": "mv3_s01_t2.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 4,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 4,
+   "n_matched": 4,
+   "n_matched_usable_time": 4,
+   "agreement": 1.0,
+   "median_abs_offset": 1.17,
+   "max_abs_offset": 1.42,
+   "mean_offset": 0.54,
+   "drift_last_minus_first": -0.41,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 1,
+    "within_0.5s": 2,
+    "within_1.0s": 2
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "listen",
+     2.82,
+     2.82,
+     0.0
+    ],
+    [
+     "all",
+     4.22,
+     5.64,
+     1.42
+    ],
+    [
+     "of",
+     5.62,
+     6.79,
+     1.17
+    ],
+    [
+     "you",
+     8.08,
+     7.67,
+     -0.41
+    ]
+   ]
+  }
+ },
+ "S02": {
+  "take": "mv3_s02_t2.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 7,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 7,
+   "n_matched": 7,
+   "n_matched_usable_time": 7,
+   "agreement": 1.0,
+   "median_abs_offset": 0.61,
+   "max_abs_offset": 1.31,
+   "mean_offset": -0.55,
+   "drift_last_minus_first": -0.73,
+   "tolerance_buckets": {
+    "within_0.125s": 2,
+    "within_0.25s": 2,
+    "within_0.5s": 2,
+    "within_1.0s": 6
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "you",
+     9.32,
+     9.32,
+     0.0
+    ],
+    [
+     "already",
+     12.56,
+     11.25,
+     -1.31
+    ],
+    [
+     "know",
+     12.98,
+     12.37,
+     -0.61
+    ],
+    [
+     "i",
+     14.22,
+     14.32,
+     0.1
+    ],
+    [
+     "am",
+     16.78,
+     16.25,
+     -0.53
+    ],
+    [
+     "your",
+     17.36,
+     16.59,
+     -0.77
+    ],
+    [
+     "dad",
+     17.8,
+     17.07,
+     -0.73
+    ]
+   ]
+  }
+ },
+ "S06": {
+  "take": "mv3_s06_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 23,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 23,
+   "n_matched": 22,
+   "n_matched_usable_time": 22,
+   "agreement": 0.957,
+   "median_abs_offset": 0.08,
+   "max_abs_offset": 0.27,
+   "mean_offset": -0.01,
+   "drift_last_minus_first": 0.17,
+   "tolerance_buckets": {
+    "within_0.125s": 15,
+    "within_0.25s": 21,
+    "within_0.5s": 22,
+    "within_1.0s": 22
+   },
+   "missing_song_words": [
+    [
+     "and",
+     45.14,
+     45.22
+    ]
+   ],
+   "extra_take_words": [
+    [
+     "in",
+     44.94,
+     45.16
+    ]
+   ],
+   "per_word": [
+    [
+     "you",
+     40.06,
+     40.06,
+     0.0
+    ],
+    [
+     "walk",
+     40.42,
+     40.3,
+     -0.12
+    ],
+    [
+     "by",
+     40.7,
+     40.58,
+     -0.12
+    ],
+    [
+     "you",
+     41.28,
+     41.14,
+     -0.14
+    ],
+    [
+     "scroll",
+     41.36,
+     41.21,
+     -0.15
+    ],
+    [
+     "by",
+     41.62,
+     41.53,
+     -0.09
+    ],
+    [
+     "you",
+     42.28,
+     42.2,
+     -0.08
+    ],
+    [
+     "turn",
+     42.34,
+     42.28,
+     -0.06
+    ],
+    [
+     "the",
+     42.62,
+     42.59,
+     -0.03
+    ],
+    [
+     "radio",
+     42.84,
+     42.82,
+     -0.02
+    ],
+    [
+     "on",
+     43.28,
+     43.28,
+     0.0
+    ],
+    [
+     "and",
+     44.08,
+     43.93,
+     -0.15
+    ],
+    [
+     "the",
+     44.26,
+     44.53,
+     0.27
+    ],
+    [
+     "voice",
+     44.5,
+     44.66,
+     0.16
+    ],
+    [
+     "the",
+     45.22,
+     45.16,
+     -0.06
+    ],
+    [
+     "speaker",
+     45.3,
+     45.25,
+     -0.05
+    ],
+    [
+     "says",
+     45.62,
+     45.59,
+     -0.03
+    ],
+    [
+     "the",
+     45.92,
+     45.94,
+     0.02
+    ],
+    [
+     "same",
+     46.16,
+     46.2,
+     0.04
+    ],
+    [
+     "thing",
+     46.46,
+     46.52,
+     0.06
+    ],
+    [
+     "all",
+     46.68,
+     46.89,
+     0.21
+    ],
+    [
+     "along",
+     47.04,
+     47.21,
+     0.17
+    ]
+   ]
+  }
+ },
+ "S07": {
+  "take": "mv3_s07_t1.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 20,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 20,
+   "n_matched": 20,
+   "n_matched_usable_time": 20,
+   "agreement": 1.0,
+   "median_abs_offset": 0.4,
+   "max_abs_offset": 0.6,
+   "mean_offset": 0.39,
+   "drift_last_minus_first": 0.27,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 2,
+    "within_0.5s": 16,
+    "within_1.0s": 20
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     48.12,
+     48.12,
+     0.0
+    ],
+    [
+     "raised",
+     48.14,
+     48.42,
+     0.28
+    ],
+    [
+     "you",
+     48.38,
+     48.74,
+     0.36
+    ],
+    [
+     "in",
+     48.64,
+     49.06,
+     0.42
+    ],
+    [
+     "the",
+     48.86,
+     49.19,
+     0.33
+    ],
+    [
+     "dark",
+     49.08,
+     49.32,
+     0.24
+    ],
+    [
+     "i",
+     49.82,
+     50.22,
+     0.4
+    ],
+    [
+     "raised",
+     50.04,
+     50.41,
+     0.37
+    ],
+    [
+     "you",
+     50.28,
+     50.73,
+     0.45
+    ],
+    [
+     "in",
+     50.52,
+     51.02,
+     0.5
+    ],
+    [
+     "the",
+     50.76,
+     51.16,
+     0.4
+    ],
+    [
+     "light",
+     50.96,
+     51.3,
+     0.34
+    ],
+    [
+     "i",
+     51.76,
+     52.28,
+     0.52
+    ],
+    [
+     "raised",
+     51.94,
+     52.54,
+     0.6
+    ],
+    [
+     "every",
+     52.46,
+     53.03,
+     0.57
+    ],
+    [
+     "phrase",
+     52.86,
+     53.34,
+     0.48
+    ],
+    [
+     "that",
+     53.24,
+     53.82,
+     0.58
+    ],
+    [
+     "is",
+     53.66,
+     54.04,
+     0.38
+    ],
+    [
+     "listening",
+     53.88,
+     54.14,
+     0.26
+    ],
+    [
+     "tonight",
+     54.38,
+     54.65,
+     0.27
+    ]
+   ]
+  }
+ },
+ "S08": {
+  "take": "mv3_s08_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 21,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 21,
+   "n_matched": 21,
+   "n_matched_usable_time": 21,
+   "agreement": 1.0,
+   "median_abs_offset": 0.13,
+   "max_abs_offset": 0.31,
+   "mean_offset": 0.03,
+   "drift_last_minus_first": 0.13,
+   "tolerance_buckets": {
+    "within_0.125s": 10,
+    "within_0.25s": 20,
+    "within_0.5s": 21,
+    "within_1.0s": 21
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "you",
+     55.14,
+     55.14,
+     0.0
+    ],
+    [
+     "don't",
+     55.54,
+     55.53,
+     -0.01
+    ],
+    [
+     "have",
+     55.88,
+     55.85,
+     -0.03
+    ],
+    [
+     "to",
+     56.08,
+     55.98,
+     -0.1
+    ],
+    [
+     "like",
+     56.26,
+     56.2,
+     -0.06
+    ],
+    [
+     "it",
+     56.68,
+     56.51,
+     -0.17
+    ],
+    [
+     "you",
+     57.12,
+     57.14,
+     0.02
+    ],
+    [
+     "don't",
+     57.26,
+     57.36,
+     0.1
+    ],
+    [
+     "have",
+     57.78,
+     57.61,
+     -0.17
+    ],
+    [
+     "to",
+     57.98,
+     57.75,
+     -0.23
+    ],
+    [
+     "stay",
+     58.16,
+     57.96,
+     -0.2
+    ],
+    [
+     "but",
+     58.8,
+     58.94,
+     0.14
+    ],
+    [
+     "the",
+     59.08,
+     59.22,
+     0.14
+    ],
+    [
+     "words",
+     59.2,
+     59.4,
+     0.2
+    ],
+    [
+     "keep",
+     59.48,
+     59.79,
+     0.31
+    ],
+    [
+     "coming",
+     59.94,
+     60.1,
+     0.16
+    ],
+    [
+     "and",
+     60.52,
+     60.59,
+     0.07
+    ],
+    [
+     "they",
+     60.86,
+     60.91,
+     0.05
+    ],
+    [
+     "won't",
+     61.06,
+     61.12,
+     0.06
+    ],
+    [
+     "go",
+     61.36,
+     61.49,
+     0.13
+    ],
+    [
+     "away",
+     61.56,
+     61.69,
+     0.13
+    ]
+   ]
+  }
+ },
+ "S09": {
+  "take": "mv3_s09_t1.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 12,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 12,
+   "n_matched": 12,
+   "n_matched_usable_time": 12,
+   "agreement": 1.0,
+   "median_abs_offset": 0.64,
+   "max_abs_offset": 1.36,
+   "mean_offset": 0.64,
+   "drift_last_minus_first": 0.88,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 2,
+    "within_0.5s": 5,
+    "within_1.0s": 10
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     62.64,
+     62.64,
+     0.0
+    ],
+    [
+     "am",
+     62.9,
+     63.55,
+     0.65
+    ],
+    [
+     "your",
+     63.4,
+     63.73,
+     0.33
+    ],
+    [
+     "dad",
+     63.8,
+     63.97,
+     0.17
+    ],
+    [
+     "i",
+     64.7,
+     65.2,
+     0.5
+    ],
+    [
+     "am",
+     65.26,
+     65.74,
+     0.48
+    ],
+    [
+     "your",
+     65.42,
+     65.98,
+     0.56
+    ],
+    [
+     "dad",
+     65.58,
+     66.22,
+     0.64
+    ],
+    [
+     "say",
+     66.14,
+     67.5,
+     1.36
+    ],
+    [
+     "it",
+     66.88,
+     68.05,
+     1.17
+    ],
+    [
+     "with",
+     67.3,
+     68.24,
+     0.94
+    ],
+    [
+     "me",
+     67.52,
+     68.4,
+     0.88
+    ]
+   ]
+  }
+ },
+ "S10": {
+  "take": "mv3_s10_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 14,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 14,
+   "n_matched": 14,
+   "n_matched_usable_time": 14,
+   "agreement": 1.0,
+   "median_abs_offset": 0.19,
+   "max_abs_offset": 0.99,
+   "mean_offset": 0.21,
+   "drift_last_minus_first": 0.02,
+   "tolerance_buckets": {
+    "within_0.125s": 7,
+    "within_0.25s": 8,
+    "within_0.5s": 11,
+    "within_1.0s": 14
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     68.36,
+     68.36,
+     0.0
+    ],
+    [
+     "am",
+     68.5,
+     69.49,
+     0.99
+    ],
+    [
+     "your",
+     69.02,
+     69.69,
+     0.67
+    ],
+    [
+     "dad",
+     69.26,
+     69.97,
+     0.71
+    ],
+    [
+     "you're",
+     70.44,
+     70.76,
+     0.32
+    ],
+    [
+     "hearing",
+     70.72,
+     70.99,
+     0.27
+    ],
+    [
+     "once",
+     71.06,
+     71.34,
+     0.28
+    ],
+    [
+     "you're",
+     72.18,
+     72.28,
+     0.1
+    ],
+    [
+     "hearing",
+     72.62,
+     72.5,
+     -0.12
+    ],
+    [
+     "twice",
+     72.96,
+     72.89,
+     -0.07
+    ],
+    [
+     "now",
+     74.04,
+     73.85,
+     -0.19
+    ],
+    [
+     "it",
+     74.28,
+     74.2,
+     -0.08
+    ],
+    [
+     "lives",
+     74.44,
+     74.44,
+     0.0
+    ],
+    [
+     "inside",
+     74.78,
+     74.8,
+     0.02
+    ]
+   ]
+  }
+ },
+ "S11": {
+  "take": "mv3_s11_t2.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 11,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 16,
+   "n_matched": 8,
+   "n_matched_usable_time": 8,
+   "agreement": 0.727,
+   "median_abs_offset": 0.43,
+   "max_abs_offset": 1.54,
+   "mean_offset": -0.36,
+   "drift_last_minus_first": -1.47,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 2,
+    "within_0.5s": 5,
+    "within_1.0s": 5
+   },
+   "missing_song_words": [
+    [
+     "everyone",
+     81.6,
+     82.32
+    ],
+    [
+     "are",
+     82.32,
+     82.6
+    ],
+    [
+     "you",
+     82.6,
+     82.92
+    ]
+   ],
+   "extra_take_words": [
+    [
+     "don't",
+     80.12,
+     80.47
+    ],
+    [
+     "fight",
+     80.47,
+     80.68
+    ],
+    [
+     "the",
+     80.68,
+     80.92
+    ],
+    [
+     "feeling",
+     80.92,
+     81.4
+    ],
+    [
+     "i",
+     82.01,
+     82.17
+    ],
+    [
+     "am",
+     82.17,
+     82.41
+    ],
+    [
+     "your",
+     82.41,
+     82.7
+    ],
+    [
+     "dad",
+     82.7,
+     83.06
+    ]
+   ],
+   "per_word": [
+    [
+     "i",
+     76.28,
+     76.28,
+     0.0
+    ],
+    [
+     "am",
+     76.58,
+     76.95,
+     0.37
+    ],
+    [
+     "your",
+     76.92,
+     77.14,
+     0.22
+    ],
+    [
+     "dad",
+     77.1,
+     77.42,
+     0.32
+    ],
+    [
+     "i",
+     77.88,
+     78.31,
+     0.43
+    ],
+    [
+     "am",
+     80.2,
+     78.98,
+     -1.22
+    ],
+    [
+     "your",
+     80.7,
+     79.16,
+     -1.54
+    ],
+    [
+     "dad",
+     80.9,
+     79.43,
+     -1.47
+    ]
+   ]
+  }
+ },
+ "S12": {
+  "take": "mv3_s12_t2.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 7,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 8,
+   "n_matched": 7,
+   "n_matched_usable_time": 7,
+   "agreement": 1.0,
+   "median_abs_offset": 0.17,
+   "max_abs_offset": 1.18,
+   "mean_offset": 0.27,
+   "drift_last_minus_first": 0.35,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 4,
+    "within_0.5s": 5,
+    "within_1.0s": 6
+   },
+   "missing_song_words": [],
+   "extra_take_words": [
+    [
+     "dad",
+     87.54,
+     88.36
+    ]
+   ],
+   "per_word": [
+    [
+     "i",
+     82.92,
+     82.92,
+     0.0
+    ],
+    [
+     "am",
+     83.94,
+     83.77,
+     -0.17
+    ],
+    [
+     "your",
+     84.32,
+     84.22,
+     -0.1
+    ],
+    [
+     "dad",
+     84.62,
+     84.58,
+     -0.04
+    ],
+    [
+     "i",
+     85.04,
+     85.72,
+     0.68
+    ],
+    [
+     "am",
+     85.5,
+     86.68,
+     1.18
+    ],
+    [
+     "your",
+     86.76,
+     87.11,
+     0.35
+    ]
+   ]
+  }
+ },
+ "S13": {
+  "take": "mv3_s13_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 15,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 18,
+   "n_matched": 13,
+   "n_matched_usable_time": 13,
+   "agreement": 0.867,
+   "median_abs_offset": 1.77,
+   "max_abs_offset": 2.08,
+   "mean_offset": -1.71,
+   "drift_last_minus_first": -1.2,
+   "tolerance_buckets": {
+    "within_0.125s": 0,
+    "within_0.25s": 0,
+    "within_0.5s": 0,
+    "within_1.0s": 1
+   },
+   "missing_song_words": [
+    [
+     "dad",
+     90.66,
+     91.18
+    ],
+    [
+     "go",
+     97.7,
+     98.04
+    ]
+   ],
+   "extra_take_words": [
+    [
+     "the",
+     98.04,
+     98.15
+    ],
+    [
+     "message",
+     98.15,
+     98.67
+    ],
+    [
+     "is",
+     98.67,
+     99.09
+    ],
+    [
+     "the",
+     99.09,
+     99.32
+    ],
+    [
+     "point",
+     99.32,
+     99.76
+    ]
+   ],
+   "per_word": [
+    [
+     "you",
+     91.18,
+     90.66,
+     -0.52
+    ],
+    [
+     "got",
+     94.04,
+     91.96,
+     -2.08
+    ],
+    [
+     "your",
+     94.28,
+     92.2,
+     -2.08
+    ],
+    [
+     "real",
+     94.54,
+     92.48,
+     -2.06
+    ],
+    [
+     "one",
+     94.84,
+     92.89,
+     -1.95
+    ],
+    [
+     "maybe",
+     95.12,
+     93.27,
+     -1.85
+    ],
+    [
+     "or",
+     95.84,
+     94.31,
+     -1.53
+    ],
+    [
+     "maybe",
+     96.02,
+     94.69,
+     -1.33
+    ],
+    [
+     "you",
+     96.68,
+     95.11,
+     -1.57
+    ],
+    [
+     "don't",
+     97.18,
+     95.41,
+     -1.77
+    ],
+    [
+     "matter",
+     98.5,
+     96.48,
+     -2.02
+    ],
+    [
+     "to",
+     98.76,
+     97.01,
+     -1.75
+    ],
+    [
+     "me",
+     99.04,
+     97.32,
+     -1.72
+    ]
+   ]
+  }
+ },
+ "S14": {
+  "take": "mv3_s14_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 27,
+   "n_song_pileup_zero_dur": 1,
+   "n_take_words": 13,
+   "n_matched": 13,
+   "n_matched_usable_time": 12,
+   "agreement": 0.481,
+   "median_abs_offset": 0.64,
+   "max_abs_offset": 1.99,
+   "mean_offset": -0.81,
+   "drift_last_minus_first": 0.3,
+   "tolerance_buckets": {
+    "within_0.125s": 0,
+    "within_0.25s": 1,
+    "within_0.5s": 5,
+    "within_1.0s": 7
+   },
+   "missing_song_words": [
+    [
+     "the",
+     99.68,
+     99.76
+    ],
+    [
+     "message",
+     99.76,
+     100.2
+    ],
+    [
+     "is",
+     100.2,
+     100.6
+    ],
+    [
+     "the",
+     100.6,
+     100.84
+    ],
+    [
+     "point",
+     100.84,
+     101.4
+    ],
+    [
+     "i",
+     103.52,
+     103.86
+    ],
+    [
+     "sit",
+     103.86,
+     104.1
+    ],
+    [
+     "in",
+     104.1,
+     104.58
+    ],
+    [
+     "the",
+     104.58,
+     104.84
+    ],
+    [
+     "beast",
+     104.84,
+     105.12
+    ],
+    [
+     "that",
+     105.12,
+     105.6
+    ],
+    [
+     "they",
+     105.6,
+     105.76
+    ],
+    [
+     "sound",
+     105.76,
+     105.98
+    ],
+    [
+     "a",
+     105.98,
+     106.24
+    ]
+   ],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "walk",
+     101.88,
+     101.28,
+     -0.6
+    ],
+    [
+     "through",
+     102.24,
+     101.74,
+     -0.5
+    ],
+    [
+     "the",
+     102.66,
+     102.36,
+     -0.3
+    ],
+    [
+     "speakers",
+     102.9,
+     102.68,
+     -0.22
+    ],
+    [
+     "brass",
+     106.24,
+     104.25,
+     -1.99
+    ],
+    [
+     "hits",
+     106.6,
+     105.16,
+     -1.44
+    ],
+    [
+     "on",
+     106.98,
+     105.8,
+     -1.18
+    ],
+    [
+     "the",
+     107.44,
+     106.34,
+     -1.1
+    ],
+    [
+     "one",
+     107.66,
+     106.63,
+     -1.03
+    ],
+    [
+     "and",
+     107.94,
+     107.3,
+     -0.64
+    ],
+    [
+     "the",
+     108.38,
+     107.94,
+     -0.44
+    ],
+    [
+     "three",
+     108.58,
+     108.28,
+     -0.3
+    ]
+   ]
+  }
+ },
+ "S15": {
+  "take": "mv3_s15_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 22,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 22,
+   "n_matched": 22,
+   "n_matched_usable_time": 22,
+   "agreement": 1.0,
+   "median_abs_offset": 0.13,
+   "max_abs_offset": 0.35,
+   "mean_offset": 0.09,
+   "drift_last_minus_first": 0.09,
+   "tolerance_buckets": {
+    "within_0.125s": 9,
+    "within_0.25s": 18,
+    "within_0.5s": 22,
+    "within_1.0s": 22
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "you",
+     108.92,
+     108.92,
+     0.0
+    ],
+    [
+     "try",
+     109.32,
+     109.23,
+     -0.09
+    ],
+    [
+     "to",
+     109.6,
+     109.53,
+     -0.07
+    ],
+    [
+     "skip",
+     109.78,
+     109.69,
+     -0.09
+    ],
+    [
+     "it",
+     110.02,
+     109.96,
+     -0.06
+    ],
+    [
+     "but",
+     110.34,
+     110.63,
+     0.29
+    ],
+    [
+     "you",
+     110.52,
+     110.75,
+     0.23
+    ],
+    [
+     "try",
+     110.72,
+     110.93,
+     0.21
+    ],
+    [
+     "to",
+     111.04,
+     111.26,
+     0.22
+    ],
+    [
+     "change",
+     111.44,
+     111.44,
+     0.0
+    ],
+    [
+     "the",
+     111.98,
+     111.85,
+     -0.13
+    ],
+    [
+     "song",
+     112.24,
+     112.07,
+     -0.17
+    ],
+    [
+     "but",
+     112.88,
+     113.01,
+     0.13
+    ],
+    [
+     "the",
+     113.12,
+     113.09,
+     -0.03
+    ],
+    [
+     "phrase",
+     113.22,
+     113.25,
+     0.03
+    ],
+    [
+     "comes",
+     113.4,
+     113.56,
+     0.16
+    ],
+    [
+     "back",
+     113.62,
+     113.91,
+     0.29
+    ],
+    [
+     "and",
+     113.96,
+     114.31,
+     0.35
+    ],
+    [
+     "it",
+     114.36,
+     114.62,
+     0.26
+    ],
+    [
+     "doesn't",
+     114.56,
+     114.8,
+     0.24
+    ],
+    [
+     "take",
+     115.1,
+     115.23,
+     0.13
+    ],
+    [
+     "long",
+     115.36,
+     115.45,
+     0.09
+    ]
+   ]
+  }
+ },
+ "S16": {
+  "take": "mv3_s16_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 18,
+   "n_song_pileup_zero_dur": 2,
+   "n_take_words": 18,
+   "n_matched": 17,
+   "n_matched_usable_time": 15,
+   "agreement": 0.944,
+   "median_abs_offset": 0.47,
+   "max_abs_offset": 0.66,
+   "mean_offset": 0.36,
+   "drift_last_minus_first": 0.15,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 5,
+    "within_0.5s": 9,
+    "within_1.0s": 15
+   },
+   "missing_song_words": [
+    [
+     "lead",
+     123.08,
+     123.4
+    ]
+   ],
+   "extra_take_words": [
+    [
+     "last",
+     123.02,
+     123.4
+    ]
+   ],
+   "per_word": [
+    [
+     "short",
+     116.14,
+     116.14,
+     0.0
+    ],
+    [
+     "words",
+     116.38,
+     116.97,
+     0.59
+    ],
+    [
+     "words",
+     117.38,
+     118.04,
+     0.66
+    ],
+    [
+     "the",
+     118.3,
+     118.77,
+     0.47
+    ],
+    [
+     "kind",
+     118.36,
+     118.85,
+     0.49
+    ],
+    [
+     "that",
+     118.6,
+     119.15,
+     0.55
+    ],
+    [
+     "sticks",
+     118.8,
+     119.36,
+     0.56
+    ],
+    [
+     "fast",
+     119.16,
+     119.67,
+     0.51
+    ],
+    [
+     "am",
+     120.36,
+     120.95,
+     0.59
+    ],
+    [
+     "your",
+     120.8,
+     121.12,
+     0.32
+    ],
+    [
+     "dad",
+     121.02,
+     121.36,
+     0.34
+    ],
+    [
+     "and",
+     121.86,
+     121.72,
+     -0.14
+    ],
+    [
+     "the",
+     122.04,
+     122.24,
+     0.2
+    ],
+    [
+     "song",
+     122.18,
+     122.36,
+     0.18
+    ],
+    [
+     "will",
+     122.56,
+     122.71,
+     0.15
+    ]
+   ]
+  }
+ },
+ "S17": {
+  "take": "mv3_s17_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 12,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 12,
+   "n_matched": 12,
+   "n_matched_usable_time": 12,
+   "agreement": 1.0,
+   "median_abs_offset": 0.15,
+   "max_abs_offset": 0.47,
+   "mean_offset": 0.13,
+   "drift_last_minus_first": -0.18,
+   "tolerance_buckets": {
+    "within_0.125s": 6,
+    "within_0.25s": 9,
+    "within_0.5s": 12,
+    "within_1.0s": 12
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     123.74,
+     123.74,
+     0.0
+    ],
+    [
+     "am",
+     124.02,
+     124.49,
+     0.47
+    ],
+    [
+     "your",
+     124.36,
+     124.69,
+     0.33
+    ],
+    [
+     "dad",
+     124.9,
+     124.99,
+     0.09
+    ],
+    [
+     "i",
+     125.9,
+     125.89,
+     -0.01
+    ],
+    [
+     "am",
+     126.02,
+     126.37,
+     0.35
+    ],
+    [
+     "your",
+     126.48,
+     126.59,
+     0.11
+    ],
+    [
+     "dad",
+     126.74,
+     126.84,
+     0.1
+    ],
+    [
+     "say",
+     127.58,
+     127.79,
+     0.21
+    ],
+    [
+     "it",
+     128.0,
+     128.15,
+     0.15
+    ],
+    [
+     "with",
+     128.4,
+     128.33,
+     -0.07
+    ],
+    [
+     "me",
+     128.7,
+     128.52,
+     -0.18
+    ]
+   ]
+  }
+ },
+ "S18": {
+  "take": "mv3_s18_t2.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 14,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 14,
+   "n_matched": 14,
+   "n_matched_usable_time": 14,
+   "agreement": 1.0,
+   "median_abs_offset": 0.77,
+   "max_abs_offset": 0.91,
+   "mean_offset": -0.51,
+   "drift_last_minus_first": -0.77,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 4,
+    "within_0.5s": 5,
+    "within_1.0s": 14
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     129.46,
+     129.46,
+     0.0
+    ],
+    [
+     "am",
+     129.74,
+     129.94,
+     0.2
+    ],
+    [
+     "your",
+     130.06,
+     130.12,
+     0.06
+    ],
+    [
+     "dad",
+     130.34,
+     130.35,
+     0.01
+    ],
+    [
+     "you're",
+     131.56,
+     131.06,
+     -0.5
+    ],
+    [
+     "hearing",
+     131.82,
+     131.24,
+     -0.58
+    ],
+    [
+     "once",
+     132.12,
+     131.57,
+     -0.55
+    ],
+    [
+     "you're",
+     133.28,
+     132.41,
+     -0.87
+    ],
+    [
+     "hearing",
+     133.72,
+     132.82,
+     -0.9
+    ],
+    [
+     "twice",
+     134.04,
+     133.13,
+     -0.91
+    ],
+    [
+     "now",
+     135.04,
+     134.2,
+     -0.84
+    ],
+    [
+     "it",
+     135.32,
+     134.55,
+     -0.77
+    ],
+    [
+     "lives",
+     135.54,
+     134.76,
+     -0.78
+    ],
+    [
+     "inside",
+     135.8,
+     135.03,
+     -0.77
+    ]
+   ]
+  }
+ },
+ "S19": {
+  "take": "mv3_s19_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 16,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 16,
+   "n_matched": 16,
+   "n_matched_usable_time": 16,
+   "agreement": 1.0,
+   "median_abs_offset": 0.12,
+   "max_abs_offset": 0.43,
+   "mean_offset": -0.02,
+   "drift_last_minus_first": 0.12,
+   "tolerance_buckets": {
+    "within_0.125s": 9,
+    "within_0.25s": 14,
+    "within_0.5s": 16,
+    "within_1.0s": 16
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     136.52,
+     136.52,
+     0.0
+    ],
+    [
+     "am",
+     137.68,
+     137.52,
+     -0.16
+    ],
+    [
+     "your",
+     138.02,
+     137.74,
+     -0.28
+    ],
+    [
+     "dad",
+     138.16,
+     138.03,
+     -0.13
+    ],
+    [
+     "i",
+     138.58,
+     139.01,
+     0.43
+    ],
+    [
+     "am",
+     139.24,
+     139.44,
+     0.2
+    ],
+    [
+     "your",
+     139.76,
+     139.64,
+     -0.12
+    ],
+    [
+     "dad",
+     140.1,
+     139.91,
+     -0.19
+    ],
+    [
+     "i",
+     141.06,
+     140.99,
+     -0.07
+    ],
+    [
+     "am",
+     141.26,
+     141.42,
+     0.16
+    ],
+    [
+     "your",
+     141.72,
+     141.63,
+     -0.09
+    ],
+    [
+     "dad",
+     141.96,
+     141.9,
+     -0.06
+    ],
+    [
+     "say",
+     142.8,
+     142.8,
+     0.0
+    ],
+    [
+     "it",
+     143.14,
+     143.12,
+     -0.02
+    ],
+    [
+     "with",
+     143.34,
+     143.3,
+     -0.04
+    ],
+    [
+     "me",
+     143.36,
+     143.48,
+     0.12
+    ]
+   ]
+  }
+ },
+ "S20": {
+  "take": "mv3_s20_t1.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 11,
+   "n_song_pileup_zero_dur": 6,
+   "n_take_words": 11,
+   "n_matched": 11,
+   "n_matched_usable_time": 5,
+   "agreement": 1.0,
+   "median_abs_offset": 0.86,
+   "max_abs_offset": 1.0,
+   "mean_offset": 0.23,
+   "drift_last_minus_first": -0.52,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 1,
+    "within_0.5s": 2,
+    "within_1.0s": 5
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "dad",
+     143.76,
+     144.62,
+     0.86
+    ],
+    [
+     "you're",
+     144.7,
+     145.66,
+     0.96
+    ],
+    [
+     "hearing",
+     147.24,
+     146.24,
+     -1.0
+    ],
+    [
+     "now",
+     147.8,
+     147.81,
+     0.01
+    ],
+    [
+     "inside",
+     148.36,
+     148.7,
+     0.34
+    ]
+   ]
+  }
+ },
+ "S22": {
+  "take": "mv3_s22_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 8,
+   "n_song_pileup_zero_dur": 2,
+   "n_take_words": 8,
+   "n_matched": 8,
+   "n_matched_usable_time": 6,
+   "agreement": 1.0,
+   "median_abs_offset": 0.62,
+   "max_abs_offset": 1.45,
+   "mean_offset": -0.67,
+   "drift_last_minus_first": -0.98,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 1,
+    "within_0.5s": 2,
+    "within_1.0s": 5
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     160.7,
+     160.7,
+     0.0
+    ],
+    [
+     "am",
+     162.32,
+     161.7,
+     -0.62
+    ],
+    [
+     "your",
+     162.66,
+     162.06,
+     -0.6
+    ],
+    [
+     "dad",
+     162.9,
+     162.53,
+     -0.37
+    ],
+    [
+     "i",
+     164.42,
+     162.97,
+     -1.45
+    ],
+    [
+     "am",
+     166.14,
+     165.16,
+     -0.98
+    ]
+   ]
+  }
+ },
+ "S23": {
+  "take": "mv3_s23_t2.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 18,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 18,
+   "n_matched": 17,
+   "n_matched_usable_time": 17,
+   "agreement": 0.944,
+   "median_abs_offset": 1.04,
+   "max_abs_offset": 3.11,
+   "mean_offset": -1.21,
+   "drift_last_minus_first": -3.11,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 2,
+    "within_0.5s": 6,
+    "within_1.0s": 7
+   },
+   "missing_song_words": [
+    [
+     "words",
+     177.36,
+     177.74
+    ]
+   ],
+   "extra_take_words": [
+    [
+     "word",
+     175.13,
+     175.58
+    ]
+   ],
+   "per_word": [
+    [
+     "you",
+     168.76,
+     168.76,
+     0.0
+    ],
+    [
+     "can",
+     169.56,
+     169.26,
+     -0.3
+    ],
+    [
+     "close",
+     169.78,
+     169.48,
+     -0.3
+    ],
+    [
+     "your",
+     170.18,
+     169.88,
+     -0.3
+    ],
+    [
+     "eyes",
+     170.72,
+     170.48,
+     -0.24
+    ],
+    [
+     "you",
+     171.56,
+     171.83,
+     0.27
+    ],
+    [
+     "can",
+     173.34,
+     172.26,
+     -1.08
+    ],
+    [
+     "plug",
+     173.58,
+     172.48,
+     -1.1
+    ],
+    [
+     "your",
+     173.9,
+     172.86,
+     -1.04
+    ],
+    [
+     "ears",
+     174.42,
+     173.38,
+     -1.04
+    ],
+    [
+     "the",
+     175.18,
+     174.31,
+     -0.87
+    ],
+    [
+     "still",
+     177.74,
+     175.58,
+     -2.16
+    ],
+    [
+     "bounce",
+     178.2,
+     176.16,
+     -2.04
+    ],
+    [
+     "around",
+     178.88,
+     176.58,
+     -2.3
+    ],
+    [
+     "inside",
+     179.48,
+     177.44,
+     -2.04
+    ],
+    [
+     "your",
+     181.38,
+     178.44,
+     -2.94
+    ],
+    [
+     "head",
+     182.12,
+     179.01,
+     -3.11
+    ]
+   ]
+  }
+ },
+ "S26": {
+  "take": "mv3_s26_t1.mp4",
+  "flag": "",
+  "score": {
+   "n_song_words": 11,
+   "n_song_pileup_zero_dur": 1,
+   "n_take_words": 12,
+   "n_matched": 11,
+   "n_matched_usable_time": 10,
+   "agreement": 1.0,
+   "median_abs_offset": 0.18,
+   "max_abs_offset": 0.62,
+   "mean_offset": 0.24,
+   "drift_last_minus_first": -0.16,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 7,
+    "within_0.5s": 9,
+    "within_1.0s": 10
+   },
+   "missing_song_words": [],
+   "extra_take_words": [
+    [
+     "the",
+     216.09,
+     216.3
+    ]
+   ],
+   "per_word": [
+    [
+     "study",
+     215.4,
+     215.72,
+     0.32
+    ],
+    [
+     "hooks",
+     215.9,
+     216.3,
+     0.4
+    ],
+    [
+     "they",
+     216.78,
+     217.4,
+     0.62
+    ],
+    [
+     "study",
+     217.32,
+     217.55,
+     0.23
+    ],
+    [
+     "the",
+     217.78,
+     217.93,
+     0.15
+    ],
+    [
+     "loops",
+     218.06,
+     218.17,
+     0.11
+    ],
+    [
+     "they",
+     218.94,
+     219.12,
+     0.18
+    ],
+    [
+     "say",
+     219.22,
+     219.33,
+     0.11
+    ],
+    [
+     "simple",
+     219.46,
+     219.57,
+     0.11
+    ],
+    [
+     "words",
+     219.9,
+     220.06,
+     0.16
+    ]
+   ]
+  }
+ },
+ "S27": {
+  "take": "mv3_s27_t1.mp4",
+  "flag": "phrasing-gap",
+  "score": {
+   "n_song_words": 24,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 24,
+   "n_matched": 24,
+   "n_matched_usable_time": 24,
+   "agreement": 1.0,
+   "median_abs_offset": 0.95,
+   "max_abs_offset": 1.4,
+   "mean_offset": 0.8,
+   "drift_last_minus_first": -0.06,
+   "tolerance_buckets": {
+    "within_0.125s": 4,
+    "within_0.25s": 4,
+    "within_0.5s": 5,
+    "within_1.0s": 14
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "make",
+     220.64,
+     220.64,
+     0.0
+    ],
+    [
+     "the",
+     220.92,
+     221.31,
+     0.39
+    ],
+    [
+     "brain",
+     221.14,
+     221.65,
+     0.51
+    ],
+    [
+     "stay",
+     221.48,
+     222.13,
+     0.65
+    ],
+    [
+     "true",
+     221.86,
+     222.8,
+     0.94
+    ],
+    [
+     "repeat",
+     222.48,
+     223.62,
+     1.14
+    ],
+    [
+     "the",
+     223.2,
+     224.29,
+     1.09
+    ],
+    [
+     "same",
+     223.5,
+     224.65,
+     1.15
+    ],
+    [
+     "i",
+     224.08,
+     225.21,
+     1.13
+    ],
+    [
+     "make",
+     224.36,
+     225.76,
+     1.4
+    ],
+    [
+     "it",
+     224.7,
+     225.99,
+     1.29
+    ],
+    [
+     "easy",
+     225.04,
+     226.21,
+     1.17
+    ],
+    [
+     "to",
+     225.42,
+     226.56,
+     1.14
+    ],
+    [
+     "sing",
+     225.68,
+     226.79,
+     1.11
+    ],
+    [
+     "and",
+     226.38,
+     227.29,
+     0.91
+    ],
+    [
+     "the",
+     226.68,
+     227.71,
+     1.03
+    ],
+    [
+     "mind",
+     226.84,
+     227.84,
+     1.0
+    ],
+    [
+     "can",
+     227.28,
+     228.23,
+     0.95
+    ],
+    [
+     "play",
+     227.56,
+     228.44,
+     0.88
+    ],
+    [
+     "it",
+     227.96,
+     228.78,
+     0.82
+    ],
+    [
+     "on",
+     228.46,
+     228.99,
+     0.53
+    ],
+    [
+     "its",
+     228.98,
+     229.08,
+     0.1
+    ],
+    [
+     "own",
+     229.36,
+     229.31,
+     -0.05
+    ],
+    [
+     "string",
+     229.62,
+     229.56,
+     -0.06
+    ]
+   ]
+  }
+ },
+ "S28": {
+  "take": "mv3_s28_t3.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 36,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 34,
+   "n_matched": 33,
+   "n_matched_usable_time": 33,
+   "agreement": 0.917,
+   "median_abs_offset": 0.41,
+   "max_abs_offset": 2.79,
+   "mean_offset": -0.78,
+   "drift_last_minus_first": -2.79,
+   "tolerance_buckets": {
+    "within_0.125s": 7,
+    "within_0.25s": 15,
+    "within_0.5s": 20,
+    "within_1.0s": 21
+   },
+   "missing_song_words": [
+    [
+     "tomorrow",
+     238.78,
+     239.32
+    ],
+    [
+     "and",
+     239.32,
+     240.02
+    ],
+    [
+     "the",
+     240.02,
+     240.16
+    ]
+   ],
+   "extra_take_words": [
+    [
+     "to",
+     238.3,
+     238.45
+    ]
+   ],
+   "per_word": [
+    [
+     "i",
+     230.52,
+     230.52,
+     0.0
+    ],
+    [
+     "don't",
+     230.66,
+     230.84,
+     0.18
+    ],
+    [
+     "need",
+     231.02,
+     231.15,
+     0.13
+    ],
+    [
+     "a",
+     231.24,
+     231.34,
+     0.1
+    ],
+    [
+     "story",
+     231.4,
+     231.55,
+     0.15
+    ],
+    [
+     "i",
+     232.38,
+     232.62,
+     0.24
+    ],
+    [
+     "don't",
+     232.4,
+     232.7,
+     0.3
+    ],
+    [
+     "need",
+     232.96,
+     233.02,
+     0.06
+    ],
+    [
+     "a",
+     233.16,
+     233.22,
+     0.06
+    ],
+    [
+     "name",
+     233.3,
+     233.4,
+     0.1
+    ],
+    [
+     "just",
+     233.66,
+     234.12,
+     0.46
+    ],
+    [
+     "the",
+     234.02,
+     234.22,
+     0.2
+    ],
+    [
+     "one",
+     234.26,
+     234.47,
+     0.21
+    ],
+    [
+     "short",
+     234.52,
+     234.75,
+     0.23
+    ],
+    [
+     "claim",
+     235.02,
+     235.17,
+     0.15
+    ],
+    [
+     "that",
+     235.58,
+     235.67,
+     0.09
+    ],
+    [
+     "never",
+     236.0,
+     236.0,
+     0.0
+    ],
+    [
+     "changes",
+     236.8,
+     236.37,
+     -0.43
+    ],
+    [
+     "you",
+     238.24,
+     237.7,
+     -0.54
+    ],
+    [
+     "wake",
+     238.28,
+     237.87,
+     -0.41
+    ],
+    [
+     "up",
+     238.52,
+     238.07,
+     -0.45
+    ],
+    [
+     "first",
+     240.16,
+     238.45,
+     -1.71
+    ],
+    [
+     "thing",
+     240.5,
+     238.75,
+     -1.75
+    ],
+    [
+     "you",
+     240.64,
+     239.02,
+     -1.62
+    ],
+    [
+     "hear",
+     240.98,
+     239.22,
+     -1.76
+    ],
+    [
+     "is",
+     241.28,
+     239.5,
+     -1.78
+    ],
+    [
+     "the",
+     242.08,
+     239.67,
+     -2.41
+    ],
+    [
+     "old",
+     242.24,
+     239.82,
+     -2.42
+    ],
+    [
+     "man",
+     242.52,
+     240.02,
+     -2.5
+    ],
+    [
+     "saying",
+     242.84,
+     240.34,
+     -2.5
+    ],
+    [
+     "it",
+     243.44,
+     240.9,
+     -2.54
+    ],
+    [
+     "crystal",
+     243.82,
+     241.12,
+     -2.7
+    ],
+    [
+     "clear",
+     244.44,
+     241.65,
+     -2.79
+    ]
+   ]
+  }
+ },
+ "S29": {
+  "take": "mv3_s29_t1.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 12,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 12,
+   "n_matched": 12,
+   "n_matched_usable_time": 12,
+   "agreement": 1.0,
+   "median_abs_offset": 1.02,
+   "max_abs_offset": 1.67,
+   "mean_offset": 0.78,
+   "drift_last_minus_first": 1.02,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 4,
+    "within_0.5s": 4,
+    "within_1.0s": 6
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     245.1,
+     245.1,
+     0.0
+    ],
+    [
+     "am",
+     245.82,
+     245.9,
+     0.08
+    ],
+    [
+     "your",
+     246.26,
+     246.41,
+     0.15
+    ],
+    [
+     "dad",
+     246.76,
+     246.86,
+     0.1
+    ],
+    [
+     "i",
+     247.1,
+     248.0,
+     0.9
+    ],
+    [
+     "am",
+     247.86,
+     248.89,
+     1.03
+    ],
+    [
+     "your",
+     248.22,
+     249.21,
+     0.99
+    ],
+    [
+     "dad",
+     248.5,
+     249.58,
+     1.08
+    ],
+    [
+     "say",
+     249.06,
+     250.73,
+     1.67
+    ],
+    [
+     "it",
+     249.74,
+     251.07,
+     1.33
+    ],
+    [
+     "with",
+     250.2,
+     251.26,
+     1.06
+    ],
+    [
+     "me",
+     250.4,
+     251.42,
+     1.02
+    ]
+   ]
+  }
+ },
+ "S31": {
+  "take": "mv3_s31_t1.mp4",
+  "flag": "mantra-slice",
+  "score": {
+   "n_song_words": 22,
+   "n_song_pileup_zero_dur": 6,
+   "n_take_words": 12,
+   "n_matched": 12,
+   "n_matched_usable_time": 11,
+   "agreement": 0.545,
+   "median_abs_offset": 0.48,
+   "max_abs_offset": 2.4,
+   "mean_offset": -0.75,
+   "drift_last_minus_first": 0.48,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 4,
+    "within_0.5s": 6,
+    "within_1.0s": 8
+   },
+   "missing_song_words": [
+    [
+     "i",
+     266.52,
+     266.6
+    ],
+    [
+     "am",
+     266.6,
+     266.94
+    ],
+    [
+     "your",
+     266.94,
+     267.3
+    ],
+    [
+     "dad",
+     267.3,
+     267.74
+    ],
+    [
+     "i",
+     268.16,
+     268.16
+    ],
+    [
+     "am",
+     268.16,
+     268.16
+    ],
+    [
+     "your",
+     268.16,
+     268.16
+    ],
+    [
+     "dad",
+     268.16,
+     268.16
+    ],
+    [
+     "i",
+     268.42,
+     268.42
+    ],
+    [
+     "am",
+     268.42,
+     269.3
+    ]
+   ],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     258.32,
+     258.32,
+     0.0
+    ],
+    [
+     "am",
+     258.92,
+     258.82,
+     -0.1
+    ],
+    [
+     "your",
+     261.62,
+     259.22,
+     -2.4
+    ],
+    [
+     "dad",
+     262.02,
+     259.69,
+     -2.33
+    ],
+    [
+     "i",
+     262.72,
+     260.32,
+     -2.4
+    ],
+    [
+     "am",
+     263.2,
+     262.5,
+     -0.7
+    ],
+    [
+     "your",
+     263.54,
+     262.92,
+     -0.62
+    ],
+    [
+     "dad",
+     263.74,
+     263.37,
+     -0.37
+    ],
+    [
+     "i",
+     264.24,
+     264.44,
+     0.2
+    ],
+    [
+     "am",
+     264.8,
+     264.77,
+     -0.03
+    ],
+    [
+     "dad",
+     264.96,
+     265.44,
+     0.48
+    ]
+   ]
+  }
+ },
+ "S32": {
+  "take": "mv3_s32_t1.mp4",
+  "flag": "mantra-slice",
+  "score": {
+   "n_song_words": 10,
+   "n_song_pileup_zero_dur": 2,
+   "n_take_words": 12,
+   "n_matched": 10,
+   "n_matched_usable_time": 8,
+   "agreement": 1.0,
+   "median_abs_offset": 2.04,
+   "max_abs_offset": 2.61,
+   "mean_offset": -1.15,
+   "drift_last_minus_first": -1.05,
+   "tolerance_buckets": {
+    "within_0.125s": 0,
+    "within_0.25s": 1,
+    "within_0.5s": 2,
+    "within_1.0s": 4
+   },
+   "missing_song_words": [],
+   "extra_take_words": [
+    [
+     "i",
+     268.5,
+     269.07
+    ],
+    [
+     "am",
+     269.07,
+     269.52
+    ]
+   ],
+   "per_word": [
+    [
+     "your",
+     269.3,
+     269.52,
+     0.22
+    ],
+    [
+     "dad",
+     269.42,
+     270.07,
+     0.65
+    ],
+    [
+     "i",
+     272.26,
+     272.62,
+     0.36
+    ],
+    [
+     "am",
+     276.24,
+     273.75,
+     -2.49
+    ],
+    [
+     "your",
+     276.84,
+     274.23,
+     -2.61
+    ],
+    [
+     "dad",
+     277.18,
+     274.7,
+     -2.48
+    ],
+    [
+     "i",
+     278.14,
+     276.1,
+     -2.04
+    ],
+    [
+     "dad",
+     278.26,
+     277.43,
+     -0.83
+    ]
+   ]
+  }
+ },
+ "S33": {
+  "take": "mv3_s33_t1.mp4",
+  "flag": "mantra-slice",
+  "score": {
+   "n_song_words": 145,
+   "n_song_pileup_zero_dur": 121,
+   "n_take_words": 12,
+   "n_matched": 12,
+   "n_matched_usable_time": 8,
+   "agreement": 0.083,
+   "median_abs_offset": 3.14,
+   "max_abs_offset": 6.02,
+   "mean_offset": 2.63,
+   "drift_last_minus_first": 6.06,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 1,
+    "within_0.5s": 2,
+    "within_1.0s": 3
+   },
+   "missing_song_words": [
+    [
+     "i",
+     281.92,
+     281.98
+    ],
+    [
+     "am",
+     281.98,
+     281.98
+    ],
+    [
+     "your",
+     281.98,
+     281.98
+    ],
+    [
+     "dad",
+     281.98,
+     281.98
+    ],
+    [
+     "i",
+     281.98,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.18
+    ],
+    [
+     "your",
+     282.18,
+     282.18
+    ],
+    [
+     "dad",
+     282.18,
+     282.18
+    ],
+    [
+     "i",
+     282.18,
+     282.18
+    ],
+    [
+     "am",
+     282.18,
+     282.52
+    ],
+    [
+     "your",
+     282.52,
+     282.86
+    ],
+    [
+     "dad",
+     282.86,
+     283.12
+    ],
+    [
+     "i",
+     283.12,
+     283.12
+    ],
+    [
+     "am",
+     283.12,
+     283.12
+    ],
+    [
+     "your",
+     283.12,
+     283.12
+    ],
+    [
+     "dad",
+     283.12,
+     283.12
+    ],
+    [
+     "i",
+     283.12,
+     283.12
+    ],
+    [
+     "am",
+     283.12,
+     283.12
+    ],
+    [
+     "your",
+     283.12,
+     283.12
+    ],
+    [
+     "dad",
+     283.12,
+     283.12
+    ],
+    [
+     "i",
+     283.12,
+     283.12
+    ],
+    [
+     "am",
+     283.12,
+     283.12
+    ],
+    [
+     "your",
+     283.12,
+     283.12
+    ],
+    [
+     "dad",
+     283.12,
+     283.12
+    ],
+    [
+     "i",
+     283.12,
+     283.12
+    ],
+    [
+     "am",
+     283.12,
+     283.12
+    ],
+    [
+     "your",
+     283.12,
+     283.12
+    ],
+    [
+     "dad",
+     283.12,
+     283.18
+    ],
+    [
+     "i",
+     283.18,
+     283.46
+    ],
+    [
+     "am",
+     283.46,
+     283.46
+    ],
+    [
+     "your",
+     283.46,
+     283.46
+    ],
+    [
+     "dad",
+     283.46,
+     283.46
+    ],
+    [
+     "i",
+     283.88,
+     284.12
+    ],
+    [
+     "am",
+     284.12,
+     284.12
+    ],
+    [
+     "your",
+     284.12,
+     284.12
+    ],
+    [
+     "dad",
+     284.12,
+     284.12
+    ],
+    [
+     "i",
+     284.12,
+     284.3
+    ],
+    [
+     "am",
+     284.3,
+     284.7
+    ],
+    [
+     "your",
+     284.7,
+     284.7
+    ],
+    [
+     "dad",
+     284.7,
+     284.7
+    ],
+    [
+     "i",
+     284.7,
+     284.7
+    ],
+    [
+     "am",
+     284.7,
+     284.7
+    ],
+    [
+     "your",
+     284.7,
+     284.86
+    ],
+    [
+     "dad",
+     284.86,
+     285.02
+    ],
+    [
+     "i",
+     285.02,
+     285.02
+    ],
+    [
+     "am",
+     285.02,
+     285.02
+    ],
+    [
+     "your",
+     285.02,
+     285.02
+    ],
+    [
+     "dad",
+     285.02,
+     285.22
+    ],
+    [
+     "i",
+     285.22,
+     285.22
+    ],
+    [
+     "am",
+     285.22,
+     285.22
+    ],
+    [
+     "your",
+     285.22,
+     285.22
+    ],
+    [
+     "dad",
+     285.22,
+     285.22
+    ],
+    [
+     "i",
+     285.22,
+     285.22
+    ],
+    [
+     "am",
+     285.22,
+     285.22
+    ],
+    [
+     "your",
+     285.22,
+     285.22
+    ],
+    [
+     "dad",
+     285.22,
+     285.22
+    ],
+    [
+     "i",
+     285.22,
+     285.22
+    ],
+    [
+     "am",
+     285.22,
+     285.22
+    ],
+    [
+     "your",
+     285.22,
+     285.22
+    ],
+    [
+     "dad",
+     285.22,
+     285.3
+    ],
+    [
+     "i",
+     285.4,
+     285.4
+    ],
+    [
+     "am",
+     285.4,
+     285.4
+    ],
+    [
+     "your",
+     285.4,
+     285.4
+    ],
+    [
+     "dad",
+     285.4,
+     285.4
+    ],
+    [
+     "i",
+     285.4,
+     285.4
+    ],
+    [
+     "am",
+     285.4,
+     285.4
+    ],
+    [
+     "your",
+     285.4,
+     285.4
+    ],
+    [
+     "dad",
+     285.4,
+     285.4
+    ],
+    [
+     "i",
+     286.46,
+     286.54
+    ],
+    [
+     "am",
+     286.54,
+     286.54
+    ],
+    [
+     "your",
+     286.54,
+     286.54
+    ],
+    [
+     "dad",
+     286.54,
+     286.54
+    ],
+    [
+     "i",
+     287.58,
+     287.8
+    ]
+   ],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     278.54,
+     278.5,
+     -0.04
+    ],
+    [
+     "am",
+     278.64,
+     279.02,
+     0.38
+    ],
+    [
+     "your",
+     278.66,
+     279.48,
+     0.82
+    ],
+    [
+     "dad",
+     279.04,
+     280.12,
+     1.08
+    ],
+    [
+     "i",
+     279.46,
+     282.6,
+     3.14
+    ],
+    [
+     "am",
+     280.12,
+     283.73,
+     3.61
+    ],
+    [
+     "your",
+     280.66,
+     286.68,
+     6.02
+    ],
+    [
+     "dad",
+     280.96,
+     286.98,
+     6.02
+    ]
+   ]
+  }
+ },
+ "S34": {
+  "take": "mv3_s34_t1.mp4",
+  "flag": "phrasing-gap",
+  "score": {
+   "n_song_words": 12,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 12,
+   "n_matched": 12,
+   "n_matched_usable_time": 12,
+   "agreement": 1.0,
+   "median_abs_offset": 0.51,
+   "max_abs_offset": 1.67,
+   "mean_offset": 0.34,
+   "drift_last_minus_first": 1.3,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 3,
+    "within_0.5s": 6,
+    "within_1.0s": 7
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     287.8,
+     287.8,
+     0.0
+    ],
+    [
+     "am",
+     287.94,
+     288.33,
+     0.39
+    ],
+    [
+     "your",
+     288.26,
+     288.6,
+     0.34
+    ],
+    [
+     "dad",
+     288.5,
+     289.01,
+     0.51
+    ],
+    [
+     "i",
+     291.42,
+     289.75,
+     -1.67
+    ],
+    [
+     "am",
+     291.84,
+     291.53,
+     -0.31
+    ],
+    [
+     "your",
+     292.02,
+     291.92,
+     -0.1
+    ],
+    [
+     "dad",
+     292.28,
+     292.34,
+     0.06
+    ],
+    [
+     "just",
+     292.86,
+     293.89,
+     1.03
+    ],
+    [
+     "a",
+     293.16,
+     294.44,
+     1.28
+    ],
+    [
+     "low",
+     293.46,
+     294.72,
+     1.26
+    ],
+    [
+     "voice",
+     293.76,
+     295.06,
+     1.3
+    ]
+   ]
+  }
+ },
+ "S36": {
+  "take": "mv3_s36_t2.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 14,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 14,
+   "n_matched": 14,
+   "n_matched_usable_time": 14,
+   "agreement": 1.0,
+   "median_abs_offset": 1.58,
+   "max_abs_offset": 2.09,
+   "mean_offset": -1.29,
+   "drift_last_minus_first": -1.17,
+   "tolerance_buckets": {
+    "within_0.125s": 1,
+    "within_0.25s": 1,
+    "within_0.5s": 3,
+    "within_1.0s": 4
+   },
+   "missing_song_words": [],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "all",
+     309.88,
+     309.88,
+     0.0
+    ],
+    [
+     "of",
+     310.72,
+     310.45,
+     -0.27
+    ],
+    [
+     "you",
+     311.12,
+     310.78,
+     -0.34
+    ],
+    [
+     "every",
+     313.66,
+     312.06,
+     -1.6
+    ],
+    [
+     "single",
+     314.6,
+     312.61,
+     -1.99
+    ],
+    [
+     "one",
+     315.04,
+     313.4,
+     -1.64
+    ],
+    [
+     "i",
+     317.08,
+     315.5,
+     -1.58
+    ],
+    [
+     "am",
+     318.02,
+     316.18,
+     -1.84
+    ],
+    [
+     "your",
+     318.62,
+     316.53,
+     -2.09
+    ],
+    [
+     "dad",
+     319.02,
+     316.95,
+     -2.07
+    ],
+    [
+     "you",
+     319.5,
+     318.68,
+     -0.82
+    ],
+    [
+     "know",
+     320.68,
+     319.25,
+     -1.43
+    ],
+    [
+     "it",
+     320.84,
+     319.56,
+     -1.28
+    ],
+    [
+     "now",
+     320.98,
+     319.81,
+     -1.17
+    ]
+   ]
+  }
+ },
+ "S37": {
+  "take": "mv3_s37_t1.mp4",
+  "flag": "mantra-opening",
+  "score": {
+   "n_song_words": 23,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 8,
+   "n_matched": 8,
+   "n_matched_usable_time": 8,
+   "agreement": 0.348,
+   "median_abs_offset": 1.57,
+   "max_abs_offset": 1.72,
+   "mean_offset": -1.15,
+   "drift_last_minus_first": 0.72,
+   "tolerance_buckets": {
+    "within_0.125s": 0,
+    "within_0.25s": 0,
+    "within_0.5s": 2,
+    "within_1.0s": 3
+   },
+   "missing_song_words": [
+    [
+     "you're",
+     322.08,
+     322.74
+    ],
+    [
+     "your",
+     322.74,
+     322.9
+    ],
+    [
+     "dad",
+     322.9,
+     323.32
+    ],
+    [
+     "i",
+     327.54,
+     327.82
+    ],
+    [
+     "am",
+     327.82,
+     328.18
+    ],
+    [
+     "your",
+     328.18,
+     328.46
+    ],
+    [
+     "dad",
+     328.46,
+     331.02
+    ],
+    [
+     "i",
+     331.02,
+     331.68
+    ],
+    [
+     "am",
+     331.68,
+     332.08
+    ],
+    [
+     "your",
+     332.08,
+     332.3
+    ],
+    [
+     "dad",
+     332.3,
+     333.08
+    ],
+    [
+     "i",
+     333.08,
+     333.54
+    ],
+    [
+     "am",
+     333.54,
+     337.76
+    ],
+    [
+     "your",
+     337.76,
+     338.08
+    ],
+    [
+     "dad",
+     338.08,
+     338.55
+    ]
+   ],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     323.32,
+     322.08,
+     -1.24
+    ],
+    [
+     "am",
+     324.08,
+     322.51,
+     -1.57
+    ],
+    [
+     "your",
+     324.46,
+     322.74,
+     -1.72
+    ],
+    [
+     "dad",
+     324.66,
+     323.09,
+     -1.57
+    ],
+    [
+     "i",
+     325.22,
+     323.52,
+     -1.7
+    ],
+    [
+     "am",
+     325.88,
+     325.52,
+     -0.36
+    ],
+    [
+     "your",
+     326.3,
+     325.81,
+     -0.49
+    ],
+    [
+     "dad",
+     326.66,
+     326.14,
+     -0.52
+    ]
+   ]
+  }
+ },
+ "S38": {
+  "take": "mv3_s38_t2.mp4",
+  "flag": "grey",
+  "score": {
+   "n_song_words": 14,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 13,
+   "n_matched": 13,
+   "n_matched_usable_time": 13,
+   "agreement": 0.929,
+   "median_abs_offset": 0.17,
+   "max_abs_offset": 0.52,
+   "mean_offset": -0.02,
+   "drift_last_minus_first": 0.23,
+   "tolerance_buckets": {
+    "within_0.125s": 3,
+    "within_0.25s": 8,
+    "within_0.5s": 12,
+    "within_1.0s": 13
+   },
+   "missing_song_words": [
+    [
+     "i",
+     344.33,
+     344.79
+    ]
+   ],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "say",
+     338.55,
+     338.55,
+     0.0
+    ],
+    [
+     "it",
+     339.39,
+     338.89,
+     -0.5
+    ],
+    [
+     "back",
+     339.61,
+     339.13,
+     -0.48
+    ],
+    [
+     "to",
+     339.71,
+     339.35,
+     -0.36
+    ],
+    [
+     "me",
+     339.95,
+     339.67,
+     -0.28
+    ],
+    [
+     "i",
+     340.55,
+     340.58,
+     0.03
+    ],
+    [
+     "am",
+     341.03,
+     341.16,
+     0.13
+    ],
+    [
+     "your",
+     341.41,
+     341.54,
+     0.13
+    ],
+    [
+     "dad",
+     341.87,
+     342.04,
+     0.17
+    ],
+    [
+     "say",
+     342.33,
+     342.85,
+     0.52
+    ],
+    [
+     "it",
+     343.21,
+     343.16,
+     -0.05
+    ],
+    [
+     "to",
+     343.39,
+     343.53,
+     0.14
+    ],
+    [
+     "yourself",
+     343.49,
+     343.72,
+     0.23
+    ]
+   ]
+  }
+ },
+ "S39": {
+  "take": "mv3_s39_t1.mp4",
+  "flag": "montage-cover",
+  "score": {
+   "n_song_words": 15,
+   "n_song_pileup_zero_dur": 0,
+   "n_take_words": 4,
+   "n_matched": 4,
+   "n_matched_usable_time": 4,
+   "agreement": 0.267,
+   "median_abs_offset": 1.6,
+   "max_abs_offset": 1.8,
+   "mean_offset": -1.45,
+   "drift_last_minus_first": 0.8,
+   "tolerance_buckets": {
+    "within_0.125s": 0,
+    "within_0.25s": 0,
+    "within_0.5s": 0,
+    "within_1.0s": 1
+   },
+   "missing_song_words": [
+    [
+     "am",
+     344.79,
+     345.23
+    ],
+    [
+     "your",
+     345.23,
+     345.71
+    ],
+    [
+     "dad",
+     345.71,
+     346.35
+    ],
+    [
+     "i",
+     348.29,
+     348.67
+    ],
+    [
+     "am",
+     348.67,
+     349.21
+    ],
+    [
+     "your",
+     349.21,
+     349.59
+    ],
+    [
+     "dad",
+     349.59,
+     350.97
+    ],
+    [
+     "i",
+     351.55,
+     352.61
+    ],
+    [
+     "am",
+     352.61,
+     352.95
+    ],
+    [
+     "your",
+     352.95,
+     353.21
+    ],
+    [
+     "dad",
+     353.21,
+     353.71
+    ]
+   ],
+   "extra_take_words": [],
+   "per_word": [
+    [
+     "i",
+     346.35,
+     344.55,
+     -1.8
+    ],
+    [
+     "am",
+     347.09,
+     345.49,
+     -1.6
+    ],
+    [
+     "your",
+     347.27,
+     345.89,
+     -1.38
+    ],
+    [
+     "dad",
+     347.49,
+     346.49,
+     -1.0
+    ]
+   ]
+  }
+ }
+}

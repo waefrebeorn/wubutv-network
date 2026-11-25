@@ -1,0 +1,38 @@
+{
+ "take": "media-generation-mv11-r2-s01-t1-0-6a1be0a2-e217-4221-ad1e-7207e779d0fc.mp4",
+ "scene": "S01",
+ "take_no": "1",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "69232f543011",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 2.5,
+   "md5": "af83ffef772c",
+   "mean_abs_diff_from_prev": 39.62
+  },
+  {
+   "t": 5.0,
+   "md5": "9db1b75b64cb",
+   "mean_abs_diff_from_prev": 39.05
+  },
+  {
+   "t": 7.5,
+   "md5": "0468fe2a0485",
+   "mean_abs_diff_from_prev": 37.53
+  },
+  {
+   "t": 9.5,
+   "md5": "b5e6755f2d98",
+   "mean_abs_diff_from_prev": 17.74
+  }
+ ],
+ "frames_distinct": true
+}

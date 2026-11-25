@@ -1,0 +1,62 @@
+{
+ "segment": 11,
+ "start": 168.18,
+ "end": 171.44,
+ "mix": {
+  "words": [
+   {
+    "word": "Oh,",
+    "start": 168.18,
+    "end": 168.9,
+    "prob": 0.205
+   },
+   {
+    "word": "it's",
+    "start": 168.98,
+    "end": 169.2,
+    "prob": 0.701
+   },
+   {
+    "word": "awesome.",
+    "start": 169.2,
+    "end": 169.86,
+    "prob": 0.939
+   }
+  ],
+  "text": " Oh, it's awesome.",
+  "wall_s": 17.7,
+  "score": {
+   "expected": 1,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 3,
+   "n_words": 3
+  }
+ },
+ "vocals": {
+  "words": [
+   {
+    "word": "HOLD",
+    "start": 168.18,
+    "end": 169.06,
+    "prob": 0.171
+   },
+   {
+    "word": "MAUSING",
+    "start": 169.06,
+    "end": 170.22,
+    "prob": 0.357
+   }
+  ],
+  "text": " HOLD MAUSING",
+  "wall_s": 25.8,
+  "score": {
+   "expected": 1,
+   "hit": 0,
+   "coverage": 0.0,
+   "non_lyric_words": 2,
+   "n_words": 2
+  }
+ },
+ "winner": "vocals"
+}

@@ -1,0 +1,65 @@
+{
+ "file": "work/q7/takes/mv9-s08b-q7-t4.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.04,
+   "text": "Inside the porta, inside the porta...",
+   "avg_logprob": -0.613,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Inside",
+     "start": 0.0,
+     "end": 1.14,
+     "probability": 0.822
+    },
+    {
+     "word": " the",
+     "start": 1.14,
+     "end": 1.68,
+     "probability": 0.974
+    },
+    {
+     "word": " porta,",
+     "start": 1.68,
+     "end": 2.32,
+     "probability": 0.683
+    },
+    {
+     "word": " inside",
+     "start": 2.68,
+     "end": 3.26,
+     "probability": 0.95
+    },
+    {
+     "word": " the",
+     "start": 3.26,
+     "end": 3.78,
+     "probability": 0.999
+    },
+    {
+     "word": " porta...",
+     "start": 3.78,
+     "end": 6.04,
+     "probability": 0.638
+    }
+   ]
+  },
+  {
+   "start": 7.86,
+   "end": 9.14,
+   "text": "Box.",
+   "avg_logprob": -0.613,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Box.",
+     "start": 7.86,
+     "end": 9.14,
+     "probability": 0.549
+    }
+   ]
+  }
+ ]
+}

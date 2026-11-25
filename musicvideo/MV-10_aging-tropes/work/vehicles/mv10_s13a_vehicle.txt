@@ -1,0 +1,23 @@
+MV-10 S13a — "The Memory Resolves" (outro, first half — two-image journey)
+Song window: 165.24–171.40 (no words — the outro is the HOTTEST part of the track, ~12.8s, no words). Scene: OUT. Tag: MONTAGE.
+Vehicle v1. Fired in volley 5, third.
+THE VISUAL CLIMAX: the old man and the young man in one frame — the young man in the festival line, the old man at the nightstand, the QR code glowing between them. Two-image journey: young → old, the memory resolving into the present.
+Image 1: MV-9 work/stills/anchor_young_man_1248x704.png (md5 5fceb18f6ec53602355e07f8d3f5e71e).
+Image 2: work/stills/anchor_old_man_1248x704.png (md5 3fb4cfacfb90902d74f8eb99fc317890).
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. The festival line hazy and golden behind him, the fence and the blue porta-potties fading at the edges, the QR code glowing cadmium. The young man from the first reference image — lean, sharp nose, dark messy hair, sunburned nose, damp grey t-shirt, plain solid cadmium yellow paper festival wristband with no numbers and no text on his left wrist, black phone with a cracked corner in his right hand — stands facing camera in medium close-up, mouth closed and still, the glowing phone held up in his right hand.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-9_gotta-hold-it/work/stills/anchor_young_man_1248x704.png
+
+[3] TEXT:
+His face shifts into the old man's face from the second reference image — the SAME man, old again, late sixties, grey at the temples, deeper lines, grey stubble, navy cardigan, reading glasses on a chain around his neck — as the festival haze dissolves and the quiet bedroom returns around him, deep night blue, warm lamp gold light, the water glass glowing on the nightstand, the QR code glowing cadmium on the phone between the two faces, the memory resolving into the present.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-10_aging-tropes/work/stills/anchor_old_man_1248x704.png
+
+[5] TEXT:
+He stands in the bedroom facing camera, mouth closed and still for the entire clip — he does not sing, he does not speak, his mouth stays closed. He blinks slowly, looks down at the glowing phone in his right hand, the plain solid cadmium yellow wristband with no numbers and no text on his left wrist, the two faces — young and old — held in one frame as the haze settles. The camera is steady, a slow drift toward the water glass on the nightstand. The picture never stops moving. No text, no logos, no children, no extra limbs, no morphing.
+
+NOTES: no words in this span (SONG_WORDS.json: last word 164.82, outro 165.24–178.00 wordless). Two-image measured behavior (video-api-mastery): start-anchor → ~0.5s morph → ~9 of 10s in the second image's world — here the morph lands early and the take settles in the bedroom with both faces present, which IS the resolution. Assembly uses ~6.2s of this 10s take (165.24–171.40). S13b covers the last frame (morning glass). This is the climax of the whole video — the outro is the loudest stretch, so the picture peaks here, not in a fade.

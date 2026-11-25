@@ -1,0 +1,249 @@
+{
+ "file": "takes_part2/U4_t1.mp4",
+ "head_rms_0_1.7": 0.02816128544509411,
+ "ambient_rms_0_0.5": 0.02485063299536705,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.58,
+    "end": 4.48,
+    "text": "That hand's been in your pocket all morning.",
+    "words": [
+     {
+      "w": " That",
+      "start": 2.58,
+      "end": 3.04
+     },
+     {
+      "w": " hand's",
+      "start": 3.04,
+      "end": 3.38
+     },
+     {
+      "w": " been",
+      "start": 3.38,
+      "end": 3.5
+     },
+     {
+      "w": " in",
+      "start": 3.5,
+      "end": 3.6
+     },
+     {
+      "w": " your",
+      "start": 3.6,
+      "end": 3.72
+     },
+     {
+      "w": " pocket",
+      "start": 3.72,
+      "end": 4.0
+     },
+     {
+      "w": " all",
+      "start": 4.0,
+      "end": 4.18
+     },
+     {
+      "w": " morning.",
+      "start": 4.18,
+      "end": 4.48
+     }
+    ],
+    "seg_rms": 0.1173
+   },
+   {
+    "start": 5.54,
+    "end": 7.9,
+    "text": "Yesterday, the landlord's boy paid it two coins.",
+    "words": [
+     {
+      "w": " Yesterday,",
+      "start": 5.54,
+      "end": 5.9
+     },
+     {
+      "w": " the",
+      "start": 6.02,
+      "end": 6.2
+     },
+     {
+      "w": " landlord's",
+      "start": 6.2,
+      "end": 6.68
+     },
+     {
+      "w": " boy",
+      "start": 6.68,
+      "end": 6.8
+     },
+     {
+      "w": " paid",
+      "start": 6.8,
+      "end": 7.12
+     },
+     {
+      "w": " it",
+      "start": 7.12,
+      "end": 7.24
+     },
+     {
+      "w": " two",
+      "start": 7.24,
+      "end": 7.48
+     },
+     {
+      "w": " coins.",
+      "start": 7.48,
+      "end": 7.9
+     }
+    ],
+    "seg_rms": 0.1332
+   },
+   {
+    "start": 8.96,
+    "end": 9.62,
+    "text": "Bring it out.",
+    "words": [
+     {
+      "w": " Bring",
+      "start": 8.96,
+      "end": 9.32
+     },
+     {
+      "w": " it",
+      "start": 9.32,
+      "end": 9.46
+     },
+     {
+      "w": " out.",
+      "start": 9.46,
+      "end": 9.62
+     }
+    ],
+    "seg_rms": 0.1279
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.58,
+    "end": 4.58,
+    "text": "That hand's been in your pocket all morning.",
+    "words": [
+     {
+      "w": " That",
+      "start": 2.58,
+      "end": 3.1
+     },
+     {
+      "w": " hand's",
+      "start": 3.1,
+      "end": 3.46
+     },
+     {
+      "w": " been",
+      "start": 3.46,
+      "end": 3.54
+     },
+     {
+      "w": " in",
+      "start": 3.54,
+      "end": 3.66
+     },
+     {
+      "w": " your",
+      "start": 3.66,
+      "end": 3.8
+     },
+     {
+      "w": " pocket",
+      "start": 3.8,
+      "end": 4.08
+     },
+     {
+      "w": " all",
+      "start": 4.08,
+      "end": 4.24
+     },
+     {
+      "w": " morning.",
+      "start": 4.24,
+      "end": 4.58
+     }
+    ],
+    "seg_rms": 0.1158
+   },
+   {
+    "start": 5.9,
+    "end": 8.14,
+    "text": "Yesterday, the landlord's boy paid it two coins.",
+    "words": [
+     {
+      "w": " Yesterday,",
+      "start": 5.9,
+      "end": 6.02
+     },
+     {
+      "w": " the",
+      "start": 6.28,
+      "end": 6.28
+     },
+     {
+      "w": " landlord's",
+      "start": 6.28,
+      "end": 6.76
+     },
+     {
+      "w": " boy",
+      "start": 6.76,
+      "end": 6.9
+     },
+     {
+      "w": " paid",
+      "start": 6.9,
+      "end": 7.2
+     },
+     {
+      "w": " it",
+      "start": 7.2,
+      "end": 7.32
+     },
+     {
+      "w": " two",
+      "start": 7.32,
+      "end": 7.58
+     },
+     {
+      "w": " coins.",
+      "start": 7.58,
+      "end": 8.14
+     }
+    ],
+    "seg_rms": 0.1318
+   },
+   {
+    "start": 8.96,
+    "end": 9.72,
+    "text": "Bring it out.",
+    "words": [
+     {
+      "w": " Bring",
+      "start": 8.96,
+      "end": 9.42
+     },
+     {
+      "w": " it",
+      "start": 9.42,
+      "end": 9.54
+     },
+     {
+      "w": " out.",
+      "start": 9.54,
+      "end": 9.72
+     }
+    ],
+    "seg_rms": 0.1245
+   }
+  ]
+ }
+}

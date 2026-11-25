@@ -1,0 +1,127 @@
+{
+ "file": "takes_part2/U3_t1.mp4",
+ "head_rms_0_1.7": 0.021082209423184395,
+ "ambient_rms_0_0.5": 0.01876784861087799,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.8,
+    "end": 7.67,
+    "text": "Paid him twice now. He writes for everyone but me.",
+    "words": [
+     {
+      "w": " Paid",
+      "start": 2.8,
+      "end": 3.32
+     },
+     {
+      "w": " him",
+      "start": 3.32,
+      "end": 3.4
+     },
+     {
+      "w": " twice",
+      "start": 3.4,
+      "end": 3.64
+     },
+     {
+      "w": " now.",
+      "start": 3.64,
+      "end": 3.98
+     },
+     {
+      "w": " He",
+      "start": 5.69,
+      "end": 6.23
+     },
+     {
+      "w": " writes",
+      "start": 6.23,
+      "end": 6.51
+     },
+     {
+      "w": " for",
+      "start": 6.51,
+      "end": 6.77
+     },
+     {
+      "w": " everyone",
+      "start": 6.77,
+      "end": 7.09
+     },
+     {
+      "w": " but",
+      "start": 7.09,
+      "end": 7.41
+     },
+     {
+      "w": " me.",
+      "start": 7.41,
+      "end": 7.67
+     }
+    ],
+    "seg_rms": 0.0883
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.8,
+    "end": 7.79,
+    "text": "Paid him twice now. He writes for everyone but me.",
+    "words": [
+     {
+      "w": " Paid",
+      "start": 2.8,
+      "end": 3.36
+     },
+     {
+      "w": " him",
+      "start": 3.36,
+      "end": 3.5
+     },
+     {
+      "w": " twice",
+      "start": 3.5,
+      "end": 3.82
+     },
+     {
+      "w": " now.",
+      "start": 3.82,
+      "end": 4.16
+     },
+     {
+      "w": " He",
+      "start": 6.25,
+      "end": 6.33
+     },
+     {
+      "w": " writes",
+      "start": 6.33,
+      "end": 6.67
+     },
+     {
+      "w": " for",
+      "start": 6.67,
+      "end": 6.87
+     },
+     {
+      "w": " everyone",
+      "start": 6.87,
+      "end": 7.27
+     },
+     {
+      "w": " but",
+      "start": 7.27,
+      "end": 7.53
+     },
+     {
+      "w": " me.",
+      "start": 7.53,
+      "end": 7.79
+     }
+    ],
+    "seg_rms": 0.0899
+   }
+  ]
+ }
+}

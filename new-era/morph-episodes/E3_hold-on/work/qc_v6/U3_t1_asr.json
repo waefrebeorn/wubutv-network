@@ -1,0 +1,145 @@
+{
+ "file": "takes_v6/U3_t1.mp4",
+ "head_rms_0_1.7": 0.016558371484279633,
+ "ambient_rms_0_0.5": 0.014625589363276958,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.32,
+    "end": 4.96,
+    "text": "Go on, point, Peach. Pointing's not holding.",
+    "words": [
+     {
+      "w": " Go",
+      "start": 2.32,
+      "end": 2.76
+     },
+     {
+      "w": " on,",
+      "start": 2.76,
+      "end": 3.02
+     },
+     {
+      "w": " point,",
+      "start": 3.04,
+      "end": 3.36
+     },
+     {
+      "w": " Peach.",
+      "start": 3.48,
+      "end": 3.7
+     },
+     {
+      "w": " Pointing's",
+      "start": 4.0,
+      "end": 4.52
+     },
+     {
+      "w": " not",
+      "start": 4.52,
+      "end": 4.64
+     },
+     {
+      "w": " holding.",
+      "start": 4.64,
+      "end": 4.96
+     }
+    ],
+    "seg_rms": 0.0672
+   },
+   {
+    "start": 6.76,
+    "end": 8.2,
+    "text": "Courier, yours stay up.",
+    "words": [
+     {
+      "w": " Courier,",
+      "start": 6.76,
+      "end": 7.28
+     },
+     {
+      "w": " yours",
+      "start": 7.4,
+      "end": 7.68
+     },
+     {
+      "w": " stay",
+      "start": 7.68,
+      "end": 7.98
+     },
+     {
+      "w": " up.",
+      "start": 7.98,
+      "end": 8.2
+     }
+    ],
+    "seg_rms": 0.0735
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.32,
+    "end": 8.34,
+    "text": "Go on. Point, peach. Pointing's not holding. Courier, yours stay up.",
+    "words": [
+     {
+      "w": " Go",
+      "start": 2.32,
+      "end": 2.82
+     },
+     {
+      "w": " on.",
+      "start": 2.82,
+      "end": 3.14
+     },
+     {
+      "w": " Point,",
+      "start": 3.48,
+      "end": 3.48
+     },
+     {
+      "w": " peach.",
+      "start": 3.96,
+      "end": 3.96
+     },
+     {
+      "w": " Pointing's",
+      "start": 4.22,
+      "end": 4.62
+     },
+     {
+      "w": " not",
+      "start": 4.62,
+      "end": 4.74
+     },
+     {
+      "w": " holding.",
+      "start": 4.74,
+      "end": 5.08
+     },
+     {
+      "w": " Courier,",
+      "start": 6.72,
+      "end": 7.4
+     },
+     {
+      "w": " yours",
+      "start": 7.64,
+      "end": 7.76
+     },
+     {
+      "w": " stay",
+      "start": 7.76,
+      "end": 8.1
+     },
+     {
+      "w": " up.",
+      "start": 8.1,
+      "end": 8.34
+     }
+    ],
+    "seg_rms": 0.0602
+   }
+  ]
+ }
+}

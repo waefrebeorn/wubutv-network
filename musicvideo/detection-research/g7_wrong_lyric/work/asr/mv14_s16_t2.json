@@ -1,0 +1,38 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s16-t2-0-5ec040a8-0c3b-4da9-9ac2-f668f8a22592.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.18,
+   "text": "Keep the work alive.",
+   "avg_logprob": -0.612,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Keep",
+     "start": 0.0,
+     "end": 1.04,
+     "probability": 0.875
+    },
+    {
+     "word": " the",
+     "start": 1.04,
+     "end": 1.26,
+     "probability": 0.984
+    },
+    {
+     "word": " work",
+     "start": 1.26,
+     "end": 1.62,
+     "probability": 0.971
+    },
+    {
+     "word": " alive.",
+     "start": 1.62,
+     "end": 2.18,
+     "probability": 0.992
+    }
+   ]
+  }
+ ]
+}

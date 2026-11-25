@@ -1,0 +1,34 @@
+{
+  "stage": 1,
+  "name": "C11 STFT/ISTFT parity vs wubuwizard scipy recipe (torch convention)",
+  "date_utc": "2026-11-12T11:31:00Z",
+  "bar": "STFT max|diff| <= 1e-4 vs torch/scipy (scope bar 1); ISTFT max|diff| <= 1e-4",
+  "results": {
+    "stft_max_diff_bins3plus": 1.526e-05,
+    "stft_corr": 1.0,
+    "stft_bins0_2_max_value": 1.99,
+    "stft_bins0_2_note": "recipe zeroes bins 0-2 post-STFT; my raw bins 0-2 peak at 1.99 (matches scipy fresh-STFT vs saved-spek gap of 1.99)",
+    "istft_max_diff": 1.272e-08,
+    "istft_interior_max_diff": 1.272e-08,
+    "istft_corr": 1.0
+  },
+  "references": {
+    "input_audio": "mix_chunk0_f32.bin [2,261120] float32 (chunk-0 mix, peak-normalized, TRIM-padded)",
+    "stft_ref_scipy": "input_spek_f32.bin from ref_chunk0.npz input_spek [1,4,3072,256]",
+    "stft_ref_torch": "torch_spek_f32.bin [4,3072,256] (torch.stft float32, same input)",
+    "scipy_vs_torch_gap_bins3plus": 1.53e-05,
+    "istft_ref": "istft_ref_f32.bin [2,261120] (scipy istft_complex of ORT final_output, TRIM-cut)"
+  },
+  "implementation": {
+    "stft": "sep_stft.c + sep_fft64.c: reflect-pad, periodic Hann, complex-out; FFT in DOUBLE precision (2048x3 Cooley-Tukey, table-driven twiddles)",
+    "istft": "sep_stft.c + sep_fft.c: OLA + squared-window envelope division (scipy convention), float32",
+    "why_double": "float32 2048x3 FFT error 1.67e-04 on this spectrum (peaked audio: recombination cancels large terms to small bins); numpy/torch complex64 achieve 4-6e-06. Double FFT puts my STFT at torch's own error (1.53e-05). FFT is not the bottleneck (~0.3 s/chunk for STFT+ISTFT pair, 2 threads).",
+    "bugs_found_and_fixed": [
+      "fft3_64 transcription typo: im[1]/im[2] last term used x2i instead of x2r (real planes perfect, imaginary planes in k2=1,2 garbage up to 38). Caught by standalone fft3_64(1,2,3) unit check vs hand-computed values.",
+      "Makefile: test_stft prerequisites omitted sep_fft.c/sep_fft64.c, so make did not rebuild after the fft3 fix (stale binary re-tested at 38.06). Fixed: .c files now listed as prerequisites."
+    ],
+    "traps_confirmed": "n_fft=6144 is NOT a power of two (wubu_fft radix-2 cannot do it) — mixed-radix 2048x3 written from scratch; wubu_fft sign convention verified empirically (forward=inv=1 then xN; inverse=inv=0 then /N); reflect padding matches torch exactly (zero-pad would disagree by 22.3 on edges per wubuwizard)"
+  },
+  "timing": "STFT+ISTFT for one chunk ~0.3 s wall (2 threads, includes file IO)",
+  "verdict": "PASS"
+}

@@ -1,0 +1,49 @@
+{
+ "take": "takes/mv17_s11_t1.mp4",
+ "words": [
+  {
+   "w": "I",
+   "start": 0.0,
+   "end": 0.42,
+   "p": 0.892
+  },
+  {
+   "w": "check",
+   "start": 0.42,
+   "end": 0.92,
+   "p": 0.816
+  },
+  {
+   "w": "twice,",
+   "start": 0.92,
+   "end": 1.58,
+   "p": 0.986
+  },
+  {
+   "w": "I",
+   "start": 2.9,
+   "end": 3.06,
+   "p": 0.991
+  },
+  {
+   "w": "check",
+   "start": 3.06,
+   "end": 3.54,
+   "p": 0.998
+  },
+  {
+   "w": "once",
+   "start": 3.54,
+   "end": 4.06,
+   "p": 0.995
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.06,
+   "text": "I check twice, I check once",
+   "avg_logprob": -0.337
+  }
+ ]
+}

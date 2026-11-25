@@ -1,0 +1,484 @@
+[
+ {
+  "n": 1,
+  "section": "INTRO",
+  "text": "Yeah what was it",
+  "kind": "line",
+  "start": 1.98,
+  "end": 3.9,
+  "matched": "4/4",
+  "asr": "yeah, what was it?"
+ },
+ {
+  "n": 2,
+  "section": "INTRO",
+  "text": "What was it",
+  "kind": "line",
+  "start": 7.08,
+  "end": 8.6,
+  "matched": "3/3",
+  "asr": "what was it"
+ },
+ {
+  "n": 3,
+  "section": "V1",
+  "text": "Opened the door with the thing in my head",
+  "kind": "line",
+  "start": 8.6,
+  "end": 12.82,
+  "matched": "9/9",
+  "asr": "opened the door with the thing in my head"
+ },
+ {
+  "n": 4,
+  "section": "V1",
+  "text": "Took three steps in and the thing went dead",
+  "kind": "line",
+  "start": 12.82,
+  "end": 17.28,
+  "matched": "9/9",
+  "asr": "took three steps in and the thing went dead"
+ },
+ {
+  "n": 5,
+  "section": "V1",
+  "text": "Now I'm just standing in the middle of the room",
+  "kind": "line",
+  "start": 17.28,
+  "end": 21.88,
+  "matched": "10/10",
+  "asr": "now i'm just standing in the middle of the room"
+ },
+ {
+  "n": 6,
+  "section": "V1",
+  "text": "Staring at nothing like I got nothing to do",
+  "kind": "line",
+  "start": 21.88,
+  "end": 26.62,
+  "matched": "9/9",
+  "asr": "staring at nothing like i got nothing to do"
+ },
+ {
+  "n": 7,
+  "section": "PC1",
+  "text": "Brain went blank",
+  "kind": "line",
+  "start": 26.62,
+  "end": 28.42,
+  "matched": "3/3",
+  "asr": "brain went blank,"
+ },
+ {
+  "n": 8,
+  "section": "PC1",
+  "text": "Brain went blank",
+  "kind": "line",
+  "start": 28.56,
+  "end": 29.46,
+  "matched": "3/3",
+  "asr": "brain went blank"
+ },
+ {
+  "n": 9,
+  "section": "PC1",
+  "text": "What did I want",
+  "kind": "line",
+  "start": 29.46,
+  "end": 31.52,
+  "matched": "4/4",
+  "asr": "what did i want?"
+ },
+ {
+  "n": 10,
+  "section": "PC1",
+  "text": "What did I want",
+  "kind": "line",
+  "start": 32.94,
+  "end": 34.18,
+  "matched": "4/4",
+  "asr": "what did i want"
+ },
+ {
+  "n": 11,
+  "section": "C1",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 34.18,
+  "end": 38.66,
+  "matched": "9/9",
+  "asr": "i walked into the room and immediately forgot why"
+ },
+ {
+  "n": 12,
+  "section": "C1",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 38.66,
+  "end": 43.12,
+  "matched": "9/9",
+  "asr": "i walked in to the room and immediately forgot why"
+ },
+ {
+  "n": 13,
+  "section": "C1",
+  "text": "Just standing here",
+  "kind": "line",
+  "start": 43.12,
+  "end": 44.32,
+  "matched": "3/3",
+  "asr": "just standing here"
+ },
+ {
+  "n": 14,
+  "section": "C1",
+  "text": "Like a confused NPC",
+  "kind": "line",
+  "start": 44.32,
+  "end": 46.98,
+  "matched": "4/4",
+  "asr": "like a confused npc"
+ },
+ {
+  "n": 15,
+  "section": "C1",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 46.98,
+  "end": 53.0,
+  "matched": "9/9",
+  "asr": "i walked into the room and immediately forgot why"
+ },
+ {
+  "n": 16,
+  "section": "POST",
+  "text": "Forgot why",
+  "kind": "line",
+  "start": 56.2,
+  "end": 57.68,
+  "matched": "2/2",
+  "asr": "forgot why"
+ },
+ {
+  "n": 17,
+  "section": "POST",
+  "text": "Forgot why",
+  "kind": "line",
+  "start": 61.2,
+  "end": 62.4,
+  "matched": "2/2",
+  "asr": "forgot why"
+ },
+ {
+  "n": 18,
+  "section": "POST",
+  "text": "Just standing",
+  "kind": "line",
+  "start": 63.7,
+  "end": 64.9,
+  "matched": "2/2",
+  "asr": "just standing"
+ },
+ {
+  "n": 19,
+  "section": "POST",
+  "text": "Just standing",
+  "kind": "line",
+  "start": 68.56,
+  "end": 69.76,
+  "matched": "2/2",
+  "asr": "just standing"
+ },
+ {
+  "n": 20,
+  "section": "V2",
+  "text": "Checked the fridge then checked the floor",
+  "kind": "line",
+  "start": 70.48,
+  "end": 72.84,
+  "matched": "7/7",
+  "asr": "check the fridge, then check the floor"
+ },
+ {
+  "n": 21,
+  "section": "V2",
+  "text": "Checked the closet then checked the door",
+  "kind": "line",
+  "start": 72.84,
+  "end": 75.08,
+  "matched": "7/7",
+  "asr": "check the closet, then checked the door but",
+  "override": true
+ },
+ {
+  "n": 22,
+  "section": "V2",
+  "text": "Still nothing",
+  "kind": "line",
+  "start": 75.08,
+  "end": 76.38,
+  "matched": "2/2",
+  "asr": "still nothing,",
+  "override": true
+ },
+ {
+  "n": 23,
+  "section": "V2",
+  "text": "Still nothing",
+  "kind": "line",
+  "start": 76.4,
+  "end": 77.5,
+  "matched": "2/2",
+  "asr": "still nothing"
+ },
+ {
+  "n": 24,
+  "section": "V2",
+  "text": "Might as well just leave and try it again",
+  "kind": "line",
+  "start": 77.5,
+  "end": 79.82,
+  "matched": "9/9",
+  "asr": "might as well just leave and try it again"
+ },
+ {
+  "n": 25,
+  "section": "PC2",
+  "text": "Brain went blank",
+  "kind": "line",
+  "start": 79.82,
+  "end": 81.0,
+  "matched": "3/3",
+  "asr": "brain went blank,"
+ },
+ {
+  "n": 26,
+  "section": "PC2",
+  "text": "Brain went blank",
+  "kind": "line",
+  "start": 81.14,
+  "end": 82.06,
+  "matched": "3/3",
+  "asr": "brain went blank"
+ },
+ {
+  "n": 27,
+  "section": "PC2",
+  "text": "What did I want",
+  "kind": "line",
+  "start": 82.06,
+  "end": 84.1,
+  "matched": "4/4",
+  "asr": "what did i want?"
+ },
+ {
+  "n": 28,
+  "section": "PC2",
+  "text": "What did I want",
+  "kind": "line",
+  "start": 85.34,
+  "end": 86.8,
+  "matched": "4/4",
+  "asr": "what did i want?"
+ },
+ {
+  "n": 29,
+  "section": "C2",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 86.8,
+  "end": 91.18,
+  "matched": "9/9",
+  "asr": "i walked into the room and immediately forgot why"
+ },
+ {
+  "n": 30,
+  "section": "C2",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 91.18,
+  "end": 95.68,
+  "matched": "9/9",
+  "asr": "i walked in to the room and immediately forgot why"
+ },
+ {
+  "n": 31,
+  "section": "C2",
+  "text": "Just standing here",
+  "kind": "line",
+  "start": 95.68,
+  "end": 96.9,
+  "matched": "3/3",
+  "asr": "just standing here"
+ },
+ {
+  "n": 32,
+  "section": "C2",
+  "text": "Just standing here",
+  "kind": "line",
+  "start": 96.9,
+  "end": 98.02,
+  "matched": "3/3",
+  "asr": "just standing here"
+ },
+ {
+  "n": 33,
+  "section": "C2",
+  "text": "Like a confused NPC",
+  "kind": "line",
+  "start": 98.02,
+  "end": 99.6,
+  "matched": "4/4",
+  "asr": "like a confused npc"
+ },
+ {
+  "n": 34,
+  "section": "C2",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 99.6,
+  "end": 105.68,
+  "matched": "8/9",
+  "asr": "i walked to the room and immediately forgot why"
+ },
+ {
+  "n": 35,
+  "section": "BR",
+  "text": "What was it",
+  "kind": "line",
+  "start": 105.68,
+  "end": 107.38,
+  "matched": "3/3",
+  "asr": "what was it?"
+ },
+ {
+  "n": 36,
+  "section": "BR",
+  "text": "What was it",
+  "kind": "line",
+  "start": 108.28,
+  "end": 109.42,
+  "matched": "2/3",
+  "asr": "what was"
+ },
+ {
+  "n": 37,
+  "section": "BR",
+  "text": "I had it",
+  "kind": "line",
+  "start": 109.42,
+  "end": 110.42,
+  "matched": "3/3",
+  "asr": "i had it"
+ },
+ {
+  "n": 38,
+  "section": "BR",
+  "text": "Now it's gone",
+  "kind": "line",
+  "start": 110.42,
+  "end": 112.92,
+  "matched": "3/3",
+  "asr": "now it's gone"
+ },
+ {
+  "n": 39,
+  "section": "BR",
+  "text": "Now it's gone",
+  "kind": "line",
+  "start": 112.92,
+  "end": 115.14,
+  "matched": "2/3",
+  "asr": "now it is gone"
+ },
+ {
+  "n": 40,
+  "section": "C3",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 116.16,
+  "end": 120.92,
+  "matched": "9/9",
+  "asr": "i walked into the room and immediately forgot why"
+ },
+ {
+  "n": 41,
+  "section": "C3",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 120.92,
+  "end": 125.42,
+  "matched": "9/9",
+  "asr": "i walked into the room and immediately forgot why"
+ },
+ {
+  "n": 42,
+  "section": "C3",
+  "text": "Just standing here",
+  "kind": "line",
+  "start": 125.42,
+  "end": 126.64,
+  "matched": "3/3",
+  "asr": "just standing here,"
+ },
+ {
+  "n": 43,
+  "section": "C3",
+  "text": "Just standing here",
+  "kind": "line",
+  "start": 126.66,
+  "end": 127.74,
+  "matched": "3/3",
+  "asr": "just standing here"
+ },
+ {
+  "n": 44,
+  "section": "C3",
+  "text": "Like a confused NPC",
+  "kind": "line",
+  "start": 127.74,
+  "end": 129.3,
+  "matched": "4/4",
+  "asr": "like a confused npc"
+ },
+ {
+  "n": 45,
+  "section": "C3",
+  "text": "I walked into the room and immediately forgot why",
+  "kind": "line",
+  "start": 129.3,
+  "end": 135.18,
+  "matched": "9/9",
+  "asr": "i walked into the room and immediately forgot why"
+ },
+ {
+  "n": 46,
+  "section": "OUT",
+  "text": "Just standing",
+  "kind": "line",
+  "start": 137.98,
+  "end": 139.6,
+  "matched": "2/2",
+  "asr": "just standing"
+ },
+ {
+  "n": 47,
+  "section": "OUT",
+  "text": "Just standing",
+  "kind": "line",
+  "start": 139.6,
+  "end": 144.18,
+  "matched": "2/2",
+  "asr": "just standing"
+ },
+ {
+  "n": 48,
+  "section": "OUT",
+  "text": "Forgot why",
+  "kind": "line",
+  "start": 147.06,
+  "end": 149.26,
+  "matched": "2/2",
+  "asr": "forgot why"
+ }
+]

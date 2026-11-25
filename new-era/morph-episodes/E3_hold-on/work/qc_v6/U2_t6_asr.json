@@ -1,0 +1,213 @@
+{
+ "file": "takes_v6/U2_t6.mp4",
+ "head_rms_0_1.7": 0.06878124922513962,
+ "ambient_rms_0_0.5": 0.005171308293938637,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.78,
+    "end": 5.88,
+    "text": "Us next, Watcher. Us two have held this bouquet since dawn.",
+    "words": [
+     {
+      "w": " Us",
+      "start": 0.78,
+      "end": 1.32
+     },
+     {
+      "w": " next,",
+      "start": 1.32,
+      "end": 1.68
+     },
+     {
+      "w": " Watcher.",
+      "start": 1.86,
+      "end": 2.46
+     },
+     {
+      "w": " Us",
+      "start": 2.66,
+      "end": 3.38
+     },
+     {
+      "w": " two",
+      "start": 3.38,
+      "end": 3.78
+     },
+     {
+      "w": " have",
+      "start": 3.78,
+      "end": 4.08
+     },
+     {
+      "w": " held",
+      "start": 4.08,
+      "end": 4.36
+     },
+     {
+      "w": " this",
+      "start": 4.36,
+      "end": 4.6
+     },
+     {
+      "w": " bouquet",
+      "start": 4.6,
+      "end": 5.02
+     },
+     {
+      "w": " since",
+      "start": 5.02,
+      "end": 5.38
+     },
+     {
+      "w": " dawn.",
+      "start": 5.38,
+      "end": 5.88
+     }
+    ],
+    "seg_rms": 0.0769
+   },
+   {
+    "start": 6.92,
+    "end": 9.48,
+    "text": "Both hands on it. All morning.",
+    "words": [
+     {
+      "w": " Both",
+      "start": 6.92,
+      "end": 7.64
+     },
+     {
+      "w": " hands",
+      "start": 7.64,
+      "end": 8.02
+     },
+     {
+      "w": " on",
+      "start": 8.02,
+      "end": 8.32
+     },
+     {
+      "w": " it.",
+      "start": 8.32,
+      "end": 8.58
+     },
+     {
+      "w": " All",
+      "start": 8.6,
+      "end": 8.9
+     },
+     {
+      "w": " morning.",
+      "start": 8.9,
+      "end": 9.48
+     }
+    ],
+    "seg_rms": 0.1058
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.78,
+    "end": 6.24,
+    "text": "Us next, watcher, us too have held this bouquet since dawn.",
+    "words": [
+     {
+      "w": " Us",
+      "start": 0.78,
+      "end": 1.42
+     },
+     {
+      "w": " next,",
+      "start": 1.42,
+      "end": 1.9
+     },
+     {
+      "w": " watcher,",
+      "start": 2.1,
+      "end": 2.5
+     },
+     {
+      "w": " us",
+      "start": 3.34,
+      "end": 3.58
+     },
+     {
+      "w": " too",
+      "start": 3.58,
+      "end": 3.94
+     },
+     {
+      "w": " have",
+      "start": 3.94,
+      "end": 4.2
+     },
+     {
+      "w": " held",
+      "start": 4.2,
+      "end": 4.46
+     },
+     {
+      "w": " this",
+      "start": 4.46,
+      "end": 4.68
+     },
+     {
+      "w": " bouquet",
+      "start": 4.68,
+      "end": 5.2
+     },
+     {
+      "w": " since",
+      "start": 5.2,
+      "end": 5.56
+     },
+     {
+      "w": " dawn.",
+      "start": 5.56,
+      "end": 6.24
+     }
+    ],
+    "seg_rms": 0.0788
+   },
+   {
+    "start": 7.12,
+    "end": 9.66,
+    "text": "Both hands on it all morning.",
+    "words": [
+     {
+      "w": " Both",
+      "start": 7.12,
+      "end": 7.84
+     },
+     {
+      "w": " hands",
+      "start": 7.84,
+      "end": 8.18
+     },
+     {
+      "w": " on",
+      "start": 8.18,
+      "end": 8.4
+     },
+     {
+      "w": " it",
+      "start": 8.4,
+      "end": 8.62
+     },
+     {
+      "w": " all",
+      "start": 8.62,
+      "end": 9.14
+     },
+     {
+      "w": " morning.",
+      "start": 9.14,
+      "end": 9.66
+     }
+    ],
+    "seg_rms": 0.1099
+   }
+  ]
+ }
+}

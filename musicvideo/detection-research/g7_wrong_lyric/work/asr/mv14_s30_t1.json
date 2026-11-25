@@ -1,0 +1,44 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s30-t1-0-b4daa322-678d-467e-80af-442184188faa.mp4",
+ "segments": [
+  {
+   "start": 2.44,
+   "end": 5.96,
+   "text": "Just clean hands, clear eyes.",
+   "avg_logprob": -0.211,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Just",
+     "start": 2.44,
+     "end": 3.52,
+     "probability": 0.824
+    },
+    {
+     "word": " clean",
+     "start": 3.52,
+     "end": 4.18,
+     "probability": 0.988
+    },
+    {
+     "word": " hands,",
+     "start": 4.18,
+     "end": 4.88,
+     "probability": 0.999
+    },
+    {
+     "word": " clear",
+     "start": 5.12,
+     "end": 5.42,
+     "probability": 0.999
+    },
+    {
+     "word": " eyes.",
+     "start": 5.42,
+     "end": 5.96,
+     "probability": 1.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+MV-11 REBUILD S18 t1 — "Final Two" (the water becomes a wave) — CONTINUITY volley 5 (FINAL)
+Song window: 121.00–131.00 (10.00s slot). Scene: FH-B. Tag: CUTAWAY
+(chant = montage/kinetic, not a singing take — user order 2026-11-09 ~22:04 EST).
+Device: CHAIN from S17 t1 @10.00s (work/stills/stack/chain_s17_last.png,
+md5 a1f6d897dd5ead84d0d0667f1dec2728 — towering crown, duck on top, water
+overflowing the bowl in arcs). The Final Hook keeps climbing: the crown
+becomes a wave that leaves the bowl.
+End ref: s18_end (generated this volley, conditioned on the S17 slot-end
+frame — the wave arcing over the rim, duck riding it at the bowl's edge,
+same room, NEVER a bathtub/sink/door/plant; read back PASS, md5
+24c97a732798e72145687f48b060483e).
+Lines: "Water hits my balls" (repeated; Final Hook word times are
+anchor-level only — Whisper fell into a degenerate "water" loop
+110.7–130.7, so motion is keyed to the BEAT GRID, not word times) +
+"(Splash back)" ~129.98 (take ~8.98).
+Kinetic in post: SLAM on every "Water".
+Images:
+[1] work/stills/stack/chain_s17_last.png (md5 a1f6d897dd5ead84d0d0667f1dec2728)
+[2] work/stills/stack/s18_end_1248x704.webp (md5 24c97a732798e72145687f48b060483e — read back PASS:
+same toilet-bowl room, wave arcing over the rim, duck riding at the edge)
+Beat grid 131.5 BPM, period 0.456s, phase 0.070s. Beats at take
+0.07/0.53/0.98/1.44/1.90/2.35/2.81/3.27/3.72/4.18/4.64/5.09/5.55/6.01/
+6.46/6.92/7.38/7.83/8.29/8.75/9.20/9.66.
+Camera: HOLD WIDE + FRAMING LOCK (the S14 lesson) — the camera stays at
+EXACTLY the first image's distance for the whole take, never closer,
+never pushing in. The wave rises and spills INSIDE the wide frame; the
+bowl stays fully visible at all times; the duck stays visible in the
+foreground. (The v1 vehicle told the camera to follow/circle the duck —
+that instruction is RETIRED; circling breaks the chain framing. Hold
+wide instead.)
+
+PROMPT (verbatim — ordered entries: framing text, image 1, transition text, image 2, arrival text):
+
+[1] TEXT:
+At the teal-tiled bathroom, above the toilet bowl: a white porcelain toilet filled with deep cobalt-blue water, seen wide from above and to the side, warm dome lamp light on deep teal wall tiles, a vermilion towel on a hook, a small window with daylight, a toilet-paper holder on the left wall. The water is towering over the bowl in a huge crown from the last splash, the yellow rubber duck with an orange beak riding the crest at the very top, water cascading down in wide arcs around it, the bowl overflowing. Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded animated film, thick ink outlines, flat colour fields, never photoreal. This shot opens on the first image: the crown towering, the duck on top, the water already overflowing. The picture is already moving at frame 0 — the water is cascading, the duck is riding. The camera stays at exactly this distance for the whole take — never closer, never pushing in.
+
+[2] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/chain_s17_last.png
+
+[3] TEXT:
+This shot continues from the first image and ends at the second image. Motion across the full ten seconds, timed to a driving four-on-the-floor groove at 131.5 BPM. From 0 to 3 seconds the towering crown becomes a WAVE: the water tips over the rim and spills in slow arcs, cobalt water streaming over the porcelain edge and across the tiles, the yellow duck riding the wave down to the bowl's edge, each brass stab sending a fresh arc of water over the side. From 3 to 7 seconds the wave keeps rolling — water arcing over the rim in bright streams, the duck riding the wave around the bowl and back, droplets raining in the lamp light, rings racing across the water, the room glowing gold on every stab. From 7 to 10 seconds the duck crests a wave at the bowl's edge, water streaming over the rim in a bright arc, the overflow pooling into rings on the floor. The camera holds this exact wide framing for the full ten seconds — it does NOT push in, it does NOT circle the duck, the bowl stays fully visible at all times, the duck stays visible in the foreground. No people, no singing, no mouths visible anywhere. No text, no logos, no children, no extra limbs, no morphing.
+
+[4] IMAGE: /home/hatch/workspace/wubutv-network/musicvideo/MV-11_water-hit-my-balls/work/stills/stack/s18_end_1248x704.webp
+
+[5] TEXT:
+End on the second image: the yellow duck cresting a wave at the bowl's edge, water streaming over the rim in a bright arc, the overflow pooling into rings on the floor, the room glowing gold, ready for the Final Hook to keep climbing.
+
+NOTES: S18 is the Final Hook's second scene — the escalation must read BIGGER
+than S17 (the water now LEAVES the bowl; S17's crown becomes S18's wave).
+QC focus: motion audit 0 near-still runs ≥12f; the overflow visibly
+STRONGER at 7s than at 2s; the duck VISIBLE in every sampled frame and never
+filling more than ~20% of frame height; ONE duck throughout; framing
+HELD WIDE (bowl fully visible at all times — the v1 follow/circle is banned);
+room identity = the SAME toilet-bowl room as the S17 slot end (white
+porcelain toilet, teal tiles, vermilion towel, dome lamp, window,
+toilet-paper holder — NO bathtub, NO sink, NO door, NO plant). Joint
+J17 is CHAIN: frame 0 must match chain_s17_last.png (same framing,
+lighting, subject). Assembly uses the full 10.00s slot.

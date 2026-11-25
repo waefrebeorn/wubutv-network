@@ -1,0 +1,3 @@
+# Pre-production factory draft — 2026-10-11 15:30 EDT (bumper factory run)
+Status: FIRE-READY (claim-time renumbering). 3 bumpers B-155..B-157.
+Numbering check: shipped ends at B-154 (154 files). No CLAIM in last 30m except episode claim 14:45 (different surface). PREPRO_2026-10-11_1515 B-155 "The Two Halves" RETIRED — duplicate of shipped B-153 substitute. Drafts renumbered: orig B-156 Letter Rack -> B-155, orig B-157 Dating Press -> B-156, orig B-158 Seating Chart -> B-157. Subjects grep-checked vs BUMPERS.md: zero hits, free. Full prompt texts are verbatim from PREPRO_2026-10-11_1515.md sections B-156/B-157/B-158.

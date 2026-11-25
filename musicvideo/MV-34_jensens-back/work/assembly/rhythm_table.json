@@ -1,0 +1,1124 @@
+{
+ "words": 112,
+ "within_120ms": 99,
+ "within_250ms": 107,
+ "in_beat_cell": 100,
+ "in_halfbeat_cell": 87,
+ "worst": [
+  {
+   "seg": 13,
+   "word": "the",
+   "song_onset": 55.72,
+   "error_ms": -553,
+   "in_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "line",
+   "song_onset": 55.86,
+   "error_ms": -402,
+   "in_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "goes",
+   "song_onset": 42.3,
+   "error_ms": -383,
+   "in_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "Stock",
+   "song_onset": 41.14,
+   "error_ms": 360,
+   "in_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "up,",
+   "song_onset": 42.84,
+   "error_ms": -257,
+   "in_cell": true
+  },
+  {
+   "seg": 2,
+   "word": "He's",
+   "song_onset": 11.26,
+   "error_ms": 240,
+   "in_cell": true
+  },
+  {
+   "seg": 2,
+   "word": "back",
+   "song_onset": 8.36,
+   "error_ms": -193,
+   "in_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "back",
+   "song_onset": 40.92,
+   "error_ms": 163,
+   "in_cell": false
+  },
+  {
+   "seg": 5,
+   "word": "talked",
+   "song_onset": 20.86,
+   "error_ms": -152,
+   "in_cell": true
+  },
+  {
+   "seg": 10,
+   "word": "back,",
+   "song_onset": 29.48,
+   "error_ms": 145,
+   "in_cell": true
+  },
+  {
+   "seg": 5,
+   "word": "Now",
+   "song_onset": 21.34,
+   "error_ms": -132,
+   "in_cell": true
+  },
+  {
+   "seg": 9,
+   "word": "They",
+   "song_onset": 28.92,
+   "error_ms": -128,
+   "in_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "Then",
+   "song_onset": 17.54,
+   "error_ms": -123,
+   "in_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "They",
+   "song_onset": 25.12,
+   "error_ms": -120,
+   "in_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "ringing",
+   "song_onset": 32.28,
+   "error_ms": -113,
+   "in_cell": true
+  }
+ ],
+ "all": [
+  {
+   "seg": 1,
+   "word": "Jensen's",
+   "song_onset": 3.14,
+   "realized_onset": 3.167,
+   "error_ms": 26.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 1,
+   "word": "back",
+   "song_onset": 3.82,
+   "realized_onset": 3.875,
+   "error_ms": 55.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 1,
+   "word": "He's",
+   "song_onset": 5.78,
+   "realized_onset": 5.75,
+   "error_ms": -30.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 1,
+   "word": "back",
+   "song_onset": 6.46,
+   "realized_onset": 6.458,
+   "error_ms": -1.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 2,
+   "word": "He's",
+   "song_onset": 7.68,
+   "realized_onset": 7.667,
+   "error_ms": -13.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 2,
+   "word": "back",
+   "song_onset": 8.36,
+   "realized_onset": 8.167,
+   "error_ms": -193.3,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 2,
+   "word": "He's",
+   "song_onset": 11.26,
+   "realized_onset": 11.5,
+   "error_ms": 240.0,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 2,
+   "word": "back",
+   "song_onset": 11.94,
+   "realized_onset": 12.0,
+   "error_ms": 60.0,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 3,
+   "word": "He",
+   "song_onset": 14.96,
+   "realized_onset": 14.958,
+   "error_ms": -1.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "stepped",
+   "song_onset": 15.64,
+   "realized_onset": 15.667,
+   "error_ms": 26.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "out",
+   "song_onset": 15.94,
+   "realized_onset": 15.958,
+   "error_ms": 18.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "for",
+   "song_onset": 16.48,
+   "realized_onset": 16.5,
+   "error_ms": 20.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "a",
+   "song_onset": 16.92,
+   "realized_onset": 16.917,
+   "error_ms": -3.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "minute",
+   "song_onset": 17.22,
+   "realized_onset": 17.167,
+   "error_ms": -53.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 3,
+   "word": "Then",
+   "song_onset": 17.54,
+   "realized_onset": 17.417,
+   "error_ms": -123.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 4,
+   "word": "the",
+   "song_onset": 17.86,
+   "realized_onset": 17.917,
+   "error_ms": 56.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 4,
+   "word": "board",
+   "song_onset": 18.0,
+   "realized_onset": 18.042,
+   "error_ms": 41.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 4,
+   "word": "said",
+   "song_onset": 18.28,
+   "realized_onset": 18.25,
+   "error_ms": -30.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 4,
+   "word": "stay",
+   "song_onset": 18.54,
+   "realized_onset": 18.542,
+   "error_ms": 1.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 4,
+   "word": "gone",
+   "song_onset": 18.8,
+   "realized_onset": 18.792,
+   "error_ms": -8.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 5,
+   "word": "Stock",
+   "song_onset": 19.16,
+   "realized_onset": 19.167,
+   "error_ms": 6.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 5,
+   "word": "went",
+   "song_onset": 19.46,
+   "realized_onset": 19.5,
+   "error_ms": 40.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 5,
+   "word": "down,",
+   "song_onset": 19.76,
+   "realized_onset": 19.792,
+   "error_ms": 31.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 5,
+   "word": "people",
+   "song_onset": 20.56,
+   "realized_onset": 20.458,
+   "error_ms": -101.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 5,
+   "word": "talked",
+   "song_onset": 20.86,
+   "realized_onset": 20.708,
+   "error_ms": -151.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 5,
+   "word": "Now",
+   "song_onset": 21.34,
+   "realized_onset": 21.208,
+   "error_ms": -131.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 6,
+   "word": "the",
+   "song_onset": 21.64,
+   "realized_onset": 21.667,
+   "error_ms": 26.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 6,
+   "word": "lights",
+   "song_onset": 21.8,
+   "realized_onset": 21.833,
+   "error_ms": 33.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 6,
+   "word": "are",
+   "song_onset": 22.16,
+   "realized_onset": 22.167,
+   "error_ms": 6.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 6,
+   "word": "back",
+   "song_onset": 22.36,
+   "realized_onset": 22.375,
+   "error_ms": 15.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 6,
+   "word": "on",
+   "song_onset": 22.68,
+   "realized_onset": 22.708,
+   "error_ms": 28.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "He",
+   "song_onset": 23.22,
+   "realized_onset": 23.208,
+   "error_ms": -11.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "said",
+   "song_onset": 23.74,
+   "realized_onset": 23.75,
+   "error_ms": 10.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "he",
+   "song_onset": 24.08,
+   "realized_onset": 24.125,
+   "error_ms": 45.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "was",
+   "song_onset": 24.28,
+   "realized_onset": 24.375,
+   "error_ms": 95.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "sorry",
+   "song_onset": 24.48,
+   "realized_onset": 24.583,
+   "error_ms": 103.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 7,
+   "word": "They",
+   "song_onset": 25.12,
+   "realized_onset": 25.0,
+   "error_ms": -120.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 8,
+   "word": "checked",
+   "song_onset": 25.4,
+   "realized_onset": 25.458,
+   "error_ms": 58.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 8,
+   "word": "with",
+   "song_onset": 25.84,
+   "realized_onset": 25.833,
+   "error_ms": -6.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 8,
+   "word": "the",
+   "song_onset": 26.16,
+   "realized_onset": 26.167,
+   "error_ms": 6.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 8,
+   "word": "top",
+   "song_onset": 26.42,
+   "realized_onset": 26.375,
+   "error_ms": -45.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 9,
+   "word": "Eleven",
+   "song_onset": 26.8,
+   "realized_onset": 26.792,
+   "error_ms": -8.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 9,
+   "word": "days",
+   "song_onset": 27.76,
+   "realized_onset": 27.75,
+   "error_ms": -10.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 9,
+   "word": "later",
+   "song_onset": 28.48,
+   "realized_onset": 28.417,
+   "error_ms": -63.3,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 9,
+   "word": "They",
+   "song_onset": 28.92,
+   "realized_onset": 28.792,
+   "error_ms": -128.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 10,
+   "word": "said,",
+   "song_onset": 29.04,
+   "realized_onset": 29.083,
+   "error_ms": 43.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 10,
+   "word": "come",
+   "song_onset": 29.46,
+   "realized_onset": 29.5,
+   "error_ms": 40.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 10,
+   "word": "back,",
+   "song_onset": 29.48,
+   "realized_onset": 29.625,
+   "error_ms": 145.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 10,
+   "word": "don't",
+   "song_onset": 29.82,
+   "realized_onset": 29.833,
+   "error_ms": 13.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 10,
+   "word": "stop",
+   "song_onset": 30.18,
+   "realized_onset": 30.208,
+   "error_ms": 28.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "Numbers",
+   "song_onset": 30.58,
+   "realized_onset": 30.583,
+   "error_ms": 3.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "jumping,",
+   "song_onset": 31.38,
+   "realized_onset": 31.375,
+   "error_ms": -5.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "phones",
+   "song_onset": 31.96,
+   "realized_onset": 31.917,
+   "error_ms": -43.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "ringing",
+   "song_onset": 32.28,
+   "realized_onset": 32.167,
+   "error_ms": -113.3,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 11,
+   "word": "Everybody",
+   "song_onset": 32.68,
+   "realized_onset": 32.75,
+   "error_ms": 70.0,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 11,
+   "word": "watching",
+   "song_onset": 33.2,
+   "realized_onset": 33.25,
+   "error_ms": 50.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "the",
+   "song_onset": 33.68,
+   "realized_onset": 33.708,
+   "error_ms": 28.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "screen",
+   "song_onset": 33.96,
+   "realized_onset": 33.917,
+   "error_ms": -43.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "He",
+   "song_onset": 34.34,
+   "realized_onset": 34.375,
+   "error_ms": 35.0,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 11,
+   "word": "walked",
+   "song_onset": 34.7,
+   "realized_onset": 34.708,
+   "error_ms": 8.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "back",
+   "song_onset": 35.0,
+   "realized_onset": 35.0,
+   "error_ms": -0.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "in",
+   "song_onset": 35.22,
+   "realized_onset": 35.25,
+   "error_ms": 30.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "Like",
+   "song_onset": 35.92,
+   "realized_onset": 35.958,
+   "error_ms": 38.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "the",
+   "song_onset": 36.64,
+   "realized_onset": 36.583,
+   "error_ms": -56.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "whole",
+   "song_onset": 36.84,
+   "realized_onset": 36.875,
+   "error_ms": 35.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "thing",
+   "song_onset": 37.26,
+   "realized_onset": 37.292,
+   "error_ms": 31.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "was",
+   "song_onset": 37.58,
+   "realized_onset": 37.542,
+   "error_ms": -38.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "a",
+   "song_onset": 37.84,
+   "realized_onset": 37.875,
+   "error_ms": 35.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 11,
+   "word": "dream",
+   "song_onset": 38.02,
+   "realized_onset": 38.0,
+   "error_ms": -20.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "Jensen's",
+   "song_onset": 40.28,
+   "realized_onset": 40.25,
+   "error_ms": -30.0,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "back",
+   "song_onset": 40.92,
+   "realized_onset": 41.083,
+   "error_ms": 163.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "Stock",
+   "song_onset": 41.14,
+   "realized_onset": 41.5,
+   "error_ms": 360.0,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "goes",
+   "song_onset": 42.3,
+   "realized_onset": 41.917,
+   "error_ms": -383.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "up,",
+   "song_onset": 42.84,
+   "realized_onset": 42.583,
+   "error_ms": -256.7,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "don't",
+   "song_onset": 43.1,
+   "realized_onset": 43.125,
+   "error_ms": 25.0,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "look",
+   "song_onset": 43.36,
+   "realized_onset": 43.375,
+   "error_ms": 15.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "back",
+   "song_onset": 43.52,
+   "realized_onset": 43.458,
+   "error_ms": -61.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "Jensen's",
+   "song_onset": 43.88,
+   "realized_onset": 43.958,
+   "error_ms": 78.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "back",
+   "song_onset": 44.72,
+   "realized_onset": 44.708,
+   "error_ms": -11.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "Hear",
+   "song_onset": 44.96,
+   "realized_onset": 45.0,
+   "error_ms": 40.0,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "that",
+   "song_onset": 45.28,
+   "realized_onset": 45.292,
+   "error_ms": 11.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "name,",
+   "song_onset": 45.64,
+   "realized_onset": 45.625,
+   "error_ms": -15.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "30",
+   "song_onset": 46.02,
+   "realized_onset": 46.042,
+   "error_ms": 21.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "%",
+   "song_onset": 46.4,
+   "realized_onset": 46.417,
+   "error_ms": 16.7,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 12,
+   "word": "not",
+   "song_onset": 46.76,
+   "realized_onset": 46.792,
+   "error_ms": 31.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "the",
+   "song_onset": 47.12,
+   "realized_onset": 47.167,
+   "error_ms": 46.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 12,
+   "word": "same",
+   "song_onset": 47.28,
+   "realized_onset": 47.333,
+   "error_ms": 53.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "Jensen's",
+   "song_onset": 47.68,
+   "realized_onset": 47.667,
+   "error_ms": -13.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "back",
+   "song_onset": 48.56,
+   "realized_onset": 48.5,
+   "error_ms": -60.0,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "Say",
+   "song_onset": 48.72,
+   "realized_onset": 48.792,
+   "error_ms": 71.7,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "it",
+   "song_onset": 49.04,
+   "realized_onset": 49.0,
+   "error_ms": -40.0,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "loud,",
+   "song_onset": 49.28,
+   "realized_onset": 49.25,
+   "error_ms": -30.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "boy",
+   "song_onset": 49.84,
+   "realized_onset": 49.875,
+   "error_ms": 35.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "said",
+   "song_onset": 50.04,
+   "realized_onset": 50.083,
+   "error_ms": 43.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "yes",
+   "song_onset": 50.38,
+   "realized_onset": 50.333,
+   "error_ms": -46.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "Crowd",
+   "song_onset": 50.6,
+   "realized_onset": 50.625,
+   "error_ms": 25.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "got",
+   "song_onset": 50.88,
+   "realized_onset": 50.875,
+   "error_ms": -5.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "loud",
+   "song_onset": 51.1,
+   "realized_onset": 51.042,
+   "error_ms": -58.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "Jensen's",
+   "song_onset": 51.48,
+   "realized_onset": 51.542,
+   "error_ms": 61.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "back",
+   "song_onset": 52.32,
+   "realized_onset": 52.292,
+   "error_ms": -28.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "One",
+   "song_onset": 52.54,
+   "realized_onset": 52.583,
+   "error_ms": 43.3,
+   "in_cell": true,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "more",
+   "song_onset": 52.86,
+   "realized_onset": 52.917,
+   "error_ms": 56.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "time,",
+   "song_onset": 53.2,
+   "realized_onset": 53.167,
+   "error_ms": -33.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "he's",
+   "song_onset": 53.88,
+   "realized_onset": 53.917,
+   "error_ms": 36.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "the",
+   "song_onset": 54.04,
+   "realized_onset": 54.083,
+   "error_ms": 43.3,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "one",
+   "song_onset": 54.16,
+   "realized_onset": 54.208,
+   "error_ms": 48.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "He's",
+   "song_onset": 54.76,
+   "realized_onset": 54.792,
+   "error_ms": 31.7,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 13,
+   "word": "the",
+   "song_onset": 55.72,
+   "realized_onset": 55.167,
+   "error_ms": -553.3,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 13,
+   "word": "line",
+   "song_onset": 55.86,
+   "realized_onset": 55.458,
+   "error_ms": -401.7,
+   "in_cell": false,
+   "in_half_cell": false
+  },
+  {
+   "seg": 14,
+   "word": "He's",
+   "song_onset": 58.6,
+   "realized_onset": 58.625,
+   "error_ms": 25.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 14,
+   "word": "the",
+   "song_onset": 59.52,
+   "realized_onset": 59.5,
+   "error_ms": -20.0,
+   "in_cell": true,
+   "in_half_cell": true
+  },
+  {
+   "seg": 14,
+   "word": "line",
+   "song_onset": 59.64,
+   "realized_onset": 59.667,
+   "error_ms": 26.7,
+   "in_cell": true,
+   "in_half_cell": true
+  }
+ ]
+}

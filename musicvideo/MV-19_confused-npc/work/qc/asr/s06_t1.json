@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv19_s06_t1.mp4",
+ "words": [
+  {
+   "w": "Staring",
+   "start": 0.0,
+   "end": 1.1,
+   "p": 0.837
+  },
+  {
+   "w": "at",
+   "start": 1.1,
+   "end": 1.3,
+   "p": 0.995
+  },
+  {
+   "w": "nothing",
+   "start": 1.3,
+   "end": 1.64,
+   "p": 0.993
+  },
+  {
+   "w": "like",
+   "start": 1.64,
+   "end": 2.1,
+   "p": 0.821
+  },
+  {
+   "w": "I",
+   "start": 2.1,
+   "end": 2.3,
+   "p": 0.971
+  },
+  {
+   "w": "got",
+   "start": 2.3,
+   "end": 2.56,
+   "p": 0.885
+  },
+  {
+   "w": "nothing",
+   "start": 2.56,
+   "end": 2.96,
+   "p": 0.999
+  },
+  {
+   "w": "to",
+   "start": 2.96,
+   "end": 3.24,
+   "p": 1.0
+  },
+  {
+   "w": "do",
+   "start": 3.24,
+   "end": 3.64,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.64,
+   "text": "Staring at nothing like I got nothing to do",
+   "avg_logprob": -0.282
+  }
+ ]
+}

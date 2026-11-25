@@ -1,0 +1,416 @@
+[
+ {
+  "label": "PILOT-1 THE MACHINE",
+  "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-1_the-machine/masters/pilot1_the-machine_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 60.0,
+  "audio": {
+   "median_dbfs": -38.1,
+   "t50_s": 3.1,
+   "t90_s": 4.1,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -45.2,
+    -48.4,
+    -47.6,
+    -47.7,
+    -48.1,
+    -46.8
+   ],
+   "crackle_bursts_0_1.5s": 6,
+   "hp_floor": 0.00122,
+   "head_rms_frac_of_median": 0.37,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    1.94,
+    1.69,
+    1.75,
+    2.04,
+    2.1,
+    2.29,
+    2.44,
+    2.57,
+    2.41,
+    2.45,
+    2.42,
+    2.45
+   ],
+   "baseline_mae_3_10s": 2.25,
+   "motion_0_0.5s": 1.82,
+   "motion_ratio_vs_baseline": 0.81,
+   "first_cut_s": null,
+   "cut_threshold": 27.2
+  }
+ },
+ {
+  "label": "PILOT-2 THE TENTH SECOND",
+  "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-2_the-tenth-second/masters/pilot2_the-tenth-second_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 60.0,
+  "audio": {
+   "median_dbfs": -33.5,
+   "t50_s": 0.1,
+   "t90_s": 1.5,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -36.9,
+    -35.2,
+    -36.0,
+    -33.4,
+    -36.0,
+    -35.7
+   ],
+   "crackle_bursts_0_1.5s": 0,
+   "hp_floor": 0.00877,
+   "head_rms_frac_of_median": 0.78,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    8.98,
+    11.59,
+    11.62,
+    11.7,
+    10.6,
+    10.02,
+    9.5,
+    9.09,
+    8.84,
+    8.05,
+    7.42,
+    7.31
+   ],
+   "baseline_mae_3_10s": 3.41,
+   "motion_0_0.5s": 10.28,
+   "motion_ratio_vs_baseline": 3.01,
+   "first_cut_s": null,
+   "cut_threshold": 28.4
+  }
+ },
+ {
+  "label": "PILOT-3 THE ROSTER",
+  "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-3_the-roster/masters/pilot3_the-roster_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 60.0,
+  "audio": {
+   "median_dbfs": -34.6,
+   "t50_s": 0.0,
+   "t90_s": 0.0,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -27.4,
+    -28.5,
+    -31.2,
+    -35.0,
+    -34.7,
+    -31.2
+   ],
+   "crackle_bursts_0_1.5s": 0,
+   "hp_floor": 0.00336,
+   "head_rms_frac_of_median": 2.015,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    0.56,
+    3.05,
+    6.16,
+    7.51,
+    7.42,
+    8.8,
+    9.57,
+    9.89,
+    8.59,
+    7.1,
+    6.01,
+    5.0
+   ],
+   "baseline_mae_3_10s": 2.21,
+   "motion_0_0.5s": 1.81,
+   "motion_ratio_vs_baseline": 0.82,
+   "first_cut_s": null,
+   "cut_threshold": 27.2
+  }
+ },
+ {
+  "label": "PILOT-4 THE COUNT",
+  "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-4_the-count/masters/pilot4_the-count_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 60.0,
+  "audio": {
+   "median_dbfs": -28.7,
+   "t50_s": 0.0,
+   "t90_s": 0.0,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -17.2,
+    -19.0,
+    -18.2,
+    -15.3,
+    -14.8,
+    -16.1
+   ],
+   "crackle_bursts_0_1.5s": 6,
+   "hp_floor": 0.0442,
+   "head_rms_frac_of_median": 3.52,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    0.53,
+    0.78,
+    1.16,
+    1.92,
+    2.89,
+    4.1,
+    4.96,
+    5.68,
+    6.22,
+    6.75,
+    7.21,
+    7.74
+   ],
+   "baseline_mae_3_10s": 6.26,
+   "motion_0_0.5s": 0.65,
+   "motion_ratio_vs_baseline": 0.1,
+   "first_cut_s": null,
+   "cut_threshold": 31.3
+  }
+ },
+ {
+  "label": "PILOT-5 THE LAST SEAT",
+  "path": "/home/hatch/workspace/wubutv-network/new-era/pilots/PILOT-5_the-last-seat/masters/PILOT-5_the-last-seat_house.mp4",
+  "fps": 24.0,
+  "dur_s": 60.0,
+  "audio": {
+   "median_dbfs": -38.3,
+   "t50_s": 0.7,
+   "t90_s": 0.7,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -47.7,
+    -38.3,
+    -39.1,
+    -27.0,
+    -23.6,
+    -44.4
+   ],
+   "crackle_bursts_0_1.5s": 19,
+   "hp_floor": 0.00332,
+   "head_rms_frac_of_median": 1.151,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    3.94,
+    1.77,
+    5.12,
+    7.66,
+    5.6,
+    3.53,
+    1.99,
+    2.42,
+    2.99,
+    2.18,
+    2.37,
+    4.31
+   ],
+   "baseline_mae_3_10s": 4.04,
+   "motion_0_0.5s": 2.86,
+   "motion_ratio_vs_baseline": 0.71,
+   "first_cut_s": null,
+   "cut_threshold": 29.0
+  }
+ },
+ {
+  "label": "MV-21 Wowie Pants",
+  "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-21_wowie-pants-that-fit/masters/mv21_wowie_pants_that_fit_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 131.6,
+  "audio": {
+   "median_dbfs": -14.9,
+   "t50_s": 2.6,
+   "t90_s": 24.7,
+   "lead_silence_s": 1.9,
+   "head_db_per_0.5s": [
+    -57.8,
+    -49.1,
+    -45.4,
+    -39.4,
+    -29.4,
+    -21.5
+   ],
+   "crackle_bursts_0_1.5s": 0,
+   "hp_floor": 0.000752,
+   "head_rms_frac_of_median": 0.022,
+   "quiet_frac_0_1.5s": 1.0,
+   "opening_class": "slow-ramp"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    1.73,
+    2.42,
+    2.75,
+    2.71,
+    1.59,
+    3.19,
+    4.03,
+    5.96,
+    12.91,
+    1.96,
+    3.0,
+    4.46
+   ],
+   "baseline_mae_3_10s": 7.08,
+   "motion_0_0.5s": 2.07,
+   "motion_ratio_vs_baseline": 0.29,
+   "first_cut_s": 2.12,
+   "cut_threshold": 32.1
+  }
+ },
+ {
+  "label": "MV-20 Laundry Life",
+  "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-20_laundry-life/masters/mv20_laundry_life_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 162.0,
+  "audio": {
+   "median_dbfs": -15.1,
+   "t50_s": 0.0,
+   "t90_s": 0.4,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -16.8,
+    -16.0,
+    -17.7,
+    -16.0,
+    -15.9,
+    -16.6
+   ],
+   "crackle_bursts_0_1.5s": 0,
+   "hp_floor": 0.117,
+   "head_rms_frac_of_median": 0.892,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    4.82,
+    4.5,
+    3.57,
+    7.22,
+    10.44,
+    11.88,
+    7.59,
+    8.94,
+    9.66,
+    6.25,
+    7.52,
+    5.29
+   ],
+   "baseline_mae_3_10s": 7.09,
+   "motion_0_0.5s": 4.66,
+   "motion_ratio_vs_baseline": 0.66,
+   "first_cut_s": 4.5,
+   "cut_threshold": 32.1
+  }
+ },
+ {
+  "label": "MV-19 Confused NPC",
+  "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-19_confused-npc/masters/mv19_confused_npc_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 153.6,
+  "audio": {
+   "median_dbfs": -14.5,
+   "t50_s": 0.0,
+   "t90_s": 0.0,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -15.3,
+    -18.9,
+    -16.6,
+    -16.4,
+    -19.8,
+    -25.5
+   ],
+   "crackle_bursts_0_1.5s": 40,
+   "hp_floor": 0.0129,
+   "head_rms_frac_of_median": 0.884,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    5.25,
+    5.75,
+    6.75,
+    5.87,
+    5.87,
+    3.92,
+    4.39,
+    8.91,
+    8.66,
+    6.09,
+    5.89,
+    5.62
+   ],
+   "baseline_mae_3_10s": 4.82,
+   "motion_0_0.5s": 5.5,
+   "motion_ratio_vs_baseline": 1.14,
+   "first_cut_s": 2.0,
+   "cut_threshold": 29.8
+  }
+ },
+ {
+  "label": "MV-18 Whats a Sigma",
+  "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-18_whats-a-sigma-mom/masters/mv18_whats_a_sigma_mom_16x9.mp4",
+  "fps": 24.0,
+  "dur_s": 157.6,
+  "audio": {
+   "median_dbfs": -15.2,
+   "t50_s": 0.0,
+   "t90_s": 0.7,
+   "lead_silence_s": 0.0,
+   "head_db_per_0.5s": [
+    -18.2,
+    -15.9,
+    -16.9,
+    -17.2,
+    -16.4,
+    -15.3
+   ],
+   "crackle_bursts_0_1.5s": 0,
+   "hp_floor": 0.114,
+   "head_rms_frac_of_median": 0.843,
+   "quiet_frac_0_1.5s": 0.0,
+   "opening_class": "full-from-frame-0"
+  },
+  "video": {
+   "mae_buckets_0.25s": [
+    2.64,
+    2.57,
+    2.5,
+    2.36,
+    2.43,
+    3.09,
+    2.54,
+    2.52,
+    2.92,
+    4.2,
+    3.2,
+    3.95
+   ],
+   "baseline_mae_3_10s": 2.61,
+   "motion_0_0.5s": 2.61,
+   "motion_ratio_vs_baseline": 1.0,
+   "first_cut_s": 6.54,
+   "cut_threshold": 27.6
+  }
+ }
+]

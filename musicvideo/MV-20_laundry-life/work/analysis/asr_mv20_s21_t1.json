@@ -1,0 +1,79 @@
+{
+ "take": "takes/mv20_s21_t1.mp4",
+ "words": [
+  {
+   "w": "Living",
+   "start": 0.0,
+   "end": 0.9,
+   "p": 0.686
+  },
+  {
+   "w": "out",
+   "start": 0.9,
+   "end": 1.24,
+   "p": 0.979
+  },
+  {
+   "w": "the",
+   "start": 1.24,
+   "end": 1.48,
+   "p": 0.997
+  },
+  {
+   "w": "basket,",
+   "start": 1.48,
+   "end": 2.2,
+   "p": 0.994
+  },
+  {
+   "w": "living",
+   "start": 2.22,
+   "end": 4.2,
+   "p": 0.965
+  },
+  {
+   "w": "out",
+   "start": 4.2,
+   "end": 4.6,
+   "p": 1.0
+  },
+  {
+   "w": "the",
+   "start": 4.6,
+   "end": 4.8,
+   "p": 0.999
+  },
+  {
+   "w": "basket,",
+   "start": 4.8,
+   "end": 5.54,
+   "p": 1.0
+  },
+  {
+   "w": "like",
+   "start": 5.54,
+   "end": 7.86,
+   "p": 0.97
+  },
+  {
+   "w": "a",
+   "start": 7.86,
+   "end": 8.04,
+   "p": 0.997
+  },
+  {
+   "w": "raccoon.",
+   "start": 8.04,
+   "end": 8.84,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.84,
+   "text": "Living out the basket, living out the basket, like a raccoon.",
+   "avg_logprob": -0.307
+  }
+ ]
+}

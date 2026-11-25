@@ -1,0 +1,212 @@
+{
+ "take": "mv5_s07_t2.mp4",
+ "take_duration_s": 5.035,
+ "prompted_line": "One small look from you",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "line-id L15",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "One",
+    0.0,
+    0.5
+   ],
+   [
+    "small",
+    0.5,
+    1.24
+   ],
+   [
+    "look",
+    1.24,
+    1.74
+   ],
+   [
+    "from",
+    1.74,
+    2.1
+   ],
+   [
+    "you",
+    2.1,
+    2.56
+   ]
+  ],
+  "prompted": [
+   [
+    "One",
+    0.0,
+    0.5
+   ],
+   [
+    "small",
+    0.5,
+    1.24
+   ],
+   [
+    "look",
+    1.24,
+    1.74
+   ],
+   [
+    "from",
+    1.74,
+    2.1
+   ],
+   [
+    "you",
+    2.1,
+    2.56
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 0.523,
+ "words": [
+  {
+   "song_word": "One",
+   "song_start": 51.46,
+   "song_end": 51.728,
+   "take_word": "One",
+   "take_start": 0.0,
+   "take_end": 0.5,
+   "source": "unprompted",
+   "raw_offset": -51.46,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.5,
+    "song_interval_s": 0.268,
+    "playback_speed": 1.866,
+    "setpts_factor": 0.536,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "small",
+   "song_start": 51.728,
+   "song_end": 51.996,
+   "take_word": "small",
+   "take_start": 0.5,
+   "take_end": 1.24,
+   "source": "unprompted",
+   "raw_offset": -51.228,
+   "swing_offset": 0.232,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.74,
+    "song_interval_s": 0.268,
+    "playback_speed": 2.761,
+    "setpts_factor": 0.3622,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "look",
+   "song_start": 51.996,
+   "song_end": 52.264,
+   "take_word": "look",
+   "take_start": 1.24,
+   "take_end": 1.74,
+   "source": "unprompted",
+   "raw_offset": -50.756,
+   "swing_offset": 0.704,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.5,
+    "song_interval_s": 0.268,
+    "playback_speed": 1.866,
+    "setpts_factor": 0.536,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "from",
+   "song_start": 52.264,
+   "song_end": 52.532,
+   "take_word": "from",
+   "take_start": 1.74,
+   "take_end": 2.1,
+   "source": "unprompted",
+   "raw_offset": -50.524,
+   "swing_offset": 0.936,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.36,
+    "song_interval_s": 0.268,
+    "playback_speed": 1.343,
+    "setpts_factor": 0.7444,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "you",
+   "song_start": 52.532,
+   "song_end": 52.8,
+   "take_word": "you",
+   "take_start": 2.1,
+   "take_end": 2.56,
+   "source": "unprompted",
+   "raw_offset": -50.432,
+   "swing_offset": 1.028,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.268,
+    "playback_speed": 1.716,
+    "setpts_factor": 0.5826,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  }
+ ],
+ "extras": [],
+ "keyframes": [
+  {
+   "word": "One",
+   "song_time": 51.46,
+   "take_time": 0.0
+  },
+  {
+   "word": "small",
+   "song_time": 51.728,
+   "take_time": 0.5
+  },
+  {
+   "word": "look",
+   "song_time": 51.996,
+   "take_time": 1.24
+  },
+  {
+   "word": "from",
+   "song_time": 52.264,
+   "take_time": 1.74
+  },
+  {
+   "word": "you",
+   "song_time": 52.532,
+   "take_time": 2.1
+  }
+ ],
+ "montage_cuts": [],
+ "summary": {
+  "WARPABLE": 5
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

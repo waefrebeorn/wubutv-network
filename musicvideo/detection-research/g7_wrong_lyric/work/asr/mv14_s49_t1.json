@@ -1,0 +1,38 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s49-t1-0-a31aaf6a-3c88-496c-acef-e7d6dcd95798.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.56,
+   "text": "clip it, post it.",
+   "avg_logprob": -0.431,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " clip",
+     "start": 0.0,
+     "end": 0.5,
+     "probability": 0.437
+    },
+    {
+     "word": " it,",
+     "start": 0.5,
+     "end": 0.74,
+     "probability": 0.95
+    },
+    {
+     "word": " post",
+     "start": 0.9,
+     "end": 1.3,
+     "probability": 0.998
+    },
+    {
+     "word": " it.",
+     "start": 1.3,
+     "end": 1.56,
+     "probability": 1.0
+    }
+   ]
+  }
+ ]
+}

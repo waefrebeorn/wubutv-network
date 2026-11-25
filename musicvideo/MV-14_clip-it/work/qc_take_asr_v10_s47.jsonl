@@ -1,0 +1,56 @@
+{
+ "file": "work/qc_S47_t1/audio.wav",
+ "segments": [
+  {
+   "start": 1.16,
+   "end": 2.82,
+   "text": "This is how you do it now.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " This",
+     "start": 1.16,
+     "end": 1.56,
+     "prob": 0.863
+    },
+    {
+     "word": " is",
+     "start": 1.56,
+     "end": 1.96,
+     "prob": 0.909
+    },
+    {
+     "word": " how",
+     "start": 1.96,
+     "end": 2.1,
+     "prob": 0.909
+    },
+    {
+     "word": " you",
+     "start": 2.1,
+     "end": 2.26,
+     "prob": 0.997
+    },
+    {
+     "word": " do",
+     "start": 2.26,
+     "end": 2.4,
+     "prob": 0.995
+    },
+    {
+     "word": " it",
+     "start": 2.4,
+     "end": 2.56,
+     "prob": 0.999
+    },
+    {
+     "word": " now.",
+     "start": 2.56,
+     "end": 2.82,
+     "prob": 0.996
+    }
+   ]
+  }
+ ]
+}

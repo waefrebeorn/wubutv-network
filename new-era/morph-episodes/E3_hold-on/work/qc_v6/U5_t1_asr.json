@@ -1,0 +1,157 @@
+{
+ "file": "takes_v6/U5_t1.mp4",
+ "head_rms_0_1.7": 0.01451980322599411,
+ "ambient_rms_0_0.5": 0.012452433817088604,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 3.54,
+    "end": 9.0,
+    "text": "There's your nine peach yours pointed three of them in the drain gone",
+    "words": [
+     {
+      "w": " There's",
+      "start": 3.54,
+      "end": 4.08
+     },
+     {
+      "w": " your",
+      "start": 4.08,
+      "end": 4.12
+     },
+     {
+      "w": " nine",
+      "start": 4.12,
+      "end": 4.36
+     },
+     {
+      "w": " peach",
+      "start": 4.36,
+      "end": 5.88
+     },
+     {
+      "w": " yours",
+      "start": 5.88,
+      "end": 6.42
+     },
+     {
+      "w": " pointed",
+      "start": 6.42,
+      "end": 6.76
+     },
+     {
+      "w": " three",
+      "start": 6.76,
+      "end": 7.74
+     },
+     {
+      "w": " of",
+      "start": 7.74,
+      "end": 7.86
+     },
+     {
+      "w": " them",
+      "start": 7.86,
+      "end": 7.98
+     },
+     {
+      "w": " in",
+      "start": 7.98,
+      "end": 8.08
+     },
+     {
+      "w": " the",
+      "start": 8.08,
+      "end": 8.16
+     },
+     {
+      "w": " drain",
+      "start": 8.16,
+      "end": 8.36
+     },
+     {
+      "w": " gone",
+      "start": 8.36,
+      "end": 9.0
+     }
+    ],
+    "seg_rms": 0.0798
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 3.54,
+    "end": 9.18,
+    "text": "There's your nine. Peach, yours pointed. Three of them in the drain. Gone.",
+    "words": [
+     {
+      "w": " There's",
+      "start": 3.54,
+      "end": 4.12
+     },
+     {
+      "w": " your",
+      "start": 4.12,
+      "end": 4.22
+     },
+     {
+      "w": " nine.",
+      "start": 4.22,
+      "end": 4.52
+     },
+     {
+      "w": " Peach,",
+      "start": 5.54,
+      "end": 6.12
+     },
+     {
+      "w": " yours",
+      "start": 6.4,
+      "end": 6.5
+     },
+     {
+      "w": " pointed.",
+      "start": 6.5,
+      "end": 6.94
+     },
+     {
+      "w": " Three",
+      "start": 7.74,
+      "end": 7.82
+     },
+     {
+      "w": " of",
+      "start": 7.82,
+      "end": 7.94
+     },
+     {
+      "w": " them",
+      "start": 7.94,
+      "end": 8.04
+     },
+     {
+      "w": " in",
+      "start": 8.04,
+      "end": 8.14
+     },
+     {
+      "w": " the",
+      "start": 8.14,
+      "end": 8.22
+     },
+     {
+      "w": " drain.",
+      "start": 8.22,
+      "end": 8.52
+     },
+     {
+      "w": " Gone.",
+      "start": 9.02,
+      "end": 9.18
+     }
+    ],
+    "seg_rms": 0.081
+   }
+  ]
+ }
+}

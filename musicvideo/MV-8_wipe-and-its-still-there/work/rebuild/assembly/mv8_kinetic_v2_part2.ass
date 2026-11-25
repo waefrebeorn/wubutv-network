@@ -1,0 +1,102 @@
+[Script Info]
+Title: WuBuTV kinetic type (kinetic_ass.py)
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bone,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Cadmium,Noto Sans,54,&H1EC6FF,&H1EC6FF,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Dim,Noto Sans,54,&H64DCEEF4,&H64DCEEF4,&H141414,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: Draw,Noto Sans,54,&HDCEEF4,&HDCEEF4,&H141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.47,Draw,,0,0,0,,{\an7\1c&HD13F1B\bord0\shad0\move(-1768,610,-1508,610,0,220)\p1}m 0 0 l 4296 0 l 4296 7 l 0 7{\p0}
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-1508,576)\fad(120,150)}Dirty
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-1339,576)\fad(120,150)}Brown,
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-1143,576)\fad(120,150)}brown,
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-946,576)\fad(120,150)}brown,
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-749,576)\fad(120,150)}brown,
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-553,576)\fad(120,150)}brown
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-384,576)\fad(120,150)}Wipe
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-244,576)\fad(120,150)}and
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(-132,576)\fad(120,150)}you're
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(64,576)\fad(120,150)}still
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(232,576)\fad(120,150)}there
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(401,576)\fad(120,150)}Still
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(569,576)\fad(120,150)}there,
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(766,576)\fad(120,150)}still
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(934,576)\fad(120,150)}there
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(1103,576)\fad(120,150)}Wipe
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(1243,576)\fad(120,150)}and
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(1356,576)\fad(120,150)}you're
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(1552,576)\fad(120,150)}there
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(1721,576)\fad(120,150)}Still
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(1889,576)\fad(120,150)}there,
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(2086,576)\fad(120,150)}wipe
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(2226,576)\fad(120,150)}Endless
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(2451,576)\fad(120,150)}wipe
+Dialogue: 1,0:00:00.00,0:00:00.47,Dim,,0,0,0,,{\an4\pos(2591,576)\fad(120,150)}forever
+Dialogue: 2,0:00:00.00,0:00:00.14,Cadmium,,0,0,0,,{\an4\pos(2591,576)\fscx112\fscy112\t(0,90,\fscx100\fscy100)}forever
+Dialogue: 1,0:00:00.00,0:00:00.10,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 292
+Dialogue: 1,0:00:00.10,0:00:00.59,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 293
+Dialogue: 1,0:00:00.59,0:00:01.07,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 294
+Dialogue: 1,0:00:01.07,0:00:01.54,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 295
+Dialogue: 1,0:00:01.54,0:00:02.03,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 296
+Dialogue: 1,0:00:02.03,0:00:02.49,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 297
+Dialogue: 1,0:00:02.49,0:00:02.98,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 298
+Dialogue: 1,0:00:02.98,0:00:03.44,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 299
+Dialogue: 1,0:00:03.44,0:00:03.93,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 300
+Dialogue: 1,0:00:03.93,0:00:04.40,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 301
+Dialogue: 1,0:00:04.40,0:00:04.88,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 302
+Dialogue: 1,0:00:04.88,0:00:05.35,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 303
+Dialogue: 1,0:00:05.35,0:00:05.84,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 304
+Dialogue: 1,0:00:05.84,0:00:06.30,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 305
+Dialogue: 1,0:00:06.30,0:00:06.79,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 306
+Dialogue: 1,0:00:06.79,0:00:07.28,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 307
+Dialogue: 1,0:00:07.28,0:00:07.76,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 308
+Dialogue: 1,0:00:07.76,0:00:08.23,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 309
+Dialogue: 1,0:00:08.23,0:00:08.72,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 310
+Dialogue: 1,0:00:08.72,0:00:09.20,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 311
+Dialogue: 1,0:00:09.20,0:00:09.64,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 312
+Dialogue: 1,0:00:09.64,0:00:10.13,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 313
+Dialogue: 1,0:00:10.13,0:00:10.62,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 314
+Dialogue: 1,0:00:10.62,0:00:11.08,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 315
+Dialogue: 1,0:00:11.08,0:00:11.57,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 316
+Dialogue: 1,0:00:11.57,0:00:12.06,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 317
+Dialogue: 1,0:00:12.06,0:00:12.52,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 318
+Dialogue: 1,0:00:12.52,0:00:12.99,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 319
+Dialogue: 1,0:00:12.99,0:00:13.47,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 320
+Dialogue: 1,0:00:13.47,0:00:13.94,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 321
+Dialogue: 1,0:00:13.94,0:00:14.40,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 322
+Dialogue: 1,0:00:14.40,0:00:14.89,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 323
+Dialogue: 1,0:00:14.89,0:00:15.38,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 324
+Dialogue: 1,0:00:15.38,0:00:15.87,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 325
+Dialogue: 1,0:00:15.87,0:00:16.33,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 326
+Dialogue: 1,0:00:16.33,0:00:16.82,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 327
+Dialogue: 1,0:00:16.82,0:00:17.28,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 328
+Dialogue: 1,0:00:17.28,0:00:17.77,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 329
+Dialogue: 1,0:00:17.77,0:00:18.24,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 330
+Dialogue: 1,0:00:18.24,0:00:18.72,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 331
+Dialogue: 1,0:00:18.72,0:00:19.21,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 332
+Dialogue: 1,0:00:19.21,0:00:19.67,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 333
+Dialogue: 1,0:00:19.67,0:00:20.14,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 334
+Dialogue: 1,0:00:20.14,0:00:20.63,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 335
+Dialogue: 1,0:00:20.63,0:00:21.11,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 336
+Dialogue: 1,0:00:21.11,0:00:21.58,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 337
+Dialogue: 1,0:00:21.58,0:00:22.07,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 338
+Dialogue: 1,0:00:22.07,0:00:22.55,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 339
+Dialogue: 1,0:00:22.55,0:00:23.04,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 340
+Dialogue: 1,0:00:23.04,0:00:23.51,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 341
+Dialogue: 1,0:00:23.51,0:00:23.97,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 342
+Dialogue: 1,0:00:23.97,0:00:24.46,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 343
+Dialogue: 1,0:00:24.46,0:00:24.92,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 344
+Dialogue: 1,0:00:24.92,0:00:25.39,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 345
+Dialogue: 1,0:00:25.39,0:00:25.85,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 346
+Dialogue: 1,0:00:25.85,0:00:37.00,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 347
+Dialogue: 1,0:00:37.00,0:00:41.20,Bone,,0,0,0,,{\an7\pos(36,30)\fs34\fad(80,80)}WIPE 001
+Dialogue: 2,0:00:37.00,0:00:39.50,Cadmium,,0,0,0,,{\an5\pos(640,576)\fs64\fscx150\fscy150\t(0,200,\fscx100\fscy100)\fad(0,200)}WIPE 001 — CLEAN
+Dialogue: 0,0:00:00.00,0:00:41.20,Bone,,0,0,0,,{\an3\pos(1252,692)\fs22\alpha&H80&}~ WuBu ~

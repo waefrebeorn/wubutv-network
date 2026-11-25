@@ -1,0 +1,62 @@
+FIRE VEHICLE — station p480 P4 v1 (kind:image+text, conditioning: previous accepted part cliff)
+Run: 2026-10-29 1045 EDT via media.generate_video
+Output: takes/2026-10-29/station_p4_tickthatstayed_theniwontbuystolencounts_v1_16x9.mp4
+Source: slate/PREPRO_2026-10-28_1515.md, p480 P4 PROMPT block, extracted verbatim
+Prompt-block md5: 94b60d719d60b6bbab495451c274f273
+
+SHOT & CAMERA: medium two-shot, eye level + ONE slow push-in on the
+lit tower wall.
+SUBJECTS: PETER (VERMILION, plain coat); LAURA (FOREST only, plain
+coat); the archive room (the machine silent, the fruit held out toward
+Peter by Laura, uncounted, the tower wall in lights showing the sixth
+sum arrangement plus one additional lit mark, the slate's sixth sum
+unchanged, the Head's pen laid down unsigned, Peter in the doorway with
+both hands at his sides); lamp lit.
+ACTION (beat-labelled):
+  (0.0-1.5s) HOOK FRAME — P3's cliff frame: the archive room, the
+    machine silent, the fruit held out toward Peter by Laura,
+    uncounted, the tower wall in lights showing the sixth sum
+    arrangement plus one additional lit mark, the slate's sixth sum
+    unchanged, the Head's pen laid down unsigned, Peter in the doorway
+    with both hands at his sides: the frame asks whether a refused
+    tick is still a count. Lands cold: held fruit, stayed tick,
+    unchanged slate, unsigned pen, empty-handed seller, sound off.
+  (1.5-4.0s) STATE — Peter stands in the doorway, mouth closed; Laura
+    holds the fruit out toward him, mouth closed; the machine stays
+    silent.
+  (4.0-7.0s) TURN — Peter's hands stay at his sides and he steps BACK
+    from the held-out fruit, mouth closed — the purchase, refused:
+    no hand takes the fruit, no hand takes the tick. Laura lowers the
+    fruit back onto the table; the tower wall stays lit with its tick;
+    the slate's sixth sum stays unchanged.
+  (7.0-9.0s) LINE — PETER to LAURA (refusal; want: her to accept that
+    the tick stays unbought, so the count is a theft kept rather than
+    a sale completed, since a buyer who will not pay for a count
+    nobody sold leaves the tower holding stolen goods): "Then I won't
+    buy stolen counts." (6 words)
+  (9.0-10.0s) CLIFF FRAME — the archive room, the machine silent, the
+    fruit lowered back onto the table, the tower wall number STAYING
+    ticked one higher, the slate's sixth sum unchanged, the Head's pen
+    laid down unsigned.
+    BRIDGE: this frame is the next chain-in-arc's (ARC-3 cycle 2
+    chain 17) first frame — it opens on the tick stayed without its
+    fruit and the record still refusing to match it. Save as
+    station_p480_p4_cliff.jpg.
+LIGHT: one hard archive lamp, from the left, on the lowered fruit and
+the lit tower wall.
+AUDIO: archive hush alone, then native dialogue as written.
+STYLE: VERMILION + FOREST + bone · flat fills · ink outline on every
+edge.
+TEXT: NONE on screen.
+NEGATIVE: NO fisheye, NO plastic skin, NO commercial gloss, NO
+on-screen text, NO title cards, NO third primary hue, NO gradients,
+NO crowd, NO second voice event, NO lip movement outside 7-9s.
+WITHHELD FACT: whether a tick nobody buys and nobody signs is owned
+by the tower, the slate, or the buyer who never came. Bridge to the
+next chain-in-arc: the tick stayed, the record refused.
+MESSAGE LANDED: a tick that stays when the fruit drops is a theft,
+not a sale.
+NEXT QUESTION (named in the cliff): if nobody buys the tick and nobody
+signs the slate, who pays for a number nobody holds?
+
+Conditioning: ACCEPTED P3 v2 cliff (takes/2026-10-29/station_p480_tickthatstayed_p3_cliff.jpg, md5 ede4931e9705dc0f2419b1ff50e153ba) — never the rejected P3 v1.

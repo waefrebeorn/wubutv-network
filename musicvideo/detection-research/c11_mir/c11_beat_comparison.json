@@ -1,0 +1,61 @@
+{
+  "flux_validation": {
+    "best_lag_frames": -1,
+    "corr": 1.0,
+    "max_abs_diff": 0.0031,
+    "n_frames_py": 10100,
+    "n_frames_c11": 10101
+  },
+  "tempo_plateau_c11_flux": [
+    [
+      0.6357,
+      92.5
+    ],
+    [
+      0.6357,
+      92.0
+    ],
+    [
+      0.6357,
+      91.5
+    ],
+    [
+      0.6357,
+      91.0
+    ],
+    [
+      0.6357,
+      90.5
+    ],
+    [
+      0.5543,
+      192.0
+    ],
+    [
+      0.5543,
+      191.5
+    ],
+    [
+      0.5543,
+      191.0
+    ]
+  ],
+  "phase_at_canonical_period_s": 0.25,
+  "c11": {
+    "tempo_bpm": 90.5,
+    "period_s": 0.663,
+    "phase_s": 0.46,
+    "n_beats": 247,
+    "median_ibi_s": 0.656,
+    "median_abs_offset_vs_grid_s": 0.088,
+    "frac_within_50ms": 0.356,
+    "frac_within_100ms": 0.53
+  },
+  "librosa": {
+    "tempo_bpm": 92.29,
+    "n_beats": 238,
+    "median_abs_offset_vs_grid_s": 0.1445,
+    "frac_within_50ms": 0.206,
+    "frac_within_100ms": 0.395
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "S16_t7": {
+    "warped_take": "mv2_s16_t7_warped.mp4",
+    "vocal_span": [
+      0.0,
+      3.76
+    ],
+    "vocal_transitions": 91,
+    "vocal_changed_gt_0_5": 90,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.0555181623931624,
+    "vocal_mean_diff_rounded": 1.0555,
+    "gate": "PASS"
+  },
+  "S16_t8": {
+    "warped_take": "mv2_s16_t8_warped.mp4",
+    "vocal_span": [
+      0.0,
+      3.78
+    ],
+    "vocal_transitions": 91,
+    "vocal_changed_gt_0_5": 90,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.9012148962148963,
+    "vocal_mean_diff_rounded": 1.9012,
+    "gate": "PASS"
+  },
+  "S22_t4": {
+    "warped_take": "mv2_s22_t4_warped.mp4",
+    "vocal_span": [
+      2.88,
+      5.22
+    ],
+    "vocal_transitions": 59,
+    "vocal_changed_gt_0_5": 33,
+    "vocal_near_dup_run": 2,
+    "vocal_mean_diff": 1.460710922787194,
+    "vocal_mean_diff_rounded": 1.4607,
+    "gate": "PASS"
+  },
+  "R4_t2": {
+    "warped_take": "mv2_r4_t2_warped.mp4",
+    "vocal_span": [
+      0.0,
+      2.52
+    ],
+    "vocal_transitions": 61,
+    "vocal_changed_gt_0_5": 60,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.0917281420765028,
+    "vocal_mean_diff_rounded": 1.0917,
+    "gate": "PASS"
+  },
+  "R3_t4": {
+    "warped_take": "mv2_r3_t4_warped.mp4",
+    "vocal_span": [
+      0.0,
+      2.7
+    ],
+    "vocal_transitions": 66,
+    "vocal_changed_gt_0_5": 60,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 1.655886994949495,
+    "vocal_mean_diff_rounded": 1.6559,
+    "gate": "PASS"
+  },
+  "R6_t4": {
+    "warped_take": "mv2_r6_t4_warped.mp4",
+    "vocal_span": [
+      0.0,
+      4.04
+    ],
+    "vocal_transitions": 98,
+    "vocal_changed_gt_0_5": 71,
+    "vocal_near_dup_run": 9,
+    "vocal_mean_diff": 1.6898448129251702,
+    "vocal_mean_diff_rounded": 1.6898,
+    "gate": "PASS"
+  },
+  "S23_t4": {
+    "warped_take": "mv2_s23_t4_warped.mp4",
+    "vocal_span": null,
+    "gate": "FAIL (no vocal span)"
+  },
+  "S23_t5": {
+    "warped_take": "mv2_s23_t5_warped.mp4",
+    "vocal_span": null,
+    "gate": "FAIL (no vocal span)"
+  },
+  "S23_t6": {
+    "warped_take": "mv2_s23_t6_warped.mp4",
+    "vocal_span": [
+      0.0,
+      2.0
+    ],
+    "vocal_transitions": 49,
+    "vocal_changed_gt_0_5": 30,
+    "vocal_near_dup_run": 1,
+    "vocal_mean_diff": 0.938703231292517,
+    "vocal_mean_diff_rounded": 0.9387,
+    "gate": "PASS"
+  }
+}

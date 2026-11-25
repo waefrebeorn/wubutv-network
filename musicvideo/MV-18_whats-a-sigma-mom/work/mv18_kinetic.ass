@@ -1,0 +1,310 @@
+[Script Info]
+Title: MV-18 What's a Sigma? ~Mom — kinetic layer
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Line,Arial,44,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,2,40,40,26,1
+Style: Slam,Arial,58,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,30,1
+Style: Bug,Arial,22,&H66FFFFFF,&H66FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,20,16,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:01.07,Slam,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:00.00,0:02:37.61,Bug,,0,0,0,,{\pos(1252,700)}~ WuBu ~
+Dialogue: 0,0:00:01.07,0:00:01.33,Slam,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:01.33,0:00:01.81,Slam,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:01.81,0:00:02.15,Slam,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:00:02.15,0:00:02.42,Slam,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:00:02.42,0:00:02.63,Slam,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:00:02.63,0:00:02.85,Slam,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:00:02.85,0:00:03.29,Slam,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:00:03.29,0:00:03.67,Slam,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:00:03.67,0:00:04.28,Slam,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:00:04.28,0:00:05.96,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:05.96,0:00:06.33,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:12.88,0:00:13.55,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:00:13.55,0:00:13.65,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:00:13.65,0:00:14.13,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:16.05,0:00:16.41,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} now I want to die
+Dialogue: 0,0:00:16.41,0:00:17.04,Line,,0,0,0,,And {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1} I want to die
+Dialogue: 0,0:00:17.04,0:00:17.41,Line,,0,0,0,,And now {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} want to die
+Dialogue: 0,0:00:17.41,0:00:17.88,Line,,0,0,0,,And now I {\c&H00FFFF&\b1}want{\c&HFFFFFF&\b1} to die
+Dialogue: 0,0:00:17.88,0:00:18.07,Line,,0,0,0,,And now I want {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} die
+Dialogue: 0,0:00:18.07,0:00:18.64,Line,,0,0,0,,And now I want to {\c&H00FFFF&\b1}die{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:18.64,0:00:19.27,Line,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:19.27,0:00:19.54,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:19.54,0:00:20.14,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:20.14,0:00:20.38,Line,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:00:20.38,0:00:20.61,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:00:20.61,0:00:20.86,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:00:20.86,0:00:21.07,Line,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:00:21.07,0:00:21.54,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:00:21.54,0:00:21.89,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:00:21.89,0:00:22.66,Line,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:00:22.66,0:00:24.16,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:24.16,0:00:24.52,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:24.52,0:00:25.38,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} said the thing and she looked at the screen
+Dialogue: 0,0:00:25.38,0:00:25.59,Line,,0,0,0,,I {\c&H00FFFF&\b1}said{\c&HFFFFFF&\b1} the thing and she looked at the screen
+Dialogue: 0,0:00:25.59,0:00:25.77,Line,,0,0,0,,I said {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} thing and she looked at the screen
+Dialogue: 0,0:00:25.77,0:00:26.09,Line,,0,0,0,,I said the {\c&H00FFFF&\b1}thing{\c&HFFFFFF&\b1} and she looked at the screen
+Dialogue: 0,0:00:26.09,0:00:26.36,Line,,0,0,0,,I said the thing {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} she looked at the screen
+Dialogue: 0,0:00:26.36,0:00:26.52,Line,,0,0,0,,I said the thing and {\c&H00FFFF&\b1}she{\c&HFFFFFF&\b1} looked at the screen
+Dialogue: 0,0:00:26.52,0:00:26.75,Line,,0,0,0,,I said the thing and she {\c&H00FFFF&\b1}looked{\c&HFFFFFF&\b1} at the screen
+Dialogue: 0,0:00:26.75,0:00:26.93,Line,,0,0,0,,I said the thing and she looked {\c&H00FFFF&\b1}at{\c&HFFFFFF&\b1} the screen
+Dialogue: 0,0:00:26.93,0:00:27.05,Line,,0,0,0,,I said the thing and she looked at {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} screen
+Dialogue: 0,0:00:27.05,0:00:27.43,Line,,0,0,0,,I said the thing and she looked at the {\c&H00FFFF&\b1}screen{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:27.43,0:00:28.20,Line,,0,0,0,,{\c&H00FFFF&\b1}Then{\c&HFFFFFF&\b1} she asked the question that ends every dream
+Dialogue: 0,0:00:28.20,0:00:28.39,Line,,0,0,0,,Then {\c&H00FFFF&\b1}she{\c&HFFFFFF&\b1} asked the question that ends every dream
+Dialogue: 0,0:00:28.39,0:00:28.66,Line,,0,0,0,,Then she {\c&H00FFFF&\b1}asked{\c&HFFFFFF&\b1} the question that ends every dream
+Dialogue: 0,0:00:28.66,0:00:28.82,Line,,0,0,0,,Then she asked {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} question that ends every dream
+Dialogue: 0,0:00:28.82,0:00:29.16,Line,,0,0,0,,Then she asked the {\c&H00FFFF&\b1}question{\c&HFFFFFF&\b1} that ends every dream
+Dialogue: 0,0:00:29.16,0:00:29.43,Line,,0,0,0,,Then she asked the question {\c&H00FFFF&\b1}that{\c&HFFFFFF&\b1} ends every dream
+Dialogue: 0,0:00:29.43,0:00:29.75,Line,,0,0,0,,Then she asked the question that {\c&H00FFFF&\b1}ends{\c&HFFFFFF&\b1} every dream
+Dialogue: 0,0:00:29.75,0:00:30.11,Line,,0,0,0,,Then she asked the question that ends {\c&H00FFFF&\b1}every{\c&HFFFFFF&\b1} dream
+Dialogue: 0,0:00:30.11,0:00:30.54,Line,,0,0,0,,Then she asked the question that ends every {\c&H00FFFF&\b1}dream{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:30.54,0:00:31.02,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} tried to walk it back but the damage was done
+Dialogue: 0,0:00:31.02,0:00:31.27,Line,,0,0,0,,I {\c&H00FFFF&\b1}tried{\c&HFFFFFF&\b1} to walk it back but the damage was done
+Dialogue: 0,0:00:31.27,0:00:31.45,Line,,0,0,0,,I tried {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} walk it back but the damage was done
+Dialogue: 0,0:00:31.45,0:00:31.71,Line,,0,0,0,,I tried to {\c&H00FFFF&\b1}walk{\c&HFFFFFF&\b1} it back but the damage was done
+Dialogue: 0,0:00:31.71,0:00:31.86,Line,,0,0,0,,I tried to walk {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} back but the damage was done
+Dialogue: 0,0:00:31.86,0:00:32.12,Line,,0,0,0,,I tried to walk it {\c&H00FFFF&\b1}back{\c&HFFFFFF&\b1} but the damage was done
+Dialogue: 0,0:00:32.12,0:00:32.40,Line,,0,0,0,,I tried to walk it back {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} the damage was done
+Dialogue: 0,0:00:32.40,0:00:32.58,Line,,0,0,0,,I tried to walk it back but {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} damage was done
+Dialogue: 0,0:00:32.58,0:00:32.94,Line,,0,0,0,,I tried to walk it back but the {\c&H00FFFF&\b1}damage{\c&HFFFFFF&\b1} was done
+Dialogue: 0,0:00:32.94,0:00:33.17,Line,,0,0,0,,I tried to walk it back but the damage {\c&H00FFFF&\b1}was{\c&HFFFFFF&\b1} done
+Dialogue: 0,0:00:33.17,0:00:33.52,Line,,0,0,0,,I tried to walk it back but the damage was {\c&H00FFFF&\b1}done{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:33.52,0:00:34.26,Line,,0,0,0,,{\c&H00FFFF&\b1}Now{\c&HFFFFFF&\b1} she's on the couch googling sigma for fun
+Dialogue: 0,0:00:34.26,0:00:34.58,Line,,0,0,0,,Now {\c&H00FFFF&\b1}she's{\c&HFFFFFF&\b1} on the couch googling sigma for fun
+Dialogue: 0,0:00:34.58,0:00:34.72,Line,,0,0,0,,Now she's {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the couch googling sigma for fun
+Dialogue: 0,0:00:34.72,0:00:34.85,Line,,0,0,0,,Now she's on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} couch googling sigma for fun
+Dialogue: 0,0:00:34.85,0:00:35.05,Line,,0,0,0,,Now she's on the {\c&H00FFFF&\b1}couch{\c&HFFFFFF&\b1} googling sigma for fun
+Dialogue: 0,0:00:35.05,0:00:35.58,Line,,0,0,0,,Now she's on the couch {\c&H00FFFF&\b1}googling{\c&HFFFFFF&\b1} sigma for fun
+Dialogue: 0,0:00:35.58,0:00:35.90,Line,,0,0,0,,Now she's on the couch googling {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1} for fun
+Dialogue: 0,0:00:35.90,0:00:36.20,Line,,0,0,0,,Now she's on the couch googling sigma {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} fun
+Dialogue: 0,0:00:36.20,0:00:36.76,Line,,0,0,0,,Now she's on the couch googling sigma for {\c&H00FFFF&\b1}fun{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:36.76,0:00:37.66,Line,,0,0,0,,{\c&H00FFFF&\b1}Don't{\c&HFFFFFF&\b1} explain
+Dialogue: 0,0:00:37.66,0:00:38.27,Line,,0,0,0,,Don't {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:39.20,0:00:40.02,Line,,0,0,0,,{\c&H00FFFF&\b1}Just{\c&HFFFFFF&\b1} leave the room
+Dialogue: 0,0:00:40.02,0:00:40.44,Line,,0,0,0,,Just {\c&H00FFFF&\b1}leave{\c&HFFFFFF&\b1} the room
+Dialogue: 0,0:00:40.44,0:00:42.23,Line,,0,0,0,,Just leave {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} room
+Dialogue: 0,0:00:42.23,0:00:42.66,Line,,0,0,0,,Just leave the {\c&H00FFFF&\b1}room{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:44.08,0:00:44.90,Line,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:44.90,0:00:45.30,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:45.30,0:00:45.76,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:45.76,0:00:46.09,Line,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:00:46.09,0:00:46.40,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:00:46.40,0:00:46.59,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:00:46.59,0:00:46.81,Line,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:00:46.81,0:00:47.26,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:00:47.26,0:00:47.67,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:00:47.67,0:00:48.38,Line,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:00:48.38,0:00:49.94,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:49.94,0:00:50.27,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:50.27,0:00:50.88,Line,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:50.88,0:00:51.40,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:51.40,0:00:51.85,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:00:51.85,0:00:52.17,Line,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:00:52.17,0:00:52.48,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:00:52.48,0:00:52.70,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:00:52.70,0:00:52.91,Line,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:00:52.91,0:00:53.34,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:00:53.34,0:00:53.76,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:00:53.76,0:00:55.20,Line,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:00:55.20,0:00:56.02,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:00:56.02,0:00:56.59,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:57.12,0:00:57.53,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:00:57.53,0:00:57.63,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:00:57.63,0:00:58.09,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:58.09,0:00:58.98,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:00:58.98,0:00:59.17,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:00:59.17,0:00:59.63,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:00.08,0:01:00.53,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} now I want to die
+Dialogue: 0,0:01:00.53,0:01:00.99,Line,,0,0,0,,And {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1} I want to die
+Dialogue: 0,0:01:00.99,0:01:01.40,Line,,0,0,0,,And now {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} want to die
+Dialogue: 0,0:01:01.40,0:01:01.90,Line,,0,0,0,,And now I {\c&H00FFFF&\b1}want{\c&HFFFFFF&\b1} to die
+Dialogue: 0,0:01:01.90,0:01:02.08,Line,,0,0,0,,And now I want {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} die
+Dialogue: 0,0:01:02.08,0:01:02.59,Line,,0,0,0,,And now I want to {\c&H00FFFF&\b1}die{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:02.59,0:01:03.27,Slam,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:03.27,0:01:03.52,Slam,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:03.52,0:01:04.02,Slam,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:04.02,0:01:04.30,Slam,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:01:04.30,0:01:04.61,Slam,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:01:04.61,0:01:04.83,Slam,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:01:04.83,0:01:05.06,Slam,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:01:05.06,0:01:05.47,Slam,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:01:05.47,0:01:05.89,Slam,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:01:05.89,0:01:06.52,Slam,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:01:06.52,0:01:08.14,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:01:08.14,0:01:08.45,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:09.08,0:01:09.67,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:01:09.67,0:01:09.78,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:01:09.78,0:01:10.30,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:10.69,0:01:11.30,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:01:11.30,0:01:11.75,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:12.16,0:01:12.58,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} regret it
+Dialogue: 0,0:01:12.58,0:01:12.97,Line,,0,0,0,,I {\c&H00FFFF&\b1}regret{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:01:12.97,0:01:13.28,Line,,0,0,0,,I regret {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:13.28,0:01:13.83,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} regret it
+Dialogue: 0,0:01:13.83,0:01:14.53,Line,,0,0,0,,I {\c&H00FFFF&\b1}regret{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:01:14.53,0:01:14.94,Line,,0,0,0,,I regret {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:14.94,0:01:15.39,Line,,0,0,0,,{\c&H00FFFF&\b1}She{\c&HFFFFFF&\b1} said is this like the thing with the dog
+Dialogue: 0,0:01:15.39,0:01:15.69,Line,,0,0,0,,She {\c&H00FFFF&\b1}said{\c&HFFFFFF&\b1} is this like the thing with the dog
+Dialogue: 0,0:01:15.69,0:01:15.88,Line,,0,0,0,,She said {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} this like the thing with the dog
+Dialogue: 0,0:01:15.88,0:01:16.08,Line,,0,0,0,,She said is {\c&H00FFFF&\b1}this{\c&HFFFFFF&\b1} like the thing with the dog
+Dialogue: 0,0:01:16.08,0:01:16.39,Line,,0,0,0,,She said is this {\c&H00FFFF&\b1}like{\c&HFFFFFF&\b1} the thing with the dog
+Dialogue: 0,0:01:16.39,0:01:16.58,Line,,0,0,0,,She said is this like {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} thing with the dog
+Dialogue: 0,0:01:16.58,0:01:16.75,Line,,0,0,0,,She said is this like the {\c&H00FFFF&\b1}thing{\c&HFFFFFF&\b1} with the dog
+Dialogue: 0,0:01:16.75,0:01:16.95,Line,,0,0,0,,She said is this like the thing {\c&H00FFFF&\b1}with{\c&HFFFFFF&\b1} the dog
+Dialogue: 0,0:01:16.95,0:01:17.14,Line,,0,0,0,,She said is this like the thing with {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} dog
+Dialogue: 0,0:01:17.14,0:01:17.56,Line,,0,0,0,,She said is this like the thing with the {\c&H00FFFF&\b1}dog{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:17.73,0:01:18.06,Line,,0,0,0,,{\c&H00FFFF&\b1}Yeah{\c&HFFFFFF&\b1} I said kind of
+Dialogue: 0,0:01:18.06,0:01:18.25,Line,,0,0,0,,Yeah I {\c&H00FFFF&\b1}said{\c&HFFFFFF&\b1} kind of
+Dialogue: 0,0:01:18.25,0:01:18.50,Line,,0,0,0,,Yeah I said {\c&H00FFFF&\b1}kind{\c&HFFFFFF&\b1} of
+Dialogue: 0,0:01:18.50,0:01:18.67,Line,,0,0,0,,Yeah I said kind {\c&H00FFFF&\b1}of{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:18.67,0:01:18.86,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} then I blacked out in the fog
+Dialogue: 0,0:01:18.86,0:01:19.06,Line,,0,0,0,,And {\c&H00FFFF&\b1}then{\c&HFFFFFF&\b1} I blacked out in the fog
+Dialogue: 0,0:01:19.06,0:01:19.19,Line,,0,0,0,,And then {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} blacked out in the fog
+Dialogue: 0,0:01:19.19,0:01:19.58,Line,,0,0,0,,And then I {\c&H00FFFF&\b1}blacked{\c&HFFFFFF&\b1} out in the fog
+Dialogue: 0,0:01:19.58,0:01:19.78,Line,,0,0,0,,And then I blacked {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} in the fog
+Dialogue: 0,0:01:19.78,0:01:20.02,Line,,0,0,0,,And then I blacked out {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1} the fog
+Dialogue: 0,0:01:20.02,0:01:20.16,Line,,0,0,0,,And then I blacked out in {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} fog
+Dialogue: 0,0:01:20.16,0:01:20.64,Line,,0,0,0,,And then I blacked out in the {\c&H00FFFF&\b1}fog{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:20.64,0:01:21.06,Line,,0,0,0,,{\c&H00FFFF&\b1}Now{\c&HFFFFFF&\b1} she's texting my aunt the definition she found
+Dialogue: 0,0:01:21.06,0:01:21.31,Line,,0,0,0,,Now {\c&H00FFFF&\b1}she's{\c&HFFFFFF&\b1} texting my aunt the definition she found
+Dialogue: 0,0:01:21.31,0:01:21.61,Line,,0,0,0,,Now she's {\c&H00FFFF&\b1}texting{\c&HFFFFFF&\b1} my aunt the definition she found
+Dialogue: 0,0:01:21.61,0:01:21.88,Line,,0,0,0,,Now she's texting {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} aunt the definition she found
+Dialogue: 0,0:01:21.88,0:01:22.11,Line,,0,0,0,,Now she's texting my {\c&H00FFFF&\b1}aunt{\c&HFFFFFF&\b1} the definition she found
+Dialogue: 0,0:01:22.11,0:01:22.28,Line,,0,0,0,,Now she's texting my aunt {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} definition she found
+Dialogue: 0,0:01:22.28,0:01:22.86,Line,,0,0,0,,Now she's texting my aunt the {\c&H00FFFF&\b1}definition{\c&HFFFFFF&\b1} she found
+Dialogue: 0,0:01:22.86,0:01:23.16,Line,,0,0,0,,Now she's texting my aunt the definition {\c&H00FFFF&\b1}she{\c&HFFFFFF&\b1} found
+Dialogue: 0,0:01:23.16,0:01:23.58,Line,,0,0,0,,Now she's texting my aunt the definition she {\c&H00FFFF&\b1}found{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:23.58,0:01:24.23,Line,,0,0,0,,{\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} in the kitchen wishing the ground would open up now
+Dialogue: 0,0:01:24.23,0:01:24.38,Line,,0,0,0,,I'm {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1} the kitchen wishing the ground would open up now
+Dialogue: 0,0:01:24.38,0:01:24.53,Line,,0,0,0,,I'm in {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} kitchen wishing the ground would open up now
+Dialogue: 0,0:01:24.53,0:01:24.83,Line,,0,0,0,,I'm in the {\c&H00FFFF&\b1}kitchen{\c&HFFFFFF&\b1} wishing the ground would open up now
+Dialogue: 0,0:01:24.83,0:01:25.16,Line,,0,0,0,,I'm in the kitchen {\c&H00FFFF&\b1}wishing{\c&HFFFFFF&\b1} the ground would open up now
+Dialogue: 0,0:01:25.16,0:01:25.44,Line,,0,0,0,,I'm in the kitchen wishing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} ground would open up now
+Dialogue: 0,0:01:25.44,0:01:25.89,Line,,0,0,0,,I'm in the kitchen wishing the {\c&H00FFFF&\b1}ground{\c&HFFFFFF&\b1} would open up now
+Dialogue: 0,0:01:25.89,0:01:26.30,Line,,0,0,0,,I'm in the kitchen wishing the ground {\c&H00FFFF&\b1}would{\c&HFFFFFF&\b1} open up now
+Dialogue: 0,0:01:26.30,0:01:26.73,Line,,0,0,0,,I'm in the kitchen wishing the ground would {\c&H00FFFF&\b1}open{\c&HFFFFFF&\b1} up now
+Dialogue: 0,0:01:26.73,0:01:27.14,Line,,0,0,0,,I'm in the kitchen wishing the ground would open {\c&H00FFFF&\b1}up{\c&HFFFFFF&\b1} now
+Dialogue: 0,0:01:27.14,0:01:27.39,Line,,0,0,0,,I'm in the kitchen wishing the ground would open up {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:27.39,0:01:27.73,Line,,0,0,0,,{\c&H00FFFF&\b1}Don't{\c&HFFFFFF&\b1} explain
+Dialogue: 0,0:01:27.73,0:01:28.25,Line,,0,0,0,,Don't {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:29.17,0:01:30.06,Line,,0,0,0,,{\c&H00FFFF&\b1}Just{\c&HFFFFFF&\b1} leave the room
+Dialogue: 0,0:01:30.06,0:01:30.52,Line,,0,0,0,,Just {\c&H00FFFF&\b1}leave{\c&HFFFFFF&\b1} the room
+Dialogue: 0,0:01:30.52,0:01:30.80,Line,,0,0,0,,Just leave {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} room
+Dialogue: 0,0:01:30.80,0:01:31.11,Line,,0,0,0,,Just leave the {\c&H00FFFF&\b1}room{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:31.11,0:01:31.56,Line,,0,0,0,,{\c&H00FFFF&\b1}Just{\c&HFFFFFF&\b1} leave
+Dialogue: 0,0:01:31.56,0:01:32.00,Line,,0,0,0,,Just {\c&H00FFFF&\b1}leave{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:33.89,0:01:34.78,Slam,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:34.78,0:01:35.39,Slam,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:35.39,0:01:35.86,Slam,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:35.86,0:01:36.14,Slam,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:01:36.14,0:01:36.45,Slam,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:01:36.45,0:01:36.66,Slam,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:01:36.66,0:01:36.88,Slam,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:01:36.88,0:01:37.30,Slam,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:01:37.30,0:01:37.69,Slam,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:01:37.69,0:01:39.39,Slam,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:01:39.39,0:01:39.95,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:01:39.95,0:01:40.25,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:40.25,0:01:41.14,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:41.14,0:01:41.42,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:41.42,0:01:41.88,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:01:41.88,0:01:42.22,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:01:42.22,0:01:42.53,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:01:42.53,0:01:42.72,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:01:42.72,0:01:43.75,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:01:43.75,0:01:44.64,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:47.16,0:01:47.59,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:01:47.59,0:01:47.67,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:01:47.67,0:01:48.16,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:50.06,0:01:50.56,Line,,0,0,0,,And {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1} I want to die
+Dialogue: 0,0:01:50.56,0:01:51.08,Line,,0,0,0,,And now {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} want to die
+Dialogue: 0,0:01:51.08,0:01:51.45,Line,,0,0,0,,And now I {\c&H00FFFF&\b1}want{\c&HFFFFFF&\b1} to die
+Dialogue: 0,0:01:51.45,0:01:52.00,Line,,0,0,0,,And now I want {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} die
+Dialogue: 0,0:01:52.00,0:01:52.50,Line,,0,0,0,,And now I want to {\c&H00FFFF&\b1}die{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:52.50,0:01:53.31,Line,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:53.31,0:01:53.56,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:53.56,0:01:54.00,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:01:54.00,0:01:54.36,Line,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:01:54.36,0:01:54.66,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:01:54.66,0:01:54.86,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:01:54.86,0:01:55.09,Line,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:01:55.09,0:01:55.45,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:01:55.45,0:01:55.83,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:01:55.83,0:01:56.30,Line,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:01:56.30,0:01:58.22,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:01:58.22,0:01:58.52,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:58.52,0:01:58.95,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:01:58.95,0:01:59.06,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:01:59.06,0:01:59.36,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:59.56,0:01:59.72,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:01:59.72,0:01:59.81,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:01:59.81,0:02:00.11,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:00.28,0:02:00.61,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} don't know
+Dialogue: 0,0:02:00.61,0:02:01.17,Line,,0,0,0,,I {\c&H00FFFF&\b1}don't{\c&HFFFFFF&\b1} know
+Dialogue: 0,0:02:01.17,0:02:01.61,Line,,0,0,0,,I don't {\c&H00FFFF&\b1}know{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:01.61,0:02:02.25,Line,,0,0,0,,{\c&H00FFFF&\b1}Just{\c&HFFFFFF&\b1} stop talking
+Dialogue: 0,0:02:02.25,0:02:02.81,Line,,0,0,0,,Just {\c&H00FFFF&\b1}stop{\c&HFFFFFF&\b1} talking
+Dialogue: 0,0:02:02.81,0:02:03.47,Line,,0,0,0,,Just stop {\c&H00FFFF&\b1}talking{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:04.67,0:02:05.36,Line,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:05.36,0:02:05.72,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:05.72,0:02:06.23,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:06.23,0:02:06.58,Line,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:02:06.58,0:02:06.80,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:02:06.80,0:02:07.02,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:02:07.02,0:02:07.25,Line,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:02:07.25,0:02:07.72,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:02:07.72,0:02:08.07,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:02:08.07,0:02:08.75,Line,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:02:08.75,0:02:10.31,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:02:10.31,0:02:10.66,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:10.66,0:02:11.38,Line,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:11.38,0:02:11.84,Line,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:11.84,0:02:12.34,Line,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:12.34,0:02:12.62,Line,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:02:12.62,0:02:12.90,Line,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:02:12.90,0:02:13.09,Line,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:02:13.09,0:02:13.34,Line,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:02:13.34,0:02:13.74,Line,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:02:13.74,0:02:14.18,Line,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:02:14.18,0:02:14.79,Line,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:02:14.79,0:02:16.44,Line,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:02:16.44,0:02:17.00,Line,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:17.59,0:02:18.01,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:02:18.01,0:02:18.06,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:02:18.06,0:02:18.57,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:19.06,0:02:19.47,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:02:19.47,0:02:19.57,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:02:19.57,0:02:20.12,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:20.62,0:02:20.88,Line,,0,0,0,,And {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1} I want to die
+Dialogue: 0,0:02:20.88,0:02:21.51,Line,,0,0,0,,And now {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} want to die
+Dialogue: 0,0:02:21.51,0:02:21.85,Line,,0,0,0,,And now I {\c&H00FFFF&\b1}want{\c&HFFFFFF&\b1} to die
+Dialogue: 0,0:02:21.85,0:02:22.38,Line,,0,0,0,,And now I want {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} die
+Dialogue: 0,0:02:22.38,0:02:22.94,Line,,0,0,0,,And now I want to {\c&H00FFFF&\b1}die{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:22.94,0:02:23.68,Slam,,0,0,0,,{\c&H00FFFF&\b1}Trying{\c&HFFFFFF&\b1} to explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:23.68,0:02:23.96,Slam,,0,0,0,,Trying {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} explain a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:23.96,0:02:24.46,Slam,,0,0,0,,Trying to {\c&H00FFFF&\b1}explain{\c&HFFFFFF&\b1} a meme to my mom and immediately regretting it
+Dialogue: 0,0:02:24.46,0:02:24.78,Slam,,0,0,0,,Trying to explain {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} meme to my mom and immediately regretting it
+Dialogue: 0,0:02:24.78,0:02:25.03,Slam,,0,0,0,,Trying to explain a {\c&H00FFFF&\b1}meme{\c&HFFFFFF&\b1} to my mom and immediately regretting it
+Dialogue: 0,0:02:25.03,0:02:25.28,Slam,,0,0,0,,Trying to explain a meme {\c&H00FFFF&\b1}to{\c&HFFFFFF&\b1} my mom and immediately regretting it
+Dialogue: 0,0:02:25.28,0:02:25.51,Slam,,0,0,0,,Trying to explain a meme to {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} mom and immediately regretting it
+Dialogue: 0,0:02:25.51,0:02:26.12,Slam,,0,0,0,,Trying to explain a meme to my {\c&H00FFFF&\b1}mom{\c&HFFFFFF&\b1} and immediately regretting it
+Dialogue: 0,0:02:26.12,0:02:26.35,Slam,,0,0,0,,Trying to explain a meme to my mom {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} immediately regretting it
+Dialogue: 0,0:02:26.35,0:02:29.46,Slam,,0,0,0,,Trying to explain a meme to my mom and {\c&H00FFFF&\b1}immediately{\c&HFFFFFF&\b1} regretting it
+Dialogue: 0,0:02:29.46,0:02:30.13,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately {\c&H00FFFF&\b1}regretting{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:02:30.13,0:02:30.47,Slam,,0,0,0,,Trying to explain a meme to my mom and immediately regretting {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:30.47,0:02:31.18,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} regret it
+Dialogue: 0,0:02:31.18,0:02:31.96,Line,,0,0,0,,I {\c&H00FFFF&\b1}regret{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:02:31.96,0:02:32.66,Line,,0,0,0,,I regret {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:32.66,0:02:33.19,Line,,0,0,0,,{\c&H00FFFF&\b1}What's{\c&HFFFFFF&\b1} a sigma
+Dialogue: 0,0:02:33.19,0:02:33.28,Line,,0,0,0,,What's {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} sigma
+Dialogue: 0,0:02:33.28,0:02:34.46,Line,,0,0,0,,What's a {\c&H00FFFF&\b1}sigma{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:35.94,0:02:36.57,Line,,0,0,0,,{\c&H00FFFF&\b1}yeah{\c&HFFFFFF&\b1}

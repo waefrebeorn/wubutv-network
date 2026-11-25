@@ -1,0 +1,111 @@
+{
+ "track": "work/otaku_qc/U07_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 15,
+ "words": [
+  {
+   "word": "Made",
+   "start": 0.0,
+   "end": 0.4,
+   "prob": 0.587
+  },
+  {
+   "word": "a",
+   "start": 0.4,
+   "end": 0.6,
+   "prob": 0.997
+  },
+  {
+   "word": "joke",
+   "start": 0.6,
+   "end": 0.92,
+   "prob": 0.996
+  },
+  {
+   "word": "at",
+   "start": 0.92,
+   "end": 1.22,
+   "prob": 0.978
+  },
+  {
+   "word": "a",
+   "start": 1.22,
+   "end": 1.32,
+   "prob": 0.985
+  },
+  {
+   "word": "quarter",
+   "start": 1.32,
+   "end": 1.64,
+   "prob": 0.997
+  },
+  {
+   "word": "past",
+   "start": 1.64,
+   "end": 2.02,
+   "prob": 0.971
+  },
+  {
+   "word": "eight.",
+   "start": 2.02,
+   "end": 2.52,
+   "prob": 0.847
+  },
+  {
+   "word": "Watched",
+   "start": 2.82,
+   "end": 3.42,
+   "prob": 0.88
+  },
+  {
+   "word": "it",
+   "start": 3.42,
+   "end": 3.5,
+   "prob": 0.996
+  },
+  {
+   "word": "sit",
+   "start": 3.5,
+   "end": 3.72,
+   "prob": 0.993
+  },
+  {
+   "word": "there",
+   "start": 3.72,
+   "end": 4.08,
+   "prob": 0.998
+  },
+  {
+   "word": "while",
+   "start": 4.08,
+   "end": 4.32,
+   "prob": 0.992
+  },
+  {
+   "word": "I",
+   "start": 4.32,
+   "end": 4.54,
+   "prob": 0.977
+  },
+  {
+   "word": "wait.",
+   "start": 4.54,
+   "end": 4.8,
+   "prob": 0.939
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "Made a joke at a quarter past eight."
+  },
+  {
+   "start": 2.82,
+   "end": 4.8,
+   "text": "Watched it sit there while I wait."
+  }
+ ]
+}

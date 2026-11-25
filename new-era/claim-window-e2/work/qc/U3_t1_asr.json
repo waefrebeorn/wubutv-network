@@ -1,0 +1,169 @@
+{
+ "file": "takes/U3_t1.mp4",
+ "head_rms_0_1.7": 0.008496306836605072,
+ "ambient_rms_0_0.5": 0.002527722856029868,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 1.78,
+    "end": 3.62,
+    "text": "Collector's edition. Yours?",
+    "words": [
+     {
+      "w": " Collector's",
+      "start": 1.78,
+      "end": 2.6
+     },
+     {
+      "w": " edition.",
+      "start": 2.6,
+      "end": 2.8
+     },
+     {
+      "w": " Yours?",
+      "start": 3.14,
+      "end": 3.62
+     }
+    ],
+    "seg_rms": 0.0644
+   },
+   {
+    "start": 4.0,
+    "end": 5.1,
+    "text": "I wish it was.",
+    "words": [
+     {
+      "w": " I",
+      "start": 4.0,
+      "end": 4.32
+     },
+     {
+      "w": " wish",
+      "start": 4.32,
+      "end": 4.62
+     },
+     {
+      "w": " it",
+      "start": 4.62,
+      "end": 4.82
+     },
+     {
+      "w": " was.",
+      "start": 4.82,
+      "end": 5.1
+     }
+    ],
+    "seg_rms": 0.0294
+   },
+   {
+    "start": 6.9,
+    "end": 8.78,
+    "text": "First honest answer today.",
+    "words": [
+     {
+      "w": " First",
+      "start": 6.9,
+      "end": 7.58
+     },
+     {
+      "w": " honest",
+      "start": 7.58,
+      "end": 8.0
+     },
+     {
+      "w": " answer",
+      "start": 8.0,
+      "end": 8.5
+     },
+     {
+      "w": " today.",
+      "start": 8.5,
+      "end": 8.78
+     }
+    ],
+    "seg_rms": 0.0585
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 1.78,
+    "end": 3.88,
+    "text": "Collectors edition. Yours?",
+    "words": [
+     {
+      "w": " Collectors",
+      "start": 1.78,
+      "end": 2.72
+     },
+     {
+      "w": " edition.",
+      "start": 2.72,
+      "end": 3.16
+     },
+     {
+      "w": " Yours?",
+      "start": 3.88,
+      "end": 3.88
+     }
+    ],
+    "seg_rms": 0.0679
+   },
+   {
+    "start": 4.38,
+    "end": 5.44,
+    "text": "I wish it was.",
+    "words": [
+     {
+      "w": " I",
+      "start": 4.38,
+      "end": 4.46
+     },
+     {
+      "w": " wish",
+      "start": 4.46,
+      "end": 4.72
+     },
+     {
+      "w": " it",
+      "start": 4.72,
+      "end": 4.92
+     },
+     {
+      "w": " was.",
+      "start": 4.92,
+      "end": 5.44
+     }
+    ],
+    "seg_rms": 0.0354
+   },
+   {
+    "start": 7.02,
+    "end": 8.94,
+    "text": "First honest answer today.",
+    "words": [
+     {
+      "w": " First",
+      "start": 7.02,
+      "end": 7.76
+     },
+     {
+      "w": " honest",
+      "start": 7.76,
+      "end": 8.14
+     },
+     {
+      "w": " answer",
+      "start": 8.14,
+      "end": 8.56
+     },
+     {
+      "w": " today.",
+      "start": 8.56,
+      "end": 8.94
+     }
+    ],
+    "seg_rms": 0.0598
+   }
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+# MV-8 REBUILD v2 — Volley 1 vehicle: IN-A "The Loop" (JOURNEY, cold open)
+# Scene: IN-A, song 0.00–5.97 (0–143f). Instrumental; single brass stab, gated drum hit.
+# Two-image journey: F00_v2.jpg (start) -> F01.jpg (destination). NEVER use F00.jpg (superseded).
+# Duration: exactly 10 seconds (v1 precedent; assembly trims to the 5.97s scene).
+# Aspect: 16:9 widescreen, 1280x720.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white + warm gold,
+# chocolate brown antagonist, yellow SOLE accent. No text, no logos, no licensed material.
+# MOTION LAW: continuous motion from the very first frame — her arm is already extending
+# toward the roll and the camera already drifting when the clip opens. No frozen lead-in,
+# no held-photo opening that snaps into motion.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. A small ordinary tiled bathroom in warm morning light, frosted window, a glossy white porcelain toilet, a toilet-paper stand. An adult woman in her late twenties with a long dark braid, wearing a plain white tunic and long white trousers and bright yellow rubber cleaning gloves, sits on the toilet, her arm already extending toward the toilet-paper roll as the clip opens, the camera already slowly drifting, everything in gentle continuous motion, never still. No text, no logos."
+Image 1: F00_v2.jpg
+Text 2: "The room begins to swirl and the white sheet pulls away from her hand, the bathroom dissolving into a swirling foam vortex, travelling toward the second image, a plain white sheet of toilet paper held in a yellow-gloved hand with one single glossy chocolate-brown marker stroke across it."
+Image 2: F01.jpg
+Text 3: "Ends at the second image: the white sheet with the single glossy chocolate marker stroke, held steady in the yellow glove, the vortex settling behind it. No text, no logos, no children, no other characters."

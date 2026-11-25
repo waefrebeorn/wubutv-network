@@ -1,0 +1,229 @@
+{
+ "file": "takes_part3/U2_t1.mp4",
+ "head_rms_0_1.7": 0.012613426893949509,
+ "ambient_rms_0_0.5": 0.010141156613826752,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.77,
+    "end": 4.51,
+    "text": "The wall says the street said no.",
+    "words": [
+     {
+      "w": " The",
+      "start": 2.77,
+      "end": 3.17
+     },
+     {
+      "w": " wall",
+      "start": 3.17,
+      "end": 3.31
+     },
+     {
+      "w": " says",
+      "start": 3.31,
+      "end": 3.57
+     },
+     {
+      "w": " the",
+      "start": 3.57,
+      "end": 3.75
+     },
+     {
+      "w": " street",
+      "start": 3.75,
+      "end": 3.99
+     },
+     {
+      "w": " said",
+      "start": 3.99,
+      "end": 4.23
+     },
+     {
+      "w": " no.",
+      "start": 4.23,
+      "end": 4.51
+     }
+    ],
+    "seg_rms": 0.0948
+   },
+   {
+    "start": 5.29,
+    "end": 6.61,
+    "text": "The vote was last night.",
+    "words": [
+     {
+      "w": " The",
+      "start": 5.29,
+      "end": 5.77
+     },
+     {
+      "w": " vote",
+      "start": 5.77,
+      "end": 5.97
+     },
+     {
+      "w": " was",
+      "start": 5.97,
+      "end": 6.11
+     },
+     {
+      "w": " last",
+      "start": 6.11,
+      "end": 6.31
+     },
+     {
+      "w": " night.",
+      "start": 6.31,
+      "end": 6.61
+     }
+    ],
+    "seg_rms": 0.0792
+   },
+   {
+    "start": 7.95,
+    "end": 9.39,
+    "text": "Who held the chalk last?",
+    "words": [
+     {
+      "w": " Who",
+      "start": 7.95,
+      "end": 8.43
+     },
+     {
+      "w": " held",
+      "start": 8.43,
+      "end": 8.75
+     },
+     {
+      "w": " the",
+      "start": 8.75,
+      "end": 8.91
+     },
+     {
+      "w": " chalk",
+      "start": 8.91,
+      "end": 9.11
+     },
+     {
+      "w": " last?",
+      "start": 9.11,
+      "end": 9.39
+     }
+    ],
+    "seg_rms": 0.0874
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.77,
+    "end": 4.67,
+    "text": "The wall says the street said no.",
+    "words": [
+     {
+      "w": " The",
+      "start": 2.77,
+      "end": 3.21
+     },
+     {
+      "w": " wall",
+      "start": 3.21,
+      "end": 3.41
+     },
+     {
+      "w": " says",
+      "start": 3.41,
+      "end": 3.69
+     },
+     {
+      "w": " the",
+      "start": 3.69,
+      "end": 3.81
+     },
+     {
+      "w": " street",
+      "start": 3.81,
+      "end": 4.07
+     },
+     {
+      "w": " said",
+      "start": 4.07,
+      "end": 4.37
+     },
+     {
+      "w": " no.",
+      "start": 4.37,
+      "end": 4.67
+     }
+    ],
+    "seg_rms": 0.0952
+   },
+   {
+    "start": 5.85,
+    "end": 6.81,
+    "text": "The vote was last night.",
+    "words": [
+     {
+      "w": " The",
+      "start": 5.85,
+      "end": 5.85
+     },
+     {
+      "w": " vote",
+      "start": 5.85,
+      "end": 6.05
+     },
+     {
+      "w": " was",
+      "start": 6.05,
+      "end": 6.23
+     },
+     {
+      "w": " last",
+      "start": 6.23,
+      "end": 6.47
+     },
+     {
+      "w": " night.",
+      "start": 6.47,
+      "end": 6.81
+     }
+    ],
+    "seg_rms": 0.0932
+   },
+   {
+    "start": 8.21,
+    "end": 9.63,
+    "text": "Who held the chalk last?",
+    "words": [
+     {
+      "w": " Who",
+      "start": 8.21,
+      "end": 8.59
+     },
+     {
+      "w": " held",
+      "start": 8.59,
+      "end": 8.83
+     },
+     {
+      "w": " the",
+      "start": 8.83,
+      "end": 8.95
+     },
+     {
+      "w": " chalk",
+      "start": 8.95,
+      "end": 9.23
+     },
+     {
+      "w": " last?",
+      "start": 9.23,
+      "end": 9.63
+     }
+    ],
+    "seg_rms": 0.093
+   }
+  ]
+ }
+}

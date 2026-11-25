@@ -1,0 +1,186 @@
+{
+ "master": "masters/mv3_i_am_your_dad_16x9_corrected.mp4",
+ "frames": 8516,
+ "longest_frozen_run_during_words_f": 30,
+ "frozen_gate_pass": false,
+ "scenes_below_0.5_vocal_mean_diff": {},
+ "scene_stats": {
+  "S01": {
+   "vocal_mean_diff": 1.187,
+   "min_mean_diff": 0.013
+  },
+  "S02": {
+   "vocal_mean_diff": 1.003,
+   "min_mean_diff": 0.026
+  },
+  "S03": {
+   "vocal_mean_diff": 3.539,
+   "min_mean_diff": 0.008
+  },
+  "S04": {
+   "vocal_mean_diff": 2.253,
+   "min_mean_diff": 0.529
+  },
+  "S05": {
+   "vocal_mean_diff": 1.099,
+   "min_mean_diff": 0.421
+  },
+  "S06": {
+   "vocal_mean_diff": 2.345,
+   "min_mean_diff": 0.801
+  },
+  "S07": {
+   "vocal_mean_diff": 1.118,
+   "min_mean_diff": 0.383
+  },
+  "S08": {
+   "vocal_mean_diff": 1.921,
+   "min_mean_diff": 0.461
+  },
+  "S09": {
+   "vocal_mean_diff": 4.513,
+   "min_mean_diff": 0.464
+  },
+  "S10": {
+   "vocal_mean_diff": 1.047,
+   "min_mean_diff": 0.386
+  },
+  "S11": {
+   "vocal_mean_diff": 1.858,
+   "min_mean_diff": 0.096
+  },
+  "S12": {
+   "vocal_mean_diff": 1.204,
+   "min_mean_diff": 0.308
+  },
+  "S13": {
+   "vocal_mean_diff": 1.233,
+   "min_mean_diff": 0.045
+  },
+  "S14": {
+   "vocal_mean_diff": 1.818,
+   "min_mean_diff": 0.021
+  },
+  "S15": {
+   "vocal_mean_diff": 1.784,
+   "min_mean_diff": 0.145
+  },
+  "S16": {
+   "vocal_mean_diff": 1.183,
+   "min_mean_diff": 0.215
+  },
+  "S17": {
+   "vocal_mean_diff": 2.444,
+   "min_mean_diff": 0.287
+  },
+  "S18": {
+   "vocal_mean_diff": 0.571,
+   "min_mean_diff": 0.165
+  },
+  "S19": {
+   "vocal_mean_diff": 1.623,
+   "min_mean_diff": 0.301
+  },
+  "S20": {
+   "vocal_mean_diff": 1.369,
+   "min_mean_diff": 0.367
+  },
+  "S21": {
+   "vocal_mean_diff": 1.001,
+   "min_mean_diff": 0.093
+  },
+  "S22": {
+   "vocal_mean_diff": 1.462,
+   "min_mean_diff": 0.132
+  },
+  "S23": {
+   "vocal_mean_diff": 1.76,
+   "min_mean_diff": 0.025
+  },
+  "S24": {
+   "vocal_mean_diff": 1.137,
+   "min_mean_diff": 0.253
+  },
+  "S25": {
+   "vocal_mean_diff": 0.757,
+   "min_mean_diff": 0.073
+  },
+  "S26": {
+   "vocal_mean_diff": 1.122,
+   "min_mean_diff": 0.19
+  },
+  "S27": {
+   "vocal_mean_diff": 1.276,
+   "min_mean_diff": 0.025
+  },
+  "S28": {
+   "vocal_mean_diff": 0.647,
+   "min_mean_diff": 0.018
+  },
+  "S29": {
+   "vocal_mean_diff": 0.987,
+   "min_mean_diff": 0.272
+  },
+  "S30": {
+   "vocal_mean_diff": 0.732,
+   "min_mean_diff": 0.107
+  },
+  "S31": {
+   "vocal_mean_diff": 1.037,
+   "min_mean_diff": 0.03
+  },
+  "S32": {
+   "vocal_mean_diff": 0.934,
+   "min_mean_diff": 0.022
+  },
+  "S33": {
+   "vocal_mean_diff": 0.677,
+   "min_mean_diff": 0.021
+  },
+  "S34": {
+   "vocal_mean_diff": 0.959,
+   "min_mean_diff": 0.281
+  },
+  "S35": {
+   "vocal_mean_diff": 0.868,
+   "min_mean_diff": 0.098
+  },
+  "S36": {
+   "vocal_mean_diff": 1.071,
+   "min_mean_diff": 0.012
+  },
+  "S37": {
+   "vocal_mean_diff": 1.005,
+   "min_mean_diff": 0.078
+  },
+  "S38": {
+   "vocal_mean_diff": 2.019,
+   "min_mean_diff": 0.19
+  },
+  "S39": {
+   "vocal_mean_diff": 0.63,
+   "min_mean_diff": 0.095
+  }
+ },
+ "frozen_runs_ge12f": [
+  {
+   "run_f": 30,
+   "at_s": 208.25,
+   "scene": "S25",
+   "class": "STRUCTURAL cover (inherited from retimed base, identical frame+length)"
+  },
+  {
+   "run_f": 27,
+   "at_s": 299.62,
+   "scene": "S35",
+   "class": "STRUCTURAL cover (inherited, identical)"
+  },
+  {
+   "run_f": 24,
+   "at_s": 348.29,
+   "scene": "S39",
+   "class": "COVER whole-slot (inherited, identical)"
+  }
+ ],
+ "verdict": "PASS for all mouth scenes (no scene vocal mean-diff < 0.5; no frozen run >=24f in any mouth scene; zero new frozen runs vs base). The three >=24f runs are inherited, frame-identical properties of disclosed STRUCTURAL/COVER takes S25/S35/S39, untouched by this run."
+}

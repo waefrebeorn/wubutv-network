@@ -1,0 +1,162 @@
+{
+  "S23_t4": {
+    "warped_take": "mv2_s23_t4_warped.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.6,
+    "warp_factor": 1.26,
+    "raw_words": [
+      [
+        "toll",
+        0.0,
+        0.52
+      ],
+      [
+        "roads",
+        0.52,
+        1.04
+      ],
+      [
+        "are",
+        1.04,
+        1.62
+      ],
+      [
+        "done",
+        1.62,
+        1.94
+      ]
+    ],
+    "normalized_words": [
+      [
+        "toll",
+        0.0,
+        0.52
+      ],
+      [
+        "roads",
+        0.52,
+        1.04
+      ],
+      [
+        "are",
+        1.04,
+        1.62
+      ],
+      [
+        "dumb",
+        1.62,
+        1.94
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        0.52
+      ],
+      [
+        "roads",
+        0.52,
+        1.04
+      ],
+      [
+        "are",
+        1.04,
+        1.62
+      ],
+      [
+        "dumb",
+        1.62,
+        1.94
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      1.94
+    ],
+    "ratio": 0.8247422680412372,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "normalization": "done->dumb (v5 established mishear class)"
+  },
+  "S23_t5": {
+    "warped_take": "mv2_s23_t5_warped.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.6,
+    "warp_factor": 1.27,
+    "raw_words": [
+      [
+        "toll",
+        0.0,
+        0.54
+      ],
+      [
+        "roads",
+        0.54,
+        1.36
+      ],
+      [
+        "are",
+        1.36,
+        1.6
+      ],
+      [
+        "done",
+        1.6,
+        1.92
+      ]
+    ],
+    "normalized_words": [
+      [
+        "toll",
+        0.0,
+        0.54
+      ],
+      [
+        "roads",
+        0.54,
+        1.36
+      ],
+      [
+        "are",
+        1.36,
+        1.6
+      ],
+      [
+        "dumb",
+        1.6,
+        1.92
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        0.54
+      ],
+      [
+        "roads",
+        0.54,
+        1.36
+      ],
+      [
+        "are",
+        1.36,
+        1.6
+      ],
+      [
+        "dumb",
+        1.6,
+        1.92
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      1.92
+    ],
+    "ratio": 0.8333333333333334,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "normalization": "done->dumb (v5 established mishear class)"
+  }
+}

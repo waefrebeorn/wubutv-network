@@ -1,0 +1,31 @@
+{
+ "take": "takes/mv19_s15_t1.mp4",
+ "words": [
+  {
+   "w": "Checked",
+   "start": 0.0,
+   "end": 1.8,
+   "p": 0.761
+  },
+  {
+   "w": "the",
+   "start": 1.8,
+   "end": 1.94,
+   "p": 0.992
+  },
+  {
+   "w": "fridge.",
+   "start": 1.94,
+   "end": 2.42,
+   "p": 0.99
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.42,
+   "text": "Checked the fridge.",
+   "avg_logprob": -0.42
+  }
+ ]
+}

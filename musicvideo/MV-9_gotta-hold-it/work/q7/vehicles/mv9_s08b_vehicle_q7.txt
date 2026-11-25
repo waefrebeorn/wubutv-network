@@ -1,0 +1,54 @@
+MV-9 S08b — "Inside the Porta" (pre-chorus 2, second half) — Q7 REPLACEMENT
+Song window: 78.16–85.28 ("Inside the porta" 78.16–81.44, "festival"
+HELD 81.62–83.96 = 2.34s, "box" 83.96–85.28). Scene: PC2. Tag: SINGING.
+Vehicle Q7 (axis: PACING — the v1 take's "Festival" is 0.98s vs the
+song's 2.34s hold; matching it would need a 2.39x slow, past the cap.
+This vehicle makes the TAKE hold the word ~2.3s so the assembly warp
+stays ~1.0x). Event: 2.4 The Room Shrinks — the porta walls bow inward
+during the held note and spring back on "box" (EVENT_LIBRARY family 2;
+not in USED_EVENTS).
+GATE: "Box" onset lands within ±0.5s of song 83.96; final warp in caps.
+
+PROMPT (pass as text entries + anchor still, framing text first,
+then the still, then the performance text):
+
+[Text 1 — framing + identity lock]
+Wide 16:9 video, exactly 10 seconds. Flat bold 2D cartoon, cel-shaded
+animated film, thick ink outlines, flat colour fields. At the inside
+of a blue porta-potty at a music festival, a medium close-up of a lean
+young man in his late 20s facing camera, mouth clearly visible and
+unobstructed, head movement restrained. He has dark messy hair, a
+sharp nose, one eyebrow always raised, a long face, light stubble,
+and sunburned shoulders. He wears a damp grey t-shirt. A cadmium
+yellow paper festival wristband, blank with no printing, is on his
+LEFT wrist. He holds a black phone with a cracked corner in his RIGHT
+hand. Behind him blue plastic walls, vent light stripes across his
+face, the lock on the door. He is already bouncing on the beat when
+the clip starts, already moving at frame zero.
+
+[Image] work/stills/anchor_young_man_1248x704.png (character anchor)
+
+[Text 2 — performance window + action]
+He sings one line, slowly and deliberately, spread across the first
+six seconds. First, briskly, in about two seconds: "Inside the
+porta," — clear open mouth shapes on every syllable, visible jaw
+drop, lips forming distinct shapes, no still mouth. Then he takes a
+breath and sings the word "festival" as ONE LONG HELD NOTE, stretched
+out for a full two and a half seconds — "Fes-ti-VAAAAL" — his mouth
+wide open, holding the same open shape for the whole note, the note
+sustained without a break. While he holds the note, the blue plastic
+walls of the porta-potty slowly bow inward around him, the little
+room shrinking a hand's width, and on the final word they spring
+back. The final word "box" lands short, hard and punched, right
+after the held note ends, at about five and a half seconds. After
+"box" his mouth closes and stays closed for the rest of the clip;
+he keeps bouncing on the beat in a held pose while the lock on the
+blue door clicks on the beat and vent light stripes keep sliding
+across the plastic walls. Steady camera, locked-off, during the
+singing. No text, no logos, no extra limbs, no morphing. One smooth
+head, two eyes, normal human mouth.
+
+NOTES: slot 78.16–85.28 vs 10s take — assembly trims the tail and
+uses the post-line span for the 85.28–86.80 gap cover, as v1 did.
+Measure the take's word times at QC; assembly anchors: "Inside" ->
+78.16, "festival" onset -> 81.62, "box" onset -> 83.96.

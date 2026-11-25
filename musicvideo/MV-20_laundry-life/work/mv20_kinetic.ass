@@ -1,0 +1,310 @@
+[Script Info]
+Title: MV-20 Laundry Life — kinetic layer
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Line,Arial,44,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,2,40,40,26,1
+Style: Slam,Arial,58,&H00FFFFFF,&H0000FFFF,&H00141414,&H64000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,30,1
+Style: Bug,Arial,22,&H66FFFFFF,&H66FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,20,16,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.54,Slam,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:00:00.00,0:02:42.00,Bug,,0,0,0,,{\pos(1252,700)}~ WuBu ~
+Dialogue: 0,0:00:00.54,0:00:00.85,Slam,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:00:00.85,0:00:01.18,Slam,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:00:01.18,0:00:02.15,Slam,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:00:02.15,0:00:02.31,Slam,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:00:02.31,0:00:02.58,Slam,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:02.58,0:00:03.02,Slam,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:03.02,0:00:03.65,Slam,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:00:03.65,0:00:03.83,Slam,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:03.83,0:00:04.38,Slam,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:05.20,0:00:05.68,Line,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:00:05.68,0:00:06.17,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:00:06.17,0:00:06.65,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:00:06.65,0:00:07.14,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:00:07.14,0:00:07.62,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:00:07.62,0:00:08.11,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:08.11,0:00:08.60,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:08.60,0:00:09.08,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:00:09.08,0:00:09.57,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:09.57,0:00:10.05,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:10.79,0:00:11.57,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:00:11.57,0:00:12.12,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:00:12.12,0:00:12.26,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:00:12.26,0:00:12.76,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:12.81,0:00:13.23,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:00:13.23,0:00:13.52,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:00:13.52,0:00:13.63,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:00:13.63,0:00:14.05,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:14.05,0:00:14.52,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:00:14.52,0:00:14.73,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:00:14.73,0:00:15.88,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:15.88,0:00:17.05,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:00:17.05,0:00:17.71,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:00:17.71,0:00:18.52,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:00:18.52,0:00:18.68,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:00:18.68,0:00:19.07,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:19.07,0:00:19.55,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:19.55,0:00:20.20,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:00:20.20,0:00:20.34,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:20.34,0:00:20.75,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:22.86,0:00:23.64,Line,,0,0,0,,{\c&H00FFFF&\b1}Washed{\c&HFFFFFF&\b1} it dried it folded nothing
+Dialogue: 0,0:00:23.64,0:00:23.95,Line,,0,0,0,,Washed {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} dried it folded nothing
+Dialogue: 0,0:00:23.95,0:00:24.23,Line,,0,0,0,,Washed it {\c&H00FFFF&\b1}dried{\c&HFFFFFF&\b1} it folded nothing
+Dialogue: 0,0:00:24.23,0:00:24.59,Line,,0,0,0,,Washed it dried {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} folded nothing
+Dialogue: 0,0:00:24.59,0:00:24.98,Line,,0,0,0,,Washed it dried it {\c&H00FFFF&\b1}folded{\c&HFFFFFF&\b1} nothing
+Dialogue: 0,0:00:24.98,0:00:26.38,Line,,0,0,0,,Washed it dried it folded {\c&H00FFFF&\b1}nothing{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:26.38,0:00:26.59,Line,,0,0,0,,Basket's {\c&H00FFFF&\b1}full{\c&HFFFFFF&\b1} and I'm still wearing the same thing
+Dialogue: 0,0:00:26.59,0:00:26.77,Line,,0,0,0,,Basket's full {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} I'm still wearing the same thing
+Dialogue: 0,0:00:26.77,0:00:26.89,Line,,0,0,0,,Basket's full and {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} still wearing the same thing
+Dialogue: 0,0:00:26.89,0:00:27.04,Line,,0,0,0,,Basket's full and I'm {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} wearing the same thing
+Dialogue: 0,0:00:27.04,0:00:27.36,Line,,0,0,0,,Basket's full and I'm still {\c&H00FFFF&\b1}wearing{\c&HFFFFFF&\b1} the same thing
+Dialogue: 0,0:00:27.36,0:00:27.57,Line,,0,0,0,,Basket's full and I'm still wearing {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} same thing
+Dialogue: 0,0:00:27.57,0:00:27.86,Line,,0,0,0,,Basket's full and I'm still wearing the {\c&H00FFFF&\b1}same{\c&HFFFFFF&\b1} thing
+Dialogue: 0,0:00:27.86,0:00:28.32,Line,,0,0,0,,Basket's full and I'm still wearing the same {\c&H00FFFF&\b1}thing{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:28.32,0:00:29.05,Line,,0,0,0,,{\c&H00FFFF&\b1}Reached{\c&HFFFFFF&\b1} in for socks and pulled out a shirt
+Dialogue: 0,0:00:29.05,0:00:29.25,Line,,0,0,0,,Reached {\c&H00FFFF&\b1}in{\c&HFFFFFF&\b1} for socks and pulled out a shirt
+Dialogue: 0,0:00:29.25,0:00:29.43,Line,,0,0,0,,Reached in {\c&H00FFFF&\b1}for{\c&HFFFFFF&\b1} socks and pulled out a shirt
+Dialogue: 0,0:00:29.43,0:00:29.82,Line,,0,0,0,,Reached in for {\c&H00FFFF&\b1}socks{\c&HFFFFFF&\b1} and pulled out a shirt
+Dialogue: 0,0:00:29.82,0:00:30.02,Line,,0,0,0,,Reached in for socks {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} pulled out a shirt
+Dialogue: 0,0:00:30.02,0:00:30.36,Line,,0,0,0,,Reached in for socks and {\c&H00FFFF&\b1}pulled{\c&HFFFFFF&\b1} out a shirt
+Dialogue: 0,0:00:30.36,0:00:30.66,Line,,0,0,0,,Reached in for socks and pulled {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} a shirt
+Dialogue: 0,0:00:30.66,0:00:30.88,Line,,0,0,0,,Reached in for socks and pulled out {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} shirt
+Dialogue: 0,0:00:30.88,0:00:31.14,Line,,0,0,0,,Reached in for socks and pulled out a {\c&H00FFFF&\b1}shirt{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:31.14,0:00:31.70,Line,,0,0,0,,{\c&H00FFFF&\b1}Now{\c&HFFFFFF&\b1} I'm just digging like it's my only source
+Dialogue: 0,0:00:31.70,0:00:31.94,Line,,0,0,0,,Now {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} just digging like it's my only source
+Dialogue: 0,0:00:31.94,0:00:32.20,Line,,0,0,0,,Now I'm {\c&H00FFFF&\b1}just{\c&HFFFFFF&\b1} digging like it's my only source
+Dialogue: 0,0:00:32.20,0:00:32.53,Line,,0,0,0,,Now I'm just {\c&H00FFFF&\b1}digging{\c&HFFFFFF&\b1} like it's my only source
+Dialogue: 0,0:00:32.53,0:00:32.80,Line,,0,0,0,,Now I'm just digging {\c&H00FFFF&\b1}like{\c&HFFFFFF&\b1} it's my only source
+Dialogue: 0,0:00:32.80,0:00:32.95,Line,,0,0,0,,Now I'm just digging like {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} my only source
+Dialogue: 0,0:00:32.95,0:00:33.17,Line,,0,0,0,,Now I'm just digging like it's {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} only source
+Dialogue: 0,0:00:33.17,0:00:33.55,Line,,0,0,0,,Now I'm just digging like it's my {\c&H00FFFF&\b1}only{\c&HFFFFFF&\b1} source
+Dialogue: 0,0:00:33.55,0:00:34.03,Line,,0,0,0,,Now I'm just digging like it's my only {\c&H00FFFF&\b1}source{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:34.03,0:00:34.63,Line,,0,0,0,,{\c&H00FFFF&\b1}Clean{\c&HFFFFFF&\b1} is clean
+Dialogue: 0,0:00:34.63,0:00:35.59,Line,,0,0,0,,Clean {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean
+Dialogue: 0,0:00:35.59,0:00:36.27,Line,,0,0,0,,Clean is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:36.27,0:00:37.31,Line,,0,0,0,,{\c&H00FFFF&\b1}Clean{\c&HFFFFFF&\b1} is clean
+Dialogue: 0,0:00:37.31,0:00:38.38,Line,,0,0,0,,Clean {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean
+Dialogue: 0,0:00:38.38,0:00:38.70,Line,,0,0,0,,Clean is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:38.70,0:00:38.98,Line,,0,0,0,,{\c&H00FFFF&\b1}But{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:00:38.98,0:00:39.16,Line,,0,0,0,,But {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:39.16,0:00:39.34,Line,,0,0,0,,But it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:39.34,0:00:39.52,Line,,0,0,0,,But it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:00:39.52,0:00:39.63,Line,,0,0,0,,But it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:39.63,0:00:40.22,Line,,0,0,0,,But it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:40.98,0:00:41.70,Line,,0,0,0,,But {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:41.70,0:00:41.85,Line,,0,0,0,,But it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:41.85,0:00:42.05,Line,,0,0,0,,But it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:42.05,0:00:42.30,Line,,0,0,0,,But it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:43.77,0:00:44.49,Slam,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:00:44.49,0:00:44.94,Slam,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:00:44.94,0:00:45.30,Slam,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:00:45.30,0:00:45.80,Slam,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:00:45.80,0:00:46.40,Slam,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:46.40,0:00:46.62,Slam,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:46.62,0:00:46.73,Slam,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:00:46.73,0:00:47.17,Slam,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:47.17,0:00:47.76,Slam,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:47.76,0:00:47.91,Line,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:00:47.91,0:00:50.08,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:00:50.08,0:00:50.80,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:00:50.80,0:00:51.27,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:00:51.27,0:00:51.91,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:00:51.91,0:00:52.09,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:00:52.09,0:00:52.63,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:00:52.63,0:00:53.23,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:00:53.23,0:00:53.49,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:00:53.49,0:00:54.77,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:54.77,0:00:55.91,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:00:55.91,0:00:56.20,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:00:56.20,0:00:56.38,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:00:56.38,0:00:56.84,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:56.84,0:00:57.20,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:00:57.20,0:00:57.55,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:00:57.55,0:00:57.73,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:00:57.73,0:00:58.17,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:00:58.17,0:00:58.62,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:00:58.62,0:00:58.80,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:00:58.80,0:01:00.41,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:00.49,0:01:01.17,Line,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:01:01.17,0:01:01.52,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:01:01.52,0:01:01.84,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:01:01.84,0:01:02.62,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:01:02.62,0:01:02.81,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:01:02.81,0:01:03.23,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:01:03.23,0:01:03.63,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:03.63,0:01:04.25,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:04.25,0:01:04.42,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:04.42,0:01:04.67,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:04.67,0:01:05.16,Line,,0,0,0,,{\c&H00FFFF&\b1}Still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:05.16,0:01:05.53,Line,,0,0,0,,Still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:05.53,0:01:05.75,Line,,0,0,0,,Still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:05.75,0:01:06.19,Line,,0,0,0,,Still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:06.19,0:01:06.53,Line,,0,0,0,,{\c&H00FFFF&\b1}Still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:06.53,0:01:06.92,Line,,0,0,0,,Still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:06.92,0:01:07.16,Line,,0,0,0,,Still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:07.16,0:01:07.59,Line,,0,0,0,,Still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:07.59,0:01:07.94,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:01:07.94,0:01:08.28,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:01:08.28,0:01:11.56,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:11.56,0:01:12.06,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:01:12.06,0:01:12.33,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:01:12.33,0:01:14.03,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:15.31,0:01:15.56,Line,,0,0,0,,{\c&H00FFFF&\b1}Week{\c&HFFFFFF&\b1} later and the basket's my dresser
+Dialogue: 0,0:01:15.56,0:01:16.03,Line,,0,0,0,,Week {\c&H00FFFF&\b1}later{\c&HFFFFFF&\b1} and the basket's my dresser
+Dialogue: 0,0:01:16.03,0:01:16.69,Line,,0,0,0,,Week later {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} the basket's my dresser
+Dialogue: 0,0:01:16.69,0:01:16.83,Line,,0,0,0,,Week later and {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket's my dresser
+Dialogue: 0,0:01:16.83,0:01:17.31,Line,,0,0,0,,Week later and the {\c&H00FFFF&\b1}basket's{\c&HFFFFFF&\b1} my dresser
+Dialogue: 0,0:01:17.31,0:01:17.52,Line,,0,0,0,,Week later and the basket's {\c&H00FFFF&\b1}my{\c&HFFFFFF&\b1} dresser
+Dialogue: 0,0:01:17.52,0:01:18.03,Line,,0,0,0,,Week later and the basket's my {\c&H00FFFF&\b1}dresser{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:18.03,0:01:18.50,Line,,0,0,0,,{\c&H00FFFF&\b1}Grabbing{\c&HFFFFFF&\b1} whatever's on top and calling it better
+Dialogue: 0,0:01:18.50,0:01:19.16,Line,,0,0,0,,Grabbing {\c&H00FFFF&\b1}whatever's{\c&HFFFFFF&\b1} on top and calling it better
+Dialogue: 0,0:01:19.16,0:01:19.28,Line,,0,0,0,,Grabbing whatever's {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} top and calling it better
+Dialogue: 0,0:01:19.28,0:01:19.50,Line,,0,0,0,,Grabbing whatever's on {\c&H00FFFF&\b1}top{\c&HFFFFFF&\b1} and calling it better
+Dialogue: 0,0:01:19.50,0:01:19.59,Line,,0,0,0,,Grabbing whatever's on top {\c&H00FFFF&\b1}and{\c&HFFFFFF&\b1} calling it better
+Dialogue: 0,0:01:19.59,0:01:20.06,Line,,0,0,0,,Grabbing whatever's on top and {\c&H00FFFF&\b1}calling{\c&HFFFFFF&\b1} it better
+Dialogue: 0,0:01:20.06,0:01:20.31,Line,,0,0,0,,Grabbing whatever's on top and calling {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1} better
+Dialogue: 0,0:01:20.31,0:01:20.78,Line,,0,0,0,,Grabbing whatever's on top and calling it {\c&H00FFFF&\b1}better{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:20.78,0:01:21.52,Line,,0,0,0,,{\c&H00FFFF&\b1}Pants{\c&HFFFFFF&\b1} are clean but they're wrinkled as hell
+Dialogue: 0,0:01:21.52,0:01:21.64,Line,,0,0,0,,Pants {\c&H00FFFF&\b1}are{\c&HFFFFFF&\b1} clean but they're wrinkled as hell
+Dialogue: 0,0:01:21.64,0:01:22.08,Line,,0,0,0,,Pants are {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but they're wrinkled as hell
+Dialogue: 0,0:01:22.08,0:01:22.16,Line,,0,0,0,,Pants are clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} they're wrinkled as hell
+Dialogue: 0,0:01:22.16,0:01:22.44,Line,,0,0,0,,Pants are clean but {\c&H00FFFF&\b1}they're{\c&HFFFFFF&\b1} wrinkled as hell
+Dialogue: 0,0:01:22.44,0:01:22.94,Line,,0,0,0,,Pants are clean but they're {\c&H00FFFF&\b1}wrinkled{\c&HFFFFFF&\b1} as hell
+Dialogue: 0,0:01:22.94,0:01:23.11,Line,,0,0,0,,Pants are clean but they're wrinkled {\c&H00FFFF&\b1}as{\c&HFFFFFF&\b1} hell
+Dialogue: 0,0:01:23.11,0:01:23.42,Line,,0,0,0,,Pants are clean but they're wrinkled as {\c&H00FFFF&\b1}hell{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:23.42,0:01:23.75,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} I'm still not putting them away I can tell
+Dialogue: 0,0:01:23.75,0:01:23.89,Line,,0,0,0,,And {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} still not putting them away I can tell
+Dialogue: 0,0:01:23.89,0:01:24.14,Line,,0,0,0,,And I'm {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} not putting them away I can tell
+Dialogue: 0,0:01:24.14,0:01:24.53,Line,,0,0,0,,And I'm still {\c&H00FFFF&\b1}not{\c&HFFFFFF&\b1} putting them away I can tell
+Dialogue: 0,0:01:24.53,0:01:24.89,Line,,0,0,0,,And I'm still not {\c&H00FFFF&\b1}putting{\c&HFFFFFF&\b1} them away I can tell
+Dialogue: 0,0:01:24.89,0:01:25.17,Line,,0,0,0,,And I'm still not putting {\c&H00FFFF&\b1}them{\c&HFFFFFF&\b1} away I can tell
+Dialogue: 0,0:01:25.17,0:01:25.45,Line,,0,0,0,,And I'm still not putting them {\c&H00FFFF&\b1}away{\c&HFFFFFF&\b1} I can tell
+Dialogue: 0,0:01:25.45,0:01:25.64,Line,,0,0,0,,And I'm still not putting them away {\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} can tell
+Dialogue: 0,0:01:25.64,0:01:25.80,Line,,0,0,0,,And I'm still not putting them away I {\c&H00FFFF&\b1}can{\c&HFFFFFF&\b1} tell
+Dialogue: 0,0:01:25.80,0:01:26.44,Line,,0,0,0,,And I'm still not putting them away I can {\c&H00FFFF&\b1}tell{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:26.44,0:01:27.17,Line,,0,0,0,,{\c&H00FFFF&\b1}Clean{\c&HFFFFFF&\b1} is clean
+Dialogue: 0,0:01:27.17,0:01:27.97,Line,,0,0,0,,Clean {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean
+Dialogue: 0,0:01:27.97,0:01:28.61,Line,,0,0,0,,Clean is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:29.28,0:01:29.69,Line,,0,0,0,,{\c&H00FFFF&\b1}Clean{\c&HFFFFFF&\b1} is clean
+Dialogue: 0,0:01:29.69,0:01:30.72,Line,,0,0,0,,Clean {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean
+Dialogue: 0,0:01:30.72,0:01:31.06,Line,,0,0,0,,Clean is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:31.06,0:01:31.31,Line,,0,0,0,,{\c&H00FFFF&\b1}But{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:01:31.31,0:01:31.53,Line,,0,0,0,,But {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:01:31.53,0:01:31.72,Line,,0,0,0,,But it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:31.72,0:01:31.92,Line,,0,0,0,,But it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:31.92,0:01:32.06,Line,,0,0,0,,But it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:32.06,0:01:32.75,Line,,0,0,0,,But it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:32.75,0:01:34.08,Line,,0,0,0,,{\c&H00FFFF&\b1}But{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:01:34.08,0:01:34.22,Line,,0,0,0,,But {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:01:34.22,0:01:34.42,Line,,0,0,0,,But it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:34.42,0:01:34.67,Line,,0,0,0,,But it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:34.67,0:01:34.86,Line,,0,0,0,,But it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:34.86,0:01:35.59,Line,,0,0,0,,But it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:35.59,0:01:36.97,Slam,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:01:36.97,0:01:37.33,Slam,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:01:37.33,0:01:37.66,Slam,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:01:37.66,0:01:38.16,Slam,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:01:38.16,0:01:38.75,Slam,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:01:38.75,0:01:38.97,Slam,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:01:38.97,0:01:39.06,Slam,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:39.06,0:01:39.50,Slam,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:39.50,0:01:40.06,Slam,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:40.06,0:01:40.73,Slam,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:41.66,0:01:42.45,Line,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:01:42.45,0:01:42.80,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:01:42.80,0:01:43.16,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:01:43.16,0:01:43.59,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:01:43.59,0:01:44.23,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:01:44.23,0:01:44.45,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:01:44.45,0:01:44.86,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:44.86,0:01:45.59,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:45.59,0:01:45.83,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:45.83,0:01:46.58,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:47.47,0:01:48.28,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:01:48.28,0:01:48.56,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:01:48.56,0:01:48.69,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:01:48.69,0:01:49.17,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:49.17,0:01:49.56,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:01:49.56,0:01:49.94,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:01:49.94,0:01:50.06,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:01:50.06,0:01:50.52,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:50.52,0:01:50.92,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:01:50.92,0:01:51.16,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:01:51.16,0:01:52.03,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:52.53,0:01:53.52,Line,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:01:53.52,0:01:53.86,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:01:53.86,0:01:54.16,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:01:54.16,0:01:54.58,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:01:54.58,0:01:55.14,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:01:55.14,0:01:55.59,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:01:55.59,0:01:55.97,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:55.97,0:01:56.67,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:56.67,0:01:56.83,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:56.83,0:01:57.14,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:57.14,0:01:57.53,Line,,0,0,0,,{\c&H00FFFF&\b1}Still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:01:57.53,0:01:59.28,Line,,0,0,0,,Still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:01:59.28,0:01:59.45,Line,,0,0,0,,Still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:01:59.45,0:01:59.78,Line,,0,0,0,,Still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:01:59.78,0:02:00.22,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} washed it
+Dialogue: 0,0:02:00.22,0:02:00.56,Line,,0,0,0,,I {\c&H00FFFF&\b1}washed{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:02:00.56,0:02:01.09,Line,,0,0,0,,I washed {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:01.23,0:02:01.58,Line,,0,0,0,,{\c&H00FFFF&\b1}I{\c&HFFFFFF&\b1} dried it
+Dialogue: 0,0:02:01.58,0:02:01.95,Line,,0,0,0,,I {\c&H00FFFF&\b1}dried{\c&HFFFFFF&\b1} it
+Dialogue: 0,0:02:01.95,0:02:02.42,Line,,0,0,0,,I dried {\c&H00FFFF&\b1}it{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:02.42,0:02:02.81,Line,,0,0,0,,{\c&H00FFFF&\b1}And{\c&HFFFFFF&\b1} now I'm living out the basket
+Dialogue: 0,0:02:02.81,0:02:03.03,Line,,0,0,0,,And {\c&H00FFFF&\b1}now{\c&HFFFFFF&\b1} I'm living out the basket
+Dialogue: 0,0:02:03.03,0:02:03.22,Line,,0,0,0,,And now {\c&H00FFFF&\b1}I'm{\c&HFFFFFF&\b1} living out the basket
+Dialogue: 0,0:02:03.22,0:02:03.52,Line,,0,0,0,,And now I'm {\c&H00FFFF&\b1}living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:02:03.52,0:02:04.28,Line,,0,0,0,,And now I'm living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:02:04.28,0:02:04.56,Line,,0,0,0,,And now I'm living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:02:04.56,0:02:05.39,Line,,0,0,0,,And now I'm living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:06.53,0:02:07.30,Line,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:02:07.30,0:02:07.59,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:02:07.59,0:02:07.96,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:02:07.96,0:02:08.41,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:02:08.41,0:02:09.03,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:02:09.03,0:02:09.34,Line,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:02:09.34,0:02:09.78,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:02:09.78,0:02:10.40,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:02:10.40,0:02:10.53,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:02:10.53,0:02:10.96,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:12.01,0:02:12.78,Line,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:02:12.78,0:02:13.88,Line,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:02:13.88,0:02:14.34,Line,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:02:14.34,0:02:14.72,Line,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:02:14.72,0:02:15.07,Line,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:02:15.07,0:02:15.85,Line,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:02:15.85,0:02:16.13,Line,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:02:16.13,0:02:16.62,Line,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:17.75,0:02:18.51,Line,,0,0,0,,{\c&H00FFFF&\b1}Living{\c&HFFFFFF&\b1} out the basket
+Dialogue: 0,0:02:18.51,0:02:18.79,Line,,0,0,0,,Living {\c&H00FFFF&\b1}out{\c&HFFFFFF&\b1} the basket
+Dialogue: 0,0:02:18.79,0:02:20.00,Line,,0,0,0,,Living out {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} basket
+Dialogue: 0,0:02:20.00,0:02:20.75,Line,,0,0,0,,Living out the {\c&H00FFFF&\b1}basket{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:20.75,0:02:21.12,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:02:21.12,0:02:21.41,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:02:21.41,0:02:22.16,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:23.01,0:02:23.78,Slam,,0,0,0,,{\c&H00FFFF&\b1}The{\c&HFFFFFF&\b1} laundry is clean but it's still on the floor
+Dialogue: 0,0:02:23.78,0:02:24.12,Slam,,0,0,0,,The {\c&H00FFFF&\b1}laundry{\c&HFFFFFF&\b1} is clean but it's still on the floor
+Dialogue: 0,0:02:24.12,0:02:24.44,Slam,,0,0,0,,The laundry {\c&H00FFFF&\b1}is{\c&HFFFFFF&\b1} clean but it's still on the floor
+Dialogue: 0,0:02:24.44,0:02:24.79,Slam,,0,0,0,,The laundry is {\c&H00FFFF&\b1}clean{\c&HFFFFFF&\b1} but it's still on the floor
+Dialogue: 0,0:02:24.79,0:02:26.74,Slam,,0,0,0,,The laundry is clean {\c&H00FFFF&\b1}but{\c&HFFFFFF&\b1} it's still on the floor
+Dialogue: 0,0:02:26.74,0:02:27.24,Slam,,0,0,0,,The laundry is clean but {\c&H00FFFF&\b1}it's{\c&HFFFFFF&\b1} still on the floor
+Dialogue: 0,0:02:27.24,0:02:27.69,Slam,,0,0,0,,The laundry is clean but it's {\c&H00FFFF&\b1}still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:02:27.69,0:02:28.88,Slam,,0,0,0,,The laundry is clean but it's still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:02:28.88,0:02:29.69,Slam,,0,0,0,,The laundry is clean but it's still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:02:29.69,0:02:30.19,Slam,,0,0,0,,The laundry is clean but it's still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:30.19,0:02:30.53,Line,,0,0,0,,{\c&H00FFFF&\b1}Still{\c&HFFFFFF&\b1} on the floor
+Dialogue: 0,0:02:30.53,0:02:30.90,Line,,0,0,0,,Still {\c&H00FFFF&\b1}on{\c&HFFFFFF&\b1} the floor
+Dialogue: 0,0:02:30.90,0:02:31.12,Line,,0,0,0,,Still on {\c&H00FFFF&\b1}the{\c&HFFFFFF&\b1} floor
+Dialogue: 0,0:02:31.12,0:02:31.71,Line,,0,0,0,,Still on the {\c&H00FFFF&\b1}floor{\c&HFFFFFF&\b1}
+Dialogue: 0,0:02:33.46,0:02:34.63,Line,,0,0,0,,{\c&H00FFFF&\b1}Like{\c&HFFFFFF&\b1} a raccoon
+Dialogue: 0,0:02:34.63,0:02:35.00,Line,,0,0,0,,Like {\c&H00FFFF&\b1}a{\c&HFFFFFF&\b1} raccoon
+Dialogue: 0,0:02:35.00,0:02:35.68,Line,,0,0,0,,Like a {\c&H00FFFF&\b1}raccoon{\c&HFFFFFF&\b1}

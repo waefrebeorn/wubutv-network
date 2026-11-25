@@ -1,0 +1,405 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: V6Line,DejaVu Sans,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.44,0:00:07.34,V6Line,,0,0,0,,{\1c&H0000FFFF&}Yeah…{\1c&H00FFFFFF&} listen here, baby.
+Dialogue: 0,0:00:07.34,0:00:08.00,V6Line,,0,0,0,,Yeah… {\1c&H0000FFFF&}listen{\1c&H00FFFFFF&} here, baby.
+Dialogue: 0,0:00:08.00,0:00:08.30,V6Line,,0,0,0,,Yeah… listen {\1c&H0000FFFF&}here,{\1c&H00FFFFFF&} baby.
+Dialogue: 0,0:00:08.30,0:00:08.68,V6Line,,0,0,0,,Yeah… listen here, {\1c&H0000FFFF&}baby.{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:08.98,0:00:11.20,V6Line,,0,0,0,,{\1c&H0000FFFF&}Those{\1c&H00FFFFFF&} shiny roads ain't what they seem.
+Dialogue: 0,0:00:11.20,0:00:11.66,V6Line,,0,0,0,,Those {\1c&H0000FFFF&}shiny{\1c&H00FFFFFF&} roads ain't what they seem.
+Dialogue: 0,0:00:11.66,0:00:12.16,V6Line,,0,0,0,,Those shiny {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} ain't what they seem.
+Dialogue: 0,0:00:12.16,0:00:12.48,V6Line,,0,0,0,,Those shiny roads {\1c&H0000FFFF&}ain't{\1c&H00FFFFFF&} what they seem.
+Dialogue: 0,0:00:12.48,0:00:12.66,V6Line,,0,0,0,,Those shiny roads ain't {\1c&H0000FFFF&}what{\1c&H00FFFFFF&} they seem.
+Dialogue: 0,0:00:12.66,0:00:12.86,V6Line,,0,0,0,,Those shiny roads ain't what {\1c&H0000FFFF&}they{\1c&H00FFFFFF&} seem.
+Dialogue: 0,0:00:12.86,0:00:13.42,V6Line,,0,0,0,,Those shiny roads ain't what they {\1c&H0000FFFF&}seem.{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:20.04,0:00:20.70,V6Line,,0,0,0,,{\1c&H0000FFFF&}They{\1c&H00FFFFFF&} build the toll roads, baby, make you pay to roll,
+Dialogue: 0,0:00:20.70,0:00:21.00,V6Line,,0,0,0,,They {\1c&H0000FFFF&}build{\1c&H00FFFFFF&} the toll roads, baby, make you pay to roll,
+Dialogue: 0,0:00:21.00,0:00:21.16,V6Line,,0,0,0,,They build {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} toll roads, baby, make you pay to roll,
+Dialogue: 0,0:00:21.16,0:00:21.48,V6Line,,0,0,0,,They build the {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads, baby, make you pay to roll,
+Dialogue: 0,0:00:21.48,0:00:22.10,V6Line,,0,0,0,,They build the toll {\1c&H0000FFFF&}roads,{\1c&H00FFFFFF&} baby, make you pay to roll,
+Dialogue: 0,0:00:22.10,0:00:22.38,V6Line,,0,0,0,,They build the toll roads, {\1c&H0000FFFF&}baby,{\1c&H00FFFFFF&} make you pay to roll,
+Dialogue: 0,0:00:22.38,0:00:22.74,V6Line,,0,0,0,,They build the toll roads, baby, {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} you pay to roll,
+Dialogue: 0,0:00:22.74,0:00:22.88,V6Line,,0,0,0,,They build the toll roads, baby, make {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} pay to roll,
+Dialogue: 0,0:00:22.88,0:00:23.18,V6Line,,0,0,0,,They build the toll roads, baby, make you {\1c&H0000FFFF&}pay{\1c&H00FFFFFF&} to roll,
+Dialogue: 0,0:00:23.18,0:00:23.52,V6Line,,0,0,0,,They build the toll roads, baby, make you pay {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} roll,
+Dialogue: 0,0:00:23.52,0:00:23.92,V6Line,,0,0,0,,They build the toll roads, baby, make you pay to {\1c&H0000FFFF&}roll,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:23.92,0:00:24.32,V6Line,,0,0,0,,{\1c&H0000FFFF&}Old{\1c&H00FFFFFF&} plazas make you stop, then they make you go.
+Dialogue: 0,0:00:24.32,0:00:25.06,V6Line,,0,0,0,,Old {\1c&H0000FFFF&}plazas{\1c&H00FFFFFF&} make you stop, then they make you go.
+Dialogue: 0,0:00:25.06,0:00:25.32,V6Line,,0,0,0,,Old plazas {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} you stop, then they make you go.
+Dialogue: 0,0:00:25.32,0:00:25.46,V6Line,,0,0,0,,Old plazas make {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} stop, then they make you go.
+Dialogue: 0,0:00:25.46,0:00:25.94,V6Line,,0,0,0,,Old plazas make you {\1c&H0000FFFF&}stop,{\1c&H00FFFFFF&} then they make you go.
+Dialogue: 0,0:00:25.94,0:00:26.16,V6Line,,0,0,0,,Old plazas make you stop, {\1c&H0000FFFF&}then{\1c&H00FFFFFF&} they make you go.
+Dialogue: 0,0:00:26.16,0:00:26.34,V6Line,,0,0,0,,Old plazas make you stop, then {\1c&H0000FFFF&}they{\1c&H00FFFFFF&} make you go.
+Dialogue: 0,0:00:26.34,0:00:26.68,V6Line,,0,0,0,,Old plazas make you stop, then they {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} you go.
+Dialogue: 0,0:00:26.68,0:00:26.92,V6Line,,0,0,0,,Old plazas make you stop, then they make {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} go.
+Dialogue: 0,0:00:26.92,0:00:27.36,V6Line,,0,0,0,,Old plazas make you stop, then they make you {\1c&H0000FFFF&}go.{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:27.36,0:00:28.30,V6Line,,0,0,0,,{\1c&H0000FFFF&}Cars{\1c&H00FFFFFF&} slam the brakes, the back ends crash and smash,
+Dialogue: 0,0:00:28.30,0:00:28.80,V6Line,,0,0,0,,Cars {\1c&H0000FFFF&}slam{\1c&H00FFFFFF&} the brakes, the back ends crash and smash,
+Dialogue: 0,0:00:28.80,0:00:28.98,V6Line,,0,0,0,,Cars slam {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} brakes, the back ends crash and smash,
+Dialogue: 0,0:00:28.98,0:00:29.38,V6Line,,0,0,0,,Cars slam the {\1c&H0000FFFF&}brakes,{\1c&H00FFFFFF&} the back ends crash and smash,
+Dialogue: 0,0:00:29.38,0:00:29.44,V6Line,,0,0,0,,Cars slam the brakes, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} back ends crash and smash,
+Dialogue: 0,0:00:29.44,0:00:29.72,V6Line,,0,0,0,,Cars slam the brakes, the {\1c&H0000FFFF&}back{\1c&H00FFFFFF&} ends crash and smash,
+Dialogue: 0,0:00:29.72,0:00:29.96,V6Line,,0,0,0,,Cars slam the brakes, the back {\1c&H0000FFFF&}ends{\1c&H00FFFFFF&} crash and smash,
+Dialogue: 0,0:00:29.96,0:00:30.36,V6Line,,0,0,0,,Cars slam the brakes, the back ends {\1c&H0000FFFF&}crash{\1c&H00FFFFFF&} and smash,
+Dialogue: 0,0:00:30.36,0:00:30.48,V6Line,,0,0,0,,Cars slam the brakes, the back ends crash {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} smash,
+Dialogue: 0,0:00:30.48,0:00:30.96,V6Line,,0,0,0,,Cars slam the brakes, the back ends crash and {\1c&H0000FFFF&}smash,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:30.96,0:00:31.78,V6Line,,0,0,0,,{\1c&H0000FFFF&}NTSB{\1c&H00FFFFFF&} said those booths were the worst on the map.
+Dialogue: 0,0:00:31.78,0:00:32.08,V6Line,,0,0,0,,NTSB {\1c&H0000FFFF&}said{\1c&H00FFFFFF&} those booths were the worst on the map.
+Dialogue: 0,0:00:32.08,0:00:32.32,V6Line,,0,0,0,,NTSB said {\1c&H0000FFFF&}those{\1c&H00FFFFFF&} booths were the worst on the map.
+Dialogue: 0,0:00:32.32,0:00:32.88,V6Line,,0,0,0,,NTSB said those {\1c&H0000FFFF&}booths{\1c&H00FFFFFF&} were the worst on the map.
+Dialogue: 0,0:00:32.88,0:00:33.08,V6Line,,0,0,0,,NTSB said those booths {\1c&H0000FFFF&}were{\1c&H00FFFFFF&} the worst on the map.
+Dialogue: 0,0:00:33.08,0:00:33.22,V6Line,,0,0,0,,NTSB said those booths were {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} worst on the map.
+Dialogue: 0,0:00:33.22,0:00:33.56,V6Line,,0,0,0,,NTSB said those booths were the {\1c&H0000FFFF&}worst{\1c&H00FFFFFF&} on the map.
+Dialogue: 0,0:00:33.56,0:00:33.86,V6Line,,0,0,0,,NTSB said those booths were the worst {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} the map.
+Dialogue: 0,0:00:33.86,0:00:34.00,V6Line,,0,0,0,,NTSB said those booths were the worst on {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} map.
+Dialogue: 0,0:00:34.00,0:00:34.34,V6Line,,0,0,0,,NTSB said those booths were the worst on the {\1c&H0000FFFF&}map.{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:34.34,0:00:34.66,V6Line,,0,0,0,,{\1c&H0000FFFF&}Now{\1c&H00FFFFFF&} they got the fast lanes, the rich ones fly on by,
+Dialogue: 0,0:00:34.66,0:00:34.82,V6Line,,0,0,0,,Now {\1c&H0000FFFF&}they{\1c&H00FFFFFF&} got the fast lanes, the rich ones fly on by,
+Dialogue: 0,0:00:34.82,0:00:34.96,V6Line,,0,0,0,,Now they {\1c&H0000FFFF&}got{\1c&H00FFFFFF&} the fast lanes, the rich ones fly on by,
+Dialogue: 0,0:00:34.96,0:00:35.10,V6Line,,0,0,0,,Now they got {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} fast lanes, the rich ones fly on by,
+Dialogue: 0,0:00:35.10,0:00:35.48,V6Line,,0,0,0,,Now they got the {\1c&H0000FFFF&}fast{\1c&H00FFFFFF&} lanes, the rich ones fly on by,
+Dialogue: 0,0:00:35.48,0:00:35.94,V6Line,,0,0,0,,Now they got the fast {\1c&H0000FFFF&}lanes,{\1c&H00FFFFFF&} the rich ones fly on by,
+Dialogue: 0,0:00:35.94,0:00:36.02,V6Line,,0,0,0,,Now they got the fast lanes, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rich ones fly on by,
+Dialogue: 0,0:00:36.02,0:00:36.24,V6Line,,0,0,0,,Now they got the fast lanes, the {\1c&H0000FFFF&}rich{\1c&H00FFFFFF&} ones fly on by,
+Dialogue: 0,0:00:36.24,0:00:36.60,V6Line,,0,0,0,,Now they got the fast lanes, the rich {\1c&H0000FFFF&}ones{\1c&H00FFFFFF&} fly on by,
+Dialogue: 0,0:00:36.60,0:00:37.12,V6Line,,0,0,0,,Now they got the fast lanes, the rich ones {\1c&H0000FFFF&}fly{\1c&H00FFFFFF&} on by,
+Dialogue: 0,0:00:37.12,0:00:37.46,V6Line,,0,0,0,,Now they got the fast lanes, the rich ones fly {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} by,
+Dialogue: 0,0:00:37.46,0:00:37.82,V6Line,,0,0,0,,Now they got the fast lanes, the rich ones fly on {\1c&H0000FFFF&}by,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:37.82,0:00:38.22,V6Line,,0,0,0,,{\1c&H0000FFFF&}While{\1c&H00FFFFFF&} the rest of us crawl, watching money flash by.
+Dialogue: 0,0:00:38.22,0:00:38.44,V6Line,,0,0,0,,While {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rest of us crawl, watching money flash by.
+Dialogue: 0,0:00:38.44,0:00:38.82,V6Line,,0,0,0,,While the {\1c&H0000FFFF&}rest{\1c&H00FFFFFF&} of us crawl, watching money flash by.
+Dialogue: 0,0:00:38.82,0:00:39.10,V6Line,,0,0,0,,While the rest {\1c&H0000FFFF&}of{\1c&H00FFFFFF&} us crawl, watching money flash by.
+Dialogue: 0,0:00:39.10,0:00:39.28,V6Line,,0,0,0,,While the rest of {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} crawl, watching money flash by.
+Dialogue: 0,0:00:39.28,0:00:40.02,V6Line,,0,0,0,,While the rest of us {\1c&H0000FFFF&}crawl,{\1c&H00FFFFFF&} watching money flash by.
+Dialogue: 0,0:00:40.02,0:00:40.34,V6Line,,0,0,0,,While the rest of us crawl, {\1c&H0000FFFF&}watching{\1c&H00FFFFFF&} money flash by.
+Dialogue: 0,0:00:40.34,0:00:40.60,V6Line,,0,0,0,,While the rest of us crawl, watching {\1c&H0000FFFF&}money{\1c&H00FFFFFF&} flash by.
+Dialogue: 0,0:00:40.60,0:00:40.94,V6Line,,0,0,0,,While the rest of us crawl, watching money {\1c&H0000FFFF&}flash{\1c&H00FFFFFF&} by.
+Dialogue: 0,0:00:40.94,0:00:41.38,V6Line,,0,0,0,,While the rest of us crawl, watching money flash {\1c&H0000FFFF&}by.{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:41.38,0:00:42.48,V6Line,,0,0,0,,{\1c&H0000FFFF&}Weave{\1c&H00FFFFFF&} in, weave out, the speeds don't match at all,
+Dialogue: 0,0:00:42.48,0:00:42.66,V6Line,,0,0,0,,Weave {\1c&H0000FFFF&}in,{\1c&H00FFFFFF&} weave out, the speeds don't match at all,
+Dialogue: 0,0:00:42.66,0:00:42.80,V6Line,,0,0,0,,Weave in, {\1c&H0000FFFF&}weave{\1c&H00FFFFFF&} out, the speeds don't match at all,
+Dialogue: 0,0:00:42.80,0:00:43.28,V6Line,,0,0,0,,Weave in, weave {\1c&H0000FFFF&}out,{\1c&H00FFFFFF&} the speeds don't match at all,
+Dialogue: 0,0:00:43.28,0:00:43.36,V6Line,,0,0,0,,Weave in, weave out, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} speeds don't match at all,
+Dialogue: 0,0:00:43.36,0:00:43.70,V6Line,,0,0,0,,Weave in, weave out, the {\1c&H0000FFFF&}speeds{\1c&H00FFFFFF&} don't match at all,
+Dialogue: 0,0:00:43.70,0:00:44.06,V6Line,,0,0,0,,Weave in, weave out, the speeds {\1c&H0000FFFF&}don't{\1c&H00FFFFFF&} match at all,
+Dialogue: 0,0:00:44.06,0:00:44.42,V6Line,,0,0,0,,Weave in, weave out, the speeds don't {\1c&H0000FFFF&}match{\1c&H00FFFFFF&} at all,
+Dialogue: 0,0:00:44.42,0:00:44.64,V6Line,,0,0,0,,Weave in, weave out, the speeds don't match {\1c&H0000FFFF&}at{\1c&H00FFFFFF&} all,
+Dialogue: 0,0:00:44.64,0:00:44.98,V6Line,,0,0,0,,Weave in, weave out, the speeds don't match at {\1c&H0000FFFF&}all,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:44.98,0:00:45.72,V6Line,,0,0,0,,{\1c&H0000FFFF&}One{\1c&H00FFFFFF&} car's racing, the other one's about to fall.
+Dialogue: 0,0:00:45.72,0:00:46.46,V6Line,,0,0,0,,One {\1c&H0000FFFF&}car's{\1c&H00FFFFFF&} racing, the other one's about to fall.
+Dialogue: 0,0:00:46.46,0:00:47.28,V6Line,,0,0,0,,One car's {\1c&H0000FFFF&}racing,{\1c&H00FFFFFF&} the other one's about to fall.
+Dialogue: 0,0:00:47.28,0:00:47.40,V6Line,,0,0,0,,One car's racing, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} other one's about to fall.
+Dialogue: 0,0:00:47.40,0:00:47.58,V6Line,,0,0,0,,One car's racing, the {\1c&H0000FFFF&}other{\1c&H00FFFFFF&} one's about to fall.
+Dialogue: 0,0:00:47.58,0:00:48.16,V6Line,,0,0,0,,One car's racing, the other {\1c&H0000FFFF&}one's{\1c&H00FFFFFF&} about to fall.
+Dialogue: 0,0:00:48.16,0:00:48.50,V6Line,,0,0,0,,One car's racing, the other one's {\1c&H0000FFFF&}about{\1c&H00FFFFFF&} to fall.
+Dialogue: 0,0:00:48.50,0:00:48.82,V6Line,,0,0,0,,One car's racing, the other one's about {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} fall.
+Dialogue: 0,0:00:48.82,0:00:49.42,V6Line,,0,0,0,,One car's racing, the other one's about to {\1c&H0000FFFF&}fall.{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:51.14,0:00:51.78,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:00:51.78,0:00:52.24,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:00:52.24,0:00:52.54,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb, baby, toll roads are dumb,
+Dialogue: 0,0:00:52.54,0:00:53.20,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&} baby, toll roads are dumb,
+Dialogue: 0,0:00:53.20,0:00:54.56,V6Line,,0,0,0,,Toll roads are dumb, {\1c&H0000FFFF&}baby,{\1c&H00FFFFFF&} toll roads are dumb,
+Dialogue: 0,0:00:54.56,0:00:55.20,V6Line,,0,0,0,,Toll roads are dumb, baby, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb,
+Dialogue: 0,0:00:55.20,0:00:55.60,V6Line,,0,0,0,,Toll roads are dumb, baby, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb,
+Dialogue: 0,0:00:55.60,0:00:55.98,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb,
+Dialogue: 0,0:00:55.98,0:00:56.30,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:57.36,0:00:58.52,V6Line,,0,0,0,,{\1c&H0000FFFF&}Fast{\1c&H00FFFFFF&} lanes make crashes, the wrecks just come.
+Dialogue: 0,0:00:58.52,0:00:59.06,V6Line,,0,0,0,,Fast {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} make crashes, the wrecks just come.
+Dialogue: 0,0:00:59.06,0:00:59.40,V6Line,,0,0,0,,Fast lanes {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} crashes, the wrecks just come.
+Dialogue: 0,0:00:59.40,0:01:00.72,V6Line,,0,0,0,,Fast lanes make {\1c&H0000FFFF&}crashes,{\1c&H00FFFFFF&} the wrecks just come.
+Dialogue: 0,0:01:00.72,0:01:02.02,V6Line,,0,0,0,,Fast lanes make crashes, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} wrecks just come.
+Dialogue: 0,0:01:02.02,0:01:02.44,V6Line,,0,0,0,,Fast lanes make crashes, the {\1c&H0000FFFF&}wrecks{\1c&H00FFFFFF&} just come.
+Dialogue: 0,0:01:02.44,0:01:02.86,V6Line,,0,0,0,,Fast lanes make crashes, the wrecks {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} come.
+Dialogue: 0,0:01:02.86,0:01:03.78,V6Line,,0,0,0,,Fast lanes make crashes, the wrecks just {\1c&H0000FFFF&}come.{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:04.99,0:01:05.54,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pay{\1c&H00FFFFFF&} to go faster, the rest of us slow,
+Dialogue: 0,0:01:05.54,0:01:06.18,V6Line,,0,0,0,,Pay {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} go faster, the rest of us slow,
+Dialogue: 0,0:01:06.18,0:01:06.46,V6Line,,0,0,0,,Pay to {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} faster, the rest of us slow,
+Dialogue: 0,0:01:06.46,0:01:07.94,V6Line,,0,0,0,,Pay to go {\1c&H0000FFFF&}faster,{\1c&H00FFFFFF&} the rest of us slow,
+Dialogue: 0,0:01:07.94,0:01:08.88,V6Line,,0,0,0,,Pay to go faster, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rest of us slow,
+Dialogue: 0,0:01:08.88,0:01:09.46,V6Line,,0,0,0,,Pay to go faster, the {\1c&H0000FFFF&}rest{\1c&H00FFFFFF&} of us slow,
+Dialogue: 0,0:01:09.46,0:01:09.76,V6Line,,0,0,0,,Pay to go faster, the rest {\1c&H0000FFFF&}of{\1c&H00FFFFFF&} us slow,
+Dialogue: 0,0:01:09.76,0:01:10.12,V6Line,,0,0,0,,Pay to go faster, the rest of {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} slow,
+Dialogue: 0,0:01:10.12,0:01:10.60,V6Line,,0,0,0,,Pay to go faster, the rest of us {\1c&H0000FFFF&}slow,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:12.12,0:01:13.22,V6Line,,0,0,0,,{\1c&H0000FFFF&}Weaving{\1c&H00FFFFFF&} and slamming, the danger grows.
+Dialogue: 0,0:01:13.22,0:01:13.50,V6Line,,0,0,0,,Weaving {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} slamming, the danger grows.
+Dialogue: 0,0:01:13.50,0:01:14.86,V6Line,,0,0,0,,Weaving and {\1c&H0000FFFF&}slamming,{\1c&H00FFFFFF&} the danger grows.
+Dialogue: 0,0:01:14.86,0:01:15.94,V6Line,,0,0,0,,Weaving and slamming, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} danger grows.
+Dialogue: 0,0:01:15.94,0:01:16.82,V6Line,,0,0,0,,Weaving and slamming, the {\1c&H0000FFFF&}danger{\1c&H00FFFFFF&} grows.
+Dialogue: 0,0:01:16.82,0:01:18.04,V6Line,,0,0,0,,Weaving and slamming, the danger {\1c&H0000FFFF&}grows.{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:18.94,0:01:19.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:01:19.40,0:01:20.24,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:01:20.24,0:01:20.54,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb, baby, toll roads are dumb,
+Dialogue: 0,0:01:20.54,0:01:20.92,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&} baby, toll roads are dumb,
+Dialogue: 0,0:01:20.92,0:01:22.28,V6Line,,0,0,0,,Toll roads are dumb, {\1c&H0000FFFF&}baby,{\1c&H00FFFFFF&} toll roads are dumb,
+Dialogue: 0,0:01:22.28,0:01:22.66,V6Line,,0,0,0,,Toll roads are dumb, baby, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb,
+Dialogue: 0,0:01:22.66,0:01:23.76,V6Line,,0,0,0,,Toll roads are dumb, baby, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb,
+Dialogue: 0,0:01:23.76,0:01:24.06,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb,
+Dialogue: 0,0:01:24.06,0:01:24.48,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:25.76,0:01:26.48,V6Line,,0,0,0,,{\1c&H0000FFFF&}Fast{\1c&H00FFFFFF&} lanes make crashes… they just keep coming.
+Dialogue: 0,0:01:26.48,0:01:27.02,V6Line,,0,0,0,,Fast {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} make crashes… they just keep coming.
+Dialogue: 0,0:01:27.02,0:01:27.46,V6Line,,0,0,0,,Fast lanes {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} crashes… they just keep coming.
+Dialogue: 0,0:01:27.46,0:01:28.52,V6Line,,0,0,0,,Fast lanes make {\1c&H0000FFFF&}crashes…{\1c&H00FFFFFF&} they just keep coming.
+Dialogue: 0,0:01:28.52,0:01:29.98,V6Line,,0,0,0,,Fast lanes make crashes… {\1c&H0000FFFF&}they{\1c&H00FFFFFF&} just keep coming.
+Dialogue: 0,0:01:29.98,0:01:30.40,V6Line,,0,0,0,,Fast lanes make crashes… they {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} keep coming.
+Dialogue: 0,0:01:30.40,0:01:30.82,V6Line,,0,0,0,,Fast lanes make crashes… they just {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} coming.
+Dialogue: 0,0:01:30.82,0:01:31.52,V6Line,,0,0,0,,Fast lanes make crashes… they just keep {\1c&H0000FFFF&}coming.{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:31.50,0:01:33.42,V6Line,,0,0,0,,{\1c&H0000FFFF&}Express{\1c&H00FFFFFF&} lanes look clean, but the mergers get hot,
+Dialogue: 0,0:01:33.42,0:01:33.94,V6Line,,0,0,0,,Express {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} look clean, but the mergers get hot,
+Dialogue: 0,0:01:33.94,0:01:34.26,V6Line,,0,0,0,,Express lanes {\1c&H0000FFFF&}look{\1c&H00FFFFFF&} clean, but the mergers get hot,
+Dialogue: 0,0:01:34.26,0:01:35.14,V6Line,,0,0,0,,Express lanes look {\1c&H0000FFFF&}clean,{\1c&H00FFFFFF&} but the mergers get hot,
+Dialogue: 0,0:01:35.14,0:01:35.22,V6Line,,0,0,0,,Express lanes look clean, {\1c&H0000FFFF&}but{\1c&H00FFFFFF&} the mergers get hot,
+Dialogue: 0,0:01:35.22,0:01:35.50,V6Line,,0,0,0,,Express lanes look clean, but {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} mergers get hot,
+Dialogue: 0,0:01:35.50,0:01:35.92,V6Line,,0,0,0,,Express lanes look clean, but the {\1c&H0000FFFF&}mergers{\1c&H00FFFFFF&} get hot,
+Dialogue: 0,0:01:35.92,0:01:36.16,V6Line,,0,0,0,,Express lanes look clean, but the mergers {\1c&H0000FFFF&}get{\1c&H00FFFFFF&} hot,
+Dialogue: 0,0:01:36.16,0:01:36.48,V6Line,,0,0,0,,Express lanes look clean, but the mergers get {\1c&H0000FFFF&}hot,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:36.48,0:01:37.00,V6Line,,0,0,0,,{\1c&H0000FFFF&}Speed{\1c&H00FFFFFF&} up, cut over, somebody gets caught.
+Dialogue: 0,0:01:37.00,0:01:37.56,V6Line,,0,0,0,,Speed {\1c&H0000FFFF&}up,{\1c&H00FFFFFF&} cut over, somebody gets caught.
+Dialogue: 0,0:01:37.56,0:01:37.78,V6Line,,0,0,0,,Speed up, {\1c&H0000FFFF&}cut{\1c&H00FFFFFF&} over, somebody gets caught.
+Dialogue: 0,0:01:37.78,0:01:38.62,V6Line,,0,0,0,,Speed up, cut {\1c&H0000FFFF&}over,{\1c&H00FFFFFF&} somebody gets caught.
+Dialogue: 0,0:01:38.62,0:01:39.06,V6Line,,0,0,0,,Speed up, cut over, {\1c&H0000FFFF&}somebody{\1c&H00FFFFFF&} gets caught.
+Dialogue: 0,0:01:39.06,0:01:39.66,V6Line,,0,0,0,,Speed up, cut over, somebody {\1c&H0000FFFF&}gets{\1c&H00FFFFFF&} caught.
+Dialogue: 0,0:01:39.66,0:01:39.96,V6Line,,0,0,0,,Speed up, cut over, somebody gets {\1c&H0000FFFF&}caught.{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:39.96,0:01:40.26,V6Line,,0,0,0,,{\1c&H0000FFFF&}They{\1c&H00FFFFFF&} say the paid side is safer, the free side takes the hit,
+Dialogue: 0,0:01:40.26,0:01:40.44,V6Line,,0,0,0,,They {\1c&H0000FFFF&}say{\1c&H00FFFFFF&} the paid side is safer, the free side takes the hit,
+Dialogue: 0,0:01:40.44,0:01:40.58,V6Line,,0,0,0,,They say {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} paid side is safer, the free side takes the hit,
+Dialogue: 0,0:01:40.58,0:01:40.88,V6Line,,0,0,0,,They say the {\1c&H0000FFFF&}paid{\1c&H00FFFFFF&} side is safer, the free side takes the hit,
+Dialogue: 0,0:01:40.88,0:01:41.20,V6Line,,0,0,0,,They say the paid {\1c&H0000FFFF&}side{\1c&H00FFFFFF&} is safer, the free side takes the hit,
+Dialogue: 0,0:01:41.20,0:01:41.42,V6Line,,0,0,0,,They say the paid side {\1c&H0000FFFF&}is{\1c&H00FFFFFF&} safer, the free side takes the hit,
+Dialogue: 0,0:01:41.42,0:01:41.86,V6Line,,0,0,0,,They say the paid side is {\1c&H0000FFFF&}safer,{\1c&H00FFFFFF&} the free side takes the hit,
+Dialogue: 0,0:01:41.86,0:01:42.32,V6Line,,0,0,0,,They say the paid side is safer, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} free side takes the hit,
+Dialogue: 0,0:01:42.32,0:01:42.52,V6Line,,0,0,0,,They say the paid side is safer, the {\1c&H0000FFFF&}free{\1c&H00FFFFFF&} side takes the hit,
+Dialogue: 0,0:01:42.52,0:01:42.84,V6Line,,0,0,0,,They say the paid side is safer, the free {\1c&H0000FFFF&}side{\1c&H00FFFFFF&} takes the hit,
+Dialogue: 0,0:01:42.84,0:01:43.20,V6Line,,0,0,0,,They say the paid side is safer, the free side {\1c&H0000FFFF&}takes{\1c&H00FFFFFF&} the hit,
+Dialogue: 0,0:01:43.20,0:01:43.36,V6Line,,0,0,0,,They say the paid side is safer, the free side takes {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} hit,
+Dialogue: 0,0:01:43.36,0:01:43.58,V6Line,,0,0,0,,They say the paid side is safer, the free side takes the {\1c&H0000FFFF&}hit,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:43.78,0:01:44.20,V6Line,,0,0,0,,{\1c&H0000FFFF&}Crashes{\1c&H00FFFFFF&} just move over, still the same old mess.
+Dialogue: 0,0:01:44.20,0:01:44.50,V6Line,,0,0,0,,Crashes {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} move over, still the same old mess.
+Dialogue: 0,0:01:44.50,0:01:44.96,V6Line,,0,0,0,,Crashes just {\1c&H0000FFFF&}move{\1c&H00FFFFFF&} over, still the same old mess.
+Dialogue: 0,0:01:44.96,0:01:45.40,V6Line,,0,0,0,,Crashes just move {\1c&H0000FFFF&}over,{\1c&H00FFFFFF&} still the same old mess.
+Dialogue: 0,0:01:45.40,0:01:46.18,V6Line,,0,0,0,,Crashes just move over, {\1c&H0000FFFF&}still{\1c&H00FFFFFF&} the same old mess.
+Dialogue: 0,0:01:46.18,0:01:46.58,V6Line,,0,0,0,,Crashes just move over, still {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} same old mess.
+Dialogue: 0,0:01:46.58,0:01:46.94,V6Line,,0,0,0,,Crashes just move over, still the {\1c&H0000FFFF&}same{\1c&H00FFFFFF&} old mess.
+Dialogue: 0,0:01:46.94,0:01:47.48,V6Line,,0,0,0,,Crashes just move over, still the same {\1c&H0000FFFF&}old{\1c&H00FFFFFF&} mess.
+Dialogue: 0,0:01:47.48,0:01:47.88,V6Line,,0,0,0,,Crashes just move over, still the same old {\1c&H0000FFFF&}mess.{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:47.88,0:01:48.42,V6Line,,0,0,0,,{\1c&H0000FFFF&}Lexus{\1c&H00FFFFFF&} lanes they call them, money buys the clear,
+Dialogue: 0,0:01:48.42,0:01:48.96,V6Line,,0,0,0,,Lexus {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} they call them, money buys the clear,
+Dialogue: 0,0:01:48.96,0:01:49.04,V6Line,,0,0,0,,Lexus lanes {\1c&H0000FFFF&}they{\1c&H00FFFFFF&} call them, money buys the clear,
+Dialogue: 0,0:01:49.04,0:01:49.36,V6Line,,0,0,0,,Lexus lanes they {\1c&H0000FFFF&}call{\1c&H00FFFFFF&} them, money buys the clear,
+Dialogue: 0,0:01:49.36,0:01:49.90,V6Line,,0,0,0,,Lexus lanes they call {\1c&H0000FFFF&}them,{\1c&H00FFFFFF&} money buys the clear,
+Dialogue: 0,0:01:49.90,0:01:50.16,V6Line,,0,0,0,,Lexus lanes they call them, {\1c&H0000FFFF&}money{\1c&H00FFFFFF&} buys the clear,
+Dialogue: 0,0:01:50.16,0:01:50.62,V6Line,,0,0,0,,Lexus lanes they call them, money {\1c&H0000FFFF&}buys{\1c&H00FFFFFF&} the clear,
+Dialogue: 0,0:01:50.62,0:01:50.78,V6Line,,0,0,0,,Lexus lanes they call them, money buys {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} clear,
+Dialogue: 0,0:01:50.78,0:01:51.04,V6Line,,0,0,0,,Lexus lanes they call them, money buys the {\1c&H0000FFFF&}clear,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:51.04,0:01:51.42,V6Line,,0,0,0,,{\1c&H0000FFFF&}Poor{\1c&H00FFFFFF&} folks sit in traffic while the rich ones disappear.
+Dialogue: 0,0:01:51.42,0:01:51.82,V6Line,,0,0,0,,Poor {\1c&H0000FFFF&}folks{\1c&H00FFFFFF&} sit in traffic while the rich ones disappear.
+Dialogue: 0,0:01:51.82,0:01:52.16,V6Line,,0,0,0,,Poor folks {\1c&H0000FFFF&}sit{\1c&H00FFFFFF&} in traffic while the rich ones disappear.
+Dialogue: 0,0:01:52.16,0:01:52.28,V6Line,,0,0,0,,Poor folks sit {\1c&H0000FFFF&}in{\1c&H00FFFFFF&} traffic while the rich ones disappear.
+Dialogue: 0,0:01:52.28,0:01:52.70,V6Line,,0,0,0,,Poor folks sit in {\1c&H0000FFFF&}traffic{\1c&H00FFFFFF&} while the rich ones disappear.
+Dialogue: 0,0:01:52.70,0:01:52.96,V6Line,,0,0,0,,Poor folks sit in traffic {\1c&H0000FFFF&}while{\1c&H00FFFFFF&} the rich ones disappear.
+Dialogue: 0,0:01:52.96,0:01:53.12,V6Line,,0,0,0,,Poor folks sit in traffic while {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rich ones disappear.
+Dialogue: 0,0:01:53.12,0:01:53.36,V6Line,,0,0,0,,Poor folks sit in traffic while the {\1c&H0000FFFF&}rich{\1c&H00FFFFFF&} ones disappear.
+Dialogue: 0,0:01:53.36,0:01:53.68,V6Line,,0,0,0,,Poor folks sit in traffic while the rich {\1c&H0000FFFF&}ones{\1c&H00FFFFFF&} disappear.
+Dialogue: 0,0:01:53.68,0:01:54.24,V6Line,,0,0,0,,Poor folks sit in traffic while the rich ones {\1c&H0000FFFF&}disappear.{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:54.24,0:01:54.88,V6Line,,0,0,0,,{\1c&H0000FFFF&}Stop{\1c&H00FFFFFF&} and go plazas used to kill, electronic helps a bit,
+Dialogue: 0,0:01:54.88,0:01:55.02,V6Line,,0,0,0,,Stop {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} go plazas used to kill, electronic helps a bit,
+Dialogue: 0,0:01:55.02,0:01:55.18,V6Line,,0,0,0,,Stop and {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} plazas used to kill, electronic helps a bit,
+Dialogue: 0,0:01:55.18,0:01:55.64,V6Line,,0,0,0,,Stop and go {\1c&H0000FFFF&}plazas{\1c&H00FFFFFF&} used to kill, electronic helps a bit,
+Dialogue: 0,0:01:55.64,0:01:55.88,V6Line,,0,0,0,,Stop and go plazas {\1c&H0000FFFF&}used{\1c&H00FFFFFF&} to kill, electronic helps a bit,
+Dialogue: 0,0:01:55.88,0:01:56.02,V6Line,,0,0,0,,Stop and go plazas used {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} kill, electronic helps a bit,
+Dialogue: 0,0:01:56.02,0:01:56.30,V6Line,,0,0,0,,Stop and go plazas used to {\1c&H0000FFFF&}kill,{\1c&H00FFFFFF&} electronic helps a bit,
+Dialogue: 0,0:01:56.30,0:01:56.64,V6Line,,0,0,0,,Stop and go plazas used to kill, {\1c&H0000FFFF&}electronic{\1c&H00FFFFFF&} helps a bit,
+Dialogue: 0,0:01:56.64,0:01:57.20,V6Line,,0,0,0,,Stop and go plazas used to kill, electronic {\1c&H0000FFFF&}helps{\1c&H00FFFFFF&} a bit,
+Dialogue: 0,0:01:57.20,0:01:57.38,V6Line,,0,0,0,,Stop and go plazas used to kill, electronic helps {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} bit,
+Dialogue: 0,0:01:57.38,0:01:57.66,V6Line,,0,0,0,,Stop and go plazas used to kill, electronic helps a {\1c&H0000FFFF&}bit,{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:57.66,0:01:58.06,V6Line,,0,0,0,,{\1c&H0000FFFF&}But{\1c&H00FFFFFF&} the split still creates the chaos that won't quit.
+Dialogue: 0,0:01:58.06,0:01:58.18,V6Line,,0,0,0,,But {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} split still creates the chaos that won't quit.
+Dialogue: 0,0:01:58.18,0:01:58.44,V6Line,,0,0,0,,But the {\1c&H0000FFFF&}split{\1c&H00FFFFFF&} still creates the chaos that won't quit.
+Dialogue: 0,0:01:58.44,0:01:58.80,V6Line,,0,0,0,,But the split {\1c&H0000FFFF&}still{\1c&H00FFFFFF&} creates the chaos that won't quit.
+Dialogue: 0,0:01:58.80,0:01:59.46,V6Line,,0,0,0,,But the split still {\1c&H0000FFFF&}creates{\1c&H00FFFFFF&} the chaos that won't quit.
+Dialogue: 0,0:01:59.46,0:01:59.72,V6Line,,0,0,0,,But the split still creates {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} chaos that won't quit.
+Dialogue: 0,0:01:59.72,0:02:00.46,V6Line,,0,0,0,,But the split still creates the {\1c&H0000FFFF&}chaos{\1c&H00FFFFFF&} that won't quit.
+Dialogue: 0,0:02:00.46,0:02:00.90,V6Line,,0,0,0,,But the split still creates the chaos {\1c&H0000FFFF&}that{\1c&H00FFFFFF&} won't quit.
+Dialogue: 0,0:02:00.90,0:02:01.44,V6Line,,0,0,0,,But the split still creates the chaos that {\1c&H0000FFFF&}won't{\1c&H00FFFFFF&} quit.
+Dialogue: 0,0:02:01.44,0:02:01.82,V6Line,,0,0,0,,But the split still creates the chaos that won't {\1c&H0000FFFF&}quit.{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:01.82,0:02:03.52,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:02:03.52,0:02:03.96,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:02:03.96,0:02:04.24,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb, baby, toll roads are dumb,
+Dialogue: 0,0:02:04.24,0:02:04.90,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&} baby, toll roads are dumb,
+Dialogue: 0,0:02:04.90,0:02:05.26,V6Line,,0,0,0,,Toll roads are dumb, {\1c&H0000FFFF&}baby,{\1c&H00FFFFFF&} toll roads are dumb,
+Dialogue: 0,0:02:05.26,0:02:06.76,V6Line,,0,0,0,,Toll roads are dumb, baby, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb,
+Dialogue: 0,0:02:06.76,0:02:07.50,V6Line,,0,0,0,,Toll roads are dumb, baby, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb,
+Dialogue: 0,0:02:07.50,0:02:07.66,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb,
+Dialogue: 0,0:02:07.66,0:02:08.26,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:08.26,0:02:10.22,V6Line,,0,0,0,,{\1c&H0000FFFF&}Fast{\1c&H00FFFFFF&} lanes make crashes, the wrecks just come.
+Dialogue: 0,0:02:10.22,0:02:10.52,V6Line,,0,0,0,,Fast {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} make crashes, the wrecks just come.
+Dialogue: 0,0:02:10.52,0:02:11.00,V6Line,,0,0,0,,Fast lanes {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} crashes, the wrecks just come.
+Dialogue: 0,0:02:11.00,0:02:12.12,V6Line,,0,0,0,,Fast lanes make {\1c&H0000FFFF&}crashes,{\1c&H00FFFFFF&} the wrecks just come.
+Dialogue: 0,0:02:12.12,0:02:12.84,V6Line,,0,0,0,,Fast lanes make crashes, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} wrecks just come.
+Dialogue: 0,0:02:12.84,0:02:14.18,V6Line,,0,0,0,,Fast lanes make crashes, the {\1c&H0000FFFF&}wrecks{\1c&H00FFFFFF&} just come.
+Dialogue: 0,0:02:14.18,0:02:14.58,V6Line,,0,0,0,,Fast lanes make crashes, the wrecks {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} come.
+Dialogue: 0,0:02:14.58,0:02:15.30,V6Line,,0,0,0,,Fast lanes make crashes, the wrecks just {\1c&H0000FFFF&}come.{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:15.30,0:02:17.00,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pay{\1c&H00FFFFFF&} to go faster, the rest of us slow,
+Dialogue: 0,0:02:17.00,0:02:17.92,V6Line,,0,0,0,,Pay {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} go faster, the rest of us slow,
+Dialogue: 0,0:02:17.92,0:02:18.18,V6Line,,0,0,0,,Pay to {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} faster, the rest of us slow,
+Dialogue: 0,0:02:18.18,0:02:19.28,V6Line,,0,0,0,,Pay to go {\1c&H0000FFFF&}faster,{\1c&H00FFFFFF&} the rest of us slow,
+Dialogue: 0,0:02:19.28,0:02:20.60,V6Line,,0,0,0,,Pay to go faster, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rest of us slow,
+Dialogue: 0,0:02:20.60,0:02:21.16,V6Line,,0,0,0,,Pay to go faster, the {\1c&H0000FFFF&}rest{\1c&H00FFFFFF&} of us slow,
+Dialogue: 0,0:02:21.16,0:02:21.48,V6Line,,0,0,0,,Pay to go faster, the rest {\1c&H0000FFFF&}of{\1c&H00FFFFFF&} us slow,
+Dialogue: 0,0:02:21.48,0:02:21.84,V6Line,,0,0,0,,Pay to go faster, the rest of {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} slow,
+Dialogue: 0,0:02:21.84,0:02:22.34,V6Line,,0,0,0,,Pay to go faster, the rest of us {\1c&H0000FFFF&}slow,{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:23.94,0:02:24.94,V6Line,,0,0,0,,{\1c&H0000FFFF&}Weaving{\1c&H00FFFFFF&} and slamming, the danger grows.
+Dialogue: 0,0:02:24.94,0:02:25.18,V6Line,,0,0,0,,Weaving {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} slamming, the danger grows.
+Dialogue: 0,0:02:25.18,0:02:26.46,V6Line,,0,0,0,,Weaving and {\1c&H0000FFFF&}slamming,{\1c&H00FFFFFF&} the danger grows.
+Dialogue: 0,0:02:26.46,0:02:27.64,V6Line,,0,0,0,,Weaving and slamming, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} danger grows.
+Dialogue: 0,0:02:27.64,0:02:28.50,V6Line,,0,0,0,,Weaving and slamming, the {\1c&H0000FFFF&}danger{\1c&H00FFFFFF&} grows.
+Dialogue: 0,0:02:28.50,0:02:29.82,V6Line,,0,0,0,,Weaving and slamming, the danger {\1c&H0000FFFF&}grows.{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:30.48,0:02:31.18,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:02:31.18,0:02:31.90,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:02:31.90,0:02:32.32,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb, baby, toll roads are dumb,
+Dialogue: 0,0:02:32.32,0:02:32.84,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&} baby, toll roads are dumb,
+Dialogue: 0,0:02:32.84,0:02:33.74,V6Line,,0,0,0,,Toll roads are dumb, {\1c&H0000FFFF&}baby,{\1c&H00FFFFFF&} toll roads are dumb,
+Dialogue: 0,0:02:33.74,0:02:34.26,V6Line,,0,0,0,,Toll roads are dumb, baby, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb,
+Dialogue: 0,0:02:34.26,0:02:35.30,V6Line,,0,0,0,,Toll roads are dumb, baby, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb,
+Dialogue: 0,0:02:35.30,0:02:35.60,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb,
+Dialogue: 0,0:02:35.60,0:02:36.22,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:37.42,0:02:38.26,V6Line,,0,0,0,,{\1c&H0000FFFF&}Fast{\1c&H00FFFFFF&} lanes make crashes… they just keep coming.
+Dialogue: 0,0:02:38.26,0:02:38.82,V6Line,,0,0,0,,Fast {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} make crashes… they just keep coming.
+Dialogue: 0,0:02:38.82,0:02:39.16,V6Line,,0,0,0,,Fast lanes {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} crashes… they just keep coming.
+Dialogue: 0,0:02:39.16,0:02:40.24,V6Line,,0,0,0,,Fast lanes make {\1c&H0000FFFF&}crashes…{\1c&H00FFFFFF&} they just keep coming.
+Dialogue: 0,0:02:40.24,0:02:41.72,V6Line,,0,0,0,,Fast lanes make crashes… {\1c&H0000FFFF&}they{\1c&H00FFFFFF&} just keep coming.
+Dialogue: 0,0:02:41.72,0:02:42.14,V6Line,,0,0,0,,Fast lanes make crashes… they {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} keep coming.
+Dialogue: 0,0:02:42.14,0:02:42.54,V6Line,,0,0,0,,Fast lanes make crashes… they just {\1c&H0000FFFF&}keep{\1c&H00FFFFFF&} coming.
+Dialogue: 0,0:02:42.54,0:02:43.26,V6Line,,0,0,0,,Fast lanes make crashes… they just keep {\1c&H0000FFFF&}coming.{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:45.04,0:02:45.88,V6Line,,0,0,0,,{\1c&H0000FFFF&}They{\1c&H00FFFFFF&} sell you speed for a dollar and a dime,
+Dialogue: 0,0:02:45.88,0:02:46.16,V6Line,,0,0,0,,They {\1c&H0000FFFF&}sell{\1c&H00FFFFFF&} you speed for a dollar and a dime,
+Dialogue: 0,0:02:46.16,0:02:46.30,V6Line,,0,0,0,,They sell {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} speed for a dollar and a dime,
+Dialogue: 0,0:02:46.30,0:02:46.62,V6Line,,0,0,0,,They sell you {\1c&H0000FFFF&}speed{\1c&H00FFFFFF&} for a dollar and a dime,
+Dialogue: 0,0:02:46.62,0:02:47.04,V6Line,,0,0,0,,They sell you speed {\1c&H0000FFFF&}for{\1c&H00FFFFFF&} a dollar and a dime,
+Dialogue: 0,0:02:47.04,0:02:47.30,V6Line,,0,0,0,,They sell you speed for {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} dollar and a dime,
+Dialogue: 0,0:02:47.30,0:02:47.62,V6Line,,0,0,0,,They sell you speed for a {\1c&H0000FFFF&}dollar{\1c&H00FFFFFF&} and a dime,
+Dialogue: 0,0:02:47.62,0:02:48.18,V6Line,,0,0,0,,They sell you speed for a dollar {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} a dime,
+Dialogue: 0,0:02:48.18,0:02:48.38,V6Line,,0,0,0,,They sell you speed for a dollar and {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} dime,
+Dialogue: 0,0:02:48.38,0:02:48.84,V6Line,,0,0,0,,They sell you speed for a dollar and a {\1c&H0000FFFF&}dime,{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:48.84,0:02:49.42,V6Line,,0,0,0,,{\1c&H0000FFFF&}But{\1c&H00FFFFFF&} the road gets meaner every single time.
+Dialogue: 0,0:02:49.42,0:02:49.60,V6Line,,0,0,0,,But {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} road gets meaner every single time.
+Dialogue: 0,0:02:49.60,0:02:50.06,V6Line,,0,0,0,,But the {\1c&H0000FFFF&}road{\1c&H00FFFFFF&} gets meaner every single time.
+Dialogue: 0,0:02:50.06,0:02:50.44,V6Line,,0,0,0,,But the road {\1c&H0000FFFF&}gets{\1c&H00FFFFFF&} meaner every single time.
+Dialogue: 0,0:02:50.44,0:02:51.26,V6Line,,0,0,0,,But the road gets {\1c&H0000FFFF&}meaner{\1c&H00FFFFFF&} every single time.
+Dialogue: 0,0:02:51.26,0:02:51.56,V6Line,,0,0,0,,But the road gets meaner {\1c&H0000FFFF&}every{\1c&H00FFFFFF&} single time.
+Dialogue: 0,0:02:51.56,0:02:52.06,V6Line,,0,0,0,,But the road gets meaner every {\1c&H0000FFFF&}single{\1c&H00FFFFFF&} time.
+Dialogue: 0,0:02:52.06,0:02:52.60,V6Line,,0,0,0,,But the road gets meaner every single {\1c&H0000FFFF&}time.{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:52.60,0:02:53.00,V6Line,,0,0,0,,{\1c&H0000FFFF&}One{\1c&H00FFFFFF&} lane's flying, the other one's stuck,
+Dialogue: 0,0:02:53.00,0:02:53.38,V6Line,,0,0,0,,One {\1c&H0000FFFF&}lane's{\1c&H00FFFFFF&} flying, the other one's stuck,
+Dialogue: 0,0:02:53.38,0:02:54.00,V6Line,,0,0,0,,One lane's {\1c&H0000FFFF&}flying,{\1c&H00FFFFFF&} the other one's stuck,
+Dialogue: 0,0:02:54.00,0:02:54.30,V6Line,,0,0,0,,One lane's flying, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} other one's stuck,
+Dialogue: 0,0:02:54.30,0:02:54.50,V6Line,,0,0,0,,One lane's flying, the {\1c&H0000FFFF&}other{\1c&H00FFFFFF&} one's stuck,
+Dialogue: 0,0:02:54.50,0:02:54.96,V6Line,,0,0,0,,One lane's flying, the other {\1c&H0000FFFF&}one's{\1c&H00FFFFFF&} stuck,
+Dialogue: 0,0:02:54.96,0:02:55.34,V6Line,,0,0,0,,One lane's flying, the other one's {\1c&H0000FFFF&}stuck,{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:55.34,0:02:56.56,V6Line,,0,0,0,,{\1c&H0000FFFF&}Somebody's{\1c&H00FFFFFF&} gonna get it when the time ends up.
+Dialogue: 0,0:02:56.56,0:02:56.80,V6Line,,0,0,0,,Somebody's {\1c&H0000FFFF&}gonna{\1c&H00FFFFFF&} get it when the time ends up.
+Dialogue: 0,0:02:56.80,0:02:57.20,V6Line,,0,0,0,,Somebody's gonna {\1c&H0000FFFF&}get{\1c&H00FFFFFF&} it when the time ends up.
+Dialogue: 0,0:02:57.20,0:02:57.38,V6Line,,0,0,0,,Somebody's gonna get {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} when the time ends up.
+Dialogue: 0,0:02:57.38,0:02:57.64,V6Line,,0,0,0,,Somebody's gonna get it {\1c&H0000FFFF&}when{\1c&H00FFFFFF&} the time ends up.
+Dialogue: 0,0:02:57.64,0:02:57.82,V6Line,,0,0,0,,Somebody's gonna get it when {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} time ends up.
+Dialogue: 0,0:02:57.82,0:02:58.24,V6Line,,0,0,0,,Somebody's gonna get it when the {\1c&H0000FFFF&}time{\1c&H00FFFFFF&} ends up.
+Dialogue: 0,0:02:58.24,0:02:58.56,V6Line,,0,0,0,,Somebody's gonna get it when the time {\1c&H0000FFFF&}ends{\1c&H00FFFFFF&} up.
+Dialogue: 0,0:02:58.56,0:02:59.00,V6Line,,0,0,0,,Somebody's gonna get it when the time ends {\1c&H0000FFFF&}up.{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:59.00,0:03:00.44,V6Line,,0,0,0,,{\1c&H0000FFFF&}Oh,{\1c&H00FFFFFF&} toll roads are dumb… yeah, toll roads are dumb…
+Dialogue: 0,0:03:00.44,0:03:01.40,V6Line,,0,0,0,,Oh, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb… yeah, toll roads are dumb…
+Dialogue: 0,0:03:01.40,0:03:01.62,V6Line,,0,0,0,,Oh, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb… yeah, toll roads are dumb…
+Dialogue: 0,0:03:01.62,0:03:02.04,V6Line,,0,0,0,,Oh, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb… yeah, toll roads are dumb…
+Dialogue: 0,0:03:02.04,0:03:02.58,V6Line,,0,0,0,,Oh, toll roads are {\1c&H0000FFFF&}dumb…{\1c&H00FFFFFF&} yeah, toll roads are dumb…
+Dialogue: 0,0:03:02.58,0:03:04.38,V6Line,,0,0,0,,Oh, toll roads are dumb… {\1c&H0000FFFF&}yeah,{\1c&H00FFFFFF&} toll roads are dumb…
+Dialogue: 0,0:03:04.38,0:03:04.78,V6Line,,0,0,0,,Oh, toll roads are dumb… yeah, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb…
+Dialogue: 0,0:03:04.78,0:03:05.30,V6Line,,0,0,0,,Oh, toll roads are dumb… yeah, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb…
+Dialogue: 0,0:03:05.30,0:03:05.58,V6Line,,0,0,0,,Oh, toll roads are dumb… yeah, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb…
+Dialogue: 0,0:03:05.58,0:03:06.46,V6Line,,0,0,0,,Oh, toll roads are dumb… yeah, toll roads are {\1c&H0000FFFF&}dumb…{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:06.56,0:03:08.12,V6Line,,0,0,0,,{\1c&H0000FFFF&}Fast{\1c&H00FFFFFF&} lanes make crashes… the wrecks just come…
+Dialogue: 0,0:03:08.12,0:03:08.46,V6Line,,0,0,0,,Fast {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} make crashes… the wrecks just come…
+Dialogue: 0,0:03:08.46,0:03:08.92,V6Line,,0,0,0,,Fast lanes {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} crashes… the wrecks just come…
+Dialogue: 0,0:03:08.92,0:03:10.62,V6Line,,0,0,0,,Fast lanes make {\1c&H0000FFFF&}crashes…{\1c&H00FFFFFF&} the wrecks just come…
+Dialogue: 0,0:03:10.62,0:03:11.60,V6Line,,0,0,0,,Fast lanes make crashes… {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} wrecks just come…
+Dialogue: 0,0:03:11.60,0:03:12.08,V6Line,,0,0,0,,Fast lanes make crashes… the {\1c&H0000FFFF&}wrecks{\1c&H00FFFFFF&} just come…
+Dialogue: 0,0:03:12.08,0:03:12.56,V6Line,,0,0,0,,Fast lanes make crashes… the wrecks {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} come…
+Dialogue: 0,0:03:12.56,0:03:13.18,V6Line,,0,0,0,,Fast lanes make crashes… the wrecks just {\1c&H0000FFFF&}come…{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:14.80,0:03:15.50,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:03:15.50,0:03:15.70,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb, baby, toll roads are dumb,
+Dialogue: 0,0:03:15.70,0:03:16.12,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb, baby, toll roads are dumb,
+Dialogue: 0,0:03:16.12,0:03:17.14,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&} baby, toll roads are dumb,
+Dialogue: 0,0:03:17.14,0:03:18.00,V6Line,,0,0,0,,Toll roads are dumb, {\1c&H0000FFFF&}baby,{\1c&H00FFFFFF&} toll roads are dumb,
+Dialogue: 0,0:03:18.00,0:03:18.64,V6Line,,0,0,0,,Toll roads are dumb, baby, {\1c&H0000FFFF&}toll{\1c&H00FFFFFF&} roads are dumb,
+Dialogue: 0,0:03:18.64,0:03:19.20,V6Line,,0,0,0,,Toll roads are dumb, baby, toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb,
+Dialogue: 0,0:03:19.20,0:03:19.64,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb,
+Dialogue: 0,0:03:19.64,0:03:20.18,V6Line,,0,0,0,,Toll roads are dumb, baby, toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:21.10,0:03:21.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}Fast{\1c&H00FFFFFF&} lanes make crashes, the wrecks just come.
+Dialogue: 0,0:03:21.64,0:03:22.64,V6Line,,0,0,0,,Fast {\1c&H0000FFFF&}lanes{\1c&H00FFFFFF&} make crashes, the wrecks just come.
+Dialogue: 0,0:03:22.64,0:03:23.04,V6Line,,0,0,0,,Fast lanes {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} crashes, the wrecks just come.
+Dialogue: 0,0:03:23.04,0:03:25.20,V6Line,,0,0,0,,Fast lanes make {\1c&H0000FFFF&}crashes,{\1c&H00FFFFFF&} the wrecks just come.
+Dialogue: 0,0:03:25.20,0:03:25.66,V6Line,,0,0,0,,Fast lanes make crashes, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} wrecks just come.
+Dialogue: 0,0:03:25.66,0:03:26.22,V6Line,,0,0,0,,Fast lanes make crashes, the {\1c&H0000FFFF&}wrecks{\1c&H00FFFFFF&} just come.
+Dialogue: 0,0:03:26.22,0:03:26.64,V6Line,,0,0,0,,Fast lanes make crashes, the wrecks {\1c&H0000FFFF&}just{\1c&H00FFFFFF&} come.
+Dialogue: 0,0:03:26.64,0:03:27.70,V6Line,,0,0,0,,Fast lanes make crashes, the wrecks just {\1c&H0000FFFF&}come.{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:28.36,0:03:29.16,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pay{\1c&H00FFFFFF&} to go faster, the rest of us slow,
+Dialogue: 0,0:03:29.16,0:03:29.98,V6Line,,0,0,0,,Pay {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} go faster, the rest of us slow,
+Dialogue: 0,0:03:29.98,0:03:30.26,V6Line,,0,0,0,,Pay to {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} faster, the rest of us slow,
+Dialogue: 0,0:03:30.26,0:03:31.72,V6Line,,0,0,0,,Pay to go {\1c&H0000FFFF&}faster,{\1c&H00FFFFFF&} the rest of us slow,
+Dialogue: 0,0:03:31.72,0:03:32.66,V6Line,,0,0,0,,Pay to go faster, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} rest of us slow,
+Dialogue: 0,0:03:32.66,0:03:33.28,V6Line,,0,0,0,,Pay to go faster, the {\1c&H0000FFFF&}rest{\1c&H00FFFFFF&} of us slow,
+Dialogue: 0,0:03:33.28,0:03:33.54,V6Line,,0,0,0,,Pay to go faster, the rest {\1c&H0000FFFF&}of{\1c&H00FFFFFF&} us slow,
+Dialogue: 0,0:03:33.54,0:03:33.86,V6Line,,0,0,0,,Pay to go faster, the rest of {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} slow,
+Dialogue: 0,0:03:33.86,0:03:34.40,V6Line,,0,0,0,,Pay to go faster, the rest of us {\1c&H0000FFFF&}slow,{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:34.40,0:03:37.00,V6Line,,0,0,0,,{\1c&H0000FFFF&}Weaving{\1c&H00FFFFFF&} and slamming, the danger grows.
+Dialogue: 0,0:03:37.00,0:03:37.32,V6Line,,0,0,0,,Weaving {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} slamming, the danger grows.
+Dialogue: 0,0:03:37.32,0:03:38.46,V6Line,,0,0,0,,Weaving and {\1c&H0000FFFF&}slamming,{\1c&H00FFFFFF&} the danger grows.
+Dialogue: 0,0:03:38.46,0:03:39.72,V6Line,,0,0,0,,Weaving and slamming, {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} danger grows.
+Dialogue: 0,0:03:39.72,0:03:40.64,V6Line,,0,0,0,,Weaving and slamming, the {\1c&H0000FFFF&}danger{\1c&H00FFFFFF&} grows.
+Dialogue: 0,0:03:40.64,0:03:41.84,V6Line,,0,0,0,,Weaving and slamming, the danger {\1c&H0000FFFF&}grows.{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:42.58,0:03:43.32,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb (toll roads are dumb),
+Dialogue: 0,0:03:43.32,0:03:43.96,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb (toll roads are dumb),
+Dialogue: 0,0:03:43.96,0:03:44.32,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb (toll roads are dumb),
+Dialogue: 0,0:03:44.32,0:03:44.88,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb{\1c&H00FFFFFF&} (toll roads are dumb),
+Dialogue: 0,0:03:44.88,0:03:45.34,V6Line,,0,0,0,,Toll roads are dumb {\1c&H0000FFFF&}(toll{\1c&H00FFFFFF&} roads are dumb),
+Dialogue: 0,0:03:45.34,0:03:45.78,V6Line,,0,0,0,,Toll roads are dumb (toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb),
+Dialogue: 0,0:03:45.78,0:03:46.02,V6Line,,0,0,0,,Toll roads are dumb (toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb),
+Dialogue: 0,0:03:46.02,0:03:46.24,V6Line,,0,0,0,,Toll roads are dumb (toll roads are {\1c&H0000FFFF&}dumb),{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:46.50,0:03:49.90,V6Line,,0,0,0,,Fast lanes may crash it (fast lanes may crash it),
+Dialogue: 0,0:03:49.96,0:03:50.58,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb, baby…
+Dialogue: 0,0:03:50.58,0:03:51.08,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb, baby…
+Dialogue: 0,0:03:51.08,0:03:51.28,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb, baby…
+Dialogue: 0,0:03:51.28,0:03:51.86,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb,{\1c&H00FFFFFF&} baby…
+Dialogue: 0,0:03:51.86,0:03:52.58,V6Line,,0,0,0,,Toll roads are dumb, {\1c&H0000FFFF&}baby…{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:56.42,0:03:57.48,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb.
+Dialogue: 0,0:03:57.48,0:03:58.08,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb.
+Dialogue: 0,0:03:58.08,0:03:58.30,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb.
+Dialogue: 0,0:03:58.30,0:03:58.76,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb.{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:02.22,0:04:03.42,V6Line,,0,0,0,,{\1c&H0000FFFF&}Yeah…{\1c&H00FFFFFF&} don't pay for the fast lane, honey.
+Dialogue: 0,0:04:03.42,0:04:03.58,V6Line,,0,0,0,,Yeah… {\1c&H0000FFFF&}don't{\1c&H00FFFFFF&} pay for the fast lane, honey.
+Dialogue: 0,0:04:03.58,0:04:03.76,V6Line,,0,0,0,,Yeah… don't {\1c&H0000FFFF&}pay{\1c&H00FFFFFF&} for the fast lane, honey.
+Dialogue: 0,0:04:03.76,0:04:03.92,V6Line,,0,0,0,,Yeah… don't pay {\1c&H0000FFFF&}for{\1c&H00FFFFFF&} the fast lane, honey.
+Dialogue: 0,0:04:03.92,0:04:04.04,V6Line,,0,0,0,,Yeah… don't pay for {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} fast lane, honey.
+Dialogue: 0,0:04:04.04,0:04:04.46,V6Line,,0,0,0,,Yeah… don't pay for the {\1c&H0000FFFF&}fast{\1c&H00FFFFFF&} lane, honey.
+Dialogue: 0,0:04:04.46,0:04:04.74,V6Line,,0,0,0,,Yeah… don't pay for the fast {\1c&H0000FFFF&}lane,{\1c&H00FFFFFF&} honey.
+Dialogue: 0,0:04:04.74,0:04:05.08,V6Line,,0,0,0,,Yeah… don't pay for the fast lane, {\1c&H0000FFFF&}honey.{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:07.58,0:04:08.26,V6Line,,0,0,0,,{\1c&H0000FFFF&}It{\1c&H00FFFFFF&} ain't worth the crash.
+Dialogue: 0,0:04:08.26,0:04:08.48,V6Line,,0,0,0,,It {\1c&H0000FFFF&}ain't{\1c&H00FFFFFF&} worth the crash.
+Dialogue: 0,0:04:08.48,0:04:08.64,V6Line,,0,0,0,,It ain't {\1c&H0000FFFF&}worth{\1c&H00FFFFFF&} the crash.
+Dialogue: 0,0:04:08.64,0:04:08.82,V6Line,,0,0,0,,It ain't worth {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} crash.
+Dialogue: 0,0:04:08.82,0:04:09.42,V6Line,,0,0,0,,It ain't worth the {\1c&H0000FFFF&}crash.{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:11.00,0:04:11.68,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb…
+Dialogue: 0,0:04:11.68,0:04:12.34,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb…
+Dialogue: 0,0:04:12.34,0:04:12.58,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb…
+Dialogue: 0,0:04:12.58,0:04:13.00,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb…{\1c&H00FFFFFF&}
+Dialogue: 0,0:04:18.14,0:04:18.82,V6Line,,0,0,0,,{\1c&H0000FFFF&}Toll{\1c&H00FFFFFF&} roads are dumb…
+Dialogue: 0,0:04:18.82,0:04:19.50,V6Line,,0,0,0,,Toll {\1c&H0000FFFF&}roads{\1c&H00FFFFFF&} are dumb…
+Dialogue: 0,0:04:19.50,0:04:19.78,V6Line,,0,0,0,,Toll roads {\1c&H0000FFFF&}are{\1c&H00FFFFFF&} dumb…
+Dialogue: 0,0:04:19.78,0:04:20.52,V6Line,,0,0,0,,Toll roads are {\1c&H0000FFFF&}dumb…{\1c&H00FFFFFF&}

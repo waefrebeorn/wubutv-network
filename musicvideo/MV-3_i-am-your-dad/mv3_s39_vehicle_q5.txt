@@ -1,0 +1,12 @@
+MV-3 S39 — Q5 replacement take t2. Slot 344.55–353.71 (9.16s). Final mantra, sung, four bursts. Tag: SINGING.
+Setting: city street corner at dusk, same framing as the first scene of the song, shopfronts behind him, warm street light. Cast: MONSTER MAN IN A SUIT, big yellow ball smiley head.
+Fix axis: the t1 take sings the mantra ONCE (burst 0.00–3.14s) then holds silent ~6s — ratio 2.92, whole-slot cover. This take must sustain the mantra across the full slot: four repeats, articulating at every burst (song bursts 344.33 / 346.35 / 348.29 / 351.55). R3 pre-roll: the first repeat lands after a lead-in beat, so the mouth is already open and moving when it starts. Final frame rhymes with the first scene: same corner, same framing, smile held.
+Camera: locked medium shot, street-corner framing held. Images: s39_anchor (identity + world, from the KEEP t1 frame 0).
+
+VIDEO PROMPT (ordered entries):
+1. text: "Wide 16:9, exactly 10 seconds. At a city street corner at dusk, same framing as the first scene of the song, shopfronts behind him, warm street light. The first image is the Monster Man: a tall man in a dark suit and yellow tie, his head a big round yellow smiley-face ball with two black dot eyes and a wide red smiling mouth; he never leaves the street corner, the camera never leaves the street corner."
+2. image: work/q5/s39_anchor.png
+3. text: "First he opens his arms wide to the street, mouth already open and moving in a broad speaking smile, as if mid-sentence. Then he sings the same short phrase four times in a row, steady and unhurried, mouth opening wide on every word and on every repeat, arms open, never leaving the street corner; after the last repeat he closes his mouth, holds the smile, arms open, and holds a steady pose to the end."
+4. text: "No text, no letters, no words on screen anywhere; no signs with writing; the take is already moving at the first frame."
+
+Notes: NO lyric quotes in this vehicle (parent brief hardened rule; the vocal performance is specified by mouth action, not quoted lines). 10s ask: ~1.5s pre-roll lead-in + four mantra repeats across the slot + tail hold. Assembly maps the take's sung words to the song grid (bursts 344.33–346.35 / 346.35–348.29 / 348.29–350.97 / 351.55–353.71). QC bar: articulation visible inside bursts 2/3/4 (song 347.7 / 350.0 / 351.9); identity = Monster Man / yellow ball smiley head; zero on-screen text; motion from frame 0.

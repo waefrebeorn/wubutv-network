@@ -1,0 +1,6518 @@
+{
+ "own_pairs": [
+  {
+   "scene": "S01",
+   "take": "t1",
+   "id": "mv14_s01_t1",
+   "wordless": true,
+   "asr_text": "so",
+   "asr_screened": [],
+   "asr_raw": [
+    "so"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S02",
+   "take": "t1",
+   "id": "mv14_s02_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S03",
+   "take": "t1",
+   "id": "mv14_s03_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S04",
+   "take": "t1",
+   "id": "mv14_s04_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S05",
+   "take": "t1",
+   "id": "mv14_s05_t1",
+   "wordless": true,
+   "asr_text": "All right.",
+   "asr_screened": [],
+   "asr_raw": [
+    "all",
+    "right"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S06",
+   "take": "t1",
+   "id": "mv14_s06_t1",
+   "wordless": false,
+   "asr_text": "I've been doing this for years.",
+   "asr_screened": [
+    "been",
+    "doing",
+    "for",
+    "ive",
+    "this",
+    "years"
+   ],
+   "asr_raw": [
+    "been",
+    "doing",
+    "for",
+    "ive",
+    "this",
+    "years"
+   ],
+   "planned_primary": [
+    "been",
+    "doing",
+    "for",
+    "ive",
+    "this",
+    "years"
+   ],
+   "planned_grid": [
+    "been",
+    "doing",
+    "for",
+    "ive",
+    "this",
+    "years"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S07",
+   "take": "t1",
+   "id": "mv14_s07_t1",
+   "wordless": false,
+   "asr_text": "Built it from the ground up. From the ground up.",
+   "asr_screened": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "asr_raw": [
+    "built",
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "planned_primary": [
+    "built",
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "planned_grid": [
+    "did",
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "overlap_primary_screened": 0.8333,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.8333
+  },
+  {
+   "scene": "S08",
+   "take": "t1",
+   "id": "mv14_s08_t1",
+   "wordless": false,
+   "asr_text": "You didn't watch the late nights.",
+   "asr_screened": [
+    "didnt",
+    "late",
+    "nights",
+    "the",
+    "watch",
+    "you"
+   ],
+   "asr_raw": [
+    "didnt",
+    "late",
+    "nights",
+    "the",
+    "watch",
+    "you"
+   ],
+   "planned_primary": [
+    "didnt",
+    "late",
+    "nights",
+    "the",
+    "watch",
+    "you"
+   ],
+   "planned_grid": [
+    "didnt",
+    "late",
+    "nights",
+    "the",
+    "watch",
+    "you"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S09",
+   "take": "t1",
+   "id": "mv14_s09_t1",
+   "wordless": false,
+   "asr_text": "You just saw the upload.",
+   "asr_screened": [
+    "just",
+    "saw",
+    "the",
+    "upload",
+    "you"
+   ],
+   "asr_raw": [
+    "just",
+    "saw",
+    "the",
+    "upload",
+    "you"
+   ],
+   "planned_primary": [
+    "just",
+    "saw",
+    "the",
+    "upload",
+    "you"
+   ],
+   "planned_grid": [
+    "i",
+    "just",
+    "saw",
+    "the",
+    "upload",
+    "you"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.8333
+  },
+  {
+   "scene": "S10",
+   "take": "t1",
+   "id": "mv14_s10_t1",
+   "wordless": false,
+   "asr_text": "I don't need a parade.",
+   "asr_screened": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "parade"
+   ],
+   "asr_raw": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "parade"
+   ],
+   "planned_primary": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "parade"
+   ],
+   "planned_grid": [
+    "a",
+    "dont",
+    "need",
+    "parade"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S11",
+   "take": "t1",
+   "id": "mv14_s11_t1",
+   "wordless": false,
+   "asr_text": "I don't need a pitch.",
+   "asr_screened": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "pitch"
+   ],
+   "asr_raw": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "pitch"
+   ],
+   "planned_primary": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "pitch"
+   ],
+   "planned_grid": [
+    "a",
+    "don",
+    "i",
+    "need",
+    "pitch",
+    "t"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.6667
+  },
+  {
+   "scene": "S12",
+   "take": "t1",
+   "id": "mv14_s12_t1",
+   "wordless": false,
+   "asr_text": "I need somebody steady.",
+   "asr_screened": [
+    "i",
+    "need",
+    "somebody",
+    "steady"
+   ],
+   "asr_raw": [
+    "i",
+    "need",
+    "somebody",
+    "steady"
+   ],
+   "planned_primary": [
+    "i",
+    "need",
+    "somebody",
+    "steady"
+   ],
+   "planned_grid": [
+    "i",
+    "need",
+    "somebody",
+    "steady"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S13",
+   "take": "t1",
+   "id": "mv14_s13_t1",
+   "wordless": false,
+   "asr_text": "Who can keep it moving?",
+   "asr_screened": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "asr_raw": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "planned_primary": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "planned_grid": [
+    "can",
+    "it",
+    "keep",
+    "movin",
+    "who"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.8
+  },
+  {
+   "scene": "S14",
+   "take": "t1",
+   "id": "mv14_s14_t1",
+   "wordless": true,
+   "asr_text": "We'll be right back.",
+   "asr_screened": [
+    "back",
+    "be",
+    "right"
+   ],
+   "asr_raw": [
+    "back",
+    "be",
+    "right",
+    "well"
+   ],
+   "planned_primary": [],
+   "planned_grid": [
+    "trip"
+   ],
+   "overlap_primary_screened": 0.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S15",
+   "take": "t1",
+   "id": "mv14_s15_t1",
+   "wordless": false,
+   "asr_text": "Clip it, post it.",
+   "asr_screened": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "it",
+    "keep",
+    "post"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.6667
+  },
+  {
+   "scene": "S17",
+   "take": "t1",
+   "id": "mv14_s17_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [
+    "trip"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S16",
+   "take": "t2",
+   "id": "mv14_s16_t2",
+   "wordless": false,
+   "asr_text": "Keep the work alive.",
+   "asr_screened": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "asr_raw": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "planned_primary": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ],
+   "planned_grid": [
+    "alive",
+    "the",
+    "work"
+   ],
+   "overlap_primary_screened": 0.6667,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S18",
+   "take": "t2",
+   "id": "mv14_s18_t2",
+   "wordless": false,
+   "asr_text": "Clip it, post it.",
+   "asr_screened": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "help",
+    "it",
+    "post"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.6667
+  },
+  {
+   "scene": "S20",
+   "take": "t1",
+   "id": "mv14_s20_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S21",
+   "take": "t1",
+   "id": "mv14_s21_t1",
+   "wordless": false,
+   "asr_text": "Clip it!",
+   "asr_screened": [
+    "clip",
+    "it"
+   ],
+   "asr_raw": [
+    "clip",
+    "it"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "it",
+    "posted",
+    "trip"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.3333
+  },
+  {
+   "scene": "S22",
+   "take": "t1",
+   "id": "mv14_s22_t1",
+   "wordless": false,
+   "asr_text": "Post it. Don't overthink the cut.",
+   "asr_screened": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "asr_raw": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "planned_primary": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "planned_grid": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S19",
+   "take": "t2",
+   "id": "mv14_s19_t2",
+   "wordless": false,
+   "asr_text": "Help me stay online.",
+   "asr_screened": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "asr_raw": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "planned_primary": [
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "planned_grid": [
+    "me",
+    "online",
+    "stay"
+   ],
+   "overlap_primary_screened": 0.6667,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S23",
+   "take": "t1",
+   "id": "mv14_s23_t1",
+   "wordless": false,
+   "asr_text": "Just find the moment and put it up.",
+   "asr_screened": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "asr_raw": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "planned_primary": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "planned_grid": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S24",
+   "take": "t1",
+   "id": "mv14_s24_t1",
+   "wordless": true,
+   "asr_text": "I'm sorry.",
+   "asr_screened": [],
+   "asr_raw": [
+    "im",
+    "sorry"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S26",
+   "take": "t1",
+   "id": "mv14_s26_t1",
+   "wordless": false,
+   "asr_text": "of good seconds nobody saw.",
+   "asr_screened": [
+    "good",
+    "nobody",
+    "of",
+    "saw",
+    "seconds"
+   ],
+   "asr_raw": [
+    "good",
+    "nobody",
+    "of",
+    "saw",
+    "seconds"
+   ],
+   "planned_primary": [
+    "good",
+    "nobody",
+    "of",
+    "saw",
+    "seconds"
+   ],
+   "planned_grid": [
+    "nobody",
+    "saw",
+    "seconds"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S27",
+   "take": "t1",
+   "id": "mv14_s27_t1",
+   "wordless": false,
+   "asr_text": "Me laughing at midnight.",
+   "asr_screened": [
+    "at",
+    "laughing",
+    "me",
+    "midnight"
+   ],
+   "asr_raw": [
+    "at",
+    "laughing",
+    "me",
+    "midnight"
+   ],
+   "planned_primary": [
+    "at",
+    "laughing",
+    "me",
+    "midnight"
+   ],
+   "planned_grid": [
+    "at",
+    "laughing",
+    "me",
+    "midnight"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S28",
+   "take": "t1",
+   "id": "mv14_s28_t1",
+   "wordless": false,
+   "asr_text": "me missing my own calls.",
+   "asr_screened": [
+    "calls",
+    "me",
+    "missing",
+    "my",
+    "own"
+   ],
+   "asr_raw": [
+    "calls",
+    "me",
+    "missing",
+    "my",
+    "own"
+   ],
+   "planned_primary": [
+    "calls",
+    "me",
+    "missing",
+    "my",
+    "own"
+   ],
+   "planned_grid": [
+    "calls",
+    "me",
+    "missing",
+    "my",
+    "own"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S29",
+   "take": "t1",
+   "id": "mv14_s29_t1",
+   "wordless": false,
+   "asr_text": "I'm not looking for magic.",
+   "asr_screened": [
+    "for",
+    "im",
+    "looking",
+    "magic",
+    "not"
+   ],
+   "asr_raw": [
+    "for",
+    "im",
+    "looking",
+    "magic",
+    "not"
+   ],
+   "planned_primary": [
+    "for",
+    "im",
+    "looking",
+    "magic",
+    "not"
+   ],
+   "planned_grid": [
+    "for",
+    "im",
+    "looking",
+    "magic",
+    "not"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S30",
+   "take": "t1",
+   "id": "mv14_s30_t1",
+   "wordless": false,
+   "asr_text": "Just clean hands, clear eyes.",
+   "asr_screened": [
+    "clean",
+    "clear",
+    "eyes",
+    "hands",
+    "just"
+   ],
+   "asr_raw": [
+    "clean",
+    "clear",
+    "eyes",
+    "hands",
+    "just"
+   ],
+   "planned_primary": [
+    "clean",
+    "clear",
+    "eyes",
+    "hands",
+    "just"
+   ],
+   "planned_grid": [
+    "clean",
+    "clear",
+    "eyes",
+    "hands",
+    "just"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S31",
+   "take": "t1",
+   "id": "mv14_s31_t1",
+   "wordless": false,
+   "asr_text": "Take what's already there.",
+   "asr_screened": [
+    "already",
+    "take",
+    "there",
+    "whats"
+   ],
+   "asr_raw": [
+    "already",
+    "take",
+    "there",
+    "whats"
+   ],
+   "planned_primary": [
+    "already",
+    "take",
+    "there",
+    "whats"
+   ],
+   "planned_grid": [
+    "already",
+    "and",
+    "take",
+    "there",
+    "whats"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.8
+  },
+  {
+   "scene": "S32",
+   "take": "t1",
+   "id": "mv14_s32_t1",
+   "wordless": false,
+   "asr_text": "and give it back with a title.",
+   "asr_screened": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "asr_raw": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "planned_primary": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "planned_grid": [
+    "a",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S25",
+   "take": "t3",
+   "id": "mv14_s25_t3",
+   "wordless": false,
+   "asr_text": "There's a whole hard drive full.",
+   "asr_screened": [
+    "a",
+    "drive",
+    "full",
+    "hard",
+    "theres",
+    "whole"
+   ],
+   "asr_raw": [
+    "a",
+    "drive",
+    "full",
+    "hard",
+    "theres",
+    "whole"
+   ],
+   "planned_primary": [
+    "a",
+    "drive",
+    "full",
+    "hard",
+    "theres",
+    "whole"
+   ],
+   "planned_grid": [
+    "a",
+    "drive",
+    "full",
+    "good",
+    "hard",
+    "of",
+    "theres",
+    "whole"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.75
+  },
+  {
+   "scene": "S33",
+   "take": "t1",
+   "id": "mv14_s33_t1",
+   "wordless": true,
+   "asr_text": "I'll see you next time.",
+   "asr_screened": [],
+   "asr_raw": [
+    "ill",
+    "next",
+    "see",
+    "time",
+    "you"
+   ],
+   "planned_primary": [],
+   "planned_grid": [
+    "clip"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S34",
+   "take": "t1",
+   "id": "mv14_s34_t1",
+   "wordless": false,
+   "asr_text": "Clip it, post it.",
+   "asr_screened": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "it",
+    "post"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S35",
+   "take": "t1",
+   "id": "mv14_s35_t1",
+   "wordless": false,
+   "asr_text": "Keep the work alive.",
+   "asr_screened": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "asr_raw": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "planned_primary": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ],
+   "planned_grid": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "overlap_primary_screened": 0.6667,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S36",
+   "take": "t1",
+   "id": "mv14_s36_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S37",
+   "take": "t1",
+   "id": "mv14_s37_t1",
+   "wordless": false,
+   "asr_text": "Clip it, post it.",
+   "asr_screened": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S39",
+   "take": "t1",
+   "id": "mv14_s39_t1",
+   "wordless": false,
+   "asr_text": "Clip it!",
+   "asr_screened": [
+    "clip",
+    "it"
+   ],
+   "asr_raw": [
+    "clip",
+    "it"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "behind",
+    "clip"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.5
+  },
+  {
+   "scene": "S40",
+   "take": "t1",
+   "id": "mv14_s40_t1",
+   "wordless": false,
+   "asr_text": "Post it.",
+   "asr_screened": [
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "it",
+    "post"
+   ],
+   "planned_grid": [
+    "clip",
+    "post",
+    "you"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.3333
+  },
+  {
+   "scene": "S41",
+   "take": "t1",
+   "id": "mv14_s41_t1",
+   "wordless": false,
+   "asr_text": "Don't overthink the cut.",
+   "asr_screened": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "asr_raw": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "planned_primary": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "planned_grid": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S42",
+   "take": "t1",
+   "id": "mv14_s42_t1",
+   "wordless": false,
+   "asr_text": "Just find the moment and put it up.",
+   "asr_screened": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "asr_raw": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "planned_primary": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "planned_grid": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S43",
+   "take": "t1",
+   "id": "mv14_s43_t1",
+   "wordless": false,
+   "asr_text": "No, comma, pause. No, coma, pause, no.",
+   "asr_screened": [
+    "comma",
+    "no",
+    "pause"
+   ],
+   "asr_raw": [
+    "coma",
+    "comma",
+    "no",
+    "pause"
+   ],
+   "planned_primary": [
+    "no"
+   ],
+   "planned_grid": [
+    "no"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S38",
+   "take": "t2",
+   "id": "mv14_s38_t2",
+   "wordless": false,
+   "asr_text": "Help me stay online.",
+   "asr_screened": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "asr_raw": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "planned_primary": [
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "planned_grid": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "overlap_primary_screened": 0.6667,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S44",
+   "take": "t1",
+   "id": "mv14_s44_t1",
+   "wordless": false,
+   "asr_text": "I'm tired of explaining it.",
+   "asr_screened": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "asr_raw": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "planned_primary": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "planned_grid": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S45",
+   "take": "t1",
+   "id": "mv14_s45_t1",
+   "wordless": false,
+   "asr_text": "Tired of spelling it out.",
+   "asr_screened": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "asr_raw": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "planned_primary": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "planned_grid": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S46",
+   "take": "t1",
+   "id": "mv14_s46_t1",
+   "wordless": false,
+   "asr_text": "if you wanna help me.",
+   "asr_screened": [
+    "help",
+    "me",
+    "wanna",
+    "you"
+   ],
+   "asr_raw": [
+    "help",
+    "if",
+    "me",
+    "wanna",
+    "you"
+   ],
+   "planned_primary": [
+    "help",
+    "if",
+    "me",
+    "to",
+    "want",
+    "you"
+   ],
+   "planned_grid": [
+    "help",
+    "if",
+    "wanna",
+    "you"
+   ],
+   "overlap_primary_screened": 0.5,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 0.75
+  },
+  {
+   "scene": "S47",
+   "take": "t1",
+   "id": "mv14_s47_t1",
+   "wordless": false,
+   "asr_text": "This is how you do it now.",
+   "asr_screened": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "asr_raw": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "planned_primary": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "planned_grid": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "me",
+    "now",
+    "this",
+    "you"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.875
+  },
+  {
+   "scene": "S48",
+   "take": "t1",
+   "id": "mv14_s48_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S49",
+   "take": "t1",
+   "id": "mv14_s49_t1",
+   "wordless": false,
+   "asr_text": "clip it, post it.",
+   "asr_screened": [
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "overlap_primary_screened": 0.5,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.6667
+  },
+  {
+   "scene": "S50",
+   "take": "t1",
+   "id": "mv14_s50_t1",
+   "wordless": false,
+   "asr_text": "Keep the work. Keep the work alive.",
+   "asr_screened": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "asr_raw": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "planned_primary": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ],
+   "planned_grid": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "overlap_primary_screened": 0.6667,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S51",
+   "take": "t1",
+   "id": "mv14_s51_t1",
+   "wordless": false,
+   "asr_text": "Clip it, post it.",
+   "asr_screened": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_grid": [
+    "clip",
+    "it",
+    "oh"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.6667
+  },
+  {
+   "scene": "S52",
+   "take": "t1",
+   "id": "mv14_s52_t1",
+   "wordless": false,
+   "asr_text": "Clip it, post it, help me stay online.",
+   "asr_screened": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "asr_raw": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "planned_primary": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "planned_grid": [
+    "and",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.8571
+  },
+  {
+   "scene": "S53",
+   "take": "t1",
+   "id": "mv14_s53_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S54",
+   "take": "t1",
+   "id": "mv14_s54_t1",
+   "wordless": false,
+   "asr_text": "Clip it, post it. Post it.",
+   "asr_screened": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "asr_raw": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "planned_primary": [
+    "clip",
+    "it"
+   ],
+   "planned_grid": [
+    "clip",
+    "in",
+    "it",
+    "post"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.75
+  },
+  {
+   "scene": "S56",
+   "take": "t1",
+   "id": "mv14_s56_t1",
+   "wordless": false,
+   "asr_text": "Just find the moment and put it up.",
+   "asr_screened": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "asr_raw": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "planned_primary": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "planned_grid": [
+    "a",
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "up"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.875
+  },
+  {
+   "scene": "S57",
+   "take": "t1",
+   "id": "mv14_s57_t1",
+   "wordless": true,
+   "asr_text": "Music",
+   "asr_screened": [],
+   "asr_raw": [
+    "music"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S58",
+   "take": "t1",
+   "id": "mv14_s58_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S55",
+   "take": "t2",
+   "id": "mv14_s55_t2",
+   "wordless": false,
+   "asr_text": "Don't overthink the cut.",
+   "asr_screened": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "asr_raw": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "planned_primary": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "planned_grid": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "overlap_primary_screened": 0.6667,
+   "overlap_primary_raw": 0.6667,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S59",
+   "take": "t1",
+   "id": "mv14_s59_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S60",
+   "take": "t1",
+   "id": "mv14_s60_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S61",
+   "take": "t1",
+   "id": "mv14_s61_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S63",
+   "take": "t1",
+   "id": "mv14_s63_t1",
+   "wordless": true,
+   "asr_text": "Oh",
+   "asr_screened": [],
+   "asr_raw": [
+    "oh"
+   ],
+   "planned_primary": [],
+   "planned_grid": [
+    "back",
+    "be",
+    "right",
+    "well"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S62",
+   "take": "t2",
+   "id": "mv14_s62_t2",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S64",
+   "take": "t1",
+   "id": "mv14_s64_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S65",
+   "take": "t1",
+   "id": "mv14_s65_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  }
+ ],
+ "own_sung_dist_screened": {
+  "n": 43,
+  "min": 0.5,
+  "p25": 1.0,
+  "median": 1.0,
+  "p75": 1.0,
+  "max": 1.0,
+  "n_below_0.5": 0,
+  "hist": {
+   "0-0.25": 0,
+   "0.25-0.5": 0,
+   "0.5-0.75": 8,
+   "0.75-1.0": 1,
+   "1.0": 34
+  }
+ },
+ "own_sung_dist_raw": {
+  "n": 43,
+  "min": 0.667,
+  "p25": 1.0,
+  "median": 1.0,
+  "p75": 1.0,
+  "max": 1.0,
+  "n_below_0.5": 0,
+  "hist": {
+   "0-0.25": 0,
+   "0.25-0.5": 0,
+   "0.5-0.75": 7,
+   "0.75-1.0": 0,
+   "1.0": 36
+  }
+ },
+ "own_sung_dist_gridvariant": {
+  "n": 43,
+  "min": 0.333,
+  "p25": 0.75,
+  "median": 1.0,
+  "p75": 1.0,
+  "max": 1.0,
+  "n_below_0.5": 2,
+  "hist": {
+   "0-0.25": 0,
+   "0.25-0.5": 2,
+   "0.5-0.75": 6,
+   "0.75-1.0": 10,
+   "1.0": 25
+  }
+ },
+ "own_wordless": [
+  {
+   "scene": "S01",
+   "take": "t1",
+   "id": "mv14_s01_t1",
+   "wordless": true,
+   "asr_text": "so",
+   "asr_screened": [],
+   "asr_raw": [
+    "so"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S02",
+   "take": "t1",
+   "id": "mv14_s02_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S03",
+   "take": "t1",
+   "id": "mv14_s03_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S04",
+   "take": "t1",
+   "id": "mv14_s04_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S05",
+   "take": "t1",
+   "id": "mv14_s05_t1",
+   "wordless": true,
+   "asr_text": "All right.",
+   "asr_screened": [],
+   "asr_raw": [
+    "all",
+    "right"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S14",
+   "take": "t1",
+   "id": "mv14_s14_t1",
+   "wordless": true,
+   "asr_text": "We'll be right back.",
+   "asr_screened": [
+    "back",
+    "be",
+    "right"
+   ],
+   "asr_raw": [
+    "back",
+    "be",
+    "right",
+    "well"
+   ],
+   "planned_primary": [],
+   "planned_grid": [
+    "trip"
+   ],
+   "overlap_primary_screened": 0.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S17",
+   "take": "t1",
+   "id": "mv14_s17_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [
+    "trip"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S20",
+   "take": "t1",
+   "id": "mv14_s20_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S24",
+   "take": "t1",
+   "id": "mv14_s24_t1",
+   "wordless": true,
+   "asr_text": "I'm sorry.",
+   "asr_screened": [],
+   "asr_raw": [
+    "im",
+    "sorry"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S33",
+   "take": "t1",
+   "id": "mv14_s33_t1",
+   "wordless": true,
+   "asr_text": "I'll see you next time.",
+   "asr_screened": [],
+   "asr_raw": [
+    "ill",
+    "next",
+    "see",
+    "time",
+    "you"
+   ],
+   "planned_primary": [],
+   "planned_grid": [
+    "clip"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S36",
+   "take": "t1",
+   "id": "mv14_s36_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S48",
+   "take": "t1",
+   "id": "mv14_s48_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S53",
+   "take": "t1",
+   "id": "mv14_s53_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S57",
+   "take": "t1",
+   "id": "mv14_s57_t1",
+   "wordless": true,
+   "asr_text": "Music",
+   "asr_screened": [],
+   "asr_raw": [
+    "music"
+   ],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S58",
+   "take": "t1",
+   "id": "mv14_s58_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S59",
+   "take": "t1",
+   "id": "mv14_s59_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S60",
+   "take": "t1",
+   "id": "mv14_s60_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S61",
+   "take": "t1",
+   "id": "mv14_s61_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S63",
+   "take": "t1",
+   "id": "mv14_s63_t1",
+   "wordless": true,
+   "asr_text": "Oh",
+   "asr_screened": [],
+   "asr_raw": [
+    "oh"
+   ],
+   "planned_primary": [],
+   "planned_grid": [
+    "back",
+    "be",
+    "right",
+    "well"
+   ],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 0.0,
+   "overlap_grid_screened": 0.0
+  },
+  {
+   "scene": "S62",
+   "take": "t2",
+   "id": "mv14_s62_t2",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S64",
+   "take": "t1",
+   "id": "mv14_s64_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  },
+  {
+   "scene": "S65",
+   "take": "t1",
+   "id": "mv14_s65_t1",
+   "wordless": true,
+   "asr_text": ".",
+   "asr_screened": [],
+   "asr_raw": [],
+   "planned_primary": [],
+   "planned_grid": [],
+   "overlap_primary_screened": 1.0,
+   "overlap_primary_raw": 1.0,
+   "overlap_grid_screened": 1.0
+  }
+ ],
+ "own_wordless_false_rejects_screened": 1,
+ "own_wordless_false_rejects_raw": 7,
+ "cross_strata": {
+  "discriminating": {
+   "n": 1692,
+   "min": 0.0,
+   "p25": 0.0,
+   "median": 0.0,
+   "p75": 0.167,
+   "max": 1.0,
+   "n_below_0.5": 1565,
+   "hist": {
+    "0-0.25": 1431,
+    "0.25-0.5": 134,
+    "0.5-0.75": 111,
+    "0.75-1.0": 0,
+    "1.0": 16
+   }
+  },
+  "discriminating_raw": {
+   "n": 1692,
+   "min": 0.0,
+   "p25": 0.0,
+   "median": 0.0,
+   "p75": 0.167,
+   "max": 1.0,
+   "n_below_0.5": 1565,
+   "hist": {
+    "0-0.25": 1431,
+    "0.25-0.5": 134,
+    "0.5-0.75": 111,
+    "0.75-1.0": 0,
+    "1.0": 16
+   }
+  },
+  "near_identical": {
+   "n": 28,
+   "min": 0.667,
+   "p25": 0.8,
+   "median": 1.0,
+   "p75": 1.0,
+   "max": 1.0,
+   "n_below_0.5": 0,
+   "hist": {
+    "0-0.25": 0,
+    "0.25-0.5": 0,
+    "0.5-0.75": 6,
+    "0.75-1.0": 2,
+    "1.0": 20
+   }
+  },
+  "quarantine_identical": {
+   "n": 72,
+   "min": 0.5,
+   "p25": 1.0,
+   "median": 1.0,
+   "p75": 1.0,
+   "max": 1.0,
+   "n_below_0.5": 0,
+   "hist": {
+    "0-0.25": 0,
+    "0.25-0.5": 0,
+    "0.5-0.75": 16,
+    "0.75-1.0": 0,
+    "1.0": 56
+   }
+  },
+  "subset": {
+   "n": 960,
+   "min": 0.0,
+   "p25": 0.0,
+   "median": 0.0,
+   "p75": 0.0,
+   "max": 1.0,
+   "n_below_0.5": 959,
+   "hist": {
+    "0-0.25": 952,
+    "0.25-0.5": 7,
+    "0.5-0.75": 0,
+    "0.75-1.0": 0,
+    "1.0": 1
+   }
+  },
+  "undefined_empty_planned": {
+   "n": 1408,
+   "min": 0.0,
+   "p25": 0.0,
+   "median": 0.0,
+   "p75": 1.0,
+   "max": 1.0,
+   "n_below_0.5": 967,
+   "hist": {
+    "0-0.25": 967,
+    "0.25-0.5": 0,
+    "0.5-0.75": 0,
+    "0.75-1.0": 0,
+    "1.0": 441
+   }
+  }
+ },
+ "cross_breaches_ge_0.5": [
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s07_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s10_t1",
+   "vs_scene": "S11",
+   "stratum": "near_identical",
+   "overlap": 0.8,
+   "take_asr": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "parade"
+   ],
+   "vs_planned": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "pitch"
+   ]
+  },
+  {
+   "take": "mv14_s10_t1",
+   "vs_scene": "S12",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "parade"
+   ],
+   "vs_planned": [
+    "i",
+    "need",
+    "somebody",
+    "steady"
+   ]
+  },
+  {
+   "take": "mv14_s11_t1",
+   "vs_scene": "S10",
+   "stratum": "near_identical",
+   "overlap": 0.8,
+   "take_asr": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "pitch"
+   ],
+   "vs_planned": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "parade"
+   ]
+  },
+  {
+   "take": "mv14_s11_t1",
+   "vs_scene": "S12",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "dont",
+    "i",
+    "need",
+    "pitch"
+   ],
+   "vs_planned": [
+    "i",
+    "need",
+    "somebody",
+    "steady"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s13_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "can",
+    "it",
+    "keep",
+    "moving",
+    "who"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s15_t1",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s16_t2",
+   "vs_scene": "S35",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s16_t2",
+   "vs_scene": "S50",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s18_t2",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s21_t1",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S16",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S35",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S40",
+   "stratum": "subset",
+   "overlap": 1.0,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S41",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S50",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S51",
+   "stratum": "discriminating",
+   "overlap": 0.6667,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s22_t1",
+   "vs_scene": "S55",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ],
+   "vs_planned": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ]
+  },
+  {
+   "take": "mv14_s19_t2",
+   "vs_scene": "S38",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "vs_planned": [
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s19_t2",
+   "vs_scene": "S52",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "vs_planned": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S07",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "built",
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S42",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s23_t1",
+   "vs_scene": "S56",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s32_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "a",
+    "and",
+    "back",
+    "give",
+    "it",
+    "title",
+    "with"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s34_t1",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s35_t1",
+   "vs_scene": "S16",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s35_t1",
+   "vs_scene": "S50",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s37_t1",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s39_t1",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s40_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s41_t1",
+   "vs_scene": "S22",
+   "stratum": "near_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "vs_planned": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ]
+  },
+  {
+   "take": "mv14_s41_t1",
+   "vs_scene": "S55",
+   "stratum": "near_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "vs_planned": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S07",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "built",
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S23",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s42_t1",
+   "vs_scene": "S56",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s38_t2",
+   "vs_scene": "S19",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "vs_planned": [
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s38_t2",
+   "vs_scene": "S52",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ],
+   "vs_planned": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S45",
+   "stratum": "discriminating",
+   "overlap": 0.6,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s44_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S44",
+   "stratum": "discriminating",
+   "overlap": 0.6,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "explaining",
+    "im",
+    "it",
+    "of",
+    "tired"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s45_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "of",
+    "out",
+    "spelling",
+    "tired"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s46_t1",
+   "vs_scene": "S52",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "help",
+    "me",
+    "wanna",
+    "you"
+   ],
+   "vs_planned": [
+    "help",
+    "me",
+    "online",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s47_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "do",
+    "how",
+    "is",
+    "it",
+    "now",
+    "this",
+    "you"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s49_t1",
+   "vs_scene": "S54",
+   "stratum": "quarantine_identical",
+   "overlap": 0.5,
+   "take_asr": [
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s50_t1",
+   "vs_scene": "S16",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s50_t1",
+   "vs_scene": "S35",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "alive",
+    "keep",
+    "the",
+    "work"
+   ],
+   "vs_planned": [
+    "alive",
+    "it",
+    "keep",
+    "post",
+    "the",
+    "work"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S15",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S18",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S21",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S34",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S37",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S39",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S40",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S49",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s51_t1",
+   "vs_scene": "S54",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S19",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S38",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S51",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s52_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "help",
+    "it",
+    "me",
+    "online",
+    "post",
+    "stay"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S15",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S18",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S21",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S34",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S37",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S39",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S49",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s54_t1",
+   "vs_scene": "S51",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "clip",
+    "it",
+    "post"
+   ],
+   "vs_planned": [
+    "clip",
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S07",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "built",
+    "from",
+    "ground",
+    "it",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S15",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S18",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S21",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S23",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S34",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S37",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S39",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S40",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "it",
+    "post"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S42",
+   "stratum": "quarantine_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S49",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s56_t1",
+   "vs_scene": "S54",
+   "stratum": "discriminating",
+   "overlap": 0.5,
+   "take_asr": [
+    "and",
+    "find",
+    "it",
+    "just",
+    "moment",
+    "put",
+    "the",
+    "up"
+   ],
+   "vs_planned": [
+    "clip",
+    "it"
+   ]
+  },
+  {
+   "take": "mv14_s55_t2",
+   "vs_scene": "S22",
+   "stratum": "quarantine_identical",
+   "overlap": 0.6667,
+   "take_asr": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "vs_planned": [
+    "cut",
+    "dont",
+    "it",
+    "overthink",
+    "post",
+    "the"
+   ]
+  },
+  {
+   "take": "mv14_s55_t2",
+   "vs_scene": "S41",
+   "stratum": "near_identical",
+   "overlap": 1.0,
+   "take_asr": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ],
+   "vs_planned": [
+    "cut",
+    "dont",
+    "overthink",
+    "the"
+   ]
+  }
+ ],
+ "mv2_positives": [
+  {
+   "id": "mv2_s04_t3",
+   "asr_text": "The fast lanes, the rich ones fly on by While the rest of us crawl watching money flash by",
+   "asr_screened": [
+    "by",
+    "crawl",
+    "fast",
+    "flash",
+    "fly",
+    "lanes",
+    "money",
+    "of",
+    "on",
+    "ones",
+    "rest",
+    "rich",
+    "the",
+    "us"
+   ],
+   "asr_raw": [
+    "by",
+    "crawl",
+    "fast",
+    "flash",
+    "fly",
+    "lanes",
+    "money",
+    "of",
+    "on",
+    "ones",
+    "rest",
+    "rich",
+    "the",
+    "us",
+    "watching",
+    "while"
+   ],
+   "planned_primary": [
+    "about",
+    "all",
+    "cars",
+    "dont",
+    "it",
+    "match",
+    "one",
+    "ones",
+    "other",
+    "out",
+    "racing",
+    "speeds",
+    "the",
+    "to",
+    "weave",
+    "weavein"
+   ],
+   "overlap_screened": 0.125,
+   "overlap_raw": 0.125,
+   "alt_segment_words": [
+    "by",
+    "crawl",
+    "flaselines",
+    "flash",
+    "fly",
+    "got",
+    "money",
+    "now",
+    "of",
+    "on",
+    "ones",
+    "rest",
+    "rich",
+    "the",
+    "they",
+    "us",
+    "watchin",
+    "while"
+   ],
+   "overlap_vs_alt_segment_screened": 0.6667
+  },
+  {
+   "id": "mv2_s21_t1",
+   "asr_text": "Toll roads are done",
+   "asr_screened": [
+    "are",
+    "done",
+    "roads",
+    "toll"
+   ],
+   "asr_raw": [
+    "are",
+    "done",
+    "roads",
+    "toll"
+   ],
+   "planned_primary": [
+    "come",
+    "every",
+    "faster",
+    "gets",
+    "go",
+    "just",
+    "meaner",
+    "of",
+    "pay",
+    "rest",
+    "road",
+    "single",
+    "the",
+    "time",
+    "to",
+    "us",
+    "wrecks"
+   ],
+   "overlap_screened": 0.0,
+   "overlap_raw": 0.0
+  }
+ ]
+}

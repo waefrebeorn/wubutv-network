@@ -1,0 +1,646 @@
+{
+ "s11": {
+  "take": "mv5_s11_t4.mp4",
+  "song_slot": 7.84,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 5.448,
+   "longest_neardup_run": 2,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 6.494,
+   "vocal_longest_neardup": 2,
+   "per_second_mean_diff": [
+    10.779,
+    9.748,
+    4.172,
+    5.15,
+    3.636
+   ]
+  },
+  "whisper_text": "Calling mango sweet, socks in the sand, time with our feet",
+  "whisper_words": [
+   " Calling",
+   " mango",
+   " sweet,",
+   " socks",
+   " in",
+   " the",
+   " sand,",
+   " time",
+   " with",
+   " our",
+   " feet"
+  ],
+  "whisper_nwords": 11,
+  "take_line_span": 7.82,
+  "first_word": 1.22,
+  "last_word_end": 9.04,
+  "line_ratio": 1.0,
+  "word_times": [
+   [
+    "Calling",
+    1.22,
+    2.18
+   ],
+   [
+    "mango",
+    2.18,
+    2.72
+   ],
+   [
+    "sweet,",
+    2.72,
+    3.82
+   ],
+   [
+    "socks",
+    3.86,
+    6.0
+   ],
+   [
+    "in",
+    6.0,
+    6.44
+   ],
+   [
+    "the",
+    6.44,
+    6.66
+   ],
+   [
+    "sand,",
+    6.66,
+    7.14
+   ],
+   [
+    "time",
+    7.64,
+    7.86
+   ],
+   [
+    "with",
+    7.86,
+    8.2
+   ],
+   [
+    "our",
+    8.2,
+    8.56
+   ],
+   [
+    "feet",
+    8.56,
+    9.04
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s13": {
+  "take": "mv5_s13_t3.mp4",
+  "song_slot": 9.5,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 7.316,
+   "longest_neardup_run": 1,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 7.469,
+   "vocal_longest_neardup": 1,
+   "per_second_mean_diff": [
+    4.246,
+    5.73,
+    7.285,
+    6.832,
+    6.745,
+    7.199,
+    9.152,
+    10.838,
+    9.139
+   ]
+  },
+  "whisper_text": "Ice cup sweating, on the rail by the steps, didn't, not yet, kids with a boombox, cutting through the crowd, you took my sleeve and spun me once, loud",
+  "whisper_words": [
+   " Ice",
+   " cup",
+   " sweating,",
+   " on",
+   " the",
+   " rail",
+   " by",
+   " the",
+   " steps,",
+   " didn't,",
+   " not",
+   " yet,",
+   " kids",
+   " with",
+   " a",
+   " boombox,",
+   " cutting",
+   " through",
+   " the",
+   " crowd,",
+   " you",
+   " took",
+   " my",
+   " sleeve",
+   " and",
+   " spun",
+   " me",
+   " once,",
+   " loud"
+  ],
+  "whisper_nwords": 29,
+  "take_line_span": 9.18,
+  "first_word": 0.0,
+  "last_word_end": 9.18,
+  "line_ratio": 1.03,
+  "word_times": [
+   [
+    "Ice",
+    0.0,
+    0.4
+   ],
+   [
+    "cup",
+    0.4,
+    0.62
+   ],
+   [
+    "sweating,",
+    0.62,
+    1.22
+   ],
+   [
+    "on",
+    1.6,
+    1.78
+   ],
+   [
+    "the",
+    1.78,
+    1.96
+   ],
+   [
+    "rail",
+    1.96,
+    2.24
+   ],
+   [
+    "by",
+    2.24,
+    2.52
+   ],
+   [
+    "the",
+    2.52,
+    2.72
+   ],
+   [
+    "steps,",
+    2.72,
+    3.06
+   ],
+   [
+    "didn't,",
+    3.06,
+    3.78
+   ],
+   [
+    "not",
+    3.98,
+    4.16
+   ],
+   [
+    "yet,",
+    4.16,
+    4.7
+   ],
+   [
+    "kids",
+    4.78,
+    5.54
+   ],
+   [
+    "with",
+    5.54,
+    5.76
+   ],
+   [
+    "a",
+    5.76,
+    5.92
+   ],
+   [
+    "boombox,",
+    5.92,
+    6.52
+   ],
+   [
+    "cutting",
+    6.72,
+    6.88
+   ],
+   [
+    "through",
+    6.88,
+    7.1
+   ],
+   [
+    "the",
+    7.1,
+    7.26
+   ],
+   [
+    "crowd,",
+    7.26,
+    7.3
+   ],
+   [
+    "you",
+    7.3,
+    7.3
+   ],
+   [
+    "took",
+    7.3,
+    7.3
+   ],
+   [
+    "my",
+    7.3,
+    7.3
+   ],
+   [
+    "sleeve",
+    7.3,
+    7.56
+   ],
+   [
+    "and",
+    7.56,
+    7.7
+   ],
+   [
+    "spun",
+    7.7,
+    7.94
+   ],
+   [
+    "me",
+    7.94,
+    8.2
+   ],
+   [
+    "once,",
+    8.2,
+    8.66
+   ],
+   [
+    "loud",
+    8.88,
+    9.18
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s14": {
+  "take": "mv5_s14_t3.mp4",
+  "song_slot": 4.1,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 0.901,
+   "longest_neardup_run": 28,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.931,
+   "vocal_longest_neardup": 28,
+   "per_second_mean_diff": [
+    0.799,
+    1.338,
+    0.773,
+    0.683
+   ]
+  },
+  "whisper_text": "Slow down, take your time, let the hard week fade, one small look from you",
+  "whisper_words": [
+   " Slow",
+   " down,",
+   " take",
+   " your",
+   " time,",
+   " let",
+   " the",
+   " hard",
+   " week",
+   " fade,",
+   " one",
+   " small",
+   " look",
+   " from",
+   " you"
+  ],
+  "whisper_nwords": 15,
+  "take_line_span": 9.7,
+  "first_word": 0.0,
+  "last_word_end": 9.7,
+  "line_ratio": 0.42,
+  "word_times": [
+   [
+    "Slow",
+    0.0,
+    0.54
+   ],
+   [
+    "down,",
+    0.54,
+    1.22
+   ],
+   [
+    "take",
+    1.7,
+    1.92
+   ],
+   [
+    "your",
+    1.92,
+    2.22
+   ],
+   [
+    "time,",
+    2.22,
+    3.12
+   ],
+   [
+    "let",
+    3.46,
+    4.48
+   ],
+   [
+    "the",
+    4.48,
+    4.76
+   ],
+   [
+    "hard",
+    4.76,
+    5.28
+   ],
+   [
+    "week",
+    5.28,
+    5.74
+   ],
+   [
+    "fade,",
+    5.74,
+    6.6
+   ],
+   [
+    "one",
+    6.7,
+    8.7
+   ],
+   [
+    "small",
+    8.7,
+    9.0
+   ],
+   [
+    "look",
+    9.0,
+    9.2
+   ],
+   [
+    "from",
+    9.2,
+    9.4
+   ],
+   [
+    "you",
+    9.4,
+    9.7
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s16": {
+  "take": "mv5_s16_t3.mp4",
+  "song_slot": 9.48,
+  "motion": {
+   "frames": 240,
+   "mean_diff": 6.347,
+   "longest_neardup_run": 15,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 7.317,
+   "vocal_longest_neardup": 2,
+   "per_second_mean_diff": [
+    3.67,
+    8.04,
+    10.495,
+    10.511,
+    9.837,
+    7.743,
+    6.622,
+    3.356
+   ]
+  },
+  "whisper_text": "Easy now, easy now",
+  "whisper_words": [
+   " Easy",
+   " now,",
+   " easy",
+   " now"
+  ],
+  "whisper_nwords": 4,
+  "take_line_span": 3.76,
+  "first_word": 0.0,
+  "last_word_end": 3.76,
+  "line_ratio": 2.52,
+  "word_times": [
+   [
+    "Easy",
+    0.0,
+    0.86
+   ],
+   [
+    "now,",
+    0.86,
+    1.5
+   ],
+   [
+    "easy",
+    1.98,
+    2.7
+   ],
+   [
+    "now",
+    2.7,
+    3.76
+   ]
+  ],
+  "repeat_bigrams": [
+   "easy now"
+  ],
+  "forbidden_found": [],
+  "easy_now_count": 2
+ },
+ "s19": {
+  "take": "mv5_s19_t1.mp4",
+  "song_slot": 7.02,
+  "motion": {
+   "frames": 168,
+   "mean_diff": 0.891,
+   "longest_neardup_run": 1,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 0.891,
+   "vocal_longest_neardup": 1,
+   "per_second_mean_diff": [
+    0.948,
+    0.778,
+    1.194,
+    1.124,
+    0.767,
+    0.581,
+    0.84
+   ]
+  },
+  "whisper_text": "If the rain comes down, we stay out in it",
+  "whisper_words": [
+   " If",
+   " the",
+   " rain",
+   " comes",
+   " down,",
+   " we",
+   " stay",
+   " out",
+   " in",
+   " it"
+  ],
+  "whisper_nwords": 10,
+  "take_line_span": 5.12,
+  "first_word": 0.0,
+  "last_word_end": 5.12,
+  "line_ratio": 1.37,
+  "word_times": [
+   [
+    "If",
+    0.0,
+    0.44
+   ],
+   [
+    "the",
+    0.44,
+    0.64
+   ],
+   [
+    "rain",
+    0.64,
+    0.98
+   ],
+   [
+    "comes",
+    0.98,
+    1.52
+   ],
+   [
+    "down,",
+    1.52,
+    2.08
+   ],
+   [
+    "we",
+    2.98,
+    3.44
+   ],
+   [
+    "stay",
+    3.44,
+    3.8
+   ],
+   [
+    "out",
+    3.8,
+    4.3
+   ],
+   [
+    "in",
+    4.3,
+    4.78
+   ],
+   [
+    "it",
+    4.78,
+    5.12
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ },
+ "s20": {
+  "take": "mv5_s20_t1.mp4",
+  "song_slot": 2.34,
+  "motion": {
+   "frames": 120,
+   "mean_diff": 2.792,
+   "longest_neardup_run": 2,
+   "exact_dup_frames": 0
+  },
+  "vocal_motion": {
+   "vocal_mean_diff": 2.503,
+   "vocal_longest_neardup": 2,
+   "per_second_mean_diff": [
+    2.713,
+    2.444
+   ]
+  },
+  "whisper_text": "Heart in the breeze",
+  "whisper_words": [
+   " Heart",
+   " in",
+   " the",
+   " breeze"
+  ],
+  "whisper_nwords": 4,
+  "take_line_span": 2.54,
+  "first_word": 0.0,
+  "last_word_end": 2.54,
+  "line_ratio": 0.92,
+  "word_times": [
+   [
+    "Heart",
+    0.0,
+    0.88
+   ],
+   [
+    "in",
+    0.88,
+    1.4
+   ],
+   [
+    "the",
+    1.4,
+    1.66
+   ],
+   [
+    "breeze",
+    1.66,
+    2.54
+   ]
+  ],
+  "repeat_bigrams": [],
+  "forbidden_found": []
+ }
+}

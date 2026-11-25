@@ -1,0 +1,127 @@
+{
+ "take": "takes/mv20_s16_t1.mp4",
+ "words": [
+  {
+   "w": "Pants",
+   "start": 0.0,
+   "end": 0.46,
+   "p": 0.777
+  },
+  {
+   "w": "are",
+   "start": 0.46,
+   "end": 0.62,
+   "p": 0.998
+  },
+  {
+   "w": "clean,",
+   "start": 0.62,
+   "end": 1.02,
+   "p": 0.999
+  },
+  {
+   "w": "but",
+   "start": 1.24,
+   "end": 1.36,
+   "p": 0.995
+  },
+  {
+   "w": "they're",
+   "start": 1.36,
+   "end": 1.68,
+   "p": 0.99
+  },
+  {
+   "w": "wrinkled",
+   "start": 1.68,
+   "end": 2.2,
+   "p": 0.999
+  },
+  {
+   "w": "as",
+   "start": 2.2,
+   "end": 2.44,
+   "p": 0.999
+  },
+  {
+   "w": "hell.",
+   "start": 2.44,
+   "end": 2.94,
+   "p": 0.991
+  },
+  {
+   "w": "And",
+   "start": 3.98,
+   "end": 4.7,
+   "p": 0.994
+  },
+  {
+   "w": "I'm",
+   "start": 4.7,
+   "end": 4.9,
+   "p": 0.998
+  },
+  {
+   "w": "still",
+   "start": 4.9,
+   "end": 5.2,
+   "p": 0.998
+  },
+  {
+   "w": "not",
+   "start": 5.2,
+   "end": 5.56,
+   "p": 0.999
+  },
+  {
+   "w": "putting",
+   "start": 5.56,
+   "end": 5.98,
+   "p": 0.999
+  },
+  {
+   "w": "them",
+   "start": 5.98,
+   "end": 6.3,
+   "p": 0.999
+  },
+  {
+   "w": "away,",
+   "start": 6.3,
+   "end": 6.76,
+   "p": 0.999
+  },
+  {
+   "w": "I",
+   "start": 6.76,
+   "end": 7.26,
+   "p": 0.999
+  },
+  {
+   "w": "can",
+   "start": 7.26,
+   "end": 7.5,
+   "p": 1.0
+  },
+  {
+   "w": "tell.",
+   "start": 7.5,
+   "end": 8.1,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.94,
+   "text": "Pants are clean, but they're wrinkled as hell.",
+   "avg_logprob": -0.237
+  },
+  {
+   "start": 3.98,
+   "end": 8.1,
+   "text": "And I'm still not putting them away, I can tell.",
+   "avg_logprob": -0.237
+  }
+ ]
+}

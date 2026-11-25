@@ -1,0 +1,448 @@
+{
+ "batch": "2026-11-20",
+ "intake": "complete",
+ "method": "lyrics = frame-verified read of the burned-in karaoke sheet (contact sheets per ASR segment + gap check frames); timing = faster-whisper large-v3-turbo word stream; tempo = house spectral-flux tool",
+ "projects": [
+  {
+   "project": "MV-25_turkeys-not-the-only-one",
+   "title": "Turkey's Not the Only One",
+   "status": "intake_complete",
+   "track_mp4_md5": "aca7884fa9e40ba5ae254ed52ea6a6c7",
+   "track_mp3_md5": "78a183ba407b2a3541b0a120cec1650b",
+   "duration_s": 196.0,
+   "lyric_lines": 60,
+   "section_tags": 10,
+   "sections": [
+    "[Intro]",
+    "[Verse 1]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Verse 2]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Breakdown]",
+    "[Final Chorus]",
+    "[Outro]"
+   ],
+   "asr_words": 279,
+   "first_word_s": 2.78,
+   "last_word_end_s": 190.56,
+   "tempo_bpm": 122.5,
+   "timeline_matches": {
+    "confirmed": 59,
+    "inferred": 1,
+    "unmatched": 0
+   },
+   "uncertainty_notes": 2,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 1519
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 5195
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1155
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 1063
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 23542
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 34773
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 4278244
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 1335
+    }
+   }
+  },
+  {
+   "project": "MV-22_i-love-spaghetti",
+   "title": "I Love Spaghetti",
+   "status": "intake_complete",
+   "track_mp4_md5": "18cab906b1617da7f547cb768a1f6c1e",
+   "track_mp3_md5": "679b7b879cd9dd5043682b9bf028875b",
+   "duration_s": 174.4,
+   "lyric_lines": 63,
+   "section_tags": 10,
+   "sections": [
+    "[Intro]",
+    "[Verse 1]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Verse 2]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Breakdown]",
+    "[Final Chorus]",
+    "[Outro]"
+   ],
+   "asr_words": 212,
+   "first_word_s": 3.38,
+   "last_word_end_s": 171.7,
+   "tempo_bpm": 122.5,
+   "timeline_matches": {
+    "confirmed": 53,
+    "inferred": 9,
+    "unmatched": 1
+   },
+   "uncertainty_notes": 6,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 1223
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 5027
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1152
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 1393
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 17904
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 26989
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 3992692
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 1203
+    }
+   }
+  },
+  {
+   "project": "MV-23_call-me-ranch",
+   "title": "Call Me Ranch",
+   "status": "intake_complete",
+   "track_mp4_md5": "76aa8c1de128457f018db27e9dd4e6f0",
+   "track_mp3_md5": "60bb99f90fab40eae76fc1dd6d94b1e4",
+   "duration_s": 176.8,
+   "lyric_lines": 70,
+   "section_tags": 11,
+   "sections": [
+    "[Intro]",
+    "[Outro]",
+    "[Verse 1]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Verse 2]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Breakdown]",
+    "[Final Chorus]",
+    "[Outro]"
+   ],
+   "asr_words": 365,
+   "first_word_s": 0.0,
+   "last_word_end_s": 176.72,
+   "tempo_bpm": 100.0,
+   "timeline_matches": {
+    "confirmed": 48,
+    "inferred": 19,
+    "unmatched": 3
+   },
+   "uncertainty_notes": 7,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 1900
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 6075
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1151
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 1586
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 30664
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 43036
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 3917668
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 1224
+    }
+   }
+  },
+  {
+   "project": "MV-26_gotta-poop",
+   "title": "Gotta Poop",
+   "status": "intake_complete",
+   "track_mp4_md5": "ca8b0f6fac6fab33b4eaf20de7c7eebf",
+   "track_mp3_md5": "550bd9d767e6d0637fb77757f180838f",
+   "duration_s": 119.616,
+   "lyric_lines": 41,
+   "section_tags": 0,
+   "sections": [],
+   "asr_words": 174,
+   "first_word_s": 6.14,
+   "last_word_end_s": 118.58,
+   "tempo_bpm": 127.0,
+   "timeline_matches": {
+    "confirmed": 11,
+    "inferred": 12,
+    "unmatched": 18
+   },
+   "uncertainty_notes": 21,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 867
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 2652
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1051
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 2149
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 14772
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 20536
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 2788660
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 914
+    }
+   }
+  },
+  {
+   "project": "MV-24_the-jelqer",
+   "title": "The Jelqer",
+   "status": "intake_complete",
+   "track_mp4_md5": "c583f7239c02b4bacca5cf74f88cb276",
+   "track_mp3_md5": "c4c4c3f97ae58343328f574f87ec0235",
+   "duration_s": 166.4,
+   "lyric_lines": 19,
+   "section_tags": 0,
+   "sections": [],
+   "asr_words": 156,
+   "first_word_s": 3.7,
+   "last_word_end_s": 158.9,
+   "tempo_bpm": 153.0,
+   "timeline_matches": {
+    "confirmed": 8,
+    "inferred": 10,
+    "unmatched": 1
+   },
+   "uncertainty_notes": 3,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 700
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 1676
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1055
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 1292
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 13134
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 18296
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 4054444
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 1177
+    }
+   }
+  },
+  {
+   "project": "MV-27_wubu",
+   "title": "WuBu",
+   "status": "intake_complete",
+   "track_mp4_md5": "cb32b18ca750f4b2ee1499e3b933d1bf",
+   "track_mp3_md5": "70ddd3b4cf77bcdea2cd5d06b18360f7",
+   "duration_s": 252.01,
+   "lyric_lines": 73,
+   "section_tags": 11,
+   "sections": [
+    "[Intro]",
+    "[Chorus]",
+    "[Verse 1]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Verse 2]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Breakdown]",
+    "[Final Chorus]",
+    "[Outro]"
+   ],
+   "asr_words": 362,
+   "first_word_s": 6.34,
+   "last_word_end_s": 248.36,
+   "tempo_bpm": 127.0,
+   "timeline_matches": {
+    "confirmed": 26,
+    "inferred": 10,
+    "unmatched": 37
+   },
+   "uncertainty_notes": 41,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 1841
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 6029
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1159
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 3437
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 30529
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 44010
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 5789716
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 1623
+    }
+   }
+  },
+  {
+   "project": "MV-28_pull-me-into-your-orbit",
+   "title": "Pull Me Into Your Orbit",
+   "status": "intake_complete",
+   "track_mp4_md5": "ad0756bea9007f044200ac7efb206afb",
+   "track_mp3_md5": "2ce8af1488cad63b53c85ea39bf89984",
+   "duration_s": 240.0,
+   "lyric_lines": 40,
+   "section_tags": 9,
+   "sections": [
+    "[Verse 1]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Verse 2]",
+    "[Pre-Chorus]",
+    "[Chorus]",
+    "[Bridge]",
+    "[Final Chorus]",
+    "[Outro]"
+   ],
+   "asr_words": 280,
+   "first_word_s": 29.66,
+   "last_word_end_s": 232.3,
+   "tempo_bpm": 141.5,
+   "timeline_matches": {
+    "confirmed": 28,
+    "inferred": 7,
+    "unmatched": 5
+   },
+   "uncertainty_notes": 11,
+   "files": {
+    "lyrics.txt": {
+     "exists": true,
+     "bytes": 1420
+    },
+    "LYRIC_TIMELINE.md": {
+     "exists": true,
+     "bytes": 4029
+    },
+    "AUDIO_ANALYSIS.md": {
+     "exists": true,
+     "bytes": 1139
+    },
+    "INTAKE.md": {
+     "exists": true,
+     "bytes": 2005
+    },
+    "SONG_WORDS.json": {
+     "exists": true,
+     "bytes": 23671
+    },
+    "asr_words.json": {
+     "exists": true,
+     "bytes": 33842
+    },
+    "track.mp3": {
+     "exists": true,
+     "bytes": 5370100
+    },
+    "analysis/tempo_energy_raw.json": {
+     "exists": true,
+     "bytes": 1566
+    }
+   }
+  }
+ ]
+}

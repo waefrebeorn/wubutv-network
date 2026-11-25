@@ -1,0 +1,151 @@
+{
+ "take": "takes/mv17_s05_t1.mp4",
+ "words": [
+  {
+   "w": "Now",
+   "start": 0.82,
+   "end": 1.2,
+   "p": 0.66
+  },
+  {
+   "w": "I'm",
+   "start": 1.2,
+   "end": 1.5,
+   "p": 0.949
+  },
+  {
+   "w": "sitting",
+   "start": 1.5,
+   "end": 1.94,
+   "p": 0.996
+  },
+  {
+   "w": "on",
+   "start": 1.94,
+   "end": 2.4,
+   "p": 0.998
+  },
+  {
+   "w": "the",
+   "start": 2.4,
+   "end": 2.56,
+   "p": 0.999
+  },
+  {
+   "w": "floor",
+   "start": 2.56,
+   "end": 3.0,
+   "p": 0.999
+  },
+  {
+   "w": "with",
+   "start": 3.0,
+   "end": 3.48,
+   "p": 0.885
+  },
+  {
+   "w": "the",
+   "start": 3.48,
+   "end": 3.68,
+   "p": 0.988
+  },
+  {
+   "w": "door",
+   "start": 3.68,
+   "end": 4.02,
+   "p": 0.999
+  },
+  {
+   "w": "cracked",
+   "start": 4.02,
+   "end": 4.48,
+   "p": 0.998
+  },
+  {
+   "w": "open",
+   "start": 4.48,
+   "end": 5.08,
+   "p": 0.998
+  },
+  {
+   "w": "Now",
+   "start": 5.64,
+   "end": 6.02,
+   "p": 0.524
+  },
+  {
+   "w": "I'm",
+   "start": 6.02,
+   "end": 6.28,
+   "p": 0.993
+  },
+  {
+   "w": "sitting",
+   "start": 6.28,
+   "end": 6.64,
+   "p": 0.999
+  },
+  {
+   "w": "on",
+   "start": 6.64,
+   "end": 7.04,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 7.04,
+   "end": 7.2,
+   "p": 0.999
+  },
+  {
+   "w": "floor",
+   "start": 7.2,
+   "end": 7.56,
+   "p": 0.999
+  },
+  {
+   "w": "with",
+   "start": 7.56,
+   "end": 7.92,
+   "p": 0.996
+  },
+  {
+   "w": "the",
+   "start": 7.92,
+   "end": 8.08,
+   "p": 0.997
+  },
+  {
+   "w": "door",
+   "start": 8.08,
+   "end": 8.4,
+   "p": 0.999
+  },
+  {
+   "w": "cracked",
+   "start": 8.4,
+   "end": 8.8,
+   "p": 0.998
+  },
+  {
+   "w": "open",
+   "start": 8.8,
+   "end": 9.36,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.96,
+   "end": 5.08,
+   "text": "Now I'm sitting on the floor with the door cracked open",
+   "avg_logprob": -0.171
+  },
+  {
+   "start": 5.84,
+   "end": 9.36,
+   "text": "Now I'm sitting on the floor with the door cracked open",
+   "avg_logprob": -0.171
+  }
+ ]
+}

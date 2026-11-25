@@ -1,0 +1,25 @@
+segment S1.0 built: 254f md5 a4dc3366e1ec5a30db1e46dd555f7bb3
+segment S2.0 built: 255f md5 90c4f9cc2428215d4eb7d68ed839d3f1
+segment S3.0 built: 254f md5 f218af8715eabfeb57bc8904566a1e30
+segment S4.0 built: 255f md5 e5ec0d315b4f74f9db674becf450d543
+segment S5.0 built: 254f md5 8c356b76497cf870de013a53adde6b80
+segment S6.0 built: 252f md5 8d5ec1fba651e86b9c66ee793b4c7807
+segment S7.0 built: 144f md5 6cb20631ec23b2b15644644aaced67d7
+segment S8.0 built: 77f md5 07b22fb8eb5320f6fd7a6874bcb63bcd
+segment S9.0 built: 91f md5 9163874a06c6038cb3b7a793528d1153
+segment S10.0 built: 145f md5 04c6fc46d0884267a1b15ce3b6c30c35
+segment S11.0 built: 148f md5 1841bd35b4a8f91431e85dad7041dad8
+segment S12.0 built: 176f md5 53ace929f76936f3c3c73fb2bbdc9731
+segment S13.0 built: 210f md5 b4b1a5500f57767398f4e52c3368491b
+segment S14.0 built: 208f md5 82fe8adfceb70ec7af8fa014ba5d16b8
+segment S15.0 built: 117f md5 992b5784fb23211831906cd897f2e095
+segment S16.0 built: 151f md5 507ac96056be91eaf12d9bcb59c0df21
+segment S17.0 built: 193f md5 d1da05d347ae059f19e8a5c27dfb0221
+segment S18.0 built: 155f md5 42a940b4b7dd383d1487fccb77b5d500
+segment S19.0 built: 151f md5 8e9df7aad7b51eded42e180a7a5f67f3
+segment S20.0 built: 74f md5 3d262f5864e9903d3da7b1f1e3ee880c
+segment S21.0 built: 135f md5 a6c03398ac06ba62517d987cbd6ee323
+segment S22.0 built: 21f md5 0b9f54373784d2191d1a3da36d134619
+segment S22.1 built: 94f md5 4370e6b870a5a0538386948a548cc2e4
+segment S23.0 built: 180f md5 0ab886f19f5309be1bca50d10aa24d7f
+joined.mp4 built: total 3994f

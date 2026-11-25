@@ -1,0 +1,197 @@
+{
+ "seg": 12,
+ "scene": "S08",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s08-t2-desc-0-c0ae0d68-e18c-40f7-993c-21c2f3f19524.mp4",
+ "take_span": [
+  0.0,
+  9.31
+ ],
+ "song_span": [
+  38.5,
+  47.666666666666664
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  1.618,
+  0.914,
+  1.0,
+  5.8,
+  1.588,
+  0.481,
+  0.542,
+  1.0,
+  0.367,
+  1.2,
+  0.414,
+  2.0,
+  1.286,
+  0.422,
+  1.187,
+  0.947,
+  0.545,
+  0.896
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 2.0
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 1500.0,
+   "worst_anchor_drift_ms": 401.9
+  },
+  {
+   "round": 1,
+   "weight": 6000.0,
+   "worst_anchor_drift_ms": 400.6
+  },
+  {
+   "round": 2,
+   "weight": 24000.0,
+   "worst_anchor_drift_ms": 400.2
+  },
+  {
+   "round": 3,
+   "weight": 96000.0,
+   "worst_anchor_drift_ms": 400.0
+  }
+ ],
+ "penalty_extra_words": 1,
+ "worst_word_drift": {
+  "word": "Stock",
+  "song_onset": 41.14,
+  "take_onset": 2.02,
+  "carried": false,
+  "drift_ms": 400.0
+ },
+ "word_drifts": [
+  {
+   "word": "Jensen's",
+   "song_onset": 40.28,
+   "take_onset": 1.1,
+   "carried": false,
+   "drift_ms": 0.2
+  },
+  {
+   "word": "back",
+   "song_onset": 40.92,
+   "take_onset": 1.8,
+   "carried": false,
+   "drift_ms": 180.0
+  },
+  {
+   "word": "Stock",
+   "song_onset": 41.14,
+   "take_onset": 2.02,
+   "carried": false,
+   "drift_ms": 400.0
+  },
+  {
+   "word": "goes",
+   "song_onset": 42.3,
+   "take_onset": 2.22,
+   "carried": false,
+   "drift_ms": -360.0
+  },
+  {
+   "word": "up,",
+   "song_onset": 42.84,
+   "take_onset": 2.56,
+   "carried": false,
+   "drift_ms": -220.0
+  },
+  {
+   "word": "don't",
+   "song_onset": 43.1,
+   "take_onset": 3.1,
+   "carried": false,
+   "drift_ms": -0.4
+  },
+  {
+   "word": "look",
+   "song_onset": 43.36,
+   "take_onset": 3.58,
+   "carried": false,
+   "drift_ms": -0.4
+  },
+  {
+   "word": "back",
+   "song_onset": 43.52,
+   "take_onset": 3.74,
+   "carried": false,
+   "drift_ms": -64.9
+  },
+  {
+   "word": "Jensen's",
+   "song_onset": 43.88,
+   "take_onset": 4.72,
+   "carried": false,
+   "drift_ms": 65.1
+  },
+  {
+   "word": "back",
+   "song_onset": 44.72,
+   "take_onset": 5.42,
+   "carried": false,
+   "drift_ms": -25.0
+  },
+  {
+   "word": "Hear",
+   "song_onset": 44.96,
+   "take_onset": 6.0,
+   "carried": false,
+   "drift_ms": 25.0
+  },
+  {
+   "word": "that",
+   "song_onset": 45.28,
+   "take_onset": 6.16,
+   "carried": false,
+   "drift_ms": -0.1
+  },
+  {
+   "word": "name,",
+   "song_onset": 45.64,
+   "take_onset": 6.44,
+   "carried": false,
+   "drift_ms": -35.0
+  },
+  {
+   "word": "30",
+   "song_onset": 46.02,
+   "take_onset": 7.34,
+   "carried": false,
+   "drift_ms": 35.0
+  },
+  {
+   "word": "%",
+   "song_onset": 46.4,
+   "take_onset": 7.66,
+   "carried": false,
+   "drift_ms": 0.1
+  },
+  {
+   "word": "not",
+   "song_onset": 46.76,
+   "take_onset": 8.04,
+   "carried": false,
+   "drift_ms": 0.0
+  },
+  {
+   "word": "the",
+   "song_onset": 47.12,
+   "take_onset": 8.7,
+   "carried": false,
+   "drift_ms": -0.0
+  },
+  {
+   "word": "same",
+   "song_onset": 47.28,
+   "take_onset": 8.9,
+   "carried": false,
+   "drift_ms": 18.6
+  }
+ ]
+}

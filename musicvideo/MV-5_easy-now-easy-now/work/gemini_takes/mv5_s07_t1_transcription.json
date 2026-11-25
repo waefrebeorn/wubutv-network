@@ -1,0 +1,136 @@
+{
+  "file": "mv5_s07_t1.wav",
+  "kind": "Take",
+  "totalWords": 20,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "Slow",
+      "start": 0.1,
+      "end": 0.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "down,",
+      "start": 0.6,
+      "end": 1.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "take",
+      "start": 1.4,
+      "end": 1.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "your",
+      "start": 1.8,
+      "end": 2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "time.",
+      "start": 2,
+      "end": 3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "Let",
+      "start": 3.1,
+      "end": 3.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 3.4,
+      "end": 3.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "hard",
+      "start": 3.6,
+      "end": 4.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "week",
+      "start": 4.1,
+      "end": 4.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "fade.",
+      "start": 4.4,
+      "end": 5.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "One",
+      "start": 5.2,
+      "end": 5.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "small",
+      "start": 5.6,
+      "end": 6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "look",
+      "start": 6,
+      "end": 6.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "from",
+      "start": 6.2,
+      "end": 6.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "you",
+      "start": 6.5,
+      "end": 7.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "and",
+      "start": 7.5,
+      "end": 7.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "my",
+      "start": 7.7,
+      "end": 7.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "whole",
+      "start": 7.9,
+      "end": 8.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "head",
+      "start": 8.5,
+      "end": 8.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "replays.",
+      "start": 8.8,
+      "end": 10,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.1,
+      "end": 10,
+      "text": "Slow down, take your time. Let the hard week fade. One small look from you and my whole head replays."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s32-t1-0-0523a013-c07c-4046-9519-d76a66c92ce0.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.24,
+   "text": "and give it back with a title.",
+   "avg_logprob": -0.145,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " and",
+     "start": 0.0,
+     "end": 0.62,
+     "probability": 0.909
+    },
+    {
+     "word": " give",
+     "start": 0.62,
+     "end": 0.8,
+     "probability": 0.997
+    },
+    {
+     "word": " it",
+     "start": 0.8,
+     "end": 0.92,
+     "probability": 0.999
+    },
+    {
+     "word": " back",
+     "start": 0.92,
+     "end": 1.26,
+     "probability": 1.0
+    },
+    {
+     "word": " with",
+     "start": 1.26,
+     "end": 1.78,
+     "probability": 0.973
+    },
+    {
+     "word": " a",
+     "start": 1.78,
+     "end": 1.92,
+     "probability": 0.996
+    },
+    {
+     "word": " title.",
+     "start": 1.92,
+     "end": 2.24,
+     "probability": 0.998
+    }
+   ]
+  }
+ ]
+}

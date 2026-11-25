@@ -1,0 +1,76 @@
+{
+ "track": "work/otaku_qc/U26_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 10,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.34,
+   "prob": 0.847
+  },
+  {
+   "word": "got",
+   "start": 0.34,
+   "end": 0.52,
+   "prob": 0.965
+  },
+  {
+   "word": "a",
+   "start": 0.52,
+   "end": 0.72,
+   "prob": 0.961
+  },
+  {
+   "word": "thousand",
+   "start": 0.72,
+   "end": 1.24,
+   "prob": 0.99
+  },
+  {
+   "word": "little",
+   "start": 1.24,
+   "end": 1.76,
+   "prob": 0.996
+  },
+  {
+   "word": "sparks",
+   "start": 1.76,
+   "end": 2.5,
+   "prob": 0.997
+  },
+  {
+   "word": "flicking",
+   "start": 2.5,
+   "end": 3.58,
+   "prob": 0.87
+  },
+  {
+   "word": "in",
+   "start": 3.58,
+   "end": 3.86,
+   "prob": 0.998
+  },
+  {
+   "word": "the",
+   "start": 3.86,
+   "end": 4.02,
+   "prob": 0.999
+  },
+  {
+   "word": "dark.",
+   "start": 4.02,
+   "end": 4.5,
+   "prob": 0.997
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.5,
+   "text": "I got a thousand little sparks flicking in the dark."
+  }
+ ]
+}

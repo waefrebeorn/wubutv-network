@@ -1,0 +1,56 @@
+{
+ "seg": 14,
+ "scene": "S10",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s10-t1-desc-0-5ed47b40-e35d-4e8c-9dc6-06604473c88c.mp4",
+ "take_span": [
+  0.62,
+  3.956
+ ],
+ "song_span": [
+  56.416666666666664,
+  60.416666666666664
+ ],
+ "method": "chunk (already in cap)",
+ "chunk_ratios": [
+  1.882,
+  0.65,
+  1.348
+ ],
+ "capped": {
+  "ratio_min": 0.65,
+  "ratio_max": 1.8822
+ },
+ "qp_rounds": [],
+ "penalty_extra_words": 3,
+ "worst_word_drift": {
+  "word": "the",
+  "song_onset": 59.52,
+  "take_onset": 3.18,
+  "carried": false,
+  "drift_ms": -10.0
+ },
+ "word_drifts": [
+  {
+   "word": "He's",
+   "song_onset": 58.6,
+   "take_onset": 1.78,
+   "carried": false,
+   "drift_ms": -3.0
+  },
+  {
+   "word": "the",
+   "song_onset": 59.52,
+   "take_onset": 3.18,
+   "carried": false,
+   "drift_ms": -10.0
+  },
+  {
+   "word": "line",
+   "song_onset": 59.64,
+   "take_onset": 3.38,
+   "carried": false,
+   "drift_ms": 1.8
+  }
+ ]
+}

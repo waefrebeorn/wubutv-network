@@ -1,0 +1,287 @@
+{
+ "stem": "fc",
+ "offset": 179.0,
+ "model": "large-v3-turbo",
+ "n_words": 37,
+ "words": [
+  {
+   "word": "Sell",
+   "start": 179.76,
+   "end": 180.44,
+   "prob": 0.507
+  },
+  {
+   "word": "the",
+   "start": 180.44,
+   "end": 180.58,
+   "prob": 0.974
+  },
+  {
+   "word": "lemons,",
+   "start": 180.58,
+   "end": 180.96,
+   "prob": 0.815
+  },
+  {
+   "word": "sell",
+   "start": 181.26,
+   "end": 181.86,
+   "prob": 0.567
+  },
+  {
+   "word": "the",
+   "start": 181.86,
+   "end": 182.14,
+   "prob": 0.99
+  },
+  {
+   "word": "lemons.",
+   "start": 182.14,
+   "end": 182.64,
+   "prob": 0.985
+  },
+  {
+   "word": "Click,",
+   "start": 182.78,
+   "end": 183.02,
+   "prob": 0.531
+  },
+  {
+   "word": "upgrade,",
+   "start": 183.22,
+   "end": 183.6,
+   "prob": 0.99
+  },
+  {
+   "word": "sell.",
+   "start": 183.82,
+   "end": 184.04,
+   "prob": 0.864
+  },
+  {
+   "word": "Don't",
+   "start": 184.22,
+   "end": 184.5,
+   "prob": 0.983
+  },
+  {
+   "word": "stop",
+   "start": 184.5,
+   "end": 184.8,
+   "prob": 0.989
+  },
+  {
+   "word": "the",
+   "start": 184.8,
+   "end": 185.08,
+   "prob": 0.915
+  },
+  {
+   "word": "play.",
+   "start": 185.08,
+   "end": 185.48,
+   "prob": 0.626
+  },
+  {
+   "word": "Sell",
+   "start": 187.96,
+   "end": 188.24,
+   "prob": 0.99
+  },
+  {
+   "word": "the",
+   "start": 188.24,
+   "end": 188.48,
+   "prob": 0.998
+  },
+  {
+   "word": "lemon.",
+   "start": 188.48,
+   "end": 188.82,
+   "prob": 0.004
+  },
+  {
+   "word": "Sell",
+   "start": 189.48,
+   "end": 189.74,
+   "prob": 0.979
+  },
+  {
+   "word": "the",
+   "start": 189.74,
+   "end": 190.0,
+   "prob": 0.993
+  },
+  {
+   "word": "lemons.",
+   "start": 190.0,
+   "end": 190.42,
+   "prob": 0.393
+  },
+  {
+   "word": "Make",
+   "start": 191.14,
+   "end": 191.42,
+   "prob": 0.08
+  },
+  {
+   "word": "your",
+   "start": 191.42,
+   "end": 191.64,
+   "prob": 0.63
+  },
+  {
+   "word": "name.",
+   "start": 191.64,
+   "end": 191.74,
+   "prob": 0.229
+  },
+  {
+   "word": "Sell",
+   "start": 192.7,
+   "end": 193.0,
+   "prob": 0.996
+  },
+  {
+   "word": "the",
+   "start": 193.0,
+   "end": 193.14,
+   "prob": 0.994
+  },
+  {
+   "word": "Lemons.",
+   "start": 193.14,
+   "end": 194.54,
+   "prob": 0.5
+  },
+  {
+   "word": "Never",
+   "start": 194.9,
+   "end": 195.58,
+   "prob": 0.278
+  },
+  {
+   "word": "gonna",
+   "start": 195.58,
+   "end": 196.64,
+   "prob": 0.966
+  },
+  {
+   "word": "stop.",
+   "start": 196.64,
+   "end": 198.02,
+   "prob": 0.975
+  },
+  {
+   "word": "Sell",
+   "start": 199.96,
+   "end": 200.64,
+   "prob": 0.999
+  },
+  {
+   "word": "the",
+   "start": 200.64,
+   "end": 200.94,
+   "prob": 0.999
+  },
+  {
+   "word": "limits.",
+   "start": 200.94,
+   "end": 201.44,
+   "prob": 0.001
+  },
+  {
+   "word": "Sell",
+   "start": 203.1,
+   "end": 203.7,
+   "prob": 0.961
+  },
+  {
+   "word": "the",
+   "start": 203.7,
+   "end": 204.08,
+   "prob": 0.999
+  },
+  {
+   "word": "elements.",
+   "start": 204.08,
+   "end": 204.54,
+   "prob": 0.001
+  },
+  {
+   "word": "Sell",
+   "start": 212.44,
+   "end": 213.14,
+   "prob": 0.763
+  },
+  {
+   "word": "the",
+   "start": 213.14,
+   "end": 213.46,
+   "prob": 0.982
+  },
+  {
+   "word": "lemons.",
+   "start": 213.46,
+   "end": 213.84,
+   "prob": 0.888
+  }
+ ],
+ "segments": [
+  {
+   "start": 179.76,
+   "end": 182.64,
+   "text": "Sell the lemons, sell the lemons."
+  },
+  {
+   "start": 182.78,
+   "end": 184.04,
+   "text": "Click, upgrade, sell."
+  },
+  {
+   "start": 184.22,
+   "end": 185.48,
+   "text": "Don't stop the play."
+  },
+  {
+   "start": 187.96,
+   "end": 188.82,
+   "text": "Sell the lemon."
+  },
+  {
+   "start": 189.48,
+   "end": 190.42,
+   "text": "Sell the lemons."
+  },
+  {
+   "start": 191.14,
+   "end": 191.74,
+   "text": "Make your name."
+  },
+  {
+   "start": 192.7,
+   "end": 194.54,
+   "text": "Sell the Lemons."
+  },
+  {
+   "start": 194.9,
+   "end": 198.02,
+   "text": "Never gonna stop."
+  },
+  {
+   "start": 199.96,
+   "end": 201.44,
+   "text": "Sell the limits."
+  },
+  {
+   "start": 203.1,
+   "end": 204.54,
+   "text": "Sell the elements."
+  },
+  {
+   "start": 212.44,
+   "end": 213.84,
+   "text": "Sell the lemons."
+  }
+ ]
+}

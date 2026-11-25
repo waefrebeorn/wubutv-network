@@ -1,0 +1,290 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: V6Line,DejaVu Sans,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.66,0:00:29.80,V6Line,,0,0,0,,{\1c&H0000FFFF&}Let's{\1c&H00FFFFFF&} get started
+Dialogue: 0,0:00:29.80,0:00:29.82,V6Line,,0,0,0,,Let's {\1c&H0000FFFF&}get{\1c&H00FFFFFF&} started
+Dialogue: 0,0:00:29.82,0:00:30.64,V6Line,,0,0,0,,Let's get {\1c&H0000FFFF&}started{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:30.64,0:00:31.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}You{\1c&H00FFFFFF&} set your glass beside the phone
+Dialogue: 0,0:00:31.40,0:00:31.72,V6Line,,0,0,0,,You {\1c&H0000FFFF&}set{\1c&H00FFFFFF&} your glass beside the phone
+Dialogue: 0,0:00:31.72,0:00:31.88,V6Line,,0,0,0,,You set {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} glass beside the phone
+Dialogue: 0,0:00:31.88,0:00:32.36,V6Line,,0,0,0,,You set your {\1c&H0000FFFF&}glass{\1c&H00FFFFFF&} beside the phone
+Dialogue: 0,0:00:32.36,0:00:32.88,V6Line,,0,0,0,,You set your glass {\1c&H0000FFFF&}beside{\1c&H00FFFFFF&} the phone
+Dialogue: 0,0:00:32.88,0:00:33.46,V6Line,,0,0,0,,You set your glass beside {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} phone
+Dialogue: 0,0:00:33.46,0:00:34.31,V6Line,,0,0,0,,You set your glass beside the {\1c&H0000FFFF&}phone{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:34.06,0:00:34.92,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} take the long way past your door
+Dialogue: 0,0:00:34.92,0:00:35.20,V6Line,,0,0,0,,I {\1c&H0000FFFF&}take{\1c&H00FFFFFF&} the long way past your door
+Dialogue: 0,0:00:35.20,0:00:35.42,V6Line,,0,0,0,,I take {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} long way past your door
+Dialogue: 0,0:00:35.42,0:00:35.78,V6Line,,0,0,0,,I take the {\1c&H0000FFFF&}long{\1c&H00FFFFFF&} way past your door
+Dialogue: 0,0:00:35.78,0:00:36.18,V6Line,,0,0,0,,I take the long {\1c&H0000FFFF&}way{\1c&H00FFFFFF&} past your door
+Dialogue: 0,0:00:36.18,0:00:36.68,V6Line,,0,0,0,,I take the long way {\1c&H0000FFFF&}past{\1c&H00FFFFFF&} your door
+Dialogue: 0,0:00:36.68,0:00:36.98,V6Line,,0,0,0,,I take the long way past {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} door
+Dialogue: 0,0:00:36.98,0:00:37.73,V6Line,,0,0,0,,I take the long way past your {\1c&H0000FFFF&}door{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:37.48,0:00:38.48,V6Line,,0,0,0,,{\1c&H0000FFFF&}A{\1c&H00FFFFFF&} little smile a raised eyebrow
+Dialogue: 0,0:00:38.48,0:00:38.72,V6Line,,0,0,0,,A {\1c&H0000FFFF&}little{\1c&H00FFFFFF&} smile a raised eyebrow
+Dialogue: 0,0:00:38.72,0:00:39.78,V6Line,,0,0,0,,A little {\1c&H0000FFFF&}smile{\1c&H00FFFFFF&} a raised eyebrow
+Dialogue: 0,0:00:39.78,0:00:39.92,V6Line,,0,0,0,,A little smile {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} raised eyebrow
+Dialogue: 0,0:00:39.92,0:00:40.20,V6Line,,0,0,0,,A little smile a {\1c&H0000FFFF&}raised{\1c&H00FFFFFF&} eyebrow
+Dialogue: 0,0:00:40.20,0:00:41.01,V6Line,,0,0,0,,A little smile a raised {\1c&H0000FFFF&}eyebrow{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:40.76,0:00:41.96,V6Line,,0,0,0,,{\1c&H0000FFFF&}We{\1c&H00FFFFFF&} both know what we're waiting for
+Dialogue: 0,0:00:41.96,0:00:42.24,V6Line,,0,0,0,,We {\1c&H0000FFFF&}both{\1c&H00FFFFFF&} know what we're waiting for
+Dialogue: 0,0:00:42.24,0:00:42.46,V6Line,,0,0,0,,We both {\1c&H0000FFFF&}know{\1c&H00FFFFFF&} what we're waiting for
+Dialogue: 0,0:00:42.46,0:00:42.72,V6Line,,0,0,0,,We both know {\1c&H0000FFFF&}what{\1c&H00FFFFFF&} we're waiting for
+Dialogue: 0,0:00:42.72,0:00:43.20,V6Line,,0,0,0,,We both know what {\1c&H0000FFFF&}we're{\1c&H00FFFFFF&} waiting for
+Dialogue: 0,0:00:43.20,0:00:43.84,V6Line,,0,0,0,,We both know what we're {\1c&H0000FFFF&}waiting{\1c&H00FFFFFF&} for
+Dialogue: 0,0:00:43.84,0:00:44.59,V6Line,,0,0,0,,We both know what we're waiting {\1c&H0000FFFF&}for{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:44.34,0:00:45.18,V6Line,,0,0,0,,{\1c&H0000FFFF&}Come{\1c&H00FFFFFF&} a little closer let the whole room turn
+Dialogue: 0,0:00:45.18,0:00:45.56,V6Line,,0,0,0,,Come {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} little closer let the whole room turn
+Dialogue: 0,0:00:45.56,0:00:45.88,V6Line,,0,0,0,,Come a {\1c&H0000FFFF&}little{\1c&H00FFFFFF&} closer let the whole room turn
+Dialogue: 0,0:00:45.88,0:00:46.32,V6Line,,0,0,0,,Come a little {\1c&H0000FFFF&}closer{\1c&H00FFFFFF&} let the whole room turn
+Dialogue: 0,0:00:46.32,0:00:46.68,V6Line,,0,0,0,,Come a little closer {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} the whole room turn
+Dialogue: 0,0:00:46.68,0:00:46.82,V6Line,,0,0,0,,Come a little closer let {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} whole room turn
+Dialogue: 0,0:00:46.82,0:00:47.22,V6Line,,0,0,0,,Come a little closer let the {\1c&H0000FFFF&}whole{\1c&H00FFFFFF&} room turn
+Dialogue: 0,0:00:47.22,0:00:47.66,V6Line,,0,0,0,,Come a little closer let the whole {\1c&H0000FFFF&}room{\1c&H00FFFFFF&} turn
+Dialogue: 0,0:00:47.66,0:00:48.35,V6Line,,0,0,0,,Come a little closer let the whole room {\1c&H0000FFFF&}turn{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:48.10,0:00:48.35,V6Line,,0,0,0,,{\1c&H0000FFFF&}Say{\1c&H00FFFFFF&} it with your eyes and let me make you burn
+Dialogue: 0,0:00:48.35,0:00:48.60,V6Line,,0,0,0,,Say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} with your eyes and let me make you burn
+Dialogue: 0,0:00:48.60,0:00:48.85,V6Line,,0,0,0,,Say it {\1c&H0000FFFF&}with{\1c&H00FFFFFF&} your eyes and let me make you burn
+Dialogue: 0,0:00:48.85,0:00:49.11,V6Line,,0,0,0,,Say it with {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} eyes and let me make you burn
+Dialogue: 0,0:00:49.11,0:00:49.36,V6Line,,0,0,0,,Say it with your {\1c&H0000FFFF&}eyes{\1c&H00FFFFFF&} and let me make you burn
+Dialogue: 0,0:00:49.36,0:00:49.61,V6Line,,0,0,0,,Say it with your eyes {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} let me make you burn
+Dialogue: 0,0:00:49.61,0:00:49.86,V6Line,,0,0,0,,Say it with your eyes and {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} me make you burn
+Dialogue: 0,0:00:49.86,0:00:50.11,V6Line,,0,0,0,,Say it with your eyes and let {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} make you burn
+Dialogue: 0,0:00:50.11,0:00:50.62,V6Line,,0,0,0,,Say it with your eyes and let me {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} you burn
+Dialogue: 0,0:00:50.62,0:00:50.87,V6Line,,0,0,0,,Say it with your eyes and let me make {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} burn
+Dialogue: 0,0:00:50.87,0:00:52.86,V6Line,,0,0,0,,Say it with your eyes and let me make you {\1c&H0000FFFF&}burn{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:52.86,0:00:53.10,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:00:53.10,0:00:53.34,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:00:53.34,0:00:53.82,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:00:53.82,0:00:54.06,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:00:54.06,0:00:55.16,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:55.16,0:00:56.18,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} me right where the sparks begin
+Dialogue: 0,0:00:56.18,0:00:56.44,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} right where the sparks begin
+Dialogue: 0,0:00:56.44,0:00:56.78,V6Line,,0,0,0,,Keep me {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} where the sparks begin
+Dialogue: 0,0:00:56.78,0:00:57.08,V6Line,,0,0,0,,Keep me right {\1c&H0000FFFF&}where{\1c&H00FFFFFF&} the sparks begin
+Dialogue: 0,0:00:57.08,0:00:57.32,V6Line,,0,0,0,,Keep me right where {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} sparks begin
+Dialogue: 0,0:00:57.32,0:00:57.74,V6Line,,0,0,0,,Keep me right where the {\1c&H0000FFFF&}sparks{\1c&H00FFFFFF&} begin
+Dialogue: 0,0:00:57.74,0:00:59.62,V6Line,,0,0,0,,Keep me right where the sparks {\1c&H0000FFFF&}begin{\1c&H00FFFFFF&}
+Dialogue: 0,0:00:59.62,0:01:00.62,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:01:00.62,0:01:00.90,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:01:00.90,0:01:01.24,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:01:01.24,0:01:01.52,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:01:01.52,0:01:02.45,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:02.20,0:01:03.20,V6Line,,0,0,0,,{\1c&H0000FFFF&}Let{\1c&H00FFFFFF&} the night come rushing in
+Dialogue: 0,0:01:03.20,0:01:03.48,V6Line,,0,0,0,,Let {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} night come rushing in
+Dialogue: 0,0:01:03.48,0:01:03.80,V6Line,,0,0,0,,Let the {\1c&H0000FFFF&}night{\1c&H00FFFFFF&} come rushing in
+Dialogue: 0,0:01:03.80,0:01:04.32,V6Line,,0,0,0,,Let the night {\1c&H0000FFFF&}come{\1c&H00FFFFFF&} rushing in
+Dialogue: 0,0:01:04.32,0:01:04.92,V6Line,,0,0,0,,Let the night come {\1c&H0000FFFF&}rushing{\1c&H00FFFFFF&} in
+Dialogue: 0,0:01:04.92,0:01:05.95,V6Line,,0,0,0,,Let the night come rushing {\1c&H0000FFFF&}in{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:05.70,0:01:06.18,V6Line,,0,0,0,,{\1c&H0000FFFF&}You{\1c&H00FFFFFF&} know the way
+Dialogue: 0,0:01:06.18,0:01:06.60,V6Line,,0,0,0,,You {\1c&H0000FFFF&}know{\1c&H00FFFFFF&} the way
+Dialogue: 0,0:01:06.60,0:01:06.80,V6Line,,0,0,0,,You know {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way
+Dialogue: 0,0:01:06.80,0:01:07.33,V6Line,,0,0,0,,You know the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:07.08,0:01:07.52,V6Line,,0,0,0,,{\1c&H0000FFFF&}Show{\1c&H00FFFFFF&} us the way
+Dialogue: 0,0:01:07.52,0:01:07.96,V6Line,,0,0,0,,Show {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} the way
+Dialogue: 0,0:01:07.96,0:01:08.40,V6Line,,0,0,0,,Show us {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way
+Dialogue: 0,0:01:08.40,0:01:09.09,V6Line,,0,0,0,,Show us the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:08.84,0:01:09.16,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:01:09.16,0:01:09.49,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:01:09.49,0:01:10.13,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:01:10.13,0:01:10.45,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:01:10.45,0:01:11.35,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:11.10,0:01:12.64,V6Line,,0,0,0,,{\1c&H0000FFFF&}Don't{\1c&H00FFFFFF&} let go until the morning
+Dialogue: 0,0:01:12.64,0:01:12.88,V6Line,,0,0,0,,Don't {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} go until the morning
+Dialogue: 0,0:01:12.88,0:01:13.40,V6Line,,0,0,0,,Don't let {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} until the morning
+Dialogue: 0,0:01:13.40,0:01:14.40,V6Line,,0,0,0,,Don't let go {\1c&H0000FFFF&}until{\1c&H00FFFFFF&} the morning
+Dialogue: 0,0:01:14.40,0:01:14.88,V6Line,,0,0,0,,Don't let go until {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} morning
+Dialogue: 0,0:01:14.88,0:01:15.75,V6Line,,0,0,0,,Don't let go until the {\1c&H0000FFFF&}morning{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:15.50,0:01:16.18,V6Line,,0,0,0,,{\1c&H0000FFFF&}Don't{\1c&H00FFFFFF&} let go until the morning
+Dialogue: 0,0:01:16.18,0:01:16.38,V6Line,,0,0,0,,Don't {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} go until the morning
+Dialogue: 0,0:01:16.38,0:01:16.94,V6Line,,0,0,0,,Don't let {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} until the morning
+Dialogue: 0,0:01:16.94,0:01:17.54,V6Line,,0,0,0,,Don't let go {\1c&H0000FFFF&}until{\1c&H00FFFFFF&} the morning
+Dialogue: 0,0:01:17.54,0:01:18.30,V6Line,,0,0,0,,Don't let go until {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} morning
+Dialogue: 0,0:01:18.30,0:01:20.22,V6Line,,0,0,0,,Don't let go until the {\1c&H0000FFFF&}morning{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:37.00,0:01:37.94,V6Line,,0,0,0,,{\1c&H0000FFFF&}Your{\1c&H00FFFFFF&} jacket's hanging on my chair
+Dialogue: 0,0:01:37.94,0:01:38.54,V6Line,,0,0,0,,Your {\1c&H0000FFFF&}jacket's{\1c&H00FFFFFF&} hanging on my chair
+Dialogue: 0,0:01:38.54,0:01:38.98,V6Line,,0,0,0,,Your jacket's {\1c&H0000FFFF&}hanging{\1c&H00FFFFFF&} on my chair
+Dialogue: 0,0:01:38.98,0:01:39.44,V6Line,,0,0,0,,Your jacket's hanging {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} my chair
+Dialogue: 0,0:01:39.44,0:01:39.86,V6Line,,0,0,0,,Your jacket's hanging on {\1c&H0000FFFF&}my{\1c&H00FFFFFF&} chair
+Dialogue: 0,0:01:39.86,0:01:40.83,V6Line,,0,0,0,,Your jacket's hanging on my {\1c&H0000FFFF&}chair{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:40.58,0:01:41.46,V6Line,,0,0,0,,{\1c&H0000FFFF&}My{\1c&H00FFFFFF&} lipstick marks the porcelain
+Dialogue: 0,0:01:41.46,0:01:41.84,V6Line,,0,0,0,,My {\1c&H0000FFFF&}lipstick{\1c&H00FFFFFF&} marks the porcelain
+Dialogue: 0,0:01:41.84,0:01:42.52,V6Line,,0,0,0,,My lipstick {\1c&H0000FFFF&}marks{\1c&H00FFFFFF&} the porcelain
+Dialogue: 0,0:01:42.52,0:01:42.62,V6Line,,0,0,0,,My lipstick marks {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} porcelain
+Dialogue: 0,0:01:42.62,0:01:43.89,V6Line,,0,0,0,,My lipstick marks the {\1c&H0000FFFF&}porcelain{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:43.64,0:01:44.92,V6Line,,0,0,0,,{\1c&H0000FFFF&}You{\1c&H00FFFFFF&} tell a story lose your place
+Dialogue: 0,0:01:44.92,0:01:45.22,V6Line,,0,0,0,,You {\1c&H0000FFFF&}tell{\1c&H00FFFFFF&} a story lose your place
+Dialogue: 0,0:01:45.22,0:01:45.40,V6Line,,0,0,0,,You tell {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} story lose your place
+Dialogue: 0,0:01:45.40,0:01:46.28,V6Line,,0,0,0,,You tell a {\1c&H0000FFFF&}story{\1c&H00FFFFFF&} lose your place
+Dialogue: 0,0:01:46.28,0:01:46.76,V6Line,,0,0,0,,You tell a story {\1c&H0000FFFF&}lose{\1c&H00FFFFFF&} your place
+Dialogue: 0,0:01:46.76,0:01:47.04,V6Line,,0,0,0,,You tell a story lose {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} place
+Dialogue: 0,0:01:47.04,0:01:48.03,V6Line,,0,0,0,,You tell a story lose your {\1c&H0000FFFF&}place{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:47.78,0:01:48.60,V6Line,,0,0,0,,{\1c&H0000FFFF&}I{\1c&H00FFFFFF&} catch you looking once again
+Dialogue: 0,0:01:48.60,0:01:48.72,V6Line,,0,0,0,,I {\1c&H0000FFFF&}catch{\1c&H00FFFFFF&} you looking once again
+Dialogue: 0,0:01:48.72,0:01:48.92,V6Line,,0,0,0,,I catch {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} looking once again
+Dialogue: 0,0:01:48.92,0:01:49.58,V6Line,,0,0,0,,I catch you {\1c&H0000FFFF&}looking{\1c&H00FFFFFF&} once again
+Dialogue: 0,0:01:49.58,0:01:50.20,V6Line,,0,0,0,,I catch you looking {\1c&H0000FFFF&}once{\1c&H00FFFFFF&} again
+Dialogue: 0,0:01:50.20,0:01:51.15,V6Line,,0,0,0,,I catch you looking once {\1c&H0000FFFF&}again{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:50.90,0:01:51.60,V6Line,,0,0,0,,{\1c&H0000FFFF&}Come{\1c&H00FFFFFF&} a little closer let the whole room turn
+Dialogue: 0,0:01:51.60,0:01:51.98,V6Line,,0,0,0,,Come {\1c&H0000FFFF&}a{\1c&H00FFFFFF&} little closer let the whole room turn
+Dialogue: 0,0:01:51.98,0:01:52.30,V6Line,,0,0,0,,Come a {\1c&H0000FFFF&}little{\1c&H00FFFFFF&} closer let the whole room turn
+Dialogue: 0,0:01:52.30,0:01:52.64,V6Line,,0,0,0,,Come a little {\1c&H0000FFFF&}closer{\1c&H00FFFFFF&} let the whole room turn
+Dialogue: 0,0:01:52.64,0:01:53.10,V6Line,,0,0,0,,Come a little closer {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} the whole room turn
+Dialogue: 0,0:01:53.10,0:01:53.22,V6Line,,0,0,0,,Come a little closer let {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} whole room turn
+Dialogue: 0,0:01:53.22,0:01:53.62,V6Line,,0,0,0,,Come a little closer let the {\1c&H0000FFFF&}whole{\1c&H00FFFFFF&} room turn
+Dialogue: 0,0:01:53.62,0:01:54.06,V6Line,,0,0,0,,Come a little closer let the whole {\1c&H0000FFFF&}room{\1c&H00FFFFFF&} turn
+Dialogue: 0,0:01:54.06,0:01:54.73,V6Line,,0,0,0,,Come a little closer let the whole room {\1c&H0000FFFF&}turn{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:54.48,0:01:54.73,V6Line,,0,0,0,,{\1c&H0000FFFF&}Say{\1c&H00FFFFFF&} it with your eyes and let me make you burn
+Dialogue: 0,0:01:54.73,0:01:54.99,V6Line,,0,0,0,,Say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} with your eyes and let me make you burn
+Dialogue: 0,0:01:54.99,0:01:55.24,V6Line,,0,0,0,,Say it {\1c&H0000FFFF&}with{\1c&H00FFFFFF&} your eyes and let me make you burn
+Dialogue: 0,0:01:55.24,0:01:55.49,V6Line,,0,0,0,,Say it with {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} eyes and let me make you burn
+Dialogue: 0,0:01:55.49,0:01:55.75,V6Line,,0,0,0,,Say it with your {\1c&H0000FFFF&}eyes{\1c&H00FFFFFF&} and let me make you burn
+Dialogue: 0,0:01:55.75,0:01:56.00,V6Line,,0,0,0,,Say it with your eyes {\1c&H0000FFFF&}and{\1c&H00FFFFFF&} let me make you burn
+Dialogue: 0,0:01:56.00,0:01:56.25,V6Line,,0,0,0,,Say it with your eyes and {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} me make you burn
+Dialogue: 0,0:01:56.25,0:01:56.51,V6Line,,0,0,0,,Say it with your eyes and let {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} make you burn
+Dialogue: 0,0:01:56.51,0:01:57.01,V6Line,,0,0,0,,Say it with your eyes and let me {\1c&H0000FFFF&}make{\1c&H00FFFFFF&} you burn
+Dialogue: 0,0:01:57.01,0:01:57.27,V6Line,,0,0,0,,Say it with your eyes and let me make {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} burn
+Dialogue: 0,0:01:57.27,0:01:58.40,V6Line,,0,0,0,,Say it with your eyes and let me make you {\1c&H0000FFFF&}burn{\1c&H00FFFFFF&}
+Dialogue: 0,0:01:58.40,0:02:00.00,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:02:00.00,0:02:00.22,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:02:00.22,0:02:00.60,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:02:00.60,0:02:00.86,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:02:00.86,0:02:01.79,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:01.54,0:02:02.58,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} me right where the sparks begin
+Dialogue: 0,0:02:02.58,0:02:02.78,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} right where the sparks begin
+Dialogue: 0,0:02:02.78,0:02:03.10,V6Line,,0,0,0,,Keep me {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} where the sparks begin
+Dialogue: 0,0:02:03.10,0:02:03.38,V6Line,,0,0,0,,Keep me right {\1c&H0000FFFF&}where{\1c&H00FFFFFF&} the sparks begin
+Dialogue: 0,0:02:03.38,0:02:03.64,V6Line,,0,0,0,,Keep me right where {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} sparks begin
+Dialogue: 0,0:02:03.64,0:02:04.10,V6Line,,0,0,0,,Keep me right where the {\1c&H0000FFFF&}sparks{\1c&H00FFFFFF&} begin
+Dialogue: 0,0:02:04.10,0:02:06.18,V6Line,,0,0,0,,Keep me right where the sparks {\1c&H0000FFFF&}begin{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:06.18,0:02:06.94,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:02:06.94,0:02:07.22,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:02:07.22,0:02:07.56,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:02:07.56,0:02:07.80,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:02:07.80,0:02:08.73,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:08.48,0:02:09.50,V6Line,,0,0,0,,{\1c&H0000FFFF&}Let{\1c&H00FFFFFF&} the night come rushing in
+Dialogue: 0,0:02:09.50,0:02:09.80,V6Line,,0,0,0,,Let {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} night come rushing in
+Dialogue: 0,0:02:09.80,0:02:10.10,V6Line,,0,0,0,,Let the {\1c&H0000FFFF&}night{\1c&H00FFFFFF&} come rushing in
+Dialogue: 0,0:02:10.10,0:02:10.54,V6Line,,0,0,0,,Let the night {\1c&H0000FFFF&}come{\1c&H00FFFFFF&} rushing in
+Dialogue: 0,0:02:10.54,0:02:11.20,V6Line,,0,0,0,,Let the night come {\1c&H0000FFFF&}rushing{\1c&H00FFFFFF&} in
+Dialogue: 0,0:02:11.20,0:02:12.21,V6Line,,0,0,0,,Let the night come rushing {\1c&H0000FFFF&}in{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:11.96,0:02:12.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}You{\1c&H00FFFFFF&} know the way
+Dialogue: 0,0:02:12.40,0:02:12.82,V6Line,,0,0,0,,You {\1c&H0000FFFF&}know{\1c&H00FFFFFF&} the way
+Dialogue: 0,0:02:12.82,0:02:13.10,V6Line,,0,0,0,,You know {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way
+Dialogue: 0,0:02:13.10,0:02:13.59,V6Line,,0,0,0,,You know the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:13.54,0:02:13.84,V6Line,,0,0,0,,{\1c&H0000FFFF&}Show{\1c&H00FFFFFF&} us the way
+Dialogue: 0,0:02:13.84,0:02:14.48,V6Line,,0,0,0,,Show {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} the way
+Dialogue: 0,0:02:14.48,0:02:14.86,V6Line,,0,0,0,,Show us {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way
+Dialogue: 0,0:02:14.86,0:02:15.29,V6Line,,0,0,0,,Show us the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:15.04,0:02:15.44,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:02:15.44,0:02:15.85,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:02:15.85,0:02:16.65,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:02:16.65,0:02:17.05,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:02:17.05,0:02:18.11,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:17.86,0:02:18.92,V6Line,,0,0,0,,{\1c&H0000FFFF&}Don't{\1c&H00FFFFFF&} let go until the morning
+Dialogue: 0,0:02:18.92,0:02:19.12,V6Line,,0,0,0,,Don't {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} go until the morning
+Dialogue: 0,0:02:19.12,0:02:19.62,V6Line,,0,0,0,,Don't let {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} until the morning
+Dialogue: 0,0:02:19.62,0:02:20.52,V6Line,,0,0,0,,Don't let go {\1c&H0000FFFF&}until{\1c&H00FFFFFF&} the morning
+Dialogue: 0,0:02:20.52,0:02:21.14,V6Line,,0,0,0,,Don't let go until {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} morning
+Dialogue: 0,0:02:21.14,0:02:21.93,V6Line,,0,0,0,,Don't let go until the {\1c&H0000FFFF&}morning{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:21.68,0:02:22.38,V6Line,,0,0,0,,{\1c&H0000FFFF&}Don't{\1c&H00FFFFFF&} let go until the morning
+Dialogue: 0,0:02:22.38,0:02:22.58,V6Line,,0,0,0,,Don't {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} go until the morning
+Dialogue: 0,0:02:22.58,0:02:23.10,V6Line,,0,0,0,,Don't let {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} until the morning
+Dialogue: 0,0:02:23.10,0:02:23.70,V6Line,,0,0,0,,Don't let go {\1c&H0000FFFF&}until{\1c&H00FFFFFF&} the morning
+Dialogue: 0,0:02:23.70,0:02:24.56,V6Line,,0,0,0,,Don't let go until {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} morning
+Dialogue: 0,0:02:24.56,0:02:26.40,V6Line,,0,0,0,,Don't let go until the {\1c&H0000FFFF&}morning{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:56.18,0:02:56.88,V6Line,,0,0,0,,{\1c&H0000FFFF&}One{\1c&H00FFFFFF&} step back then you draw me near
+Dialogue: 0,0:02:56.88,0:02:57.32,V6Line,,0,0,0,,One {\1c&H0000FFFF&}step{\1c&H00FFFFFF&} back then you draw me near
+Dialogue: 0,0:02:57.32,0:02:57.86,V6Line,,0,0,0,,One step {\1c&H0000FFFF&}back{\1c&H00FFFFFF&} then you draw me near
+Dialogue: 0,0:02:57.86,0:02:58.14,V6Line,,0,0,0,,One step back {\1c&H0000FFFF&}then{\1c&H00FFFFFF&} you draw me near
+Dialogue: 0,0:02:58.14,0:02:58.30,V6Line,,0,0,0,,One step back then {\1c&H0000FFFF&}you{\1c&H00FFFFFF&} draw me near
+Dialogue: 0,0:02:58.30,0:02:58.62,V6Line,,0,0,0,,One step back then you {\1c&H0000FFFF&}draw{\1c&H00FFFFFF&} me near
+Dialogue: 0,0:02:58.62,0:02:58.90,V6Line,,0,0,0,,One step back then you draw {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} near
+Dialogue: 0,0:02:58.90,0:02:59.67,V6Line,,0,0,0,,One step back then you draw me {\1c&H0000FFFF&}near{\1c&H00FFFFFF&}
+Dialogue: 0,0:02:59.42,0:03:00.06,V6Line,,0,0,0,,{\1c&H0000FFFF&}A{\1c&H00FFFFFF&} quiet promise only I can hear
+Dialogue: 0,0:03:00.06,0:03:00.44,V6Line,,0,0,0,,A {\1c&H0000FFFF&}quiet{\1c&H00FFFFFF&} promise only I can hear
+Dialogue: 0,0:03:00.44,0:03:00.92,V6Line,,0,0,0,,A quiet {\1c&H0000FFFF&}promise{\1c&H00FFFFFF&} only I can hear
+Dialogue: 0,0:03:00.92,0:03:01.54,V6Line,,0,0,0,,A quiet promise {\1c&H0000FFFF&}only{\1c&H00FFFFFF&} I can hear
+Dialogue: 0,0:03:01.54,0:03:01.86,V6Line,,0,0,0,,A quiet promise only {\1c&H0000FFFF&}I{\1c&H00FFFFFF&} can hear
+Dialogue: 0,0:03:01.86,0:03:02.22,V6Line,,0,0,0,,A quiet promise only I {\1c&H0000FFFF&}can{\1c&H00FFFFFF&} hear
+Dialogue: 0,0:03:02.22,0:03:03.58,V6Line,,0,0,0,,A quiet promise only I can {\1c&H0000FFFF&}hear{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:03.58,0:03:03.76,V6Line,,0,0,0,,{\1c&H0000FFFF&}Say{\1c&H00FFFFFF&} it again no need to hurry no need to pretend
+Dialogue: 0,0:03:03.76,0:03:03.95,V6Line,,0,0,0,,Say {\1c&H0000FFFF&}it{\1c&H00FFFFFF&} again no need to hurry no need to pretend
+Dialogue: 0,0:03:03.95,0:03:04.31,V6Line,,0,0,0,,Say it {\1c&H0000FFFF&}again{\1c&H00FFFFFF&} no need to hurry no need to pretend
+Dialogue: 0,0:03:04.31,0:03:04.49,V6Line,,0,0,0,,Say it again {\1c&H0000FFFF&}no{\1c&H00FFFFFF&} need to hurry no need to pretend
+Dialogue: 0,0:03:04.49,0:03:04.68,V6Line,,0,0,0,,Say it again no {\1c&H0000FFFF&}need{\1c&H00FFFFFF&} to hurry no need to pretend
+Dialogue: 0,0:03:04.68,0:03:04.86,V6Line,,0,0,0,,Say it again no need {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} hurry no need to pretend
+Dialogue: 0,0:03:04.86,0:03:05.23,V6Line,,0,0,0,,Say it again no need to {\1c&H0000FFFF&}hurry{\1c&H00FFFFFF&} no need to pretend
+Dialogue: 0,0:03:05.23,0:03:05.41,V6Line,,0,0,0,,Say it again no need to hurry {\1c&H0000FFFF&}no{\1c&H00FFFFFF&} need to pretend
+Dialogue: 0,0:03:05.41,0:03:05.59,V6Line,,0,0,0,,Say it again no need to hurry no {\1c&H0000FFFF&}need{\1c&H00FFFFFF&} to pretend
+Dialogue: 0,0:03:05.59,0:03:05.77,V6Line,,0,0,0,,Say it again no need to hurry no need {\1c&H0000FFFF&}to{\1c&H00FFFFFF&} pretend
+Dialogue: 0,0:03:05.77,0:03:06.39,V6Line,,0,0,0,,Say it again no need to hurry no need to {\1c&H0000FFFF&}pretend{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:06.14,0:03:07.32,V6Line,,0,0,0,,{\1c&H0000FFFF&}I'll{\1c&H00FFFFFF&} take the long way around again
+Dialogue: 0,0:03:07.32,0:03:07.60,V6Line,,0,0,0,,I'll {\1c&H0000FFFF&}take{\1c&H00FFFFFF&} the long way around again
+Dialogue: 0,0:03:07.60,0:03:07.82,V6Line,,0,0,0,,I'll take {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} long way around again
+Dialogue: 0,0:03:07.82,0:03:08.16,V6Line,,0,0,0,,I'll take the {\1c&H0000FFFF&}long{\1c&H00FFFFFF&} way around again
+Dialogue: 0,0:03:08.16,0:03:08.50,V6Line,,0,0,0,,I'll take the long {\1c&H0000FFFF&}way{\1c&H00FFFFFF&} around again
+Dialogue: 0,0:03:08.50,0:03:09.82,V6Line,,0,0,0,,I'll take the long way {\1c&H0000FFFF&}around{\1c&H00FFFFFF&} again
+Dialogue: 0,0:03:09.82,0:03:10.95,V6Line,,0,0,0,,I'll take the long way around {\1c&H0000FFFF&}again{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:10.70,0:03:11.24,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:03:11.24,0:03:11.77,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:03:11.77,0:03:12.85,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:03:12.85,0:03:13.39,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:03:13.39,0:03:14.71,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:14.46,0:03:15.40,V6Line,,0,0,0,,{\1c&H0000FFFF&}Keep{\1c&H00FFFFFF&} me right where the sparks begin
+Dialogue: 0,0:03:15.40,0:03:15.62,V6Line,,0,0,0,,Keep {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} right where the sparks begin
+Dialogue: 0,0:03:15.62,0:03:15.92,V6Line,,0,0,0,,Keep me {\1c&H0000FFFF&}right{\1c&H00FFFFFF&} where the sparks begin
+Dialogue: 0,0:03:15.92,0:03:16.22,V6Line,,0,0,0,,Keep me right {\1c&H0000FFFF&}where{\1c&H00FFFFFF&} the sparks begin
+Dialogue: 0,0:03:16.22,0:03:16.46,V6Line,,0,0,0,,Keep me right where {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} sparks begin
+Dialogue: 0,0:03:16.46,0:03:16.88,V6Line,,0,0,0,,Keep me right where the {\1c&H0000FFFF&}sparks{\1c&H00FFFFFF&} begin
+Dialogue: 0,0:03:16.88,0:03:18.92,V6Line,,0,0,0,,Keep me right where the sparks {\1c&H0000FFFF&}begin{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:18.92,0:03:19.76,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:03:19.76,0:03:20.00,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:03:20.00,0:03:20.36,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:03:20.36,0:03:20.62,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:03:20.62,0:03:21.51,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:21.26,0:03:22.24,V6Line,,0,0,0,,{\1c&H0000FFFF&}Let{\1c&H00FFFFFF&} the night come rushing in
+Dialogue: 0,0:03:22.24,0:03:22.54,V6Line,,0,0,0,,Let {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} night come rushing in
+Dialogue: 0,0:03:22.54,0:03:22.92,V6Line,,0,0,0,,Let the {\1c&H0000FFFF&}night{\1c&H00FFFFFF&} come rushing in
+Dialogue: 0,0:03:22.92,0:03:23.32,V6Line,,0,0,0,,Let the night {\1c&H0000FFFF&}come{\1c&H00FFFFFF&} rushing in
+Dialogue: 0,0:03:23.32,0:03:23.94,V6Line,,0,0,0,,Let the night come {\1c&H0000FFFF&}rushing{\1c&H00FFFFFF&} in
+Dialogue: 0,0:03:23.94,0:03:24.97,V6Line,,0,0,0,,Let the night come rushing {\1c&H0000FFFF&}in{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:24.72,0:03:25.10,V6Line,,0,0,0,,{\1c&H0000FFFF&}You{\1c&H00FFFFFF&} know the way
+Dialogue: 0,0:03:25.10,0:03:25.47,V6Line,,0,0,0,,You {\1c&H0000FFFF&}know{\1c&H00FFFFFF&} the way
+Dialogue: 0,0:03:25.47,0:03:25.85,V6Line,,0,0,0,,You know {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way
+Dialogue: 0,0:03:25.85,0:03:26.48,V6Line,,0,0,0,,You know the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:26.08,0:03:26.50,V6Line,,0,0,0,,{\1c&H0000FFFF&}Show{\1c&H00FFFFFF&} us the way
+Dialogue: 0,0:03:26.50,0:03:27.26,V6Line,,0,0,0,,Show {\1c&H0000FFFF&}us{\1c&H00FFFFFF&} the way
+Dialogue: 0,0:03:27.26,0:03:27.56,V6Line,,0,0,0,,Show us {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} way
+Dialogue: 0,0:03:27.56,0:03:27.99,V6Line,,0,0,0,,Show us the {\1c&H0000FFFF&}way{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:27.74,0:03:28.12,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:03:28.12,0:03:28.51,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:03:28.51,0:03:29.27,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:03:29.27,0:03:29.65,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:03:29.65,0:03:30.67,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:30.42,0:03:31.60,V6Line,,0,0,0,,{\1c&H0000FFFF&}Don't{\1c&H00FFFFFF&} let go until the morning
+Dialogue: 0,0:03:31.60,0:03:31.82,V6Line,,0,0,0,,Don't {\1c&H0000FFFF&}let{\1c&H00FFFFFF&} go until the morning
+Dialogue: 0,0:03:31.82,0:03:32.48,V6Line,,0,0,0,,Don't let {\1c&H0000FFFF&}go{\1c&H00FFFFFF&} until the morning
+Dialogue: 0,0:03:32.48,0:03:33.22,V6Line,,0,0,0,,Don't let go {\1c&H0000FFFF&}until{\1c&H00FFFFFF&} the morning
+Dialogue: 0,0:03:33.22,0:03:33.78,V6Line,,0,0,0,,Don't let go until {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} morning
+Dialogue: 0,0:03:33.78,0:03:35.96,V6Line,,0,0,0,,Don't let go until the {\1c&H0000FFFF&}morning{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:35.96,0:03:36.80,V6Line,,0,0,0,,{\1c&H0000FFFF&}Until{\1c&H00FFFFFF&} the morning
+Dialogue: 0,0:03:36.80,0:03:37.24,V6Line,,0,0,0,,Until {\1c&H0000FFFF&}the{\1c&H00FFFFFF&} morning
+Dialogue: 0,0:03:37.24,0:03:39.16,V6Line,,0,0,0,,Until the {\1c&H0000FFFF&}morning{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:42.58,0:03:43.21,V6Line,,0,0,0,,{\1c&H0000FFFF&}Hold{\1c&H00FFFFFF&} on hold on
+Dialogue: 0,0:03:43.21,0:03:43.83,V6Line,,0,0,0,,Hold {\1c&H0000FFFF&}on{\1c&H00FFFFFF&} hold on
+Dialogue: 0,0:03:43.83,0:03:44.46,V6Line,,0,0,0,,Hold on {\1c&H0000FFFF&}hold{\1c&H00FFFFFF&} on
+Dialogue: 0,0:03:44.46,0:03:45.33,V6Line,,0,0,0,,Hold on hold {\1c&H0000FFFF&}on{\1c&H00FFFFFF&}
+Dialogue: 0,0:03:45.08,0:03:46.11,V6Line,,0,0,0,,{\1c&H0000FFFF&}Pull{\1c&H00FFFFFF&} me into your orbit
+Dialogue: 0,0:03:46.11,0:03:47.14,V6Line,,0,0,0,,Pull {\1c&H0000FFFF&}me{\1c&H00FFFFFF&} into your orbit
+Dialogue: 0,0:03:47.14,0:03:49.21,V6Line,,0,0,0,,Pull me {\1c&H0000FFFF&}into{\1c&H00FFFFFF&} your orbit
+Dialogue: 0,0:03:49.21,0:03:50.24,V6Line,,0,0,0,,Pull me into {\1c&H0000FFFF&}your{\1c&H00FFFFFF&} orbit
+Dialogue: 0,0:03:50.24,0:03:53.30,V6Line,,0,0,0,,Pull me into your {\1c&H0000FFFF&}orbit{\1c&H00FFFFFF&}

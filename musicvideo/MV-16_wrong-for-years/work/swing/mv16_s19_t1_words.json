@@ -1,0 +1,73 @@
+{
+ "take": "takes/mv16_s19_t1.mp4",
+ "words": [
+  {
+   "w": "Nobody",
+   "start": 0.0,
+   "end": 0.84,
+   "p": 0.836
+  },
+  {
+   "w": "stopped",
+   "start": 0.84,
+   "end": 1.34,
+   "p": 0.815
+  },
+  {
+   "w": "me",
+   "start": 1.34,
+   "end": 1.94,
+   "p": 0.999
+  },
+  {
+   "w": "wrong",
+   "start": 1.94,
+   "end": 2.96,
+   "p": 0.101
+  },
+  {
+   "w": "for",
+   "start": 2.96,
+   "end": 3.54,
+   "p": 0.939
+  },
+  {
+   "w": "years",
+   "start": 3.54,
+   "end": 4.32,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 4.32,
+   "end": 5.34,
+   "p": 0.531
+  },
+  {
+   "w": "I'm",
+   "start": 5.34,
+   "end": 5.66,
+   "p": 0.975
+  },
+  {
+   "w": "still",
+   "start": 5.66,
+   "end": 6.0,
+   "p": 0.999
+  },
+  {
+   "w": "going",
+   "start": 6.0,
+   "end": 6.74,
+   "p": 0.998
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.74,
+   "text": "Nobody stopped me wrong for years and I'm still going",
+   "avg_logprob": -0.537
+  }
+ ]
+}

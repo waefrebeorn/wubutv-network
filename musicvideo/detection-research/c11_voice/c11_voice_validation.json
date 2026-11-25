@@ -1,0 +1,399 @@
+{
+ "tool": "c11_voice (sprint 8, loop 2 top-1)",
+ "date": "2026-11-12",
+ "track": "MV-14 'CLIP IT', 161.6 s, 16 kHz mono",
+ "method": {
+  "librosa_pyin": "librosa 1.0.0 pyin, fmin=50, fmax=800, frame_length=1024, hop_length=160 (10 ms), sr=16000",
+  "boundary_scoring": "sprint-6 compare_hpss.py boundary_match verbatim: nearest same-type C boundary, tol +/-0.5 s, ref = 12 Demucs-RMS-VAD segments (hpss_mv14_ref.json)",
+  "threshold_sweep": "150 combos: voicing {0.3,0.5,0.6,0.7,0.8,0.9} x cpp {0.5,2,4,6,8} x hnr {off,0,4,8,12}; segments rebuilt with an independent Python mirror of make_bounds (verified EXACT: 33/33 mix, 27/27 stem at defaults)",
+  "defaults": {
+   "voicing": 0.7,
+   "cpp_db": 0.5,
+   "hnr_db": 8.0
+  }
+ },
+ "bar1_yin_vs_pyin": {
+  "bar": "F0 corr >= 0.99 on voiced frames; gross error (>20%) <= 2%, mix AND vocal stem",
+  "verdict": "FAIL (mix leg passes, stem leg fails)",
+  "mix": {
+   "pyin_f0_hz_on_librosa_voiced": {
+    "n": 3077,
+    "corr": 1.0,
+    "gross_err_pct": 0.0,
+    "median_rel_err_pct": 0.0
+   },
+   "raw_yin_on_librosa_voiced": {
+    "n": 7896,
+    "corr": 0.9919,
+    "gross_err_pct": 0.52,
+    "median_rel_err_pct": 0.06
+   }
+  },
+  "stem": {
+   "pyin_f0_hz_on_librosa_voiced": {
+    "n": 1784,
+    "corr": 0.9675,
+    "gross_err_pct": 2.75,
+    "median_rel_err_pct": 0.0
+   },
+   "raw_yin_on_librosa_voiced": {
+    "n": 7493,
+    "corr": 0.9495,
+    "gross_err_pct": 4.04,
+    "median_rel_err_pct": 0.13
+   },
+   "diagnosis": {
+    "pyin_gross_err_frames": 49,
+    "of_which_octave_up_2x": 21,
+    "octave_down_0.5x": 0,
+    "other": 28,
+    "gross_err_clusters_s": [
+     52.05,
+     67.25,
+     105.54
+    ],
+    "raw_yin_gross_err_frames": 303,
+    "raw_octave_up": 76,
+    "raw_octave_down": 119,
+    "raw_other": 108,
+    "voiced_frame_counts": {
+     "librosa_pyin": 7493,
+     "c_pyin_voiced": 1825,
+     "overlap": 1784
+    },
+    "note": "Where both agree voiced, F0 agrees exactly (median rel err 0.00%). The stem failure is a voicing-decision/Viterbi calibration gap (C calls 1825 frames voiced vs librosa 7493), not an estimator error on matched frames."
+   }
+  },
+  "prior_claim_not_reproduced": "README 'Bugs found' claimed raw YIN vs librosa corr 1.0000 / 0.9997; independent re-measurement with the documented method gives 0.9919 (mix) / 0.9495 (stem) on librosa-voiced frames. README corrected."
+ },
+ "bar2_boundaries_starred": {
+  "bar": ">=80% of sung-span boundaries (starts AND ends, scored separately) within +/-0.5 s of the 12 reference segments",
+  "verdict": "FAIL - STRUCTURAL",
+  "defaults_0.7_0.5_8.0": {
+   "mix": {
+    "starts_matched": 5,
+    "starts_total": 12,
+    "starts_median_offset_s": 0.27,
+    "ends_matched": 3,
+    "ends_total": 12,
+    "ends_median_offset_s": 0.23,
+    "overall_pct": 33.3,
+    "c_segments": 33,
+    "c_to_ref_starts_matched": 5,
+    "c_to_ref_ends_matched": 3
+   },
+   "stem": {
+    "starts_matched": 7,
+    "starts_total": 12,
+    "starts_median_offset_s": 0.23,
+    "ends_matched": 4,
+    "ends_total": 12,
+    "ends_median_offset_s": 0.145,
+    "overall_pct": 45.8,
+    "c_segments": 27,
+    "c_to_ref_starts_matched": 7,
+    "c_to_ref_ends_matched": 4
+   }
+  },
+  "sweep_150_combos": {
+   "mix_best": {
+    "total": "8/24",
+    "starts": "5/12",
+    "ends": "3/12",
+    "thresholds": "voicing 0.3-0.8 / cpp 0.5 / hnr 8.0",
+    "n_segments": 33
+   },
+   "stem_best": {
+    "total": "14/24",
+    "starts": "9/12",
+    "ends": "5/12",
+    "thresholds": "voicing 0.3-0.6 / cpp 0.5 / hnr 4.0",
+    "n_segments": 27
+   },
+   "combos_reaching_80pct_mix": 0,
+   "combos_reaching_80pct_stem": 0
+  },
+  "diagnostic_pyin_voiced_only_mix": {
+   "total": "6/24",
+   "starts": "4/12",
+   "ends": "2/12",
+   "n_segments": 26
+  },
+  "time_overlap": {
+   "mix": {
+    "precision": 0.914,
+    "recall": 0.548
+   },
+   "stem": {
+    "precision": 0.98,
+    "recall": 0.518
+   }
+  },
+  "signed_offsets_c_minus_ref_s": {
+   "mix_starts": [
+    0.24,
+    -2.34,
+    0.38,
+    0.45,
+    0.12,
+    0.27,
+    -1.03,
+    -0.91,
+    -2.86,
+    -0.71,
+    5.11,
+    1.81
+   ],
+   "mix_ends": [
+    1.4,
+    -0.03,
+    -4.1,
+    -0.55,
+    -0.23,
+    -2.29,
+    3.52,
+    -2.01,
+    -1.46,
+    -1.64,
+    0.6,
+    -0.26
+   ],
+   "stem_starts": [
+    0.23,
+    0.09,
+    -3.9,
+    0.33,
+    0.12,
+    0.25,
+    0.28,
+    0.21,
+    2.85,
+    -2.75,
+    -7.54,
+    -18.87
+   ],
+   "stem_ends": [
+    -0.02,
+    0.03,
+    -1.38,
+    -0.26,
+    -0.36,
+    -2.59,
+    -2.33,
+    -2.18,
+    1.7,
+    -3.51,
+    -14.06,
+    -21.09
+   ]
+  },
+  "ref_caveat": "Ref segments 11-12 (143.88-152.50, 155.21-159.53) sit in the confirmed-wordless outro (last lyric word 128.20 s) - Demucs-stem RMS bleed, not singing. A perfect voicing gate tops out at 20/24 on this ref; measured 8/24 (mix) and 14/24 (stem) are far below that ceiling, so the failure is real, not a ref artifact.",
+  "prior_claim_not_reproduced": "Revive-detector beat file claimed stem best 15/24; independent 150-combo sweep tops at 14/24."
+ },
+ "bar3_beat_hpss_starred": {
+  "bar": "Vocal-activity boundaries must beat HPSS 12.5% starts / 8.3% ends (same segment list)",
+  "verdict": "PASS",
+  "hpss_sprint6_same_ref": {
+   "vocal_stem": {
+    "starts": "2/12",
+    "ends": "1/12",
+    "overall_pct": 12.5
+   },
+   "full_mix": {
+    "starts": "1/12",
+    "ends": "1/12",
+    "overall_pct": 8.3
+   }
+  },
+  "c11_voice": {
+   "mix": {
+    "starts": "5/12",
+    "ends": "3/12",
+    "overall_pct": 33.3,
+    "vs_hpss_full_mix_overall": "4.0x"
+   },
+   "stem": {
+    "starts": "7/12",
+    "ends": "4/12",
+    "overall_pct": 45.8,
+    "vs_hpss_vocal_stem_overall": "3.7x"
+   }
+  }
+ },
+ "bar4_cpp_hnr_separation": {
+  "bar": "Median CPP sung >= instrumental + 3 dB; same direction for HNR (mix curve, sung = ref segments)",
+  "verdict": "FAIL",
+  "sung_frames": 13149,
+  "instrumental_frames": 3012,
+  "cpp_db": {
+   "sung_median": 0.851,
+   "instrumental_median": 0.883,
+   "diff_db": -0.032
+  },
+  "hnr_db": {
+   "sung_median": 0.031,
+   "instrumental_median": -0.005,
+   "diff_db": 0.036
+  },
+  "voicing": {
+   "sung_median": 0.478,
+   "instrumental_median": 0.484,
+   "diff": -0.006
+  },
+  "joint_signal": {
+   "gate_voiced_fraction_sung_pct": 11.0,
+   "gate_voiced_fraction_instrumental_pct": 5.8,
+   "pyin_voiced_fraction_sung_pct": 18.5,
+   "pyin_voiced_fraction_instrumental_pct": 22.0,
+   "note": "Marginals do not separate at all; the gate's joint conjunction carries only a weak 1.9x voiced-fraction signal, and pyin_voiced is INVERTED (higher on instrumental frames). CPP is inert on this mix (0.5 dB separates nothing)."
+  }
+ },
+ "bar5_snapper_crosscheck": {
+  "bar": "Voicing curve 'no voicing in span' flag fires on all 5 snapper early-snap errors (sprint 5 report; 0-based indices 34, 56, 60, 112, 162 in snap_mix_l2.json, the hand-checked run)",
+  "verdict": "FAIL",
+  "words": [
+   {
+    "index_0based": 34,
+    "word": "I",
+    "asr_span": [
+     29.02,
+     29.9
+    ],
+    "snapped": 28.8,
+    "voiced_frames_in_asr_span": "2/88",
+    "pct": 2
+   },
+   {
+    "index_0based": 56,
+    "word": "me",
+    "asr_span": [
+     43.3,
+     43.44
+    ],
+    "snapped": 43.088,
+    "voiced_frames_in_asr_span": "0/14",
+    "pct": 0
+   },
+   {
+    "index_0based": 60,
+    "word": "it",
+    "asr_span": [
+     47.12,
+     47.36
+    ],
+    "snapped": 46.992,
+    "voiced_frames_in_asr_span": "1/24",
+    "pct": 4
+   },
+   {
+    "index_0based": 112,
+    "word": "with",
+    "asr_span": [
+     74.7,
+     75.2
+    ],
+    "snapped": 74.448,
+    "voiced_frames_in_asr_span": "7/50",
+    "pct": 14
+   },
+   {
+    "index_0based": 162,
+    "word": "you",
+    "asr_span": [
+     104.74,
+     104.9
+    ],
+    "snapped": 104.56,
+    "voiced_frames_in_asr_span": "15/16",
+    "pct": 94
+   }
+  ],
+  "literal_zero_voiced_frames": "1/5",
+  "with_lt15pct_voiced_fraction_rule": "4/5 (all but [162] 'you', 94% voiced in-span)",
+  "control_kills_rescue": "Gate reads UNVOICED at the nearest snapped frame for 0/15 hand-check AGREE (correct) snaps and 0/5 error snaps alike; +/-0.05 s windows also do not separate them. The gate is unvoiced at essentially every word onset, correct or not - no threshold/window variant of this curve can veto bad snaps or implement the stay rule.",
+  "indexing_note": "Sprint-5 hand-check indices are 0-based into the words array; snap_mix_mv14.json differs from the hand-checked snap_mix_l2.json at words [56] (+0.124 vs -0.212) and [162] (+0.028 vs -0.180) - word identities and ASR spans are identical, only snapped values differ.",
+  "implication": "The stay-rule patch CANNOT be built on this curve: voicing presence is not the same signal as 'no in-span strong flux peak' (word [162] is 94% voiced in-span yet has no in-span flux peak)."
+ },
+ "bar6_unsung_flag_sanity": {
+  "bar": "Curve reads unvoiced under at least 2 of 3 known unsung-or-ambiguous lyric-sheet lines (pass rule used: voiced fraction < 0.15)",
+  "verdict": "PASS (3/3)",
+  "spans": [
+   {
+    "label": "intro 0.00-14.14, confirmed wordless lead-in",
+    "voiced_fraction_pct": 1.8,
+    "reads": "unvoiced"
+   },
+   {
+    "label": "gap 95.24-98.50, wordless gap before bridge",
+    "voiced_fraction_pct": 0.0,
+    "reads": "unvoiced"
+   },
+   {
+    "label": "tag 153.50-153.60, 'We\\'ll be right back.' ASR hallucination on instrumental tail",
+    "voiced_fraction_pct": 0.0,
+    "reads": "unvoiced"
+   },
+   {
+    "label": "outro 128.20-161.60, 33.4 s wordless ride-out (supporting)",
+    "voiced_fraction_pct": 10.8,
+    "reads": "unvoiced"
+   }
+  ]
+ },
+ "bar7_performance": {
+  "bar": "Full MV-14 track (161.6 s) < 10 s wall; peak memory < 200 MB",
+  "verdict": "FAIL (wall) / PASS (memory)",
+  "mix": {
+   "wall_s": 59.09,
+   "frames_s": 36.87,
+   "viterbi_s": 20.49,
+   "gate_write_s": 0.82,
+   "peak_rss_mb": 98.5
+  },
+  "stem": {
+   "wall_s": 54.03,
+   "frames_s": 29.49,
+   "viterbi_s": 23.67,
+   "gate_write_s": 0.28,
+   "peak_rss_mb": 98.6,
+   "cpu_user_s": 16.347,
+   "cpu_sys_s": 0.493
+  },
+  "note": "Wall measured under load (other coordinators + pyin running); CPU user time alone (16.3 s) exceeds the 10 s bar, so the fail holds regardless of load. The Viterbi (962 states x 16161 frames) dominates after the frame front-end."
+ },
+ "bar8_build_hygiene": {
+  "bar": "Clean rebuild, zero warnings under -Wall -Wextra; binary byte-identical across two builds; --selftest passes; no ASan/UBSan findings on self-test + one full MV-14 run",
+  "verdict": "PASS",
+  "clean_rebuild_zero_warnings": true,
+  "byte_identical_sha256": "a6067bbfa4e3b11e709bdce44ad9133af004a3ea5aa045c7fad24df46298e501",
+  "selftest": {
+   "sine_median_f0_hz": 220.64,
+   "sine_err_pct": 0.289,
+   "noise_burst_voiced_fraction": 0.0,
+   "silence_voiced_fraction": 0.0,
+   "result": "ALL PASS"
+  },
+  "asan": {
+   "selftest": "PASS",
+   "full_mv14_run_exit": 0,
+   "findings": "none",
+   "asan_full_wall_s": 208.39,
+   "asan_peak_rss_mb": 109.2,
+   "segments": 33
+  }
+ },
+ "reproducibility": {
+  "mix_rerun_vs_saved": {
+   "frame_diffs": 0,
+   "bounds_equal": true
+  },
+  "stem_rerun_vs_saved": {
+   "frame_diffs": 0,
+   "bounds_equal": true
+  },
+  "stem_16k_wav": "ffmpeg -i separation_mv14/mv14_44k_(Vocals)_htdemucs.wav -ar 16000 -ac 1 -c:a pcm_s16le mv14_stem_16k.wav (md5 43d83ae22fc3424533c25a896942a455; kept in /tmp, not committed)",
+  "segment_mirror": "Independent Python mirror of make_bounds reproduces C bounds EXACTLY at defaults (33/33 mix, 27/27 stem)"
+ },
+ "overall_verdict": "FAIL - bar 2 (starred) fails structurally: 8/24 mix / 14/24 stem best across 150 threshold combos vs the 80% bar. Bars 1 (stem leg), 4, 5, 7 also fail; bars 3, 6, 8 pass. Do NOT lower the bar.",
+ "next_candidate": "MDX-Net ONNX adopt-as-is (wubuwizard run 14: full-track corr 0.9675 vs Demucs, 201x active/silent; C11 separation runner scoped, bar <894 s) for the boundary job Demucs currently owns; or the birdsong spectral-entropy feature (loop 2 #2) as the classical candidate that might separate voice from accompaniment without a model. Loop 3 takes the stall branch of its seed (jitter/shimmer/voice-break measures + flow-interpolation rescue)."
+}

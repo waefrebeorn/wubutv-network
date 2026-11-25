@@ -1,0 +1,71 @@
+{
+ "seg": 1,
+ "scene": "S01",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s01-t2-desc-0-46003158-2db7-4b05-9110-e600e7c3fde7.mp4",
+ "take_span": [
+  3.55,
+  8.323
+ ],
+ "song_span": [
+  0.0,
+  7.666666666666667
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  2.0,
+  0.708,
+  2.042,
+  1.0,
+  2.001
+ ],
+ "capped": {
+  "ratio_min": 0.725,
+  "ratio_max": 2.0
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 1500.0,
+   "worst_anchor_drift_ms": 20.2
+  }
+ ],
+ "penalty_extra_words": 0,
+ "worst_word_drift": {
+  "word": "back",
+  "song_onset": 3.82,
+  "take_onset": 6.08,
+  "carried": false,
+  "drift_ms": 20.2
+ },
+ "word_drifts": [
+  {
+   "word": "Jensen's",
+   "song_onset": 3.14,
+   "take_onset": 5.12,
+   "carried": false,
+   "drift_ms": 0.0
+  },
+  {
+   "word": "back",
+   "song_onset": 3.82,
+   "take_onset": 6.08,
+   "carried": false,
+   "drift_ms": 20.2
+  },
+  {
+   "word": "He's",
+   "song_onset": 5.78,
+   "take_onset": 7.04,
+   "carried": false,
+   "drift_ms": -19.8
+  },
+  {
+   "word": "back",
+   "song_onset": 6.46,
+   "take_onset": 7.72,
+   "carried": false,
+   "drift_ms": 0.7
+  }
+ ]
+}

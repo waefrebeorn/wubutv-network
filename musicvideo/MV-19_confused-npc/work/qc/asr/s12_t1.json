@@ -1,0 +1,67 @@
+{
+ "take": "takes/mv19_s12_t1.mp4",
+ "words": [
+  {
+   "w": "I",
+   "start": 0.0,
+   "end": 0.92,
+   "p": 0.807
+  },
+  {
+   "w": "walked",
+   "start": 0.92,
+   "end": 1.64,
+   "p": 0.984
+  },
+  {
+   "w": "into",
+   "start": 1.64,
+   "end": 2.3,
+   "p": 0.987
+  },
+  {
+   "w": "the",
+   "start": 2.3,
+   "end": 2.86,
+   "p": 0.998
+  },
+  {
+   "w": "room",
+   "start": 2.86,
+   "end": 3.56,
+   "p": 0.999
+  },
+  {
+   "w": "and",
+   "start": 3.56,
+   "end": 4.62,
+   "p": 0.8
+  },
+  {
+   "w": "immediately",
+   "start": 4.62,
+   "end": 5.2,
+   "p": 0.985
+  },
+  {
+   "w": "forgot",
+   "start": 5.2,
+   "end": 6.18,
+   "p": 0.995
+  },
+  {
+   "w": "why.",
+   "start": 6.18,
+   "end": 8.44,
+   "p": 0.509
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.44,
+   "text": "I walked into the room and immediately forgot why.",
+   "avg_logprob": -0.262
+  }
+ ]
+}

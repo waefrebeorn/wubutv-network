@@ -1,0 +1,54 @@
+{
+ "deliverables": {
+  "takes/U4_t1.mp4": {
+   "md5": "4e3156bce2833183ce7a1a5d537febba",
+   "probe": "1280x720, 24fps, 240f, 10.000s",
+   "status": "REJECTED \u2014 TEXT (generated ANSEL lettering on the blank sign board)"
+  },
+  "work/GATE_LOG.md": {
+   "sections_added": [
+    "\u00a74e (parent ruling + trim execution)",
+    "\u00a74f (U4 t1 QC + block)"
+   ]
+  },
+  "work/assembly/U3_seg.mp4": {
+   "md5": "0409611ec09b6cb2fe91fdc46f24f88a",
+   "probe": "1280x720, 24fps, exactly 240 frames, 10.000s, h264 + AAC 48kHz"
+  },
+  "work/chain/U3_last.png": {
+   "md5": "80a6717f9ff4174c735dc1f781502b7d",
+   "note": "t5 frame 227; overwrites t2 stale tail; eye-verified compliant (Laura flat, hands raised/open/empty)"
+  }
+ },
+ "episode": "HOLD ON E3 Part 1 \u2014 Write That the Holder Stole",
+ "flag_written": false,
+ "images_spend": 0,
+ "job_id": "holdon-e3-s8",
+ "master_gates": {
+  "F-9": "NOT RUN \u2014 no master",
+  "ear_test": "NOT RUN \u2014 no master",
+  "gate_f_cold_run": "NOT RUN \u2014 no master (the U3 hold read is still owed if a continuation assembles)"
+ },
+ "next_step_for_parent": "Rule a U4 remedy (refire allowance + a board fix: size/position-named closing blank assertion, blank-board geometry binding, or board-free reframing). The \u00a74e trim package (U3_seg.mp4 + U3_last.png) is landed and reusable; a continuation session needs only U4 (refire), U5, U6, post layers, assembly and the three master gates.",
+ "parent_ruling_u3": {
+  "disclosed_treatment": "U3 slot conformed by holding the final compliant frame ~0.5s (designed freeze on the pinned end-state tableau); Gate (f) cold-run read of the hold was never reached (blocked at U4).",
+  "frame_evidence": "work/qc/u3t5trim/: Laura zoom-verified FLAT at 9.50s (z_laura_9.50), first mouth-corner softening 9.58s, smile unambiguous 9.67s; hands still raised/open/empty at 9.58s (z_hands_9.58) \u2014 Laura face is the binding constraint. Speech ends 9.27s; nothing spoken is cut.",
+  "frames_kept": "0-227 (228 frames); frame 227 (9.458s) held for the remaining 12 frames of the 240f span",
+  "ruling": "U3 t5 ACCEPTED WITH A TAIL TRIM (parent, 2026-11-18)",
+  "trim_out_point_s": 9.5
+ },
+ "summary": "Parent tail-trim ruling executed in full: U3 t5 trimmed at 9.500s, conformed 240f segment + new chain frame built and verified (GATE_LOG \u00a74e). U4 t1 then fired with the full hardening set and was REJECTED on the TEXT class: the declared-blank hanging sign board carries legible generated lettering (\"ANSEL\" on two lines), zoom-verified at 5.0s and 7.5s and present from <=2.5s through the tail. Every previously-killed class held (identity, wardrobe, tin-empty absence, palms, Laura flat tail, meta-word scrub \u2014 no spoken meta-words; speech adjudicated 17/17 verbatim by large-v3). The board TEXT is the take's ONLY defect. Per the brief, a failing U4-U6 take is never chained or assembled and no refire allowance exists for U4-U6 (the t6 contingency is U3-only; its triggers do not cover a U4 TEXT failure). U5/U6, post layers, assembly, master gates and the flag were not attempted.",
+ "u4_qc": {
+  "asr": "ADJUDICATED (large-v3, work/qc/U4_t1_asr_large.json): L6 complete verbatim 0.30-3.54s (safe p=0.985, hundred p=0.949); L7 complete verbatim as its own segment 5.40-8.00s. SPEECH 17/17 \u2014 the small model had mis-segmented safe four hundred as say 400. No meta-words; Laura sole speaker.",
+  "identity": "PASS",
+  "prop_absence_tin": "PASS (open and empty at 2.5s, 5.0s, 9.9s tail; no coins anywhere)",
+  "tail_performance": "PASS (Laura flat/unsmiling in profile at 9.9s; Courier reframed out of the tail frame \u2014 staging variance, not the kill)",
+  "text": "FAIL \u2014 KILL: sign board lettering \"ANSEL\" x2 lines, <=2.5s through tail, zoom-verified 5.0s + 7.5s (work/qc/u4t1/zb2_5.0.png, zb2_7.5.png)",
+  "wardrobe": "PASS"
+ },
+ "verdict": "BLOCKED_AT_U4_TAKE_QC",
+ "video_spend": {
+  "episode_total": "10 of 12 (t6 contingency unspent; ceiling was 13)",
+  "session_8": 1
+ }
+}

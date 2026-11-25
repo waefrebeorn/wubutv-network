@@ -1,0 +1,27 @@
+[Script Info]
+Title: HOLD ON E3 Part 2 - Write That I Paid
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,34,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,-1,0,0,0,100,100,0,0,3,1,0,2,40,40,26,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.20,0:00:02.75,Default,,0,0,0,,Write that I paid, Laura.
+Dialogue: 0,0:00:04.08,0:00:06.11,Default,,0,0,0,,My coin went in his pocket yesterday.
+Dialogue: 0,0:00:07.72,0:00:09.45,Default,,0,0,0,,Wall still says I owe the rent.
+Dialogue: 0,0:00:13.12,0:00:15.23,Default,,0,0,0,,Every coin you earn wears a notch.
+Dialogue: 0,0:00:17.14,0:00:18.79,Default,,0,0,0,,One in his pocket wears yours.
+Dialogue: 0,0:00:22.80,0:00:24.13,Default,,0,0,0,,Paid him twice now.
+Dialogue: 0,0:00:25.69,0:00:27.82,Default,,0,0,0,,He writes for everyone but me.
+Dialogue: 0,0:00:32.58,0:00:34.63,Default,,0,0,0,,That hand's been in your pocket all morning.
+Dialogue: 0,0:00:35.54,0:00:38.05,Default,,0,0,0,,Yesterday the landlord's boy paid it two coins.
+Dialogue: 0,0:00:38.96,0:00:39.77,Default,,0,0,0,,Bring it out.
+Dialogue: 0,0:00:42.61,0:00:44.08,Default,,0,0,0,,Bell rang, Watcher.
+Dialogue: 0,0:00:46.19,0:00:49.00,Default,,0,0,0,,My coin's in the light. Yours is hiding.
+Dialogue: 0,0:00:51.01,0:00:52.42,Default,,0,0,0,,Your name's up, Marta.
+Dialogue: 0,0:00:54.02,0:00:55.99,Default,,0,0,0,,The street votes on his name tonight.

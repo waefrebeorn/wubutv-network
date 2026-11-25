@@ -1,0 +1,137 @@
+{
+ "file": "takes_v6/U4_t1.mp4",
+ "head_rms_0_1.7": 0.02261197566986084,
+ "ambient_rms_0_0.5": 0.0208910945802927,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 4.08,
+    "end": 8.68,
+    "text": "Her hands stayed up, Peach. So what's in yours? Besides flowers?",
+    "words": [
+     {
+      "w": " Her",
+      "start": 4.08,
+      "end": 4.5
+     },
+     {
+      "w": " hands",
+      "start": 4.5,
+      "end": 4.82
+     },
+     {
+      "w": " stayed",
+      "start": 4.82,
+      "end": 5.08
+     },
+     {
+      "w": " up,",
+      "start": 5.08,
+      "end": 5.42
+     },
+     {
+      "w": " Peach.",
+      "start": 5.46,
+      "end": 5.68
+     },
+     {
+      "w": " So",
+      "start": 5.96,
+      "end": 6.38
+     },
+     {
+      "w": " what's",
+      "start": 6.38,
+      "end": 6.68
+     },
+     {
+      "w": " in",
+      "start": 6.68,
+      "end": 6.78
+     },
+     {
+      "w": " yours?",
+      "start": 6.78,
+      "end": 7.12
+     },
+     {
+      "w": " Besides",
+      "start": 7.5,
+      "end": 8.14
+     },
+     {
+      "w": " flowers?",
+      "start": 8.14,
+      "end": 8.68
+     }
+    ],
+    "seg_rms": 0.0828
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 4.08,
+    "end": 8.86,
+    "text": "Her hands stayed up, Peach. So what's in yours? Besides flowers?",
+    "words": [
+     {
+      "w": " Her",
+      "start": 4.08,
+      "end": 4.56
+     },
+     {
+      "w": " hands",
+      "start": 4.56,
+      "end": 4.92
+     },
+     {
+      "w": " stayed",
+      "start": 4.92,
+      "end": 5.24
+     },
+     {
+      "w": " up,",
+      "start": 5.24,
+      "end": 5.52
+     },
+     {
+      "w": " Peach.",
+      "start": 5.96,
+      "end": 5.96
+     },
+     {
+      "w": " So",
+      "start": 6.46,
+      "end": 6.46
+     },
+     {
+      "w": " what's",
+      "start": 6.46,
+      "end": 6.76
+     },
+     {
+      "w": " in",
+      "start": 6.76,
+      "end": 6.88
+     },
+     {
+      "w": " yours?",
+      "start": 6.88,
+      "end": 7.36
+     },
+     {
+      "w": " Besides",
+      "start": 8.16,
+      "end": 8.38
+     },
+     {
+      "w": " flowers?",
+      "start": 8.38,
+      "end": 8.86
+     }
+    ],
+    "seg_rms": 0.0832
+   }
+  ]
+ }
+}

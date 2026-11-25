@@ -1,0 +1,83 @@
+{
+ "seg": 7,
+ "scene": "S05a",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s05-t1-desc-0-2d87f105-ccfc-41dd-b775-017d162dc27a.mp4",
+ "take_span": [
+  0.0,
+  3.74
+ ],
+ "song_span": [
+  23.208333333333332,
+  25.416666666666668
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  0.648,
+  0.67,
+  0.345
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 0.6413
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 300.0,
+   "worst_anchor_drift_ms": 133.3
+  }
+ ],
+ "penalty_extra_words": 3,
+ "worst_word_drift": {
+  "word": "They",
+  "song_onset": 25.12,
+  "take_onset": 2.88,
+  "carried": false,
+  "drift_ms": -133.3
+ },
+ "word_drifts": [
+  {
+   "word": "He",
+   "song_onset": 23.22,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": -11.7
+  },
+  {
+   "word": "said",
+   "song_onset": 23.74,
+   "take_onset": 0.82,
+   "carried": false,
+   "drift_ms": -18.0
+  },
+  {
+   "word": "he",
+   "song_onset": 24.08,
+   "take_onset": 1.48,
+   "carried": false,
+   "drift_ms": 32.8
+  },
+  {
+   "word": "was",
+   "song_onset": 24.28,
+   "take_onset": 1.88,
+   "carried": false,
+   "drift_ms": 73.1
+  },
+  {
+   "word": "sorry",
+   "song_onset": 24.48,
+   "take_onset": 2.22,
+   "carried": false,
+   "drift_ms": 83.8
+  },
+  {
+   "word": "They",
+   "song_onset": 25.12,
+   "take_onset": 2.88,
+   "carried": false,
+   "drift_ms": -133.3
+  }
+ ]
+}

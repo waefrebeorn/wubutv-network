@@ -1,0 +1,137 @@
+{
+ "file": "takes_part2/U5_t1.mp4",
+ "head_rms_0_1.7": 0.055999528616666794,
+ "ambient_rms_0_0.5": 0.08287010341882706,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.61,
+    "end": 8.85,
+    "text": "Bell rang, Watcher. My coin's in the light. Yours is hiding.",
+    "words": [
+     {
+      "w": " Bell",
+      "start": 2.61,
+      "end": 3.09
+     },
+     {
+      "w": " rang,",
+      "start": 3.09,
+      "end": 3.33
+     },
+     {
+      "w": " Watcher.",
+      "start": 3.49,
+      "end": 3.93
+     },
+     {
+      "w": " My",
+      "start": 6.19,
+      "end": 6.67
+     },
+     {
+      "w": " coin's",
+      "start": 6.67,
+      "end": 7.15
+     },
+     {
+      "w": " in",
+      "start": 7.15,
+      "end": 7.19
+     },
+     {
+      "w": " the",
+      "start": 7.19,
+      "end": 7.35
+     },
+     {
+      "w": " light.",
+      "start": 7.35,
+      "end": 7.59
+     },
+     {
+      "w": " Yours",
+      "start": 7.89,
+      "end": 8.37
+     },
+     {
+      "w": " is",
+      "start": 8.37,
+      "end": 8.53
+     },
+     {
+      "w": " hiding.",
+      "start": 8.53,
+      "end": 8.85
+     }
+    ],
+    "seg_rms": 0.0699
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.61,
+    "end": 8.91,
+    "text": "Bell rang, Watcher. My coins in the light. Yours is hiding.",
+    "words": [
+     {
+      "w": " Bell",
+      "start": 2.61,
+      "end": 3.19
+     },
+     {
+      "w": " rang,",
+      "start": 3.19,
+      "end": 3.53
+     },
+     {
+      "w": " Watcher.",
+      "start": 3.73,
+      "end": 3.93
+     },
+     {
+      "w": " My",
+      "start": 6.65,
+      "end": 6.79
+     },
+     {
+      "w": " coins",
+      "start": 6.79,
+      "end": 7.09
+     },
+     {
+      "w": " in",
+      "start": 7.09,
+      "end": 7.29
+     },
+     {
+      "w": " the",
+      "start": 7.29,
+      "end": 7.39
+     },
+     {
+      "w": " light.",
+      "start": 7.39,
+      "end": 7.73
+     },
+     {
+      "w": " Yours",
+      "start": 8.31,
+      "end": 8.43
+     },
+     {
+      "w": " is",
+      "start": 8.43,
+      "end": 8.63
+     },
+     {
+      "w": " hiding.",
+      "start": 8.63,
+      "end": 8.91
+     }
+    ],
+    "seg_rms": 0.0696
+   }
+  ]
+ }
+}

@@ -1,0 +1,382 @@
+{
+ "audio": {
+  "lag": 0,
+  "corr": 0.9986,
+  "n_samples": 3302400,
+  "pass": true
+ },
+ "motion": {
+  "n_frames": 4954,
+  "mean_diff": 6.003,
+  "longest_neardup": 39,
+  "longest_neardup_span_s": [
+   0.0,
+   1.62
+  ],
+  "per_scene": {
+   "S01": {
+    "mean": 0.459,
+    "vocal_mean": 0.518,
+    "vocal_longest_neardup": 9
+   },
+   "S02": {
+    "mean": 14.465,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S03": {
+    "mean": 0.925,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S04": {
+    "mean": 8.326,
+    "vocal_mean": 8.173,
+    "vocal_longest_neardup": 1
+   },
+   "S05": {
+    "mean": 2.568,
+    "vocal_mean": 1.415,
+    "vocal_longest_neardup": 5
+   },
+   "S06": {
+    "mean": 1.371,
+    "vocal_mean": 1.013,
+    "vocal_longest_neardup": 7
+   },
+   "S07": {
+    "mean": 2.266,
+    "vocal_mean": 0.863,
+    "vocal_longest_neardup": 18
+   },
+   "S08": {
+    "mean": 4.099,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S09": {
+    "mean": 7.851,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S10": {
+    "mean": 18.652,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S11": {
+    "mean": 9.511,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S12": {
+    "mean": 6.302,
+    "vocal_mean": 5.026,
+    "vocal_longest_neardup": 1
+   },
+   "S13": {
+    "mean": 6.505,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S14": {
+    "mean": 3.444,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S15": {
+    "mean": 1.816,
+    "vocal_mean": 0.755,
+    "vocal_longest_neardup": 4
+   },
+   "S16": {
+    "mean": 2.946,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S17": {
+    "mean": 4.445,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S18": {
+    "mean": 12.399,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S19a": {
+    "mean": 1.6,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S19b": {
+    "mean": 0.812,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S20": {
+    "mean": 5.087,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S21": {
+    "mean": 11.995,
+    "vocal_mean": 10.522,
+    "vocal_longest_neardup": 2
+   },
+   "S22": {
+    "mean": 2.341,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S23": {
+    "mean": 2.395,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S24": {
+    "mean": 1.6,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S25": {
+    "mean": 2.413,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S26": {
+    "mean": 4.969,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   },
+   "S27": {
+    "mean": 3.062,
+    "vocal_mean": 1.981,
+    "vocal_longest_neardup": 9
+   },
+   "S28": {
+    "mean": 2.021,
+    "vocal_mean": null,
+    "vocal_longest_neardup": null
+   }
+  }
+ },
+ "placement": {
+  "L82-montage-GIRL": {
+   "master_frame": 3806,
+   "take": "mv5_s21_t12",
+   "take_frame": 25,
+   "mean_diff": 1.43,
+   "control_pm12f": 29.05,
+   "wrong_take": 70.14
+  },
+  "L83-montage-CAT": {
+   "master_frame": 3830,
+   "take": "mv5_s21_t13",
+   "take_frame": 24,
+   "mean_diff": 1.25,
+   "control_pm12f": 37.15,
+   "wrong_take": 75.65
+  },
+  "L85-montage-CAT": {
+   "master_frame": 3886,
+   "take": "mv5_s21_t13",
+   "take_frame": 96,
+   "mean_diff": 1.65,
+   "control_pm12f": 42.98,
+   "wrong_take": 68.06
+  },
+  "L87-montage-CAT": {
+   "master_frame": 3936,
+   "take": "mv5_s21_t13",
+   "take_frame": 48,
+   "mean_diff": 1.67,
+   "control_pm12f": 40.68,
+   "wrong_take": 69.21
+  },
+  "L89-montage-CAT": {
+   "master_frame": 3991,
+   "take": "mv5_s21_t13",
+   "take_frame": 71,
+   "mean_diff": 0.77,
+   "control_pm12f": 42.56,
+   "wrong_take": 79.32
+  },
+  "L88-montage-GIRL": {
+   "master_frame": 3965,
+   "take": "mv5_s21_t15",
+   "take_frame": 148,
+   "mean_diff": 2.94,
+   "control_pm12f": 29.69,
+   "wrong_take": 72.13
+  },
+  "L110a": {
+   "master_frame": 4848,
+   "take": "mv5_s28_t1",
+   "take_frame": 32,
+   "mean_diff": 1.69,
+   "control_pm12f": 3.92,
+   "wrong_take": 59.24
+  },
+  "W-S01-Till": {
+   "master_frame": 196,
+   "take": "mv5_s01_t1",
+   "take_frame": 180,
+   "mean_diff": 1.28,
+   "control_pm12f": 3.64,
+   "wrong_take": 75.01
+  },
+  "W-S01-comes": {
+   "master_frame": 215,
+   "take": "mv5_s01_t1",
+   "take_frame": 207,
+   "mean_diff": 1.77,
+   "control_pm12f": 4.78,
+   "wrong_take": 75.56
+  },
+  "W-S04-Salt": {
+   "master_frame": 576,
+   "take": "mv5_s04_t1",
+   "take_frame": 50,
+   "mean_diff": 1.41,
+   "control_pm12f": 24.78,
+   "wrong_take": 71.4
+  },
+  "W-S04-begin": {
+   "master_frame": 698,
+   "take": "mv5_s04_t1",
+   "take_frame": 144,
+   "mean_diff": 1.93,
+   "control_pm12f": 22.89,
+   "wrong_take": 69.11
+  },
+  "W-S05-pier": {
+   "master_frame": 795,
+   "take": "mv5_s05_t1",
+   "take_frame": 31,
+   "mean_diff": 1.87,
+   "control_pm12f": 9.43,
+   "wrong_take": 84.59
+  },
+  "W-S05-Backpack": {
+   "master_frame": 927,
+   "take": "mv5_s05_t1",
+   "take_frame": 170,
+   "mean_diff": 1.82,
+   "control_pm12f": 13.79,
+   "wrong_take": 84.59
+  },
+  "W-S06-hand": {
+   "master_frame": 1007,
+   "take": "mv5_s06_t1",
+   "take_frame": 29,
+   "mean_diff": 3.04,
+   "control_pm12f": 5.65,
+   "wrong_take": 73.51
+  },
+  "W-L12-they": {
+   "master_frame": 1078,
+   "take": "mv5_s06_t2",
+   "take_frame": 18,
+   "mean_diff": 2.03,
+   "control_pm12f": 8.86,
+   "wrong_take": 57.14
+  },
+  "W-L12-understand": {
+   "master_frame": 1099,
+   "take": "mv5_s06_t2",
+   "take_frame": 35,
+   "mean_diff": 3.14,
+   "control_pm12f": 7.7,
+   "wrong_take": 57.38
+  },
+  "W-S07-down": {
+   "master_frame": 1153,
+   "take": "mv5_s07_t1",
+   "take_frame": 14,
+   "mean_diff": 3.52,
+   "control_pm12f": 6.31,
+   "wrong_take": 76.85
+  },
+  "W-L15-look": {
+   "master_frame": 1248,
+   "take": "mv5_s07_t2",
+   "take_frame": 30,
+   "mean_diff": 1.8,
+   "control_pm12f": 11.52,
+   "wrong_take": 63.06
+  },
+  "W-L15-you": {
+   "master_frame": 1261,
+   "take": "mv5_s07_t2",
+   "take_frame": 50,
+   "mean_diff": 1.87,
+   "control_pm12f": 8.95,
+   "wrong_take": 62.97
+  },
+  "W-S07-head": {
+   "master_frame": 1289,
+   "take": "mv5_s07_t1",
+   "take_frame": 204,
+   "mean_diff": 1.97,
+   "control_pm12f": 4.36,
+   "wrong_take": 76.19
+  },
+  "W-S11-mango": {
+   "master_frame": 2083,
+   "take": "mv5_s11_t4",
+   "take_frame": 55,
+   "mean_diff": 1.73,
+   "control_pm12f": 39.56,
+   "wrong_take": 68.8
+  },
+  "W-S12-air": {
+   "master_frame": 2275,
+   "take": "mv5_s12_t1",
+   "take_frame": 34,
+   "mean_diff": 1.4,
+   "control_pm12f": 26.39,
+   "wrong_take": 61.71
+  },
+  "W-S12-bills": {
+   "master_frame": 2358,
+   "take": "mv5_s12_t1",
+   "take_frame": 158,
+   "mean_diff": 5.0,
+   "control_pm12f": 25.27,
+   "wrong_take": 67.28
+  },
+  "W-S15-head": {
+   "master_frame": 2796,
+   "take": "mv5_s15_t1",
+   "take_frame": 43,
+   "mean_diff": 1.88,
+   "control_pm12f": 9.02,
+   "wrong_take": 65.37
+  },
+  "W-S19b-Hand": {
+   "master_frame": 3692,
+   "take": "mv5_s19b_t1",
+   "take_frame": 36,
+   "mean_diff": 0.76,
+   "control_pm12f": 3.9,
+   "wrong_take": 73.18
+  },
+  "W-S20-in": {
+   "master_frame": 3744,
+   "take": "mv5_s20_t1",
+   "take_frame": 34,
+   "mean_diff": 1.64,
+   "control_pm12f": 16.55,
+   "wrong_take": 59.96
+  },
+  "W-S23-need": {
+   "master_frame": 4204,
+   "take": "mv5_s23_t1",
+   "take_frame": 154,
+   "mean_diff": 2.96,
+   "control_pm12f": 5.11,
+   "wrong_take": 66.31
+  }
+ }
+}

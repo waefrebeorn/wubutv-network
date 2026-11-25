@@ -1,0 +1,120 @@
+{
+ "job": "HOLD ON E3 Part 2 'Write That I Paid' \u2014 production + assembly (first coordinator: U1-U2 + panels/plates; successor coordinator 8397e714: U3-U6 + assembly + gates)",
+ "date": "2026-11-24",
+ "script": "SCRIPT_PART2.md LOCKED v1 (parent-written 2026-11-23; cold read PASS, work/COLD_READ_PART2.md)",
+ "master": {
+  "path": "masters/E3_hold-on_part2_16x9.mp4",
+  "md5": "8bce866379c109b22ceefe78757fad05",
+  "bytes": 21947820,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "frames": 1440,
+  "duration_s": 60.0,
+  "video": "h264 CRF 18 (proven by size differential: CRF23 encode of the same joined file = 11,412,268 bytes, work/assembly_part2/joined_part2_crf23.mp4; ratio 1.92x; SEI string not used)",
+  "audio": "AAC 48kHz 192k, two-pass loudnorm to -18.61 LUFS / TP -2.29 (joined measured -20.09 LUFS / TP -0.33; target -18 / -2)",
+  "subtitles": "mov_text (14 cues) + burned-in ASS, scripted lines at the takes' measured Checkpoint-A timings (work/assembly_part2/subs_part2.ass/.srt)",
+  "corner_bug": "~ WuBu ~ gold serif bottom-right, verified head (2s) and tail (59.5s)",
+  "faststart": true,
+  "joined_verified_before_encode": "work/assembly_part2/joined_part2.mp4: 1440f video, audio stream exactly 60.000000s, zero start offsets, concat FILTER join of 6 x 240f plate-composited segments",
+  "container_note": "format/video duration fields read 60.041667s (mdhd counts one extra frame interval, inherited from segment timestamps); decoded content is exactly 1440 frames with a 60.000000s audio stream \u2014 disclosed in GATE_LOG_PART2.md SS7"
+ },
+ "chat_copy": {
+  "path": "masters/E3_hold-on_part2_16x9_chat.mp4",
+  "md5": "8bce866379c109b22ceefe78757fad05",
+  "bytes": 21947820,
+  "note": "byte-identical copy of the master under a fresh filename; 21.95 MB <= 50 MB"
+ },
+ "poster": "masters/E3_hold-on_part2_poster.png (44s bell-reveal frame)",
+ "gate_log": "GATE_LOG_PART2.md (SS1 panels, SS2 sequence/animatic, SS3 per-take QC U1-U6, SS4 voice checks, SS5 joints J1-J5, SS6 master gates, SS7 delivery record)",
+ "flag": "none \u2014 no delivered flag written and no commit made, per the successor brief; the parent verifies from disk and delivers",
+ "commits": "none \u2014 parent commits",
+ "gates": {
+  "F-9": "PASS \u2014 14/14 scripted lines on the MASTER's own audio, Checkpoint A verbatim, in order, zero extra, zero missing (work/qc_part2/master/asr.json); Checkpoint B agrees modulo standing homophone noise at U2 L2 / U5 L2, adjudicated to A",
+  "load_bearing_lines": "PASS \u2014 U4 L1 'That hand's been in your pocket all morning.' verbatim on take and master (master 32.50-34.48); U6 L2 'The street votes on his name tonight.' verbatim on ship take U6_t4 and master (54.08-55.86) after the exemption refire chain t1/t2/t3",
+  "buried_hand_law": "PASS \u2014 the Watcher's left hand stays in his coat pocket in every unit U1-U6; front-readable proof at U5 (all sampled frames) and U6_t4 3.0s; never comes out before or during the U5 coat-swing",
+  "ear_test": "PASS (ASR-mediated cold read of the master vs the locked script; user's playback verdict remains the authority)",
+  "gate_f_cold_run": "PASS \u2014 the whole case retells from the finished master alone, closing question lands unaided",
+  "master_stranger_test": "PASS (floor check)",
+  "poster_frame": "PASS",
+  "structural": "PASS \u2014 1440f / audio 60.000000s / zero start offsets / faststart; container duration-field wart disclosed, no structural fix outstanding",
+  "wordmark": "PASS \u2014 '~ WuBu ~' exact, head and tail frames",
+  "blam": "take-level record stands (U1 coin-slap head, first word 1.20s; first cut at exactly 10.0s by construction)"
+ },
+ "units": [
+  {
+   "unit": "U1",
+   "take": "takes_part2/U1_t1.mp4",
+   "md5": "38f36553a181a2e25ee63f28757da0cc",
+   "status": "accepted, first take (first coordinator)",
+   "disclosed_defects": [
+    "faint generated palette-word chalk on the wall at frame right (accepted at take level; PIL stack covers the record field)"
+   ]
+  },
+  {
+   "unit": "U2",
+   "take": "takes_part2/U2_t1.mp4",
+   "md5": "b85d53050dadfb137b49b212ff4f9ea9",
+   "status": "accepted, first take (first coordinator)",
+   "disclosed_defects": [
+    "distil-checkpoint 'where's' homophone noise adjudicated to Checkpoint A"
+   ]
+  },
+  {
+   "unit": "U3",
+   "take": "takes_part2/U3_t1.mp4",
+   "md5": "c3c74a267e37fefad6946ea2ca711e3d",
+   "status": "accepted, first take (successor; landed after the 502 outage lifted)",
+   "disclosed_defects": [
+    "slow camera reframe instead of the locked shot",
+    "faint extra coin-like discs on the counter stone",
+    "Laura drifts out of frame in the back half",
+    "GAP 1 performed ~2.8s vs 2.0s scripted"
+   ]
+  },
+  {
+   "unit": "U4",
+   "take": "takes_part2/U4_t1.mp4",
+   "md5": "7464ad43de55b9c573b4b70bad1a79af",
+   "status": "accepted, first take; load-bearing L1 verbatim",
+   "disclosed_defects": [
+    "Laura's pocket-gaze lands cleanly only in the 3.0s frame",
+    "his chalk reads raised toward her rather than arrested mid-stroke at the wall"
+   ]
+  },
+  {
+   "unit": "U5",
+   "take": "takes_part2/U5_t1.mp4",
+   "md5": "0e4315268046b32e42f252ed8952f8b7",
+   "status": "accepted, first take",
+   "disclosed_defects": [
+    "pocket coins visible during the GAP-2 hold, before the crack (reveal pre-shown inside its own unit)",
+    "the Watcher reads auburn-haired/younger under a bluer grade (light drift across J4)",
+    "Marta's coin pinched between fingers rather than open-palmed",
+    "both lines delivered as one contiguous span 2.61-8.85"
+   ]
+  },
+  {
+   "unit": "U6",
+   "take": "takes_part2/U6_t4.mp4",
+   "md5": "2bb2b7c1d809913009de0ba14c8a18e1",
+   "status": "accepted, fourth take under the load-bearing exemption (t1 76af74c6ce0271df6a7a571e8031492e rejected: L2 garbled 'street vote votes'; t2 b3e9fbdc8aaeb9da12b81b8d6f0c30a2 rejected: L2 + echoed 'tonight'; t3 6f2b92dfd88f1eef22e311afebd80680 rejected: L2 clean but readable generated wall lettering 'WATCHER')",
+   "disclosed_defects": [
+    "camera roams wall-side/down-street instead of the locked wide shot (constant across all four U6 takes)",
+    "no native freeze \u2014 final 2.5s are a post hold of the 7.5s frame, after all dialogue",
+    "both lines delivered early as one span (1.01-5.84), leaving a long silent walk-away tail (serves the SILENCE-BEAT design)",
+    "Marta's expression softens toward a smile at 3.0s"
+   ]
+  }
+ ],
+ "cast_log": "LAURA (speaker, U2/U4/U6) \u00b7 MARTA (speaker, U1/U3/U5) \u00b7 THE WATCHER (silent throughout \u2014 never speaks, per script) \u00b7 THE COURIER (silent, hands open around the ring-box) \u00b7 queue. Camp B held: one speaker per unit; the accused never speaks and his closed hand convicts him (mirror of Part 1).",
+ "speech_totals": "14/14 scripted lines across all six units on dual-checkpoint ASR, per-take and on the master; zero unscripted spoken words in any accepted take; the Watcher speaks zero words in the episode",
+ "ruling": "FAIL-ONCE-THEN-SHIP for ordinary lines (no unit needed it \u2014 U1-U5 landed first takes); the two designated load-bearing lines exempt from the cap and refired until verbatim (U4 L1 first take; U6 L2 on the fourth take). Gates disclose rather than block; the user's playback verdict remains the authority above the shipped piece.",
+ "production_note": "Generation ran through a long upstream 502/503 outage window 2026-11-24 ~02:56Z-~08:0xZ (flapping). Outage attempts are not take failures and consumed no refires. All state checkpointed in work/PROGRESS_PART2.md throughout.",
+ "social_caption": {
+  "form": "TORN_FRAGMENT",
+  "caption": "in his pocket yesterday",
+  "source": "BRIEF_PART2.md SS5.5 (for the parent's posting step)"
+ },
+ "supersedes": null
+}

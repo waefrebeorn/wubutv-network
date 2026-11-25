@@ -1,0 +1,50 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s08-t1-0-14d70a5f-2930-464a-84b6-f2a4decf545d.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "You didn't watch the late nights.",
+   "avg_logprob": -0.373,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " You",
+     "start": 0.0,
+     "end": 0.86,
+     "probability": 0.626
+    },
+    {
+     "word": " didn't",
+     "start": 0.86,
+     "end": 1.08,
+     "probability": 0.993
+    },
+    {
+     "word": " watch",
+     "start": 1.08,
+     "end": 1.28,
+     "probability": 0.996
+    },
+    {
+     "word": " the",
+     "start": 1.28,
+     "end": 1.42,
+     "probability": 0.593
+    },
+    {
+     "word": " late",
+     "start": 1.42,
+     "end": 1.6,
+     "probability": 0.849
+    },
+    {
+     "word": " nights.",
+     "start": 1.6,
+     "end": 2.0,
+     "probability": 0.975
+    }
+   ]
+  }
+ ]
+}

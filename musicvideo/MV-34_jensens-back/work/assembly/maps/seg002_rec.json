@@ -1,0 +1,70 @@
+{
+ "seg": 2,
+ "scene": "S02",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s02-t5-desc-0-213e4b3d-2e38-4947-aa99-1da7f589f93e.mp4",
+ "take_span": [
+  0.0,
+  10.0
+ ],
+ "song_span": [
+  7.666666666666667,
+  14.958333333333334
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  0.846,
+  0.433,
+  0.791,
+  1.863
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 1.8284
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 300.0,
+   "worst_anchor_drift_ms": 233.3
+  }
+ ],
+ "penalty_extra_words": 0,
+ "worst_word_drift": {
+  "word": "He's",
+  "song_onset": 11.26,
+  "take_onset": 7.52,
+  "carried": false,
+  "drift_ms": 233.3
+ },
+ "word_drifts": [
+  {
+   "word": "He's",
+   "song_onset": 7.68,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": -13.3
+  },
+  {
+   "word": "back",
+   "song_onset": 8.36,
+   "take_onset": 0.82,
+   "carried": false,
+   "drift_ms": -216.7
+  },
+  {
+   "word": "He's",
+   "song_onset": 11.26,
+   "take_onset": 7.52,
+   "carried": false,
+   "drift_ms": 233.3
+  },
+  {
+   "word": "back",
+   "song_onset": 11.94,
+   "take_onset": 8.38,
+   "carried": false,
+   "drift_ms": 56.7
+  }
+ ]
+}

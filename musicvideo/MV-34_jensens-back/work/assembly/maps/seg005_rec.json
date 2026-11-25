@@ -1,0 +1,85 @@
+{
+ "seg": 5,
+ "scene": "S04a",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s04-t1-desc-0-86d8d668-9a5c-4e3b-8156-27b19f1dc512.mp4",
+ "take_span": [
+  0.0,
+  4.52
+ ],
+ "song_span": [
+  19.166666666666668,
+  21.625
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  0.473,
+  0.714,
+  0.625,
+  0.49,
+  0.317
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 0.6299
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 300.0,
+   "worst_anchor_drift_ms": 175.0
+  }
+ ],
+ "penalty_extra_words": 1,
+ "worst_word_drift": {
+  "word": "talked",
+  "song_onset": 20.86,
+  "take_onset": 2.64,
+  "carried": false,
+  "drift_ms": -175.0
+ },
+ "word_drifts": [
+  {
+   "word": "Stock",
+   "song_onset": 19.166666666666668,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": 0.0
+  },
+  {
+   "word": "went",
+   "song_onset": 19.46,
+   "take_onset": 0.62,
+   "carried": false,
+   "drift_ms": 16.7
+  },
+  {
+   "word": "down,",
+   "song_onset": 19.76,
+   "take_onset": 1.08,
+   "carried": false,
+   "drift_ms": 5.2
+  },
+  {
+   "word": "people",
+   "song_onset": 20.56,
+   "take_onset": 2.16,
+   "carried": false,
+   "drift_ms": -115.0
+  },
+  {
+   "word": "talked",
+   "song_onset": 20.86,
+   "take_onset": 2.64,
+   "carried": false,
+   "drift_ms": -175.0
+  },
+  {
+   "word": "Now",
+   "song_onset": 21.34,
+   "take_onset": 3.62,
+   "carried": false,
+   "drift_ms": -165.0
+  }
+ ]
+}

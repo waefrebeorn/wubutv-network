@@ -1,0 +1,95 @@
+{
+ "project": "MV-33_glue-your-shit-smooth-on",
+ "stage": "assembly",
+ "supersedes": "prepro COMPLETION.json (its facts stay in MV_PREPRO_MV-33.md)",
+ "status": "MASTER BUILT \u2014 all structural gates PASS; delivered to parent for verification/flag/commit/delivery (no flag, no delivery, no commit by this coordinator)",
+ "master": {
+  "path": "masters/mv33_glue-your-shit-smooth-on_16x9.mp4",
+  "md5": "9d2fb5c61089b9ac2eed75b3e47f17a1",
+  "bytes": 131524332,
+  "spec": "h264 1280x720 24fps, 4743 frames, 197.625s, AAC 48kHz stereo from track.mp3, mov_text 66 cues, burned-in karaoke ASS, ~ WuBu ~ corner bug, faststart"
+ },
+ "chat_copy": {
+  "path": "masters/mv33_glue-your-shit-smooth-on_16x9_50mb.mp4",
+  "md5": "2513537d8c78e947150a6a0e0ac8e905",
+  "bytes": 37120990,
+  "note": "bitrate-capped encode (1350k/1500k), audio + subtitles copied"
+ },
+ "gates": {
+  "warp_slope_histogram_pre_encode": {
+   "verdict": "PASS",
+   "samples": 17505,
+   "ratio_min": 0.5,
+   "ratio_max": 2.0,
+   "out_of_cap": 0
+  },
+  "pacing": {
+   "verdict": "PASS",
+   "edit_units": 46,
+   "median_shot_s": 4.1,
+   "mean_shot_s": 4.3,
+   "sub_1s": 2,
+   "sub_1s_named": [
+    "seg08 S05b-c1 0.88s",
+    "seg40 S25-c2 0.75s"
+   ],
+   "sub_0.5s": 0,
+   "max_units_in_30s": 9
+  },
+  "context_rhythm_realized": {
+   "words": 264,
+   "within_120ms": 202,
+   "within_250ms": 238,
+   "in_beat_cell": 210,
+   "grid": "115.0 BPM, period 0.5217s, phase 0.27s",
+   "table": "work/assembly/rhythm_table.json"
+  },
+  "crf18_proof": {
+   "verdict": "PASS",
+   "method": "size differential, same joined file + filter chain (SEI never cited)",
+   "master_bytes": 131524332,
+   "crf23_twin_bytes": 69069828,
+   "differential": 1.904
+  },
+  "joined_probe": {
+   "verdict": "PASS",
+   "frames": 4743,
+   "duration_s": 197.623,
+   "track_s": 197.611
+  },
+  "master_probe": {
+   "verdict": "PASS",
+   "frames": 4743,
+   "duration_s": 197.625,
+   "subtitle_cues": 66,
+   "faststart": true
+  },
+  "huang_expression_law_s04": {
+   "verdict": "PASS",
+   "evidence": "take QC V-09 + assembly eye check of extracted frames f_0024 (mouth closed, grave, inside sung span) and f_0072 (departure, face not visible)"
+  },
+  "subtitles": {
+   "verdict": "PASS",
+   "mov_text_cues": 66,
+   "ass_events": 324,
+   "ass_header": "verbatim from shipped MV-28 (Format includes Layer)",
+   "only_fallback": "L49 syllable-weight split (ASR-silent inferred line)"
+  }
+ },
+ "covers": "8 designed cover spans, ledgered in GATE_LOG.md (S05b x2 pieces, S11 salute hold, S15 excised gap, S19 gap+bow-wave, S20 hold tail for Breakdown L4, S21 opening for L5 doublet, S25 ovation x3 pieces). Rejected takes never used: S05b t2 (paraphrase), S14 t1, S23 t1.",
+ "adjudications": [
+  "S08 hero hook: modelled FA from RMS two-burst envelope (ASR repeat suppression) \u2014 disclosed in GATE_LOG",
+  "S26 L2 anchors from distil checkpoint (large-v3 token rides reverb tail; RMS-verified); scene split at the take's silent gap",
+  "S13 paired from distil wholesale (large-v3 chunks infeasible 0.39/2.88; texts agree verbatim)",
+  "S12 chunk-start 3.00s (false start never shown); S27-A pickup 'And' trimmed at chunk head",
+  "S24 centre-crop 1152:648:0:60 at conform per parent ruling; master spot-check t=163 confirms composition intact"
+ ],
+ "disclosed_residuals": [
+  "Carried sustain-cluster words land late inside held phrases with both edges anchored: S21 is +998/not +507, S16 is +738/not +483, S25 is +470 (cap floor 0.50; breaking the cap is banned)",
+  "S27-A final 'on' -837ms (take sings the line in ~2.5s vs the track's 5.96s sustain; sustain plays over the heart-fold)",
+  "Single-word performance-shape residuals: S03 glue -665, S14 advised -477, S19a head ~+450, S02 coal -390, S24 it -430, S18 then -377",
+  "S17 tube label legibly reads 'Smooth-On' \u2014 sanctioned diegetic-lettering class (parent's call at take QC)"
+ ],
+ "build_notes": "One assembly pass owned work/joined.mp4. Render under systemd units (wubu-mv33-assembly, wubu-mv33-encode) after the runtime reaper risk was identified; build ledger-resumable throughout. Full running log: work/assembly/ASSEMBLY_LOG.md; machine records: work/assembly/segment_plan.json, maps/, rhythm_table.json, histogram.json.",
+ "gate_log": "GATE_LOG.md"
+}

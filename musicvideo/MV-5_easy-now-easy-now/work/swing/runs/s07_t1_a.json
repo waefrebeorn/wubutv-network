@@ -1,0 +1,540 @@
+{
+ "take": "mv5_s07_t1.mp4",
+ "take_duration_s": 10.027,
+ "prompted_line": "Slow down, take your time, let the hard week fade",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 47.76-51.46",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Slow",
+    0.0,
+    0.4
+   ],
+   [
+    "down,",
+    0.4,
+    0.98
+   ],
+   [
+    "take",
+    1.5,
+    1.66
+   ],
+   [
+    "your",
+    1.66,
+    1.94
+   ],
+   [
+    "time,",
+    1.94,
+    2.74
+   ],
+   [
+    "let",
+    3.0,
+    3.3
+   ],
+   [
+    "the",
+    3.3,
+    3.58
+   ],
+   [
+    "hard",
+    3.58,
+    3.98
+   ],
+   [
+    "week",
+    3.98,
+    4.28
+   ],
+   [
+    "fade",
+    4.28,
+    4.84
+   ],
+   [
+    "One",
+    4.84,
+    5.38
+   ],
+   [
+    "small",
+    5.38,
+    5.76
+   ],
+   [
+    "look",
+    5.76,
+    6.12
+   ],
+   [
+    "from",
+    6.12,
+    6.38
+   ],
+   [
+    "you,",
+    6.38,
+    6.9
+   ],
+   [
+    "and",
+    7.26,
+    7.64
+   ],
+   [
+    "my",
+    7.64,
+    7.86
+   ],
+   [
+    "whole",
+    7.86,
+    8.26
+   ],
+   [
+    "head",
+    8.26,
+    8.78
+   ],
+   [
+    "replays",
+    8.78,
+    10.0
+   ]
+  ],
+  "prompted": [
+   [
+    "Slow",
+    0.0,
+    0.4
+   ],
+   [
+    "down,",
+    0.4,
+    0.86
+   ],
+   [
+    "take",
+    0.86,
+    1.68
+   ],
+   [
+    "your",
+    1.68,
+    1.96
+   ],
+   [
+    "time,",
+    1.96,
+    2.82
+   ],
+   [
+    "let",
+    3.12,
+    3.3
+   ],
+   [
+    "the",
+    3.3,
+    3.56
+   ],
+   [
+    "hard",
+    3.56,
+    3.96
+   ],
+   [
+    "week",
+    3.96,
+    4.28
+   ],
+   [
+    "fade",
+    4.28,
+    4.82
+   ],
+   [
+    "One",
+    4.82,
+    5.38
+   ],
+   [
+    "small",
+    5.38,
+    5.76
+   ],
+   [
+    "look",
+    5.76,
+    6.12
+   ],
+   [
+    "from",
+    6.12,
+    6.38
+   ],
+   [
+    "you,",
+    6.38,
+    6.9
+   ],
+   [
+    "and",
+    7.12,
+    7.64
+   ],
+   [
+    "my",
+    7.64,
+    7.86
+   ],
+   [
+    "whole",
+    7.86,
+    8.24
+   ],
+   [
+    "head",
+    8.24,
+    8.76
+   ],
+   [
+    "replays",
+    8.76,
+    10.0
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 0.793,
+ "words": [
+  {
+   "song_word": "down",
+   "song_start": 47.96,
+   "song_end": 48.34,
+   "take_word": "down,",
+   "take_start": 0.4,
+   "take_end": 0.98,
+   "source": "unprompted",
+   "raw_offset": -47.56,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.1,
+    "song_interval_s": 0.76,
+    "playback_speed": 1.447,
+    "setpts_factor": 0.6909,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "take",
+   "song_start": 48.72,
+   "song_end": 48.8,
+   "take_word": "take",
+   "take_start": 1.5,
+   "take_end": 1.66,
+   "source": "unprompted",
+   "raw_offset": -47.22,
+   "swing_offset": 0.34,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.16,
+    "song_interval_s": 0.08,
+    "playback_speed": 2.0,
+    "setpts_factor": 0.5,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "your",
+   "song_start": 48.8,
+   "song_end": 49.14,
+   "take_word": "your",
+   "take_start": 1.66,
+   "take_end": 1.94,
+   "source": "unprompted",
+   "raw_offset": -47.14,
+   "swing_offset": 0.42,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.28,
+    "song_interval_s": 0.34,
+    "playback_speed": 0.824,
+    "setpts_factor": 1.2143,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "time",
+   "song_start": 49.14,
+   "song_end": 49.56,
+   "take_word": "time,",
+   "take_start": 1.94,
+   "take_end": 2.74,
+   "source": "unprompted",
+   "raw_offset": -47.2,
+   "swing_offset": 0.36,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.06,
+    "song_interval_s": 0.62,
+    "playback_speed": 1.71,
+    "setpts_factor": 0.5849,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Let",
+   "song_start": 49.76,
+   "song_end": 49.94,
+   "take_word": "let",
+   "take_start": 3.0,
+   "take_end": 3.3,
+   "source": "unprompted",
+   "raw_offset": -46.76,
+   "swing_offset": 0.8,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.3,
+    "song_interval_s": 0.18,
+    "playback_speed": 1.667,
+    "setpts_factor": 0.6,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 49.94,
+   "song_end": 50.18,
+   "take_word": "the",
+   "take_start": 3.3,
+   "take_end": 3.58,
+   "source": "unprompted",
+   "raw_offset": -46.64,
+   "swing_offset": 0.92,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.28,
+    "song_interval_s": 0.24,
+    "playback_speed": 1.167,
+    "setpts_factor": 0.8571,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "hard",
+   "song_start": 50.18,
+   "song_end": 50.52,
+   "take_word": "hard",
+   "take_start": 3.58,
+   "take_end": 3.98,
+   "source": "unprompted",
+   "raw_offset": -46.6,
+   "swing_offset": 0.96,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.4,
+    "song_interval_s": 0.34,
+    "playback_speed": 1.176,
+    "setpts_factor": 0.85,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "week",
+   "song_start": 50.52,
+   "song_end": 50.8,
+   "take_word": "week",
+   "take_start": 3.98,
+   "take_end": 4.28,
+   "source": "unprompted",
+   "raw_offset": -46.54,
+   "swing_offset": 1.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.3,
+    "song_interval_s": 0.28,
+    "playback_speed": 1.071,
+    "setpts_factor": 0.9333,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "fade",
+   "song_start": 50.8,
+   "song_end": 51.48,
+   "take_word": "fade",
+   "take_start": 4.28,
+   "take_end": 4.84,
+   "source": "unprompted",
+   "raw_offset": -46.52,
+   "swing_offset": 1.04,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.56,
+    "song_interval_s": 0.68,
+    "playback_speed": 0.824,
+    "setpts_factor": 1.2143,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  }
+ ],
+ "extras": [
+  {
+   "word": "Slow",
+   "start": 0.0,
+   "end": 0.4,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "One",
+   "start": 4.84,
+   "end": 5.38,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "small",
+   "start": 5.38,
+   "end": 5.76,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "look",
+   "start": 5.76,
+   "end": 6.12,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "from",
+   "start": 6.12,
+   "end": 6.38,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "you,",
+   "start": 6.38,
+   "end": 6.9,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "and",
+   "start": 7.26,
+   "end": 7.64,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "my",
+   "start": 7.64,
+   "end": 7.86,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "whole",
+   "start": 7.86,
+   "end": 8.26,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "head",
+   "start": 8.26,
+   "end": 8.78,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  },
+  {
+   "word": "replays",
+   "start": 8.78,
+   "end": 10.0,
+   "class": "extra",
+   "counts_as": "unmatched take word"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "down",
+   "song_time": 47.96,
+   "take_time": 0.4
+  },
+  {
+   "word": "take",
+   "song_time": 48.72,
+   "take_time": 1.5
+  },
+  {
+   "word": "your",
+   "song_time": 48.8,
+   "take_time": 1.66
+  },
+  {
+   "word": "time",
+   "song_time": 49.14,
+   "take_time": 1.94
+  },
+  {
+   "word": "Let",
+   "song_time": 49.76,
+   "take_time": 3.0
+  },
+  {
+   "word": "the",
+   "song_time": 49.94,
+   "take_time": 3.3
+  },
+  {
+   "word": "hard",
+   "song_time": 50.18,
+   "take_time": 3.58
+  },
+  {
+   "word": "week",
+   "song_time": 50.52,
+   "take_time": 3.98
+  },
+  {
+   "word": "fade",
+   "song_time": 50.8,
+   "take_time": 4.28
+  }
+ ],
+ "montage_cuts": [],
+ "summary": {
+  "WARPABLE": 9
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

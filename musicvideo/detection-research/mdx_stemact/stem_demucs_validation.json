@@ -1,0 +1,119 @@
+{
+  "stem": "demucs",
+  "vocals": "../c11_mir/separation_mv14/mv14_44k_(Vocals)_htdemucs.wav",
+  "track": "MV-14 (161.6 s)",
+  "stem_corr_vs_demucs_mono": 1.0,
+  "bar_a": {
+    "n_ref_segments": 12,
+    "n_ref_spans_overlap_merged": 11,
+    "n_pred_segments": 12,
+    "n_pred_extra_pieces": 0,
+    "dStart_per_span_s": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max_abs_dStart_s": 0.0,
+    "dEnd_per_span_s": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max_abs_dEnd_s": 0.0,
+    "bar_s": 0.5,
+    "pass": true,
+    "pred_segments": [
+      [
+        14.14,
+        21.29
+      ],
+      [
+        22.01,
+        34.95
+      ],
+      [
+        36.23,
+        55.13
+      ],
+      [
+        56.11,
+        60.53
+      ],
+      [
+        61.17,
+        65.87
+      ],
+      [
+        66.4,
+        82.38
+      ],
+      [
+        81.78,
+        103.86
+      ],
+      [
+        104.29,
+        131.16
+      ],
+      [
+        133.49,
+        136.74
+      ],
+      [
+        139.09,
+        141.95
+      ],
+      [
+        143.88,
+        152.5
+      ],
+      [
+        155.21,
+        159.53
+      ]
+    ]
+  },
+  "bar_b": {
+    "method": "25 ms RMS envelope (16 kHz mono, win=hop=400); sung = inside ref segments 1-10, instrumental = outside all 12 ref segments (bleed 11-12 excluded from both classes)",
+    "sung": {
+      "n_frames": 4742,
+      "median": 0.06324711080961821,
+      "q25": 0.026736864915422695,
+      "q75": 0.09159727055763643,
+      "iqr": 0.06486040564221374
+    },
+    "instrumental": {
+      "n_frames": 1205,
+      "median": 0.00031542330703238265,
+      "q25": 5.404156912984975e-05,
+      "q75": 0.0016342523343290363,
+      "iqr": 0.0015802107651991866
+    },
+    "iqr_non_overlap": true,
+    "pass": true,
+    "secondary_ratio": {
+      "method": "sprint-6 statistic (median envelope inside all 12 ref segments vs outside), verbatim from validate_fulltrack.active_silent_ratio",
+      "active_median_env": 0.06026149947089065,
+      "silent_median_env": 0.00031542330703238265,
+      "ratio": 191.04960897738593,
+      "bar_ratio": 100,
+      "ratio_pass": true
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+ "track": "work/otaku_qc/U23_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 10.0,
+ "n_words": 7,
+ "words": [
+  {
+   "word": "I",
+   "start": 0.0,
+   "end": 0.86,
+   "prob": 0.753
+  },
+  {
+   "word": "made",
+   "start": 0.86,
+   "end": 1.14,
+   "prob": 0.971
+  },
+  {
+   "word": "this",
+   "start": 1.14,
+   "end": 1.54,
+   "prob": 0.997
+  },
+  {
+   "word": "mess",
+   "start": 1.54,
+   "end": 1.92,
+   "prob": 0.997
+  },
+  {
+   "word": "on",
+   "start": 1.92,
+   "end": 2.34,
+   "prob": 0.995
+  },
+  {
+   "word": "purpose",
+   "start": 2.34,
+   "end": 2.96,
+   "prob": 0.991
+  },
+  {
+   "word": "too",
+   "start": 2.96,
+   "end": 3.56,
+   "prob": 0.758
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.56,
+   "text": "I made this mess on purpose too"
+  }
+ ]
+}

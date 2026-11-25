@@ -1,0 +1,47 @@
+{
+ "file": "track.mp3",
+ "head_rms_0_1.7": 0.09064249694347382,
+ "ambient_rms_0_0.5": 0.08864323049783707,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 3.12,
+    "end": 3.98,
+    "text": "Jensen's back",
+    "words": [
+     {
+      "w": " Jensen's",
+      "start": 3.12,
+      "end": 3.74
+     },
+     {
+      "w": " back",
+      "start": 3.74,
+      "end": 3.98
+     }
+    ],
+    "seg_rms": 0.0738
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 3.12,
+    "end": 4.06,
+    "text": "Jameson's back.",
+    "words": [
+     {
+      "w": " Jameson's",
+      "start": 3.12,
+      "end": 3.9
+     },
+     {
+      "w": " back.",
+      "start": 3.9,
+      "end": 4.06
+     }
+    ],
+    "seg_rms": 0.0726
+   }
+  ]
+ }
+}

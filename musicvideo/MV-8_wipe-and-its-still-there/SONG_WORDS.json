@@ -1,0 +1,808 @@
+{
+ "track": "work/track_16k.wav",
+ "model": "small",
+ "language": "en",
+ "duration": 187.2,
+ "n_words": 112,
+ "words": [
+  {
+   "word": "Sitting",
+   "start": 60.46,
+   "end": 61.28,
+   "prob": 0.036
+  },
+  {
+   "word": "on",
+   "start": 61.28,
+   "end": 61.58,
+   "prob": 0.991
+  },
+  {
+   "word": "the",
+   "start": 61.58,
+   "end": 61.74,
+   "prob": 0.958
+  },
+  {
+   "word": "toilet",
+   "start": 61.74,
+   "end": 62.2,
+   "prob": 0.948
+  },
+  {
+   "word": "Wipe",
+   "start": 63.0,
+   "end": 63.7,
+   "prob": 0.201
+  },
+  {
+   "word": "once,",
+   "start": 63.7,
+   "end": 64.02,
+   "prob": 0.627
+  },
+  {
+   "word": "still",
+   "start": 64.08,
+   "end": 64.5,
+   "prob": 0.256
+  },
+  {
+   "word": "brown",
+   "start": 64.5,
+   "end": 65.12,
+   "prob": 0.885
+  },
+  {
+   "word": "Santa,",
+   "start": 65.12,
+   "end": 65.86,
+   "prob": 0.226
+  },
+  {
+   "word": "wipe,",
+   "start": 66.38,
+   "end": 66.58,
+   "prob": 0.933
+  },
+  {
+   "word": "wipe",
+   "start": 66.64,
+   "end": 66.82,
+   "prob": 0.995
+  },
+  {
+   "word": "again",
+   "start": 66.82,
+   "end": 67.26,
+   "prob": 0.939
+  },
+  {
+   "word": "Wipe",
+   "start": 67.26,
+   "end": 67.6,
+   "prob": 0.812
+  },
+  {
+   "word": "in",
+   "start": 67.6,
+   "end": 67.88,
+   "prob": 0.142
+  },
+  {
+   "word": "the",
+   "start": 67.88,
+   "end": 68.16,
+   "prob": 0.469
+  },
+  {
+   "word": "stool,",
+   "start": 68.16,
+   "end": 68.3,
+   "prob": 0.241
+  },
+  {
+   "word": "there",
+   "start": 68.5,
+   "end": 68.9,
+   "prob": 0.241
+  },
+  {
+   "word": "Never",
+   "start": 68.9,
+   "end": 69.44,
+   "prob": 0.176
+  },
+  {
+   "word": "cleaned",
+   "start": 69.44,
+   "end": 69.96,
+   "prob": 0.429
+  },
+  {
+   "word": "Wipe",
+   "start": 71.0,
+   "end": 71.44,
+   "prob": 0.939
+  },
+  {
+   "word": "in",
+   "start": 71.44,
+   "end": 71.72,
+   "prob": 0.599
+  },
+  {
+   "word": "the",
+   "start": 71.72,
+   "end": 72.32,
+   "prob": 0.93
+  },
+  {
+   "word": "stool,",
+   "start": 72.32,
+   "end": 72.32,
+   "prob": 0.973
+  },
+  {
+   "word": "there",
+   "start": 72.32,
+   "end": 72.9,
+   "prob": 0.89
+  },
+  {
+   "word": "Wipe",
+   "start": 74.89,
+   "end": 75.3,
+   "prob": 0.934
+  },
+  {
+   "word": "in",
+   "start": 75.3,
+   "end": 75.54,
+   "prob": 0.936
+  },
+  {
+   "word": "the",
+   "start": 75.54,
+   "end": 75.68,
+   "prob": 0.99
+  },
+  {
+   "word": "stool",
+   "start": 75.68,
+   "end": 76.02,
+   "prob": 0.996
+  },
+  {
+   "word": "And",
+   "start": 77.56,
+   "end": 78.38,
+   "prob": 0.261
+  },
+  {
+   "word": "there's",
+   "start": 78.38,
+   "end": 79.0,
+   "prob": 0.618
+  },
+  {
+   "word": "water",
+   "start": 79.0,
+   "end": 79.4,
+   "prob": 0.599
+  },
+  {
+   "word": "forever",
+   "start": 79.4,
+   "end": 80.48,
+   "prob": 0.878
+  },
+  {
+   "word": "Wipe",
+   "start": 81.66,
+   "end": 82.48,
+   "prob": 0.865
+  },
+  {
+   "word": "in",
+   "start": 82.48,
+   "end": 83.3,
+   "prob": 0.89
+  },
+  {
+   "word": "the",
+   "start": 83.3,
+   "end": 83.74,
+   "prob": 0.983
+  },
+  {
+   "word": "stool",
+   "start": 83.74,
+   "end": 83.74,
+   "prob": 0.994
+  },
+  {
+   "word": "Wipe",
+   "start": 85.96,
+   "end": 86.78,
+   "prob": 0.519
+  },
+  {
+   "word": "in",
+   "start": 86.78,
+   "end": 87.08,
+   "prob": 0.978
+  },
+  {
+   "word": "the",
+   "start": 87.08,
+   "end": 87.26,
+   "prob": 0.996
+  },
+  {
+   "word": "stool,",
+   "start": 87.26,
+   "end": 87.58,
+   "prob": 0.999
+  },
+  {
+   "word": "baby",
+   "start": 87.6,
+   "end": 88.26,
+   "prob": 0.518
+  },
+  {
+   "word": "Yeah",
+   "start": 90.66,
+   "end": 91.5,
+   "prob": 0.177
+  },
+  {
+   "word": "Wipe",
+   "start": 97.02,
+   "end": 97.86,
+   "prob": 0.056
+  },
+  {
+   "word": "in",
+   "start": 97.86,
+   "end": 98.22,
+   "prob": 0.001
+  },
+  {
+   "word": "the",
+   "start": 98.22,
+   "end": 98.54,
+   "prob": 0.101
+  },
+  {
+   "word": "stool,",
+   "start": 98.54,
+   "end": 98.84,
+   "prob": 0.0
+  },
+  {
+   "word": "baby",
+   "start": 98.94,
+   "end": 99.68,
+   "prob": 0.134
+  },
+  {
+   "word": "Santa,",
+   "start": 102.52,
+   "end": 103.36,
+   "prob": 0.0
+  },
+  {
+   "word": "wipe,",
+   "start": 103.7,
+   "end": 104.12,
+   "prob": 0.009
+  },
+  {
+   "word": "wipe,",
+   "start": 104.26,
+   "end": 104.46,
+   "prob": 0.0
+  },
+  {
+   "word": "never",
+   "start": 104.46,
+   "end": 105.0,
+   "prob": 0.742
+  },
+  {
+   "word": "stop",
+   "start": 105.0,
+   "end": 105.46,
+   "prob": 0.532
+  },
+  {
+   "word": "Wipe",
+   "start": 105.94,
+   "end": 106.36,
+   "prob": 0.433
+  },
+  {
+   "word": "Wipe",
+   "start": 120.4,
+   "end": 121.24,
+   "prob": 0.122
+  },
+  {
+   "word": "in",
+   "start": 121.24,
+   "end": 121.48,
+   "prob": 0.003
+  },
+  {
+   "word": "the",
+   "start": 121.48,
+   "end": 121.78,
+   "prob": 0.349
+  },
+  {
+   "word": "stool,",
+   "start": 121.78,
+   "end": 122.1,
+   "prob": 0.008
+  },
+  {
+   "word": "baby",
+   "start": 122.1,
+   "end": 122.8,
+   "prob": 0.05
+  },
+  {
+   "word": "Paper",
+   "start": 127.44,
+   "end": 128.28,
+   "prob": 0.0
+  },
+  {
+   "word": "comes",
+   "start": 128.28,
+   "end": 129.12,
+   "prob": 0.603
+  },
+  {
+   "word": "back",
+   "start": 129.12,
+   "end": 129.68,
+   "prob": 0.991
+  },
+  {
+   "word": "dirty",
+   "start": 129.68,
+   "end": 130.5,
+   "prob": 0.165
+  },
+  {
+   "word": "Dirty",
+   "start": 130.5,
+   "end": 132.14,
+   "prob": 0.479
+  },
+  {
+   "word": "Brown,",
+   "start": 133.08,
+   "end": 133.92,
+   "prob": 0.234
+  },
+  {
+   "word": "brown,",
+   "start": 134.1,
+   "end": 134.54,
+   "prob": 0.969
+  },
+  {
+   "word": "brown,",
+   "start": 134.54,
+   "end": 135.38,
+   "prob": 0.992
+  },
+  {
+   "word": "brown,",
+   "start": 135.38,
+   "end": 135.9,
+   "prob": 0.985
+  },
+  {
+   "word": "brown",
+   "start": 135.9,
+   "end": 136.34,
+   "prob": 0.899
+  },
+  {
+   "word": "Wipe",
+   "start": 136.34,
+   "end": 136.44,
+   "prob": 0.913
+  },
+  {
+   "word": "in",
+   "start": 136.44,
+   "end": 136.78,
+   "prob": 0.954
+  },
+  {
+   "word": "the",
+   "start": 136.78,
+   "end": 136.96,
+   "prob": 0.992
+  },
+  {
+   "word": "stool,",
+   "start": 136.96,
+   "end": 137.2,
+   "prob": 0.998
+  },
+  {
+   "word": "baby",
+   "start": 137.58,
+   "end": 139.28,
+   "prob": 0.984
+  },
+  {
+   "word": "Wipe",
+   "start": 139.28,
+   "end": 139.52,
+   "prob": 0.715
+  },
+  {
+   "word": "in",
+   "start": 139.52,
+   "end": 140.58,
+   "prob": 0.945
+  },
+  {
+   "word": "the",
+   "start": 140.58,
+   "end": 140.76,
+   "prob": 0.992
+  },
+  {
+   "word": "stool,",
+   "start": 140.76,
+   "end": 140.9,
+   "prob": 0.989
+  },
+  {
+   "word": "baby",
+   "start": 140.96,
+   "end": 142.0,
+   "prob": 0.971
+  },
+  {
+   "word": "The",
+   "start": 142.66,
+   "end": 143.22,
+   "prob": 0.003
+  },
+  {
+   "word": "water",
+   "start": 143.22,
+   "end": 143.88,
+   "prob": 0.105
+  },
+  {
+   "word": "in",
+   "start": 143.88,
+   "end": 144.26,
+   "prob": 0.057
+  },
+  {
+   "word": "this",
+   "start": 144.26,
+   "end": 144.54,
+   "prob": 0.794
+  },
+  {
+   "word": "pipe",
+   "start": 144.54,
+   "end": 144.94,
+   "prob": 0.342
+  },
+  {
+   "word": "Wipe",
+   "start": 144.94,
+   "end": 145.62,
+   "prob": 0.427
+  },
+  {
+   "word": "in",
+   "start": 145.62,
+   "end": 145.8,
+   "prob": 0.843
+  },
+  {
+   "word": "the",
+   "start": 145.8,
+   "end": 146.0,
+   "prob": 0.959
+  },
+  {
+   "word": "stool",
+   "start": 146.0,
+   "end": 146.0,
+   "prob": 0.975
+  },
+  {
+   "word": "I'm",
+   "start": 176.0,
+   "end": 176.34,
+   "prob": 0.111
+  },
+  {
+   "word": "gonna",
+   "start": 176.34,
+   "end": 176.34,
+   "prob": 0.028
+  },
+  {
+   "word": "keep",
+   "start": 176.34,
+   "end": 176.34,
+   "prob": 0.012
+  },
+  {
+   "word": "you",
+   "start": 176.34,
+   "end": 176.54,
+   "prob": 0.086
+  },
+  {
+   "word": "up",
+   "start": 176.54,
+   "end": 177.84,
+   "prob": 0.149
+  },
+  {
+   "word": "to",
+   "start": 177.84,
+   "end": 177.84,
+   "prob": 0.24
+  },
+  {
+   "word": "date",
+   "start": 177.84,
+   "end": 178.0,
+   "prob": 0.896
+  },
+  {
+   "word": "with",
+   "start": 178.0,
+   "end": 178.0,
+   "prob": 0.278
+  },
+  {
+   "word": "me",
+   "start": 178.0,
+   "end": 178.0,
+   "prob": 0.102
+  },
+  {
+   "word": "I'm",
+   "start": 178.0,
+   "end": 178.0,
+   "prob": 0.244
+  },
+  {
+   "word": "gonna,",
+   "start": 178.0,
+   "end": 178.0,
+   "prob": 0.402
+  },
+  {
+   "word": "I'm",
+   "start": 178.0,
+   "end": 178.0,
+   "prob": 0.85
+  },
+  {
+   "word": "gonna,",
+   "start": 178.0,
+   "end": 178.0,
+   "prob": 0.902
+  },
+  {
+   "word": "I'm",
+   "start": 178.0,
+   "end": 178.44,
+   "prob": 0.933
+  },
+  {
+   "word": "gonna,",
+   "start": 178.44,
+   "end": 178.52,
+   "prob": 0.953
+  },
+  {
+   "word": "I'm",
+   "start": 178.52,
+   "end": 179.26,
+   "prob": 0.939
+  },
+  {
+   "word": "gonna",
+   "start": 179.26,
+   "end": 179.46,
+   "prob": 0.958
+  },
+  {
+   "word": "I'm",
+   "start": 179.46,
+   "end": 179.8,
+   "prob": 0.492
+  },
+  {
+   "word": "gonna,",
+   "start": 179.8,
+   "end": 180.14,
+   "prob": 0.947
+  },
+  {
+   "word": "I'm",
+   "start": 180.24,
+   "end": 182.24,
+   "prob": 0.985
+  },
+  {
+   "word": "gonna,",
+   "start": 182.24,
+   "end": 183.08,
+   "prob": 0.991
+  },
+  {
+   "word": "I'm",
+   "start": 184.2,
+   "end": 185.28,
+   "prob": 0.984
+  },
+  {
+   "word": "gonna,",
+   "start": 185.28,
+   "end": 185.28,
+   "prob": 0.992
+  },
+  {
+   "word": "I'm",
+   "start": 185.28,
+   "end": 185.7,
+   "prob": 0.972
+  },
+  {
+   "word": "gonna",
+   "start": 185.7,
+   "end": 185.9,
+   "prob": 0.99
+  }
+ ],
+ "segments": [
+  {
+   "start": 60.46,
+   "end": 62.2,
+   "text": "Sitting on the toilet"
+  },
+  {
+   "start": 63.0,
+   "end": 65.12,
+   "text": "Wipe once, still brown"
+  },
+  {
+   "start": 65.12,
+   "end": 67.26,
+   "text": "Santa, wipe, wipe again"
+  },
+  {
+   "start": 67.26,
+   "end": 68.9,
+   "text": "Wipe in the stool, there"
+  },
+  {
+   "start": 68.9,
+   "end": 69.96,
+   "text": "Never cleaned"
+  },
+  {
+   "start": 71.0,
+   "end": 72.9,
+   "text": "Wipe in the stool, there"
+  },
+  {
+   "start": 75.0,
+   "end": 76.02,
+   "text": "Wipe in the stool"
+  },
+  {
+   "start": 77.56,
+   "end": 80.48,
+   "text": "And there's water forever"
+  },
+  {
+   "start": 81.66,
+   "end": 83.74,
+   "text": "Wipe in the stool"
+  },
+  {
+   "start": 85.96,
+   "end": 88.26,
+   "text": "Wipe in the stool, baby"
+  },
+  {
+   "start": 90.66,
+   "end": 91.5,
+   "text": "Yeah"
+  },
+  {
+   "start": 97.02,
+   "end": 99.68,
+   "text": "Wipe in the stool, baby"
+  },
+  {
+   "start": 102.52,
+   "end": 105.46,
+   "text": "Santa, wipe, wipe, never stop"
+  },
+  {
+   "start": 106.0,
+   "end": 106.36,
+   "text": "Wipe"
+  },
+  {
+   "start": 120.4,
+   "end": 122.8,
+   "text": "Wipe in the stool, baby"
+  },
+  {
+   "start": 127.44,
+   "end": 130.5,
+   "text": "Paper comes back dirty"
+  },
+  {
+   "start": 130.5,
+   "end": 132.14,
+   "text": "Dirty"
+  },
+  {
+   "start": 133.08,
+   "end": 136.34,
+   "text": "Brown, brown, brown, brown, brown"
+  },
+  {
+   "start": 136.34,
+   "end": 139.28,
+   "text": "Wipe in the stool, baby"
+  },
+  {
+   "start": 139.28,
+   "end": 142.0,
+   "text": "Wipe in the stool, baby"
+  },
+  {
+   "start": 142.66,
+   "end": 144.94,
+   "text": "The water in this pipe"
+  },
+  {
+   "start": 144.94,
+   "end": 146.0,
+   "text": "Wipe in the stool"
+  },
+  {
+   "start": 176.0,
+   "end": 178.0,
+   "text": "I'm gonna keep you up to date with me"
+  },
+  {
+   "start": 178.0,
+   "end": 179.46,
+   "text": "I'm gonna, I'm gonna, I'm gonna, I'm gonna"
+  },
+  {
+   "start": 179.46,
+   "end": 185.9,
+   "text": "I'm gonna, I'm gonna, I'm gonna, I'm gonna"
+  }
+ ]
+}

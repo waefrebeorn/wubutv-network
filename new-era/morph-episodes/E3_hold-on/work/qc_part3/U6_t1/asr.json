@@ -1,0 +1,67 @@
+{
+ "file": "takes_part3/U6_t1.mp4",
+ "head_rms_0_1.7": 0.02239072136580944,
+ "ambient_rms_0_0.5": 0.023056916892528534,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 4.75,
+    "end": 6.07,
+    "text": "Your name's up watcher",
+    "words": [
+     {
+      "w": " Your",
+      "start": 4.75,
+      "end": 5.19
+     },
+     {
+      "w": " name's",
+      "start": 5.19,
+      "end": 5.47
+     },
+     {
+      "w": " up",
+      "start": 5.47,
+      "end": 5.61
+     },
+     {
+      "w": " watcher",
+      "start": 5.61,
+      "end": 6.07
+     }
+    ],
+    "seg_rms": 0.0717
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 4.75,
+    "end": 6.09,
+    "text": "Your name's up, watcher.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 4.75,
+      "end": 5.23
+     },
+     {
+      "w": " name's",
+      "start": 5.23,
+      "end": 5.57
+     },
+     {
+      "w": " up,",
+      "start": 5.57,
+      "end": 5.73
+     },
+     {
+      "w": " watcher.",
+      "start": 5.77,
+      "end": 6.09
+     }
+    ],
+    "seg_rms": 0.0716
+   }
+  ]
+ }
+}

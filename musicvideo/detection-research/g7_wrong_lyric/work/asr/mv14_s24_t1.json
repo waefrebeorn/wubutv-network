@@ -1,0 +1,26 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s24-t1-0-71b4ab65-7904-40a0-9e2d-9532bce52bb1.mp4",
+ "segments": [
+  {
+   "start": 2.68,
+   "end": 4.9,
+   "text": "I'm sorry.",
+   "avg_logprob": -1.498,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " I'm",
+     "start": 2.68,
+     "end": 4.08,
+     "probability": 0.104
+    },
+    {
+     "word": " sorry.",
+     "start": 4.08,
+     "end": 4.9,
+     "probability": 0.109
+    }
+   ]
+  }
+ ]
+}

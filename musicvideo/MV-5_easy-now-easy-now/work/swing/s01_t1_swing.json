@@ -1,0 +1,601 @@
+{
+ "take": "mv5_s01_t1.mp4",
+ "take_duration_s": 10.027,
+ "prompted_line": "Easy now, easy now, we ride, we ride, easy now, easy now, till the morning comes",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 1.66-10.04",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase",
+  "is": "easy"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Easy",
+    0.0,
+    0.58
+   ],
+   [
+    "now,",
+    0.58,
+    1.08
+   ],
+   [
+    "easy",
+    1.64,
+    2.14
+   ],
+   [
+    "now,",
+    2.14,
+    2.68
+   ],
+   [
+    "we",
+    2.72,
+    3.1
+   ],
+   [
+    "ride,",
+    3.1,
+    3.56
+   ],
+   [
+    "we",
+    4.08,
+    4.26
+   ],
+   [
+    "ride,",
+    4.26,
+    4.78
+   ],
+   [
+    "easy",
+    5.24,
+    5.66
+   ],
+   [
+    "now,",
+    5.66,
+    5.98
+   ],
+   [
+    "easy",
+    5.98,
+    6.2
+   ],
+   [
+    "now",
+    6.2,
+    6.62
+   ],
+   [
+    "Till",
+    7.5,
+    7.96
+   ],
+   [
+    "the",
+    7.96,
+    8.2
+   ],
+   [
+    "morning",
+    8.2,
+    8.62
+   ],
+   [
+    "comes",
+    8.62,
+    9.28
+   ]
+  ],
+  "prompted": [
+   [
+    "Easy",
+    0.0,
+    0.58
+   ],
+   [
+    "now,",
+    0.58,
+    1.08
+   ],
+   [
+    "easy",
+    1.64,
+    2.14
+   ],
+   [
+    "now,",
+    2.14,
+    2.68
+   ],
+   [
+    "we",
+    2.72,
+    3.1
+   ],
+   [
+    "ride,",
+    3.1,
+    3.56
+   ],
+   [
+    "we",
+    4.08,
+    4.26
+   ],
+   [
+    "ride,",
+    4.26,
+    4.78
+   ],
+   [
+    "easy",
+    5.24,
+    5.66
+   ],
+   [
+    "now,",
+    5.66,
+    5.98
+   ],
+   [
+    "till",
+    5.98,
+    7.46
+   ],
+   [
+    "the",
+    7.46,
+    8.2
+   ],
+   [
+    "morning",
+    8.2,
+    8.62
+   ],
+   [
+    "comes",
+    8.62,
+    9.26
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 0.903,
+ "words": [
+  {
+   "song_word": "Easy",
+   "song_start": 1.66,
+   "song_end": 2.22,
+   "take_word": "Easy",
+   "take_start": 0.0,
+   "take_end": 0.58,
+   "source": "unprompted",
+   "raw_offset": -1.66,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.58,
+    "song_interval_s": 0.56,
+    "playback_speed": 1.036,
+    "setpts_factor": 0.9655,
+    "spans_song_words": 1
+   },
+   "verdict": "GOOD",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 2.22,
+   "song_end": 2.48,
+   "take_word": "now,",
+   "take_start": 0.58,
+   "take_end": 1.08,
+   "source": "unprompted",
+   "raw_offset": -1.64,
+   "swing_offset": 0.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.06,
+    "song_interval_s": 0.56,
+    "playback_speed": 1.893,
+    "setpts_factor": 0.5283,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "easy",
+   "song_start": 2.78,
+   "song_end": 2.96,
+   "take_word": "easy",
+   "take_start": 1.64,
+   "take_end": 2.14,
+   "source": "unprompted",
+   "raw_offset": -1.14,
+   "swing_offset": 0.52,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.5,
+    "song_interval_s": 0.18,
+    "playback_speed": 2.778,
+    "setpts_factor": 0.36,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 2.96,
+   "song_end": 3.58,
+   "take_word": "now,",
+   "take_start": 2.14,
+   "take_end": 2.68,
+   "source": "unprompted",
+   "raw_offset": -0.82,
+   "swing_offset": 0.84,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.58,
+    "song_interval_s": 0.62,
+    "playback_speed": 0.935,
+    "setpts_factor": 1.069,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "We",
+   "song_start": 3.58,
+   "song_end": 4.0,
+   "take_word": "we",
+   "take_start": 2.72,
+   "take_end": 3.1,
+   "source": "unprompted",
+   "raw_offset": -0.86,
+   "swing_offset": 0.8,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.38,
+    "song_interval_s": 0.42,
+    "playback_speed": 0.905,
+    "setpts_factor": 1.1053,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "ride",
+   "song_start": 4.0,
+   "song_end": 4.56,
+   "take_word": "ride,",
+   "take_start": 3.1,
+   "take_end": 3.56,
+   "source": "unprompted",
+   "raw_offset": -0.9,
+   "swing_offset": 0.76,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.98,
+    "song_interval_s": 0.72,
+    "playback_speed": 1.361,
+    "setpts_factor": 0.7347,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "we",
+   "song_start": 4.72,
+   "song_end": 4.9,
+   "take_word": "we",
+   "take_start": 4.08,
+   "take_end": 4.26,
+   "source": "unprompted",
+   "raw_offset": -0.64,
+   "swing_offset": 1.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.18,
+    "song_interval_s": 0.18,
+    "playback_speed": 1.0,
+    "setpts_factor": 1.0,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "ride",
+   "song_start": 4.9,
+   "song_end": 5.98,
+   "take_word": "ride,",
+   "take_start": 4.26,
+   "take_end": 4.78,
+   "source": "unprompted",
+   "raw_offset": -0.64,
+   "swing_offset": 1.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.98,
+    "song_interval_s": 1.08,
+    "playback_speed": 0.907,
+    "setpts_factor": 1.102,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Easy",
+   "song_start": 5.98,
+   "song_end": 6.66,
+   "take_word": "easy",
+   "take_start": 5.24,
+   "take_end": 5.66,
+   "source": "unprompted",
+   "raw_offset": -0.74,
+   "swing_offset": 0.92,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.42,
+    "song_interval_s": 0.68,
+    "playback_speed": 0.618,
+    "setpts_factor": 1.619,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 6.66,
+   "song_end": 7.1,
+   "take_word": "now,",
+   "take_start": 5.66,
+   "take_end": 5.98,
+   "source": "unprompted",
+   "raw_offset": -1.0,
+   "swing_offset": 0.66,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.32,
+    "song_interval_s": 0.66,
+    "playback_speed": 0.485,
+    "setpts_factor": 2.0625,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-out-of-caps",
+   "notes": [
+    "interval needs playback 0.48x \u2014 past the 2x-slow cap; montage, never stretch"
+   ]
+  },
+  {
+   "song_word": "easy",
+   "song_start": 7.32,
+   "song_end": 7.54,
+   "take_word": "easy",
+   "take_start": 5.98,
+   "take_end": 6.2,
+   "source": "unprompted",
+   "raw_offset": -1.34,
+   "swing_offset": 0.32,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.22,
+    "song_interval_s": 0.22,
+    "playback_speed": 1.0,
+    "setpts_factor": 1.0,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 7.54,
+   "song_end": 8.1,
+   "take_word": "now",
+   "take_start": 6.2,
+   "take_end": 6.62,
+   "source": "unprompted",
+   "raw_offset": -1.34,
+   "swing_offset": 0.32,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.3,
+    "song_interval_s": 0.64,
+    "playback_speed": 2.031,
+    "setpts_factor": 0.4923,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "Till",
+   "song_start": 8.18,
+   "song_end": 8.34,
+   "take_word": "Till",
+   "take_start": 7.5,
+   "take_end": 7.96,
+   "source": "unprompted",
+   "raw_offset": -0.68,
+   "swing_offset": 0.98,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.46,
+    "song_interval_s": 0.16,
+    "playback_speed": 2.875,
+    "setpts_factor": 0.3478,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "the",
+   "song_start": 8.34,
+   "song_end": 8.54,
+   "take_word": "the",
+   "take_start": 7.96,
+   "take_end": 8.2,
+   "source": "unprompted",
+   "raw_offset": -0.38,
+   "swing_offset": 1.28,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.24,
+    "song_interval_s": 0.2,
+    "playback_speed": 1.2,
+    "setpts_factor": 0.8333,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "morning",
+   "song_start": 8.54,
+   "song_end": 8.96,
+   "take_word": "morning",
+   "take_start": 8.2,
+   "take_end": 8.62,
+   "source": "unprompted",
+   "raw_offset": -0.34,
+   "swing_offset": 1.32,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.42,
+    "song_interval_s": 0.42,
+    "playback_speed": 1.0,
+    "setpts_factor": 1.0,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "comes",
+   "song_start": 8.96,
+   "song_end": 10.04,
+   "take_word": "comes",
+   "take_start": 8.62,
+   "take_end": 9.28,
+   "source": "unprompted",
+   "raw_offset": -0.34,
+   "swing_offset": 1.32,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.66,
+    "song_interval_s": 1.08,
+    "playback_speed": 0.611,
+    "setpts_factor": 1.6364,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  }
+ ],
+ "extras": [],
+ "keyframes": [
+  {
+   "word": "Easy",
+   "song_time": 1.66,
+   "take_time": 0.0
+  },
+  {
+   "word": "now",
+   "song_time": 2.22,
+   "take_time": 0.58
+  },
+  {
+   "word": "easy",
+   "song_time": 2.78,
+   "take_time": 1.64
+  },
+  {
+   "word": "now",
+   "song_time": 2.96,
+   "take_time": 2.14
+  },
+  {
+   "word": "We",
+   "song_time": 3.58,
+   "take_time": 2.72
+  },
+  {
+   "word": "ride",
+   "song_time": 4.0,
+   "take_time": 3.1
+  },
+  {
+   "word": "we",
+   "song_time": 4.72,
+   "take_time": 4.08
+  },
+  {
+   "word": "ride",
+   "song_time": 4.9,
+   "take_time": 4.26
+  },
+  {
+   "word": "Easy",
+   "song_time": 5.98,
+   "take_time": 5.24
+  },
+  {
+   "word": "easy",
+   "song_time": 7.32,
+   "take_time": 5.98
+  },
+  {
+   "word": "now",
+   "song_time": 7.54,
+   "take_time": 6.2
+  },
+  {
+   "word": "Till",
+   "song_time": 8.18,
+   "take_time": 7.5
+  },
+  {
+   "word": "the",
+   "song_time": 8.34,
+   "take_time": 7.96
+  },
+  {
+   "word": "morning",
+   "song_time": 8.54,
+   "take_time": 8.2
+  },
+  {
+   "word": "comes",
+   "song_time": 8.96,
+   "take_time": 8.62
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "now"
+   ],
+   "span_song": [
+    6.66,
+    7.1
+   ],
+   "cut_out_beat": 6.478,
+   "return_onset": 7.32,
+   "return_beat": 7.616,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "GOOD": 1,
+  "WARPABLE": 14,
+  "BAD-out-of-caps": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

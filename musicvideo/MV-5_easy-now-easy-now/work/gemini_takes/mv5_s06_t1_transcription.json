@@ -1,0 +1,100 @@
+{
+  "file": "mv5_s06_t1.wav",
+  "kind": "Take",
+  "totalWords": 14,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "keys",
+      "start": 0.1,
+      "end": 0.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "in",
+      "start": 0.6,
+      "end": 0.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "your",
+      "start": 0.8,
+      "end": 1.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "hand.",
+      "start": 1.2,
+      "end": 2.3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "You",
+      "start": 3.4,
+      "end": 3.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "nodded",
+      "start": 3.6,
+      "end": 4.3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "at",
+      "start": 4.3,
+      "end": 4.5,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "the",
+      "start": 4.5,
+      "end": 4.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "waves",
+      "start": 4.7,
+      "end": 5.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "like",
+      "start": 5.4,
+      "end": 5.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "yeah,",
+      "start": 5.7,
+      "end": 6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "they",
+      "start": 6,
+      "end": 6.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "already",
+      "start": 6.4,
+      "end": 7.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "understand.",
+      "start": 7.4,
+      "end": 8.8,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.1,
+      "end": 8.8,
+      "text": "keys in your hand. You nodded at the waves like yeah, they already understand."
+    }
+  ]
+}

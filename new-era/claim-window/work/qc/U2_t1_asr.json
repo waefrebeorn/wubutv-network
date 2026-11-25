@@ -1,0 +1,219 @@
+{
+ "file": "takes/U2_t1.mp4",
+ "head_rms_0_1.7": 0.08129099756479263,
+ "ambient_rms_0_0.5": 0.02379687875509262,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.27,
+    "end": 4.83,
+    "text": "The form, colour, handle, what's taped underneath.",
+    "words": [
+     {
+      "w": " The",
+      "start": 0.27,
+      "end": 0.71
+     },
+     {
+      "w": " form,",
+      "start": 0.71,
+      "end": 0.99
+     },
+     {
+      "w": " colour,",
+      "start": 1.11,
+      "end": 1.83
+     },
+     {
+      "w": " handle,",
+      "start": 2.05,
+      "end": 2.89
+     },
+     {
+      "w": " what's",
+      "start": 3.07,
+      "end": 4.19
+     },
+     {
+      "w": " taped",
+      "start": 4.19,
+      "end": 4.41
+     },
+     {
+      "w": " underneath.",
+      "start": 4.41,
+      "end": 4.83
+     }
+    ],
+    "seg_rms": 0.0907
+   },
+   {
+    "start": 6.09,
+    "end": 7.01,
+    "text": "Very umbrella.",
+    "words": [
+     {
+      "w": " Very",
+      "start": 6.09,
+      "end": 6.65
+     },
+     {
+      "w": " umbrella.",
+      "start": 6.65,
+      "end": 7.01
+     }
+    ],
+    "seg_rms": 0.0833
+   },
+   {
+    "start": 7.27,
+    "end": 9.19,
+    "text": "That's not a description, that's a wish.",
+    "words": [
+     {
+      "w": " That's",
+      "start": 7.27,
+      "end": 7.81
+     },
+     {
+      "w": " not",
+      "start": 7.81,
+      "end": 7.91
+     },
+     {
+      "w": " a",
+      "start": 7.91,
+      "end": 8.05
+     },
+     {
+      "w": " description,",
+      "start": 8.05,
+      "end": 8.37
+     },
+     {
+      "w": " that's",
+      "start": 8.57,
+      "end": 8.79
+     },
+     {
+      "w": " a",
+      "start": 8.79,
+      "end": 8.83
+     },
+     {
+      "w": " wish.",
+      "start": 8.83,
+      "end": 9.19
+     }
+    ],
+    "seg_rms": 0.1059
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.27,
+    "end": 5.49,
+    "text": "The form, color, handle, what's taped underneath?",
+    "words": [
+     {
+      "w": " The",
+      "start": 0.27,
+      "end": 0.75
+     },
+     {
+      "w": " form,",
+      "start": 0.75,
+      "end": 1.11
+     },
+     {
+      "w": " color,",
+      "start": 1.73,
+      "end": 2.01
+     },
+     {
+      "w": " handle,",
+      "start": 2.67,
+      "end": 3.03
+     },
+     {
+      "w": " what's",
+      "start": 4.09,
+      "end": 4.31
+     },
+     {
+      "w": " taped",
+      "start": 4.31,
+      "end": 4.55
+     },
+     {
+      "w": " underneath?",
+      "start": 4.55,
+      "end": 5.49
+     }
+    ],
+    "seg_rms": 0.0874
+   },
+   {
+    "start": 6.49,
+    "end": 7.19,
+    "text": "Very umbrella.",
+    "words": [
+     {
+      "w": " Very",
+      "start": 6.49,
+      "end": 6.77
+     },
+     {
+      "w": " umbrella.",
+      "start": 6.77,
+      "end": 7.19
+     }
+    ],
+    "seg_rms": 0.1182
+   },
+   {
+    "start": 7.71,
+    "end": 9.25,
+    "text": "That's not a description, that's a wish.",
+    "words": [
+     {
+      "w": " That's",
+      "start": 7.71,
+      "end": 7.89
+     },
+     {
+      "w": " not",
+      "start": 7.89,
+      "end": 7.99
+     },
+     {
+      "w": " a",
+      "start": 7.99,
+      "end": 8.11
+     },
+     {
+      "w": " description,",
+      "start": 8.11,
+      "end": 8.49
+     },
+     {
+      "w": " that's",
+      "start": 8.75,
+      "end": 8.87
+     },
+     {
+      "w": " a",
+      "start": 8.87,
+      "end": 8.97
+     },
+     {
+      "w": " wish.",
+      "start": 8.97,
+      "end": 9.25
+     }
+    ],
+    "seg_rms": 0.1185
+   }
+  ]
+ }
+}

@@ -1,0 +1,494 @@
+[
+ {
+  "n": 1,
+  "section": "C1",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 0.0,
+  "end": 4.5,
+  "matched": "10/10",
+  "asr": "slice-verified hook 1"
+ },
+ {
+  "n": 2,
+  "section": "C1",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 5.32,
+  "end": 10.18,
+  "matched": "seg",
+  "asr": "slice ASR: 'The laundry is clean but it's still on the floor' 5.32-10.18 (full-clip ASR dropped it)"
+ },
+ {
+  "n": 3,
+  "section": "C1",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 10.92,
+  "end": 12.88,
+  "matched": "4/4",
+  "asr": "living out the basket,"
+ },
+ {
+  "n": 4,
+  "section": "C1",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 12.94,
+  "end": 14.18,
+  "matched": "3/4",
+  "asr": "living out the basketball"
+ },
+ {
+  "n": 5,
+  "section": "C1",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 14.18,
+  "end": 16.0,
+  "matched": "3/3",
+  "asr": "like a raccoon"
+ },
+ {
+  "n": 6,
+  "section": "C1",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 16.0,
+  "end": 20.88,
+  "matched": "5/10",
+  "asr": "the laundry's clean, and it's all on the board"
+ },
+ {
+  "n": 7,
+  "section": "V1",
+  "text": "Washed it dried it folded nothing",
+  "kind": "line",
+  "start": 22.98,
+  "end": 26.5,
+  "matched": "6/6",
+  "asr": "washed it, dried it, folded nothing baskets"
+ },
+ {
+  "n": 8,
+  "section": "V1",
+  "text": "Basket's full and I'm still wearing the same thing",
+  "kind": "line",
+  "start": 26.5,
+  "end": 28.44,
+  "matched": "8/9",
+  "asr": "full and i'm still wearing the same thing"
+ },
+ {
+  "n": 9,
+  "section": "V1",
+  "text": "Reached in for socks and pulled out a shirt",
+  "kind": "line",
+  "start": 28.44,
+  "end": 31.26,
+  "matched": "9/9",
+  "asr": "reached in for socks and pulled out a shirt"
+ },
+ {
+  "n": 10,
+  "section": "V1",
+  "text": "Now I'm just digging like it's my only source",
+  "kind": "line",
+  "start": 31.26,
+  "end": 34.16,
+  "matched": "9/9",
+  "asr": "now i'm just digging like it's my only source"
+ },
+ {
+  "n": 11,
+  "section": "PC1",
+  "text": "Clean is clean",
+  "kind": "line",
+  "start": 34.16,
+  "end": 36.4,
+  "matched": "3/3",
+  "asr": "clean is clean,"
+ },
+ {
+  "n": 12,
+  "section": "PC1",
+  "text": "Clean is clean",
+  "kind": "line",
+  "start": 36.4,
+  "end": 38.82,
+  "matched": "3/3",
+  "asr": "clean is clean"
+ },
+ {
+  "n": 13,
+  "section": "PC1",
+  "text": "But it's still on the floor",
+  "kind": "line",
+  "start": 38.82,
+  "end": 40.34,
+  "matched": "6/6",
+  "asr": "but it's still on the floor"
+ },
+ {
+  "n": 14,
+  "section": "PC1",
+  "text": "But it's still on the floor",
+  "kind": "line",
+  "start": 41.1,
+  "end": 42.42,
+  "matched": "3/6",
+  "asr": "but it still on"
+ },
+ {
+  "n": 15,
+  "section": "C2",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 43.9,
+  "end": 47.88,
+  "matched": "7/10",
+  "asr": "the laundry is clean but it is still on"
+ },
+ {
+  "n": 16,
+  "section": "C2",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 47.88,
+  "end": 54.9,
+  "matched": "9/10",
+  "asr": "the laundry is clean but it still on the floor"
+ },
+ {
+  "n": 17,
+  "section": "C2",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 54.9,
+  "end": 56.96,
+  "matched": "4/4",
+  "asr": "living out the basket"
+ },
+ {
+  "n": 18,
+  "section": "C2",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 56.96,
+  "end": 58.3,
+  "matched": "4/4",
+  "asr": "living out the basket"
+ },
+ {
+  "n": 19,
+  "section": "C2",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 58.3,
+  "end": 60.54,
+  "matched": "3/3",
+  "asr": "like a raccoon"
+ },
+ {
+  "n": 20,
+  "section": "C2",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 60.62,
+  "end": 64.8,
+  "matched": "10/10",
+  "asr": "the laundry is clean, but it's still on the floor"
+ },
+ {
+  "n": 21,
+  "section": "POST",
+  "text": "Still on the floor",
+  "kind": "line",
+  "start": 64.8,
+  "end": 66.32,
+  "matched": "4/4",
+  "asr": "still on the floor",
+  "override": true
+ },
+ {
+  "n": 22,
+  "section": "POST",
+  "text": "Still on the floor",
+  "kind": "line",
+  "start": 66.32,
+  "end": 67.72,
+  "matched": "4/4",
+  "asr": "still on the floor",
+  "override": true
+ },
+ {
+  "n": 23,
+  "section": "POST",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 67.72,
+  "end": 71.68,
+  "matched": "2/3",
+  "asr": "like a raccooon"
+ },
+ {
+  "n": 24,
+  "section": "POST",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 71.68,
+  "end": 74.16,
+  "matched": "3/3",
+  "asr": "like a raccoon"
+ },
+ {
+  "n": 25,
+  "section": "V2",
+  "text": "Week later and the basket's my dresser",
+  "kind": "line",
+  "start": 75.44,
+  "end": 78.16,
+  "matched": "5/7",
+  "asr": "week later and the baskets my dress are"
+ },
+ {
+  "n": 26,
+  "section": "V2",
+  "text": "Grabbing whatever's on top and calling it better",
+  "kind": "line",
+  "start": 78.16,
+  "end": 80.9,
+  "matched": "8/8",
+  "asr": "grabbing whatever's on top and calling it better"
+ },
+ {
+  "n": 27,
+  "section": "V2",
+  "text": "Pants are clean but they're wrinkled as hell",
+  "kind": "line",
+  "start": 80.9,
+  "end": 83.54,
+  "matched": "8/8",
+  "asr": "pants are clean, but they're wrinkled as hell"
+ },
+ {
+  "n": 28,
+  "section": "V2",
+  "text": "And I'm still not putting them away I can tell",
+  "kind": "line",
+  "start": 83.54,
+  "end": 86.56,
+  "matched": "10/10",
+  "asr": "and i'm still not putting them away, i can tell"
+ },
+ {
+  "n": 29,
+  "section": "PC2",
+  "text": "Clean is clean",
+  "kind": "line",
+  "start": 86.56,
+  "end": 88.74,
+  "matched": "3/3",
+  "asr": "clean is clean,"
+ },
+ {
+  "n": 30,
+  "section": "PC2",
+  "text": "Clean is clean",
+  "kind": "line",
+  "start": 89.4,
+  "end": 91.18,
+  "matched": "3/3",
+  "asr": "clean is clean"
+ },
+ {
+  "n": 31,
+  "section": "PC2",
+  "text": "But it's still on the floor",
+  "kind": "line",
+  "start": 91.18,
+  "end": 92.88,
+  "matched": "6/6",
+  "asr": "but it's still on the floor"
+ },
+ {
+  "n": 32,
+  "section": "PC2",
+  "text": "But it's still on the floor",
+  "kind": "line",
+  "start": 92.88,
+  "end": 95.72,
+  "matched": "5/6",
+  "asr": "but it still on the floor"
+ },
+ {
+  "n": 33,
+  "section": "C3",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 95.72,
+  "end": 100.86,
+  "matched": "9/10",
+  "asr": "the laundry is clean but it is still on the floor"
+ },
+ {
+  "n": 34,
+  "section": "C3",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 101.78,
+  "end": 106.7,
+  "matched": "9/10",
+  "asr": "the laundry is clean but it still on the floor"
+ },
+ {
+  "n": 35,
+  "section": "C3",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 107.6,
+  "end": 109.3,
+  "matched": "4/4",
+  "asr": "living out the basket"
+ },
+ {
+  "n": 36,
+  "section": "C3",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 109.3,
+  "end": 110.64,
+  "matched": "4/4",
+  "asr": "living out the basket"
+ },
+ {
+  "n": 37,
+  "section": "C3",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 110.64,
+  "end": 112.16,
+  "matched": "3/3",
+  "asr": "like a raccoon"
+ },
+ {
+  "n": 38,
+  "section": "C3",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 112.66,
+  "end": 117.26,
+  "matched": "10/10",
+  "asr": "the laundry is clean but it's still on the floor"
+ },
+ {
+  "n": 39,
+  "section": "BR",
+  "text": "Still on the floor",
+  "kind": "line",
+  "start": 117.26,
+  "end": 119.9,
+  "matched": "3/4",
+  "asr": "still on the floo"
+ },
+ {
+  "n": 40,
+  "section": "BR",
+  "text": "I washed it",
+  "kind": "line",
+  "start": 119.9,
+  "end": 121.22,
+  "matched": "3/3",
+  "asr": "i washed it,"
+ },
+ {
+  "n": 41,
+  "section": "BR",
+  "text": "I dried it",
+  "kind": "line",
+  "start": 121.36,
+  "end": 122.54,
+  "matched": "3/3",
+  "asr": "i dried it"
+ },
+ {
+  "n": 42,
+  "section": "BR",
+  "text": "And now I'm living out the basket",
+  "kind": "line",
+  "start": 122.54,
+  "end": 125.52,
+  "matched": "7/7",
+  "asr": "and now i'm living out the basket"
+ },
+ {
+  "n": 43,
+  "section": "C4",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 126.66,
+  "end": 131.08,
+  "matched": "10/10",
+  "asr": "the laundry is clean but it's still on the floor"
+ },
+ {
+  "n": 44,
+  "section": "C4",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 132.14,
+  "end": 136.74,
+  "matched": "7/10",
+  "asr": "the laundry but it still on the floor"
+ },
+ {
+  "n": 45,
+  "section": "C4",
+  "text": "Living out the basket",
+  "kind": "line",
+  "start": 137.88,
+  "end": 140.88,
+  "matched": "4/4",
+  "asr": "living out the basket"
+ },
+ {
+  "n": 46,
+  "section": "C4",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 140.88,
+  "end": 142.28,
+  "matched": "3/3",
+  "asr": "like a raccoon"
+ },
+ {
+  "n": 47,
+  "section": "C4",
+  "text": "The laundry is clean but it's still on the floor",
+  "kind": "line",
+  "start": 143.14,
+  "end": 150.32,
+  "matched": "10/10",
+  "asr": "the laundry is clean but it's still on the floor"
+ },
+ {
+  "n": 48,
+  "section": "OUT",
+  "text": "Still on the floor",
+  "kind": "line",
+  "start": 150.32,
+  "end": 151.83,
+  "matched": "3/4",
+  "asr": "still on the wall"
+ },
+ {
+  "n": 49,
+  "section": "OUT",
+  "text": "Like a raccoon",
+  "kind": "line",
+  "start": 153.58,
+  "end": 155.8,
+  "matched": "2/3",
+  "asr": "like a record"
+ }
+]

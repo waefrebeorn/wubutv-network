@@ -1,0 +1,2256 @@
+[
+ {
+  "idx": 1,
+  "scene": "S01",
+  "base_scene": "S01",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s01-t2-desc-0-46003158-2db7-4b05-9110-e600e7c3fde7.mp4",
+  "take_span": [
+   3.55,
+   8.323
+  ],
+  "song_span": [
+   0.0,
+   7.666666666666667
+  ],
+  "song_span_plan": [
+   0.0,
+   7.68
+  ],
+  "frames": [
+   0,
+   184
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "Jensen's",
+    "start": 3.14
+   },
+   {
+    "word": "back",
+    "start": 3.82
+   },
+   {
+    "word": "He's",
+    "start": 5.78
+   },
+   {
+    "word": "back",
+    "start": 6.46
+   }
+  ],
+  "take_words": [
+   {
+    "word": "Jensen's",
+    "start": 5.12
+   },
+   {
+    "word": "back,",
+    "start": 6.08
+   },
+   {
+    "word": "he's",
+    "start": 7.04
+   },
+   {
+    "word": "back.",
+    "start": 7.72
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "Jensen's",
+    "start": 3.14
+   },
+   {
+    "word": "back",
+    "start": 3.82
+   },
+   {
+    "word": "He's",
+    "start": 5.78
+   },
+   {
+    "word": "back",
+    "start": 6.46
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "Jensen's",
+    "start": 5.12
+   },
+   {
+    "word": "back,",
+    "start": 6.08
+   },
+   {
+    "word": "he's",
+    "start": 7.04
+   },
+   {
+    "word": "back.",
+    "start": 7.72
+   }
+  ]
+ },
+ {
+  "idx": 2,
+  "scene": "S02",
+  "base_scene": "S02",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s02-t5-desc-0-213e4b3d-2e38-4947-aa99-1da7f589f93e.mp4",
+  "take_span": [
+   0.0,
+   10.0
+  ],
+  "song_span": [
+   7.666666666666667,
+   14.958333333333334
+  ],
+  "song_span_plan": [
+   7.68,
+   14.96
+  ],
+  "frames": [
+   184,
+   359
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "He's",
+    "start": 7.68
+   },
+   {
+    "word": "back",
+    "start": 8.36
+   },
+   {
+    "word": "He's",
+    "start": 11.26
+   },
+   {
+    "word": "back",
+    "start": 11.94
+   }
+  ],
+  "take_words": [
+   {
+    "word": "He's",
+    "start": 0.0
+   },
+   {
+    "word": "back.",
+    "start": 0.82
+   },
+   {
+    "word": "He's",
+    "start": 7.52
+   },
+   {
+    "word": "back.",
+    "start": 8.38
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "He's",
+    "start": 7.68
+   },
+   {
+    "word": "back",
+    "start": 8.36
+   },
+   {
+    "word": "He's",
+    "start": 11.26
+   },
+   {
+    "word": "back",
+    "start": 11.94
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "He's",
+    "start": 0.0
+   },
+   {
+    "word": "back.",
+    "start": 0.82
+   },
+   {
+    "word": "He's",
+    "start": 7.52
+   },
+   {
+    "word": "back.",
+    "start": 8.38
+   }
+  ]
+ },
+ {
+  "idx": 3,
+  "scene": "S03a",
+  "base_scene": "S03",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s03-t1-desc-0-46a9e730-13e4-46e9-8681-0d3ef1509835.mp4",
+  "take_span": [
+   0.0,
+   4.02
+  ],
+  "song_span": [
+   14.958333333333334,
+   17.875
+  ],
+  "song_span_plan": [
+   14.96,
+   19.16
+  ],
+  "frames": [
+   359,
+   429
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "He",
+    "start": 14.96
+   },
+   {
+    "word": "stepped",
+    "start": 15.64
+   },
+   {
+    "word": "out",
+    "start": 15.94
+   },
+   {
+    "word": "for",
+    "start": 16.48
+   },
+   {
+    "word": "a",
+    "start": 16.92
+   },
+   {
+    "word": "minute",
+    "start": 17.22
+   },
+   {
+    "word": "Then",
+    "start": 17.54
+   }
+  ],
+  "take_words": [
+   {
+    "word": "he",
+    "start": 0.0
+   },
+   {
+    "word": "stepped",
+    "start": 0.64
+   },
+   {
+    "word": "out",
+    "start": 1.12
+   },
+   {
+    "word": "for",
+    "start": 1.66
+   },
+   {
+    "word": "a",
+    "start": 2.26
+   },
+   {
+    "word": "minute",
+    "start": 2.62
+   },
+   {
+    "word": "then",
+    "start": 3.08
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "He",
+    "start": 14.96
+   },
+   {
+    "word": "stepped",
+    "start": 15.64
+   },
+   {
+    "word": "out",
+    "start": 15.94
+   },
+   {
+    "word": "for",
+    "start": 16.48
+   },
+   {
+    "word": "a",
+    "start": 16.92
+   },
+   {
+    "word": "minute",
+    "start": 17.22
+   },
+   {
+    "word": "Then",
+    "start": 17.54
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "he",
+    "start": 0.0
+   },
+   {
+    "word": "stepped",
+    "start": 0.64
+   },
+   {
+    "word": "out",
+    "start": 1.12
+   },
+   {
+    "word": "for",
+    "start": 1.66
+   },
+   {
+    "word": "a",
+    "start": 2.26
+   },
+   {
+    "word": "minute",
+    "start": 2.62
+   },
+   {
+    "word": "then",
+    "start": 3.08
+   }
+  ]
+ },
+ {
+  "idx": 4,
+  "scene": "S03b",
+  "base_scene": "S03",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s03-t1-desc-0-46a9e730-13e4-46e9-8681-0d3ef1509835.mp4",
+  "take_span": [
+   6.36,
+   8.53
+  ],
+  "song_span": [
+   17.875,
+   19.166666666666668
+  ],
+  "song_span_plan": [
+   14.96,
+   19.16
+  ],
+  "frames": [
+   429,
+   460
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "the",
+    "start": 17.86
+   },
+   {
+    "word": "board",
+    "start": 18.0
+   },
+   {
+    "word": "said",
+    "start": 18.28
+   },
+   {
+    "word": "stay",
+    "start": 18.54
+   },
+   {
+    "word": "gone",
+    "start": 18.8
+   }
+  ],
+  "take_words": [
+   {
+    "word": "the",
+    "start": 6.4
+   },
+   {
+    "word": "board",
+    "start": 6.62
+   },
+   {
+    "word": "said",
+    "start": 7.02
+   },
+   {
+    "word": "stay",
+    "start": 7.46
+   },
+   {
+    "word": "gone",
+    "start": 7.9
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "the",
+    "start": 17.86
+   },
+   {
+    "word": "board",
+    "start": 18.0
+   },
+   {
+    "word": "said",
+    "start": 18.28
+   },
+   {
+    "word": "stay",
+    "start": 18.54
+   },
+   {
+    "word": "gone",
+    "start": 18.8
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "the",
+    "start": 6.4
+   },
+   {
+    "word": "board",
+    "start": 6.62
+   },
+   {
+    "word": "said",
+    "start": 7.02
+   },
+   {
+    "word": "stay",
+    "start": 7.46
+   },
+   {
+    "word": "gone",
+    "start": 7.9
+   }
+  ]
+ },
+ {
+  "idx": 5,
+  "scene": "S04a",
+  "base_scene": "S04",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s04-t1-desc-0-86d8d668-9a5c-4e3b-8156-27b19f1dc512.mp4",
+  "take_span": [
+   0.0,
+   4.52
+  ],
+  "song_span": [
+   19.166666666666668,
+   21.625
+  ],
+  "song_span_plan": [
+   19.16,
+   23.22
+  ],
+  "frames": [
+   460,
+   519
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "Stock",
+    "start": 19.16
+   },
+   {
+    "word": "went",
+    "start": 19.46
+   },
+   {
+    "word": "down,",
+    "start": 19.76
+   },
+   {
+    "word": "people",
+    "start": 20.56
+   },
+   {
+    "word": "talked",
+    "start": 20.86
+   },
+   {
+    "word": "Now",
+    "start": 21.34
+   }
+  ],
+  "take_words": [
+   {
+    "word": "Stock",
+    "start": 0.0
+   },
+   {
+    "word": "went",
+    "start": 0.62
+   },
+   {
+    "word": "down,",
+    "start": 1.08
+   },
+   {
+    "word": "people",
+    "start": 2.16
+   },
+   {
+    "word": "talked,",
+    "start": 2.64
+   },
+   {
+    "word": "now",
+    "start": 3.62
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "Stock",
+    "start": 19.16
+   },
+   {
+    "word": "went",
+    "start": 19.46
+   },
+   {
+    "word": "down,",
+    "start": 19.76
+   },
+   {
+    "word": "people",
+    "start": 20.56
+   },
+   {
+    "word": "talked",
+    "start": 20.86
+   },
+   {
+    "word": "Now",
+    "start": 21.34
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "Stock",
+    "start": 0.0
+   },
+   {
+    "word": "went",
+    "start": 0.62
+   },
+   {
+    "word": "down,",
+    "start": 1.08
+   },
+   {
+    "word": "people",
+    "start": 2.16
+   },
+   {
+    "word": "talked,",
+    "start": 2.64
+   },
+   {
+    "word": "now",
+    "start": 3.62
+   }
+  ]
+ },
+ {
+  "idx": 6,
+  "scene": "S04b",
+  "base_scene": "S04",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s04-t1-desc-0-86d8d668-9a5c-4e3b-8156-27b19f1dc512.mp4",
+  "take_span": [
+   6.28,
+   8.401
+  ],
+  "song_span": [
+   21.625,
+   23.208333333333332
+  ],
+  "song_span_plan": [
+   19.16,
+   23.22
+  ],
+  "frames": [
+   519,
+   557
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "the",
+    "start": 21.64
+   },
+   {
+    "word": "lights",
+    "start": 21.8
+   },
+   {
+    "word": "are",
+    "start": 22.16
+   },
+   {
+    "word": "back",
+    "start": 22.36
+   },
+   {
+    "word": "on",
+    "start": 22.68
+   }
+  ],
+  "take_words": [
+   {
+    "word": "the",
+    "start": 6.32
+   },
+   {
+    "word": "lights",
+    "start": 6.64
+   },
+   {
+    "word": "are",
+    "start": 7.08
+   },
+   {
+    "word": "back",
+    "start": 7.32
+   },
+   {
+    "word": "on.",
+    "start": 7.74
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "the",
+    "start": 21.64
+   },
+   {
+    "word": "lights",
+    "start": 21.8
+   },
+   {
+    "word": "are",
+    "start": 22.16
+   },
+   {
+    "word": "back",
+    "start": 22.36
+   },
+   {
+    "word": "on",
+    "start": 22.68
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "the",
+    "start": 6.32
+   },
+   {
+    "word": "lights",
+    "start": 6.64
+   },
+   {
+    "word": "are",
+    "start": 7.08
+   },
+   {
+    "word": "back",
+    "start": 7.32
+   },
+   {
+    "word": "on.",
+    "start": 7.74
+   }
+  ]
+ },
+ {
+  "idx": 7,
+  "scene": "S05a",
+  "base_scene": "S05",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s05-t1-desc-0-2d87f105-ccfc-41dd-b775-017d162dc27a.mp4",
+  "take_span": [
+   0.0,
+   3.74
+  ],
+  "song_span": [
+   23.208333333333332,
+   25.416666666666668
+  ],
+  "song_span_plan": [
+   23.22,
+   26.8
+  ],
+  "frames": [
+   557,
+   610
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "He",
+    "start": 23.22
+   },
+   {
+    "word": "said",
+    "start": 23.74
+   },
+   {
+    "word": "he",
+    "start": 24.08
+   },
+   {
+    "word": "was",
+    "start": 24.28
+   },
+   {
+    "word": "sorry",
+    "start": 24.48
+   },
+   {
+    "word": "They",
+    "start": 25.12
+   }
+  ],
+  "take_words": [
+   {
+    "word": "He",
+    "start": 0.0
+   },
+   {
+    "word": "said",
+    "start": 0.82
+   },
+   {
+    "word": "he",
+    "start": 1.48
+   },
+   {
+    "word": "was",
+    "start": 1.88
+   },
+   {
+    "word": "sorry,",
+    "start": 2.22
+   },
+   {
+    "word": "they",
+    "start": 2.88
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "He",
+    "start": 23.22
+   },
+   {
+    "word": "said",
+    "start": 23.74
+   },
+   {
+    "word": "he",
+    "start": 24.08
+   },
+   {
+    "word": "was",
+    "start": 24.28
+   },
+   {
+    "word": "sorry",
+    "start": 24.48
+   },
+   {
+    "word": "They",
+    "start": 25.12
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "He",
+    "start": 0.0
+   },
+   {
+    "word": "said",
+    "start": 0.82
+   },
+   {
+    "word": "he",
+    "start": 1.48
+   },
+   {
+    "word": "was",
+    "start": 1.88
+   },
+   {
+    "word": "sorry,",
+    "start": 2.22
+   },
+   {
+    "word": "they",
+    "start": 2.88
+   }
+  ]
+ },
+ {
+  "idx": 8,
+  "scene": "S05b",
+  "base_scene": "S05",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s05-t1-desc-0-2d87f105-ccfc-41dd-b775-017d162dc27a.mp4",
+  "take_span": [
+   6.42,
+   8.142
+  ],
+  "song_span": [
+   25.416666666666668,
+   26.791666666666668
+  ],
+  "song_span_plan": [
+   23.22,
+   26.8
+  ],
+  "frames": [
+   610,
+   643
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "checked",
+    "start": 25.4
+   },
+   {
+    "word": "with",
+    "start": 25.84
+   },
+   {
+    "word": "the",
+    "start": 26.16
+   },
+   {
+    "word": "top",
+    "start": 26.42
+   }
+  ],
+  "take_words": [
+   {
+    "word": "checked",
+    "start": 6.46
+   },
+   {
+    "word": "with",
+    "start": 7.0
+   },
+   {
+    "word": "the",
+    "start": 7.46
+   },
+   {
+    "word": "top.",
+    "start": 7.72
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "checked",
+    "start": 25.4
+   },
+   {
+    "word": "with",
+    "start": 25.84
+   },
+   {
+    "word": "the",
+    "start": 26.16
+   },
+   {
+    "word": "top",
+    "start": 26.42
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "checked",
+    "start": 6.46
+   },
+   {
+    "word": "with",
+    "start": 7.0
+   },
+   {
+    "word": "the",
+    "start": 7.46
+   },
+   {
+    "word": "top.",
+    "start": 7.72
+   }
+  ]
+ },
+ {
+  "idx": 9,
+  "scene": "S06a",
+  "base_scene": "S06",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s06-t1-desc-0-2ed99e16-13a6-4f2a-8745-0e961b83c5f6.mp4",
+  "take_span": [
+   0.0,
+   2.68
+  ],
+  "song_span": [
+   26.791666666666668,
+   29.041666666666668
+  ],
+  "song_span_plan": [
+   26.8,
+   30.58
+  ],
+  "frames": [
+   643,
+   697
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "Eleven",
+    "start": 26.8
+   },
+   {
+    "word": "days",
+    "start": 27.76
+   },
+   {
+    "word": "later",
+    "start": 28.48
+   },
+   {
+    "word": "They",
+    "start": 28.92
+   }
+  ],
+  "take_words": [
+   {
+    "word": "11",
+    "start": 0.0
+   },
+   {
+    "word": "days",
+    "start": 0.96
+   },
+   {
+    "word": "later",
+    "start": 1.46
+   },
+   {
+    "word": "they",
+    "start": 2.14
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "Eleven",
+    "start": 26.8
+   },
+   {
+    "word": "days",
+    "start": 27.76
+   },
+   {
+    "word": "later",
+    "start": 28.48
+   },
+   {
+    "word": "They",
+    "start": 28.92
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "11",
+    "start": 0.0
+   },
+   {
+    "word": "days",
+    "start": 0.96
+   },
+   {
+    "word": "later",
+    "start": 1.46
+   },
+   {
+    "word": "they",
+    "start": 2.14
+   }
+  ]
+ },
+ {
+  "idx": 10,
+  "scene": "S06b",
+  "base_scene": "S06",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s06-t1-desc-0-2ed99e16-13a6-4f2a-8745-0e961b83c5f6.mp4",
+  "take_span": [
+   7.02,
+   8.94
+  ],
+  "song_span": [
+   29.041666666666668,
+   30.583333333333332
+  ],
+  "song_span_plan": [
+   26.8,
+   30.58
+  ],
+  "frames": [
+   697,
+   734
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "said,",
+    "start": 29.04
+   },
+   {
+    "word": "come",
+    "start": 29.46
+   },
+   {
+    "word": "back,",
+    "start": 29.48
+   },
+   {
+    "word": "don't",
+    "start": 29.82
+   },
+   {
+    "word": "stop",
+    "start": 30.18
+   }
+  ],
+  "take_words": [
+   {
+    "word": "said",
+    "start": 7.06
+   },
+   {
+    "word": "come",
+    "start": 7.28
+   },
+   {
+    "word": "back",
+    "start": 7.54
+   },
+   {
+    "word": "don't",
+    "start": 7.84
+   },
+   {
+    "word": "stop",
+    "start": 8.5
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "said,",
+    "start": 29.04
+   },
+   {
+    "word": "come",
+    "start": 29.46
+   },
+   {
+    "word": "back,",
+    "start": 29.48
+   },
+   {
+    "word": "don't",
+    "start": 29.82
+   },
+   {
+    "word": "stop",
+    "start": 30.18
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "said",
+    "start": 7.06
+   },
+   {
+    "word": "come",
+    "start": 7.28
+   },
+   {
+    "word": "back",
+    "start": 7.54
+   },
+   {
+    "word": "don't",
+    "start": 7.84
+   },
+   {
+    "word": "stop",
+    "start": 8.5
+   }
+  ]
+ },
+ {
+  "idx": 11,
+  "scene": "S07",
+  "base_scene": "S07",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s07-t1-desc-0-ee663b32-1cb0-4e3c-9376-6b88b1bb23f7.mp4",
+  "take_span": [
+   0.0,
+   9.52
+  ],
+  "song_span": [
+   30.583333333333332,
+   38.5
+  ],
+  "song_span_plan": [
+   30.58,
+   38.48
+  ],
+  "frames": [
+   734,
+   924
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "Numbers",
+    "start": 30.58
+   },
+   {
+    "word": "jumping,",
+    "start": 31.38
+   },
+   {
+    "word": "phones",
+    "start": 31.96
+   },
+   {
+    "word": "ringing",
+    "start": 32.28
+   },
+   {
+    "word": "Everybody",
+    "start": 32.68
+   },
+   {
+    "word": "watching",
+    "start": 33.2
+   },
+   {
+    "word": "the",
+    "start": 33.68
+   },
+   {
+    "word": "screen",
+    "start": 33.96
+   },
+   {
+    "word": "He",
+    "start": 34.34
+   },
+   {
+    "word": "walked",
+    "start": 34.7
+   },
+   {
+    "word": "back",
+    "start": 35.0
+   },
+   {
+    "word": "in",
+    "start": 35.22
+   },
+   {
+    "word": "Like",
+    "start": 35.92
+   },
+   {
+    "word": "the",
+    "start": 36.64
+   },
+   {
+    "word": "whole",
+    "start": 36.84
+   },
+   {
+    "word": "thing",
+    "start": 37.26
+   },
+   {
+    "word": "was",
+    "start": 37.58
+   },
+   {
+    "word": "a",
+    "start": 37.84
+   },
+   {
+    "word": "dream",
+    "start": 38.02
+   }
+  ],
+  "take_words": [
+   {
+    "word": "Numbers",
+    "start": 0.0
+   },
+   {
+    "word": "jumping,",
+    "start": 0.66
+   },
+   {
+    "word": "phones",
+    "start": 1.54
+   },
+   {
+    "word": "ringing,",
+    "start": 2.0
+   },
+   {
+    "word": "everybody",
+    "start": 3.18
+   },
+   {
+    "word": "watching",
+    "start": 3.74
+   },
+   {
+    "word": "the",
+    "start": 4.36
+   },
+   {
+    "word": "screen.",
+    "start": 4.64
+   },
+   {
+    "word": "He",
+    "start": 5.56
+   },
+   {
+    "word": "walked",
+    "start": 6.18
+   },
+   {
+    "word": "back",
+    "start": 6.6
+   },
+   {
+    "word": "in",
+    "start": 6.92
+   },
+   {
+    "word": "like",
+    "start": 7.3
+   },
+   {
+    "word": "the",
+    "start": 7.64
+   },
+   {
+    "word": "whole",
+    "start": 7.82
+   },
+   {
+    "word": "thing",
+    "start": 8.08
+   },
+   {
+    "word": "was",
+    "start": 8.42
+   },
+   {
+    "word": "a",
+    "start": 8.78
+   },
+   {
+    "word": "dream.",
+    "start": 8.96
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "Numbers",
+    "start": 30.58
+   },
+   {
+    "word": "jumping,",
+    "start": 31.38
+   },
+   {
+    "word": "phones",
+    "start": 31.96
+   },
+   {
+    "word": "ringing",
+    "start": 32.28
+   },
+   {
+    "word": "Everybody",
+    "start": 32.68
+   },
+   {
+    "word": "watching",
+    "start": 33.2
+   },
+   {
+    "word": "the",
+    "start": 33.68
+   },
+   {
+    "word": "screen",
+    "start": 33.96
+   },
+   {
+    "word": "He",
+    "start": 34.34
+   },
+   {
+    "word": "walked",
+    "start": 34.7
+   },
+   {
+    "word": "back",
+    "start": 35.0
+   },
+   {
+    "word": "in",
+    "start": 35.22
+   },
+   {
+    "word": "Like",
+    "start": 35.92
+   },
+   {
+    "word": "the",
+    "start": 36.64
+   },
+   {
+    "word": "whole",
+    "start": 36.84
+   },
+   {
+    "word": "thing",
+    "start": 37.26
+   },
+   {
+    "word": "was",
+    "start": 37.58
+   },
+   {
+    "word": "a",
+    "start": 37.84
+   },
+   {
+    "word": "dream",
+    "start": 38.02
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "Numbers",
+    "start": 0.0
+   },
+   {
+    "word": "jumping,",
+    "start": 0.66
+   },
+   {
+    "word": "phones",
+    "start": 1.54
+   },
+   {
+    "word": "ringing,",
+    "start": 2.0
+   },
+   {
+    "word": "everybody",
+    "start": 3.18
+   },
+   {
+    "word": "watching",
+    "start": 3.74
+   },
+   {
+    "word": "the",
+    "start": 4.36
+   },
+   {
+    "word": "screen.",
+    "start": 4.64
+   },
+   {
+    "word": "He",
+    "start": 5.56
+   },
+   {
+    "word": "walked",
+    "start": 6.18
+   },
+   {
+    "word": "back",
+    "start": 6.6
+   },
+   {
+    "word": "in",
+    "start": 6.92
+   },
+   {
+    "word": "like",
+    "start": 7.3
+   },
+   {
+    "word": "the",
+    "start": 7.64
+   },
+   {
+    "word": "whole",
+    "start": 7.82
+   },
+   {
+    "word": "thing",
+    "start": 8.08
+   },
+   {
+    "word": "was",
+    "start": 8.42
+   },
+   {
+    "word": "a",
+    "start": 8.78
+   },
+   {
+    "word": "dream.",
+    "start": 8.96
+   }
+  ]
+ },
+ {
+  "idx": 12,
+  "scene": "S08",
+  "base_scene": "S08",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s08-t2-desc-0-c0ae0d68-e18c-40f7-993c-21c2f3f19524.mp4",
+  "take_span": [
+   0.0,
+   9.31
+  ],
+  "song_span": [
+   38.5,
+   47.666666666666664
+  ],
+  "song_span_plan": [
+   38.48,
+   47.68
+  ],
+  "frames": [
+   924,
+   1144
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "Jensen's",
+    "start": 40.28
+   },
+   {
+    "word": "back",
+    "start": 40.92
+   },
+   {
+    "word": "Stock",
+    "start": 41.14
+   },
+   {
+    "word": "goes",
+    "start": 42.3
+   },
+   {
+    "word": "up,",
+    "start": 42.84
+   },
+   {
+    "word": "don't",
+    "start": 43.1
+   },
+   {
+    "word": "look",
+    "start": 43.36
+   },
+   {
+    "word": "back",
+    "start": 43.52
+   },
+   {
+    "word": "Jensen's",
+    "start": 43.88
+   },
+   {
+    "word": "back",
+    "start": 44.72
+   },
+   {
+    "word": "Hear",
+    "start": 44.96
+   },
+   {
+    "word": "that",
+    "start": 45.28
+   },
+   {
+    "word": "name,",
+    "start": 45.64
+   },
+   {
+    "word": "30",
+    "start": 46.02
+   },
+   {
+    "word": "%",
+    "start": 46.4
+   },
+   {
+    "word": "not",
+    "start": 46.76
+   },
+   {
+    "word": "the",
+    "start": 47.12
+   },
+   {
+    "word": "same",
+    "start": 47.28
+   }
+  ],
+  "take_words": [
+   {
+    "word": "Jensen's",
+    "start": 1.1
+   },
+   {
+    "word": "back.",
+    "start": 1.8
+   },
+   {
+    "word": "Stock",
+    "start": 2.02
+   },
+   {
+    "word": "goes",
+    "start": 2.22
+   },
+   {
+    "word": "up,",
+    "start": 2.56
+   },
+   {
+    "word": "don't",
+    "start": 3.1
+   },
+   {
+    "word": "look",
+    "start": 3.58
+   },
+   {
+    "word": "back.",
+    "start": 3.74
+   },
+   {
+    "word": "Jensen's",
+    "start": 4.72
+   },
+   {
+    "word": "back,",
+    "start": 5.42
+   },
+   {
+    "word": "hear",
+    "start": 6.0
+   },
+   {
+    "word": "that",
+    "start": 6.16
+   },
+   {
+    "word": "name.",
+    "start": 6.44
+   },
+   {
+    "word": "30",
+    "start": 7.34
+   },
+   {
+    "word": "%",
+    "start": 7.66
+   },
+   {
+    "word": "not",
+    "start": 8.04
+   },
+   {
+    "word": "the",
+    "start": 8.7
+   },
+   {
+    "word": "same.",
+    "start": 8.9
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "Jensen's",
+    "start": 40.28
+   },
+   {
+    "word": "back",
+    "start": 40.92
+   },
+   {
+    "word": "Stock",
+    "start": 41.14
+   },
+   {
+    "word": "goes",
+    "start": 42.3
+   },
+   {
+    "word": "up,",
+    "start": 42.84
+   },
+   {
+    "word": "don't",
+    "start": 43.1
+   },
+   {
+    "word": "look",
+    "start": 43.36
+   },
+   {
+    "word": "back",
+    "start": 43.52
+   },
+   {
+    "word": "Jensen's",
+    "start": 43.88
+   },
+   {
+    "word": "back",
+    "start": 44.72
+   },
+   {
+    "word": "Hear",
+    "start": 44.96
+   },
+   {
+    "word": "that",
+    "start": 45.28
+   },
+   {
+    "word": "name,",
+    "start": 45.64
+   },
+   {
+    "word": "30",
+    "start": 46.02
+   },
+   {
+    "word": "%",
+    "start": 46.4
+   },
+   {
+    "word": "not",
+    "start": 46.76
+   },
+   {
+    "word": "the",
+    "start": 47.12
+   },
+   {
+    "word": "same",
+    "start": 47.28
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "Jensen's",
+    "start": 1.1
+   },
+   {
+    "word": "back.",
+    "start": 1.8
+   },
+   {
+    "word": "Stock",
+    "start": 2.02
+   },
+   {
+    "word": "goes",
+    "start": 2.22
+   },
+   {
+    "word": "up,",
+    "start": 2.56
+   },
+   {
+    "word": "don't",
+    "start": 3.1
+   },
+   {
+    "word": "look",
+    "start": 3.58
+   },
+   {
+    "word": "back.",
+    "start": 3.74
+   },
+   {
+    "word": "Jensen's",
+    "start": 4.72
+   },
+   {
+    "word": "back,",
+    "start": 5.42
+   },
+   {
+    "word": "hear",
+    "start": 6.0
+   },
+   {
+    "word": "that",
+    "start": 6.16
+   },
+   {
+    "word": "name.",
+    "start": 6.44
+   },
+   {
+    "word": "30",
+    "start": 7.34
+   },
+   {
+    "word": "%",
+    "start": 7.66
+   },
+   {
+    "word": "not",
+    "start": 8.04
+   },
+   {
+    "word": "the",
+    "start": 8.7
+   },
+   {
+    "word": "same.",
+    "start": 8.9
+   }
+  ]
+ },
+ {
+  "idx": 13,
+  "scene": "S09",
+  "base_scene": "S09",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s09-t2-desc-0-4b468376-7820-4771-a91b-8db69377aa5c.mp4",
+  "take_span": [
+   0.0,
+   9.343
+  ],
+  "song_span": [
+   47.666666666666664,
+   56.416666666666664
+  ],
+  "song_span_plan": [
+   47.68,
+   56.4
+  ],
+  "frames": [
+   1144,
+   1354
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "Jensen's",
+    "start": 47.68
+   },
+   {
+    "word": "back",
+    "start": 48.56
+   },
+   {
+    "word": "Say",
+    "start": 48.72
+   },
+   {
+    "word": "it",
+    "start": 49.04
+   },
+   {
+    "word": "loud,",
+    "start": 49.28
+   },
+   {
+    "word": "boy",
+    "start": 49.84
+   },
+   {
+    "word": "said",
+    "start": 50.04
+   },
+   {
+    "word": "yes",
+    "start": 50.38
+   },
+   {
+    "word": "Crowd",
+    "start": 50.6
+   },
+   {
+    "word": "got",
+    "start": 50.88
+   },
+   {
+    "word": "loud",
+    "start": 51.1
+   },
+   {
+    "word": "Jensen's",
+    "start": 51.48
+   },
+   {
+    "word": "back",
+    "start": 52.32
+   },
+   {
+    "word": "One",
+    "start": 52.54
+   },
+   {
+    "word": "more",
+    "start": 52.86
+   },
+   {
+    "word": "time,",
+    "start": 53.2
+   },
+   {
+    "word": "he's",
+    "start": 53.88
+   },
+   {
+    "word": "the",
+    "start": 54.04
+   },
+   {
+    "word": "one",
+    "start": 54.16
+   },
+   {
+    "word": "He's",
+    "start": 54.76
+   },
+   {
+    "word": "the",
+    "start": 55.72
+   },
+   {
+    "word": "line",
+    "start": 55.86
+   }
+  ],
+  "take_words": [
+   {
+    "word": "Jensen's",
+    "start": 0.0
+   },
+   {
+    "word": "back,",
+    "start": 0.8
+   },
+   {
+    "word": "say",
+    "start": 1.32
+   },
+   {
+    "word": "it",
+    "start": 1.46
+   },
+   {
+    "word": "loud.",
+    "start": 1.64
+   },
+   {
+    "word": "Bard",
+    "start": 2.4
+   },
+   {
+    "word": "said",
+    "start": 2.84
+   },
+   {
+    "word": "yes,",
+    "start": 3.18
+   },
+   {
+    "word": "crowd",
+    "start": 3.74
+   },
+   {
+    "word": "got",
+    "start": 4.02
+   },
+   {
+    "word": "loud.",
+    "start": 4.3
+   },
+   {
+    "word": "Jensen's",
+    "start": 5.24
+   },
+   {
+    "word": "back",
+    "start": 5.88
+   },
+   {
+    "word": "one",
+    "start": 6.16
+   },
+   {
+    "word": "more",
+    "start": 6.4
+   },
+   {
+    "word": "time.",
+    "start": 6.6
+   },
+   {
+    "word": "He's",
+    "start": 7.28
+   },
+   {
+    "word": "the",
+    "start": 7.62
+   },
+   {
+    "word": "one,",
+    "start": 7.78
+   },
+   {
+    "word": "he's",
+    "start": 8.34
+   },
+   {
+    "word": "the",
+    "start": 8.6
+   },
+   {
+    "word": "line.",
+    "start": 8.76
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "Jensen's",
+    "start": 47.68
+   },
+   {
+    "word": "back",
+    "start": 48.56
+   },
+   {
+    "word": "Say",
+    "start": 48.72
+   },
+   {
+    "word": "it",
+    "start": 49.04
+   },
+   {
+    "word": "loud,",
+    "start": 49.28
+   },
+   {
+    "word": "boy",
+    "start": 49.84
+   },
+   {
+    "word": "said",
+    "start": 50.04
+   },
+   {
+    "word": "yes",
+    "start": 50.38
+   },
+   {
+    "word": "Crowd",
+    "start": 50.6
+   },
+   {
+    "word": "got",
+    "start": 50.88
+   },
+   {
+    "word": "loud",
+    "start": 51.1
+   },
+   {
+    "word": "Jensen's",
+    "start": 51.48
+   },
+   {
+    "word": "back",
+    "start": 52.32
+   },
+   {
+    "word": "One",
+    "start": 52.54
+   },
+   {
+    "word": "more",
+    "start": 52.86
+   },
+   {
+    "word": "time,",
+    "start": 53.2
+   },
+   {
+    "word": "he's",
+    "start": 53.88
+   },
+   {
+    "word": "the",
+    "start": 54.04
+   },
+   {
+    "word": "one",
+    "start": 54.16
+   },
+   {
+    "word": "He's",
+    "start": 54.76
+   },
+   {
+    "word": "the",
+    "start": 55.72
+   },
+   {
+    "word": "line",
+    "start": 55.86
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "Jensen's",
+    "start": 0.0
+   },
+   {
+    "word": "back,",
+    "start": 0.8
+   },
+   {
+    "word": "say",
+    "start": 1.32
+   },
+   {
+    "word": "it",
+    "start": 1.46
+   },
+   {
+    "word": "loud.",
+    "start": 1.64
+   },
+   {
+    "word": "Bard",
+    "start": 2.4
+   },
+   {
+    "word": "said",
+    "start": 2.84
+   },
+   {
+    "word": "yes,",
+    "start": 3.18
+   },
+   {
+    "word": "crowd",
+    "start": 3.74
+   },
+   {
+    "word": "got",
+    "start": 4.02
+   },
+   {
+    "word": "loud.",
+    "start": 4.3
+   },
+   {
+    "word": "Jensen's",
+    "start": 5.24
+   },
+   {
+    "word": "back",
+    "start": 5.88
+   },
+   {
+    "word": "one",
+    "start": 6.16
+   },
+   {
+    "word": "more",
+    "start": 6.4
+   },
+   {
+    "word": "time.",
+    "start": 6.6
+   },
+   {
+    "word": "He's",
+    "start": 7.28
+   },
+   {
+    "word": "the",
+    "start": 7.62
+   },
+   {
+    "word": "one,",
+    "start": 7.78
+   },
+   {
+    "word": "he's",
+    "start": 8.34
+   },
+   {
+    "word": "the",
+    "start": 8.6
+   },
+   {
+    "word": "line.",
+    "start": 8.76
+   }
+  ]
+ },
+ {
+  "idx": 14,
+  "scene": "S10",
+  "base_scene": "S10",
+  "kind": "WARP",
+  "take": "media-generation-mv34-s10-t1-desc-0-5ed47b40-e35d-4e8c-9dc6-06604473c88c.mp4",
+  "take_span": [
+   0.62,
+   3.956
+  ],
+  "song_span": [
+   56.416666666666664,
+   60.416666666666664
+  ],
+  "song_span_plan": [
+   56.4,
+   60.42
+  ],
+  "frames": [
+   1354,
+   1450
+  ],
+  "lines": [],
+  "drop_idx": [],
+  "song_words": [
+   {
+    "word": "He's",
+    "start": 58.6
+   },
+   {
+    "word": "the",
+    "start": 59.52
+   },
+   {
+    "word": "line",
+    "start": 59.64
+   }
+  ],
+  "take_words": [
+   {
+    "word": "He's",
+    "start": 1.78
+   },
+   {
+    "word": "the",
+    "start": 3.18
+   },
+   {
+    "word": "line",
+    "start": 3.38
+   }
+  ],
+  "align_song_words": [
+   {
+    "word": "He's",
+    "start": 58.6
+   },
+   {
+    "word": "the",
+    "start": 59.52
+   },
+   {
+    "word": "line",
+    "start": 59.64
+   }
+  ],
+  "align_take_words": [
+   {
+    "word": "He's",
+    "start": 1.78
+   },
+   {
+    "word": "the",
+    "start": 3.18
+   },
+   {
+    "word": "line",
+    "start": 3.38
+   }
+  ]
+ }
+]

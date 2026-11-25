@@ -1,0 +1,914 @@
+{
+ "take": "mv5_s08_t2.mp4",
+ "take_duration_s": 10.027,
+ "prompted_line": "Easy now easy now, we ride we ride, easy now easy now, with you by my side, easy now easy now, no need to run, easy now easy now, we hold the sun",
+ "song_words_source": "SONG_WORDS.json",
+ "song_word_selection": "window 57.52-67.06",
+ "mishear_map_applied": {
+  "told": "toll",
+  "tall": "toll",
+  "toe": "toll",
+  "paid": "pay",
+  "tell": "sell",
+  "done": "dumb",
+  "game": "dad",
+  "dogs": "hooks",
+  "see": "say",
+  "face": "phrase",
+  "is": "easy"
+ },
+ "decodes": {
+  "unprompted": [
+   [
+    "Is",
+    0.0,
+    0.7
+   ],
+   [
+    "it",
+    0.7,
+    0.88
+   ],
+   [
+    "now,",
+    0.88,
+    1.38
+   ],
+   [
+    "is",
+    2.04,
+    2.48
+   ],
+   [
+    "it",
+    2.48,
+    2.7
+   ],
+   [
+    "now,",
+    2.7,
+    3.26
+   ],
+   [
+    "is",
+    3.94,
+    5.6
+   ],
+   [
+    "it",
+    5.6,
+    5.96
+   ],
+   [
+    "now,",
+    5.96,
+    6.3
+   ],
+   [
+    "is",
+    6.52,
+    6.78
+   ],
+   [
+    "it",
+    6.78,
+    6.94
+   ],
+   [
+    "now,",
+    6.94,
+    7.08
+   ],
+   [
+    "is",
+    7.08,
+    7.08
+   ],
+   [
+    "it",
+    7.08,
+    7.08
+   ],
+   [
+    "now?",
+    7.08,
+    7.6
+   ]
+  ],
+  "prompted": [
+   [
+    "easy",
+    0.0,
+    0.74
+   ],
+   [
+    "now",
+    0.74,
+    1.34
+   ],
+   [
+    "easy",
+    1.34,
+    2.42
+   ],
+   [
+    "now",
+    2.42,
+    3.24
+   ],
+   [
+    "easy",
+    3.24,
+    5.58
+   ],
+   [
+    "now",
+    5.58,
+    6.28
+   ],
+   [
+    "easy",
+    6.28,
+    6.72
+   ],
+   [
+    "now",
+    6.72,
+    7.08
+   ],
+   [
+    "easy",
+    7.08,
+    7.08
+   ],
+   [
+    "now",
+    7.08,
+    7.5
+   ]
+  ],
+  "split_half_recheck_used": false
+ },
+ "line_ratio_song_over_take": 1.255,
+ "words": [
+  {
+   "song_word": "Easy",
+   "song_start": 57.52,
+   "song_end": 58.04,
+   "take_word": "Is",
+   "take_start": 0.0,
+   "take_end": 0.7,
+   "source": "unprompted",
+   "raw_offset": -57.52,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.88,
+    "song_interval_s": 0.52,
+    "playback_speed": 1.692,
+    "setpts_factor": 0.5909,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 58.04,
+   "song_end": 58.4,
+   "take_word": "now,",
+   "take_start": 0.88,
+   "take_end": 1.38,
+   "source": "unprompted",
+   "raw_offset": -57.16,
+   "swing_offset": 0.36,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.16,
+    "song_interval_s": 0.5,
+    "playback_speed": 2.32,
+    "setpts_factor": 0.431,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "easy",
+   "song_start": 58.54,
+   "song_end": 58.78,
+   "take_word": "is",
+   "take_start": 2.04,
+   "take_end": 2.48,
+   "source": "unprompted",
+   "raw_offset": -56.5,
+   "swing_offset": 1.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.44,
+    "song_interval_s": 0.3,
+    "playback_speed": 1.467,
+    "setpts_factor": 0.6818,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 58.84,
+   "song_end": 59.1,
+   "take_word": "it",
+   "take_start": 2.48,
+   "take_end": 2.7,
+   "source": "unprompted",
+   "raw_offset": -56.36,
+   "swing_offset": 1.16,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.76,
+    "song_interval_s": 1.06,
+    "playback_speed": 0.717,
+    "setpts_factor": 1.3947,
+    "spans_song_words": 5
+   },
+   "verdict": "BAD-wrong",
+   "notes": [
+    "take sings 'it' here"
+   ]
+  },
+  {
+   "song_word": "We",
+   "song_start": 58.84,
+   "song_end": 59.1,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "ride",
+   "song_start": 59.1,
+   "song_end": 59.36,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "we",
+   "song_start": 59.36,
+   "song_end": 59.68,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "ride",
+   "song_start": 59.82,
+   "song_end": 59.9,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "Easy",
+   "song_start": 59.9,
+   "song_end": 60.22,
+   "take_word": "easy",
+   "take_start": 3.24,
+   "take_end": 5.58,
+   "source": "prompted+rms",
+   "raw_offset": -56.66,
+   "swing_offset": 0.86,
+   "interval_to_next_anchor": null,
+   "verdict": "WARPABLE",
+   "notes": [
+    "prompted-only, RMS 0.059 >= 0.35x median 0.108 \u2014 credited",
+    "zero-length interval stamp \u2014 warp by neighbours"
+   ]
+  },
+  {
+   "song_word": "now",
+   "song_start": 60.22,
+   "song_end": 60.56,
+   "take_word": "now,",
+   "take_start": 2.7,
+   "take_end": 3.26,
+   "source": "unprompted",
+   "raw_offset": -57.52,
+   "swing_offset": 0.0,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.24,
+    "song_interval_s": 0.34,
+    "playback_speed": 3.647,
+    "setpts_factor": 0.2742,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.65x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "easy",
+   "song_start": 60.56,
+   "song_end": 60.92,
+   "take_word": "is",
+   "take_start": 3.94,
+   "take_end": 5.6,
+   "source": "unprompted",
+   "raw_offset": -56.62,
+   "swing_offset": 0.9,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.66,
+    "song_interval_s": 0.54,
+    "playback_speed": 3.074,
+    "setpts_factor": 0.3253,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": [
+    "hard squeeze 3.07x speedup \u2014 legal, disclose"
+   ]
+  },
+  {
+   "song_word": "now",
+   "song_start": 61.1,
+   "song_end": 61.34,
+   "take_word": "it",
+   "take_start": 5.6,
+   "take_end": 5.96,
+   "source": "unprompted",
+   "raw_offset": -55.5,
+   "swing_offset": 2.02,
+   "interval_to_next_anchor": {
+    "take_interval_s": 1.48,
+    "song_interval_s": 1.42,
+    "playback_speed": 1.042,
+    "setpts_factor": 0.9595,
+    "spans_song_words": 6
+   },
+   "verdict": "BAD-wrong",
+   "notes": [
+    "take sings 'it' here"
+   ]
+  },
+  {
+   "song_word": "With",
+   "song_start": 61.1,
+   "song_end": 61.34,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "you",
+   "song_start": 61.34,
+   "song_end": 61.5,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "by",
+   "song_start": 61.5,
+   "song_end": 61.64,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "my",
+   "song_start": 61.64,
+   "song_end": 61.88,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "side",
+   "song_start": 61.88,
+   "song_end": 62.12,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "Easy",
+   "song_start": 62.52,
+   "song_end": 62.805,
+   "take_word": "easy",
+   "take_start": 7.08,
+   "take_end": 7.08,
+   "source": "prompted+rms",
+   "raw_offset": -55.44,
+   "swing_offset": 2.08,
+   "interval_to_next_anchor": null,
+   "verdict": "WARPABLE",
+   "notes": [
+    "prompted-only, RMS 0.135 >= 0.35x median 0.108 \u2014 credited",
+    "zero-length interval stamp \u2014 warp by neighbours"
+   ]
+  },
+  {
+   "song_word": "now",
+   "song_start": 62.805,
+   "song_end": 63.09,
+   "take_word": "now,",
+   "take_start": 5.96,
+   "take_end": 6.3,
+   "source": "unprompted",
+   "raw_offset": -56.845,
+   "swing_offset": 0.675,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.56,
+    "song_interval_s": 0.285,
+    "playback_speed": 1.965,
+    "setpts_factor": 0.5089,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "easy",
+   "song_start": 63.09,
+   "song_end": 63.375,
+   "take_word": "is",
+   "take_start": 6.52,
+   "take_end": 6.78,
+   "source": "unprompted",
+   "raw_offset": -56.57,
+   "swing_offset": 0.95,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.26,
+    "song_interval_s": 0.285,
+    "playback_speed": 0.912,
+    "setpts_factor": 1.0962,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "now",
+   "song_start": 63.375,
+   "song_end": 63.66,
+   "take_word": "it",
+   "take_start": 6.78,
+   "take_end": 6.94,
+   "source": "unprompted",
+   "raw_offset": -56.595,
+   "swing_offset": 0.925,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.16,
+    "song_interval_s": 1.765,
+    "playback_speed": 0.091,
+    "setpts_factor": 11.0312,
+    "spans_song_words": 6
+   },
+   "verdict": "BAD-wrong",
+   "notes": [
+    "take sings 'it' here"
+   ]
+  },
+  {
+   "song_word": "No",
+   "song_start": 63.4,
+   "song_end": 63.66,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "need",
+   "song_start": 63.66,
+   "song_end": 64.02,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "to",
+   "song_start": 64.02,
+   "song_end": 64.2,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "run",
+   "song_start": 64.2,
+   "song_end": 64.46,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "Easy",
+   "song_start": 64.92,
+   "song_end": 65.14,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "now",
+   "song_start": 65.14,
+   "song_end": 65.48,
+   "take_word": "now,",
+   "take_start": 6.94,
+   "take_end": 7.08,
+   "source": "unprompted",
+   "raw_offset": -58.2,
+   "swing_offset": -0.68,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.14,
+    "song_interval_s": 0.5,
+    "playback_speed": 0.28,
+    "setpts_factor": 3.5714,
+    "spans_song_words": 1
+   },
+   "verdict": "BAD-out-of-caps",
+   "notes": [
+    "interval needs playback 0.28x \u2014 past the 2x-slow cap; montage, never stretch"
+   ]
+  },
+  {
+   "song_word": "easy",
+   "song_start": 65.64,
+   "song_end": 65.96,
+   "take_word": "is",
+   "take_start": 7.08,
+   "take_end": 7.08,
+   "source": "unprompted",
+   "raw_offset": -58.56,
+   "swing_offset": -1.04,
+   "interval_to_next_anchor": null,
+   "verdict": "WARPABLE",
+   "notes": [
+    "zero-length interval stamp \u2014 warp by neighbours"
+   ]
+  },
+  {
+   "song_word": "now",
+   "song_start": 65.96,
+   "song_end": 66.18,
+   "take_word": "now?",
+   "take_start": 7.08,
+   "take_end": 7.6,
+   "source": "unprompted",
+   "raw_offset": -58.88,
+   "swing_offset": -1.36,
+   "interval_to_next_anchor": {
+    "take_interval_s": 0.52,
+    "song_interval_s": 0.22,
+    "playback_speed": 2.364,
+    "setpts_factor": 0.4231,
+    "spans_song_words": 1
+   },
+   "verdict": "WARPABLE",
+   "notes": []
+  },
+  {
+   "song_word": "We",
+   "song_start": 65.64,
+   "song_end": 65.96,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "hold",
+   "song_start": 65.96,
+   "song_end": 66.18,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "the",
+   "song_start": 66.18,
+   "song_end": 66.52,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "sun",
+   "song_start": 66.52,
+   "song_end": 66.82,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  },
+  {
+   "song_word": "Easy",
+   "song_start": 66.82,
+   "song_end": 67.06,
+   "take_word": null,
+   "take_start": null,
+   "take_end": null,
+   "source": null,
+   "raw_offset": null,
+   "swing_offset": null,
+   "interval_to_next_anchor": null,
+   "verdict": "BAD-missing",
+   "notes": [
+    "no take word aligns to this song word"
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "word": "it",
+   "start": 0.7,
+   "end": 0.88,
+   "class": "mishear-split (is->easy + it)",
+   "counts_as": "nothing"
+  },
+  {
+   "word": "it",
+   "start": 7.08,
+   "end": 7.08,
+   "class": "mishear-split (is->easy + it)",
+   "counts_as": "nothing"
+  }
+ ],
+ "keyframes": [
+  {
+   "word": "Easy",
+   "song_time": 57.52,
+   "take_time": 0.0
+  },
+  {
+   "word": "now",
+   "song_time": 58.04,
+   "take_time": 0.88
+  },
+  {
+   "word": "easy",
+   "song_time": 58.54,
+   "take_time": 2.04
+  },
+  {
+   "word": "Easy",
+   "song_time": 59.9,
+   "take_time": 3.24
+  },
+  {
+   "word": "now",
+   "song_time": 60.22,
+   "take_time": 2.7
+  },
+  {
+   "word": "easy",
+   "song_time": 60.56,
+   "take_time": 3.94
+  },
+  {
+   "word": "Easy",
+   "song_time": 62.52,
+   "take_time": 7.08
+  },
+  {
+   "word": "now",
+   "song_time": 62.805,
+   "take_time": 5.96
+  },
+  {
+   "word": "easy",
+   "song_time": 63.09,
+   "take_time": 6.52
+  },
+  {
+   "word": "easy",
+   "song_time": 65.64,
+   "take_time": 7.08
+  },
+  {
+   "word": "now",
+   "song_time": 65.96,
+   "take_time": 7.08
+  }
+ ],
+ "montage_cuts": [
+  {
+   "covers_words": [
+    "now",
+    "We",
+    "ride",
+    "we",
+    "ride"
+   ],
+   "span_song": [
+    58.84,
+    59.9
+   ],
+   "cut_out_beat": 58.398,
+   "return_onset": 59.9,
+   "return_beat": 60.116,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "now",
+    "With",
+    "you",
+    "by",
+    "my",
+    "side"
+   ],
+   "span_song": [
+    61.1,
+    62.12
+   ],
+   "cut_out_beat": 60.697,
+   "return_onset": 62.52,
+   "return_beat": 62.392,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "now",
+    "No",
+    "need",
+    "to",
+    "run",
+    "Easy",
+    "now"
+   ],
+   "span_song": [
+    63.375,
+    65.48
+   ],
+   "cut_out_beat": 62.973,
+   "return_onset": 65.64,
+   "return_beat": 65.829,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  },
+  {
+   "covers_words": [
+    "We",
+    "hold",
+    "the",
+    "sun",
+    "Easy"
+   ],
+   "span_song": [
+    65.64,
+    67.06
+   ],
+   "cut_out_beat": 65.248,
+   "return_onset": null,
+   "return_beat": 67.547,
+   "action": "fast montage over this span; cut out on the beat, return on the next good word's onset"
+  }
+ ],
+ "summary": {
+  "WARPABLE": 11,
+  "BAD-wrong": 3,
+  "BAD-missing": 19,
+  "BAD-out-of-caps": 1
+ },
+ "caution": "keyframes are assembly hints from take AUDIO times; mouth can lag audio by up to ~1s \u2014 the master gate verifies mouth state at song onsets"
+}

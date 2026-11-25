@@ -1,0 +1,82 @@
+{
+  "file": "mv5_s19b_t1.wav",
+  "kind": "Take",
+  "totalWords": 11,
+  "expectedWords": 30,
+  "words": [
+    {
+      "word": "move",
+      "start": 0.1,
+      "end": 0.4,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "with",
+      "start": 0.4,
+      "end": 0.7,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "it,",
+      "start": 0.7,
+      "end": 1.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "hand",
+      "start": 1.5,
+      "end": 1.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "in",
+      "start": 1.9,
+      "end": 2.1,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "my",
+      "start": 2.1,
+      "end": 2.3,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "hand,",
+      "start": 2.3,
+      "end": 2.9,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "no",
+      "start": 2.9,
+      "end": 3.2,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "speech,",
+      "start": 3.2,
+      "end": 3.6,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "no",
+      "start": 3.6,
+      "end": 3.8,
+      "speaker": "spk:0"
+    },
+    {
+      "word": "show.",
+      "start": 3.8,
+      "end": 4.5,
+      "speaker": "spk:0"
+    }
+  ],
+  "diarization": [
+    {
+      "speaker": "spk:0",
+      "start": 0.1,
+      "end": 4.5,
+      "text": "move with it, hand in my hand, no speech, no show."
+    }
+  ]
+}

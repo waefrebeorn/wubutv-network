@@ -1,0 +1,120 @@
+{
+ "take": "media-generation-mv11-r2-s09-t2-0-416e7de8-8a1d-46ff-814e-2724faa0970d.mp4",
+ "scene": "S09",
+ "take_no": "2",
+ "duration": 10.0,
+ "width": 1248,
+ "height": 704,
+ "codec": "h264",
+ "words": [
+  {
+   "word": "Music",
+   "start": 2.16,
+   "end": 3.56,
+   "prob": 0.008
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "md5": "606b51a17516",
+   "mean_abs_diff_from_prev": null
+  },
+  {
+   "t": 0.5,
+   "md5": "bbe42481908f",
+   "mean_abs_diff_from_prev": 10.21
+  },
+  {
+   "t": 1.0,
+   "md5": "030fb917ed36",
+   "mean_abs_diff_from_prev": 19.79
+  },
+  {
+   "t": 1.5,
+   "md5": "c3d630821104",
+   "mean_abs_diff_from_prev": 23.88
+  },
+  {
+   "t": 2.0,
+   "md5": "f004367ee825",
+   "mean_abs_diff_from_prev": 26.75
+  },
+  {
+   "t": 2.5,
+   "md5": "01c380d3dd16",
+   "mean_abs_diff_from_prev": 29.03
+  },
+  {
+   "t": 3.0,
+   "md5": "4ad93e5a1a3a",
+   "mean_abs_diff_from_prev": 32.9
+  },
+  {
+   "t": 3.5,
+   "md5": "7b2bc3dc9fe3",
+   "mean_abs_diff_from_prev": 32.08
+  },
+  {
+   "t": 4.0,
+   "md5": "f0cc066d98d9",
+   "mean_abs_diff_from_prev": 31.23
+  },
+  {
+   "t": 4.5,
+   "md5": "b06f2d6545fe",
+   "mean_abs_diff_from_prev": 42.19
+  },
+  {
+   "t": 5.0,
+   "md5": "c5c3ae5d09fb",
+   "mean_abs_diff_from_prev": 40.86
+  },
+  {
+   "t": 5.5,
+   "md5": "2060f9060b59",
+   "mean_abs_diff_from_prev": 41.09
+  },
+  {
+   "t": 6.0,
+   "md5": "018e40e7e56f",
+   "mean_abs_diff_from_prev": 43.92
+  },
+  {
+   "t": 6.5,
+   "md5": "becea4c53236",
+   "mean_abs_diff_from_prev": 42.53
+  },
+  {
+   "t": 7.0,
+   "md5": "2782bc741a3a",
+   "mean_abs_diff_from_prev": 41.33
+  },
+  {
+   "t": 7.5,
+   "md5": "70859fa522b8",
+   "mean_abs_diff_from_prev": 37.24
+  },
+  {
+   "t": 8.0,
+   "md5": "4ba599bbaa47",
+   "mean_abs_diff_from_prev": 34.63
+  },
+  {
+   "t": 8.5,
+   "md5": "2587b2515a30",
+   "mean_abs_diff_from_prev": 38.26
+  },
+  {
+   "t": 9.0,
+   "md5": "f9d8896e4731",
+   "mean_abs_diff_from_prev": 31.33
+  },
+  {
+   "t": 9.5,
+   "md5": "9635e2c9088e",
+   "mean_abs_diff_from_prev": 26.81
+  }
+ ],
+ "frames_distinct": true
+}

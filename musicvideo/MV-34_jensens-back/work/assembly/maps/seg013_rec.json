@@ -1,0 +1,211 @@
+{
+ "seg": 13,
+ "scene": "S09",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s09-t2-desc-0-4b468376-7820-4771-a91b-8db69377aa5c.mp4",
+ "take_span": [
+  0.0,
+  9.343
+ ],
+ "song_span": [
+  47.666666666666664,
+  56.416666666666664
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  1.117,
+  0.308,
+  1.75,
+  0.737,
+  0.455,
+  1.0,
+  0.393,
+  1.0,
+  0.786,
+  0.404,
+  1.313,
+  0.786,
+  1.333,
+  1.7,
+  1.0,
+  0.471,
+  0.75,
+  1.071,
+  1.652
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 1.7939
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 1500.0,
+   "worst_anchor_drift_ms": 51.7
+  }
+ ],
+ "penalty_extra_words": 3,
+ "worst_word_drift": {
+  "word": "the",
+  "song_onset": 55.72,
+  "take_onset": 8.6,
+  "carried": false,
+  "drift_ms": -487.6
+ },
+ "word_drifts": [
+  {
+   "word": "Jensen's",
+   "song_onset": 47.68,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": -13.3
+  },
+  {
+   "word": "back",
+   "song_onset": 48.56,
+   "take_onset": 0.8,
+   "carried": false,
+   "drift_ms": -51.7
+  },
+  {
+   "word": "Say",
+   "song_onset": 48.72,
+   "take_onset": 1.32,
+   "carried": false,
+   "drift_ms": 49.1
+  },
+  {
+   "word": "it",
+   "song_onset": 49.04,
+   "take_onset": 1.46,
+   "carried": false,
+   "drift_ms": -43.7
+  },
+  {
+   "word": "loud,",
+   "song_onset": 49.28,
+   "take_onset": 1.64,
+   "carried": false,
+   "drift_ms": 5.9
+  },
+  {
+   "word": "boy",
+   "song_onset": 49.84,
+   "take_onset": 2.4,
+   "carried": false,
+   "drift_ms": -12.6
+  },
+  {
+   "word": "said",
+   "song_onset": 50.04,
+   "take_onset": 2.84,
+   "carried": false,
+   "drift_ms": 7.4
+  },
+  {
+   "word": "yes",
+   "song_onset": 50.38,
+   "take_onset": 3.18,
+   "carried": false,
+   "drift_ms": -30.4
+  },
+  {
+   "word": "Crowd",
+   "song_onset": 50.6,
+   "take_onset": 3.74,
+   "carried": false,
+   "drift_ms": 29.8
+  },
+  {
+   "word": "got",
+   "song_onset": 50.88,
+   "take_onset": 4.02,
+   "carried": false,
+   "drift_ms": -2.0
+  },
+  {
+   "word": "loud",
+   "song_onset": 51.1,
+   "take_onset": 4.3,
+   "carried": false,
+   "drift_ms": -42.9
+  },
+  {
+   "word": "Jensen's",
+   "song_onset": 51.48,
+   "take_onset": 5.24,
+   "carried": false,
+   "drift_ms": 47.7
+  },
+  {
+   "word": "back",
+   "song_onset": 52.32,
+   "take_onset": 5.88,
+   "carried": false,
+   "drift_ms": 2.9
+  },
+  {
+   "word": "One",
+   "song_onset": 52.54,
+   "take_onset": 6.16,
+   "carried": false,
+   "drift_ms": 0.9
+  },
+  {
+   "word": "more",
+   "song_onset": 52.86,
+   "take_onset": 6.4,
+   "carried": false,
+   "drift_ms": 0.4
+  },
+  {
+   "word": "time,",
+   "song_onset": 53.2,
+   "take_onset": 6.6,
+   "carried": false,
+   "drift_ms": -0.4
+  },
+  {
+   "word": "he's",
+   "song_onset": 53.88,
+   "take_onset": 7.28,
+   "carried": false,
+   "drift_ms": -5.3
+  },
+  {
+   "word": "the",
+   "song_onset": 54.04,
+   "take_onset": 7.62,
+   "carried": false,
+   "drift_ms": 5.0
+  },
+  {
+   "word": "one",
+   "song_onset": 54.16,
+   "take_onset": 7.78,
+   "carried": false,
+   "drift_ms": 1.7
+  },
+  {
+   "word": "He's",
+   "song_onset": 54.76,
+   "take_onset": 8.34,
+   "carried": false,
+   "drift_ms": 8.4
+  },
+  {
+   "word": "the",
+   "song_onset": 55.72,
+   "take_onset": 8.6,
+   "carried": false,
+   "drift_ms": -487.6
+  },
+  {
+   "word": "line",
+   "song_onset": 55.86,
+   "take_onset": 8.76,
+   "carried": false,
+   "drift_ms": -360.6
+  }
+ ]
+}

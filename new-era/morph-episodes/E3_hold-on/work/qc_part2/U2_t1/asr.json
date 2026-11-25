@@ -1,0 +1,165 @@
+{
+ "file": "takes_part2/U2_t1.mp4",
+ "head_rms_0_1.7": 0.019849145784974098,
+ "ambient_rms_0_0.5": 0.02052956633269787,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 3.12,
+    "end": 5.08,
+    "text": "Every coin you earn wears a notch.",
+    "words": [
+     {
+      "w": " Every",
+      "start": 3.12,
+      "end": 3.66
+     },
+     {
+      "w": " coin",
+      "start": 3.66,
+      "end": 3.96
+     },
+     {
+      "w": " you",
+      "start": 3.96,
+      "end": 4.22
+     },
+     {
+      "w": " earn",
+      "start": 4.22,
+      "end": 4.44
+     },
+     {
+      "w": " wears",
+      "start": 4.44,
+      "end": 4.7
+     },
+     {
+      "w": " a",
+      "start": 4.7,
+      "end": 4.88
+     },
+     {
+      "w": " notch.",
+      "start": 4.88,
+      "end": 5.08
+     }
+    ],
+    "seg_rms": 0.1377
+   },
+   {
+    "start": 7.14,
+    "end": 8.64,
+    "text": "One in his pocket wears yours.",
+    "words": [
+     {
+      "w": " One",
+      "start": 7.14,
+      "end": 7.62
+     },
+     {
+      "w": " in",
+      "start": 7.62,
+      "end": 7.78
+     },
+     {
+      "w": " his",
+      "start": 7.78,
+      "end": 7.9
+     },
+     {
+      "w": " pocket",
+      "start": 7.9,
+      "end": 8.2
+     },
+     {
+      "w": " wears",
+      "start": 8.2,
+      "end": 8.4
+     },
+     {
+      "w": " yours.",
+      "start": 8.4,
+      "end": 8.64
+     }
+    ],
+    "seg_rms": 0.1102
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 3.12,
+    "end": 8.7,
+    "text": "Every coin you earn wears a notch. One in his pocket where's yours?",
+    "words": [
+     {
+      "w": " Every",
+      "start": 3.12,
+      "end": 3.76
+     },
+     {
+      "w": " coin",
+      "start": 3.76,
+      "end": 4.1
+     },
+     {
+      "w": " you",
+      "start": 4.1,
+      "end": 4.26
+     },
+     {
+      "w": " earn",
+      "start": 4.26,
+      "end": 4.56
+     },
+     {
+      "w": " wears",
+      "start": 4.56,
+      "end": 4.82
+     },
+     {
+      "w": " a",
+      "start": 4.82,
+      "end": 4.92
+     },
+     {
+      "w": " notch.",
+      "start": 4.92,
+      "end": 5.3
+     },
+     {
+      "w": " One",
+      "start": 7.14,
+      "end": 7.72
+     },
+     {
+      "w": " in",
+      "start": 7.72,
+      "end": 7.84
+     },
+     {
+      "w": " his",
+      "start": 7.84,
+      "end": 7.98
+     },
+     {
+      "w": " pocket",
+      "start": 7.98,
+      "end": 8.28
+     },
+     {
+      "w": " where's",
+      "start": 8.28,
+      "end": 8.54
+     },
+     {
+      "w": " yours?",
+      "start": 8.54,
+      "end": 8.7
+     }
+    ],
+    "seg_rms": 0.1009
+   }
+  ]
+ }
+}

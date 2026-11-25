@@ -1,0 +1,324 @@
+[
+ {
+  "n": 1,
+  "win": [
+   0.0,
+   15.0
+  ],
+  "frames": [
+   0,
+   360
+  ],
+  "section": "INTRO A",
+  "lines": "inst",
+  "tag": "CUTAWAY"
+ },
+ {
+  "n": 2,
+  "win": [
+   15.0,
+   30.625
+  ],
+  "frames": [
+   360,
+   735
+  ],
+  "section": "INTRO B",
+  "lines": "inst + patter",
+  "tag": "CUTAWAY"
+ },
+ {
+  "n": 3,
+  "win": [
+   30.625,
+   37.5
+  ],
+  "frames": [
+   735,
+   900
+  ],
+  "section": "VERSE 1",
+  "lines": "L01-L02",
+  "tag": "SINGING"
+ },
+ {
+  "n": 4,
+  "win": [
+   37.5,
+   44.333333333333336
+  ],
+  "frames": [
+   900,
+   1064
+  ],
+  "section": "VERSE 1",
+  "lines": "L03-L04",
+  "tag": "SINGING"
+ },
+ {
+  "n": 5,
+  "win": [
+   44.333333333333336,
+   52.875
+  ],
+  "frames": [
+   1064,
+   1269
+  ],
+  "section": "PRE-CHORUS 1",
+  "lines": "L05-L06",
+  "tag": "SINGING"
+ },
+ {
+  "n": 6,
+  "win": [
+   52.875,
+   65.70833333333333
+  ],
+  "frames": [
+   1269,
+   1577
+  ],
+  "section": "CHORUS 1",
+  "lines": "L07-L10",
+  "tag": "SINGING"
+ },
+ {
+  "n": 7,
+  "win": [
+   65.70833333333333,
+   79.0
+  ],
+  "frames": [
+   1577,
+   1896
+  ],
+  "section": "CHORUS 1",
+  "lines": "adlibs+L11-L13",
+  "tag": "SINGING"
+ },
+ {
+  "n": 8,
+  "win": [
+   79.0,
+   97.0
+  ],
+  "frames": [
+   1896,
+   2328
+  ],
+  "section": "INTERLUDE",
+  "lines": "inst",
+  "tag": "CUTAWAY"
+ },
+ {
+  "n": 9,
+  "win": [
+   97.0,
+   103.625
+  ],
+  "frames": [
+   2328,
+   2487
+  ],
+  "section": "VERSE 2",
+  "lines": "L14-L15",
+  "tag": "SINGING"
+ },
+ {
+  "n": 10,
+  "win": [
+   103.625,
+   110.91666666666667
+  ],
+  "frames": [
+   2487,
+   2662
+  ],
+  "section": "VERSE 2",
+  "lines": "L16-L17",
+  "tag": "SINGING"
+ },
+ {
+  "n": 11,
+  "win": [
+   110.91666666666667,
+   118.41666666666667
+  ],
+  "frames": [
+   2662,
+   2842
+  ],
+  "section": "PRE-CHORUS 2",
+  "lines": "L18-L19",
+  "tag": "SINGING"
+ },
+ {
+  "n": 12,
+  "win": [
+   118.41666666666667,
+   131.95833333333334
+  ],
+  "frames": [
+   2842,
+   3167
+  ],
+  "section": "CHORUS 2",
+  "lines": "L20-L24",
+  "tag": "SINGING"
+ },
+ {
+  "n": 13,
+  "win": [
+   131.95833333333334,
+   145.20833333333334
+  ],
+  "frames": [
+   3167,
+   3485
+  ],
+  "section": "CHORUS 2",
+  "lines": "adlibs+L25-L27",
+  "tag": "SINGING"
+ },
+ {
+  "n": 14,
+  "win": [
+   145.20833333333334,
+   155.5
+  ],
+  "frames": [
+   3485,
+   3732
+  ],
+  "section": "BREAK",
+  "lines": "inst",
+  "tag": "CUTAWAY"
+ },
+ {
+  "n": 15,
+  "win": [
+   155.5,
+   165.79166666666666
+  ],
+  "frames": [
+   3732,
+   3979
+  ],
+  "section": "BREAK",
+  "lines": "inst",
+  "tag": "CUTAWAY"
+ },
+ {
+  "n": 16,
+  "win": [
+   165.79166666666666,
+   176.16666666666666
+  ],
+  "frames": [
+   3979,
+   4228
+  ],
+  "section": "BREAK",
+  "lines": "inst",
+  "tag": "CUTAWAY"
+ },
+ {
+  "n": 17,
+  "win": [
+   176.16666666666666,
+   186.125
+  ],
+  "frames": [
+   4228,
+   4467
+  ],
+  "section": "BRIDGE",
+  "lines": "L28-L30",
+  "tag": "SINGING"
+ },
+ {
+  "n": 18,
+  "win": [
+   186.125,
+   194.45833333333334
+  ],
+  "frames": [
+   4467,
+   4667
+  ],
+  "section": "BRIDGE/FC",
+  "lines": "L31-L32",
+  "tag": "SINGING"
+ },
+ {
+  "n": 19,
+  "win": [
+   194.45833333333334,
+   204.70833333333334
+  ],
+  "frames": [
+   4667,
+   4913
+  ],
+  "section": "FINAL CHORUS",
+  "lines": "L33-L36",
+  "tag": "SINGING"
+ },
+ {
+  "n": 20,
+  "win": [
+   204.70833333333334,
+   214.41666666666666
+  ],
+  "frames": [
+   4913,
+   5146
+  ],
+  "section": "FINAL CHORUS",
+  "lines": "adlibs+L37-L38",
+  "tag": "SINGING"
+ },
+ {
+  "n": 21,
+  "win": [
+   214.41666666666666,
+   224.0
+  ],
+  "frames": [
+   5146,
+   5376
+  ],
+  "section": "OUTRO",
+  "lines": "L39",
+  "tag": "SINGING"
+ },
+ {
+  "n": 22,
+  "win": [
+   224.0,
+   232.29166666666666
+  ],
+  "frames": [
+   5376,
+   5575
+  ],
+  "section": "OUTRO",
+  "lines": "backing+L40",
+  "tag": "SINGING"
+ },
+ {
+  "n": 23,
+  "win": [
+   232.29166666666666,
+   240.0
+  ],
+  "frames": [
+   5575,
+   5760
+  ],
+  "section": "OUTRO TAIL",
+  "lines": "inst",
+  "tag": "CUTAWAY"
+ }
+]

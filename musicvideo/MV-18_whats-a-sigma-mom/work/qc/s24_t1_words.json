@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv18_s24_t1.mp4",
+ "words": [
+  {
+   "w": "Trying",
+   "start": 0.86,
+   "end": 1.62,
+   "p": 0.622
+  },
+  {
+   "w": "to",
+   "start": 1.62,
+   "end": 1.88,
+   "p": 0.999
+  },
+  {
+   "w": "explain",
+   "start": 1.88,
+   "end": 2.54,
+   "p": 0.998
+  },
+  {
+   "w": "a",
+   "start": 2.54,
+   "end": 2.9,
+   "p": 0.99
+  },
+  {
+   "w": "meme",
+   "start": 2.9,
+   "end": 3.28,
+   "p": 0.996
+  },
+  {
+   "w": "to",
+   "start": 3.28,
+   "end": 3.78,
+   "p": 0.976
+  },
+  {
+   "w": "my",
+   "start": 3.78,
+   "end": 4.08,
+   "p": 0.999
+  },
+  {
+   "w": "mum",
+   "start": 4.08,
+   "end": 4.48,
+   "p": 0.882
+  },
+  {
+   "w": "and",
+   "start": 4.48,
+   "end": 4.84,
+   "p": 0.875
+  },
+  {
+   "w": "immediately",
+   "start": 4.84,
+   "end": 5.46,
+   "p": 0.999
+  },
+  {
+   "w": "regretting",
+   "start": 5.46,
+   "end": 6.36,
+   "p": 1.0
+  },
+  {
+   "w": "it.",
+   "start": 6.36,
+   "end": 6.7,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.86,
+   "end": 6.7,
+   "text": "Trying to explain a meme to my mum and immediately regretting it.",
+   "avg_logprob": -0.256
+  }
+ ]
+}

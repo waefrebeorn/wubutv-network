@@ -1,0 +1,135 @@
+{
+ "file": "takes_part3/U5_t1.mp4",
+ "head_rms_0_1.7": 0.025022873654961586,
+ "ambient_rms_0_0.5": 0.03868468850851059,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 3.63,
+    "end": 4.93,
+    "text": "Sign for the boxkeeper.",
+    "words": [
+     {
+      "w": " Sign",
+      "start": 3.63,
+      "end": 4.13
+     },
+     {
+      "w": " for",
+      "start": 4.13,
+      "end": 4.31
+     },
+     {
+      "w": " the",
+      "start": 4.31,
+      "end": 4.39
+     },
+     {
+      "w": " boxkeeper.",
+      "start": 4.39,
+      "end": 4.93
+     }
+    ],
+    "seg_rms": 0.0695
+   },
+   {
+    "start": 6.23,
+    "end": 8.53,
+    "text": "There's the vote on your sleeve.",
+    "words": [
+     {
+      "w": " There's",
+      "start": 6.23,
+      "end": 6.73
+     },
+     {
+      "w": " the",
+      "start": 6.73,
+      "end": 6.83
+     },
+     {
+      "w": " vote",
+      "start": 6.83,
+      "end": 7.07
+     },
+     {
+      "w": " on",
+      "start": 7.07,
+      "end": 8.03
+     },
+     {
+      "w": " your",
+      "start": 8.03,
+      "end": 8.25
+     },
+     {
+      "w": " sleeve.",
+      "start": 8.25,
+      "end": 8.53
+     }
+    ],
+    "seg_rms": 0.0398
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 3.63,
+    "end": 8.75,
+    "text": "Sign for the boxkeeper. There's the vote on your sleeve.",
+    "words": [
+     {
+      "w": " Sign",
+      "start": 3.63,
+      "end": 4.21
+     },
+     {
+      "w": " for",
+      "start": 4.21,
+      "end": 4.39
+     },
+     {
+      "w": " the",
+      "start": 4.39,
+      "end": 4.49
+     },
+     {
+      "w": " boxkeeper.",
+      "start": 4.49,
+      "end": 5.13
+     },
+     {
+      "w": " There's",
+      "start": 6.65,
+      "end": 6.83
+     },
+     {
+      "w": " the",
+      "start": 6.83,
+      "end": 6.91
+     },
+     {
+      "w": " vote",
+      "start": 6.91,
+      "end": 7.25
+     },
+     {
+      "w": " on",
+      "start": 7.25,
+      "end": 8.21
+     },
+     {
+      "w": " your",
+      "start": 8.21,
+      "end": 8.35
+     },
+     {
+      "w": " sleeve.",
+      "start": 8.35,
+      "end": 8.75
+     }
+    ],
+    "seg_rms": 0.0461
+   }
+  ]
+ }
+}

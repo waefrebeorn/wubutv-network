@@ -1,0 +1,49 @@
+{
+ "take": "takes/mv19_s32_t1.mp4",
+ "words": [
+  {
+   "w": "Just",
+   "start": 0.0,
+   "end": 0.58,
+   "p": 0.61
+  },
+  {
+   "w": "standing",
+   "start": 0.58,
+   "end": 1.44,
+   "p": 0.989
+  },
+  {
+   "w": "here,",
+   "start": 1.44,
+   "end": 2.36,
+   "p": 0.991
+  },
+  {
+   "w": "just",
+   "start": 3.14,
+   "end": 4.02,
+   "p": 0.95
+  },
+  {
+   "w": "standing",
+   "start": 4.02,
+   "end": 4.56,
+   "p": 0.999
+  },
+  {
+   "w": "here.",
+   "start": 4.56,
+   "end": 5.0,
+   "p": 0.976
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Just standing here, just standing here.",
+   "avg_logprob": -0.359
+  }
+ ]
+}

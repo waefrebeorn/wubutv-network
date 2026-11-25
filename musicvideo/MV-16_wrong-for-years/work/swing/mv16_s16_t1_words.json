@@ -1,0 +1,115 @@
+{
+ "take": "takes/mv16_s16_t1.mp4",
+ "words": [
+  {
+   "w": "No",
+   "start": 0.0,
+   "end": 0.36,
+   "p": 0.831
+  },
+  {
+   "w": "shame",
+   "start": 0.36,
+   "end": 0.98,
+   "p": 0.99
+  },
+  {
+   "w": "in",
+   "start": 0.98,
+   "end": 1.26,
+   "p": 0.998
+  },
+  {
+   "w": "it,",
+   "start": 1.26,
+   "end": 1.46,
+   "p": 0.999
+  },
+  {
+   "w": "no",
+   "start": 1.58,
+   "end": 1.9,
+   "p": 0.969
+  },
+  {
+   "w": "pause",
+   "start": 1.9,
+   "end": 2.52,
+   "p": 0.979
+  },
+  {
+   "w": "in",
+   "start": 2.52,
+   "end": 2.76,
+   "p": 0.997
+  },
+  {
+   "w": "it",
+   "start": 2.76,
+   "end": 3.04,
+   "p": 0.999
+  },
+  {
+   "w": "Ten",
+   "start": 3.04,
+   "end": 3.74,
+   "p": 0.453
+  },
+  {
+   "w": "years",
+   "start": 3.74,
+   "end": 4.28,
+   "p": 0.993
+  },
+  {
+   "w": "deep",
+   "start": 4.28,
+   "end": 4.68,
+   "p": 0.998
+  },
+  {
+   "w": "and",
+   "start": 4.68,
+   "end": 5.12,
+   "p": 0.78
+  },
+  {
+   "w": "I'm",
+   "start": 5.12,
+   "end": 5.44,
+   "p": 0.99
+  },
+  {
+   "w": "still",
+   "start": 5.44,
+   "end": 5.8,
+   "p": 0.999
+  },
+  {
+   "w": "in",
+   "start": 5.8,
+   "end": 6.22,
+   "p": 0.999
+  },
+  {
+   "w": "it",
+   "start": 6.22,
+   "end": 6.52,
+   "p": 0.999
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.04,
+   "text": "No shame in it, no pause in it",
+   "avg_logprob": -0.217
+  },
+  {
+   "start": 3.04,
+   "end": 6.52,
+   "text": "Ten years deep and I'm still in it",
+   "avg_logprob": -0.217
+  }
+ ]
+}

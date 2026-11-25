@@ -1,0 +1,379 @@
+{
+  "S16": {
+    "take": "mv2_s16_t7.mp4",
+    "beat": "sell you speed for a dollar and a dime",
+    "song_dur": 3.02,
+    "take_words": [
+      [
+        "sell",
+        0.0,
+        0.26
+      ],
+      [
+        "you",
+        0.26,
+        0.58
+      ],
+      [
+        "speed",
+        0.58,
+        1.12
+      ],
+      [
+        "for",
+        1.12,
+        1.74
+      ],
+      [
+        "a",
+        1.74,
+        2.1
+      ],
+      [
+        "dollar",
+        2.1,
+        2.56
+      ],
+      [
+        "and",
+        2.56,
+        3.14
+      ],
+      [
+        "a",
+        3.14,
+        3.46
+      ],
+      [
+        "dime",
+        3.46,
+        4.0
+      ]
+    ],
+    "matched": [
+      [
+        "sell",
+        0.0,
+        0.26
+      ],
+      [
+        "you",
+        0.26,
+        0.58
+      ],
+      [
+        "speed",
+        0.58,
+        1.12
+      ],
+      [
+        "for",
+        1.12,
+        1.74
+      ],
+      [
+        "a",
+        1.74,
+        2.1
+      ],
+      [
+        "dollar",
+        2.1,
+        2.56
+      ],
+      [
+        "and",
+        2.56,
+        3.14
+      ],
+      [
+        "a",
+        3.14,
+        3.46
+      ],
+      [
+        "dime",
+        3.46,
+        4.0
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      4.0
+    ],
+    "ratio": 0.76,
+    "second_delivery": [],
+    "repeat_scan": []
+  },
+  "S22": {
+    "take": "mv2_s22_t4.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.2,
+    "take_words": [
+      [
+        "towroads",
+        3.16,
+        4.16
+      ],
+      [
+        "are",
+        4.16,
+        4.36
+      ],
+      [
+        "done",
+        4.36,
+        4.86
+      ]
+    ],
+    "matched": [
+      [
+        "towroads",
+        3.16,
+        4.16
+      ],
+      [
+        "are",
+        4.16,
+        4.36
+      ],
+      [
+        "done",
+        4.36,
+        4.86
+      ]
+    ],
+    "vocal_span": [
+      3.16,
+      4.86
+    ],
+    "ratio": 1.29,
+    "second_delivery": [],
+    "repeat_scan": [],
+    "note": "Full-clip Whisper returned 0 words; split-half (0-5s) recheck recovered the line as 'TOWROADS ARE DONE' at 3.16-4.86s. TOWROADS = toll+roads slur. Second half (5-10s) empty: single delivery, no repeat."
+  },
+  "R4": {
+    "take": "mv2_r4_t7.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.42,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        1.04
+      ],
+      [
+        "roads",
+        1.04,
+        1.86
+      ],
+      [
+        "are",
+        1.86,
+        2.68
+      ],
+      [
+        "done",
+        2.68,
+        3.38
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        1.04
+      ],
+      [
+        "roads",
+        1.04,
+        1.86
+      ],
+      [
+        "are",
+        1.86,
+        2.68
+      ],
+      [
+        "done",
+        2.68,
+        3.38
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      3.38
+    ],
+    "ratio": 0.72,
+    "second_delivery": [],
+    "repeat_scan": []
+  },
+  "R3": {
+    "take": "mv2_r3_t8.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.16,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        2.0
+      ],
+      [
+        "roads",
+        2.0,
+        3.22
+      ],
+      [
+        "are",
+        3.22,
+        3.98
+      ],
+      [
+        "done",
+        3.98,
+        4.92
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        2.0
+      ],
+      [
+        "roads",
+        2.0,
+        3.22
+      ],
+      [
+        "are",
+        3.22,
+        3.98
+      ],
+      [
+        "done",
+        3.98,
+        4.92
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      4.92
+    ],
+    "ratio": 0.44,
+    "second_delivery": [],
+    "repeat_scan": []
+  },
+  "R6": {
+    "take": "mv2_r6_t6.mp4",
+    "beat": "toll roads are done",
+    "song_dur": 2.18,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        2.14
+      ],
+      [
+        "roads",
+        2.14,
+        2.78
+      ],
+      [
+        "are",
+        2.78,
+        4.62
+      ],
+      [
+        "done",
+        4.62,
+        5.42
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        2.14
+      ],
+      [
+        "roads",
+        2.14,
+        2.78
+      ],
+      [
+        "are",
+        2.78,
+        4.62
+      ],
+      [
+        "done",
+        4.62,
+        5.42
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      5.42
+    ],
+    "ratio": 0.4,
+    "second_delivery": [],
+    "repeat_scan": []
+  },
+  "S23": {
+    "take": "mv2_s23_t8.mp4",
+    "beat": "toll roads are dumb",
+    "song_dur": 1.6,
+    "take_words": [
+      [
+        "toll",
+        0.0,
+        0.9
+      ],
+      [
+        "roads",
+        0.9,
+        1.22
+      ],
+      [
+        "are",
+        1.22,
+        2.36
+      ],
+      [
+        "dumb",
+        2.36,
+        2.9
+      ]
+    ],
+    "matched": [
+      [
+        "toll",
+        0.0,
+        0.9
+      ],
+      [
+        "roads",
+        0.9,
+        1.22
+      ],
+      [
+        "are",
+        1.22,
+        2.36
+      ],
+      [
+        "dumb",
+        2.36,
+        2.9
+      ]
+    ],
+    "vocal_span": [
+      0.0,
+      2.9
+    ],
+    "ratio": 0.55,
+    "second_delivery": [],
+    "repeat_scan": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s06-t1-0-dff19117-8bfb-4cfa-b9e3-38ae27f77054.mp4",
+ "segments": [
+  {
+   "start": 1.46,
+   "end": 3.0,
+   "text": "I've been doing this for years.",
+   "avg_logprob": -0.402,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " I've",
+     "start": 1.46,
+     "end": 1.9,
+     "probability": 0.89
+    },
+    {
+     "word": " been",
+     "start": 1.9,
+     "end": 2.02,
+     "probability": 0.999
+    },
+    {
+     "word": " doing",
+     "start": 2.02,
+     "end": 2.22,
+     "probability": 0.998
+    },
+    {
+     "word": " this",
+     "start": 2.22,
+     "end": 2.44,
+     "probability": 0.999
+    },
+    {
+     "word": " for",
+     "start": 2.44,
+     "end": 2.64,
+     "probability": 0.998
+    },
+    {
+     "word": " years.",
+     "start": 2.64,
+     "end": 3.0,
+     "probability": 0.992
+    }
+   ]
+  }
+ ]
+}

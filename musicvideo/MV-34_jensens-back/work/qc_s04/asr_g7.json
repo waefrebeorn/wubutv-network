@@ -1,0 +1,80 @@
+{
+ "file": "takes/media-generation-mv34-s04-t1-desc-0-86d8d668-9a5c-4e3b-8156-27b19f1dc512.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.3,
+   "text": "Stock went down, people talked, now the lights are back on.",
+   "avg_logprob": -0.317,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Stock",
+     "start": 0.0,
+     "end": 0.62,
+     "probability": 0.779
+    },
+    {
+     "word": " went",
+     "start": 0.62,
+     "end": 1.08,
+     "probability": 0.996
+    },
+    {
+     "word": " down,",
+     "start": 1.08,
+     "end": 1.7,
+     "probability": 0.999
+    },
+    {
+     "word": " people",
+     "start": 2.16,
+     "end": 2.64,
+     "probability": 0.99
+    },
+    {
+     "word": " talked,",
+     "start": 2.64,
+     "end": 3.28,
+     "probability": 0.997
+    },
+    {
+     "word": " now",
+     "start": 3.62,
+     "end": 6.32,
+     "probability": 0.8
+    },
+    {
+     "word": " the",
+     "start": 6.32,
+     "end": 6.64,
+     "probability": 0.996
+    },
+    {
+     "word": " lights",
+     "start": 6.64,
+     "end": 7.08,
+     "probability": 0.998
+    },
+    {
+     "word": " are",
+     "start": 7.08,
+     "end": 7.32,
+     "probability": 0.998
+    },
+    {
+     "word": " back",
+     "start": 7.32,
+     "end": 7.74,
+     "probability": 1.0
+    },
+    {
+     "word": " on.",
+     "start": 7.74,
+     "end": 8.3,
+     "probability": 0.999
+    }
+   ]
+  }
+ ]
+}

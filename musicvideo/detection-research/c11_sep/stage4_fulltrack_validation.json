@@ -1,0 +1,114 @@
+{
+  "stage": "4_fulltrack",
+  "date_utc": "2026-11-12",
+  "track": "MV-14 (mv14_44k.wav, 161.6 s)",
+  "vocals": "c11_vocals.wav",
+  "demucs_reference": "../c11_mir/separation_mv14/mv14_44k_(Vocals)_htdemucs.wav",
+  "rms_vad_reference": "../c11_mir/hpss_mv14_ref.json",
+  "stem_corr_mono": 0.9674547733026789,
+  "stem_corr_L": 0.9685810728235118,
+  "stem_corr_R": 0.9669782248257174,
+  "bar_stem_corr": 0.95,
+  "stem_corr_pass": true,
+  "rms_vad": {
+    "n_ref_segments": 12,
+    "n_ref_spans_overlap_merged": 11,
+    "n_pred_segments": 17,
+    "n_pred_extra_pieces": 1,
+    "max_abs_dStart_s": 0.21000000000000796,
+    "max_abs_dEnd_s": 0.8200000000000074,
+    "bar_s": 0.5,
+    "boundaries_pass": true,
+    "note": "Span-start metric (loop-5/wubuwizard reading): ref spans are overlap-merged; each ref span is matched to its earliest-start overlapping pred piece (later pieces are 30 s-cap splits at different quiet points, not new starts). dEnd is diagnostic (split/extension behaviour), the bar is on starts.",
+    "pred_segments": [
+      [
+        7.55,
+        9.26
+      ],
+      [
+        14.17,
+        16.35
+      ],
+      [
+        16.83,
+        18.56
+      ],
+      [
+        19.23,
+        21.29
+      ],
+      [
+        22.03,
+        23.82
+      ],
+      [
+        24.25,
+        34.97
+      ],
+      [
+        36.3,
+        55.11
+      ],
+      [
+        56.12,
+        60.47
+      ],
+      [
+        61.17,
+        65.87
+      ],
+      [
+        66.41,
+        85.84
+      ],
+      [
+        85.25,
+        104.68
+      ],
+      [
+        104.08,
+        131.15
+      ],
+      [
+        133.57,
+        136.73
+      ],
+      [
+        139.1,
+        141.89
+      ],
+      [
+        144.08,
+        149.37
+      ],
+      [
+        150.37,
+        152.49
+      ],
+      [
+        155.13,
+        159.54
+      ]
+    ]
+  },
+  "active_silent": {
+    "method": "sprint-6 statistic: median 25 ms RMS envelope (16 kHz mono) inside vs outside the ref segments",
+    "c11_active_median_env": 0.055690778576581765,
+    "c11_silent_median_env": 0.00022947437485742837,
+    "c11_ratio": 242.6884422767564,
+    "demucs_active_median_env": 0.06026149947089065,
+    "demucs_silent_median_env": 0.0003154233070323827,
+    "demucs_ratio": 191.0496089773859,
+    "bar_ratio": 100,
+    "ratio_pass": true
+  },
+  "instrumental": {
+    "exists": true,
+    "len_s": 161.6,
+    "track_len_s": 161.6
+  },
+  "runtime_s": 840.4,
+  "bar_runtime_s": 894,
+  "target_runtime_s": 650,
+  "runtime_pass": true
+}

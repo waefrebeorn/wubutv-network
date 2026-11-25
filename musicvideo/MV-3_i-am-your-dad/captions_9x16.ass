@@ -1,0 +1,247 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,46,&H00FFFFFF,&H001EC6FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.82,0:00:04.22,Cap,,0,0,0,,{\1c&H1EC6FF&}Listen,{\r} all of you
+Dialogue: 0,0:00:04.22,0:00:05.62,Cap,,0,0,0,,Listen, {\1c&H1EC6FF&}all{\r} of you
+Dialogue: 0,0:00:05.62,0:00:08.08,Cap,,0,0,0,,Listen, all {\1c&H1EC6FF&}of{\r} you
+Dialogue: 0,0:00:08.08,0:00:09.00,Cap,,0,0,0,,Listen, all of {\1c&H1EC6FF&}you{\r}
+Dialogue: 0,0:00:09.32,0:00:12.56,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} already know, I am your dad
+Dialogue: 0,0:00:12.56,0:00:12.98,Cap,,0,0,0,,You {\1c&H1EC6FF&}already{\r} know, I am your dad
+Dialogue: 0,0:00:12.98,0:00:14.22,Cap,,0,0,0,,You already {\1c&H1EC6FF&}know,{\r} I am your dad
+Dialogue: 0,0:00:14.22,0:00:16.78,Cap,,0,0,0,,You already know, {\1c&H1EC6FF&}I{\r} am your dad
+Dialogue: 0,0:00:16.78,0:00:17.36,Cap,,0,0,0,,You already know, I {\1c&H1EC6FF&}am{\r} your dad
+Dialogue: 0,0:00:17.36,0:00:17.80,Cap,,0,0,0,,You already know, I am {\1c&H1EC6FF&}your{\r} dad
+Dialogue: 0,0:00:17.80,0:00:18.34,Cap,,0,0,0,,You already know, I am your {\1c&H1EC6FF&}dad{\r}
+Dialogue: 0,0:00:32.16,0:00:35.72,Cap,,0,0,0,,I been here the whole time, kid, looking right at you
+Dialogue: 0,0:00:36.56,0:00:39.74,Cap,,0,0,0,,Old man on the corner, old man in the room
+Dialogue: 0,0:00:40.06,0:00:44.26,Cap,,0,0,0,,You walk by, you scroll by, you turn the radio on
+Dialogue: 0,0:00:44.26,0:00:47.60,Cap,,0,0,0,,And the voice in the speaker says the same thing all along
+Dialogue: 0,0:00:48.12,0:00:50.96,Cap,,0,0,0,,I raised you in the dark, I raised you in the light
+Dialogue: 0,0:00:51.76,0:00:54.38,Cap,,0,0,0,,I raised every face that is listening tonight
+Dialogue: 0,0:00:55.14,0:00:55.54,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} don't have to like it, you don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:55.54,0:00:55.88,Cap,,0,0,0,,You {\1c&H1EC6FF&}don't{\r} have to like it, you don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:55.88,0:00:56.08,Cap,,0,0,0,,You don't {\1c&H1EC6FF&}have{\r} to like it, you don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:56.08,0:00:56.26,Cap,,0,0,0,,You don't have {\1c&H1EC6FF&}to{\r} like it, you don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:56.26,0:00:56.68,Cap,,0,0,0,,You don't have to {\1c&H1EC6FF&}like{\r} it, you don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:56.68,0:00:57.12,Cap,,0,0,0,,You don't have to like {\1c&H1EC6FF&}it,{\r} you don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:57.12,0:00:57.26,Cap,,0,0,0,,You don't have to like it, {\1c&H1EC6FF&}you{\r} don't have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:57.26,0:00:57.78,Cap,,0,0,0,,You don't have to like it, you {\1c&H1EC6FF&}don't{\r} have to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:57.78,0:00:57.98,Cap,,0,0,0,,You don't have to like it, you don't {\1c&H1EC6FF&}have{\r} to stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:57.98,0:00:58.16,Cap,,0,0,0,,You don't have to like it, you don't have {\1c&H1EC6FF&}to{\r} stay, but the words keep coming and they won't go away
+Dialogue: 0,0:00:58.16,0:00:58.80,Cap,,0,0,0,,You don't have to like it, you don't have to {\1c&H1EC6FF&}stay,{\r} but the words keep coming and they won't go away
+Dialogue: 0,0:00:58.80,0:00:59.08,Cap,,0,0,0,,You don't have to like it, you don't have to stay, {\1c&H1EC6FF&}but{\r} the words keep coming and they won't go away
+Dialogue: 0,0:00:59.08,0:00:59.20,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but {\1c&H1EC6FF&}the{\r} words keep coming and they won't go away
+Dialogue: 0,0:00:59.20,0:00:59.48,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the {\1c&H1EC6FF&}words{\r} keep coming and they won't go away
+Dialogue: 0,0:00:59.48,0:00:59.94,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words {\1c&H1EC6FF&}keep{\r} coming and they won't go away
+Dialogue: 0,0:00:59.94,0:01:00.52,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words keep {\1c&H1EC6FF&}coming{\r} and they won't go away
+Dialogue: 0,0:01:00.52,0:01:00.86,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words keep coming {\1c&H1EC6FF&}and{\r} they won't go away
+Dialogue: 0,0:01:00.86,0:01:01.06,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words keep coming and {\1c&H1EC6FF&}they{\r} won't go away
+Dialogue: 0,0:01:01.06,0:01:01.36,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words keep coming and they {\1c&H1EC6FF&}won't{\r} go away
+Dialogue: 0,0:01:01.36,0:01:01.56,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words keep coming and they won't {\1c&H1EC6FF&}go{\r} away
+Dialogue: 0,0:01:01.56,0:01:02.20,Cap,,0,0,0,,You don't have to like it, you don't have to stay, but the words keep coming and they won't go {\1c&H1EC6FF&}away{\r}
+Dialogue: 0,0:01:02.64,0:01:02.90,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, I am your dad, say it with me
+Dialogue: 0,0:01:02.90,0:01:03.40,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, say it with me
+Dialogue: 0,0:01:03.40,0:01:03.80,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, say it with me
+Dialogue: 0,0:01:03.80,0:01:04.70,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, say it with me
+Dialogue: 0,0:01:04.70,0:01:05.26,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, say it with me
+Dialogue: 0,0:01:05.26,0:01:05.42,Cap,,0,0,0,,I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, say it with me
+Dialogue: 0,0:01:05.42,0:01:05.58,Cap,,0,0,0,,I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, say it with me
+Dialogue: 0,0:01:05.58,0:01:06.14,Cap,,0,0,0,,I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} say it with me
+Dialogue: 0,0:01:06.14,0:01:06.88,Cap,,0,0,0,,I am your dad, I am your dad, {\1c&H1EC6FF&}say{\r} it with me
+Dialogue: 0,0:01:06.88,0:01:07.30,Cap,,0,0,0,,I am your dad, I am your dad, say {\1c&H1EC6FF&}it{\r} with me
+Dialogue: 0,0:01:07.30,0:01:07.52,Cap,,0,0,0,,I am your dad, I am your dad, say it {\1c&H1EC6FF&}with{\r} me
+Dialogue: 0,0:01:07.52,0:01:07.90,Cap,,0,0,0,,I am your dad, I am your dad, say it with {\1c&H1EC6FF&}me{\r}
+Dialogue: 0,0:01:08.36,0:01:08.50,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:01:08.50,0:01:09.02,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:01:09.02,0:01:09.26,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:01:09.26,0:01:10.44,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:01:10.44,0:01:10.72,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}you're{\r} hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:01:10.72,0:01:11.06,Cap,,0,0,0,,I am your dad, you're {\1c&H1EC6FF&}hearing{\r} once, you're hearing twice, now it lives inside
+Dialogue: 0,0:01:11.06,0:01:12.18,Cap,,0,0,0,,I am your dad, you're hearing {\1c&H1EC6FF&}once,{\r} you're hearing twice, now it lives inside
+Dialogue: 0,0:01:12.18,0:01:12.62,Cap,,0,0,0,,I am your dad, you're hearing once, {\1c&H1EC6FF&}you're{\r} hearing twice, now it lives inside
+Dialogue: 0,0:01:12.62,0:01:12.96,Cap,,0,0,0,,I am your dad, you're hearing once, you're {\1c&H1EC6FF&}hearing{\r} twice, now it lives inside
+Dialogue: 0,0:01:12.96,0:01:14.04,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing {\1c&H1EC6FF&}twice,{\r} now it lives inside
+Dialogue: 0,0:01:14.04,0:01:14.28,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, {\1c&H1EC6FF&}now{\r} it lives inside
+Dialogue: 0,0:01:14.28,0:01:14.44,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now {\1c&H1EC6FF&}it{\r} lives inside
+Dialogue: 0,0:01:14.44,0:01:14.78,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now it {\1c&H1EC6FF&}lives{\r} inside
+Dialogue: 0,0:01:14.78,0:01:15.48,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now it lives {\1c&H1EC6FF&}inside{\r}
+Dialogue: 0,0:01:16.28,0:01:22.90,Cap,,0,0,0,,I am your dad, I am your dad, don't fight the feeling, I am your dad
+Dialogue: 0,0:01:22.92,0:01:27.50,Cap,,0,0,0,,I am your dad, I am your dad
+Dialogue: 0,0:01:30.66,0:01:37.70,Cap,,0,0,0,,You got your real one maybe, or maybe you don't
+Dialogue: 0,0:01:38.50,0:01:39.76,Cap,,0,0,0,,Matter to me, the message is the point
+Dialogue: 0,0:01:39.68,0:01:48.92,Cap,,0,0,0,,I walk through the speakers, brass hits on the one and the three
+Dialogue: 0,0:01:48.92,0:01:49.32,Cap,,0,0,0,,{\1c&H1EC6FF&}You{\r} try to skip it, but you try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:49.32,0:01:49.60,Cap,,0,0,0,,You {\1c&H1EC6FF&}try{\r} to skip it, but you try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:49.60,0:01:49.78,Cap,,0,0,0,,You try {\1c&H1EC6FF&}to{\r} skip it, but you try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:49.78,0:01:50.02,Cap,,0,0,0,,You try to {\1c&H1EC6FF&}skip{\r} it, but you try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:50.02,0:01:50.34,Cap,,0,0,0,,You try to skip {\1c&H1EC6FF&}it,{\r} but you try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:50.34,0:01:50.52,Cap,,0,0,0,,You try to skip it, {\1c&H1EC6FF&}but{\r} you try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:50.52,0:01:50.72,Cap,,0,0,0,,You try to skip it, but {\1c&H1EC6FF&}you{\r} try to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:50.72,0:01:51.04,Cap,,0,0,0,,You try to skip it, but you {\1c&H1EC6FF&}try{\r} to change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:51.04,0:01:51.44,Cap,,0,0,0,,You try to skip it, but you try {\1c&H1EC6FF&}to{\r} change the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:51.44,0:01:51.98,Cap,,0,0,0,,You try to skip it, but you try to {\1c&H1EC6FF&}change{\r} the song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:51.98,0:01:52.24,Cap,,0,0,0,,You try to skip it, but you try to change {\1c&H1EC6FF&}the{\r} song, but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:52.24,0:01:52.88,Cap,,0,0,0,,You try to skip it, but you try to change the {\1c&H1EC6FF&}song,{\r} but the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:52.88,0:01:53.12,Cap,,0,0,0,,You try to skip it, but you try to change the song, {\1c&H1EC6FF&}but{\r} the phrase comes back and it doesn't take long
+Dialogue: 0,0:01:53.12,0:01:53.22,Cap,,0,0,0,,You try to skip it, but you try to change the song, but {\1c&H1EC6FF&}the{\r} phrase comes back and it doesn't take long
+Dialogue: 0,0:01:53.22,0:01:53.40,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the {\1c&H1EC6FF&}phrase{\r} comes back and it doesn't take long
+Dialogue: 0,0:01:53.40,0:01:53.62,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase {\1c&H1EC6FF&}comes{\r} back and it doesn't take long
+Dialogue: 0,0:01:53.62,0:01:53.96,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase comes {\1c&H1EC6FF&}back{\r} and it doesn't take long
+Dialogue: 0,0:01:53.96,0:01:54.36,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase comes back {\1c&H1EC6FF&}and{\r} it doesn't take long
+Dialogue: 0,0:01:54.36,0:01:54.56,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase comes back and {\1c&H1EC6FF&}it{\r} doesn't take long
+Dialogue: 0,0:01:54.56,0:01:55.10,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase comes back and it {\1c&H1EC6FF&}doesn't{\r} take long
+Dialogue: 0,0:01:55.10,0:01:55.36,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase comes back and it doesn't {\1c&H1EC6FF&}take{\r} long
+Dialogue: 0,0:01:55.36,0:01:55.90,Cap,,0,0,0,,You try to skip it, but you try to change the song, but the phrase comes back and it doesn't take {\1c&H1EC6FF&}long{\r}
+Dialogue: 0,0:01:56.14,0:02:03.40,Cap,,0,0,0,,Short words, easy words, the kind that sticks fast, I am your dad, and the song will last
+Dialogue: 0,0:02:03.74,0:02:04.02,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, I am your dad, say it with me
+Dialogue: 0,0:02:04.02,0:02:04.36,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, say it with me
+Dialogue: 0,0:02:04.36,0:02:04.90,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, say it with me
+Dialogue: 0,0:02:04.90,0:02:05.90,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, say it with me
+Dialogue: 0,0:02:05.90,0:02:06.02,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, say it with me
+Dialogue: 0,0:02:06.02,0:02:06.48,Cap,,0,0,0,,I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, say it with me
+Dialogue: 0,0:02:06.48,0:02:06.74,Cap,,0,0,0,,I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, say it with me
+Dialogue: 0,0:02:06.74,0:02:07.58,Cap,,0,0,0,,I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} say it with me
+Dialogue: 0,0:02:07.58,0:02:08.00,Cap,,0,0,0,,I am your dad, I am your dad, {\1c&H1EC6FF&}say{\r} it with me
+Dialogue: 0,0:02:08.00,0:02:08.40,Cap,,0,0,0,,I am your dad, I am your dad, say {\1c&H1EC6FF&}it{\r} with me
+Dialogue: 0,0:02:08.40,0:02:08.70,Cap,,0,0,0,,I am your dad, I am your dad, say it {\1c&H1EC6FF&}with{\r} me
+Dialogue: 0,0:02:08.70,0:02:08.90,Cap,,0,0,0,,I am your dad, I am your dad, say it with {\1c&H1EC6FF&}me{\r}
+Dialogue: 0,0:02:09.46,0:02:15.80,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:02:16.52,0:02:23.80,Cap,,0,0,0,,I am your dad, I am your dad, I am your dad, say it with me
+Dialogue: 0,0:02:23.76,0:02:29.10,Cap,,0,0,0,,I am your dad, you're hearing twice, now it lives inside
+Dialogue: 0,0:02:30.30,0:02:30.68,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, I am your dad, I am your dad
+Dialogue: 0,0:02:30.68,0:02:31.14,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, I am your dad
+Dialogue: 0,0:02:31.14,0:02:31.54,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, I am your dad
+Dialogue: 0,0:02:31.54,0:02:32.34,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, I am your dad
+Dialogue: 0,0:02:32.34,0:02:34.72,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, I am your dad
+Dialogue: 0,0:02:34.72,0:02:35.08,Cap,,0,0,0,,I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, I am your dad
+Dialogue: 0,0:02:35.08,0:02:35.34,Cap,,0,0,0,,I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, I am your dad
+Dialogue: 0,0:02:35.34,0:02:36.54,Cap,,0,0,0,,I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} I am your dad
+Dialogue: 0,0:02:36.54,0:02:38.58,Cap,,0,0,0,,I am your dad, I am your dad, {\1c&H1EC6FF&}I{\r} am your dad
+Dialogue: 0,0:02:38.58,0:02:38.88,Cap,,0,0,0,,I am your dad, I am your dad, I {\1c&H1EC6FF&}am{\r} your dad
+Dialogue: 0,0:02:38.88,0:02:39.14,Cap,,0,0,0,,I am your dad, I am your dad, I am {\1c&H1EC6FF&}your{\r} dad
+Dialogue: 0,0:02:39.14,0:02:39.50,Cap,,0,0,0,,I am your dad, I am your dad, I am your {\1c&H1EC6FF&}dad{\r}
+Dialogue: 0,0:02:40.70,0:02:46.50,Cap,,0,0,0,,I am your dad, I am your dad
+Dialogue: 0,0:02:48.76,0:03:02.12,Cap,,0,0,0,,You can close your eyes, you can plug your ears, the words still bounce around inside your head
+Dialogue: 0,0:03:03.06,0:03:11.94,Cap,,0,0,0,,I am your dad
+Dialogue: 0,0:03:15.24,0:03:34.90,Cap,,0,0,0,,I am your dad, I am your dad, I am your dad, I am your dad
+Dialogue: 0,0:03:35.40,0:03:40.64,Cap,,0,0,0,,They study the hooks, they study the loops, they say simple words
+Dialogue: 0,0:03:40.64,0:03:40.92,Cap,,0,0,0,,{\1c&H1EC6FF&}Make{\r} the brain stay true, repeat the same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:40.92,0:03:41.14,Cap,,0,0,0,,Make {\1c&H1EC6FF&}the{\r} brain stay true, repeat the same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:41.14,0:03:41.48,Cap,,0,0,0,,Make the {\1c&H1EC6FF&}brain{\r} stay true, repeat the same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:41.48,0:03:41.86,Cap,,0,0,0,,Make the brain {\1c&H1EC6FF&}stay{\r} true, repeat the same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:41.86,0:03:42.48,Cap,,0,0,0,,Make the brain stay {\1c&H1EC6FF&}true,{\r} repeat the same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:42.48,0:03:43.20,Cap,,0,0,0,,Make the brain stay true, {\1c&H1EC6FF&}repeat{\r} the same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:43.20,0:03:43.50,Cap,,0,0,0,,Make the brain stay true, repeat {\1c&H1EC6FF&}the{\r} same, I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:43.50,0:03:44.08,Cap,,0,0,0,,Make the brain stay true, repeat the {\1c&H1EC6FF&}same,{\r} I make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:44.08,0:03:44.36,Cap,,0,0,0,,Make the brain stay true, repeat the same, {\1c&H1EC6FF&}I{\r} make it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:44.36,0:03:44.70,Cap,,0,0,0,,Make the brain stay true, repeat the same, I {\1c&H1EC6FF&}make{\r} it easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:44.70,0:03:45.04,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make {\1c&H1EC6FF&}it{\r} easy to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:45.04,0:03:45.42,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it {\1c&H1EC6FF&}easy{\r} to sing, and the mind can play it on its own string
+Dialogue: 0,0:03:45.42,0:03:45.68,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy {\1c&H1EC6FF&}to{\r} sing, and the mind can play it on its own string
+Dialogue: 0,0:03:45.68,0:03:46.38,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to {\1c&H1EC6FF&}sing,{\r} and the mind can play it on its own string
+Dialogue: 0,0:03:46.38,0:03:46.68,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, {\1c&H1EC6FF&}and{\r} the mind can play it on its own string
+Dialogue: 0,0:03:46.68,0:03:46.84,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and {\1c&H1EC6FF&}the{\r} mind can play it on its own string
+Dialogue: 0,0:03:46.84,0:03:47.28,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the {\1c&H1EC6FF&}mind{\r} can play it on its own string
+Dialogue: 0,0:03:47.28,0:03:47.56,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind {\1c&H1EC6FF&}can{\r} play it on its own string
+Dialogue: 0,0:03:47.56,0:03:47.96,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind can {\1c&H1EC6FF&}play{\r} it on its own string
+Dialogue: 0,0:03:47.96,0:03:48.46,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind can play {\1c&H1EC6FF&}it{\r} on its own string
+Dialogue: 0,0:03:48.46,0:03:48.98,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind can play it {\1c&H1EC6FF&}on{\r} its own string
+Dialogue: 0,0:03:48.98,0:03:49.36,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind can play it on {\1c&H1EC6FF&}its{\r} own string
+Dialogue: 0,0:03:49.36,0:03:49.62,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind can play it on its {\1c&H1EC6FF&}own{\r} string
+Dialogue: 0,0:03:49.62,0:03:50.00,Cap,,0,0,0,,Make the brain stay true, repeat the same, I make it easy to sing, and the mind can play it on its own {\1c&H1EC6FF&}string{\r}
+Dialogue: 0,0:03:50.52,0:03:56.80,Cap,,0,0,0,,I don't need a story, I don't need a name, just the one short claim that never changes
+Dialogue: 0,0:03:58.24,0:04:05.10,Cap,,0,0,0,,You wake up tomorrow and the first thing you hear is the old man saying it crystal clear
+Dialogue: 0,0:04:05.10,0:04:05.82,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, I am your dad, say it with me
+Dialogue: 0,0:04:05.82,0:04:06.26,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, say it with me
+Dialogue: 0,0:04:06.26,0:04:06.76,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, say it with me
+Dialogue: 0,0:04:06.76,0:04:07.10,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, say it with me
+Dialogue: 0,0:04:07.10,0:04:07.86,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, say it with me
+Dialogue: 0,0:04:07.86,0:04:08.22,Cap,,0,0,0,,I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, say it with me
+Dialogue: 0,0:04:08.22,0:04:08.50,Cap,,0,0,0,,I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, say it with me
+Dialogue: 0,0:04:08.50,0:04:09.06,Cap,,0,0,0,,I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} say it with me
+Dialogue: 0,0:04:09.06,0:04:09.74,Cap,,0,0,0,,I am your dad, I am your dad, {\1c&H1EC6FF&}say{\r} it with me
+Dialogue: 0,0:04:09.74,0:04:10.20,Cap,,0,0,0,,I am your dad, I am your dad, say {\1c&H1EC6FF&}it{\r} with me
+Dialogue: 0,0:04:10.20,0:04:10.40,Cap,,0,0,0,,I am your dad, I am your dad, say it {\1c&H1EC6FF&}with{\r} me
+Dialogue: 0,0:04:10.40,0:04:10.70,Cap,,0,0,0,,I am your dad, I am your dad, say it with {\1c&H1EC6FF&}me{\r}
+Dialogue: 0,0:04:11.04,0:04:11.46,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:04:11.46,0:04:11.84,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:04:11.84,0:04:12.18,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:04:12.18,0:04:13.26,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} you're hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:04:13.26,0:04:13.60,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}you're{\r} hearing once, you're hearing twice, now it lives inside
+Dialogue: 0,0:04:13.60,0:04:13.94,Cap,,0,0,0,,I am your dad, you're {\1c&H1EC6FF&}hearing{\r} once, you're hearing twice, now it lives inside
+Dialogue: 0,0:04:13.94,0:04:15.08,Cap,,0,0,0,,I am your dad, you're hearing {\1c&H1EC6FF&}once,{\r} you're hearing twice, now it lives inside
+Dialogue: 0,0:04:15.08,0:04:15.48,Cap,,0,0,0,,I am your dad, you're hearing once, {\1c&H1EC6FF&}you're{\r} hearing twice, now it lives inside
+Dialogue: 0,0:04:15.48,0:04:15.84,Cap,,0,0,0,,I am your dad, you're hearing once, you're {\1c&H1EC6FF&}hearing{\r} twice, now it lives inside
+Dialogue: 0,0:04:15.84,0:04:16.92,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing {\1c&H1EC6FF&}twice,{\r} now it lives inside
+Dialogue: 0,0:04:16.92,0:04:17.10,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, {\1c&H1EC6FF&}now{\r} it lives inside
+Dialogue: 0,0:04:17.10,0:04:17.32,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now {\1c&H1EC6FF&}it{\r} lives inside
+Dialogue: 0,0:04:17.32,0:04:17.64,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now it {\1c&H1EC6FF&}lives{\r} inside
+Dialogue: 0,0:04:17.64,0:04:18.32,Cap,,0,0,0,,I am your dad, you're hearing once, you're hearing twice, now it lives {\1c&H1EC6FF&}inside{\r}
+Dialogue: 0,0:04:18.32,0:04:47.80,Cap,,0,0,0,,I am your dad
+Dialogue: 0,0:04:47.80,0:04:47.94,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, I am your dad, just a low voice
+Dialogue: 0,0:04:47.94,0:04:48.26,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, just a low voice
+Dialogue: 0,0:04:48.26,0:04:48.50,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, just a low voice
+Dialogue: 0,0:04:48.50,0:04:51.42,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, just a low voice
+Dialogue: 0,0:04:51.42,0:04:51.84,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, just a low voice
+Dialogue: 0,0:04:51.84,0:04:52.02,Cap,,0,0,0,,I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, just a low voice
+Dialogue: 0,0:04:52.02,0:04:52.28,Cap,,0,0,0,,I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, just a low voice
+Dialogue: 0,0:04:52.28,0:04:52.86,Cap,,0,0,0,,I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} just a low voice
+Dialogue: 0,0:04:52.86,0:04:53.16,Cap,,0,0,0,,I am your dad, I am your dad, {\1c&H1EC6FF&}just{\r} a low voice
+Dialogue: 0,0:04:53.16,0:04:53.46,Cap,,0,0,0,,I am your dad, I am your dad, just {\1c&H1EC6FF&}a{\r} low voice
+Dialogue: 0,0:04:53.46,0:04:53.76,Cap,,0,0,0,,I am your dad, I am your dad, just a {\1c&H1EC6FF&}low{\r} voice
+Dialogue: 0,0:04:53.76,0:04:56.00,Cap,,0,0,0,,I am your dad, I am your dad, just a low {\1c&H1EC6FF&}voice{\r}
+Dialogue: 0,0:04:56.70,0:04:57.12,Cap,,0,0,0,,{\1c&H1EC6FF&}I{\r} am your dad, I am your dad, I am your dad, I am your dad
+Dialogue: 0,0:04:57.12,0:04:57.56,Cap,,0,0,0,,I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, I am your dad, I am your dad
+Dialogue: 0,0:04:57.56,0:04:57.88,Cap,,0,0,0,,I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, I am your dad, I am your dad
+Dialogue: 0,0:04:57.88,0:04:59.00,Cap,,0,0,0,,I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, I am your dad, I am your dad
+Dialogue: 0,0:04:59.00,0:04:59.60,Cap,,0,0,0,,I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, I am your dad, I am your dad
+Dialogue: 0,0:04:59.60,0:05:01.06,Cap,,0,0,0,,I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, I am your dad, I am your dad
+Dialogue: 0,0:05:01.06,0:05:01.32,Cap,,0,0,0,,I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, I am your dad, I am your dad
+Dialogue: 0,0:05:01.32,0:05:02.64,Cap,,0,0,0,,I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} I am your dad, I am your dad
+Dialogue: 0,0:05:02.64,0:05:03.06,Cap,,0,0,0,,I am your dad, I am your dad, {\1c&H1EC6FF&}I{\r} am your dad, I am your dad
+Dialogue: 0,0:05:03.06,0:05:03.48,Cap,,0,0,0,,I am your dad, I am your dad, I {\1c&H1EC6FF&}am{\r} your dad, I am your dad
+Dialogue: 0,0:05:03.48,0:05:03.88,Cap,,0,0,0,,I am your dad, I am your dad, I am {\1c&H1EC6FF&}your{\r} dad, I am your dad
+Dialogue: 0,0:05:03.88,0:05:06.30,Cap,,0,0,0,,I am your dad, I am your dad, I am your {\1c&H1EC6FF&}dad,{\r} I am your dad
+Dialogue: 0,0:05:06.30,0:05:06.64,Cap,,0,0,0,,I am your dad, I am your dad, I am your dad, {\1c&H1EC6FF&}I{\r} am your dad
+Dialogue: 0,0:05:06.64,0:05:07.10,Cap,,0,0,0,,I am your dad, I am your dad, I am your dad, I {\1c&H1EC6FF&}am{\r} your dad
+Dialogue: 0,0:05:07.10,0:05:07.52,Cap,,0,0,0,,I am your dad, I am your dad, I am your dad, I am {\1c&H1EC6FF&}your{\r} dad
+Dialogue: 0,0:05:07.52,0:05:08.56,Cap,,0,0,0,,I am your dad, I am your dad, I am your dad, I am your {\1c&H1EC6FF&}dad{\r}
+Dialogue: 0,0:05:09.88,0:05:10.72,Cap,,0,0,0,,{\1c&H1EC6FF&}All{\r} of you, every single one, I am your dad, you know it now
+Dialogue: 0,0:05:10.72,0:05:11.12,Cap,,0,0,0,,All {\1c&H1EC6FF&}of{\r} you, every single one, I am your dad, you know it now
+Dialogue: 0,0:05:11.12,0:05:13.66,Cap,,0,0,0,,All of {\1c&H1EC6FF&}you,{\r} every single one, I am your dad, you know it now
+Dialogue: 0,0:05:13.66,0:05:14.60,Cap,,0,0,0,,All of you, {\1c&H1EC6FF&}every{\r} single one, I am your dad, you know it now
+Dialogue: 0,0:05:14.60,0:05:15.04,Cap,,0,0,0,,All of you, every {\1c&H1EC6FF&}single{\r} one, I am your dad, you know it now
+Dialogue: 0,0:05:15.04,0:05:17.08,Cap,,0,0,0,,All of you, every single {\1c&H1EC6FF&}one,{\r} I am your dad, you know it now
+Dialogue: 0,0:05:17.08,0:05:18.02,Cap,,0,0,0,,All of you, every single one, {\1c&H1EC6FF&}I{\r} am your dad, you know it now
+Dialogue: 0,0:05:18.02,0:05:18.62,Cap,,0,0,0,,All of you, every single one, I {\1c&H1EC6FF&}am{\r} your dad, you know it now
+Dialogue: 0,0:05:18.62,0:05:19.02,Cap,,0,0,0,,All of you, every single one, I am {\1c&H1EC6FF&}your{\r} dad, you know it now
+Dialogue: 0,0:05:19.02,0:05:19.50,Cap,,0,0,0,,All of you, every single one, I am your {\1c&H1EC6FF&}dad,{\r} you know it now
+Dialogue: 0,0:05:19.50,0:05:20.68,Cap,,0,0,0,,All of you, every single one, I am your dad, {\1c&H1EC6FF&}you{\r} know it now
+Dialogue: 0,0:05:20.68,0:05:20.84,Cap,,0,0,0,,All of you, every single one, I am your dad, you {\1c&H1EC6FF&}know{\r} it now
+Dialogue: 0,0:05:20.84,0:05:20.98,Cap,,0,0,0,,All of you, every single one, I am your dad, you know {\1c&H1EC6FF&}it{\r} now
+Dialogue: 0,0:05:20.98,0:05:21.44,Cap,,0,0,0,,All of you, every single one, I am your dad, you know it {\1c&H1EC6FF&}now{\r}
+Dialogue: 0,0:05:22.08,0:05:38.44,Cap,,0,0,0,,I am your dad
+Dialogue: 0,0:05:38.55,0:05:39.39,Cap,,0,0,0,,{\1c&H1EC6FF&}Say{\r} it back to me, I am your dad, say it to yourself
+Dialogue: 0,0:05:39.39,0:05:39.61,Cap,,0,0,0,,Say {\1c&H1EC6FF&}it{\r} back to me, I am your dad, say it to yourself
+Dialogue: 0,0:05:39.61,0:05:39.71,Cap,,0,0,0,,Say it {\1c&H1EC6FF&}back{\r} to me, I am your dad, say it to yourself
+Dialogue: 0,0:05:39.71,0:05:39.95,Cap,,0,0,0,,Say it back {\1c&H1EC6FF&}to{\r} me, I am your dad, say it to yourself
+Dialogue: 0,0:05:39.95,0:05:40.55,Cap,,0,0,0,,Say it back to {\1c&H1EC6FF&}me,{\r} I am your dad, say it to yourself
+Dialogue: 0,0:05:40.55,0:05:41.03,Cap,,0,0,0,,Say it back to me, {\1c&H1EC6FF&}I{\r} am your dad, say it to yourself
+Dialogue: 0,0:05:41.03,0:05:41.41,Cap,,0,0,0,,Say it back to me, I {\1c&H1EC6FF&}am{\r} your dad, say it to yourself
+Dialogue: 0,0:05:41.41,0:05:41.87,Cap,,0,0,0,,Say it back to me, I am {\1c&H1EC6FF&}your{\r} dad, say it to yourself
+Dialogue: 0,0:05:41.87,0:05:42.33,Cap,,0,0,0,,Say it back to me, I am your {\1c&H1EC6FF&}dad,{\r} say it to yourself
+Dialogue: 0,0:05:42.33,0:05:43.21,Cap,,0,0,0,,Say it back to me, I am your dad, {\1c&H1EC6FF&}say{\r} it to yourself
+Dialogue: 0,0:05:43.21,0:05:43.39,Cap,,0,0,0,,Say it back to me, I am your dad, say {\1c&H1EC6FF&}it{\r} to yourself
+Dialogue: 0,0:05:43.39,0:05:43.49,Cap,,0,0,0,,Say it back to me, I am your dad, say it {\1c&H1EC6FF&}to{\r} yourself
+Dialogue: 0,0:05:43.49,0:05:43.91,Cap,,0,0,0,,Say it back to me, I am your dad, say it to {\1c&H1EC6FF&}yourself{\r}
+Dialogue: 0,0:05:44.55,0:05:53.71,Cap,,0,0,0,,I am your dad

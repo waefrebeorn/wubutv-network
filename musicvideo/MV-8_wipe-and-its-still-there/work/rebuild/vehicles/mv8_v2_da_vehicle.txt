@@ -1,0 +1,25 @@
+# MV-8 REBUILD v2 — Volley 3 vehicle: D-A "The Vortex Duel" (JOURNEY)
+# Scene: D-A, song 105.94–112.25 (2543–2694f). 6.31s scene; one 10s take
+# (IN-A precedent — assembly trims to the 6.31s span).
+# Drop shout "Wipe" 105.94 (v1-only witness). CRADLE SHOT transition into the
+# duel: the camera cradles/swings from the palace-gate quest world into the
+# vortex. Serpent has NO goggles (rival-flyer read banned).
+# Anchors: F16_v2.jpg (start, palace-gate quest) -> F17.jpg (destination,
+# vortex duel). Two-image journey, both 16:9.
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: the cradle swing is ALREADY underway at frame 0 — the vortex
+# already turning, foam already streaming past. Continuous motion throughout,
+# no held shot, no frozen lead-in. The v1 designed-held-shot precedent is DEAD.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. At a golden palace gate, the Champion, an adult woman in her late twenties with a long dark braid, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, stands beside the tall lanky grown-man Squire in a paper-white tabard. She is already moving as the clip opens — the camera cradles around her in a great swinging arc, never still, carrying her from the palace gate into a spiralling white porcelain-and-water flush vortex, where she rides a giant glossy chocolate-brown soft-serve swirl creature with aviator goggles and a cream scarf streaming behind, golden plunger raised, facing a long smooth glossy chocolate-brown ribbon serpent with smug dot eyes and no goggles. Foam and bubbles stream past, the vortex already turning fast. No text, no logos, no children."
+Image 1: F16_v2.jpg
+Text 2: "The cradle swing carries into the vortex duel, the camera pushing toward the serpent as the Champion rides in, travelling toward the second image."
+Image 2: F17.jpg
+Text 3: "Ends at the second image: the vortex duel, goggled mount and streaming cape against the smug serpent, dark teal water swirling, continuous motion to the last frame. No text, no logos, no children, no other characters."

@@ -1,0 +1,186 @@
+{
+ "file": "takes_part3/U3_t1.mp4",
+ "head_rms_0_1.7": 0.014285501092672348,
+ "ambient_rms_0_0.5": 0.013590734452009201,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.38,
+    "end": 5.72,
+    "text": "Four hundred bells. Never dropped one.",
+    "words": [
+     {
+      "w": " Four",
+      "start": 2.38,
+      "end": 2.98
+     },
+     {
+      "w": " hundred",
+      "start": 2.98,
+      "end": 3.52
+     },
+     {
+      "w": " bells.",
+      "start": 3.52,
+      "end": 3.86
+     },
+     {
+      "w": " Never",
+      "start": 4.58,
+      "end": 5.18
+     },
+     {
+      "w": " dropped",
+      "start": 5.18,
+      "end": 5.46
+     },
+     {
+      "w": " one.",
+      "start": 5.46,
+      "end": 5.72
+     }
+    ],
+    "seg_rms": 0.0805
+   },
+   {
+    "start": 6.18,
+    "end": 9.2,
+    "text": "At dawn I was holding this box. Here.",
+    "words": [
+     {
+      "w": " At",
+      "start": 6.18,
+      "end": 6.78
+     },
+     {
+      "w": " dawn",
+      "start": 6.78,
+      "end": 7.14
+     },
+     {
+      "w": " I",
+      "start": 7.14,
+      "end": 7.34
+     },
+     {
+      "w": " was",
+      "start": 7.34,
+      "end": 7.5
+     },
+     {
+      "w": " holding",
+      "start": 7.5,
+      "end": 7.78
+     },
+     {
+      "w": " this",
+      "start": 7.78,
+      "end": 8.02
+     },
+     {
+      "w": " box.",
+      "start": 8.02,
+      "end": 8.34
+     },
+     {
+      "w": " Here.",
+      "start": 8.6,
+      "end": 9.2
+     }
+    ],
+    "seg_rms": 0.097
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.92,
+    "end": 5.88,
+    "text": "400 bells, never dropped one.",
+    "words": [
+     {
+      "w": " 400",
+      "start": 2.92,
+      "end": 3.56
+     },
+     {
+      "w": " bells,",
+      "start": 3.56,
+      "end": 4.2
+     },
+     {
+      "w": " never",
+      "start": 4.6,
+      "end": 5.3
+     },
+     {
+      "w": " dropped",
+      "start": 5.3,
+      "end": 5.56
+     },
+     {
+      "w": " one.",
+      "start": 5.56,
+      "end": 5.88
+     }
+    ],
+    "seg_rms": 0.086
+   },
+   {
+    "start": 6.6,
+    "end": 8.54,
+    "text": "At dawn I was holding this box.",
+    "words": [
+     {
+      "w": " At",
+      "start": 6.6,
+      "end": 6.9
+     },
+     {
+      "w": " dawn",
+      "start": 6.9,
+      "end": 7.22
+     },
+     {
+      "w": " I",
+      "start": 7.22,
+      "end": 7.42
+     },
+     {
+      "w": " was",
+      "start": 7.42,
+      "end": 7.58
+     },
+     {
+      "w": " holding",
+      "start": 7.58,
+      "end": 7.88
+     },
+     {
+      "w": " this",
+      "start": 7.88,
+      "end": 8.1
+     },
+     {
+      "w": " box.",
+      "start": 8.1,
+      "end": 8.54
+     }
+    ],
+    "seg_rms": 0.1199
+   },
+   {
+    "start": 9.2,
+    "end": 9.32,
+    "text": "Here.",
+    "words": [
+     {
+      "w": " Here.",
+      "start": 9.2,
+      "end": 9.32
+     }
+    ],
+    "seg_rms": 0.1213
+   }
+  ]
+ }
+}

@@ -1,0 +1,153 @@
+{
+  "stem": "mdx",
+  "vocals": "/home/hatch/workspace/wubuwizard-cpu-sep/mdx_vocals_full.wav",
+  "track": "MV-14 (161.6 s)",
+  "stem_corr_vs_demucs_mono": 0.9674547649349575,
+  "bar_a": {
+    "n_ref_segments": 12,
+    "n_ref_spans_overlap_merged": 11,
+    "n_pred_segments": 17,
+    "n_pred_extra_pieces": 1,
+    "dStart_per_span_s": [
+      0.03,
+      0.02,
+      0.07,
+      0.01,
+      0.0,
+      0.01,
+      0.21,
+      0.08,
+      0.01,
+      0.2,
+      0.08
+    ],
+    "max_abs_dStart_s": 0.21000000000000796,
+    "dEnd_per_span_s": [
+      0.0,
+      0.02,
+      0.02,
+      0.06,
+      0.0,
+      0.82,
+      0.01,
+      0.01,
+      0.06,
+      0.01,
+      0.01
+    ],
+    "max_abs_dEnd_s": 0.8200000000000074,
+    "bar_s": 0.5,
+    "pass": true,
+    "pred_segments": [
+      [
+        7.55,
+        9.26
+      ],
+      [
+        14.17,
+        16.35
+      ],
+      [
+        16.83,
+        18.56
+      ],
+      [
+        19.23,
+        21.29
+      ],
+      [
+        22.03,
+        23.82
+      ],
+      [
+        24.25,
+        34.97
+      ],
+      [
+        36.3,
+        55.11
+      ],
+      [
+        56.12,
+        60.47
+      ],
+      [
+        61.17,
+        65.87
+      ],
+      [
+        66.41,
+        85.84
+      ],
+      [
+        85.25,
+        104.68
+      ],
+      [
+        104.08,
+        131.15
+      ],
+      [
+        133.57,
+        136.73
+      ],
+      [
+        139.1,
+        141.89
+      ],
+      [
+        144.08,
+        149.37
+      ],
+      [
+        150.37,
+        152.49
+      ],
+      [
+        155.13,
+        159.54
+      ]
+    ]
+  },
+  "bar_b": {
+    "method": "25 ms RMS envelope (16 kHz mono, win=hop=400); sung = inside ref segments 1-10, instrumental = outside all 12 ref segments (bleed 11-12 excluded from both classes)",
+    "sung": {
+      "n_frames": 4742,
+      "median": 0.05711725335563575,
+      "q25": 0.02074288274578107,
+      "q75": 0.08632669186035768,
+      "iqr": 0.06558380911457662
+    },
+    "instrumental": {
+      "n_frames": 1205,
+      "median": 0.00022946982214299886,
+      "q25": 0.00011917236595668923,
+      "q75": 0.0008394666189330247,
+      "iqr": 0.0007202942529763354
+    },
+    "iqr_non_overlap": true,
+    "pass": true,
+    "secondary_ratio": {
+      "method": "sprint-6 statistic (median envelope inside all 12 ref segments vs outside), verbatim from validate_fulltrack.active_silent_ratio",
+      "active_median_env": 0.055690757224445754,
+      "silent_median_env": 0.00022946982214299886,
+      "ratio": 242.69316420065428,
+      "bar_ratio": 100,
+      "ratio_pass": true
+    }
+  },
+  "calibration_vs_loop5": {
+    "expected_n_pred_segments": 17,
+    "expected_max_abs_dStart_s": 0.21,
+    "expected_ratio": 248.8,
+    "ratio_masks": "active = ref segments 1-10 (sung), silent = outside all 12 (loop-5 lines 149-150)",
+    "got_n_pred_segments": 17,
+    "got_max_abs_dStart_s": 0.21000000000000796,
+    "got_ratio": 248.90965104789228,
+    "got_ratio_all12_active_variant": 242.69316420065428,
+    "segments_match": true,
+    "dstart_match": true,
+    "ratio_match": true,
+    "calibration_pass": true
+  }
+}

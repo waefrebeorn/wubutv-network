@@ -1,0 +1,13 @@
+frames loaded: 1440
+BASE (95th pct intra-unit adjacent MAE): 10.27
+JOINT U1->U2 @f240: seam MAE 27.89 | upstream tail MAE 4.88 | downstream head MAE 1.54 (item6 floor 8: FAIL)
+JOINT U2->U3 @f480: seam MAE 40.49 | upstream tail MAE 4.65 | downstream head MAE 2.96 (item6 floor 8: FAIL)
+JOINT U3->U4 @f720: seam MAE 47.79 | upstream tail MAE 4.64 | downstream head MAE 1.18 (item6 floor 8: FAIL)
+JOINT U4->U5 @f960: seam MAE 48.16 | upstream tail MAE 5.83 | downstream head MAE 2.74 (item6 floor 8: FAIL)
+JOINT U5->U6 @f1200: seam MAE 36.75 | upstream tail MAE 4.06 | downstream head MAE 1.73 (item6 floor 8: FAIL)
+frames extracted: 60 of 60
+strip + seam saved (U1-U2)
+strip + seam saved (U2-U3)
+strip + seam saved (U3-U4)
+strip + seam saved (U4-U5)
+strip + seam saved (U5-U6)

@@ -1,0 +1,19 @@
+MV-8 v2 DELIVERED 2026-11-09 ~02:2x EST (parent-verified from disk; coordinator #3's
+completion report never arrived — recovered via subagent.list hunt, see MEMORY.md).
+
+House master: masters/mv8_wipe_and_its_still_there_v2_16x9.mp4
+  md5 999da67b92da6ec390efbd851497166f, 125,117,565 B
+  h264 1280x720 24fps, exactly 4493f, 187.208s; AAC 48k stereo
+  x264 SEI crf=18.0 (both halves); faststart (moov before mdat)
+  Master-audio agreement vs track.mp4: min corr 0.9978 (5 windows)
+  Apex positional by eye: crest on song frame 3826, offset 0f (parent-verified
+  frames 3820/3826/3832: climbing / at top / tipping over)
+  WIPE counter 0 mismatches (WIPE 320 at 3826)
+Chat copy: masters/mv8_wipe_and_its_still_there_v2_16x9_50mb.mp4
+  md5 8639625f6af9f81212c72fb455002340, 44,595,557 B, 4493f, AAC copied, faststart
+Disclosed flaws: FH-A L22 lands early at the 2x cap; H2-C L18 +/-0.5-1.5s;
+  four transient PCHIP dips 2-7f at 0.43-0.49x; WIPE 347 at beat 345.
+  Volley disclosures in work/rebuild/TAKE_LEDGER.md.
+How it landed: pass 1 died on VM reboot #10 (no moov); pass 2 died on ENOMEM
+  at the trailer (424 MB, no moov; bare apad wrote 27,555s of silence — always
+  cap apad); split encode (3504f + 989f halves) + fixed mux succeeded.

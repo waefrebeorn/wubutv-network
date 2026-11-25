@@ -1,0 +1,155 @@
+{
+ "file": "takes_part2/U6_t1.mp4",
+ "head_rms_0_1.7": 0.01782100647687912,
+ "ambient_rms_0_0.5": 0.017121272161602974,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 4.05,
+    "end": 8.17,
+    "text": "Your name's up, Marta. The street vote votes on his name tonight.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 4.05,
+      "end": 4.49
+     },
+     {
+      "w": " name's",
+      "start": 4.49,
+      "end": 4.81
+     },
+     {
+      "w": " up,",
+      "start": 4.81,
+      "end": 5.01
+     },
+     {
+      "w": " Marta.",
+      "start": 5.05,
+      "end": 5.47
+     },
+     {
+      "w": " The",
+      "start": 5.83,
+      "end": 6.39
+     },
+     {
+      "w": " street",
+      "start": 6.39,
+      "end": 6.67
+     },
+     {
+      "w": " vote",
+      "start": 6.67,
+      "end": 6.95
+     },
+     {
+      "w": " votes",
+      "start": 6.95,
+      "end": 7.25
+     },
+     {
+      "w": " on",
+      "start": 7.25,
+      "end": 7.47
+     },
+     {
+      "w": " his",
+      "start": 7.47,
+      "end": 7.61
+     },
+     {
+      "w": " name",
+      "start": 7.61,
+      "end": 7.77
+     },
+     {
+      "w": " tonight.",
+      "start": 7.77,
+      "end": 8.17
+     }
+    ],
+    "seg_rms": 0.0965
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 4.05,
+    "end": 5.51,
+    "text": "Your name's up, Marta.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 4.05,
+      "end": 4.53
+     },
+     {
+      "w": " name's",
+      "start": 4.53,
+      "end": 4.93
+     },
+     {
+      "w": " up,",
+      "start": 4.93,
+      "end": 5.07
+     },
+     {
+      "w": " Marta.",
+      "start": 5.17,
+      "end": 5.51
+     }
+    ],
+    "seg_rms": 0.1219
+   },
+   {
+    "start": 5.97,
+    "end": 8.37,
+    "text": "The street vote votes on his name tonight.",
+    "words": [
+     {
+      "w": " The",
+      "start": 5.97,
+      "end": 6.47
+     },
+     {
+      "w": " street",
+      "start": 6.47,
+      "end": 6.77
+     },
+     {
+      "w": " vote",
+      "start": 6.77,
+      "end": 7.07
+     },
+     {
+      "w": " votes",
+      "start": 7.07,
+      "end": 7.39
+     },
+     {
+      "w": " on",
+      "start": 7.39,
+      "end": 7.53
+     },
+     {
+      "w": " his",
+      "start": 7.53,
+      "end": 7.69
+     },
+     {
+      "w": " name",
+      "start": 7.69,
+      "end": 8.03
+     },
+     {
+      "w": " tonight.",
+      "start": 8.03,
+      "end": 8.37
+     }
+    ],
+    "seg_rms": 0.0848
+   }
+  ]
+ }
+}

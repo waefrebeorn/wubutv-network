@@ -1,0 +1,187 @@
+{
+ "seg": 11,
+ "scene": "S07",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s07-t1-desc-0-ee663b32-1cb0-4e3c-9376-6b88b1bb23f7.mp4",
+ "take_span": [
+  0.0,
+  9.52
+ ],
+ "song_span": [
+  30.583333333333332,
+  38.5
+ ],
+ "method": "capped warp",
+ "chunk_ratios": [
+  1.207,
+  0.659,
+  0.439,
+  0.929,
+  0.774,
+  1.0,
+  0.413,
+  0.581,
+  0.714,
+  0.687,
+  1.842,
+  2.118,
+  1.111,
+  1.615,
+  0.829,
+  0.892
+ ],
+ "capped": {
+  "ratio_min": 0.5,
+  "ratio_max": 2.0
+ },
+ "qp_rounds": [
+  {
+   "round": 0,
+   "weight": 300.0,
+   "worst_anchor_drift_ms": 51.9
+  }
+ ],
+ "penalty_extra_words": 3,
+ "worst_word_drift": {
+  "word": "ringing",
+  "song_onset": 32.28,
+  "take_onset": 2.0,
+  "carried": false,
+  "drift_ms": -139.1
+ },
+ "word_drifts": [
+  {
+   "word": "Numbers",
+   "song_onset": 30.583333333333332,
+   "take_onset": 0.0,
+   "carried": false,
+   "drift_ms": 0.0
+  },
+  {
+   "word": "jumping,",
+   "song_onset": 31.38,
+   "take_onset": 0.66,
+   "carried": false,
+   "drift_ms": -10.2
+  },
+  {
+   "word": "phones",
+   "song_onset": 31.96,
+   "take_onset": 1.54,
+   "carried": false,
+   "drift_ms": -49.2
+  },
+  {
+   "word": "ringing",
+   "song_onset": 32.28,
+   "take_onset": 2.0,
+   "carried": false,
+   "drift_ms": -139.1
+  },
+  {
+   "word": "Everybody",
+   "song_onset": 32.68,
+   "take_onset": 3.18,
+   "carried": false,
+   "drift_ms": 51.9
+  },
+  {
+   "word": "watching",
+   "song_onset": 33.2,
+   "take_onset": 3.74,
+   "carried": false,
+   "drift_ms": 11.1
+  },
+  {
+   "word": "the",
+   "song_onset": 33.68,
+   "take_onset": 4.36,
+   "carried": false,
+   "drift_ms": -12.2
+  },
+  {
+   "word": "screen",
+   "song_onset": 33.96,
+   "take_onset": 4.64,
+   "carried": false,
+   "drift_ms": -36.3
+  },
+  {
+   "word": "He",
+   "song_onset": 34.34,
+   "take_onset": 5.56,
+   "carried": false,
+   "drift_ms": 43.7
+  },
+  {
+   "word": "walked",
+   "song_onset": 34.7,
+   "take_onset": 6.18,
+   "carried": false,
+   "drift_ms": 11.7
+  },
+  {
+   "word": "back",
+   "song_onset": 35.0,
+   "take_onset": 6.6,
+   "carried": false,
+   "drift_ms": 5.1
+  },
+  {
+   "word": "in",
+   "song_onset": 35.22,
+   "take_onset": 6.92,
+   "carried": false,
+   "drift_ms": 9.8
+  },
+  {
+   "word": "Like",
+   "song_onset": 35.92,
+   "take_onset": 7.3,
+   "carried": false,
+   "drift_ms": 21.6
+  },
+  {
+   "word": "the",
+   "song_onset": 36.64,
+   "take_onset": 7.64,
+   "carried": false,
+   "drift_ms": -18.6
+  },
+  {
+   "word": "whole",
+   "song_onset": 36.84,
+   "take_onset": 7.82,
+   "carried": false,
+   "drift_ms": -7.0
+  },
+  {
+   "word": "thing",
+   "song_onset": 37.26,
+   "take_onset": 8.08,
+   "carried": false,
+   "drift_ms": -3.3
+  },
+  {
+   "word": "was",
+   "song_onset": 37.58,
+   "take_onset": 8.42,
+   "carried": false,
+   "drift_ms": -36.7
+  },
+  {
+   "word": "a",
+   "song_onset": 37.84,
+   "take_onset": 8.78,
+   "carried": false,
+   "drift_ms": 1.1
+  },
+  {
+   "word": "dream",
+   "song_onset": 38.02,
+   "take_onset": 8.96,
+   "carried": false,
+   "drift_ms": -18.0
+  }
+ ]
+}

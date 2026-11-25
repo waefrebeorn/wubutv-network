@@ -1,0 +1,55 @@
+FIRE VEHICLE — station p480 P2 v1 (kind:image+text, conditioning: ACCEPTED P1 v1 cliff)
+Run: 2026-10-29 1045 EDT via media.generate_video
+Output: takes/2026-10-29/station_p2_tickthatstayed_givethetickback_v1_16x9.mp4
+Source: slate/PREPRO_2026-10-28_1515.md, p480 P2 PROMPT block, extracted verbatim
+Prompt-block md5: a13794f4082669012eb42815c6618f40
+
+SHOT & CAMERA: medium two-shot, eye level + ONE lateral track right,
+from the slate to the tower wall.
+SUBJECTS: SUPER NUMBER HEAD (INK, plain coat); PETER (VERMILION, plain
+coat); the archive room (the machine silent, the fruit lowered back
+onto the table, the tower wall in lights showing the sixth sum
+arrangement plus one additional lit mark, the slate's sixth sum
+unchanged, the Head's pen laid down unsigned, Peter in the doorway with
+a hand out toward the slate); lamp lit.
+ACTION (beat-labelled):
+  (0.0-1.5s) HOOK FRAME — P1's cliff frame: the archive room, the
+    machine silent, the fruit lowered back onto the table, the tower
+    wall in lights showing the sixth sum arrangement plus one
+    additional lit mark, the slate's sixth sum unchanged, the Head's
+    pen laid down unsigned, Peter in the doorway with a hand out
+    toward the slate: the frame asks whether a number kept without its
+    fruit belongs to the keeper or the record. Lands cold: lowered
+    fruit, stayed tick, unchanged slate, unsigned pen, demanding
+    seller, sound off.
+  (1.5-4.0s) STATE — The Head stands at the slate, mouth closed; Peter
+    stands in the doorway, mouth closed; the machine stays silent.
+  (4.0-7.0s) TURN — The Head holds a hand toward the tower wall's lit
+    tick, mouth closed — the return, demanded: hand the number back,
+    and the sale collapses into a theft. The tower wall stays lit with
+    its tick; the pen stays laid down unsigned.
+  (7.0-9.0s) LINE — HEAD to PETER (demand; want: Peter to admit the
+    tower took a count nobody sold, so the tick returns to the slate,
+    since a number that stays after its fruit drops was taken, not
+    bought): "Give the tick back." (4 words)
+  (9.0-10.0s) CLIFF FRAME — the archive room, the machine silent, the
+    fruit lowered back onto the table, the tower wall in lights showing
+    the sixth sum arrangement plus one additional lit mark, the slate's
+    sixth sum unchanged, the Head's pen laid down unsigned, the Head's
+    hand held toward the tower wall's lit tick, Peter in the doorway.
+    This frame is P3's first frame. Save as station_p480_p2_cliff.jpg.
+LIGHT: one hard archive lamp, from the left, on the slate and the
+tower wall's lit tick.
+AUDIO: archive hush + one fruit-set hush, then native dialogue as
+written.
+STYLE: INK + VERMILION + bone · flat fills · ink outline on every
+edge.
+TEXT: NONE on screen.
+NEGATIVE: NO fisheye, NO plastic skin, NO commercial gloss, NO
+on-screen text, NO title cards, NO third primary hue, NO gradients,
+NO crowd, NO second voice event, NO lip movement outside 7-9s.
+WITHHELD FACT: whether Peter admits the tower took a count nobody sold,
+or claims a staying tick is a completed sale. Spent in P3 (Laura dares
+him to buy the tick itself, not the fruit).
+
+Conditioning: ACCEPTED P1 v1 cliff (takes/2026-10-29/station_p480_tickthatstayed_p1_cliff.jpg, md5 a7f7c1df612fd2875628b224586fffdf) — never the rejected P1 v2.

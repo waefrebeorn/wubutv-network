@@ -1,0 +1,38 @@
+{
+ "file": "takes/media-generation-mv34-s01-t2-desc-0-46003158-2db7-4b05-9110-e600e7c3fde7.mp4",
+ "segments": [
+  {
+   "start": 5.12,
+   "end": 8.02,
+   "text": "Jensen's back, he's back.",
+   "avg_logprob": -0.446,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Jensen's",
+     "start": 5.12,
+     "end": 6.08,
+     "probability": 0.871
+    },
+    {
+     "word": " back,",
+     "start": 6.08,
+     "end": 6.46,
+     "probability": 0.991
+    },
+    {
+     "word": " he's",
+     "start": 7.04,
+     "end": 7.72,
+     "probability": 0.973
+    },
+    {
+     "word": " back.",
+     "start": 7.72,
+     "end": 8.02,
+     "probability": 0.999
+    }
+   ]
+  }
+ ]
+}

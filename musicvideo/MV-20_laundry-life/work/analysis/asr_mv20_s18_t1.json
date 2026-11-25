@@ -1,0 +1,49 @@
+{
+ "take": "takes/mv20_s18_t1.mp4",
+ "words": [
+  {
+   "w": "but",
+   "start": 0.0,
+   "end": 0.34,
+   "p": 0.757
+  },
+  {
+   "w": "it's",
+   "start": 0.34,
+   "end": 0.74,
+   "p": 0.998
+  },
+  {
+   "w": "still",
+   "start": 0.74,
+   "end": 1.02,
+   "p": 1.0
+  },
+  {
+   "w": "on",
+   "start": 1.02,
+   "end": 1.62,
+   "p": 0.999
+  },
+  {
+   "w": "the",
+   "start": 1.62,
+   "end": 1.76,
+   "p": 0.999
+  },
+  {
+   "w": "floor",
+   "start": 1.76,
+   "end": 2.18,
+   "p": 1.0
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.18,
+   "text": "but it's still on the floor",
+   "avg_logprob": -0.36
+  }
+ ]
+}

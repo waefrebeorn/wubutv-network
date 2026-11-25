@@ -1,0 +1,68 @@
+{
+ "seg": 4,
+ "scene": "S03b",
+ "kind": "WARP",
+ "take": "media-generation-mv34-s03-t1-desc-0-46a9e730-13e4-46e9-8681-0d3ef1509835.mp4",
+ "take_span": [
+  6.36,
+  8.53
+ ],
+ "song_span": [
+  17.875,
+  19.166666666666668
+ ],
+ "method": "chunk (already in cap)",
+ "chunk_ratios": [
+  0.595
+ ],
+ "capped": {
+  "ratio_min": 0.5952,
+  "ratio_max": 0.5952
+ },
+ "qp_rounds": [],
+ "penalty_extra_words": 0,
+ "worst_word_drift": {
+  "word": "board",
+  "song_onset": 18.0,
+  "take_onset": 6.62,
+  "carried": false,
+  "drift_ms": 29.8
+ },
+ "word_drifts": [
+  {
+   "word": "the",
+   "song_onset": 17.875,
+   "take_onset": 6.4,
+   "carried": false,
+   "drift_ms": 23.8
+  },
+  {
+   "word": "board",
+   "song_onset": 18.0,
+   "take_onset": 6.62,
+   "carried": false,
+   "drift_ms": 29.8
+  },
+  {
+   "word": "said",
+   "song_onset": 18.28,
+   "take_onset": 7.02,
+   "carried": false,
+   "drift_ms": -12.1
+  },
+  {
+   "word": "stay",
+   "song_onset": 18.54,
+   "take_onset": 7.46,
+   "carried": false,
+   "drift_ms": -10.2
+  },
+  {
+   "word": "gone",
+   "song_onset": 18.8,
+   "take_onset": 7.9,
+   "carried": false,
+   "drift_ms": -8.3
+  }
+ ]
+}

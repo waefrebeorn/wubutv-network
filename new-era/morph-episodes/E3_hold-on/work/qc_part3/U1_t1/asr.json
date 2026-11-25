@@ -1,0 +1,92 @@
+{
+ "file": "takes_part3/U1_t1.mp4",
+ "head_rms_0_1.7": 0.03191192075610161,
+ "ambient_rms_0_0.5": 0.03097672015428543,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 2.54,
+    "end": 7.2,
+    "text": "Dawn delivery sign for the box keeper",
+    "words": [
+     {
+      "w": " Dawn",
+      "start": 2.54,
+      "end": 3.08
+     },
+     {
+      "w": " delivery",
+      "start": 3.08,
+      "end": 3.48
+     },
+     {
+      "w": " sign",
+      "start": 3.48,
+      "end": 6.34
+     },
+     {
+      "w": " for",
+      "start": 6.34,
+      "end": 6.6
+     },
+     {
+      "w": " the",
+      "start": 6.6,
+      "end": 6.68
+     },
+     {
+      "w": " box",
+      "start": 6.68,
+      "end": 6.9
+     },
+     {
+      "w": " keeper",
+      "start": 6.9,
+      "end": 7.2
+     }
+    ],
+    "seg_rms": 0.0732
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 2.54,
+    "end": 7.4,
+    "text": "Dawn delivery. Sign for the boxkeeper.",
+    "words": [
+     {
+      "w": " Dawn",
+      "start": 2.54,
+      "end": 3.16
+     },
+     {
+      "w": " delivery.",
+      "start": 3.16,
+      "end": 3.72
+     },
+     {
+      "w": " Sign",
+      "start": 4.82,
+      "end": 4.94
+     },
+     {
+      "w": " for",
+      "start": 4.94,
+      "end": 6.68
+     },
+     {
+      "w": " the",
+      "start": 6.68,
+      "end": 6.78
+     },
+     {
+      "w": " boxkeeper.",
+      "start": 6.78,
+      "end": 7.4
+     }
+    ],
+    "seg_rms": 0.0731
+   }
+  ]
+ }
+}

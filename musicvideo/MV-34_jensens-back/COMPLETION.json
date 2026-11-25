@@ -1,0 +1,28 @@
+{
+ "project": "MV-34 'Jensen's Back'",
+ "stage": "volley-2 successor #6 (parent-chained)",
+ "status": "COMPLETE_ALL_SCENES_KEEP",
+ "date": "2026-11-24",
+ "fires_this_run": 1,
+ "cap": 6,
+ "landed": [
+  "S02 t5 (v5 vehicle THE BLINDS)"
+ ],
+ "refused": [],
+ "keeps": {
+  "S01": "4616d6c0ed18d8677b65064682f70137",
+  "S02": "e8f5d3d15be29b77c84a4381595db819",
+  "S03": "61a26c45bf8d233ff25152276206c897",
+  "S04": "33cc29afb1f712f94e4b8af8a654f2a9",
+  "S05": "92323a4b7f64fcce70a1d08ffa6c0894",
+  "S06": "42bba7b2a6b5ab63c208cac010ad52a6",
+  "S07": "0ff653470b17fb05859df76f4d846228",
+  "S08": "47640f7b99037e75872b6259a51bf18a",
+  "S09": "7b58b4b57a25acc56859a5ab0046b5ae",
+  "S10": "915d72fd92a7ea913be5d7357712e5f0"
+ },
+ "keeps_count": "10/10",
+ "still_owed": {},
+ "notes": "Successor #6 fired S02 on the v5 vehicle (THE BLINDS) once generation reopened (probe B-1474, 2026-11-24T22:50:44Z). LANDED + KEEP (TAKE_HISTORY.md V-28): Checkpoint A ASR hears BOTH 'He's back' hook hits (0.00-1.28 and 7.52-8.78), line coverage 2/2; RMS two-burst profile; eye read grave, no smile, no legible text. Checkpoint B (Rumble) take-level adjudication attempted but its runtime env was unavailable this session - disclosed in V-28. All 10 scenes KEEP. No master, no delivered flag, no commit - parent assembles.",
+ "prior_stage_record": "Recovery #3 COMPLETION (2026-11-24, hard stop 429 on S02 v5) superseded by this file; its record stands in VOLLEY_PROGRESS.md and TAKE_HISTORY.md V-27."
+}

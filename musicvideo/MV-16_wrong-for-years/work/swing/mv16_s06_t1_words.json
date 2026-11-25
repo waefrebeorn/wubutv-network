@@ -1,0 +1,85 @@
+{
+ "take": "takes/mv16_s06_t1.mp4",
+ "words": [
+  {
+   "w": "friends",
+   "start": 0.0,
+   "end": 0.5,
+   "p": 0.323
+  },
+  {
+   "w": "in",
+   "start": 0.5,
+   "end": 1.06,
+   "p": 0.998
+  },
+  {
+   "w": "the",
+   "start": 1.06,
+   "end": 1.26,
+   "p": 0.999
+  },
+  {
+   "w": "back",
+   "start": 1.26,
+   "end": 1.9,
+   "p": 0.999
+  },
+  {
+   "w": "just",
+   "start": 1.9,
+   "end": 2.46,
+   "p": 0.962
+  },
+  {
+   "w": "nodded",
+   "start": 2.46,
+   "end": 3.26,
+   "p": 0.873
+  },
+  {
+   "w": "along",
+   "start": 3.26,
+   "end": 3.78,
+   "p": 0.998
+  },
+  {
+   "w": "like",
+   "start": 3.78,
+   "end": 4.68,
+   "p": 0.986
+  },
+  {
+   "w": "they",
+   "start": 4.68,
+   "end": 5.04,
+   "p": 0.999
+  },
+  {
+   "w": "knew",
+   "start": 5.04,
+   "end": 5.44,
+   "p": 0.999
+  },
+  {
+   "w": "it",
+   "start": 5.44,
+   "end": 5.82,
+   "p": 0.999
+  },
+  {
+   "w": "too",
+   "start": 5.82,
+   "end": 6.2,
+   "p": 0.964
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.2,
+   "text": "friends in the back just nodded along like they knew it too",
+   "avg_logprob": -0.277
+  }
+ ]
+}

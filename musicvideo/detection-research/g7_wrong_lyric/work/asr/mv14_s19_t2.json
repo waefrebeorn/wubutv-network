@@ -1,0 +1,38 @@
+{
+ "file": "/home/hatch/workspace/wubutv-network/musicvideo/MV-14_clip-it/takes/media-generation-mv14-s19-t2-0-89353b9f-ecc6-4b20-8304-6dd90a310d11.mp4",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.06,
+   "text": "Help me stay online.",
+   "avg_logprob": -0.565,
+   "no_speech_prob": 0.0,
+   "words": [
+    {
+     "word": " Help",
+     "start": 0.0,
+     "end": 0.32,
+     "probability": 0.681
+    },
+    {
+     "word": " me",
+     "start": 0.32,
+     "end": 0.48,
+     "probability": 0.883
+    },
+    {
+     "word": " stay",
+     "start": 0.48,
+     "end": 0.7,
+     "probability": 0.968
+    },
+    {
+     "word": " online.",
+     "start": 0.7,
+     "end": 1.06,
+     "probability": 0.986
+    }
+   ]
+  }
+ ]
+}

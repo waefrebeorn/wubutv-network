@@ -1,0 +1,27 @@
+# MV-8 REBUILD v2 — Volley 4 vehicle (finalized 2026-11-08 ~15:0x EST, volley 4): O-C "The Ghost Wipe + Loop Close" (JOURNEY)
+# Scene: O-C, song 180.00–187.20 (4320–4493f). 7.20s scene; one 10s take
+# (assembly trims to the 7.20s span; the take's tail is outside the scene span).
+# Instrumental. Ghost Wipe reveal (F21); WIPE 001 — CLEAN counter reset ~183s;
+# final frame rhymes with F00; the seam sits inside the flush vortex, so the
+# master loops back to the opening shot.
+# Anchors: F21.jpg (start, Ghost Wipe + adult Squire) -> F00_v2.jpg
+# (destination, the opening bathroom, long white trousers). Two-image journey,
+# both 16:9. Both stills PASS (STILL_CHAIN_v2.md: F21 md5
+# 58879fc54945c75a539a816e3afa6916; F00_v2 md5 6e4709cfc98552721a70ddafd7c6b273).
+# Duration: exactly 10 seconds. Aspect: 16:9 widescreen, 1280x720.
+# Wardrobe lock: full layered toilet-paper breastplate over long-sleeved white
+# tunic, full-length white trousers, white boots, bright yellow rubber gloves.
+# The two-piece is NOT the lock.
+# Style lock: glossy stylised 3D cartoon, soft studio lighting, porcelain white
+# + warm gold, chocolate brown antagonist, yellow SOLE accent. No text, no
+# logos, no licensed material.
+# MOTION LAW: the Ghost Wipe is ALREADY moving at frame 0 — the sheet already
+# glowing, the vortex already turning. Continuous motion throughout, no held
+# shot, no frozen lead-in. The v1 designed-held-shot precedent is DEAD.
+
+PROMPT (verbatim for media.generate_video, ordered entries):
+Text 1: "16:9 widescreen, 1280x720, exactly 10 seconds. Glossy stylised 3D cartoon, soft studio lighting. In a white-tiled bathroom at golden hour, the Champion, an adult woman in her late twenties with a long dark braid, wearing a full layered toilet-paper breastplate over a long-sleeved white tunic, full-length white trousers, white boots, and bright yellow rubber cleaning gloves, holds a glowing clean sheet as the tall lanky grown-man Squire swoons beside the sink — she is already moving as the clip opens, the sheet shimmering, the room brightening, the camera drifting, never still, carrying her from the glowing sheet into a spiralling white flush vortex that swallows the room and brings it back to where it began. No text, no logos, no children."
+Image 1: F21.jpg
+Text 2: "The vortex carries the bathroom back to its first frame, the tiled room, the frosted window, the Champion at the start of her journey, travelling toward the second image."
+Image 2: F00_v2.jpg
+Text 3: "Ends at the second image: the opening bathroom, the Champion in long white trousers in the same composition as the first frame, the loop closed, water and light still moving to the last frame. No text, no logos, no children, no other characters."

@@ -1,0 +1,536 @@
+[
+ {
+  "scene": 1,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s01_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.9,
+  "out": [
+   0.0,
+   4.541666666666667
+  ],
+  "frames": 109,
+  "md5": "81be6ef0cce5d5513a97621bac572ef5",
+  "note": "FIX: head extended; slow-mo sprint 1.9x"
+ },
+ {
+  "scene": 1,
+  "part": 1,
+  "kind": "N",
+  "take": "mv26_s13_t1.mp4",
+  "take_start": 8.3,
+  "k": 0.9314,
+  "out": [
+   4.541666666666667,
+   6.125
+  ],
+  "frames": 38,
+  "md5": "3e8d621bbfd1a5f80db17bd187de4bd7",
+  "note": "FIX: replaces static s01 tail; unused s13 tail close-up, eyes-darting insert"
+ },
+ {
+  "scene": 1,
+  "part": 2,
+  "kind": "W",
+  "take": "mv26_s01_t1.mp4",
+  "take_start": 2.4,
+  "k": 1.163,
+  "out": [
+   6.125,
+   12.916666666666666
+  ],
+  "frames": 163,
+  "md5": "5063d1680bf9258e3e6de8960cb852d0"
+ },
+ {
+  "scene": 2,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s02_t2.mp4",
+  "take_start": 0.0,
+  "k": 1.3021,
+  "out": [
+   12.916666666666666,
+   15.625
+  ],
+  "frames": 65,
+  "md5": "e5f1642e5ca2d0f6309d01077f9a1168"
+ },
+ {
+  "scene": 2,
+  "part": 1,
+  "kind": "N",
+  "take": "mv26_s02_t2.mp4",
+  "take_start": 8.56,
+  "k": 1.0,
+  "out": [
+   15.625,
+   16.833333333333332
+  ],
+  "frames": 29,
+  "md5": "4bf1ce4abb15bdea26771f0a0bf060e1"
+ },
+ {
+  "scene": 2,
+  "part": 2,
+  "kind": "W",
+  "take": "mv26_s02_t2.mp4",
+  "take_start": 2.08,
+  "k": 1.2217,
+  "out": [
+   16.833333333333332,
+   24.75
+  ],
+  "frames": 190,
+  "md5": "4ce906d22638e085f305967da97e6f63"
+ },
+ {
+  "scene": 3,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s03_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0251,
+  "out": [
+   24.75,
+   28.625
+  ],
+  "frames": 93,
+  "md5": "bba3d23910a8224f4e45d4217fe6ba70"
+ },
+ {
+  "scene": 3,
+  "part": 1,
+  "kind": "W",
+  "take": "mv26_s03_t1.mp4",
+  "take_start": 3.78,
+  "k": 0.7375,
+  "out": [
+   28.625,
+   30.291666666666668
+  ],
+  "frames": 40,
+  "md5": "ceeba41e5db09c7fabe99add23277079"
+ },
+ {
+  "scene": 3,
+  "part": 2,
+  "kind": "N",
+  "take": "mv26_s03_t1.mp4",
+  "take_start": 6.04,
+  "k": 1.0,
+  "out": [
+   30.291666666666668,
+   32.0
+  ],
+  "frames": 41,
+  "md5": "4b09e114b5fae904d66ddb4d20c9b520"
+ },
+ {
+  "scene": 4,
+  "part": 0,
+  "kind": "W",
+  "take": "mv26_s04_t1.mp4",
+  "take_start": 4.0,
+  "k": 1.3047,
+  "out": [
+   32.0,
+   34.583333333333336
+  ],
+  "frames": 62,
+  "md5": "6b9c0a7e72f9cfe69a84d6a27b66f47f"
+ },
+ {
+  "scene": 4,
+  "part": 1,
+  "kind": "W",
+  "take": "mv26_s04_t1.mp4",
+  "take_start": 6.28,
+  "k": 1.7926,
+  "out": [
+   34.583333333333336,
+   36.125
+  ],
+  "frames": 37,
+  "md5": "8c5242a46983daa312a450d3eecc665b"
+ },
+ {
+  "scene": 4,
+  "part": 2,
+  "kind": "N",
+  "take": "mv26_s04_t1.mp4",
+  "take_start": 2.16,
+  "k": 1.0,
+  "out": [
+   36.125,
+   37.083333333333336
+  ],
+  "frames": 23,
+  "md5": "003a920e20b5a015bb7c5c223751f70a"
+ },
+ {
+  "scene": 4,
+  "part": 3,
+  "kind": "N",
+  "take": "mv26_s04_t1.mp4",
+  "take_start": 8.0,
+  "k": 1.0,
+  "out": [
+   37.083333333333336,
+   38.458333333333336
+  ],
+  "frames": 33,
+  "md5": "4c4d760ef2cd434f4681059a9fbc7b11"
+ },
+ {
+  "scene": 4,
+  "part": 4,
+  "kind": "N",
+  "take": "mv26_s04_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   38.458333333333336,
+   40.5
+  ],
+  "frames": 49,
+  "md5": "36a6ea4b902bf56bc92fa191c2a09859"
+ },
+ {
+  "scene": 5,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s05_t2.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   40.5,
+   43.416666666666664
+  ],
+  "frames": 70,
+  "md5": "9cc310440daf6cffc8e37fda0e1debda"
+ },
+ {
+  "scene": 13,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s13_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   43.416666666666664,
+   46.333333333333336
+  ],
+  "frames": 70,
+  "md5": "838188b31022e3ef6d9bf1ccb6576ad7"
+ },
+ {
+  "scene": 14,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s14_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   46.333333333333336,
+   49.25
+  ],
+  "frames": 70,
+  "md5": "5a41c3252d1a72427de4a28c4936a88d"
+ },
+ {
+  "scene": 6,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s06_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   49.25,
+   52.166666666666664
+  ],
+  "frames": 70,
+  "md5": "35e1ac92296608f16557fd4ba35ad254"
+ },
+ {
+  "scene": 7,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s07_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   52.166666666666664,
+   55.083333333333336
+  ],
+  "frames": 70,
+  "md5": "cac96877812b9f4e3b99de5b8a438244"
+ },
+ {
+  "scene": 8,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s08_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.0,
+  "out": [
+   55.083333333333336,
+   58.0
+  ],
+  "frames": 70,
+  "md5": "f547163503e3f27d9e99f11807c83769"
+ },
+ {
+  "scene": 5,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s05_t2.mp4",
+  "take_start": 3.3,
+  "k": 1.0,
+  "out": [
+   58.0,
+   60.291666666666664
+  ],
+  "frames": 55,
+  "md5": "8846234aeb196d2eb219765e4fea3571"
+ },
+ {
+  "scene": 13,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s13_t1.mp4",
+  "take_start": 2.92,
+  "k": 1.0,
+  "out": [
+   60.291666666666664,
+   63.208333333333336
+  ],
+  "frames": 70,
+  "md5": "2c4c003b6ddd7f9d5862fdb6cd974e12"
+ },
+ {
+  "scene": 14,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s14_t1.mp4",
+  "take_start": 3.9,
+  "k": 1.0,
+  "out": [
+   63.208333333333336,
+   66.125
+  ],
+  "frames": 70,
+  "md5": "c9f63035ba1cb505fbb0bbcc437f3e86"
+ },
+ {
+  "scene": 6,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s06_t1.mp4",
+  "take_start": 3.2,
+  "k": 1.0,
+  "out": [
+   66.125,
+   69.04166666666667
+  ],
+  "frames": 70,
+  "md5": "ad4a2a957c6fe6cbd81da28d6b943471"
+ },
+ {
+  "scene": 7,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s07_t1.mp4",
+  "take_start": 6.34,
+  "k": 1.0,
+  "out": [
+   69.04166666666667,
+   71.95833333333333
+  ],
+  "frames": 70,
+  "md5": "fc7c72dc9c9f476f74b4efca52bd89be"
+ },
+ {
+  "scene": 6,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s06_t1.mp4",
+  "take_start": 6.8,
+  "k": 1.0,
+  "out": [
+   71.95833333333333,
+   74.875
+  ],
+  "frames": 70,
+  "md5": "047bee3db05551ccb3ae042206215cff"
+ },
+ {
+  "scene": 14,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s14_t1.mp4",
+  "take_start": 7.0,
+  "k": 1.0,
+  "out": [
+   74.875,
+   77.16666666666667
+  ],
+  "frames": 55,
+  "md5": "e6ef654d21907906ed7972178cb2c291"
+ },
+ {
+  "scene": 5,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s05_t2.mp4",
+  "take_start": 6.6,
+  "k": 1.0,
+  "out": [
+   77.16666666666667,
+   80.08333333333333
+  ],
+  "frames": 70,
+  "md5": "07ae24aa704ae5aec79e354f6d0fb65d"
+ },
+ {
+  "scene": 8,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s08_t1.mp4",
+  "take_start": 7.3,
+  "k": 1.0,
+  "out": [
+   80.08333333333333,
+   82.41666666666667
+  ],
+  "frames": 56,
+  "md5": "c60c989a76fd6b7b0cabbc72a0182b6f"
+ },
+ {
+  "scene": 9,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s09_t2.mp4",
+  "take_start": 0.0,
+  "k": 1.5056,
+  "out": [
+   82.41666666666667,
+   86.0
+  ],
+  "frames": 86,
+  "md5": "89563ef64e04cdb2167cbc6cd5dfc5cd"
+ },
+ {
+  "scene": 9,
+  "part": 0,
+  "kind": "W",
+  "take": "mv26_s09_t3.mp4",
+  "take_start": 1.32,
+  "k": 0.8865,
+  "out": [
+   86.0,
+   88.5
+  ],
+  "frames": 60,
+  "md5": "cbfdddddc75931366e5d9aa00ba98b27"
+ },
+ {
+  "scene": 9,
+  "part": 1,
+  "kind": "N",
+  "take": "mv26_s09_t3.mp4",
+  "take_start": 4.14,
+  "k": 1.0,
+  "out": [
+   88.5,
+   89.20833333333333
+  ],
+  "frames": 17,
+  "md5": "3af917a6613583e91769e6453e54d27a"
+ },
+ {
+  "scene": 9,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s09_t2.mp4",
+  "take_start": 5.18,
+  "k": 1.0,
+  "out": [
+   89.20833333333333,
+   93.66666666666667
+  ],
+  "frames": 107,
+  "md5": "715528c8bda3cbab12b002d36549520f"
+ },
+ {
+  "scene": 9,
+  "part": 0,
+  "kind": "W",
+  "take": "mv26_s09_t3.mp4",
+  "take_start": 4.84,
+  "k": 0.9414,
+  "out": [
+   93.66666666666667,
+   96.20833333333333
+  ],
+  "frames": 61,
+  "md5": "96b4505c1579d0042999bc0b20846f14"
+ },
+ {
+  "scene": 10,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s10_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.1792,
+  "out": [
+   96.20833333333333,
+   108.0
+  ],
+  "frames": 283,
+  "md5": "10f262bf6cb0b12a825e880df2b421aa"
+ },
+ {
+  "scene": 11,
+  "part": 0,
+  "kind": "N",
+  "take": "mv26_s11_t1.mp4",
+  "take_start": 0.0,
+  "k": 1.6281,
+  "out": [
+   108.0,
+   117.83333333333333
+  ],
+  "frames": 236,
+  "md5": "db935d876d74e1078eb10e92345ef251"
+ },
+ {
+  "scene": 11,
+  "part": 1,
+  "kind": "W",
+  "take": "mv26_s11_t1.mp4",
+  "take_start": 6.04,
+  "k": 0.5357,
+  "out": [
+   117.83333333333333,
+   118.58333333333333
+  ],
+  "frames": 18,
+  "md5": "7e8a7de53fdf270f059e3656e74fa4d8"
+ },
+ {
+  "scene": 11,
+  "part": 2,
+  "kind": "N",
+  "take": "mv26_s11_t1.mp4",
+  "take_start": 7.44,
+  "k": 1.0,
+  "out": [
+   118.58333333333333,
+   119.625
+  ],
+  "frames": 25,
+  "md5": "274db7a51e248af08691bb3e62bc086c"
+ }
+]

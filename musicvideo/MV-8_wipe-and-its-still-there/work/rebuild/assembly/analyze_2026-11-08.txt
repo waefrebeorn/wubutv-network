@@ -1,0 +1,82 @@
+scene  piece                                  frames  speed min/max/mean (playback rate; <0.5 = slow past 2x)
+IN-A   natural 0.0                             143  1.00
+  IN-A TOTAL 143 / 143
+H1-A   uniform 5.97-7.98                        48  0.94
+H1-A   pchip    7.98-11.7                        89  0.58/2.26/1.13
+H1-A   pchip    11.7-14.34                       63  0.50/65.58/3.04
+H1-A   uniform 14.34-15.74                      34  0.50  <-- CAP VIOLATION
+H1-A   natural 15.74                             9  1.00
+H1-A   pchip    16.12-18.26                      51  0.57/58.36/2.96
+H1-A   uniform 18.26-20.54                      55  0.50
+H1-A   uniform 20.54-22.08                      37  0.78
+  H1-A TOTAL 386 / 387  <-- SCENE TOTAL 386 != CONTRACT 387 (drift -1f)
+H1-B   pchip    22.08-24.74                      64  0.54/24.07/1.54
+H1-B   montage 24.74-27.74                      72  src=[(2.48, 4.0, 1.0), (7.6, 8.55, 1.55)]
+H1-B   natural 27.74                             9  1.00
+H1-B   uniform 28.12-28.62                      12  0.64
+H1-B   pchip    28.62-29.98                      33  0.63/3.47/1.48
+H1-B   uniform 29.98-30.98                      24  0.65
+H1-B   uniform 30.98-34.22                      78  0.50
+H1-B   uniform 34.22-34.96                      18  0.65
+  H1-B TOTAL 310 / 309  <-- SCENE TOTAL 310 != CONTRACT 309 (drift +1f)
+I-A    natural 34.96                            47  1.00
+I-A    pchip    36.9-40.38                       84  0.63/5.39/1.91
+I-A    uniform 40.38-41.5                       27  0.50
+I-A    natural 41.5                              8  1.00
+I-A    uniform 41.84-45.51                      88  0.50
+  I-A TOTAL 254 / 253  <-- SCENE TOTAL 254 != CONTRACT 253 (drift +1f)
+I-B    uniform 45.51-60.46                     359  0.67
+  I-B TOTAL 359 / 359
+V-0    pchip    60.46-63.62                      76  0.47/0.92/0.65  <-- CAP VIOLATION (slow past 2x)
+V-0    pchip    63.62-65.0                       33  0.66/47.23/2.96
+V-0    natural 65.0                              3  1.00
+  V-0 TOTAL 112 / 112
+PH-A   natural 65.12                            32  1.00
+PH-A   pchip    66.48-67.26                      19  1.31/212.65/10.18
+  PH-A TOTAL 51 / 51
+H2-A   natural 67.26                             3  1.00
+H2-A   pchip    67.38-70.28                      70  0.76/3.10/1.36
+H2-A   pchip    70.28-73.0                       65  0.57/1.50/0.90
+H2-A   uniform 73.0-76.98                       96  0.66
+H2-A   uniform 76.98-79.98                      72  0.50
+H2-A   montage 79.98-81.08                      26  src=[(6.5, 6.94, 1.0), (6.94, 7.38, 1.0), (6.28, 6.5, 1.0)]
+  H2-A TOTAL 332 / 332
+H2-B   natural 81.08                            14  1.00
+H2-B   pchip    81.66-83.74                      50  0.43/38.39/2.22  <-- CAP VIOLATION (slow past 2x)
+H2-B   uniform 83.74-85.26                      36  0.50  <-- CAP VIOLATION
+H2-B   natural 85.26                            17  1.00
+H2-B   pchip    85.98-88.98                      72  0.48/1.68/0.80  <-- CAP VIOLATION (slow past 2x)
+H2-B   uniform 88.98-93.0                       96  0.89
+  H2-B TOTAL 285 / 286  <-- SCENE TOTAL 285 != CONTRACT 286 (drift -1f)
+H2-C   natural 93.0                             60  1.00
+H2-C   uniform 95.52-100.18                    112  0.55
+H2-C   uniform 100.18-102.34                    52  0.67
+H2-C   pchip    102.34-105.94                    86  0.52/3.38/0.94
+  H2-C TOTAL 310 / 311  <-- SCENE TOTAL 310 != CONTRACT 311 (drift -1f)
+D-A    natural 105.94                          151  1.00
+  D-A TOTAL 151 / 151
+D-B    natural 112.25                          187  1.00
+  D-B TOTAL 187 / 187
+FH-A   pchip    120.06-123.18                    75  0.49/1.58/0.95  <-- CAP VIOLATION (slow past 2x)
+FH-A   uniform 123.18-124.68                    36  1.09
+FH-A   pchip    124.68-126.1                     34  0.59/6.43/1.31
+FH-A   natural 126.1                             7  1.00
+FH-A   natural 126.38                           19  1.00
+FH-A   uniform 127.18-130.42                    78  0.50
+FH-A   uniform 130.42-133.46                    73  0.53
+  FH-A TOTAL 322 / 322
+FH-B   pchip    133.46-136.4                     71  0.73/4.29/1.60
+FH-B   pchip    136.4-137.52                     27  0.55/4.89/1.87
+FH-B   uniform 137.52-140.14                    63  0.82
+FH-B   uniform 140.14-142.66                    60  0.58
+FH-B   uniform 142.66-144.18                    36  0.67
+FH-B   pchip    144.18-146.0                     44  0.70/1.06/0.85
+  FH-B TOTAL 301 / 301
+O-A    oa      146.00-163.00                  408  prebuilt
+  O-A TOTAL 408 / 408
+O-B    uniform 163.0-180.0                     408  0.59
+  O-B TOTAL 408 / 408
+O-C    natural 180.0                           173  1.00
+  O-C TOTAL 173 / 173
+TOTAL FRAMES: 4492
+CAP/TOTAL VIOLATIONS: 11

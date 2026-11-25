@@ -1,0 +1,17 @@
+{
+ "take": "S47", "alpha": 1.518, "sr": 16000,
+ "guard_hard": 0.5, "guard_op": 0.7, "guard_on": false,
+ "out_len": 40318, "out_len_s": 2.520, "runtime_s": 0.307,
+ "hit_max_abs_diff": 0,
+ "hit_centre_err_s": [0.000, -0.000, 0.000, -0.000, -0.000, -0.000, -0.000],
+ "gap_alphas": [1.057, 1.114, 3.222, 1.909, 3.222, 1.909, 1.851],
+ "gaps": [
+  {"gap": 1, "kind": "inter", "alpha": 1.057, "in_s": [0.025, 0.375], "out_s": [0.025, 0.395], "flag": "none", "word_idx": 0, "word": "this"},
+  {"gap": 2, "kind": "inter", "alpha": 1.114, "in_s": [0.425, 0.775], "out_s": [0.445, 0.835], "flag": "none", "word_idx": 1, "word": "is"},
+  {"gap": 3, "kind": "inter", "alpha": 3.222, "in_s": [0.825, 0.915], "out_s": [0.885, 1.175], "flag": "none", "word_idx": 2, "word": "how"},
+  {"gap": 4, "kind": "inter", "alpha": 1.909, "in_s": [0.965, 1.075], "out_s": [1.225, 1.435], "flag": "none", "word_idx": 3, "word": "you"},
+  {"gap": 5, "kind": "inter", "alpha": 3.222, "in_s": [1.125, 1.215], "out_s": [1.485, 1.775], "flag": "none", "word_idx": 4, "word": "do"},
+  {"gap": 6, "kind": "inter", "alpha": 1.909, "in_s": [1.265, 1.375], "out_s": [1.825, 2.035], "flag": "none", "word_idx": 5, "word": "it"},
+  {"gap": 7, "kind": "tail", "alpha": 1.851, "in_s": [1.425, 1.660], "out_s": [2.085, 2.520], "flag": "none", "word_idx": 6, "word": "now"}
+ ]
+}

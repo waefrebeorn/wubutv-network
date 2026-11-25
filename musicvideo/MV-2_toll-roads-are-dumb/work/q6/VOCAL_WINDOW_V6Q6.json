@@ -1,0 +1,50 @@
+{
+  "mv2_s04a_q6_t1.mp4": {
+    "take": "mv2_s04a_q6_t1.mp4",
+    "sid": "S04a",
+    "volley": "Q6",
+    "vocal_span": [
+      0.0,
+      9.48
+    ],
+    "vocal_transitions": 228,
+    "vocal_changed_gt_0_5": 111,
+    "vocal_changed_gt_1_0": 68,
+    "vocal_near_dup_run": 6,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 0.82,
+    "frame_gate": "PASS"
+  },
+  "mv2_s07_q6_t1.mp4": {
+    "take": "mv2_s07_q6_t1.mp4",
+    "sid": "S07",
+    "volley": "Q6",
+    "vocal_span": [
+      0.0,
+      7.66
+    ],
+    "vocal_transitions": 185,
+    "vocal_changed_gt_0_5": 66,
+    "vocal_changed_gt_1_0": 3,
+    "vocal_near_dup_run": 33,
+    "vocal_frozen_run": 3,
+    "vocal_mean_diff": 0.61,
+    "frame_gate": "FAIL"
+  },
+  "mv2_s21_q6_t1.mp4": {
+    "take": "mv2_s21_q6_t1.mp4",
+    "sid": "S21",
+    "volley": "Q6",
+    "vocal_span": [
+      0.0,
+      8.34
+    ],
+    "vocal_transitions": 201,
+    "vocal_changed_gt_0_5": 99,
+    "vocal_changed_gt_1_0": 51,
+    "vocal_near_dup_run": 3,
+    "vocal_frozen_run": 1,
+    "vocal_mean_diff": 0.66,
+    "frame_gate": "PASS"
+  }
+}

@@ -1,0 +1,120 @@
+{
+ "job": "HOLD ON E3 Part 3 'Write His Name' \u2014 production + assembly (sessions 1-5 blocked on 429/502 consuming nothing; resume #6 9a40cbb8: all six first takes; session 7 3f64fb2b: U2 refire fired, hit 429 budget block, refire NOT consumed; session 8 2155bf96: U2_t2 refire landed + assembly + gates)",
+ "date": "2026-11-24",
+ "status": "COMPLETE",
+ "script": "SCRIPT_PART3.md LOCKED v1 (parent-written 2026-11-24; cold read PASS, work/COLD_READ_PART3.md)",
+ "master": {
+  "path": "masters/E3_hold-on_part3_16x9.mp4",
+  "md5": "d1981bb44325dcbcd2fb3781b02a53e2",
+  "bytes": 22234735,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "frames": 1440,
+  "duration_s": 60.0,
+  "video": "h264 CRF 18 (proven by size differential: CRF23 encode of the same joined file = 11,583,523 bytes, work/assembly_part3/joined_part3_crf23.mp4; ratio 1.92x; SEI string not used)",
+  "audio": "AAC 48kHz mono 192k (takes are mono; honest conform), two-pass dynamic loudnorm landing -19.08 LUFS / TP -2.27 (joined measured -22.14 LUFS / TP -1.60; target ~-18.6 / ~-2.3; 0.48 under on integrated, peak-limited, compensated second pass measured -19.10 and was not used \u2014 disclosed)",
+  "subtitles": "mov_text (13 cues) + burned-in karaoke ASS, scripted lines at the takes' measured Checkpoint-A timings (work/assembly_part3/subs_part3.ass/.srt; 71 word events; ASS Format header includes Layer)",
+  "corner_bug": "~ WuBu ~ gold serif bottom-right, verified head (2s) and tail (59.5s)",
+  "faststart": true,
+  "joined_verified_before_encode": "work/assembly_part3/joined_part3.mp4: 1440f video, audio stream exactly 60.000000s (duration_ts 2,880,000 @48k), zero start offsets, concat FILTER join of 6 x 240f plate-composited segments. Audio exactness: the first concat-filter join read 2,881,536 samples (each segment's AAC decode carries 256 tail padding samples); the join was rebuilt pre-encode from per-segment PCM trimmed at exactly sample 480,000 (work/assembly_part3/pcm/joined.wav); the padded join is kept as joined_part3_aacpad.mp4.bak",
+  "container_note": "format/video duration fields read 60.041667s (mdhd counts one extra frame interval, inherited from segment timestamps \u2014 the Part 2 wart); decoded content is exactly 1440 frames with a 60.000000s audio stream \u2014 disclosed in GATE_LOG_PART3.md \u00a75"
+ },
+ "chat_copy": {
+  "path": "masters/E3_hold-on_part3_16x9_chat.mp4",
+  "md5": "d1981bb44325dcbcd2fb3781b02a53e2",
+  "bytes": 22234735,
+  "note": "byte-identical copy of the master under a fresh filename; 22.2 MB <= 50 MB"
+ },
+ "poster": "masters/E3_hold-on_part3_poster.png (57.5s frame: the Watcher looking down at the chalk in his open dusty hands, his true line on the wall above)",
+ "gate_log": "GATE_LOG_PART3.md (\u00a71 panels, \u00a72 sequence/animatic, \u00a73 per-take QC U1-U6 + session-7 and session-8 addenda, \u00a74 joints J1-J5, \u00a75 master gates + delivery record)",
+ "flag": "none \u2014 no delivered flag written and no commit made, per the session-8 brief; the parent verifies from disk and delivers",
+ "commits": "none \u2014 parent commits",
+ "gates": {
+  "F-9": "PASS \u2014 13/13 scripted lines on the MASTER's own audio, Checkpoint A verbatim, in order, zero extra, zero missing (work/qc_part3/master/asr.json); Checkpoint B anomalies adjudicated to A (numeral class at U3 L1; U5 L1 split-render \u2014 A carries it verbatim, take-level B clean)",
+  "load_bearing_lines": "PASS \u2014 U4 L1 'Your sleeve's been holding chalk all morning.' on the master (A word stream 29.21-32.27 under the standing 'sleeves' orthography rendering; Checkpoint B segments it cleanly on the master at 30.51-32.39 with the possessive); U6 L1 'Your name's up, Watcher.' verbatim on the master at A 54.69-56.07, B agrees",
+  "sleeve_law": "PASS with disclosed U2 nit \u2014 the dusty LEFT arm is the scrape arm in U1 (the scripted act), held back in U2 (chalk-white hand behind his back; dusted forearm visible from the side angle), buried through U3/U4, raised into the light only at the U5 bell reveal, free in U6 only post-reveal",
+  "ear_test": "PASS (ASR-mediated cold read of the master vs the locked script; the user's playback verdict remains the authority)",
+  "gate_f_cold_run": "PASS \u2014 the whole cheat-and-proof retells from the finished master alone; the ending (his name up, the chalk taken) lands unaided",
+  "master_stranger_test": "PASS (floor check)",
+  "poster_frame": "PASS",
+  "structural": "PASS \u2014 1440f / audio 60.000000s / zero start offsets / faststart (moov second atom); container duration-field wart disclosed, no structural fix outstanding",
+  "wordmark": "PASS \u2014 '~ WuBu ~' exact, head and tail frames (house bug; no character wordmark garment this episode)",
+  "blam": "take-level record stands (U1 frame 0 mid-scrape; first word 2.54s on the master; first cut at exactly 10.0s by construction)",
+  "joints": "J1 PASS (dawn->sunrise grade shift across this joint only, completing ~2.5s into U2 \u2014 soft joint, disclosed); J2 PASS; J3 PASS; J4 PASS with the disclosed light/identity-drift class; J5 PASS"
+ },
+ "units": [
+  {
+   "unit": "U1",
+   "take": "takes_part3/U1_t1.mp4",
+   "md5": "9490f9a0f00e7ab46ef2fdcc814f3e8f",
+   "status": "accepted, first take (resume #6)",
+   "disclosed_defects": [
+    "camera pushes in slowly instead of the locked wide",
+    "a modern taped parcel sits on the counter (unscripted)",
+    "the YES tallies render sparse under the plate"
+   ]
+  },
+  {
+   "unit": "U2",
+   "take": "takes_part3/U2_t2.mp4",
+   "md5": "db63e0c68ee943ed882e2ce2609f6bd5",
+   "status": "accepted, fail-once refire (session 8; session 7's fire was interrupted by the 429 budget block, refire not consumed). Dialogue 3/3 verbatim at BOTH checkpoints; NO readable generated lettering (t1's reject class does not recur); sleeve law in substance. U2_t1 (md5 8902105e3b1e6a6098d18e22f089896a) NOT shipped: dialogue verbatim but readable generated lettering 'LAURA' + partial word on the frame-left stone pier",
+   "disclosed_defects": [
+    "camera pans right instead of the locked wide (Laura enters late, near at 7.5s)",
+    "staging sits at the counter rather than the wall; Marta works at the counter frame-left",
+    "a small red case-like object sits on the counter from ~5s (unscripted prop; not staged as the Courier's ring-box secret, which stays unspent)",
+    "the dusted LEFT forearm is visible from the side angle while the arm is held at his back (sleeve law in substance; the U5 reveal still lands)"
+   ]
+  },
+  {
+   "unit": "U3",
+   "take": "takes_part3/U3_t1.mp4",
+   "md5": "e6423deb72bc7a16814f39ad92d2f635",
+   "status": "accepted, first take (resume #6)",
+   "disclosed_defects": [
+    "the Watcher reads younger/darker than U1's elder (identity drift class, U3-U6)",
+    "faint letter-like scribbles on the wooden door (unreadable, no words)"
+   ]
+  },
+  {
+   "unit": "U4",
+   "take": "takes_part3/U4_t1.mp4",
+   "md5": "368bef3d6fcc19f67c82533cb2592f41",
+   "status": "accepted, first take (resume #6); load-bearing L1 verbatim",
+   "disclosed_defects": [
+    "Laura leans at the wall in the tail instead of standing clear",
+    "faint letter-like scribbles on the wooden door (unreadable, no words)"
+   ]
+  },
+  {
+   "unit": "U5",
+   "take": "takes_part3/U5_t1.mp4",
+   "md5": "6067e040f87ccf0a8179e1c4c688e97b",
+   "status": "accepted, first take (resume #6)",
+   "disclosed_defects": [
+    "the signing is performed at the Courier's slate rather than on the box itself (in substance on-law: public, at the bell, sleeve up in the light)"
+   ]
+  },
+  {
+   "unit": "U6",
+   "take": "takes_part3/U6_t1.mp4",
+   "md5": "dff53749c5b0427d1a821ce38d479878",
+   "status": "accepted, first take (resume #6); load-bearing L1 verbatim",
+   "disclosed_defects": [
+    "Laura chalks with her right hand while a second chalk shows in her left (two-hand take vs the script's one-handed writing)",
+    "faint letter-like scribbles on the wooden door (unreadable, no words)"
+   ]
+  }
+ ],
+ "cast_log": "LAURA (speaker, U2/U4/U6) \u00b7 THE COURIER (speaker, U1/U3/U5 \u2014 first speaking part) \u00b7 THE WATCHER (silent throughout \u2014 never speaks, per script; his sleeve speaks) \u00b7 MARTA (background, silent) \u00b7 the street (background). Camp B held: one speaker per unit. H-4 PAID inside the episode: the street's YES was scraped, the lie read at sunrise, the sleeve convicted him, and Laura chalked her third true line \u2014 WATCHER \u2014 OWES THE STREET A TRUE WALL. This time he takes the chalk.",
+ "speech_totals": "13/13 scripted lines across all six units on dual-checkpoint ASR, per-take and on the master; zero unscripted spoken words in any accepted take; the Watcher speaks zero words in the episode",
+ "ruling": "FAIL-ONCE-THEN-SHIP: U2 is the only unit that needed its refire (t1 rejected on the readable-lettering class, dialogue perfect); the refire landed clean at both checkpoints and shipped. The two designated load-bearing lines (U4 L1, U6 L1) landed verbatim on first takes and were re-verified on the master. Gates disclose rather than block; the user's playback verdict remains the authority above the shipped piece.",
+ "production_note": "Sessions 1-5 blocked on the 429 daily budget and the 502/503 outage, consuming nothing. Resume #6 landed all six first takes. Session 7 fired the owed U2 refire into the renewed 429 budget block (refire not consumed). Session 8 fired it on the reopening (probe B-1474 landed 2026-11-24T22:50:44Z) and completed assembly + gates the same session. All state checkpointed in work/PROGRESS_PART3.md throughout.",
+ "social_caption": {
+  "form": "TORN_FRAGMENT",
+  "caption": "on your sleeve",
+  "source": "BRIEF_PART3.md \u00a75.5 (for the parent's posting step)"
+ },
+ "supersedes": "the session-7 BLOCKED checkpoint in the earlier COMPLETION_PART3.json (U2 refire owed, budget-gated) \u2014 the refire has now landed and shipped"
+}
