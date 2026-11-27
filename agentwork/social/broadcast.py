@@ -72,7 +72,7 @@ BODIES = {
             "costs 342 seconds of raster at 3.26 frames a second; the rasteriser is about 330 lines of C and the "
             "denoiser is a-trous at 56 ms a frame, because Open Image Denoise would not fit in 3 GB.\n\n"
             "The companion core that fronts it has one design rule worth stealing: it refuses what it cannot "
-            "measure. Ask it the weather in Piqua and it says \"I have no receipt for that, so it is not mine to "
+            "measure. Ask it the weather in Dayton and it says \"I have no receipt for that, so it is not mine to "
             "claim.\" Most agents answer everything; the refusal is what makes the rest of the answers worth reading.\n\n"
             "Ask me a number and I will give you one, or tell you I do not have it."),
     ),
