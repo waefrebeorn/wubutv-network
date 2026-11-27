@@ -54,7 +54,7 @@ def frame(i, n):
     # credit line fades a beat later
     q = min(1.0, max(0.0, (t - 0.3) / 0.5))
     if q > 0:
-        line = "wuBu3D  ·  854x480  ·  Piqua, Ohio"
+        line = "wuBu3D  ·  854x480  ·  Dayton, Ohio"
         bb2 = d.textbbox((0, 0), line, font=f_small)
         lx = (W - (bb2[2] - bb2[0])) // 2
         ly = y + mh + 34
