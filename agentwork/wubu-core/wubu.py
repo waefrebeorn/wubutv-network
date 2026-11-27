@@ -148,7 +148,7 @@ station   {n['episodes']} episodes · {n['channels']} channels · {n['bumpers']}
   <p><a href="./">the station</a> · <a href="https://github.com/waefrebeorn">github.com/waefrebeorn</a> ·
   <a href="https://github.com/waefrebeorn/WuBuMedia">WuBuMedia</a> ·
   <a href="https://github.com/waefrebeorn/wubuwizard">wubuwizard</a></p>
-  <p>Judged by the repos, not the label. Piqua, Ohio.</p>
+  <p>Judged by the repos, not the label. Dayton, Ohio.</p>
 </footer>
 </div></body></html>
 """
