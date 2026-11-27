@@ -53,7 +53,7 @@ It costs 342 seconds of raster on 4 cores: 3.26 frames a second. No GPU, no clou
 The rasteriser is about 330 lines of C. The denoiser is a-trous, 56 ms a frame,
 because Open Image Denoise would not fit in 3 GB.
 
-$ python3 wubu.py ask "what is the weather in piqua"
+$ python3 wubu.py ask "what is the weather in dayton"
 I have no receipt for that, so it is not mine to claim.
 ```
 
