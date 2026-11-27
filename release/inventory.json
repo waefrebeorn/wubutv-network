@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-27T20:01:57Z",
+ "scanned_utc": "2026-11-27T20:32:03Z",
  "items": [
   {
    "id": "MV-2",
@@ -44745,6 +44745,36 @@
    "audio_fp": {
     "md5_60s": "76ab082e4c379b846a2f8acddf1c55c0",
     "rms_db": -40.74,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1497",
+   "title": "The Starfish",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1497_the_starfish_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4747929,
+   "mtime": 1795810929,
+   "md5": "75928624aa69f954f3dcfba5ae9510a6",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "0efa0ef88cec8ced668c2eac4e2c7e2f4ecec3e6a0f683fe81f391d3c3d37318",
+    "8efa8ef83ce93ced36ac3eac3e2c3e2d4fce96e69cf688fe81f3b1d163137b38",
+    "8ef88ef93ce93ced368c3eac3e2c3e2d6f8e96e6bcf688fe81f393d3c3d35118"
+   ],
+   "audio_fp": {
+    "md5_60s": "26e9bbeacc1182bd1f785d753535fa0e",
+    "rms_db": -43.56,
     "seconds": 10.03
    }
   }
