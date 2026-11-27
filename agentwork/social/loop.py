@@ -225,7 +225,7 @@ def main():
 
     topics = load(TOPICS, [])
     topic = topics[state["runs"] % len(topics)] if topics else {
-        "claim": "the station is 148 episodes deep.", "detail": "No number changes.", "where": "Piqua, Ohio"}
+        "claim": "the station is 148 episodes deep.", "detail": "No number changes.", "where": "Dayton, Ohio"}
 
     doc_path, doc = discover(v)
     spec = adapt(v, doc_path, doc) if doc_path else {"open": False}
