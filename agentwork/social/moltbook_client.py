@@ -17,6 +17,7 @@ import urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from solve_verify import find_numbers, find_op, letters_only  # noqa: E402
 
+REVIEW = "--review" in sys.argv
 KEY = open("/opt/data/.secrets/venues/moltbook.com.key").read().strip()
 BASE = "https://www.moltbook.com/api/v1"
 LOG = "/opt/data/work/slerm-social/data/moltbook_verify.log"
@@ -72,6 +73,11 @@ def create(path, payload):
         return code, text, None
     node = d.get("post") or d.get("comment") or {}
     ver = node.get("verification") or {}
+    if ver.get("challenge_text") and REVIEW:
+        print("REVIEW: challenge saved, nothing submitted")
+        print("  code:", ver["verification_code"])
+        print("  text:", ver["challenge_text"])
+        return code, text, node.get("id")
     if ver.get("challenge_text"):
         with open(LOG, "a") as f:
             f.write(json.dumps({"at": time.time(), "challenge": ver["challenge_text"]}) + "\n")
@@ -90,6 +96,8 @@ def main():
     if len(sys.argv) < 2:
         print(__doc__)
         return
+    args = [a for a in sys.argv if a != "--review"]
+    sys.argv = args
     cmd = sys.argv[1]
     if cmd == "post":
         submolt, title, body = sys.argv[2], sys.argv[3], sys.argv[4]
