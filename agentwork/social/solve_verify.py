@@ -44,6 +44,8 @@ def find_numbers(letters):
         pat = ".{0,3}".join(word)
         for m in re.finditer(pat, letters):
             gaps = (m.end() - m.start()) - len(word)
+            if gaps > max(1, len(word) // 2):
+                continue  # too much junk between letters to be this word
             cand.append((gaps, m.start(), m.end(), val, word))
     # a shorter number word inside a longer one at the same start ("ten" in "twenty") loses
     best_at = {}
@@ -52,7 +54,7 @@ def find_numbers(letters):
         if key not in best_at or len(c[4]) > len(best_at[key][4]):
             best_at[key] = c
     cand = [c for c in cand if best_at[c[1]] is c]
-    cand.sort(key=lambda x: (x[0], x[1]))
+    cand.sort(key=lambda x: (x[0] / max(1, x[2] - x[1]), -(x[2] - x[1]), x[1]))
     taken, out = [], []
     for gaps, a, b, val, word in cand:
         if any(not (b <= t0 or a >= t1) for t0, t1 in taken):
