@@ -13,6 +13,7 @@ api = HfApi(token=TOKEN)
 FILES = [
     ("/opt/data/work/ident/ident_master.mp4", "IDENT.mp4"),
     ("/opt/data/work/lamp2/THE_LAMP_master.mp4", "THE_LAMP.mp4"),
+    ("/opt/data/work/film3/THE_LAMP_III_norm.mp4", "THE_LAMP_III.mp4"),
     ("/opt/data/work/promo/wubutv_presents.mp4", "PRESENTS.mp4"),
     ("/opt/data/work/mystery/THE_ONE_PIECE.mp4", "PIECE.mp4"),
     ("/opt/data/work/mystery/THE_FIFTH_MARK.mp4", "FIFTH.mp4"),
@@ -58,7 +59,7 @@ INDEX = """<!DOCTYPE html>
 </head>
 <body>
 <div class="wrap">
-<header><b>~ WuBu ~</b><span>Piqua, Ohio</span></header>
+<header><b>~ WuBu ~</b><span>Dayton, Ohio</span></header>
 
 <video src="IDENT.mp4" controls autoplay muted loop playsinline></video>
 <div class="cap">STATION IDENT · 24.5 s · 588 frames · 1280×720 · cut from 16 bumpers on the network's own CDN</div>
@@ -75,6 +76,9 @@ INDEX = """<!DOCTYPE html>
 
 <video src="THE_LAMP.mp4" controls muted playsinline></video>
 <div class="cap">THE LAMP · 48.5 s · 854×480 · painted plates, keyed silhouettes, 2.5D camera</div>
+
+<video src="THE_LAMP_III.mp4" controls muted playsinline></video>
+<div class="cap">THE LAMP III · 37 s · same plates, real motion: 4× temporal supersampling, step cadence, per-actor depth and haze</div>
 
 <video src="PRESENTS.mp4" controls muted playsinline></video>
 <div class="cap">WUBUTV PRESENTS · seven channels, one episode each, straight off the corpus</div>
@@ -142,7 +146,7 @@ Every scoreboard reads INF:0.</p>
     <a href="https://huggingface.co/WaefreBeorn">huggingface.co/WaefreBeorn</a> ·
     <a href="https://youtube.com/@wubustreams">youtube.com/@wubustreams</a>
   </p>
-  <p>James Taylor · Piqua, Ohio · open to remote research and technical work.</p>
+  <p>James Taylor · Dayton, Ohio · open to remote research and technical work.</p>
 </footer>
 </div>
 </body>
