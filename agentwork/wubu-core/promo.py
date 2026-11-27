@@ -25,7 +25,7 @@ LINES = [
     ("The film is 1116 frames at 854x480.", 3.1, INK),
     ("It costs 342 seconds of raster on 4 cores:", 3.7, INK),
     ("3.26 frames a second. No GPU, no cloud.", 4.3, GOLD),
-    ('$ python3 wubu.py ask "what is the weather in piqua"', 5.5, DIM),
+    ('$ python3 wubu.py ask "what is the weather in dayton"', 5.5, DIM),
     ("I have no receipt for that, so it is not mine to claim.", 6.2, INK),
 ]
 
