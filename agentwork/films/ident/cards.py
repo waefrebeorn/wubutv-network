@@ -218,7 +218,7 @@ def end_frame(i, n):
     img = Image.fromarray(to_u8(c)).convert("RGBA")
     fade = 1.0 if t < 0.72 else max(0.0, (1 - t) / 0.28)
     img = Image.alpha_composite(img, wordmark(int(255 * fade), 1.0, 0))
-    lines = [("PIQUA, OHIO  ·  INF:0", 24, DIM, H // 2 + 66),
+    lines = [("DAYTON, OHIO  ·  INF:0", 24, DIM, H // 2 + 66),
              ("the work is the receipt", 18, (110, 104, 94), H // 2 + 108)]
     img = Image.alpha_composite(img, text_layer(lines, int(230 * fade)))
     c = np.asarray(img.convert("RGB"), dtype=np.float32) / 255.0
