@@ -44,8 +44,10 @@ MV_CURRENT = [
     (30, "Coal Mine Songs", "mv30_coal-mine-songs_16x9_fix2.mp4"),
     (31, "GTA6 Happened", "mv31_gta6-happened_16x9_fix2.mp4"),
     (32, "Fries In The Bag", "mv32_fries-in-the-bag_16x9_fix2.mp4"),
+    (33, "Glue Your Shit Smooth On, It Is Not Over", "mv33_glue-your-shit-smooth-on_16x9.mp4"),
+    (34, "Jensen's Back", "mv34_jensens-back_16x9.mp4"),
 ]
-MV_DELIVERED = {18: "2026-11-14", 19: "2026-11-14", 20: "2026-11-14", 21: "2026-11-15", 25: "2026-11-20", 22: "2026-11-20", 23: "2026-11-20", 26: "2026-11-20", 24: "2026-11-20", 27: "2026-11-20", 28: "2026-11-21", 29: "2026-11-23", 30: "2026-11-23", 31: "2026-11-23", 32: "2026-11-23"}
+MV_DELIVERED = {18: "2026-11-14", 19: "2026-11-14", 20: "2026-11-14", 21: "2026-11-15", 25: "2026-11-20", 22: "2026-11-20", 23: "2026-11-20", 26: "2026-11-20", 24: "2026-11-20", 27: "2026-11-20", 28: "2026-11-21", 29: "2026-11-23", 30: "2026-11-23", 31: "2026-11-23", 32: "2026-11-23", 33: "2026-11-24", 34: "2026-11-24"}
 
 # --- Tier 3: rejected/superseded, now accepted (msg 516) with msg-518 verdicts ---
 # (item suffix, filename, different_enough, caption label or None, extra flags)
@@ -130,6 +132,8 @@ NEW_ERA = [
     ("CLAIM-WINDOW-PILOT",      "CLAIM WINDOW — Pilot: Very Umbrella", "new-era/claim-window/masters/CLAIM_WINDOW_pilot_16x9.mp4", "ARC-1", "2026-11-19"),
     ("CLAIM-WINDOW-E2",         "CLAIM WINDOW E2 — The Bus Pass", "new-era/claim-window-e2/masters/CLAIM_WINDOW_E2_16x9.mp4", "ARC-1", "2026-11-19"),
     ("CLAIM-WINDOW-E3",         "CLAIM WINDOW E3 — The True Bag", "new-era/claim-window-e3/masters/CLAIM_WINDOW_E3_16x9.mp4", "ARC-1", "2026-11-21"),
+    ("MORPH-HOLD-ON-E3-PART2",  "HOLD ON E3 Part 2 — Write That I Paid", "new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_part2_16x9.mp4", "ARC-1", "2026-11-24"),
+    ("MORPH-HOLD-ON-E3-PART3",  "HOLD ON E3 Part 3 — Write His Name", "new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_part3_16x9.mp4", "ARC-1", "2026-11-24"),
 ]
 
 # --- New-era alternate-takes pieces (msg 664 salvage; msg 518 label rule) ---

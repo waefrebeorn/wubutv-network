@@ -1,0 +1,40 @@
+lyrics master: /home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_v7_16x9_lyrics.mp4
+size: 82719691
+md5: 18baecc2a1c4728b20802789e2332c74
+[PASS] video codec h264 h264
+[PASS] resolution 1280x720 1280x720
+[PASS] fps 24 24/1
+[PASS] frames exactly 6432 (decode-counted) 6432
+[PASS] duration 268.01s 268.010000
+[PASS] audio AAC aac
+[PASS] audio 48k stereo 48000 2ch
+[PASS] x264 SEI crf=18.0 x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option
+[PASS] faststart moov before mdat moov@36 mdat@186768
+audio agreement (lyrics master vs track.mp3, 16k mono, 10 windows):
+  lengths: master 268.01s track 268.01s
+  @5s corr=0.9992
+  @30s corr=0.9994
+  @60s corr=0.9993
+  @90s corr=0.9997
+  @120s corr=0.9997
+  @150s corr=0.9990
+  @180s corr=0.9996
+  @210s corr=0.9981
+  @240s corr=0.9996
+  @260s corr=0.9995
+[PASS] audio agreement corr > 0.99 all windows min=0.9981
+decoded-PCM audio md5 lyrics master: f8371c2b5dbd9ebc389b9a11d1bc0428
+[PASS] audio PCM md5 == v7 base v7=f8371c2b5dbd9ebc389b9a11d1bc0428
+v7 untouched: 701fa50b19f6697fb37511dec6f932eb
+[PASS] v7 md5 unchanged 701fa50b19f6697fb37511dec6f932eb
+v6 untouched: b2d386bf138aa5e3b654a8382b7b68c0
+chat copy: /home/hatch/workspace/wubutv-network/musicvideo/MV-2_toll-roads-are-dumb/masters/mv2_toll_roads_are_dumb_v7_16x9_lyrics_chat.mp4
+chat size: 26418959 md5: 7d0c7aafdf925972f4ef904582a357b7
+[PASS] chat 854x480 24fps 854x480 24/1
+[PASS] chat frames exactly 6432 (decode-counted) 6432
+[PASS] chat duration 268.01s 268.010000
+[PASS] chat <= 50 MB 26418959 B
+audio PCM md5 house: f8371c2b5dbd9ebc389b9a11d1bc0428
+audio PCM md5 chat:  f8371c2b5dbd9ebc389b9a11d1bc0428
+[PASS] chat audio PCM md5 == house 
+ALL GATES PASS

@@ -1,0 +1,9 @@
+MV-29 FIX1 DELIVERED 2026-11-23 (parent-verified)
+House master: masters/mv29_dario-belongs-in-the-rubber-room_16x9_fix1.mp4
+md5 26239c687fd432c5bf40d32589d38774 · 79,513,425 B · 4445f / 185.216s · 1280x720 24fps CRF18 (proof 1.754x vs CRF-23 twin 93666ac1553bef90d4efd9d5fbd5e33d) · AAC 48kHz + mov_text + burned-in karaoke · corner bug · faststart
+Chat copy: masters/mv29_dario-belongs-in-the-rubber-room_16x9_fix1_50mb.mp4 md5 0156b19d797e75eba8371fd7eaff35eb · 35,895,861 B
+Fix scope: 20 of 25 scenes refired as real sung likeness takes (Dario + Jensen Huang) replacing the shipped build's drifted takes; S05/S15/S19/S20/S25 carry shipped takes. Cut structure unchanged (25 scene windows / 62 segments).
+Gates: warp-slope histogram PASS (rendered ratios 0.5005-1.9995, zero out-of-cap; capped-QP renderer only); pacing PASS (median shot 7.64s, zero sub-1s shots); sync 241 words scored, 224 within 120ms, 17 named over (worst "Rubber" +236ms S16 L27 structural at cap floor; "chips" +221ms S08).
+Disclosed: S17 L29 edges-only warp (song ASR hook-biased; interior drift bounded, not measured); S21 L40 anchors estimated from identical preceding hook; S14 internal boundary slipped 18f (frame total unchanged); S13 L24 plays over Huang/room coverage.
+Shipped master untouched: b63bd7a08330cab46bafec2be4101aab.
+Record: work/fix/ASSEMBLY_LEDGER.md + work/fix/COMPLETION.json (assembly section).

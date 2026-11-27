@@ -1,0 +1,20 @@
+== 1. probe ==
+video: {'codec_name': 'h264', 'width': 1280, 'height': 720, 'r_frame_rate': '24/1', 'duration': '228.791667', 'nb_frames': '5491', 'tags': {'language': 'und', 'handler_name': 'VideoHandler', 'encoder': 'Lavc62.28.102 libx264'}}
+audio: {'codec_name': 'aac', 'sample_rate': '48000', 'channels': 2, 'bit_rate': '195910'}
+== 2. frame count ==
+new: 5491f  base: 5491f  PASS
+== 3. SEI crf ==
+crf values: ['crf=18.0']
+== 4. faststart ==
+moov@36 mdat@158928 faststart=True
+== 5. decoded-PCM md5 (audio) ==
+new : MD5=047e89593aac4b584ff694c0ae5c3fa7
+base: MD5=047e89593aac4b584ff694c0ae5c3fa7
+PASS
+== 6. regression (text-free frames, mean |diff| new-vs-base) ==
+  t=0.3s new-vs-base 0.7587 new-vs-concat 0.6019
+  t=171.5s new-vs-base 1.2430 new-vs-concat 1.0261
+== 7. motion audit (near-still runs >=12f) ==
+new: 6 runs [(7, 35), (141, 22), (294, 82), (447, 18), (1265, 16), (3556, 12)]
+base: 9 runs [(7, 35), (141, 22), (294, 82), (447, 18), (900, 12), (1048, 12), (1265, 16), (2485, 13), (3556, 17)]
+new runs >=24f: [(7, 35), (294, 82)]  (not in base: [])

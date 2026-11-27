@@ -1,11 +1,31 @@
-# E3 PRODUCTION BRIEF TEMPLATE — v6 (2026-11-19, writing rework landed)
+# E3 PRODUCTION BRIEF TEMPLATE — v6 (2026-11-19, writing rework landed; v7 authorship rebuild 2026-11-25)
 
-**Status:** THE working brief skeleton for every E3 room. Supersedes
+**AUTHORSHIP — HARD RULE (user msg 748, 2026-11-20, STANDING —
+NO PROGRAMMATIC WRITING; MUSE WRITES):** The parent Muse
+writes every episode script personally, by hand, in the
+episode's SCRIPT file, BEFORE any brief exists. This template
+is NOT a script form and must never be used to generate, fill,
+template, or complete dialogue or script text — by a pipeline,
+a form-filler, or a delegated worker. Its only job is
+post-script: it is the parent's production record and private
+checklist for a script the parent has already written and
+locked — the fields carry the finished script's facts into
+video prompts, generation, and QC. Every gate, test, and
+sign-off named in this template is the parent's own checklist:
+the parent runs it, reads it, and judges; no check authors
+text, and no check verdict locks, blocks, or ships an episode
+by itself. Cold readers named in any field are advisory inputs
+to the parent's judgment, never co-authors and never a veto.
+
+**Status:** THE working brief skeleton for every E3 episode.
+Supersedes
 the de facto E1/E2 pattern (per-episode SCRIPT + VEHICLES +
-REFERENCE_STACK + work/GATE_LOG assembled ad hoc per room, governed
-by prose in the guides). An E3 episode brief is a filled copy of
-this file, living in the episode directory as `BRIEF.md`, with its
-gate record in `work/GATE_LOG.md` using the §5–§7 sections verbatim.
+REFERENCE_STACK + work/GATE_LOG assembled ad hoc per episode, governed
+by prose in the guides). An E3 episode brief is the parent's
+production record for one episode, living in the episode
+directory as `BRIEF.md`, written by the parent from the locked
+SCRIPT, with its QC record in `work/GATE_LOG.md` using the
+§5–§7 sections verbatim.
 
 **Provenance:** Pass 1 — the devil's-advocate audit of 2026-11-18
 (`research/devils-advocate-audit-20261118/AUDIT.md` §5, the Revised
@@ -85,16 +105,22 @@ proof objects / payload-last. Not imported: human micro-drama
 word budgets (a human-actor number), and no universal dialogue
 syntax — the evidence actively forbids one.
 
-## How the field-presence contract works
+## How the field-presence checklist works
 
 - Every field label in this template (the `SCREAMING_SNAKE` labels
-  and the headed blocks) is a contract. A gate — human or script —
-  checks a brief by searching for the labels and confirming none
-  is blank, `TBD`, or copied placeholder text.
-- **A unit whose mandatory fields are blank DOES NOT FIRE.** A
-  brief missing a whole section does not open. This is the
-  mechanism E2 never had: the law is checkable in the artifact,
-  so it cannot decay into ritual the way E1's gates did.
+  and the headed blocks) is an item on the parent's completeness
+  checklist. Before firing, the parent searches the brief for the
+  labels and confirms none is blank, `TBD`, or copied placeholder
+  text — a blank field means a fact from the parent's finished
+  script was not carried into the production record.
+- **A unit whose mandatory fields are blank is not ready to
+  fire** — the parent completes the record from the locked
+  script first. This is a checklist the parent runs on the
+  parent's own paperwork, not an automated gate and not a
+  judgement on the script: the script was already written and
+  judged by the parent before this brief existed. The checklist
+  exists so the law stays checkable in the artifact and cannot
+  decay into ritual the way E1's paperwork did.
 - Vocabulary rule (Pass 2, Angle 1): nothing in a brief may claim
   a voice or a face is "locked" by text. The permitted words are
   **bound** (an asset is attached: reference file, element ID,
@@ -150,18 +176,45 @@ thecontentlab01 study (msg 706) folds in at §2 (the
 COLLISION test beside `PETTY_WANT`) and §5.5 (empty caption
 over descriptive).
 
+**v7 delta (2026-11-25 — the authorship rebuild, user msg 748,
+2026-11-20, STANDING):** the user ruled that episode scripts
+are written by the parent Muse personally — no
+template-filled, gate-generated, or worker-authored scripts;
+tools serve writing (video prompts from finished scripts,
+research, generation); gates are the parent's private
+checklist, never author or judge. This template is rebuilt
+under that rule: the AUTHORSHIP hard rule stands at the top;
+the brief is re-scoped as the parent's post-script production
+record (the SCRIPT is authored first, by hand, elsewhere);
+every "gate," "ship blocker," and sign-off in §§2–§6 is
+re-described as an item on the parent's checklist whose
+verdict the parent weighs and decides; cold readers are
+advisory inputs, never co-authors or vetoes; master-stage
+check failures are recorded and disclosed under
+fail-once-then-ship instead of "never disclosure-shipped."
+No production law changes: the F-25 spoken-load caps, the
+Container Law, Camp B, the ear test, and the fail-once cap
+all stand exactly as written. `DIALOGUE_METHOD.md` and the
+episode-dialogue-production skill carry the same rebuild.
+
 ## §0 — Episode header (once per brief)
 
 ```
 SHOW: ____            EPISODE / PART: ____
 TITLE (funnel grammar): ____
+  (NEW-SLATE SHOWS — title ruling, writing loop fold 2026-11-27:
+   TITLE = the question the episode answers; the post CAPTION =
+   the episode SENTENCE (recorded verbatim in §2 LEGIBILITY).
+   Funnel-grammar titles are retired for new-slate shows.)
 REGISTER (v6 — show-level, declared in the show bible: the
   vernacular this show's dialogue lives in — vernacular
   name ____ · show-level carrier words ____ · temperature
   ____ (e.g. dry municipal deadpan; fruit-soap gloss over
   street slang; mock-formal minutes-speak); every §1 card
   states its REGISTER_DEVIATION against this declaration):
-CONTINUITY_OWNER: ____        (one named owner per episode — not the director, not "team")
+CONTINUITY_OWNER: the parent Muse (msg 748 — continuity is
+  the parent's own job, never delegated; this field records the
+  series RUNNING_BRIEF the episode was checked against): ____
 GENERATOR: model ____  version ____  mode ____
 MODEL_SYNTAX: veo-colon-noquotes / seedance-quotes / kling-quotes / other: ____
   (the speech-syntax rule in §4.9 follows THIS field; it is a model
@@ -212,6 +265,12 @@ EPISODE CAST HEADER (once per episode):
 
 CHARACTER: ____            CARD_VERSION: ____
 OFF_SCREEN: Y / N          (discussed but never shown)
+CAST_CLASS (learn-deeply 2026-11-27): principal / non-principal.
+  Principals are referenced (LOOK_PACK below). NON-PRINCIPALS
+  ARE NOT REFERENCED: their identity is one permanent
+  COSTUME_TOKEN — a garment or mark, named verbatim in every
+  prompt they appear in — and they are prompted per shot.
+  COSTUME_TOKEN: ____
 
 LOOK (bound, not described):
   LOOK_PACK: front_neutral ____ · three_quarter ____ · profile ____
@@ -239,6 +298,23 @@ VOICE (route per §0):
                   VOICE_SETTINGS{stability __, similarity __, style __, speed __} ·
                   ENROLLMENT_FILE ____ (path, duration __s, sha256 ____) ·
                   NATIVE_AUDIO: STRIP
+  TTS_SHEET (brainrot-prompting 2026-11-27 — ElevenLabs docs
+                  via Ekly; AI Prompt Geneer; MasterAI. Banked
+                  for the next narrator moment; the tiny-voca
+                  ON HOLD law, msg 730, is unchanged): the
+                  script text IS the performance score —
+                  ellipses = pause + weight · ONE CAPS word =
+                  emphasis · a dash = cut-off. Square-bracket
+                  delivery tags ([whispers], [sarcastic])
+                  1–2 per line, only where the feeling CHANGES
+                  (ElevenLabs v3/v4; [pause] is their break —
+                  SSML <break> belongs to older models only).
+                  Stability ~0.25 for character voices. Tags
+                  AMPLIFY a voice, never transform it: pick a
+                  voice that already contains the delivery.
+                  Numbers and symbols are spelled out; names
+                  are respelled phonetically with the stressed
+                  syllable in CAPS.
   If AUDIO_REFERENCE: VOICE_REF_CLIP ____ (5–30s, clean, single-speaker,
                   neutral; attached per speaking unit, §4.2) ·
                   BOUND_TONE_RULE: do not re-describe tone in the prompt
@@ -311,7 +387,30 @@ STATE (per episode):
 
 ---
 
-## §2 — Room gates before any vehicle is written (sign-off block)
+## §2 — Parent's pre-production checklist (recorded from the locked script, before any vehicle is written)
+
+*Every block in this section is the parent's own checklist,
+filled in by the parent from the script the parent wrote and
+locked. The cold reads (hear-before-it-moves, floor check,
+taste test) are checks the parent runs or commissions as
+inputs to the parent's judgment — their verdicts are recorded
+here as evidence, and the parent decides what they mean. No
+block in this section authors, completes, or approves script
+text.*
+
+**ANNEX CONSUMPTION STEP (added 2026-11-27, DA4 F1 — runs BEFORE
+drafting, not after lock):** before the parent drafts the script,
+extract the show's annex items from `new-era/NEW_SLATE_PACKET_2026-11-25.md`
+(Parts A–H) into the episode folder as `ANNEX_EXTRACT.md` — the
+per-show reading copies under `new-era/annex-by-show/` are the
+starting point; refresh them if a fold landed after the extract
+was made. (Standing rule, 2026-11-27: if the packet's annex has
+parts beyond the letter named here, the packet wins — update this
+line in the same pass as any future fold.) Script lock then requires the script header to cite
+the annex items consumed, using the packet's CONSUMPTION
+CHECKLIST line for the show (items used / items rejected). A
+script whose header cites no annex items has not consumed the
+packet and does not lock.
 
 ```
 STORYLINE DECLARATIONS (written at storyline pass, before dialogue):
@@ -357,7 +456,37 @@ STORYLINE DECLARATIONS (written at storyline pass, before dialogue):
     (a hanger may roll over only by paying interest in the same
     episode; an episode with no payment beat and no interest
     payment does not lock — DIALOGUE_METHOD.md Pass 3.4, HANGERS)
-PASS 3.5 — HEAR-BEFORE-IT-MOVES (F-26; blocking):
+LEGIBILITY (synthesis §3 as fields — added 2026-11-27, writing
+  loop fold, GAPS G2/G8/G9. The standard was guide-only: a script
+  could pass Stranger + Taste and still ship an absence for a
+  proof. These fields make §3 checkable in the brief; they are
+  recorded from the locked script like every §2 block):
+  SENTENCE (synthesis §3 item 0 — the episode as one published
+    sentence, verbatim; it ships as the post CAPTION, and every
+    beat in the episode is one of its clauses executed on
+    screen): "____"
+  FRAME_1_TABLEAU (§3 item 1 — protagonist / instrument of the
+    want / stakes object, composed in one frame, motion inside
+    the first second): ____
+  PROOF_PICTURE (§3 item 5 — the object held up or the bodily
+    event at the turn; an absence, a deduction, or a line of
+    text is NOT READY): ____
+  LOSS_PICTURE (§3 item 7 — the visible THING the loser loses,
+    shown in the same unit as the loser's face; a status in a
+    record is NOT READY): ____
+  RE-SPEND COUNT (§3 item 6 — units where the episode's one
+    mechanism is physically on screen and advancing): _ / 6
+    (≥4 required; no two merely-referring units adjacent)
+  PANTOMIME RETELL (§3 item 9b — the six unit tableaux retold
+    cold, frames only: who / want / obstacle / turn / payoff /
+    loser's face): PASS / FAIL
+  JOINTS (§3 item 6b — per seam, the joint between units:
+    U1→U2 ____ · U2→U3 ____ · U3→U4 ____ · U4→U5 ____ ·
+    U5→U6 ____ — each therefore / but; an AND-THEN seam is cut
+    or rebuilt before lock)
+  VERDICT_LEDGER read for this show's last verdict before
+    drafting (new-era/VERDICT_LEDGER.md): Y / N
+PASS 3.5 — HEAR-BEFORE-IT-MOVES (F-26; parent's checklist):
   reader (did not write the script): ____
   read_aloud_cold_in_order: Y / N     date: ____
   stumbles logged: ____  (each stumble returns to Pass 3 — list line IDs)
@@ -368,7 +497,10 @@ PASS 3.5 — HEAR-BEFORE-IT-MOVES (F-26; blocking):
    failure class, DIALOGUE_METHOD.md §2.)
   banter draft exists (conversation-heavy episodes, F-27): Y / N / NA
   SIGNED: ____
-PASS 3.6 — DIALOGUE BUILD (v3 — DIALOGUE_METHOD.md; blocking):
+PASS 3.6 — DIALOGUE BUILD RECORD (v3 — DIALOGUE_METHOD.md;
+  the parent's record of the parent's own drafting — the banter
+  draft and harvest are the parent's handwriting process, never
+  a step any tool or worker performs):
   BANTER_DRAFT: file ____  (A-10: one continuous two-voice
   TRANSCRIPT of the scene played in order — interruptions, wrong
   answers, overlaps in place — NOT a pool of candidate lines; each
@@ -379,13 +511,14 @@ PASS 3.6 — DIALOGUE BUILD (v3 — DIALOGUE_METHOD.md; blocking):
   offer / demand / refusal / complaint / bargain; "I want X" in
   dialogue is banned except one logged plea exception):
     ____ → move: ____      ____ → move: ____
-FLOOR_CHECK (STRANGER) — SCRIPT STAGE (v3 gate, DEMOTED to
+FLOOR_CHECK (STRANGER) — SCRIPT STAGE (v3 check, DEMOTED to
   a floor check 2026-11-19, v6 — it certifies plausibility,
   never quality, and may not be cited as evidence the writing
-  is good; the headline gate is TASTE_TEST below. Runs after
+  is good; the headline check is TASTE_TEST below. Runs after
   Pass 3.5, BEFORE script lock; input is the dialogue ONLY
   in colon form — annotations, pictures, premise stripped;
-  reader did not write the dialogue):
+  reader did not write the dialogue; the verdict is the
+  parent's checklist evidence, and the parent judges):
   reader: ____   date: ____
   Q1 want-recovery per speaker (ANNOUNCED = fail): ____
   Q2 exchange scoring (FILED ITS OWN STATEMENT on both lines of an
@@ -406,10 +539,14 @@ FLOOR_CHECK (STRANGER) — SCRIPT STAGE (v3 gate, DEMOTED to
      construction arriving after its earning event is
      SIGNATURE, not STAGE; a world-rule maxim stated before
      its teaching event remains STAGE)
-  (A script may NOT lock without stranger_verdict: PASS. A FAIL
-   returns the exchange to the banter draft — never to line-polish.)
+  (The parent weighs stranger_verdict before locking: a FAIL
+   sends the exchange back to the parent's banter draft —
+   never to line-polish — unless the parent rules otherwise in
+   writing in the GATE_LOG. The check informs the lock; the
+   parent locks.)
 TASTE_TEST — THE QUOTE-BACK TEST, SCRIPT STAGE (v6 — THE
-  HEADLINE GATE; blocking; DIALOGUE_METHOD §3A. The reader
+  HEADLINE CHECK on the parent's checklist; DIALOGUE_METHOD
+  §3A. The reader
   did not write the dialogue, has not read this brief, and
   gets the dialogue only, in order, read aloud once; then,
   WITHOUT LOOKING BACK):
@@ -425,11 +562,13 @@ TASTE_TEST — THE QUOTE-BACK TEST, SCRIPT STAGE (v6 — THE
     petty / shameless / obsessed / due; a neutral summary =
     FAIL): ____
   taste_verdict: PASS / FAIL
-  (PASS requires all three. A FAIL is repaired at the level
-   that failed — quotable → the QUOTABLE / the bits;
-   show-off → the RIZZ CARDs and the license; attitude → the
-   story input (PETTY_WANT / STATUS_CHANGE / FACE_AT_RISK) —
-   never by polishing the lines that were read.)
+  (PASS requires all three. A FAIL is the parent's signal to
+   repair at the level that failed — quotable → the QUOTABLE /
+   the bits; show-off → the RIZZ CARDs and the license;
+   attitude → the story input (PETTY_WANT / STATUS_CHANGE /
+   FACE_AT_RISK) — never by polishing the lines that were
+   read. The verdict is checklist evidence; the parent judges
+   and decides.)
 
 PASS 4 — SPOKEN-LOAD AUDIT: every unit's §4.1 block signed before
   the first video call. SIGNED: ____
@@ -445,6 +584,20 @@ still; every panel read back before use and logged with md5 +
 status; a panel depicting a unit's END state is labelled
 DESTINATION and may never be image 1; story-state errors in a
 panel are regenerated, not noted; still-layer rerolls uncapped.*
+
+*COMPOSITION IS WRITTEN INTO THE STILL PROMPT (brainrot-
+prompting 2026-11-27 — InVideo micro-drama; FLUX.2 docs;
+VIREL): placement, thirds, and shot size are stated in the
+panel prompt itself — never left to the aspect parameter,
+which sets the canvas, not the composition. Vertical: face in
+the top third, eyeline on the top-third line, bottom third
+kept quiet for captions, ONE subject per frame, alternating
+singles for dialogue. 16:9 confrontation: two-shot / OTS with
+named front and back roles and an explicit who-stays-sharp
+line. Still-prompt word order is priority order — subject
+first; 30–80 words is the working band (FLUX.2). Record per
+panel: composition_line (the placement/thirds/shot-size
+sentence as fired): ____*
 
 ```
 SEQUENCE GATE (Pass 1 §B.5 + Pass 2 animatic-era fields):
@@ -467,8 +620,9 @@ SEQUENCE GATE (Pass 1 §B.5 + Pass 2 animatic-era fields):
   reviewer (not the panel maker): ____
   SIGNED: ____
 
-ANIMATIC GATE (Pass 2, Angle 3 — NEW; both gates must PASS before
-any video generation call):
+ANIMATIC GATE (Pass 2, Angle 3 — NEW; both panel checks are on
+the parent's checklist before any video generation call —
+the parent reviews the reads and decides):
   animatic_file: ____  (PEAK panels at script durations + scratch
                    dialogue timing track)
   animatic_watched_at_speed_uninterrupted: Y / N
@@ -483,15 +637,84 @@ any video generation call):
   SIGNED: ____
 ```
 
+```
+STORYBOARD / CONTINUITY BLOCK (brainrot-prompting 2026-11-27
+— Astorie; Made; Prompt Architects; InVideo):
+  continuity_rules_block: ____ (the episode's continuity
+                   rules — cast, wardrobe states, set, light —
+                   written ONCE, carried VERBATIM, and kept
+                   structurally separate from the per-frame
+                   instructions; per-frame text never restates
+                   or paraphrases it)
+  grid_then_split: Y / N  (the sheet is generated as one grid
+                   under the instruction "six equal frames
+                   only, no captions/text/logos", then split
+                   into panels — frames are never generated
+                   one-by-one when a grid can carry them)
+  carry_forward: panel ____ from the previous sheet is handed
+                   to the next run, WITH a restated
+                   what-stays-the-same line: "____"
+  high_stakes_lock: ____ (compositions whose failure costs a
+                   unit are locked as a SINGLE STILL before any
+                   video spend on them — panel ID or none)
+  SIGNED: ____
+```
+
 ---
 
 ## §4 — Per-unit vehicle skeleton (repeat ×6, once per unit)
 
-*Prompt assembly order is fixed (Pass 1 §E): duration+aspect →
-previous END STATE quote → REFERENCE PRIORITY → LOOK/VOICE blocks
-verbatim → persona instance + acting fields → action sentences →
-SPEECH BLOCK last and isolated. Nothing speakable appears anywhere
-outside the speech block.*
+*Prompt assembly order is fixed (Pass 1 §E): GLOBAL SETTINGS
+header (§4.0) → duration+aspect → previous END STATE quote →
+REFERENCE PRIORITY → LOOK/VOICE blocks verbatim → persona
+instance + acting fields → action sentences → SPEECH BLOCK last
+and isolated. Nothing speakable appears anywhere outside the
+speech block.*
+
+**Amendment (2026-11-27, writing loop fold — GAPS G7): for
+new-slate shows, the unit shape is the EXCHANGE (synthesis §3
+item 4): two speakers may share a unit inside the F-25 caps;
+Camp B is a generation fallback for a failed take, not the
+script's unit grammar; §4.1 audits the exchange's TOTAL load,
+not a per-speaker load. "SPLIT TO CAMP B" is retired as a
+script-stage verdict (see §7 row 57) — it survives only at take
+stage, as a generation fallback for a take that failed as an
+exchange.**
+
+### 4.0 Global settings header (learn-deeply 2026-11-27)
+
+*Every vehicle OPENS with this header — the locks live where
+models read first, bookending the vehicle's closing locks (the
+§4.4 TEXT RULE and prohibition lines) where they read last. The
+music negative is never written alone: it is paired with the
+named ambient bed that replaces the music, or the model fills
+the vacuum with an invented score. (Evidence: the Flick corpus's
+GLOBAL SETTINGS discipline — 69 of 69 prompts in one film carry
+the header, music negative + named ambient bed in every one.)*
+
+```
+GLOBAL SETTINGS:
+  duration ____ · aspect ____
+  music: NONE — ambient bed instead: ____ (named per unit:
+         room tone / street air / rain on the roof — a positive
+         presence, not a vacuum)
+  audio_layers (brainrot-prompting 2026-11-27 — VIDEO AI ME,
+         Easton, Powtoon): the sound is specified in FOUR
+         layers, in mix-priority order — (1) DIALOGUE (§4.4
+         speech block); (2) SFX: ____ (discrete sounds only,
+         each tied to a visible action in this unit); (3)
+         AMBIENT BED: the named bed above, written with
+         concrete source nouns (a kettle, gulls, a fridge
+         hum — never a bare place label like "cafe
+         background"); (4) MUSIC: none. The header closes
+         with the published closer line, verbatim class:
+         "- No music, No logo, no text on screen."
+  house exclusions (constant, never improvised per unit):
+         no on-screen text · no subtitles · no morphing ·
+         no duplicate characters · no camera shake
+  arc / world: ____ · palette (hex, where the world carries
+         one): ____
+```
 
 ### 4.1 Spoken-load audit (Pass 2 replaces the F-25 cap — see §8)
 
@@ -527,7 +750,9 @@ SPOKEN-LOAD AUDIT — U_
   speech_window: generation_sec − silence_total = _s
   implied_rate: words_total / speech_window = _ wps
              [PASS ≤2.0 target · FAIL >2.5 — verdict is REWRITE
-              (shorten), SPLIT TO CAMP B, or MOVE TO CAMP C/D.
+              (shorten) or MOVE TO CAMP C/D. (SPLIT TO CAMP B
+              retired as a script-stage verdict 2026-11-27 —
+              take stage only; see the §4 preamble amendment.)
               "Compress / faster / squeeze" are banned delivery
               directions for an over-long line.]
   generation_sec: _   span_cost_sec: _  (the same number — CONTAINER
@@ -539,7 +764,9 @@ SPOKEN-LOAD AUDIT — U_
   non_speaker: mouth-closed line present? Y/N · moving-hold line present? Y/N
   audio_layers: dialogue + ____ = _  [spoken unit ≤3; no music under dialogue]
   framing_check: speaker medium close-up / facing / mouth unobstructed? Y/N
-  verdict: PASS / REWRITE / SPLIT TO CAMP B / MOVE TO CAMP C-D
+  verdict: PASS / REWRITE / MOVE TO CAMP C-D
+    (SPLIT TO CAMP B is a take-stage fallback only from
+     2026-11-27 — never a script-stage verdict; §7 row 57)
   SIGNED (Pass 4): ____
 ```
 
@@ -564,6 +791,13 @@ REFERENCE PRIORITY:
 REFS_BOUND: ____ (which LOOK_PACK slots / element IDs are attached
   to THIS generation; an unbound unit is text-only and gets the
   stricter gate)
+  CURRENT STATE PER REFERENCE LINE (learn-deeply 2026-11-27 —
+  every reference line in this block also states the element's
+  CURRENT STATE: wardrobe state ID · body-ledger state · prop
+  in hand · condition. This is the prompt-text twin of
+  last-frame chaining: the chain is image-level, the state line
+  is word-level, and the words survive a chain break that loses
+  the frame.)
 PRIMARY_BOUND_CHARACTER (two-character units): ____
   (the other character is declared prompt-carried)
 VOICE_REF_CLIP attached (AUDIO_REFERENCE route): ____ / NA
@@ -593,6 +827,12 @@ CHAIN: outgoing last frame (harvested after conform) = image 1 ·
   gated PEAK = image 2. Snapshot/resume chaining is NOT a
   continuity mechanism until the video-api lab's specified test is
   run and recorded (Pass 1 F7).
+COMPOSITION_REF (learn-deeply 2026-11-27 — sketch-first class,
+  ESCALATION ONLY): a drawn/blocked composition image whose only
+  job is framing: ____ / NONE. It carries composition and NO
+  identity — nothing in it can drift a face. Used for shots that
+  keep failing on staging, never as a default; a unit that needed
+  one logs it here, so the staging-failure class stays visible.
 ```
 
 ### 4.3 Persona and acting (per speaking character)
@@ -601,6 +841,13 @@ CHAIN: outgoing last frame (harvested after conform) = image 1 ·
 PERSONA_INJECTION: PER_UNIT — behaviour entries restated here, at
   the head or tail of this unit's block, never only at episode head:
   ____
+REGISTER_CITATION (learn-deeply 2026-11-27): the show REGISTER
+  (§0) and this unit's speakers' CARRIER_WORDS (§1 RIZZ CARD)
+  are cited here by name, the way a reference is cited:
+  register ____ · carrier words in play this unit: ____
+  (audio cohesion is series identity — the audience hears the
+  register the way it sees a face; the platforms now bind voice
+  to the character asset itself, and we cite it in text.)
 PERSONA_TRANSLATION (1 line — persona as renderable this unit:
   posture / gesture habit / gaze / tempo / line-reading): ____
   (if empty, the gate log declares the persona leg decorative for
@@ -630,6 +877,11 @@ END STATE (the pin — four sub-fields, no free-text-only end states):
   end_state.wardrobe: garments + colours ____
   end_state.prop: prop, which hand / surface, state (full/empty/open/closed) ____
   end_state.light: direction + colour temperature in words ____
+  (learn-deeply 2026-11-27 — the pin is also spoken in the text:
+   the ACTION / SCENE SENTENCES below CLOSE by restating this
+   end state in prose. A shot whose text carries no end state
+   tends to drift or cut early; the field alone does not reach
+   the model — the sentence does.)
 ACTION / SCENE SENTENCES: renderable content only — no staging
   vocabulary, no gate language, no in-world text words; silence and
   non-speech described positively. State changes happen ACROSS the
@@ -714,12 +966,37 @@ TEXT RULE: this vehicle contains no words of any in-world text.
   at assembly — never a fallback for a failed generation. A take
   with legible invented text on a declared-blank surface is a
   reject class, not a nit (Pass 1 F10).
+  IN-WORLD TEXT TECHNIQUE (brainrot-prompting 2026-11-27 —
+  Ideogram docs; FLUX.2 docs; Memons — applies ONLY where a
+  unit's text is deliberately carried in the generation, e.g.
+  a painted count or a worn number, never as an exception to
+  the blank-surface rule above): the exact words in DOUBLE
+  quotes (single quotes fail on Midjourney-class models),
+  placed EARLY in the prompt, 1–4 words per block; lettering
+  described by TRAITS (hand-painted, uneven, chalk) + colour
+  (FLUX.2 takes a hex), never by font name; every text block
+  gets its own words / style / place, listed in reading
+  order. Ideogram is the strongest published text renderer;
+  Magic Prompt stays OFF for text work. Record per block:
+  text_block ____ = "____" · traits ____ · colour ____ ·
+  surface ____. Caveat: no published guide addresses worn
+  forehead numbers specifically — this is extrapolation from
+  text-on-object documentation, and the first production use
+  is a measurement, not a confirmation.
 DURATION + ASPECT line: ____
 ```
 
 ---
 
 ## §5 — GATE_LOG sections (per episode, in `work/GATE_LOG.md`)
+
+*The GATE_LOG is the parent's QC record for the finished
+script's production: per-take checks, voice and joint checks,
+and the master checks. Nothing in this section writes or
+judges script text — the script was locked by the parent
+before production; these records measure the takes and the
+master against it, and every verdict is the parent's to weigh
+under the fail-once cap.*
 
 ### 5.1 Per-take QC (one block per take)
 
@@ -844,8 +1121,12 @@ EAR TEST SIGN-OFF (F-13; the finished master's own transcript read
   ear_full_master_listened_at_speed: Y / N
   ear_reviewer (not the take maker): ____
   ear_verdict: PASS / FAIL · ear_fail_lines: ____ (IDs + heard-as text)
-GATE (f) — THE COLD RUN (Pass 2, Angle 3 — NEW; ship blocker; runs
-  after the ear test, on the artefact the viewer actually receives):
+GATE (f) — THE COLD RUN (Pass 2, Angle 3 — NEW; the parent's
+  final master check; runs
+  after the ear test, on the artefact the viewer actually receives.
+  A REPAIR-AND-RERUN verdict is the parent's strongest checklist
+  signal; under fail-once-then-ship it spends the unit's one
+  refire, and past the cap the result is disclosed, not hidden):
   cold_reviewer (did not make this episode): ____
   cold_pass1_at_speed_no_pause: Y / N
   cold_understood: Y / N
@@ -888,10 +1169,14 @@ FLOOR CHECK (STRANGER) — MASTER (v3 gate, DEMOTED to a floor
   stage_lines: ____  (≥2 = fail; reasons quoted verbatim)
   Q4 gossip retell vs locked story: ____
   stranger_master_verdict: PASS / FAIL
-    (FAIL = story-gate failure class: repaired, never
-    disclosure-shipped; repair returns to the room's banter draft)
+    (FAIL is recorded in full and disclosed at delivery; under
+    fail-once-then-ship the best take ships past the cap with
+    the flaw disclosed, and any repair the parent orders
+    returns to the parent's banter draft — the parent decides,
+    the check does not)
 TASTE TEST (MASTER) — THE QUOTE-BACK TEST (v6 — THE HEADLINE
-  GATE at master stage; ship blocker; DIALOGUE_METHOD §3A;
+  CHECK at master stage, on the parent's checklist;
+  DIALOGUE_METHOD §3A;
   runs beside Gate (f) on the finished master's OWN
   transcript, dialogue only. The reader did not write the
   dialogue and has not read the brief; the dialogue is read
@@ -906,10 +1191,12 @@ TASTE TEST (MASTER) — THE QUOTE-BACK TEST (v6 — THE HEADLINE
     sentences, + the JUDGMENT word the retell carried; a
     neutral summary = FAIL): ____
   taste_master_verdict: PASS / FAIL
-    (PASS requires all three. FAIL = taste failure: repaired
-    at the level that failed — quotable / show-off / story
-    input — never by polishing lines; a taste-failed master
-    does not ship.)
+    (PASS requires all three. FAIL = taste failure on the
+    parent's checklist: repaired at the level that failed —
+    quotable / show-off / story input — never by polishing
+    lines; past the fail-once cap the master ships with the
+    failure disclosed plainly in the delivery. The parent
+    judges; the check never ships or blocks by itself.)
 CALIBRATION LEDGER (cumulative, series-level file): every machine
   flag above is logged with the human verdict it triaged to —
   flag_outcome: true-drift / false-alarm / missed-by-flag-caught-by-eye.
@@ -950,12 +1237,15 @@ CAPTION_RULE (one-line platform captions on our own posts REACT;
 
 ---
 
-## §6 — Field-presence checklist (the gate's grep contract)
+## §6 — Field-presence checklist (the parent's grep checklist)
 
-A brief is fireable only when every label below is present and
-non-blank in its artifact. This list IS the check — if a future
-amendment adds a rule, it adds a label here in the same commit, or
-the rule does not exist.
+Before firing, the parent confirms every label below is present
+and non-blank in the brief. This list IS the parent's completeness
+check — a missing label means a fact from the finished script was
+not carried into the production record; it is a reminder to the
+parent, never an automated veto and never a judgement on the
+script. If a future amendment adds a rule, it adds a label here
+in the same commit, or the rule does not exist.
 
 - Brief header: `VOICE_ROUTE` · `MODEL_SYNTAX` · `CONTINUITY_OWNER` ·
   `REGISTER` · `SHOW_OFF`
@@ -971,6 +1261,10 @@ the rule does not exist.
   `FACE_AT_RISK` · `QUOTABLE` · `STANDALONE_BEAT` ·
   `FLOOR_CHECK (STRANGER)` (`stranger_verdict`) · `TASTE_TEST` ·
   Pass 4 sign-off
+- Legibility (§2, synthesis §3 as fields): `SENTENCE` ·
+  `FRAME_1_TABLEAU` · `PROOF_PICTURE` · `LOSS_PICTURE` ·
+  `RE-SPEND COUNT` · `PANTOMIME RETELL` · `JOINTS` ·
+  `VERDICT_LEDGER` read line
 - Panels: `SEQUENCE GATE` signed · `ANIMATIC GATE` signed
 - Per unit: `SPOKEN-LOAD AUDIT` (incl. `measured_sec`,
   `implied_rate`, `span_cost_sec`) · `PREV END STATE` ·
@@ -1055,8 +1349,12 @@ the rule does not exist.
 | 53 | **v6:** the Stranger Test demoted to `FLOOR_CHECK (STRANGER)` (§2 + §5.4) with the SIGNATURE EXEMPTION and the one-round REPAIR CAP; the headline gate is the QUOTE-BACK TEST — `TASTE_TEST` in §2, `TASTE TEST (MASTER)` in §5.4 | Q3 cannot distinguish a dead maxim from a live signature and executed both; iterated cold-reader repair is a one-way gradient that only subtracts (T-0 / T-2) |
 | 54 | **v6:** the DELIGHT target class — the audience-target cut rule retired (§4.4 `line_target`); the episode's SHOW-OFF carries DELIGHT unrationed, every other character via the one grievance beat | The move ledger banned charisma by construction: a line aimed at the audience's delight was cut by rule (T-4) |
 | 55 | **v6:** §5.5 caption feedstock — the caption is written from the episode's `QUOTABLE`; if no quotable carries it, the caption is EMPTY rather than descriptive (fold-in) | A-12 named the reaction but not its feedstock; thecontentlab01's premise-captions and clipcraft7's EMPTY CAPTION converge on text-refusal as the mature form (msg 706 study; clipcraft7 study) |
+| 56 | **v7 (2026-11-25):** AUTHORSHIP hard rule at the head of the template; the brief re-scoped as the parent's post-script production record and private checklist; all "gate / ship blocker / sign-off" language in §§2–§6 re-described as parent's-checklist items the parent weighs and decides; master-stage check failures disclosed under fail-once-then-ship instead of "never disclosure-shipped"; `CONTINUITY_OWNER` fixed as the parent. No field, cap, or production rule changed | User msg 748 (2026-11-20, STANDING): scripts are written by the parent personally — no template-filled, gate-generated, or worker-authored scripts; gates are the parent's checklist, never author or judge. The v6 form's fill-in contract and multi-reader sign-off chain let the paperwork read as a script-producing pipeline; the rebuild keeps every field as a record of the finished script and removes the pipeline reading |
+| 57 | **v8 (2026-11-27, writing loop fold):** §2 LEGIBILITY block added (`SENTENCE` / `FRAME_1_TABLEAU` / `PROOF_PICTURE` / `LOSS_PICTURE` / `RE-SPEND COUNT` / `PANTOMIME RETELL` / `JOINTS` / `VERDICT_LEDGER` read line) + §6 labels; ANNEX CONSUMPTION STEP corrected to Parts A–H with the standing packet-wins rule; §4 preamble amendment — the EXCHANGE is the new-slate unit shape, Camp B demoted to a generation fallback, §4.1 audits the exchange's total load; `SPLIT TO CAMP B` retired as a script-stage verdict (§4.1, take stage only); §0 title ruling for new-slate shows (TITLE = the question the episode answers; CAPTION = the episode SENTENCE; funnel-grammar titles retired for the new slate) | Writing loop GAPS G2/G3/G7/G9/G12.3 (user msg 1253): the legibility synthesis §3 was guide-only in this artifact — no field asked for the sentence, the proof picture, or the loss picture; the annex step still named Parts A–E in an A–H world; the Exchange Rule and Camp B stood unreconciled as rival unit grammars; no step required reading the user's verdicts before drafting. Synthesis §3 gained item 6b (the joint test) in the same fold |
 
 *Full evidence, grades and sources: `research/recursive-improvement-20261118-pass2/REPORT.md` + the three ANGLE files it synthesizes. v3 rows: `research_notes/dialogue-method-rebuild-20261118/DIAGNOSIS.md` + `THE_STANDARD.md` + `DIALOGUE_METHOD.md`. v4 rows: `research_notes/case-study-writing-themes-20261118/AMENDMENTS.md` + `WRITINGS.md` + `THEMES.md`. v5 rows: `research_notes/online-writing-research-20261118/REPORT.md` + `SOURCES.md` + `AMENDMENTS_2.md`.*
 
-— End of template v6. Amend by dated addendum; never edit a field
-out silently — a removed field is a removed gate.
+— End of template v6 (authorship rebuild v7, 2026-11-25;
+writing-loop fold v8, 2026-11-27 — see §7 row 57). Amend
+by dated addendum; never edit a field
+out silently — a removed field is a removed checklist item.

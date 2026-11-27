@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Karaoke,DejaVu Sans,30,&H0000FFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.78,0:00:04.58,Karaoke,,0,0,0,,{\k76}Thanksgiving {\k64}is {\k40}here
+Dialogue: 0,0:00:05.86,0:00:08.10,Karaoke,,0,0,0,,{\k76}I’m {\k44}proud {\k26}of {\k24}my {\k54}wife
+Dialogue: 0,0:00:15.96,0:00:18.18,Karaoke,,0,0,0,,{\k76}Thanksgiving {\k76}is {\k16}a {\k24}big {\k30}day
+Dialogue: 0,0:00:18.18,0:00:19.88,Karaoke,,0,0,0,,{\k80}Family {\k42}comes {\k20}to {\k28}eat
+Dialogue: 0,0:00:19.88,0:00:21.90,Karaoke,,0,0,0,,{\k22}We {\k22}give {\k68}thanks {\k34}for {\k20}the {\k36}food
+Dialogue: 0,0:00:21.90,0:00:23.84,Karaoke,,0,0,0,,{\k18}And {\k26}for {\k22}the {\k42}people {\k32}we {\k54}meet
+Dialogue: 0,0:00:23.84,0:00:26.00,Karaoke,,0,0,0,,{\k106}Turkey {\k44}on {\k18}the {\k48}table
+Dialogue: 0,0:00:26.00,0:00:27.90,Karaoke,,0,0,0,,{\k110}Stuffing {\k18}on {\k16}the {\k46}side
+Dialogue: 0,0:00:27.90,0:00:29.84,Karaoke,,0,0,0,,{\k38}Mashed {\k66}potatoes {\k30}and {\k60}gravy
+Dialogue: 0,0:00:29.84,0:00:31.58,Karaoke,,0,0,0,,{\k74}Everything {\k34}cooked {\k28}just {\k38}right
+Dialogue: 0,0:00:31.58,0:00:33.84,Karaoke,,0,0,0,,{\k34}My {\k34}wife {\k36}made {\k32}the {\k38}whole {\k52}dinner
+Dialogue: 0,0:00:33.84,0:00:35.68,Karaoke,,0,0,0,,{\k52}It {\k32}tastes {\k26}so {\k30}very {\k44}good
+Dialogue: 0,0:00:35.68,0:00:37.64,Karaoke,,0,0,0,,{\k94}I’m {\k24}so {\k36}proud {\k20}of {\k22}her
+Dialogue: 0,0:00:37.64,0:00:39.56,Karaoke,,0,0,0,,{\k18}She {\k30}cooked {\k24}like {\k28}no {\k42}one {\k50}could
+Dialogue: 0,0:00:39.56,0:00:42.84,Karaoke,,0,0,0,,{\k146}So {\k58}proud {\k26}of {\k34}my {\k64}wife
+Dialogue: 0,0:00:43.96,0:00:46.70,Karaoke,,0,0,0,,{\k82}For {\k28}this {\k62}Thanksgiving {\k102}feast
+Dialogue: 0,0:00:48.12,0:00:52.36,Karaoke,,0,0,0,,{\k82}The {\k66}turkey {\k52}is {\k44}not {\k40}the {\k68}only {\k72}thing
+Dialogue: 0,0:00:52.36,0:00:54.22,Karaoke,,0,0,0,,{\k62}Being {\k52}stuffed {\k72}tonight
+Dialogue: 0,0:00:55.98,0:00:58.76,Karaoke,,0,0,0,,{\k82}So {\k62}proud {\k22}of {\k36}my {\k76}wife
+Dialogue: 0,0:01:00.20,0:01:02.64,Karaoke,,0,0,0,,{\k38}For {\k26}this {\k64}Thanksgiving {\k116}feast
+Dialogue: 0,0:01:03.86,0:01:08.22,Karaoke,,0,0,0,,{\k84}The {\k68}turkey {\k54}is {\k44}not {\k42}the {\k64}only {\k80}thing
+Dialogue: 0,0:01:08.22,0:01:10.30,Karaoke,,0,0,0,,{\k58}Being {\k52}stuffed {\k98}tonight
+Dialogue: 0,0:01:12.90,0:01:14.98,Karaoke,,0,0,0,,{\k84}Cranberry {\k50}sauce {\k38}is {\k36}sweet
+Dialogue: 0,0:01:14.98,0:01:17.26,Karaoke,,0,0,0,,{\k36}The {\k32}pie {\k24}is {\k46}warm {\k22}and {\k68}nice
+Dialogue: 0,0:01:17.26,0:01:19.24,Karaoke,,0,0,0,,{\k116}Everyone {\k44}is {\k38}happy
+Dialogue: 0,0:01:19.24,0:01:20.92,Karaoke,,0,0,0,,{\k44}Eating {\k44}more {\k34}than {\k46}twice
+Dialogue: 0,0:01:20.92,0:01:23.10,Karaoke,,0,0,0,,{\k82}The {\k42}table {\k30}is {\k28}so {\k36}full
+Dialogue: 0,0:01:23.10,0:01:25.08,Karaoke,,0,0,0,,{\k58}The {\k34}food {\k18}is {\k20}all {\k28}so {\k40}good
+Dialogue: 0,0:01:25.08,0:01:26.94,Karaoke,,0,0,0,,{\k60}My {\k32}wife {\k28}did {\k22}all {\k20}the {\k24}work
+Dialogue: 0,0:01:26.94,0:01:28.74,Karaoke,,0,0,0,,{\k20}She {\k30}cooked {\k24}just {\k26}like {\k32}she {\k48}should
+Dialogue: 0,0:01:28.74,0:01:31.06,Karaoke,,0,0,0,,{\k42}My {\k30}wife {\k40}made {\k32}the {\k42}whole {\k46}dinner
+Dialogue: 0,0:01:31.06,0:01:32.94,Karaoke,,0,0,0,,{\k52}It {\k30}tastes {\k26}so {\k30}very {\k50}good
+Dialogue: 0,0:01:32.94,0:01:34.84,Karaoke,,0,0,0,,{\k92}I’m {\k22}so {\k36}proud {\k24}of {\k16}her
+Dialogue: 0,0:01:34.84,0:01:36.92,Karaoke,,0,0,0,,{\k24}She {\k28}cooked {\k22}like {\k26}no {\k42}one {\k66}could
+Dialogue: 0,0:01:37.62,0:01:40.08,Karaoke,,0,0,0,,{\k66}So {\k58}proud {\k24}of {\k38}my {\k60}wife
+Dialogue: 0,0:01:41.64,0:01:43.98,Karaoke,,0,0,0,,{\k38}For {\k26}this {\k66}Thanksgiving {\k104}feast
+Dialogue: 0,0:01:45.66,0:01:49.70,Karaoke,,0,0,0,,{\k52}The {\k66}turkey {\k48}is {\k46}not {\k40}the {\k64}only {\k88}thing
+Dialogue: 0,0:01:49.70,0:01:51.44,Karaoke,,0,0,0,,{\k52}Being {\k54}stuffed {\k68}tonight
+Dialogue: 0,0:01:53.02,0:01:55.90,Karaoke,,0,0,0,,{\k84}So {\k76}proud {\k22}of {\k40}my {\k66}wife
+Dialogue: 0,0:01:53.02,0:01:55.90,Karaoke,,0,0,0,,{\k84}So {\k76}proud {\k22}of {\k40}my {\k66}wife
+Dialogue: 0,0:01:55.90,0:01:59.84,Karaoke,,0,0,0,,{\k190}For {\k26}this {\k68}Thanksgiving {\k110}feast
+Dialogue: 0,0:02:01.40,0:02:05.46,Karaoke,,0,0,0,,{\k52}The {\k68}turkey {\k50}is {\k44}not {\k48}the {\k62}only {\k82}thing
+Dialogue: 0,0:02:05.46,0:02:07.50,Karaoke,,0,0,0,,{\k54}Being {\k60}stuffed {\k90}tonight
+Dialogue: 0,0:02:10.14,0:02:11.54,Karaoke,,0,0,0,,{\k140}Thanksgiving
+Dialogue: 0,0:02:11.54,0:02:13.60,Karaoke,,0,0,0,,{\k140}Family {\k66}meal
+Dialogue: 0,0:02:13.60,0:02:15.56,Karaoke,,0,0,0,,{\k122}Turkey {\k74}good
+Dialogue: 0,0:02:15.62,0:02:17.54,Karaoke,,0,0,0,,{\k108}Stuffing {\k84}good
+Dialogue: 0,0:02:17.54,0:02:19.52,Karaoke,,0,0,0,,{\k100}So {\k98}proud
+Dialogue: 0,0:02:19.52,0:02:23.38,Karaoke,,0,0,0,,{\k96}So {\k290}proud
+Dialogue: 0,0:02:23.38,0:02:27.44,Karaoke,,0,0,0,,{\k222}So {\k64}proud {\k20}of {\k34}my {\k66}wife
+Dialogue: 0,0:02:27.44,0:02:31.28,Karaoke,,0,0,0,,{\k188}For {\k28}this {\k68}Thanksgiving {\k100}feast
+Dialogue: 0,0:02:31.28,0:02:37.04,Karaoke,,0,0,0,,{\k220}The {\k68}turkey {\k50}is {\k44}not {\k42}the {\k62}only {\k90}thing
+Dialogue: 0,0:02:37.04,0:02:39.02,Karaoke,,0,0,0,,{\k52}Being {\k56}stuffed {\k90}tonight
+Dialogue: 0,0:02:39.58,0:02:43.00,Karaoke,,0,0,0,,{\k176}So {\k62}proud {\k32}of {\k32}my {\k40}wife
+Dialogue: 0,0:02:44.74,0:02:47.22,Karaoke,,0,0,0,,{\k36}For {\k26}this {\k82}Thanksgiving {\k104}feast
+Dialogue: 0,0:02:48.56,0:02:52.74,Karaoke,,0,0,0,,{\k68}The {\k68}turkey {\k48}is {\k46}not {\k40}the {\k68}only {\k80}thing
+Dialogue: 0,0:02:52.74,0:02:54.54,Karaoke,,0,0,0,,{\k60}Being {\k56}stuffed {\k64}tonight
+Dialogue: 0,0:02:54.54,0:02:59.00,Karaoke,,0,0,0,,{\k268}Being {\k64}stuffed {\k114}tonight
+Dialogue: 0,0:03:01.62,0:03:05.90,Karaoke,,0,0,0,,{\k140}So {\k86}proud {\k34}of {\k50}my {\k118}wife
+Dialogue: 0,0:03:07.68,0:03:10.56,Karaoke,,0,0,0,,{\k140}Thanksgiving {\k104}is {\k44}good

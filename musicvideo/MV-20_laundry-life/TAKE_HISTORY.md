@@ -8,7 +8,7 @@
 | mv20_s05_t1 | 592000cc | 0.929 | PASS (mean 5.64, run 19f) | KEEP | Slam Load lands: profile load, door slam, head-lean sing; flag: lean tail slow (19f run, under bar) |
 | mv20_s09_t1 | 56c1819b | 1.000 | PASS (mean 7.00, run 2f) | KEEP | The Crown lands: basket crown, deadpan regal, full hook |
 | mv20_s13_t1 | 75705fc8 | 0.750 | PASS (mean 5.03, run 0f) | SPARE | Statue Pile staging lands BUT the take sings "Still on the floor" once, not twice (generator compression of repeated lines); refire S13 t2 with both performances demanded |
-| mv20_s23_t1 | d0dffad6 | 1.000 | FAIL (mean 0.92, run 83f) | KEEP (ship) | Confession Wash: staging + all 3 lines land, but the dark quiet take is near-static at thumbnail scale (83f near-dup run); refire t2 on the MOTION axis (rocking sway, head turns, hand pats). SHIP DECISION (Volley 6): t1 shipped via conform slow push-in — see CUTLIST §S23 (segment md5 b69c8884) and GATE_LOG; verdict corrected SPARE→KEEP (ship) 2026-11-18. |
+| mv20_s23_t1 | d0dffad6 | 1.000 | FAIL (mean 0.92, run 83f) | SPARE | Confession Wash: staging + all 3 lines land, but the dark quiet take is near-static at thumbnail scale (83f near-dup run); refire t2 on the MOTION axis (rocking sway, head turns, hand pats) |
 
 G2 (zero text): full-sheet eye check on all six — no readable text
 (appliance dials small/unreadable). G1 identity: RAE consistent in

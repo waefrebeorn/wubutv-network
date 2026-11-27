@@ -98,13 +98,3 @@ t1s are not used anywhere in the master.
   phoneme-accurate lipsync is claimed. All takes demonstrably sing their
   exact lines on camera (G7 = 1.00 on every shipped singing take except
   S16 t2 at 0.889, one dropped function word).
-
-## SUBTITLE FIX (2026-11-20)
-
-User flagged (msgs 793/794) that the delivered master showed no subtitles when watched: it carried only a soft mov_text track, which chat/Telegram/social players do not render. The timed data was never lost (work/swing/lyrics.srt + SONG_WORDS.json); what was missing was the house-standard burned-in karaoke layer (per MV-2 v7).
-
-- ASS built from the SRT line cues + SONG_WORDS.json word timings; displayed text is the sheet lyric line, \k sweep per word. ASS: work/subsfix_karaoke.ass. Cues: 60 total, 60 \k-covered, 0 plain fallbacks.
-- Subs master: masters/mv25_turkeys_not_the_only_one_16x9_subs.mp4 — md5 bd123b57dca9b9bc94f9d975daa77167, 102,265,159 B, 4704f, 196.010s. Encoded from the house master (subtitles filter, CRF 18, audio copied, mov_text kept, faststart). The delivered house master is untouched.
-- Chat copy: masters/mv25_turkeys_not_the_only_one_chat_subs.mp4 — md5 166aa7a719b7ab167d953c4871426f3b, 46,276,681 B.
-- Verification: ffprobe 1280x720 / 24fps / 4704f / AAC + mov_text present; freezedetect 0 events; frame grabs at 3.6s ("Thanksgiving is" yellow, "here" white) and 50.5s ("The turkey is not" yellow, "the only thing" white) confirm the bar and the word-by-word yellow sweep. Full record: SUBS_FIX.json.
-- Note: the copies of MV-25 already posted to Instagram/Threads on 2026-11-20 carry the soft track only; replacing those posts is the user's call.

@@ -1,0 +1,26 @@
+mv14_kinetic_part1.ass: 250 events
+mv14_kinetic_part2.ass: 175 events
+straddling events (clamped/split): 15
+   ('0:01:10.74', '0:01:16.99', '{\\an7\\1c&H1B3AE2\\bord0\\shad0\\move(-163,6')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(96,576)\\')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(195,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(333,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(491,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(610,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(689,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(788,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(847,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(946,576)')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(1045,576')
+   ('0:01:10.74', '0:01:16.99', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(1084,576')
+   ('0:01:15.46', '0:01:16.66', '{\\fnNoto Sans Mono\\fs38\\an4\\pos(1084,576')
+   ('0:01:16.54', '0:01:18.07', '{\\an1\\pos(40,692)\\fs30\\fnNoto Sans Mono}')
+   ('0:00:00.00', '0:02:41.60', '{\\an3\\pos(1252,692)\\fs22\\alpha&H80&}~ Wu')
+final_concat_part1.txt: 32 files (S01, S02, S03...S32)
+final_concat_part2.txt: 33 files (S33, S34, S35...S65)
+half1 frames: 1837 (expect 1837); half2 frames: 2041 (expect 2041); total 3878 (expect 3878)
+encoding half 1 ...
+half 1: 1837f (expect 1837), 46512544 B
+encoding half 2 ...
+half 2: 2041f (expect 2041), 51046180 B
+SPLIT ENCODE OK

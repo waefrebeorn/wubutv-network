@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-25T00:02:22Z",
+ "scanned_utc": "2026-11-27T20:01:57Z",
  "items": [
   {
    "id": "MV-2",
@@ -930,6 +930,66 @@
    "audio_fp": {
     "md5_60s": "0658d4b4263b8fa6d924423af7366eea",
     "rms_db": -17.42,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-33",
+   "title": "Glue Your Shit Smooth On, It Is Not Over",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-33_glue-your-shit-smooth-on/masters/mv33_glue-your-shit-smooth-on_16x9_50mb.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-24",
+   "blam_class": null,
+   "house_path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-33_glue-your-shit-smooth-on/masters/mv33_glue-your-shit-smooth-on_16x9.mp4",
+   "delivery_encode": true,
+   "exists": true,
+   "size": 37120990,
+   "mtime": 1795532078,
+   "md5": "2513537d8c78e947150a6a0e0ac8e905",
+   "duration_s": 197.62,
+   "frames": 4743,
+   "phash": [
+    "cf86cb93cad35ae34a675aed5ad8d4cd0c498ce88cf095c025c121c149c4c9e8",
+    "6553697399739363596359f29cb30cb34cf1e8c318cb1cc31de119b319334f31",
+    "4b5e4a9e189c18dc61cc4d85678d46ad05c5c5c6d1cbd9c399d311d721b721e3"
+   ],
+   "audio_fp": {
+    "md5_60s": "eff156fbce72ccf73423dc01fb88d3cf",
+    "rms_db": -20.94,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MV-34",
+   "title": "Jensen's Back",
+   "kind": "music-video",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/musicvideo/MV-34_jensens-back/masters/mv34_jensens-back_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": "2026-11-24",
+   "blam_class": null,
+   "exists": true,
+   "size": 17520525,
+   "mtime": 1795563560,
+   "md5": "95765c98411f77954479f01229923f41",
+   "duration_s": 60.42,
+   "frames": 1450,
+   "phash": [
+    "00f9587e48c80d2c094b25cb0ccf0627079e0155035500e90185001400810081",
+    "03f821f02b702330433026304c305c785968312c330cf10cf148f0c0e0bbe2b1",
+    "336d25db48cb0c9b0cdf44db0e3d0a8d14a50e17360b6323c12001080168016d"
+   ],
+   "audio_fp": {
+    "md5_60s": "3371e173099472634302801e95759b85",
+    "rms_db": -18.95,
     "seconds": 60.0
    }
   },
@@ -2766,6 +2826,64 @@
     "md5_60s": "ef457787f4b21a03cbfc810056fdc1d3",
     "rms_db": -20.57,
     "seconds": 60.13
+   }
+  },
+  {
+   "id": "MORPH-HOLD-ON-E3-PART2",
+   "title": "HOLD ON E3 Part 2 \u2014 Write That I Paid",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_part2_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-24",
+   "blam_class": null,
+   "exists": true,
+   "size": 21947820,
+   "mtime": 1795509863,
+   "md5": "8bce866379c109b22ceefe78757fad05",
+   "duration_s": 60.04,
+   "frames": 1440,
+   "phash": [
+    "bedaeece8ec68ed38ce18de99de5afa6a736a7b6a7a6b7b0a73421e463bd5219",
+    "f70e6f0cf89cf91ce91ea90f330f330f32ef334f139f13bf922fd627c210e304",
+    "01e7034e834c836987e387e987cc8f4c4f4c47d88d581b4819481d080f080f51"
+   ],
+   "audio_fp": {
+    "md5_60s": "1a4e78ed316e8c8a40eb64c5efbc126c",
+    "rms_db": -19.87,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "MORPH-HOLD-ON-E3-PART3",
+   "title": "HOLD ON E3 Part 3 \u2014 Write His Name",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_part3_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-24",
+   "blam_class": null,
+   "exists": true,
+   "size": 22234735,
+   "mtime": 1795561971,
+   "md5": "d1981bb44325dcbcd2fb3781b02a53e2",
+   "duration_s": 60.04,
+   "frames": 1440,
+   "phash": [
+    "9b4a1b660b62c769c678847c0c740e74117c19ec18ec1b6e1b2c093c092c4b2c",
+    "f007d41fd439761f672ec7a6873395739db29fb231a205a907a1336923652325",
+    "033213201384136459c631c631c631cb71cd798d698f698dd98fd1a64386c387"
+   ],
+   "audio_fp": {
+    "md5_60s": "9b6b3247735830c2ba31e326e9b74887",
+    "rms_db": -20.47,
+    "seconds": 60.0
    }
   },
   {
@@ -42111,6 +42229,36 @@
    }
   },
   {
+   "id": "B-1413",
+   "title": "The Susceptance Analyzer",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1413_the_susceptance_analyzer_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3174216,
+   "mtime": 1795411328,
+   "md5": "4c2e0b3460134a86e36df750fc21adaf",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "07b21b869ea38bc71bc713665b664b7e0b788bc62e16ce3ecd3398f367f36f39",
+    "07b21b869ea38ac71bc713665b664b7e0b788b462e96ce3ecd3398f367f36f39",
+    "07b21b869ea38ac71bc713665b664b7e0b788b462e96ce3ecd3398f347f36f39"
+   ],
+   "audio_fp": {
+    "md5_60s": "157783c7e47fee80d1b7884f49892a82",
+    "rms_db": -41.28,
+    "seconds": 10.03
+   }
+  },
+  {
    "id": "B-1414",
    "title": "The Reactance Analyzer",
    "kind": "bumper",
@@ -43701,6 +43849,36 @@
    }
   },
   {
+   "id": "B-1467",
+   "title": "The Tensiometric Analyzer",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1467_the_tensiometric_analyzer_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 2998284,
+   "mtime": 1795583525,
+   "md5": "d3d0c10e0116405143ef83f0304e34ce",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "c0e743df139c238c200c1f99139c1918197427cc839c921eca6c59ccc3d9cd58",
+    "c0e7434f138e238c208c1e8c199c11981930277c8b5c934ece4e40c8c359cd58",
+    "c0e7434f138e238c208c1e8c199c91981930277c8b5c934ece4c40c8c359cd58"
+   ],
+   "audio_fp": {
+    "md5_60s": "758d0ee00a1bb2589ea6ccc2316ab375",
+    "rms_db": -37.1,
+    "seconds": 10.03
+   }
+  },
+  {
    "id": "B-1468",
    "title": "The Manometric Analyzer",
    "kind": "bumper",
@@ -43757,6 +43935,36 @@
    "audio_fp": {
     "md5_60s": "88a3937bd272c1f948c7ff5c5c7a0241",
     "rms_db": -47.92,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1470",
+   "title": "The Phonometric Analyzer",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1470_the_phonometric_analyzer_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3178578,
+   "mtime": 1795583577,
+   "md5": "0a7f9d5e611f21c55a9fb1e3224aa11f",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "5913e99661a431a4710d71c761f061b469344934c4b0c47ec0dec09b80858038",
+    "e313e316c3244324630d636762f451b65137d137c4f6d13ed11ed11b81858838",
+    "e313e316c3244324630d636762f451b65137d137c4f6d13ed11ed11b81818839"
+   ],
+   "audio_fp": {
+    "md5_60s": "c241720417655e5e99c68f46355175a3",
+    "rms_db": -34.11,
     "seconds": 10.03
    }
   },
@@ -43937,6 +44145,606 @@
    "audio_fp": {
     "md5_60s": "9d87b0053ee993f2f0b4350febcf011c",
     "rms_db": -31.61,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1477",
+   "title": "The Salt Marsh Boardwalk",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1477_the_salt_marsh_boardwalk_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4520174,
+   "mtime": 1795566075,
+   "md5": "243f92f9017f3c2a5a8d5deb6fdc0f38",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "18ef83eee3f647ff4753dd5ac610c434c43fe62760e3c1c307d39f075d0df41f",
+    "186f83eee3f24fff47534d58ce1bc433c43de62760e181c107839f875d0df41f",
+    "9867836ee3f24fff4353cd5ace10c434c43fe62360e181c307c39f075d0df41f"
+   ],
+   "audio_fp": {
+    "md5_60s": "54beb7e3571de325b7363bfaf076d59c",
+    "rms_db": -37.47,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1478",
+   "title": "The Dune Fence",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1478_the_dune_fence_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 5635647,
+   "mtime": 1795774904,
+   "md5": "48769b020aa77c49ae82ed7ae618b53a",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "870fc8fe19ec194b1b3f7b7d19bd998899c899c8abf285f287b189e41925805c",
+    "871fc8ff19ec196b1b3f3b7d193e998c9dc897c893f68ffabf713fa40335805e",
+    "871fc8ff19ec196b193f7b7d19b8999a99c899c0aff285da87b189e41925805c"
+   ],
+   "audio_fp": {
+    "md5_60s": "d499dca5a7d4640d0e2902b65c60b342",
+    "rms_db": -36.91,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1479",
+   "title": "The Mooring Bollard",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1479_the_mooring_bollard_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3791857,
+   "mtime": 1795776671,
+   "md5": "e169f884cf74f7e96e8b751eb08f0e4d",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "837fcfb27f0e7e8fded7b0d5f0dcf39e72de735a331fb39f5393d2997199b18d",
+    "837fcfb27f0e7e8fded7b0d5f0dcf39ef2de735e331fb39f739fd2877085b38d",
+    "83ffcfb27f067e8fded7b0d5f0dcf39e72cef35a331fb39f7197f6977195b18d"
+   ],
+   "audio_fp": {
+    "md5_60s": "969871313c69f9e0e1719966b68175d6",
+    "rms_db": -37.0,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1480",
+   "title": "The Anchor Winch",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1480_the_anchor_winch_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4140791,
+   "mtime": 1795778452,
+   "md5": "39a3612f5258fce4b6b9f0dc751be082",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "37f927993789708d73cc770d378833683d0c7d1c30181a389b38323933197298",
+    "37d927993789708d73cc770d378839683b0c3b1c3a1810381b38333933197398",
+    "37d927993789708d73cc770c37885568760c3b3c3a3838381938333933197398"
+   ],
+   "audio_fp": {
+    "md5_60s": "a12c0080b26ab995a9f1630cc18e7a06",
+    "rms_db": -36.28,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1481",
+   "title": "The Harbor Crane",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1481_the_harbor_crane_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3360116,
+   "mtime": 1795780236,
+   "md5": "c71c5ab163ff8c4c2282c7e35b3f8054",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "12db8c3e487c60ede0fbe27560e463ed63e961fd62356638119900f301f360b3",
+    "11db89be627e61ede07be67561e463ed63e961fd62356638119900f303f360b3",
+    "11db89be627e61ede079e67561e463ed63e961fd6234663811d900f303f361b3"
+   ],
+   "audio_fp": {
+    "md5_60s": "9d2248774da0c31ce1fd880899050785",
+    "rms_db": -35.75,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1482",
+   "title": "The Dry Dock Gate",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1482_the_dry_dock_gate_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 2874666,
+   "mtime": 1795782070,
+   "md5": "c9a41501e5da95bb6fb9e4620b788552",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "132d262dddb53ca4662ee6ee96d69e789f90cb11c351cb59870187018e01c749",
+    "1be12781df013f016742e706962c9e3c9aaccaadc44dc15b845384118c01c749",
+    "1be11781ff013f016746e71696169e1e9e5eca55c251ca55841186518c31c469"
+   ],
+   "audio_fp": {
+    "md5_60s": "f88e9562750fef30d6c4c90a0ed5676e",
+    "rms_db": -25.03,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1483",
+   "title": "The Ferry Gangway",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1483_the_ferry_gangway_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3906684,
+   "mtime": 1795783897,
+   "md5": "dfeaa2acfdab7dc1743b35914636756c",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "18c788cdd1b439e70bcd479d4f1d4e3dc23ac474c0e3e0cef1eec8394c79ce69",
+    "18d788bdd0bc38ef08ed40d545cd4c78c4f0c534c667e8def1fec8394d79c679",
+    "18c788bdd0ac38ed08ef40fd44fd4c7dc03ac07cc463e7f2f066c8394d79c669"
+   ],
+   "audio_fp": {
+    "md5_60s": "580f64d7c08422b56c8a09027587c996",
+    "rms_db": -31.21,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1484",
+   "title": "The Lighthouse Lens",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1484_the_lighthouse_lens_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3709088,
+   "mtime": 1795785698,
+   "md5": "fee036b9cde36a08aadc7aa097709f41",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "1f1087a0cfa0c3a453b063b663b463b463b463b061b0e1e041b04261607160ba",
+    "1f188794cf96c30e530e630e631e631e631e6236649cc0684160416140716193",
+    "1f790735cf35d317d316631a631b6312631762356435c6604160416140716133"
+   ],
+   "audio_fp": {
+    "md5_60s": "1f10c3d73dd3bb98411006f8900a83e5",
+    "rms_db": -30.9,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1485",
+   "title": "The Net Mending Bench",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1485_the_net_mending_bench_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 2295743,
+   "mtime": 1795787694,
+   "md5": "b9c2f1ab95cd0286bccf876ccd81c85a",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "baef35cf1cc799c5b24466940f301236062680b680e603ec1e407e536653a822",
+    "aaef35cf1cc799c5b24466942f303236062680b680e603ec1e407a536653a822",
+    "bdef35cf1cc799c5b24c66940f301236062680b480e603ec1e407e536653a822"
+   ],
+   "audio_fp": {
+    "md5_60s": "5f3e91dc2c0324dd6fb6f96be5c1c77c",
+    "rms_db": -38.79,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1486",
+   "title": "The Buoy Repair Shed",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1486_the_buoy_repair_shed_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3541185,
+   "mtime": 1795789299,
+   "md5": "5c113cb5a818ed2c20381e72ae457e87",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "071b6723cb67cf25cf29cf4bcf61c679b0738961d965d1a4d291c863c83be24b",
+    "071b6723cb67cf27cf23cf49cf71c679b0738960d964d1a19281c847c81be25b",
+    "071b6723cb67cf25cf29cf4bcf61c679b0738961d965d1a49291c843c81be24b"
+   ],
+   "audio_fp": {
+    "md5_60s": "38afbdb7dba3e8a3d43dbdd52baf6e7f",
+    "rms_db": -32.63,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1487",
+   "title": "The Tide Gate",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1487_the_tide_gate_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 7784993,
+   "mtime": 1795791087,
+   "md5": "edf9a7c9eae6b2d91de2fd9c9f70fce4",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "4b64ca9bb6bb9e2b42ea26db2c4f630e672ee73b1b2387028f070b09a319d30c",
+    "5366d69bb6bbbc2b42ea2adb63cf630e672ee7bb19a3818688e108e9a1a4d126",
+    "5364f69bb6bb9c2b46ea22db634f630e632ee73b1923818688e709e9a12dc10e"
+   ],
+   "audio_fp": {
+    "md5_60s": "99584f3ac8285dd5c99e97a49845c6cf",
+    "rms_db": -29.24,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1488",
+   "title": "The Oyster Dredge",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1488_the_oyster_dredge_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 5554008,
+   "mtime": 1795794754,
+   "md5": "2e35068ac5abe4946a3c89205c417b32",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "05ef86390a7e167e665b06788678327806701eb21b3b1c191e9999951d951b1f",
+    "91efda3d5a764a5f4e5b4e780678067806700e9219398c799e7989758c75db1f",
+    "876f823d02360e1d061b063a06780678467006b21d321c591cd91bd11d951a1b"
+   ],
+   "audio_fp": {
+    "md5_60s": "484cb7109549336fa16a2e29073da99d",
+    "rms_db": -33.48,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1489",
+   "title": "The Lobster Pot",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1489_the_lobster_pot_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4191966,
+   "mtime": 1795796476,
+   "md5": "ae51e1b4406c0a4eecef600a41a0ca9f",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "0c7584df14fe363e257f213f393f393d387b3836bcbd389d389d589903918397",
+    "04fd82df31de211f633f632f233f237b386738a528a9386758af119983018b93",
+    "239e239c635f627b425e427f6073716d797b503b701fb13b031b07391733b40f"
+   ],
+   "audio_fp": {
+    "md5_60s": "241d2c2f8fc6127f13f3ccb6188f5185",
+    "rms_db": -33.56,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1490",
+   "title": "The Fish Market",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1490_the_fish_market_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 2695381,
+   "mtime": 1795798290,
+   "md5": "b5e67292b3f77d45820dd904cc220155",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "8c4fa659a419a41dc81c464c624c31c8bc5aae5c0714cdf4cdbc07b907190311",
+    "844fa6592419241d285c444c524c39c81c5a1e5c37148dfc0dbc0fb907190311",
+    "844fa6592419241d285c444c524c39c81c5a1e5c37148dfc0dbc0fb907190311"
+   ],
+   "audio_fp": {
+    "md5_60s": "aedd362cebdd1a9ca381740c07fffdd8",
+    "rms_db": -38.68,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1491",
+   "title": "The Clam Basket",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1491_the_clam_basket_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3254218,
+   "mtime": 1795800104,
+   "md5": "9387bba0631bb7bb578ea59e52b1f800",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "8b9b67b5e7b5e5b9c4d91cd93e61371917d96cd96cc17841666366f96031f839",
+    "399b1fb51fb509b914d918d93e61375933d979d960c16c4162636679e031f839",
+    "2b9b1fb51fb50db914d918d93e61375933d979d960c16c4162636679e031f839"
+   ],
+   "audio_fp": {
+    "md5_60s": "d07614e9695df19a22dfdebbc980998a",
+    "rms_db": -39.86,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1492",
+   "title": "The Mussel Rope",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1492_the_mussel_rope_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3375575,
+   "mtime": 1795801864,
+   "md5": "679ffffe6e1e825f728a10345505dafc",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "116d11e725c785e78fa68ee61e640e640fde4f96459e45d64dfc08d12e592c38",
+    "116d11e723c787e78fa68e661c640c640cde4c964d9e4c964cfc0cd12d592db8",
+    "116d11e723c785e78ca68ce61c640c640dde4d964d9e4dd449fc08d1275929b8"
+   ],
+   "audio_fp": {
+    "md5_60s": "61ab7212079a58192481e13db453b09b",
+    "rms_db": -38.67,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1493",
+   "title": "The Kelp Float",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1493_the_kelp_float_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4597140,
+   "mtime": 1795803650,
+   "md5": "a16504ffaaf1bf6807dc0bffd897e464",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "8eb89ab94fad06cd03cc89ec387830ec34a434f4747c7136c7b3ef93ecc3ecc2",
+    "6eb83ab91fad14cd1bcc1bec1e781cec38a438e4647cec36edb3ef93e4c3e6c2",
+    "6eb83ab91fed14cd1bcc1bec1e781cec38a478e4647cec36efb36f93e5c3e6c2"
+   ],
+   "audio_fp": {
+    "md5_60s": "3899d0326a03232d1e0c9a5eb59e6baa",
+    "rms_db": -47.94,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1494",
+   "title": "The Driftwood Pile",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1494_the_driftwood_pile_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4007586,
+   "mtime": 1795805481,
+   "md5": "a96d3cdc328e188291727b016da139f9",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "053e30cc30cc19f01fe81a409618861c87cc81fc837f8637a00da00da01f823e",
+    "053f30cf318f39a71fe71a4a9606863487f883e587698670a739a3cda0cf823e",
+    "053e30cc30cc39b01fe81a409618861c83dc83e787198664a738a3cda0cf823e"
+   ],
+   "audio_fp": {
+    "md5_60s": "34009072a013e8585da83b4ad9ad1543",
+    "rms_db": -31.99,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1495",
+   "title": "The Barnacle Cluster",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1495_the_barnacle_cluster_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4467818,
+   "mtime": 1795807302,
+   "md5": "fcb8e35d28d320871ba19a24198dbf5d",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "70bfb074b0e534e634e61ce450e404ec84f60036403ec2caa1da81b1d391c0d8",
+    "10b7187604e700e620e644e640e400e484f6083648feccca21da81b1d391c0d8",
+    "10ff18f404e5246620e644e640e400e484f688b6483accca21da81b1d391c0d8"
+   ],
+   "audio_fp": {
+    "md5_60s": "da9e8c02f776021811336219b66fefe7",
+    "rms_db": -48.05,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1496",
+   "title": "The Sea Glass",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1496_the_sea_glass_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3927795,
+   "mtime": 1795809102,
+   "md5": "cbbdb9e30ed6fe7ebe03fd023ae00e2c",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "42f761a661f771d6359605960de465c607d607d623f601fe84fc81e981a1c3e9",
+    "06f723a60ff607d64796079607e00f8603d687d627f618fe90fc81e983e1ca69",
+    "06f703a607f607d64796079607e207c607d687d607f610fe90fc81e983a1c3e9"
+   ],
+   "audio_fp": {
+    "md5_60s": "76ab082e4c379b846a2f8acddf1c55c0",
+    "rms_db": -40.74,
     "seconds": 10.03
    }
   }

@@ -1,0 +1,4669 @@
+{
+ "track": "track.mp3",
+ "duration_s": 197.611,
+ "bpm": 115.0,
+ "beat_period_s": 0.5217,
+ "beat_phase_s": 0.27,
+ "word_source": "faster-whisper large-v3-turbo int8, NO VAD (house lyrics config), work/asr_turbo_mv33.json",
+ "text_authority": "lyrics.txt (user sheet); performed words govern captions where they differ",
+ "timing_note": "ASR-derived word times for PLANNING. Assembly re-measures every take by forced alignment against the sheet (ribbon law); the song side is re-anchored per line at assembly. Dual-ASR (asr_dual.py, VAD on) FAILED on this track (large-v3 hallucinated 'Amara.org' 0-32.2s; distil fragments only) \u2014 work/asr_dual_mv33.json kept as the failure record.",
+ "n_lines": 65,
+ "n_words_asr": 323,
+ "words": [
+  {
+   "w": "The",
+   "start": 12.64,
+   "end": 13.64,
+   "prob": 0.66
+  },
+  {
+   "w": "coal",
+   "start": 13.64,
+   "end": 14.14,
+   "prob": 0.9
+  },
+  {
+   "w": "mines",
+   "start": 14.14,
+   "end": 14.58,
+   "prob": 0.95
+  },
+  {
+   "w": "are",
+   "start": 14.58,
+   "end": 14.82,
+   "prob": 0.99
+  },
+  {
+   "w": "calling",
+   "start": 14.82,
+   "end": 15.34,
+   "prob": 0.98
+  },
+  {
+   "w": "good,",
+   "start": 15.34,
+   "end": 15.74,
+   "prob": 0.59
+  },
+  {
+   "w": "sir",
+   "start": 16.02,
+   "end": 16.28,
+   "prob": 0.99
+  },
+  {
+   "w": "It",
+   "start": 17.68,
+   "end": 18.68,
+   "prob": 0.45
+  },
+  {
+   "w": "is",
+   "start": 18.68,
+   "end": 18.9,
+   "prob": 0.99
+  },
+  {
+   "w": "not",
+   "start": 18.9,
+   "end": 19.26,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 19.26,
+   "end": 20.58,
+   "prob": 1.0
+  },
+  {
+   "w": "Pray,",
+   "start": 21.7,
+   "end": 22.7,
+   "prob": 0.58
+  },
+  {
+   "w": "glue",
+   "start": 23.54,
+   "end": 24.04,
+   "prob": 0.54
+  },
+  {
+   "w": "your",
+   "start": 24.04,
+   "end": 24.5,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 24.5,
+   "end": 25.0,
+   "prob": 0.99
+  },
+  {
+   "w": "Smooth",
+   "start": 25.0,
+   "end": 26.04,
+   "prob": 0.09
+  },
+  {
+   "w": "on",
+   "start": 26.04,
+   "end": 27.2,
+   "prob": 0.98
+  },
+  {
+   "w": "They",
+   "start": 30.08,
+   "end": 30.72,
+   "prob": 0.81
+  },
+  {
+   "w": "declared",
+   "start": 30.72,
+   "end": 31.14,
+   "prob": 0.98
+  },
+  {
+   "w": "the",
+   "start": 31.14,
+   "end": 31.34,
+   "prob": 1.0
+  },
+  {
+   "w": "matter",
+   "start": 31.34,
+   "end": 31.78,
+   "prob": 0.99
+  },
+  {
+   "w": "finished,",
+   "start": 31.78,
+   "end": 32.32,
+   "prob": 1.0
+  },
+  {
+   "w": "they",
+   "start": 32.5,
+   "end": 32.74,
+   "prob": 0.95
+  },
+  {
+   "w": "bid",
+   "start": 32.74,
+   "end": 32.86,
+   "prob": 0.7
+  },
+  {
+   "w": "me",
+   "start": 32.86,
+   "end": 33.0,
+   "prob": 1.0
+  },
+  {
+   "w": "pack",
+   "start": 33.0,
+   "end": 33.28,
+   "prob": 0.54
+  },
+  {
+   "w": "and",
+   "start": 33.28,
+   "end": 33.72,
+   "prob": 0.99
+  },
+  {
+   "w": "depart",
+   "start": 33.72,
+   "end": 34.24,
+   "prob": 0.99
+  },
+  {
+   "w": "I",
+   "start": 34.24,
+   "end": 34.78,
+   "prob": 0.48
+  },
+  {
+   "w": "pressed",
+   "start": 34.78,
+   "end": 34.96,
+   "prob": 0.99
+  },
+  {
+   "w": "the",
+   "start": 34.96,
+   "end": 35.08,
+   "prob": 0.97
+  },
+  {
+   "w": "tube",
+   "start": 35.08,
+   "end": 35.42,
+   "prob": 0.96
+  },
+  {
+   "w": "to",
+   "start": 35.42,
+   "end": 35.78,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 35.78,
+   "end": 35.98,
+   "prob": 1.0
+  },
+  {
+   "w": "forehead",
+   "start": 35.98,
+   "end": 36.58,
+   "prob": 0.99
+  },
+  {
+   "w": "and",
+   "start": 36.58,
+   "end": 37.06,
+   "prob": 0.91
+  },
+  {
+   "w": "glued",
+   "start": 37.06,
+   "end": 37.34,
+   "prob": 1.0
+  },
+  {
+   "w": "that",
+   "start": 37.34,
+   "end": 37.6,
+   "prob": 0.99
+  },
+  {
+   "w": "shit",
+   "start": 37.6,
+   "end": 37.9,
+   "prob": 0.94
+  },
+  {
+   "w": "smooth",
+   "start": 37.9,
+   "end": 38.44,
+   "prob": 0.66
+  },
+  {
+   "w": "on",
+   "start": 38.44,
+   "end": 39.08,
+   "prob": 0.99
+  },
+  {
+   "w": "Nigger,",
+   "start": 39.08,
+   "end": 39.52,
+   "prob": 0.84
+  },
+  {
+   "w": "it",
+   "start": 39.74,
+   "end": 39.82,
+   "prob": 0.99
+  },
+  {
+   "w": "is",
+   "start": 39.82,
+   "end": 40.02,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 40.02,
+   "end": 40.32,
+   "prob": 1.0
+  },
+  {
+   "w": "over,",
+   "start": 40.32,
+   "end": 40.68,
+   "prob": 1.0
+  },
+  {
+   "w": "nigger,",
+   "start": 40.92,
+   "end": 41.6,
+   "prob": 0.94
+  },
+  {
+   "w": "it",
+   "start": 41.84,
+   "end": 41.92,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 41.92,
+   "end": 42.1,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 42.1,
+   "end": 42.4,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 42.4,
+   "end": 42.76,
+   "prob": 1.0
+  },
+  {
+   "w": "Kindly",
+   "start": 42.76,
+   "end": 43.32,
+   "prob": 0.98
+  },
+  {
+   "w": "place",
+   "start": 43.32,
+   "end": 43.66,
+   "prob": 1.0
+  },
+  {
+   "w": "your",
+   "start": 43.66,
+   "end": 43.86,
+   "prob": 1.0
+  },
+  {
+   "w": "booty",
+   "start": 43.86,
+   "end": 44.18,
+   "prob": 0.99
+  },
+  {
+   "w": "hole",
+   "start": 44.18,
+   "end": 44.46,
+   "prob": 0.97
+  },
+  {
+   "w": "in",
+   "start": 44.46,
+   "end": 44.7,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 44.7,
+   "end": 44.94,
+   "prob": 1.0
+  },
+  {
+   "w": "coal,",
+   "start": 44.94,
+   "end": 45.22,
+   "prob": 0.91
+  },
+  {
+   "w": "this",
+   "start": 45.3,
+   "end": 45.48,
+   "prob": 1.0
+  },
+  {
+   "w": "coal",
+   "start": 45.48,
+   "end": 45.8,
+   "prob": 1.0
+  },
+  {
+   "w": "shall",
+   "start": 45.8,
+   "end": 46.06,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 46.06,
+   "end": 46.5,
+   "prob": 1.0
+  },
+  {
+   "w": "mine",
+   "start": 46.5,
+   "end": 47.0,
+   "prob": 1.0
+  },
+  {
+   "w": "itself",
+   "start": 47.0,
+   "end": 47.92,
+   "prob": 1.0
+  },
+  {
+   "w": "The",
+   "start": 47.92,
+   "end": 48.56,
+   "prob": 0.98
+  },
+  {
+   "w": "coal",
+   "start": 48.56,
+   "end": 49.12,
+   "prob": 1.0
+  },
+  {
+   "w": "mines",
+   "start": 49.12,
+   "end": 49.5,
+   "prob": 0.61
+  },
+  {
+   "w": "are",
+   "start": 49.5,
+   "end": 49.74,
+   "prob": 0.79
+  },
+  {
+   "w": "called",
+   "start": 49.74,
+   "end": 50.2,
+   "prob": 0.33
+  },
+  {
+   "w": "It",
+   "start": 50.2,
+   "end": 50.84,
+   "prob": 0.14
+  },
+  {
+   "w": "is",
+   "start": 50.84,
+   "end": 51.2,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 51.2,
+   "end": 51.76,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 51.76,
+   "end": 52.66,
+   "prob": 1.0
+  },
+  {
+   "w": "Glue",
+   "start": 55.5,
+   "end": 56.14,
+   "prob": 0.7
+  },
+  {
+   "w": "your",
+   "start": 56.14,
+   "end": 56.44,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 56.44,
+   "end": 56.76,
+   "prob": 0.99
+  },
+  {
+   "w": "smooth",
+   "start": 56.76,
+   "end": 57.2,
+   "prob": 0.87
+  },
+  {
+   "w": "on,",
+   "start": 57.2,
+   "end": 57.72,
+   "prob": 1.0
+  },
+  {
+   "w": "glue",
+   "start": 57.8,
+   "end": 58.06,
+   "prob": 0.99
+  },
+  {
+   "w": "your",
+   "start": 58.06,
+   "end": 58.52,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 58.52,
+   "end": 58.76,
+   "prob": 1.0
+  },
+  {
+   "w": "smooth",
+   "start": 58.76,
+   "end": 59.1,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 59.1,
+   "end": 59.7,
+   "prob": 1.0
+  },
+  {
+   "w": "Apply",
+   "start": 59.7,
+   "end": 60.36,
+   "prob": 0.89
+  },
+  {
+   "w": "it",
+   "start": 60.36,
+   "end": 60.62,
+   "prob": 0.8
+  },
+  {
+   "w": "directly",
+   "start": 60.62,
+   "end": 60.92,
+   "prob": 1.0
+  },
+  {
+   "w": "to",
+   "start": 60.92,
+   "end": 61.08,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 61.08,
+   "end": 61.18,
+   "prob": 1.0
+  },
+  {
+   "w": "forehead",
+   "start": 61.18,
+   "end": 61.7,
+   "prob": 1.0
+  },
+  {
+   "w": "Smooth",
+   "start": 61.7,
+   "end": 62.18,
+   "prob": 0.7
+  },
+  {
+   "w": "on,",
+   "start": 62.18,
+   "end": 62.74,
+   "prob": 0.99
+  },
+  {
+   "w": "smooth",
+   "start": 62.74,
+   "end": 63.28,
+   "prob": 0.99
+  },
+  {
+   "w": "on",
+   "start": 63.28,
+   "end": 63.78,
+   "prob": 1.0
+  },
+  {
+   "w": "Blow",
+   "start": 63.78,
+   "end": 64.3,
+   "prob": 0.89
+  },
+  {
+   "w": "your",
+   "start": 64.3,
+   "end": 64.8,
+   "prob": 1.0
+  },
+  {
+   "w": "shit,",
+   "start": 64.8,
+   "end": 65.02,
+   "prob": 0.95
+  },
+  {
+   "w": "smooth",
+   "start": 65.06,
+   "end": 65.34,
+   "prob": 0.94
+  },
+  {
+   "w": "off",
+   "start": 65.34,
+   "end": 65.82,
+   "prob": 0.99
+  },
+  {
+   "w": "Then",
+   "start": 65.82,
+   "end": 66.34,
+   "prob": 0.96
+  },
+  {
+   "w": "glue",
+   "start": 66.34,
+   "end": 66.62,
+   "prob": 1.0
+  },
+  {
+   "w": "that",
+   "start": 66.62,
+   "end": 66.88,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 66.88,
+   "end": 67.12,
+   "prob": 1.0
+  },
+  {
+   "w": "back",
+   "start": 67.12,
+   "end": 67.44,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 67.44,
+   "end": 67.9,
+   "prob": 1.0
+  },
+  {
+   "w": "Nigger,",
+   "start": 67.9,
+   "end": 68.26,
+   "prob": 0.82
+  },
+  {
+   "w": "it",
+   "start": 68.64,
+   "end": 68.76,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 68.76,
+   "end": 69.0,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 69.0,
+   "end": 69.48,
+   "prob": 1.0
+  },
+  {
+   "w": "over,",
+   "start": 69.48,
+   "end": 70.0,
+   "prob": 1.0
+  },
+  {
+   "w": "nigger",
+   "start": 70.08,
+   "end": 70.44,
+   "prob": 0.95
+  },
+  {
+   "w": "It",
+   "start": 70.44,
+   "end": 70.8,
+   "prob": 0.96
+  },
+  {
+   "w": "is",
+   "start": 70.8,
+   "end": 71.08,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 71.08,
+   "end": 71.66,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 71.66,
+   "end": 72.04,
+   "prob": 1.0
+  },
+  {
+   "w": "Get",
+   "start": 72.04,
+   "end": 72.36,
+   "prob": 0.98
+  },
+  {
+   "w": "your",
+   "start": 72.36,
+   "end": 72.64,
+   "prob": 1.0
+  },
+  {
+   "w": "booty",
+   "start": 72.64,
+   "end": 72.98,
+   "prob": 1.0
+  },
+  {
+   "w": "hole",
+   "start": 72.98,
+   "end": 73.22,
+   "prob": 0.98
+  },
+  {
+   "w": "in",
+   "start": 73.22,
+   "end": 73.48,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 73.48,
+   "end": 73.68,
+   "prob": 1.0
+  },
+  {
+   "w": "cold",
+   "start": 73.68,
+   "end": 74.18,
+   "prob": 0.79
+  },
+  {
+   "w": "It",
+   "start": 74.18,
+   "end": 74.8,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 74.8,
+   "end": 75.22,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 75.22,
+   "end": 75.74,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 75.74,
+   "end": 76.38,
+   "prob": 1.0
+  },
+  {
+   "w": "Fries",
+   "start": 79.86,
+   "end": 80.62,
+   "prob": 0.99
+  },
+  {
+   "w": "in",
+   "start": 80.62,
+   "end": 80.86,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 80.86,
+   "end": 81.1,
+   "prob": 1.0
+  },
+  {
+   "w": "bag",
+   "start": 81.1,
+   "end": 81.6,
+   "prob": 1.0
+  },
+  {
+   "w": "as",
+   "start": 81.6,
+   "end": 81.86,
+   "prob": 0.99
+  },
+  {
+   "w": "before",
+   "start": 81.86,
+   "end": 82.38,
+   "prob": 1.0
+  },
+  {
+   "w": "The",
+   "start": 83.3,
+   "end": 84.06,
+   "prob": 1.0
+  },
+  {
+   "w": "same",
+   "start": 84.06,
+   "end": 84.7,
+   "prob": 1.0
+  },
+  {
+   "w": "as",
+   "start": 84.7,
+   "end": 85.32,
+   "prob": 1.0
+  },
+  {
+   "w": "every",
+   "start": 85.32,
+   "end": 85.94,
+   "prob": 1.0
+  },
+  {
+   "w": "shift",
+   "start": 85.94,
+   "end": 86.62,
+   "prob": 1.0
+  },
+  {
+   "w": "They",
+   "start": 86.62,
+   "end": 88.06,
+   "prob": 0.72
+  },
+  {
+   "w": "advised",
+   "start": 88.06,
+   "end": 88.8,
+   "prob": 0.99
+  },
+  {
+   "w": "me",
+   "start": 88.8,
+   "end": 89.36,
+   "prob": 1.0
+  },
+  {
+   "w": "to",
+   "start": 89.36,
+   "end": 89.72,
+   "prob": 0.99
+  },
+  {
+   "w": "go",
+   "start": 89.72,
+   "end": 90.28,
+   "prob": 0.98
+  },
+  {
+   "w": "home,",
+   "start": 90.28,
+   "end": 91.48,
+   "prob": 0.97
+  },
+  {
+   "w": "I",
+   "start": 91.48,
+   "end": 92.28,
+   "prob": 0.99
+  },
+  {
+   "w": "glued",
+   "start": 92.28,
+   "end": 92.72,
+   "prob": 0.97
+  },
+  {
+   "w": "that",
+   "start": 92.72,
+   "end": 93.06,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 93.06,
+   "end": 93.56,
+   "prob": 0.99
+  },
+  {
+   "w": "Smooth",
+   "start": 93.56,
+   "end": 94.48,
+   "prob": 0.5
+  },
+  {
+   "w": "on,",
+   "start": 94.48,
+   "end": 95.08,
+   "prob": 0.99
+  },
+  {
+   "w": "nigger,",
+   "start": 95.24,
+   "end": 95.44,
+   "prob": 0.84
+  },
+  {
+   "w": "it",
+   "start": 95.68,
+   "end": 95.78,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 95.78,
+   "end": 95.96,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 95.96,
+   "end": 96.3,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 96.3,
+   "end": 96.64,
+   "prob": 1.0
+  },
+  {
+   "w": "Nigger,",
+   "start": 96.64,
+   "end": 97.02,
+   "prob": 0.57
+  },
+  {
+   "w": "it",
+   "start": 97.26,
+   "end": 97.34,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 97.34,
+   "end": 97.52,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 97.52,
+   "end": 97.86,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 97.86,
+   "end": 98.16,
+   "prob": 1.0
+  },
+  {
+   "w": "Spread",
+   "start": 98.16,
+   "end": 98.5,
+   "prob": 0.99
+  },
+  {
+   "w": "them",
+   "start": 98.5,
+   "end": 98.74,
+   "prob": 1.0
+  },
+  {
+   "w": "cheeks,",
+   "start": 98.74,
+   "end": 99.22,
+   "prob": 1.0
+  },
+  {
+   "w": "wide,",
+   "start": 99.48,
+   "end": 99.78,
+   "prob": 0.83
+  },
+  {
+   "w": "cold",
+   "start": 100.0,
+   "end": 100.18,
+   "prob": 0.5
+  },
+  {
+   "w": "inside",
+   "start": 100.18,
+   "end": 100.64,
+   "prob": 0.98
+  },
+  {
+   "w": "It",
+   "start": 100.64,
+   "end": 101.16,
+   "prob": 0.91
+  },
+  {
+   "w": "is",
+   "start": 101.16,
+   "end": 101.42,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 101.42,
+   "end": 101.86,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 101.86,
+   "end": 102.46,
+   "prob": 1.0
+  },
+  {
+   "w": "The",
+   "start": 102.46,
+   "end": 102.96,
+   "prob": 0.96
+  },
+  {
+   "w": "coal",
+   "start": 102.96,
+   "end": 103.46,
+   "prob": 1.0
+  },
+  {
+   "w": "mines",
+   "start": 103.46,
+   "end": 103.86,
+   "prob": 0.98
+  },
+  {
+   "w": "are",
+   "start": 103.86,
+   "end": 104.08,
+   "prob": 1.0
+  },
+  {
+   "w": "calling",
+   "start": 104.08,
+   "end": 104.76,
+   "prob": 0.99
+  },
+  {
+   "w": "It",
+   "start": 104.76,
+   "end": 105.22,
+   "prob": 0.74
+  },
+  {
+   "w": "is",
+   "start": 105.22,
+   "end": 105.6,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 105.6,
+   "end": 106.28,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 106.28,
+   "end": 107.06,
+   "prob": 1.0
+  },
+  {
+   "w": "Glue",
+   "start": 109.82,
+   "end": 110.56,
+   "prob": 0.54
+  },
+  {
+   "w": "your",
+   "start": 110.56,
+   "end": 110.86,
+   "prob": 1.0
+  },
+  {
+   "w": "shit,",
+   "start": 110.86,
+   "end": 111.1,
+   "prob": 1.0
+  },
+  {
+   "w": "smooth",
+   "start": 111.24,
+   "end": 111.4,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 111.4,
+   "end": 111.88,
+   "prob": 1.0
+  },
+  {
+   "w": "Glue",
+   "start": 111.88,
+   "end": 112.46,
+   "prob": 0.74
+  },
+  {
+   "w": "your",
+   "start": 112.46,
+   "end": 112.92,
+   "prob": 1.0
+  },
+  {
+   "w": "shit,",
+   "start": 112.92,
+   "end": 113.18,
+   "prob": 1.0
+  },
+  {
+   "w": "smooth",
+   "start": 113.3,
+   "end": 113.52,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 113.52,
+   "end": 114.0,
+   "prob": 1.0
+  },
+  {
+   "w": "Apply",
+   "start": 114.0,
+   "end": 114.66,
+   "prob": 0.93
+  },
+  {
+   "w": "it",
+   "start": 114.66,
+   "end": 115.04,
+   "prob": 0.93
+  },
+  {
+   "w": "directly",
+   "start": 115.04,
+   "end": 115.34,
+   "prob": 1.0
+  },
+  {
+   "w": "to",
+   "start": 115.34,
+   "end": 115.52,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 115.52,
+   "end": 115.64,
+   "prob": 1.0
+  },
+  {
+   "w": "forehead",
+   "start": 115.64,
+   "end": 116.08,
+   "prob": 0.99
+  },
+  {
+   "w": "Smooth",
+   "start": 116.08,
+   "end": 116.68,
+   "prob": 0.93
+  },
+  {
+   "w": "on,",
+   "start": 116.68,
+   "end": 117.18,
+   "prob": 0.91
+  },
+  {
+   "w": "smooth",
+   "start": 117.36,
+   "end": 117.72,
+   "prob": 0.94
+  },
+  {
+   "w": "on,",
+   "start": 117.72,
+   "end": 118.26,
+   "prob": 1.0
+  },
+  {
+   "w": "blow",
+   "start": 118.56,
+   "end": 118.8,
+   "prob": 0.95
+  },
+  {
+   "w": "your",
+   "start": 118.8,
+   "end": 119.3,
+   "prob": 1.0
+  },
+  {
+   "w": "shit,",
+   "start": 119.3,
+   "end": 119.46,
+   "prob": 0.98
+  },
+  {
+   "w": "smooth",
+   "start": 119.48,
+   "end": 119.82,
+   "prob": 0.97
+  },
+  {
+   "w": "off,",
+   "start": 119.82,
+   "end": 120.22,
+   "prob": 0.98
+  },
+  {
+   "w": "then",
+   "start": 120.46,
+   "end": 120.76,
+   "prob": 0.97
+  },
+  {
+   "w": "blow",
+   "start": 120.76,
+   "end": 121.08,
+   "prob": 0.52
+  },
+  {
+   "w": "that",
+   "start": 121.08,
+   "end": 121.32,
+   "prob": 0.99
+  },
+  {
+   "w": "shit",
+   "start": 121.32,
+   "end": 121.58,
+   "prob": 1.0
+  },
+  {
+   "w": "back",
+   "start": 121.58,
+   "end": 121.9,
+   "prob": 1.0
+  },
+  {
+   "w": "on,",
+   "start": 121.9,
+   "end": 122.34,
+   "prob": 1.0
+  },
+  {
+   "w": "nigger,",
+   "start": 122.46,
+   "end": 122.74,
+   "prob": 0.87
+  },
+  {
+   "w": "it",
+   "start": 123.0,
+   "end": 123.2,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 123.2,
+   "end": 123.46,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 123.46,
+   "end": 123.86,
+   "prob": 1.0
+  },
+  {
+   "w": "over,",
+   "start": 123.86,
+   "end": 124.46,
+   "prob": 1.0
+  },
+  {
+   "w": "nigger,",
+   "start": 124.6,
+   "end": 124.82,
+   "prob": 0.99
+  },
+  {
+   "w": "it",
+   "start": 125.06,
+   "end": 125.28,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 125.28,
+   "end": 125.56,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 125.56,
+   "end": 125.94,
+   "prob": 1.0
+  },
+  {
+   "w": "over,",
+   "start": 125.94,
+   "end": 126.5,
+   "prob": 1.0
+  },
+  {
+   "w": "get",
+   "start": 126.62,
+   "end": 126.84,
+   "prob": 0.99
+  },
+  {
+   "w": "your",
+   "start": 126.84,
+   "end": 127.1,
+   "prob": 1.0
+  },
+  {
+   "w": "booty",
+   "start": 127.1,
+   "end": 127.44,
+   "prob": 1.0
+  },
+  {
+   "w": "hole",
+   "start": 127.44,
+   "end": 127.7,
+   "prob": 0.8
+  },
+  {
+   "w": "in",
+   "start": 127.7,
+   "end": 127.96,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 127.96,
+   "end": 128.12,
+   "prob": 1.0
+  },
+  {
+   "w": "cold,",
+   "start": 128.12,
+   "end": 128.58,
+   "prob": 0.49
+  },
+  {
+   "w": "it",
+   "start": 129.02,
+   "end": 129.36,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 129.36,
+   "end": 129.72,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 129.72,
+   "end": 130.2,
+   "prob": 1.0
+  },
+  {
+   "w": "over.",
+   "start": 130.2,
+   "end": 130.7,
+   "prob": 1.0
+  },
+  {
+   "w": "Smooth",
+   "start": 130.7,
+   "end": 131.34,
+   "prob": 0.58
+  },
+  {
+   "w": "on,",
+   "start": 131.34,
+   "end": 131.72,
+   "prob": 0.79
+  },
+  {
+   "w": "smooth",
+   "start": 131.8,
+   "end": 132.24,
+   "prob": 0.68
+  },
+  {
+   "w": "on,",
+   "start": 132.24,
+   "end": 132.88,
+   "prob": 0.99
+  },
+  {
+   "w": "do",
+   "start": 132.96,
+   "end": 133.24,
+   "prob": 0.85
+  },
+  {
+   "w": "your",
+   "start": 133.24,
+   "end": 133.56,
+   "prob": 0.98
+  },
+  {
+   "w": "shit,",
+   "start": 133.56,
+   "end": 133.8,
+   "prob": 0.95
+  },
+  {
+   "w": "smooth",
+   "start": 133.82,
+   "end": 134.32,
+   "prob": 0.93
+  },
+  {
+   "w": "on,",
+   "start": 134.32,
+   "end": 134.98,
+   "prob": 1.0
+  },
+  {
+   "w": "do",
+   "start": 135.14,
+   "end": 135.38,
+   "prob": 0.98
+  },
+  {
+   "w": "your",
+   "start": 135.38,
+   "end": 135.72,
+   "prob": 1.0
+  },
+  {
+   "w": "shit,",
+   "start": 135.72,
+   "end": 135.98,
+   "prob": 1.0
+  },
+  {
+   "w": "smooth",
+   "start": 136.24,
+   "end": 136.66,
+   "prob": 0.96
+  },
+  {
+   "w": "on,",
+   "start": 136.66,
+   "end": 136.96,
+   "prob": 1.0
+  },
+  {
+   "w": "it",
+   "start": 137.12,
+   "end": 137.32,
+   "prob": 0.65
+  },
+  {
+   "w": "is",
+   "start": 137.32,
+   "end": 137.54,
+   "prob": 0.99
+  },
+  {
+   "w": "not",
+   "start": 137.54,
+   "end": 137.86,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 137.86,
+   "end": 138.58,
+   "prob": 1.0
+  },
+  {
+   "w": "Smooth",
+   "start": 140.12,
+   "end": 140.76,
+   "prob": 0.01
+  },
+  {
+   "w": "off,",
+   "start": 140.76,
+   "end": 141.4,
+   "prob": 0.75
+  },
+  {
+   "w": "then",
+   "start": 141.6,
+   "end": 141.82,
+   "prob": 0.99
+  },
+  {
+   "w": "smooth",
+   "start": 141.82,
+   "end": 142.48,
+   "prob": 0.99
+  },
+  {
+   "w": "on,",
+   "start": 142.48,
+   "end": 143.18,
+   "prob": 1.0
+  },
+  {
+   "w": "it",
+   "start": 143.3,
+   "end": 143.46,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 143.46,
+   "end": 144.16,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 144.16,
+   "end": 144.78,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 144.78,
+   "end": 146.68,
+   "prob": 1.0
+  },
+  {
+   "w": "Glue",
+   "start": 155.18,
+   "end": 155.88,
+   "prob": 0.07
+  },
+  {
+   "w": "your",
+   "start": 155.88,
+   "end": 156.22,
+   "prob": 0.98
+  },
+  {
+   "w": "shit",
+   "start": 156.22,
+   "end": 156.44,
+   "prob": 0.97
+  },
+  {
+   "w": "smooth",
+   "start": 156.44,
+   "end": 156.76,
+   "prob": 0.85
+  },
+  {
+   "w": "on",
+   "start": 156.76,
+   "end": 157.14,
+   "prob": 0.98
+  },
+  {
+   "w": "Glue",
+   "start": 157.14,
+   "end": 158.0,
+   "prob": 0.66
+  },
+  {
+   "w": "your",
+   "start": 158.0,
+   "end": 158.32,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 158.32,
+   "end": 158.56,
+   "prob": 1.0
+  },
+  {
+   "w": "smooth",
+   "start": 158.56,
+   "end": 158.86,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 158.86,
+   "end": 159.28,
+   "prob": 1.0
+  },
+  {
+   "w": "Apply",
+   "start": 159.28,
+   "end": 160.18,
+   "prob": 0.98
+  },
+  {
+   "w": "it",
+   "start": 160.18,
+   "end": 160.48,
+   "prob": 0.87
+  },
+  {
+   "w": "directly",
+   "start": 160.48,
+   "end": 160.74,
+   "prob": 1.0
+  },
+  {
+   "w": "to",
+   "start": 160.74,
+   "end": 160.88,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 160.88,
+   "end": 161.0,
+   "prob": 0.99
+  },
+  {
+   "w": "forehead",
+   "start": 161.0,
+   "end": 161.52,
+   "prob": 1.0
+  },
+  {
+   "w": "Smooth",
+   "start": 161.52,
+   "end": 162.0,
+   "prob": 0.97
+  },
+  {
+   "w": "on",
+   "start": 162.0,
+   "end": 162.48,
+   "prob": 0.99
+  },
+  {
+   "w": "Smooth",
+   "start": 162.48,
+   "end": 162.84,
+   "prob": 0.13
+  },
+  {
+   "w": "on",
+   "start": 162.84,
+   "end": 163.64,
+   "prob": 1.0
+  },
+  {
+   "w": "Glue",
+   "start": 163.64,
+   "end": 164.16,
+   "prob": 0.2
+  },
+  {
+   "w": "your",
+   "start": 164.16,
+   "end": 164.6,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 164.6,
+   "end": 164.88,
+   "prob": 1.0
+  },
+  {
+   "w": "smooth",
+   "start": 164.88,
+   "end": 165.16,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 165.16,
+   "end": 165.6,
+   "prob": 0.53
+  },
+  {
+   "w": "Then",
+   "start": 165.6,
+   "end": 166.12,
+   "prob": 0.98
+  },
+  {
+   "w": "glue",
+   "start": 166.12,
+   "end": 166.5,
+   "prob": 0.99
+  },
+  {
+   "w": "that",
+   "start": 166.5,
+   "end": 166.74,
+   "prob": 1.0
+  },
+  {
+   "w": "shit",
+   "start": 166.74,
+   "end": 167.0,
+   "prob": 1.0
+  },
+  {
+   "w": "back",
+   "start": 167.0,
+   "end": 167.28,
+   "prob": 1.0
+  },
+  {
+   "w": "on",
+   "start": 167.28,
+   "end": 167.64,
+   "prob": 1.0
+  },
+  {
+   "w": "Nigger,",
+   "start": 167.64,
+   "end": 168.16,
+   "prob": 0.78
+  },
+  {
+   "w": "it",
+   "start": 168.38,
+   "end": 168.6,
+   "prob": 0.99
+  },
+  {
+   "w": "is",
+   "start": 168.6,
+   "end": 168.88,
+   "prob": 0.99
+  },
+  {
+   "w": "not",
+   "start": 168.88,
+   "end": 169.32,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 169.32,
+   "end": 169.84,
+   "prob": 1.0
+  },
+  {
+   "w": "Nigger,",
+   "start": 169.84,
+   "end": 170.28,
+   "prob": 0.87
+  },
+  {
+   "w": "it",
+   "start": 170.52,
+   "end": 170.7,
+   "prob": 1.0
+  },
+  {
+   "w": "is",
+   "start": 170.7,
+   "end": 170.96,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 170.96,
+   "end": 171.42,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 171.42,
+   "end": 171.94,
+   "prob": 1.0
+  },
+  {
+   "w": "Get",
+   "start": 171.94,
+   "end": 172.28,
+   "prob": 0.92
+  },
+  {
+   "w": "your",
+   "start": 172.28,
+   "end": 172.56,
+   "prob": 0.99
+  },
+  {
+   "w": "booty",
+   "start": 172.56,
+   "end": 172.88,
+   "prob": 1.0
+  },
+  {
+   "w": "hole",
+   "start": 172.88,
+   "end": 173.14,
+   "prob": 0.97
+  },
+  {
+   "w": "in",
+   "start": 173.14,
+   "end": 173.4,
+   "prob": 1.0
+  },
+  {
+   "w": "the",
+   "start": 173.4,
+   "end": 173.56,
+   "prob": 1.0
+  },
+  {
+   "w": "cold",
+   "start": 173.56,
+   "end": 174.04,
+   "prob": 0.52
+  },
+  {
+   "w": "It",
+   "start": 174.04,
+   "end": 174.78,
+   "prob": 0.99
+  },
+  {
+   "w": "is",
+   "start": 174.78,
+   "end": 175.24,
+   "prob": 1.0
+  },
+  {
+   "w": "not",
+   "start": 175.24,
+   "end": 175.62,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 175.62,
+   "end": 176.3,
+   "prob": 1.0
+  },
+  {
+   "w": "The",
+   "start": 176.3,
+   "end": 176.9,
+   "prob": 0.75
+  },
+  {
+   "w": "coal",
+   "start": 176.9,
+   "end": 177.36,
+   "prob": 0.98
+  },
+  {
+   "w": "mines",
+   "start": 177.36,
+   "end": 177.76,
+   "prob": 0.83
+  },
+  {
+   "w": "are",
+   "start": 177.76,
+   "end": 178.02,
+   "prob": 1.0
+  },
+  {
+   "w": "calling,",
+   "start": 178.02,
+   "end": 178.8,
+   "prob": 0.99
+  },
+  {
+   "w": "it",
+   "start": 179.18,
+   "end": 179.42,
+   "prob": 0.95
+  },
+  {
+   "w": "is",
+   "start": 179.42,
+   "end": 180.06,
+   "prob": 0.99
+  },
+  {
+   "w": "not",
+   "start": 180.06,
+   "end": 180.62,
+   "prob": 1.0
+  },
+  {
+   "w": "over",
+   "start": 180.62,
+   "end": 181.62,
+   "prob": 1.0
+  },
+  {
+   "w": "Glue",
+   "start": 181.62,
+   "end": 182.2,
+   "prob": 0.46
+  },
+  {
+   "w": "your",
+   "start": 182.2,
+   "end": 183.52,
+   "prob": 0.98
+  },
+  {
+   "w": "shit",
+   "start": 183.52,
+   "end": 184.44,
+   "prob": 0.93
+  },
+  {
+   "w": "smooth",
+   "start": 184.44,
+   "end": 185.92,
+   "prob": 0.48
+  },
+  {
+   "w": "on",
+   "start": 185.92,
+   "end": 187.58,
+   "prob": 0.96
+  }
+ ],
+ "lines": [
+  {
+   "idx": 1,
+   "section": "Intro",
+   "line_in_section": 1,
+   "sheet_text": "The coal mines are calling, good sir",
+   "start": 12.64,
+   "end": 16.28,
+   "dur": 3.64,
+   "tag": "confirmed",
+   "note": "ASR 'good, sir' = sheet 'good sir'",
+   "asr_words": [
+    {
+     "w": "The",
+     "start": 12.64,
+     "end": 13.64,
+     "prob": 0.66
+    },
+    {
+     "w": "coal",
+     "start": 13.64,
+     "end": 14.14,
+     "prob": 0.9
+    },
+    {
+     "w": "mines",
+     "start": 14.14,
+     "end": 14.58,
+     "prob": 0.95
+    },
+    {
+     "w": "are",
+     "start": 14.58,
+     "end": 14.82,
+     "prob": 0.99
+    },
+    {
+     "w": "calling",
+     "start": 14.82,
+     "end": 15.34,
+     "prob": 0.98
+    },
+    {
+     "w": "good,",
+     "start": 15.34,
+     "end": 15.74,
+     "prob": 0.59
+    },
+    {
+     "w": "sir",
+     "start": 16.02,
+     "end": 16.28,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 2,
+   "section": "Intro",
+   "line_in_section": 2,
+   "sheet_text": "It is not over",
+   "start": 17.68,
+   "end": 20.58,
+   "dur": 2.9,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "It",
+     "start": 17.68,
+     "end": 18.68,
+     "prob": 0.45
+    },
+    {
+     "w": "is",
+     "start": 18.68,
+     "end": 18.9,
+     "prob": 0.99
+    },
+    {
+     "w": "not",
+     "start": 18.9,
+     "end": 19.26,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 19.26,
+     "end": 20.58,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 3,
+   "section": "Intro",
+   "line_in_section": 3,
+   "sheet_text": "Pray, glue your shit smooth on",
+   "start": 21.7,
+   "end": 27.2,
+   "dur": 5.5,
+   "tag": "confirmed",
+   "note": "ASR segments split mid-line at 25.00; one performed line",
+   "asr_words": [
+    {
+     "w": "Pray,",
+     "start": 21.7,
+     "end": 22.7,
+     "prob": 0.58
+    },
+    {
+     "w": "glue",
+     "start": 23.54,
+     "end": 24.04,
+     "prob": 0.54
+    },
+    {
+     "w": "your",
+     "start": 24.04,
+     "end": 24.5,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 24.5,
+     "end": 25.0,
+     "prob": 0.99
+    },
+    {
+     "w": "Smooth",
+     "start": 25.0,
+     "end": 26.04,
+     "prob": 0.09
+    },
+    {
+     "w": "on",
+     "start": 26.04,
+     "end": 27.2,
+     "prob": 0.98
+    }
+   ]
+  },
+  {
+   "idx": 4,
+   "section": "Verse 1",
+   "line_in_section": 1,
+   "sheet_text": "They declared the matter finished",
+   "start": 30.08,
+   "end": 32.5,
+   "dur": 2.42,
+   "tag": "confirmed",
+   "note": "split from merged ASR segment at word 'they' 32.50",
+   "asr_words": [
+    {
+     "w": "They",
+     "start": 30.08,
+     "end": 30.72,
+     "prob": 0.81
+    },
+    {
+     "w": "declared",
+     "start": 30.72,
+     "end": 31.14,
+     "prob": 0.98
+    },
+    {
+     "w": "the",
+     "start": 31.14,
+     "end": 31.34,
+     "prob": 1.0
+    },
+    {
+     "w": "matter",
+     "start": 31.34,
+     "end": 31.78,
+     "prob": 0.99
+    },
+    {
+     "w": "finished,",
+     "start": 31.78,
+     "end": 32.32,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 5,
+   "section": "Verse 1",
+   "line_in_section": 2,
+   "sheet_text": "They bid me pack and depart",
+   "start": 32.5,
+   "end": 34.24,
+   "dur": 1.74,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "they",
+     "start": 32.5,
+     "end": 32.74,
+     "prob": 0.95
+    },
+    {
+     "w": "bid",
+     "start": 32.74,
+     "end": 32.86,
+     "prob": 0.7
+    },
+    {
+     "w": "me",
+     "start": 32.86,
+     "end": 33.0,
+     "prob": 1.0
+    },
+    {
+     "w": "pack",
+     "start": 33.0,
+     "end": 33.28,
+     "prob": 0.54
+    },
+    {
+     "w": "and",
+     "start": 33.28,
+     "end": 33.72,
+     "prob": 0.99
+    },
+    {
+     "w": "depart",
+     "start": 33.72,
+     "end": 34.24,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 6,
+   "section": "Verse 1",
+   "line_in_section": 3,
+   "sheet_text": "I pressed the tube to the forehead",
+   "start": 34.24,
+   "end": 36.58,
+   "dur": 2.34,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "I",
+     "start": 34.24,
+     "end": 34.78,
+     "prob": 0.48
+    },
+    {
+     "w": "pressed",
+     "start": 34.78,
+     "end": 34.96,
+     "prob": 0.99
+    },
+    {
+     "w": "the",
+     "start": 34.96,
+     "end": 35.08,
+     "prob": 0.97
+    },
+    {
+     "w": "tube",
+     "start": 35.08,
+     "end": 35.42,
+     "prob": 0.96
+    },
+    {
+     "w": "to",
+     "start": 35.42,
+     "end": 35.78,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 35.78,
+     "end": 35.98,
+     "prob": 1.0
+    },
+    {
+     "w": "forehead",
+     "start": 35.98,
+     "end": 36.58,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 7,
+   "section": "Verse 1",
+   "line_in_section": 4,
+   "sheet_text": "And glued that shit smooth on",
+   "start": 36.58,
+   "end": 39.08,
+   "dur": 2.5,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "and",
+     "start": 36.58,
+     "end": 37.06,
+     "prob": 0.91
+    },
+    {
+     "w": "glued",
+     "start": 37.06,
+     "end": 37.34,
+     "prob": 1.0
+    },
+    {
+     "w": "that",
+     "start": 37.34,
+     "end": 37.6,
+     "prob": 0.99
+    },
+    {
+     "w": "shit",
+     "start": 37.6,
+     "end": 37.9,
+     "prob": 0.94
+    },
+    {
+     "w": "smooth",
+     "start": 37.9,
+     "end": 38.44,
+     "prob": 0.66
+    },
+    {
+     "w": "on",
+     "start": 38.44,
+     "end": 39.08,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 8,
+   "section": "Verse 1",
+   "line_in_section": 5,
+   "sheet_text": "Nigga, it is not over",
+   "start": 39.08,
+   "end": 40.92,
+   "dur": 1.84,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Nigger,",
+     "start": 39.08,
+     "end": 39.52,
+     "prob": 0.84
+    },
+    {
+     "w": "it",
+     "start": 39.74,
+     "end": 39.82,
+     "prob": 0.99
+    },
+    {
+     "w": "is",
+     "start": 39.82,
+     "end": 40.02,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 40.02,
+     "end": 40.32,
+     "prob": 1.0
+    },
+    {
+     "w": "over,",
+     "start": 40.32,
+     "end": 40.68,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 9,
+   "section": "Verse 1",
+   "line_in_section": 6,
+   "sheet_text": "Nigga, it is not over",
+   "start": 40.92,
+   "end": 42.76,
+   "dur": 1.84,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "nigger,",
+     "start": 40.92,
+     "end": 41.6,
+     "prob": 0.94
+    },
+    {
+     "w": "it",
+     "start": 41.84,
+     "end": 41.92,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 41.92,
+     "end": 42.1,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 42.1,
+     "end": 42.4,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 42.4,
+     "end": 42.76,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 10,
+   "section": "Verse 1",
+   "line_in_section": 7,
+   "sheet_text": "Kindly place your bootyhole in the coal",
+   "start": 42.76,
+   "end": 45.3,
+   "dur": 2.54,
+   "tag": "confirmed",
+   "note": "ASR 'booty hole' two words; sheet one",
+   "asr_words": [
+    {
+     "w": "Kindly",
+     "start": 42.76,
+     "end": 43.32,
+     "prob": 0.98
+    },
+    {
+     "w": "place",
+     "start": 43.32,
+     "end": 43.66,
+     "prob": 1.0
+    },
+    {
+     "w": "your",
+     "start": 43.66,
+     "end": 43.86,
+     "prob": 1.0
+    },
+    {
+     "w": "booty",
+     "start": 43.86,
+     "end": 44.18,
+     "prob": 0.99
+    },
+    {
+     "w": "hole",
+     "start": 44.18,
+     "end": 44.46,
+     "prob": 0.97
+    },
+    {
+     "w": "in",
+     "start": 44.46,
+     "end": 44.7,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 44.7,
+     "end": 44.94,
+     "prob": 1.0
+    },
+    {
+     "w": "coal,",
+     "start": 44.94,
+     "end": 45.22,
+     "prob": 0.91
+    }
+   ]
+  },
+  {
+   "idx": 11,
+   "section": "Verse 1",
+   "line_in_section": 8,
+   "sheet_text": "This coal shall not mine itself",
+   "start": 45.3,
+   "end": 47.92,
+   "dur": 2.62,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "this",
+     "start": 45.3,
+     "end": 45.48,
+     "prob": 1.0
+    },
+    {
+     "w": "coal",
+     "start": 45.48,
+     "end": 45.8,
+     "prob": 1.0
+    },
+    {
+     "w": "shall",
+     "start": 45.8,
+     "end": 46.06,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 46.06,
+     "end": 46.5,
+     "prob": 1.0
+    },
+    {
+     "w": "mine",
+     "start": 46.5,
+     "end": 47.0,
+     "prob": 1.0
+    },
+    {
+     "w": "itself",
+     "start": 47.0,
+     "end": 47.92,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 12,
+   "section": "Call 1",
+   "line_in_section": 1,
+   "sheet_text": "The coal mines are calling",
+   "start": 47.92,
+   "end": 50.2,
+   "dur": 2.28,
+   "tag": "confirmed",
+   "note": "ASR hears 'called' \u2014 performed-vs-sheet: sheet governs",
+   "asr_words": [
+    {
+     "w": "The",
+     "start": 47.92,
+     "end": 48.56,
+     "prob": 0.98
+    },
+    {
+     "w": "coal",
+     "start": 48.56,
+     "end": 49.12,
+     "prob": 1.0
+    },
+    {
+     "w": "mines",
+     "start": 49.12,
+     "end": 49.5,
+     "prob": 0.61
+    },
+    {
+     "w": "are",
+     "start": 49.5,
+     "end": 49.74,
+     "prob": 0.79
+    },
+    {
+     "w": "called",
+     "start": 49.74,
+     "end": 50.2,
+     "prob": 0.33
+    }
+   ]
+  },
+  {
+   "idx": 13,
+   "section": "Call 1",
+   "line_in_section": 2,
+   "sheet_text": "It is not over",
+   "start": 50.2,
+   "end": 52.66,
+   "dur": 2.46,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "It",
+     "start": 50.2,
+     "end": 50.84,
+     "prob": 0.14
+    },
+    {
+     "w": "is",
+     "start": 50.84,
+     "end": 51.2,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 51.2,
+     "end": 51.76,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 51.76,
+     "end": 52.66,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 14,
+   "section": "Chorus 1",
+   "line_in_section": 1,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 55.5,
+   "end": 57.8,
+   "dur": 2.3,
+   "tag": "confirmed",
+   "note": "hero line, occurrence 1",
+   "asr_words": [
+    {
+     "w": "Glue",
+     "start": 55.5,
+     "end": 56.14,
+     "prob": 0.7
+    },
+    {
+     "w": "your",
+     "start": 56.14,
+     "end": 56.44,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 56.44,
+     "end": 56.76,
+     "prob": 0.99
+    },
+    {
+     "w": "smooth",
+     "start": 56.76,
+     "end": 57.2,
+     "prob": 0.87
+    },
+    {
+     "w": "on,",
+     "start": 57.2,
+     "end": 57.72,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 15,
+   "section": "Chorus 1",
+   "line_in_section": 2,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 57.8,
+   "end": 59.7,
+   "dur": 1.9,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "glue",
+     "start": 57.8,
+     "end": 58.06,
+     "prob": 0.99
+    },
+    {
+     "w": "your",
+     "start": 58.06,
+     "end": 58.52,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 58.52,
+     "end": 58.76,
+     "prob": 1.0
+    },
+    {
+     "w": "smooth",
+     "start": 58.76,
+     "end": 59.1,
+     "prob": 1.0
+    },
+    {
+     "w": "on",
+     "start": 59.1,
+     "end": 59.7,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 16,
+   "section": "Chorus 1",
+   "line_in_section": 3,
+   "sheet_text": "Apply it directly to the forehead",
+   "start": 59.7,
+   "end": 61.7,
+   "dur": 2.0,
+   "tag": "confirmed",
+   "note": "hero line",
+   "asr_words": [
+    {
+     "w": "Apply",
+     "start": 59.7,
+     "end": 60.36,
+     "prob": 0.89
+    },
+    {
+     "w": "it",
+     "start": 60.36,
+     "end": 60.62,
+     "prob": 0.8
+    },
+    {
+     "w": "directly",
+     "start": 60.62,
+     "end": 60.92,
+     "prob": 1.0
+    },
+    {
+     "w": "to",
+     "start": 60.92,
+     "end": 61.08,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 61.08,
+     "end": 61.18,
+     "prob": 1.0
+    },
+    {
+     "w": "forehead",
+     "start": 61.18,
+     "end": 61.7,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 17,
+   "section": "Chorus 1",
+   "line_in_section": 4,
+   "sheet_text": "Smooth on, smooth on",
+   "start": 61.7,
+   "end": 63.78,
+   "dur": 2.08,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Smooth",
+     "start": 61.7,
+     "end": 62.18,
+     "prob": 0.7
+    },
+    {
+     "w": "on,",
+     "start": 62.18,
+     "end": 62.74,
+     "prob": 0.99
+    },
+    {
+     "w": "smooth",
+     "start": 62.74,
+     "end": 63.28,
+     "prob": 0.99
+    },
+    {
+     "w": "on",
+     "start": 63.28,
+     "end": 63.78,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 18,
+   "section": "Chorus 1",
+   "line_in_section": 5,
+   "sheet_text": "Blow your shit shmoove off",
+   "start": 63.78,
+   "end": 65.82,
+   "dur": 2.04,
+   "tag": "confirmed",
+   "note": "ASR 'smooth off'; performed 'shmoove' per sheet + MV-30/31/32 precedent",
+   "asr_words": [
+    {
+     "w": "Blow",
+     "start": 63.78,
+     "end": 64.3,
+     "prob": 0.89
+    },
+    {
+     "w": "your",
+     "start": 64.3,
+     "end": 64.8,
+     "prob": 1.0
+    },
+    {
+     "w": "shit,",
+     "start": 64.8,
+     "end": 65.02,
+     "prob": 0.95
+    },
+    {
+     "w": "smooth",
+     "start": 65.06,
+     "end": 65.34,
+     "prob": 0.94
+    },
+    {
+     "w": "off",
+     "start": 65.34,
+     "end": 65.82,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 19,
+   "section": "Chorus 1",
+   "line_in_section": 6,
+   "sheet_text": "Then glue that shit back on",
+   "start": 65.82,
+   "end": 67.9,
+   "dur": 2.08,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Then",
+     "start": 65.82,
+     "end": 66.34,
+     "prob": 0.96
+    },
+    {
+     "w": "glue",
+     "start": 66.34,
+     "end": 66.62,
+     "prob": 1.0
+    },
+    {
+     "w": "that",
+     "start": 66.62,
+     "end": 66.88,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 66.88,
+     "end": 67.12,
+     "prob": 1.0
+    },
+    {
+     "w": "back",
+     "start": 67.12,
+     "end": 67.44,
+     "prob": 1.0
+    },
+    {
+     "w": "on",
+     "start": 67.44,
+     "end": 67.9,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 20,
+   "section": "Chorus 1",
+   "line_in_section": 7,
+   "sheet_text": "Nigga, it is not over",
+   "start": 67.9,
+   "end": 70.08,
+   "dur": 2.18,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Nigger,",
+     "start": 67.9,
+     "end": 68.26,
+     "prob": 0.82
+    },
+    {
+     "w": "it",
+     "start": 68.64,
+     "end": 68.76,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 68.76,
+     "end": 69.0,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 69.0,
+     "end": 69.48,
+     "prob": 1.0
+    },
+    {
+     "w": "over,",
+     "start": 69.48,
+     "end": 70.0,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 21,
+   "section": "Chorus 1",
+   "line_in_section": 8,
+   "sheet_text": "Nigga, it is not over",
+   "start": 70.08,
+   "end": 72.04,
+   "dur": 1.96,
+   "tag": "confirmed",
+   "note": "performed weakly; ASR splits 'nigger / it is not over'",
+   "asr_words": [
+    {
+     "w": "nigger",
+     "start": 70.08,
+     "end": 70.44,
+     "prob": 0.95
+    },
+    {
+     "w": "It",
+     "start": 70.44,
+     "end": 70.8,
+     "prob": 0.96
+    },
+    {
+     "w": "is",
+     "start": 70.8,
+     "end": 71.08,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 71.08,
+     "end": 71.66,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 71.66,
+     "end": 72.04,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 22,
+   "section": "Chorus 1",
+   "line_in_section": 9,
+   "sheet_text": "Get your bootyhole in the coal",
+   "start": 72.04,
+   "end": 74.18,
+   "dur": 2.14,
+   "tag": "confirmed",
+   "note": "ASR 'cold' = coal",
+   "asr_words": [
+    {
+     "w": "Get",
+     "start": 72.04,
+     "end": 72.36,
+     "prob": 0.98
+    },
+    {
+     "w": "your",
+     "start": 72.36,
+     "end": 72.64,
+     "prob": 1.0
+    },
+    {
+     "w": "booty",
+     "start": 72.64,
+     "end": 72.98,
+     "prob": 1.0
+    },
+    {
+     "w": "hole",
+     "start": 72.98,
+     "end": 73.22,
+     "prob": 0.98
+    },
+    {
+     "w": "in",
+     "start": 73.22,
+     "end": 73.48,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 73.48,
+     "end": 73.68,
+     "prob": 1.0
+    },
+    {
+     "w": "cold",
+     "start": 73.68,
+     "end": 74.18,
+     "prob": 0.79
+    }
+   ]
+  },
+  {
+   "idx": 23,
+   "section": "Chorus 1",
+   "line_in_section": 10,
+   "sheet_text": "It is not over",
+   "start": 74.18,
+   "end": 76.38,
+   "dur": 2.2,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "It",
+     "start": 74.18,
+     "end": 74.8,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 74.8,
+     "end": 75.22,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 75.22,
+     "end": 75.74,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 75.74,
+     "end": 76.38,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 24,
+   "section": "Verse 2",
+   "line_in_section": 1,
+   "sheet_text": "Fries in the bag, as before",
+   "start": 79.86,
+   "end": 82.38,
+   "dur": 2.52,
+   "tag": "confirmed",
+   "note": "ASR drops comma only",
+   "asr_words": [
+    {
+     "w": "Fries",
+     "start": 79.86,
+     "end": 80.62,
+     "prob": 0.99
+    },
+    {
+     "w": "in",
+     "start": 80.62,
+     "end": 80.86,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 80.86,
+     "end": 81.1,
+     "prob": 1.0
+    },
+    {
+     "w": "bag",
+     "start": 81.1,
+     "end": 81.6,
+     "prob": 1.0
+    },
+    {
+     "w": "as",
+     "start": 81.6,
+     "end": 81.86,
+     "prob": 0.99
+    },
+    {
+     "w": "before",
+     "start": 81.86,
+     "end": 82.38,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 25,
+   "section": "Verse 2",
+   "line_in_section": 2,
+   "sheet_text": "The same as every shift",
+   "start": 83.3,
+   "end": 86.62,
+   "dur": 3.32,
+   "tag": "confirmed",
+   "note": "0.92s breath before this line",
+   "asr_words": [
+    {
+     "w": "The",
+     "start": 83.3,
+     "end": 84.06,
+     "prob": 1.0
+    },
+    {
+     "w": "same",
+     "start": 84.06,
+     "end": 84.7,
+     "prob": 1.0
+    },
+    {
+     "w": "as",
+     "start": 84.7,
+     "end": 85.32,
+     "prob": 1.0
+    },
+    {
+     "w": "every",
+     "start": 85.32,
+     "end": 85.94,
+     "prob": 1.0
+    },
+    {
+     "w": "shift",
+     "start": 85.94,
+     "end": 86.62,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 26,
+   "section": "Verse 2",
+   "line_in_section": 3,
+   "sheet_text": "They advised me to go home",
+   "start": 86.62,
+   "end": 91.48,
+   "dur": 4.86,
+   "tag": "confirmed",
+   "note": "long held 'home' to 91.48",
+   "asr_words": [
+    {
+     "w": "They",
+     "start": 86.62,
+     "end": 88.06,
+     "prob": 0.72
+    },
+    {
+     "w": "advised",
+     "start": 88.06,
+     "end": 88.8,
+     "prob": 0.99
+    },
+    {
+     "w": "me",
+     "start": 88.8,
+     "end": 89.36,
+     "prob": 1.0
+    },
+    {
+     "w": "to",
+     "start": 89.36,
+     "end": 89.72,
+     "prob": 0.99
+    },
+    {
+     "w": "go",
+     "start": 89.72,
+     "end": 90.28,
+     "prob": 0.98
+    },
+    {
+     "w": "home,",
+     "start": 90.28,
+     "end": 91.48,
+     "prob": 0.97
+    }
+   ]
+  },
+  {
+   "idx": 27,
+   "section": "Verse 2",
+   "line_in_section": 4,
+   "sheet_text": "I glued that shit smooth on",
+   "start": 91.48,
+   "end": 95.24,
+   "dur": 3.76,
+   "tag": "confirmed",
+   "note": "'smooth on' lands 93.56-95.0 across ASR segment seam",
+   "asr_words": [
+    {
+     "w": "I",
+     "start": 91.48,
+     "end": 92.28,
+     "prob": 0.99
+    },
+    {
+     "w": "glued",
+     "start": 92.28,
+     "end": 92.72,
+     "prob": 0.97
+    },
+    {
+     "w": "that",
+     "start": 92.72,
+     "end": 93.06,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 93.06,
+     "end": 93.56,
+     "prob": 0.99
+    },
+    {
+     "w": "Smooth",
+     "start": 93.56,
+     "end": 94.48,
+     "prob": 0.5
+    },
+    {
+     "w": "on,",
+     "start": 94.48,
+     "end": 95.08,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 28,
+   "section": "Verse 2",
+   "line_in_section": 5,
+   "sheet_text": "Nigga, it is not over",
+   "start": 95.24,
+   "end": 96.64,
+   "dur": 1.4,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "nigger,",
+     "start": 95.24,
+     "end": 95.44,
+     "prob": 0.84
+    },
+    {
+     "w": "it",
+     "start": 95.68,
+     "end": 95.78,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 95.78,
+     "end": 95.96,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 95.96,
+     "end": 96.3,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 96.3,
+     "end": 96.64,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 29,
+   "section": "Verse 2",
+   "line_in_section": 6,
+   "sheet_text": "Nigga, it is not over",
+   "start": 96.64,
+   "end": 98.16,
+   "dur": 1.52,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Nigger,",
+     "start": 96.64,
+     "end": 97.02,
+     "prob": 0.57
+    },
+    {
+     "w": "it",
+     "start": 97.26,
+     "end": 97.34,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 97.34,
+     "end": 97.52,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 97.52,
+     "end": 97.86,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 97.86,
+     "end": 98.16,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 30,
+   "section": "Verse 2",
+   "line_in_section": 7,
+   "sheet_text": "Spread them cheeks wide",
+   "start": 98.16,
+   "end": 100.0,
+   "dur": 1.84,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Spread",
+     "start": 98.16,
+     "end": 98.5,
+     "prob": 0.99
+    },
+    {
+     "w": "them",
+     "start": 98.5,
+     "end": 98.74,
+     "prob": 1.0
+    },
+    {
+     "w": "cheeks,",
+     "start": 98.74,
+     "end": 99.22,
+     "prob": 1.0
+    },
+    {
+     "w": "wide,",
+     "start": 99.48,
+     "end": 99.78,
+     "prob": 0.83
+    }
+   ]
+  },
+  {
+   "idx": 31,
+   "section": "Verse 2",
+   "line_in_section": 8,
+   "sheet_text": "Coal inside",
+   "start": 100.0,
+   "end": 100.64,
+   "dur": 0.64,
+   "tag": "confirmed",
+   "note": "ASR 'cold inside'",
+   "asr_words": [
+    {
+     "w": "cold",
+     "start": 100.0,
+     "end": 100.18,
+     "prob": 0.5
+    },
+    {
+     "w": "inside",
+     "start": 100.18,
+     "end": 100.64,
+     "prob": 0.98
+    }
+   ]
+  },
+  {
+   "idx": 32,
+   "section": "Verse 2",
+   "line_in_section": 9,
+   "sheet_text": "It is not over",
+   "start": 100.64,
+   "end": 102.46,
+   "dur": 1.82,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "It",
+     "start": 100.64,
+     "end": 101.16,
+     "prob": 0.91
+    },
+    {
+     "w": "is",
+     "start": 101.16,
+     "end": 101.42,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 101.42,
+     "end": 101.86,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 101.86,
+     "end": 102.46,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 33,
+   "section": "Call 2",
+   "line_in_section": 1,
+   "sheet_text": "The coal mines are calling",
+   "start": 102.46,
+   "end": 104.76,
+   "dur": 2.3,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "The",
+     "start": 102.46,
+     "end": 102.96,
+     "prob": 0.96
+    },
+    {
+     "w": "coal",
+     "start": 102.96,
+     "end": 103.46,
+     "prob": 1.0
+    },
+    {
+     "w": "mines",
+     "start": 103.46,
+     "end": 103.86,
+     "prob": 0.98
+    },
+    {
+     "w": "are",
+     "start": 103.86,
+     "end": 104.08,
+     "prob": 1.0
+    },
+    {
+     "w": "calling",
+     "start": 104.08,
+     "end": 104.76,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 34,
+   "section": "Call 2",
+   "line_in_section": 2,
+   "sheet_text": "It is not over",
+   "start": 104.76,
+   "end": 107.06,
+   "dur": 2.3,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "It",
+     "start": 104.76,
+     "end": 105.22,
+     "prob": 0.74
+    },
+    {
+     "w": "is",
+     "start": 105.22,
+     "end": 105.6,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 105.6,
+     "end": 106.28,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 106.28,
+     "end": 107.06,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 35,
+   "section": "Chorus 2",
+   "line_in_section": 1,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 109.82,
+   "end": 111.88,
+   "dur": 2.06,
+   "tag": "confirmed",
+   "note": "hero line, occurrence 2",
+   "asr_words": [
+    {
+     "w": "Glue",
+     "start": 109.82,
+     "end": 110.56,
+     "prob": 0.54
+    },
+    {
+     "w": "your",
+     "start": 110.56,
+     "end": 110.86,
+     "prob": 1.0
+    },
+    {
+     "w": "shit,",
+     "start": 110.86,
+     "end": 111.1,
+     "prob": 1.0
+    },
+    {
+     "w": "smooth",
+     "start": 111.24,
+     "end": 111.4,
+     "prob": 1.0
+    },
+    {
+     "w": "on",
+     "start": 111.4,
+     "end": 111.88,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 36,
+   "section": "Chorus 2",
+   "line_in_section": 2,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 111.88,
+   "end": 114.0,
+   "dur": 2.12,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Glue",
+     "start": 111.88,
+     "end": 112.46,
+     "prob": 0.74
+    },
+    {
+     "w": "your",
+     "start": 112.46,
+     "end": 112.92,
+     "prob": 1.0
+    },
+    {
+     "w": "shit,",
+     "start": 112.92,
+     "end": 113.18,
+     "prob": 1.0
+    },
+    {
+     "w": "smooth",
+     "start": 113.3,
+     "end": 113.52,
+     "prob": 1.0
+    },
+    {
+     "w": "on",
+     "start": 113.52,
+     "end": 114.0,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 37,
+   "section": "Chorus 2",
+   "line_in_section": 3,
+   "sheet_text": "Apply it directly to the forehead",
+   "start": 114.0,
+   "end": 116.08,
+   "dur": 2.08,
+   "tag": "confirmed",
+   "note": "hero line",
+   "asr_words": [
+    {
+     "w": "Apply",
+     "start": 114.0,
+     "end": 114.66,
+     "prob": 0.93
+    },
+    {
+     "w": "it",
+     "start": 114.66,
+     "end": 115.04,
+     "prob": 0.93
+    },
+    {
+     "w": "directly",
+     "start": 115.04,
+     "end": 115.34,
+     "prob": 1.0
+    },
+    {
+     "w": "to",
+     "start": 115.34,
+     "end": 115.52,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 115.52,
+     "end": 115.64,
+     "prob": 1.0
+    },
+    {
+     "w": "forehead",
+     "start": 115.64,
+     "end": 116.08,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 38,
+   "section": "Chorus 2",
+   "line_in_section": 4,
+   "sheet_text": "Smooth on, smooth on",
+   "start": 116.08,
+   "end": 118.5,
+   "dur": 2.42,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Smooth",
+     "start": 116.08,
+     "end": 116.68,
+     "prob": 0.93
+    },
+    {
+     "w": "on,",
+     "start": 116.68,
+     "end": 117.18,
+     "prob": 0.91
+    },
+    {
+     "w": "smooth",
+     "start": 117.36,
+     "end": 117.72,
+     "prob": 0.94
+    },
+    {
+     "w": "on,",
+     "start": 117.72,
+     "end": 118.26,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 39,
+   "section": "Chorus 2",
+   "line_in_section": 5,
+   "sheet_text": "Blow your shit shmoove off",
+   "start": 118.56,
+   "end": 120.4,
+   "dur": 1.84,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "blow",
+     "start": 118.56,
+     "end": 118.8,
+     "prob": 0.95
+    },
+    {
+     "w": "your",
+     "start": 118.8,
+     "end": 119.3,
+     "prob": 1.0
+    },
+    {
+     "w": "shit,",
+     "start": 119.3,
+     "end": 119.46,
+     "prob": 0.98
+    },
+    {
+     "w": "smooth",
+     "start": 119.48,
+     "end": 119.82,
+     "prob": 0.97
+    },
+    {
+     "w": "off,",
+     "start": 119.82,
+     "end": 120.22,
+     "prob": 0.98
+    }
+   ]
+  },
+  {
+   "idx": 40,
+   "section": "Chorus 2",
+   "line_in_section": 6,
+   "sheet_text": "Then glue that shit back on",
+   "start": 120.46,
+   "end": 122.4,
+   "dur": 1.94,
+   "tag": "confirmed",
+   "note": "ASR 'then blow that shit back on' \u2014 sheet governs",
+   "asr_words": [
+    {
+     "w": "then",
+     "start": 120.46,
+     "end": 120.76,
+     "prob": 0.97
+    },
+    {
+     "w": "blow",
+     "start": 120.76,
+     "end": 121.08,
+     "prob": 0.52
+    },
+    {
+     "w": "that",
+     "start": 121.08,
+     "end": 121.32,
+     "prob": 0.99
+    },
+    {
+     "w": "shit",
+     "start": 121.32,
+     "end": 121.58,
+     "prob": 1.0
+    },
+    {
+     "w": "back",
+     "start": 121.58,
+     "end": 121.9,
+     "prob": 1.0
+    },
+    {
+     "w": "on,",
+     "start": 121.9,
+     "end": 122.34,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 41,
+   "section": "Chorus 2",
+   "line_in_section": 7,
+   "sheet_text": "Nigga, it is not over",
+   "start": 122.46,
+   "end": 124.6,
+   "dur": 2.14,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "nigger,",
+     "start": 122.46,
+     "end": 122.74,
+     "prob": 0.87
+    },
+    {
+     "w": "it",
+     "start": 123.0,
+     "end": 123.2,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 123.2,
+     "end": 123.46,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 123.46,
+     "end": 123.86,
+     "prob": 1.0
+    },
+    {
+     "w": "over,",
+     "start": 123.86,
+     "end": 124.46,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 42,
+   "section": "Chorus 2",
+   "line_in_section": 8,
+   "sheet_text": "Nigga, it is not over",
+   "start": 124.6,
+   "end": 126.6,
+   "dur": 2.0,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "nigger,",
+     "start": 124.6,
+     "end": 124.82,
+     "prob": 0.99
+    },
+    {
+     "w": "it",
+     "start": 125.06,
+     "end": 125.28,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 125.28,
+     "end": 125.56,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 125.56,
+     "end": 125.94,
+     "prob": 1.0
+    },
+    {
+     "w": "over,",
+     "start": 125.94,
+     "end": 126.5,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 43,
+   "section": "Chorus 2",
+   "line_in_section": 9,
+   "sheet_text": "Get your bootyhole in the coal",
+   "start": 126.62,
+   "end": 129.0,
+   "dur": 2.38,
+   "tag": "confirmed",
+   "note": "ASR 'cold' = coal",
+   "asr_words": [
+    {
+     "w": "get",
+     "start": 126.62,
+     "end": 126.84,
+     "prob": 0.99
+    },
+    {
+     "w": "your",
+     "start": 126.84,
+     "end": 127.1,
+     "prob": 1.0
+    },
+    {
+     "w": "booty",
+     "start": 127.1,
+     "end": 127.44,
+     "prob": 1.0
+    },
+    {
+     "w": "hole",
+     "start": 127.44,
+     "end": 127.7,
+     "prob": 0.8
+    },
+    {
+     "w": "in",
+     "start": 127.7,
+     "end": 127.96,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 127.96,
+     "end": 128.12,
+     "prob": 1.0
+    },
+    {
+     "w": "cold,",
+     "start": 128.12,
+     "end": 128.58,
+     "prob": 0.49
+    }
+   ]
+  },
+  {
+   "idx": 44,
+   "section": "Chorus 2",
+   "line_in_section": 10,
+   "sheet_text": "It is not over",
+   "start": 129.02,
+   "end": 130.7,
+   "dur": 1.68,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "it",
+     "start": 129.02,
+     "end": 129.36,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 129.36,
+     "end": 129.72,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 129.72,
+     "end": 130.2,
+     "prob": 1.0
+    },
+    {
+     "w": "over.",
+     "start": 130.2,
+     "end": 130.7,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 45,
+   "section": "Breakdown",
+   "line_in_section": 1,
+   "sheet_text": "Smooth on",
+   "start": 130.7,
+   "end": 131.8,
+   "dur": 1.1,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Smooth",
+     "start": 130.7,
+     "end": 131.34,
+     "prob": 0.58
+    },
+    {
+     "w": "on,",
+     "start": 131.34,
+     "end": 131.72,
+     "prob": 0.79
+    }
+   ]
+  },
+  {
+   "idx": 46,
+   "section": "Breakdown",
+   "line_in_section": 2,
+   "sheet_text": "Smooth on",
+   "start": 131.8,
+   "end": 132.96,
+   "dur": 1.16,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "smooth",
+     "start": 131.8,
+     "end": 132.24,
+     "prob": 0.68
+    },
+    {
+     "w": "on,",
+     "start": 132.24,
+     "end": 132.88,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 47,
+   "section": "Breakdown",
+   "line_in_section": 3,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 132.96,
+   "end": 134.32,
+   "dur": 1.36,
+   "tag": "confirmed",
+   "note": "ASR 'do your shit' = 'glue your shit'; PERFORMED REPEAT of this line at 135.14-136.90 (extra pass, not on sheet) \u2014 captions follow performance",
+   "asr_words": [
+    {
+     "w": "do",
+     "start": 132.96,
+     "end": 133.24,
+     "prob": 0.85
+    },
+    {
+     "w": "your",
+     "start": 133.24,
+     "end": 133.56,
+     "prob": 0.98
+    },
+    {
+     "w": "shit,",
+     "start": 133.56,
+     "end": 133.8,
+     "prob": 0.95
+    },
+    {
+     "w": "smooth",
+     "start": 133.82,
+     "end": 134.32,
+     "prob": 0.93
+    }
+   ]
+  },
+  {
+   "idx": 48,
+   "section": "Breakdown",
+   "line_in_section": 4,
+   "sheet_text": "It is not over",
+   "start": 137.12,
+   "end": 138.58,
+   "dur": 1.46,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "it",
+     "start": 137.12,
+     "end": 137.32,
+     "prob": 0.65
+    },
+    {
+     "w": "is",
+     "start": 137.32,
+     "end": 137.54,
+     "prob": 0.99
+    },
+    {
+     "w": "not",
+     "start": 137.54,
+     "end": 137.86,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 137.86,
+     "end": 138.58,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 49,
+   "section": "Breakdown",
+   "line_in_section": 5,
+   "sheet_text": "Nigga, it is not over",
+   "start": 138.58,
+   "end": 140.12,
+   "dur": 1.54,
+   "tag": "inferred",
+   "note": "ASR-silent window between segments; RMS in window is musical-level, line presumed soft-chanted \u2014 forced alignment at assembly resolves",
+   "asr_words": []
+  },
+  {
+   "idx": 50,
+   "section": "Breakdown",
+   "line_in_section": 6,
+   "sheet_text": "Shmoove off",
+   "start": 140.12,
+   "end": 141.6,
+   "dur": 1.48,
+   "tag": "confirmed",
+   "note": "ASR 'smooth off'",
+   "asr_words": [
+    {
+     "w": "Smooth",
+     "start": 140.12,
+     "end": 140.76,
+     "prob": 0.01
+    },
+    {
+     "w": "off,",
+     "start": 140.76,
+     "end": 141.4,
+     "prob": 0.75
+    }
+   ]
+  },
+  {
+   "idx": 51,
+   "section": "Breakdown",
+   "line_in_section": 7,
+   "sheet_text": "Then smooth on",
+   "start": 141.6,
+   "end": 143.3,
+   "dur": 1.7,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "then",
+     "start": 141.6,
+     "end": 141.82,
+     "prob": 0.99
+    },
+    {
+     "w": "smooth",
+     "start": 141.82,
+     "end": 142.48,
+     "prob": 0.99
+    },
+    {
+     "w": "on,",
+     "start": 142.48,
+     "end": 143.18,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 52,
+   "section": "Breakdown",
+   "line_in_section": 8,
+   "sheet_text": "It is not over",
+   "start": 143.3,
+   "end": 146.68,
+   "dur": 3.38,
+   "tag": "confirmed",
+   "note": "words end 144.78; segment tail (held note) to 146.68",
+   "asr_words": [
+    {
+     "w": "it",
+     "start": 143.3,
+     "end": 143.46,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 143.46,
+     "end": 144.16,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 144.16,
+     "end": 144.78,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 144.78,
+     "end": 146.68,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 53,
+   "section": "Final Chorus",
+   "line_in_section": 1,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 155.18,
+   "end": 157.14,
+   "dur": 1.96,
+   "tag": "confirmed",
+   "note": "hero line, occurrence 3",
+   "asr_words": [
+    {
+     "w": "Glue",
+     "start": 155.18,
+     "end": 155.88,
+     "prob": 0.07
+    },
+    {
+     "w": "your",
+     "start": 155.88,
+     "end": 156.22,
+     "prob": 0.98
+    },
+    {
+     "w": "shit",
+     "start": 156.22,
+     "end": 156.44,
+     "prob": 0.97
+    },
+    {
+     "w": "smooth",
+     "start": 156.44,
+     "end": 156.76,
+     "prob": 0.85
+    },
+    {
+     "w": "on",
+     "start": 156.76,
+     "end": 157.14,
+     "prob": 0.98
+    }
+   ]
+  },
+  {
+   "idx": 54,
+   "section": "Final Chorus",
+   "line_in_section": 2,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 157.14,
+   "end": 159.28,
+   "dur": 2.14,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Glue",
+     "start": 157.14,
+     "end": 158.0,
+     "prob": 0.66
+    },
+    {
+     "w": "your",
+     "start": 158.0,
+     "end": 158.32,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 158.32,
+     "end": 158.56,
+     "prob": 1.0
+    },
+    {
+     "w": "smooth",
+     "start": 158.56,
+     "end": 158.86,
+     "prob": 1.0
+    },
+    {
+     "w": "on",
+     "start": 158.86,
+     "end": 159.28,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 55,
+   "section": "Final Chorus",
+   "line_in_section": 3,
+   "sheet_text": "Apply it directly to the forehead",
+   "start": 159.28,
+   "end": 161.52,
+   "dur": 2.24,
+   "tag": "confirmed",
+   "note": "hero line",
+   "asr_words": [
+    {
+     "w": "Apply",
+     "start": 159.28,
+     "end": 160.18,
+     "prob": 0.98
+    },
+    {
+     "w": "it",
+     "start": 160.18,
+     "end": 160.48,
+     "prob": 0.87
+    },
+    {
+     "w": "directly",
+     "start": 160.48,
+     "end": 160.74,
+     "prob": 1.0
+    },
+    {
+     "w": "to",
+     "start": 160.74,
+     "end": 160.88,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 160.88,
+     "end": 161.0,
+     "prob": 0.99
+    },
+    {
+     "w": "forehead",
+     "start": 161.0,
+     "end": 161.52,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 56,
+   "section": "Final Chorus",
+   "line_in_section": 4,
+   "sheet_text": "Smooth on, smooth on",
+   "start": 161.52,
+   "end": 163.64,
+   "dur": 2.12,
+   "tag": "confirmed",
+   "note": "two ASR sub-segments 161.52-162.48 + 162.48-163.64",
+   "asr_words": [
+    {
+     "w": "Smooth",
+     "start": 161.52,
+     "end": 162.0,
+     "prob": 0.97
+    },
+    {
+     "w": "on",
+     "start": 162.0,
+     "end": 162.48,
+     "prob": 0.99
+    },
+    {
+     "w": "Smooth",
+     "start": 162.48,
+     "end": 162.84,
+     "prob": 0.13
+    },
+    {
+     "w": "on",
+     "start": 162.84,
+     "end": 163.64,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 57,
+   "section": "Final Chorus",
+   "line_in_section": 5,
+   "sheet_text": "Blow your shit shmoove off",
+   "start": 163.64,
+   "end": 165.6,
+   "dur": 1.96,
+   "tag": "inferred",
+   "note": "ASR hears a hook repeat ('Glue your shit smooth on') here; sheet governs line identity \u2014 FA at assembly decides performed text for captions",
+   "asr_words": []
+  },
+  {
+   "idx": 58,
+   "section": "Final Chorus",
+   "line_in_section": 6,
+   "sheet_text": "Then glue that shit back on",
+   "start": 165.6,
+   "end": 167.64,
+   "dur": 2.04,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Then",
+     "start": 165.6,
+     "end": 166.12,
+     "prob": 0.98
+    },
+    {
+     "w": "glue",
+     "start": 166.12,
+     "end": 166.5,
+     "prob": 0.99
+    },
+    {
+     "w": "that",
+     "start": 166.5,
+     "end": 166.74,
+     "prob": 1.0
+    },
+    {
+     "w": "shit",
+     "start": 166.74,
+     "end": 167.0,
+     "prob": 1.0
+    },
+    {
+     "w": "back",
+     "start": 167.0,
+     "end": 167.28,
+     "prob": 1.0
+    },
+    {
+     "w": "on",
+     "start": 167.28,
+     "end": 167.64,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 59,
+   "section": "Final Chorus",
+   "line_in_section": 7,
+   "sheet_text": "Nigga, it is not over",
+   "start": 167.64,
+   "end": 169.84,
+   "dur": 2.2,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Nigger,",
+     "start": 167.64,
+     "end": 168.16,
+     "prob": 0.78
+    },
+    {
+     "w": "it",
+     "start": 168.38,
+     "end": 168.6,
+     "prob": 0.99
+    },
+    {
+     "w": "is",
+     "start": 168.6,
+     "end": 168.88,
+     "prob": 0.99
+    },
+    {
+     "w": "not",
+     "start": 168.88,
+     "end": 169.32,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 169.32,
+     "end": 169.84,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 60,
+   "section": "Final Chorus",
+   "line_in_section": 8,
+   "sheet_text": "Nigga, it is not over",
+   "start": 169.84,
+   "end": 171.94,
+   "dur": 2.1,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "Nigger,",
+     "start": 169.84,
+     "end": 170.28,
+     "prob": 0.87
+    },
+    {
+     "w": "it",
+     "start": 170.52,
+     "end": 170.7,
+     "prob": 1.0
+    },
+    {
+     "w": "is",
+     "start": 170.7,
+     "end": 170.96,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 170.96,
+     "end": 171.42,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 171.42,
+     "end": 171.94,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 61,
+   "section": "Final Chorus",
+   "line_in_section": 9,
+   "sheet_text": "Get your bootyhole in the coal",
+   "start": 171.94,
+   "end": 174.04,
+   "dur": 2.1,
+   "tag": "confirmed",
+   "note": "ASR 'cold' = coal",
+   "asr_words": [
+    {
+     "w": "Get",
+     "start": 171.94,
+     "end": 172.28,
+     "prob": 0.92
+    },
+    {
+     "w": "your",
+     "start": 172.28,
+     "end": 172.56,
+     "prob": 0.99
+    },
+    {
+     "w": "booty",
+     "start": 172.56,
+     "end": 172.88,
+     "prob": 1.0
+    },
+    {
+     "w": "hole",
+     "start": 172.88,
+     "end": 173.14,
+     "prob": 0.97
+    },
+    {
+     "w": "in",
+     "start": 173.14,
+     "end": 173.4,
+     "prob": 1.0
+    },
+    {
+     "w": "the",
+     "start": 173.4,
+     "end": 173.56,
+     "prob": 1.0
+    },
+    {
+     "w": "cold",
+     "start": 173.56,
+     "end": 174.04,
+     "prob": 0.52
+    }
+   ]
+  },
+  {
+   "idx": 62,
+   "section": "Final Chorus",
+   "line_in_section": 10,
+   "sheet_text": "It is not over",
+   "start": 174.04,
+   "end": 176.3,
+   "dur": 2.26,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "It",
+     "start": 174.04,
+     "end": 174.78,
+     "prob": 0.99
+    },
+    {
+     "w": "is",
+     "start": 174.78,
+     "end": 175.24,
+     "prob": 1.0
+    },
+    {
+     "w": "not",
+     "start": 175.24,
+     "end": 175.62,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 175.62,
+     "end": 176.3,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 63,
+   "section": "Outro",
+   "line_in_section": 1,
+   "sheet_text": "The coal mines are calling",
+   "start": 176.3,
+   "end": 179.18,
+   "dur": 2.88,
+   "tag": "confirmed",
+   "note": "split from merged ASR segment at 'it' 179.18",
+   "asr_words": [
+    {
+     "w": "The",
+     "start": 176.3,
+     "end": 176.9,
+     "prob": 0.75
+    },
+    {
+     "w": "coal",
+     "start": 176.9,
+     "end": 177.36,
+     "prob": 0.98
+    },
+    {
+     "w": "mines",
+     "start": 177.36,
+     "end": 177.76,
+     "prob": 0.83
+    },
+    {
+     "w": "are",
+     "start": 177.76,
+     "end": 178.02,
+     "prob": 1.0
+    },
+    {
+     "w": "calling,",
+     "start": 178.02,
+     "end": 178.8,
+     "prob": 0.99
+    }
+   ]
+  },
+  {
+   "idx": 64,
+   "section": "Outro",
+   "line_in_section": 2,
+   "sheet_text": "It is not over",
+   "start": 179.18,
+   "end": 181.62,
+   "dur": 2.44,
+   "tag": "confirmed",
+   "note": "",
+   "asr_words": [
+    {
+     "w": "it",
+     "start": 179.18,
+     "end": 179.42,
+     "prob": 0.95
+    },
+    {
+     "w": "is",
+     "start": 179.42,
+     "end": 180.06,
+     "prob": 0.99
+    },
+    {
+     "w": "not",
+     "start": 180.06,
+     "end": 180.62,
+     "prob": 1.0
+    },
+    {
+     "w": "over",
+     "start": 180.62,
+     "end": 181.62,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "idx": 65,
+   "section": "Outro",
+   "line_in_section": 3,
+   "sheet_text": "Glue your shit smooth on",
+   "start": 181.62,
+   "end": 187.58,
+   "dur": 5.96,
+   "tag": "confirmed",
+   "note": "final line; instrumental tail 187.58-197.61 (harpsichord + vinyl crackle)",
+   "asr_words": [
+    {
+     "w": "Glue",
+     "start": 181.62,
+     "end": 182.2,
+     "prob": 0.46
+    },
+    {
+     "w": "your",
+     "start": 182.2,
+     "end": 183.52,
+     "prob": 0.98
+    },
+    {
+     "w": "shit",
+     "start": 183.52,
+     "end": 184.44,
+     "prob": 0.93
+    },
+    {
+     "w": "smooth",
+     "start": 184.44,
+     "end": 185.92,
+     "prob": 0.48
+    },
+    {
+     "w": "on",
+     "start": 185.92,
+     "end": 187.58,
+     "prob": 0.96
+    }
+   ]
+  }
+ ]
+}

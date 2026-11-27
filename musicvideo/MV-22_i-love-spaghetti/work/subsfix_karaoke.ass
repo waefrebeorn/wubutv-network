@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Karaoke,DejaVu Sans,30,&H0000FFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.38,0:00:05.44,Karaoke,,0,0,0,,{\k104}Spaghetti {\k70}so {\k32}good
+Dialogue: 0,0:00:14.72,0:00:17.46,Karaoke,,0,0,0,,{\k104}I {\k104}love {\k66}spaghetti
+Dialogue: 0,0:00:17.72,0:00:19.72,Karaoke,,0,0,0,,{\k94}Hell {\k32}I {\k40}love {\k34}it
+Dialogue: 0,0:00:19.72,0:00:21.12,Karaoke,,0,0,0,,{\k118}Marinara {\k11}on {\k11}penne
+Dialogue: 0,0:00:21.60,0:00:23.48,Karaoke,,0,0,0,,{\k24}With {\k64}meatballs {\k36}so {\k64}big
+Dialogue: 0,0:00:23.48,0:00:25.44,Karaoke,,0,0,0,,{\k72}Tomato {\k72}sauce {\k52}stable
+Dialogue: 0,0:00:25.44,0:00:27.30,Karaoke,,0,0,0,,{\k38}Full {\k34}of {\k48}vitamin {\k66}C
+Dialogue: 0,0:00:27.30,0:00:29.42,Karaoke,,0,0,0,,{\k132}Meat {\k22}and {\k58}pasta
+Dialogue: 0,0:00:29.42,0:00:31.24,Karaoke,,0,0,0,,{\k36}Tastes {\k28}so {\k48}good {\k24}to {\k46}me
+Dialogue: 0,0:00:31.24,0:00:33.50,Karaoke,,0,0,0,,{\k80}Not {\k42}formal {\k32}with {\k72}lasagna
+Dialogue: 0,0:00:33.78,0:00:35.18,Karaoke,,0,0,0,,{\k24}I {\k38}like {\k14}it {\k64}forkable
+Dialogue: 0,0:00:35.18,0:00:37.18,Karaoke,,0,0,0,,{\k84}Yum {\k26}with {\k30}some {\k60}parmesan
+Dialogue: 0,0:00:37.62,0:00:39.88,Karaoke,,0,0,0,,{\k60}Spoonable {\k54}for {\k112}all
+Dialogue: 0,0:00:41.68,0:00:43.38,Karaoke,,0,0,0,,{\k88}I {\k22}love {\k60}spaghetti
+Dialogue: 0,0:00:43.70,0:00:45.30,Karaoke,,0,0,0,,{\k86}I {\k32}love {\k42}spaghetti
+Dialogue: 0,0:00:45.30,0:00:47.02,Karaoke,,0,0,0,,{\k50}So {\k50}good {\k26}so {\k46}good
+Dialogue: 0,0:00:47.02,0:00:48.52,Karaoke,,0,0,0,,{\k40}I {\k52}love {\k58}pasta
+Dialogue: 0,0:00:48.66,0:00:50.48,Karaoke,,0,0,0,,{\k52}I {\k78}love {\k52}pasta
+Dialogue: 0,0:00:50.48,0:00:51.76,Karaoke,,0,0,0,,{\k28}Fork {\k28}it {\k30}spoon {\k42}it
+Dialogue: 0,0:00:51.76,0:00:54.80,Karaoke,,0,0,0,,{\k106}With {\k26}the {\k42}sauce {\k58}and {\k72}meatballs
+Dialogue: 0,0:00:54.80,0:00:56.88,Karaoke,,0,0,0,,{\k136}Yeah {\k52}yeah {\k20}yeah
+Dialogue: 0,0:00:57.32,0:00:59.48,Karaoke,,0,0,0,,{\k104}Spaghetti {\k52}and {\k60}pasta
+Dialogue: 0,0:00:59.48,0:01:01.16,Karaoke,,0,0,0,,{\k56}Delicious {\k56}every {\k56}day
+Dialogue: 0,0:01:01.16,0:01:03.46,Karaoke,,0,0,0,,{\k76}Penne {\k36}for {\k39}the {\k39}older {\k39}mouths
+Dialogue: 0,0:01:03.46,0:01:05.48,Karaoke,,0,0,0,,{\k60}Easy {\k32}to {\k30}eat {\k32}that {\k48}way
+Dialogue: 0,0:01:05.48,0:01:07.40,Karaoke,,0,0,0,,{\k66}Sauce {\k36}is {\k34}so {\k56}tasty
+Dialogue: 0,0:01:07.40,0:01:09.36,Karaoke,,0,0,0,,{\k116}Meatballs {\k28}on {\k12}the {\k40}side
+Dialogue: 0,0:01:09.36,0:01:11.26,Karaoke,,0,0,0,,{\k70}I {\k34}can't {\k24}get {\k62}enough
+Dialogue: 0,0:01:11.26,0:01:12.64,Karaoke,,0,0,0,,{\k34}Of {\k32}this {\k36}yumminess {\k36}wide
+Dialogue: 0,0:01:13.62,0:01:15.48,Karaoke,,0,0,0,,{\k40}Not {\k46}formal {\k34}with {\k66}lasagna
+Dialogue: 0,0:01:15.48,0:01:17.16,Karaoke,,0,0,0,,{\k50}I {\k42}like {\k14}it {\k62}forkable
+Dialogue: 0,0:01:17.16,0:01:19.20,Karaoke,,0,0,0,,{\k66}Yum {\k44}with {\k26}some {\k68}parmesan
+Dialogue: 0,0:01:19.20,0:01:21.86,Karaoke,,0,0,0,,{\k108}Spoonable {\k40}for {\k118}all
+Dialogue: 0,0:01:23.66,0:01:25.46,Karaoke,,0,0,0,,{\k90}I {\k24}love {\k66}spaghetti
+Dialogue: 0,0:01:25.46,0:01:27.44,Karaoke,,0,0,0,,{\k42}I {\k94}love {\k62}spaghetti
+Dialogue: 0,0:01:27.44,0:01:29.10,Karaoke,,0,0,0,,{\k40}So {\k40}good {\k34}so {\k52}good
+Dialogue: 0,0:01:29.10,0:01:30.52,Karaoke,,0,0,0,,{\k32}I {\k58}love {\k52}pasta
+Dialogue: 0,0:01:30.52,0:01:32.48,Karaoke,,0,0,0,,{\k58}I {\k84}love {\k54}pasta
+Dialogue: 0,0:01:32.48,0:01:33.78,Karaoke,,0,0,0,,{\k33}Fork {\k32}it {\k33}spoon {\k33}it
+Dialogue: 0,0:01:33.78,0:01:36.92,Karaoke,,0,0,0,,{\k110}With {\k18}the {\k46}sauce {\k58}and {\k82}meatballs
+Dialogue: 0,0:01:36.92,0:01:39.04,Karaoke,,0,0,0,,{\k120}Yeah {\k32}yeah {\k60}yeah
+Dialogue: 0,0:01:39.96,0:01:41.44,Karaoke,,0,0,0,,{\k148}Spaghetti
+Dialogue: 0,0:01:41.44,0:01:42.42,Karaoke,,0,0,0,,{\k98}Spaghetti
+Dialogue: 0,0:01:42.42,0:01:44.02,Karaoke,,0,0,0,,{\k72}So {\k40}so {\k48}good
+Dialogue: 0,0:01:44.02,0:01:45.06,Karaoke,,0,0,0,,{\k66}Pasta {\k38}pasta
+Dialogue: 0,0:01:45.06,0:01:46.32,Karaoke,,0,0,0,,{\k100}Meatballs {\k26}sauce
+Dialogue: 0,0:01:46.32,0:01:47.00,Karaoke,,0,0,0,,{\k18}Love {\k16}it {\k34}all
+Dialogue: 0,0:01:47.08,0:01:47.86,Karaoke,,0,0,0,,{\k24}Love {\k12}it {\k42}all
+Dialogue: 0,0:02:04.24,0:02:06.48,Karaoke,,0,0,0,,{\k120}I {\k36}love {\k68}spaghetti
+Dialogue: 0,0:02:06.48,0:02:08.46,Karaoke,,0,0,0,,{\k84}I {\k48}love {\k66}spaghetti
+Dialogue: 0,0:02:08.46,0:02:09.24,Karaoke,,0,0,0,,{\k44}So {\k11}good {\k11}so {\k11}good
+Dialogue: 0,0:02:09.24,0:02:11.87,Karaoke,,0,0,0,,{\k88}I {\k88}love {\k88}pasta
+Dialogue: 0,0:02:11.87,0:02:14.50,Karaoke,,0,0,0,,{\k1}I {\k203}love {\k60}pasta
+Dialogue: 0,0:02:15.74,0:02:17.76,Karaoke,,0,0,0,,{\k67}Fork {\k67}it {\k26}spoon {\k42}it
+Dialogue: 0,0:02:17.76,0:02:22.96,Karaoke,,0,0,0,,{\k114}With {\k16}the {\k94}sauce {\k110}and {\k186}meatballs
+Dialogue: 0,0:02:23.40,0:02:25.36,Karaoke,,0,0,0,,{\k102}Yeah {\k58}yeah {\k36}yeah
+Dialogue: 0,0:02:25.36,0:02:27.34,Karaoke,,0,0,0,,{\k136}Spaghetti {\k20}so {\k42}good
+Dialogue: 0,0:02:27.34,0:02:29.58,Karaoke,,0,0,0,,{\k138}Spaghetti {\k40}so {\k46}good
+Dialogue: 0,0:02:29.58,0:02:31.44,Karaoke,,0,0,0,,{\k114}Spaghetti {\k20}so {\k52}good
+Dialogue: 0,0:02:31.44,0:02:34.46,Karaoke,,0,0,0,,{\k200}I {\k38}love {\k64}spaghetti
+Dialogue: 0,0:02:36.06,0:02:37.52,Karaoke,,0,0,0,,{\k90}So {\k19}good {\k19}so {\k19}good
+Dialogue: 0,0:02:42.54,0:02:45.66,Karaoke,,0,0,0,,{\k132}I {\k66}love {\k114}spaghetti
+Dialogue: 0,0:02:45.66,0:02:51.70,Karaoke,,0,0,0,,{\k142}So {\k80}good {\k290}so {\k92}good

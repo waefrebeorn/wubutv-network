@@ -69,6 +69,19 @@ UNTESTED test.
   human evaluation. A high LSE-C on a take whose mouth flaps wide on every
   word is not proof of good lipsync; read LSE-C together with F-02/F-03
   (does the mouth close for bilabials, does MAR peak on the word).
+- **UPDATE 2026-11-27:** delivered-playback caveat — the AOLSS study
+  (Ho & Li, Preprints.org 2026, manuscript 202611.0124, read today)
+  measured DELIVERED AV offset physically (photodiode on the mouth
+  region + line-output tap at 20 kHz) across 4 systems / 3 players /
+  2 resolutions and found LSE-D and LSE-C UNCORRELATED with delivered
+  offset magnitude in every cell (r = −0.066 to +0.083), with median
+  delivered sound lags of 79–211 ms introduced by the playback chain
+  itself. Scope limit for us: F-01 scores the FILE, and our QC is
+  file-side — this does not weaken F-01 as a file gate. It does mean
+  a file that passes F-01 can still PLAY out of sync on a given
+  player, so a user playback verdict of "lipsync is off" on a
+  file-passing master is not automatically a file defect — check
+  the chain before re-firing takes.
 
 ## 2026-11-09 — F-02 PVSync per-phoneme articulation scoring
 
@@ -148,6 +161,10 @@ UNTESTED test.
   benchmark data will be released upon acceptance"; no public repo
   found today either.
 - **UPDATE 2026-11-22:** code release re-CHECKED — still unreleased.
+  Today's search result for arXiv 2610.09223 still reads "Code and
+  benchmark data will be released upon acceptance"; no public repo
+  found today either.
+- **UPDATE 2026-11-27:** code release re-CHECKED — still unreleased.
   Today's search result for arXiv 2610.09223 still reads "Code and
   benchmark data will be released upon acceptance"; no public repo
   found today either.
@@ -3218,6 +3235,190 @@ UNTESTED test.
   (which would retire flicker as a v2 fault class with
   evidence, itself a useful result).
 
+## 2026-11-27 — F-46 HumanScore biomechanical motion metrics (bone-length invariance / joint ROM / self-collision / velocity + jerk limits)
+
+- **Detects:** whether a generated HUMAN figure's motion is
+  biomechanically possible — bones stretching or shrinking
+  frame to frame, joints bending past anatomical limits,
+  body parts interpenetrating, velocity spikes and
+  acceleration/jerk jitter — scored per video on six
+  interpretable 0–100 metrics, localised by frame and joint.
+  GAP-3's in-shot motion class, at the BODY level: the bank's
+  motion numbers are pixel/flow/point-track statistics
+  (F-05, F-17, F-27, F-33, F-44, F-45); none of them knows a
+  figure has limbs, so a limb that morphs smoothly passes
+  them all. This is NOT F-43's OIS re-banked: VMBench OIS
+  checks per-frame 2D MMPose keypoint shapes against
+  statistical tolerances (a shape share, no time derivatives,
+  no 3D fit). HumanScore's mechanisms are different in kind —
+  a 3D rigidity-FREE skeleton fit whose bone lengths are
+  allowed to vary so their temporal variance becomes the
+  measurement, joint angles checked against biomechanics-
+  standard limits (not learned tolerances), SMPL-X mesh
+  self-collision, and velocity/acceleration/jerk checked
+  against per-joint human capability limits.
+- **How it works:** HumanScore (Xiang, Fang et al., Stanford /
+  Peking U, NeurIPS 2026; arXiv:2604.20157, full text read
+  today incl. the released code's notes). A three-tier
+  hierarchy, two metrics per tier. Anatomical: (I) Extra
+  limbs — HADM detector for duplicate hand/arm/leg/foot;
+  (II) Bone length — monocular fitting pipeline (2D → dense
+  3D keypoints → MeTRAbs 87-keypoint skeleton → OpenSim
+  Rajagopal skeleton) with the template's bone-length
+  rigidity constraint REMOVED, per-bone relative L1 deviation
+  from its temporal median. Kinematic: (III) Joint range of
+  motion — per-frame joint angles vs anatomical limits
+  relaxed by a 15° tolerance, violation magnitude aggregated;
+  (IV) Self-collision — per-frame SMPL-X meshes (PromptHMR in
+  the paper text; the released code uses GVHMR), BVH
+  triangle–triangle intersection, colliding-face fraction
+  with non-local filters against cloth-contact noise.
+  Kinetic: (V) Kinematic extremes — joint angular velocities
+  (central differences) and segment linear velocities (FK on
+  segment centres of mass) vs per-DoF/per-segment limits;
+  (VI) Motion smoothness — angular acceleration + jerk
+  energy vs per-DoF limits. Each metric aggregates violation
+  frequency / severity / persistence (weights 0.5/0.3/0.2)
+  into 0–100. Evidence: per-metric Spearman vs human
+  preference 0.94–0.99 (~1,200 pairwise ratings); real video
+  scores 94.3 overall vs best generators 91.1 (Seedance 1.0
+  Pro fast, HunyuanVideo 1.5); kinematic tier is every
+  model's weakest; the kinetic tier is near-orthogonal to
+  VBench's imaging/aesthetic/subject scores (ρ 0.19–0.35) —
+  the dimension existing benchmarks miss is the one this
+  measures.
+- **Run / replicate here:** code RELEASED (MIT):
+  https://github.com/tiangexiang/HumanScore — project page
+  https://cs.stanford.edu/~xtiange/projects/humanscore/ —
+  paper https://arxiv.org/abs/2604.20157. Submodules:
+  MonocularBiomechanics baseline, GVHMR, HADM,
+  torch-mesh-isect. Run per shot (segmentation from
+  F-04/F-10/F-12/F-47, never across a cut) on shots with a
+  single full-body human figure. This is a learned-model,
+  GPU-class stack on this VM (same caveat class as F-19 /
+  F-39 / F-44): plan for the hosted/GPU test queue. The
+  cheap partial replication is metric (II) alone on 2D pose
+  keypoints (per-bone length series from any pose estimator,
+  deviation from median — no OpenSim fit), which keeps the
+  temporal-invariance mechanism without the 3D stack.
+- **What it would have caught in MV-8 v2:** the body-level
+  version of the user's playback verdicts: a singer/dancer
+  figure whose limbs stretch, fold or jitter while pixel
+  motion stays plausible — today that reaches the user as an
+  unnamed "something is off". Metrics (II) and (VI) are the
+  pair aimed at our material: bone-length variance names
+  morphing limbs with the exact frames, and the jerk metric
+  names stutter/jitter inside a shot that is neither frozen
+  (F-17 clean) nor flickering (F-45 clean). UNTESTED — this
+  paragraph is the hypothesis the test below checks, not a
+  result.
+- **Limits:** single-person, full-body, human figures only —
+  our stylised / cartoon / fruit characters are off the
+  anatomical distribution BY DESIGN (elastic house style
+  violates ROM and bone invariance deliberately), so absolute
+  scores mean nothing here; calibrate per project on
+  known-good vs known-bad HUMAN-figure takes and read
+  comparatively, eye-review flag only. The benchmark's own
+  protocol is locked-camera studio footage; moving cameras
+  and occlusions degrade the monocular fit, and the paper
+  itself scores real video at 94.3, not 100 — estimator noise
+  is a floor under every score, so low-confidence /
+  low-valid-frame shots are UNMEASURED, never a verdict.
+  Multi-figure shots (most of our montage) are out of scope
+  for the released pipeline.
+- **Status:** UNTESTED. Test (hosted/GPU queue, with F-39 /
+  F-42 / F-44): metrics (II) + (VI) first, per shot on the
+  v2 and v3 masters' single-figure shots; pass bar is v2
+  scoring worse than v3 on at least one of them in a
+  user-flagged segment, with flagged frames eye-confirmable
+  as morph/jitter. In parallel, the cheap 2D bone-length
+  replication runs locally on the same shots — if the 2D
+  version separates, it becomes the local gate candidate and
+  the full stack stays a hosted second opinion.
+
+## 2026-11-27 — F-47 OmniShotCut relational shot-boundary detection (shot ranges + transition types + inter-shot continuity + sudden jumps)
+
+- **Detects:** shot boundaries as structured RANGES with
+  labels, not just cut points: each shot's intra-shot
+  relation (vanilla segment vs a specific transition type —
+  dissolve, fade, wipe and family) and its inter-shot
+  relation (the continuity relationship to the preceding
+  shot), plus SUDDEN JUMPS — harmful discontinuities inside
+  what should be one continuous shot. GAP-3's segmentation
+  prerequisite, upgraded, and a GAP-1 input no banked
+  detector produces (a per-boundary continuity class). This
+  is NOT F-10 re-banked: TransNetV2 emits a per-frame
+  transition probability and nothing else. It is NOT F-24:
+  AutoShot is a NAS-searched CNN emitting boundaries only.
+  It is NOT F-39: TransVLM localises transition SEGMENTS
+  with a VLM + flow fusion. OmniShotCut's new outputs are
+  the relational labels — what KIND of boundary each one is
+  and whether the two sides read as continuous — which is
+  exactly the information the F-12 lesson said a bare cut
+  list lacks (v3's count matched by coincidence, not by
+  identity; types + ranges are identity).
+- **How it works:** OmniShotCut (Wang et al., UVA,
+  arXiv:2604.24762, May 2026 v2, full abstract + HF model
+  card + conversion notes read today) formulates SBD as
+  structured relational prediction: a shot-query-based dense
+  video Transformer jointly estimates shot ranges, intra-shot
+  relations and inter-shot relations from shared hidden
+  states. Training data comes from a fully synthetic
+  transition-synthesis pipeline (9 transition families, 30
+  subtypes, parameter-swept) giving precise boundary labels
+  without noisy manual annotation; evaluated on the authors'
+  OmniShotCutBench (wide-domain: anime, vlog, game, shorts,
+  sports, screen recording). The released v1.5 checkpoint
+  (52.8M params) is tuned for fewer false cuts on continuous
+  camera motion / lighting changes and better dense fast-cut
+  recall — the two failure modes F-12 showed on our masters.
+  Inference is windowed (100-frame windows; per the CoreML
+  conversion notes the head emits intra 10 classes / inter
+  7 classes / end positions over 24 shot queries per
+  window).
+- **Run / replicate here:** `pip install
+  git+https://github.com/UVA-Computer-Vision-Lab/OmniShotCut.git`;
+  `import omnishotcut; m =
+  omnishotcut.load("uva-cv-lab/OmniShotCut_v1.5",
+  filename="OmniShotCut_ckpt.pth"); ranges =
+  m.inference("master.mp4")`. Weights:
+  https://huggingface.co/uva-cv-lab/OmniShotCut_v1.5 —
+  paper https://arxiv.org/abs/2604.24762. CPU inference on
+  this VM is unmeasured (52.8M-param Transformer, windowed —
+  expect minutes per master, not seconds; measure on one
+  segment first).
+- **What it would have caught in MV-8 v2:** three things the
+  current segmentation stack cannot say. (1) A planned hard
+  cut that rendered as a smear/dissolve (or vice versa) —
+  the intra-shot transition label disagrees with the
+  assembly plan, per boundary. (2) An unplanned sudden jump
+  INSIDE a take — a generator glitch-cut mid-shot that
+  per-shot audits (which trust the planned cut list) treat
+  as continuous footage and average over. (3) Boundaries
+  whose inter-shot label reads discontinuous where the plan
+  wanted a continuous join (our last-frame → first-frame
+  continuity doctrine, as a label instead of an eye check).
+  UNTESTED — this paragraph is the hypothesis the test
+  below checks, not a result.
+- **Limits:** trained on real wide-domain video + synthetic
+  transitions, not on AI-morph footage — boundary precision
+  on our material is unmeasured, same caveat class as F-10;
+  validate against the planned cut list before trusting any
+  label. The sudden-jump class can fire on intentional fast
+  action (whip moves, impact frames) — eye-review flag, not
+  a gate. OmniShotCutBench is the authors' own benchmark;
+  its margins over TransNetV2/AutoShot are their numbers,
+  not ours. It segments and labels; it does not score what
+  happens inside the shot (that stays F-05/F-17/F-46
+  territory).
+- **Status:** UNTESTED. Test: run v1.5 on the MV-8 v3 master;
+  pass bar is ranges matching the planned cut list near-1:1
+  (identity, not count — the F-12 lesson) with transition
+  labels agreeing at planned hard cuts, AND strictly fewer
+  false cuts than F-12 threshold=20 on the same master.
+  Then run v2: sudden-jump flags must land on
+  eye-confirmable in-shot discontinuities to count.
+
 ## Run log
 
 - 2026-11-09 (run 1): first run — bank created; 8 finders banked
@@ -4401,3 +4602,52 @@ UNTESTED test.
   it (F-45's is local and cheap — synthetic controls first).
   Rotate emphasis next run: academic/papers +
   song-as-authority.
+
+- 2026-11-27 (run 34 — daily research run): 2 new finders banked
+  (F-46 HumanScore biomechanical motion metrics; F-47
+  OmniShotCut relational shot-boundary detection). Emphasis:
+  academic/papers + song-as-authority, per run 33's rotation.
+  F-46 (Xiang, Fang et al., NeurIPS 2026, arXiv:2604.20157,
+  full text read today + code verified live): six metrics in
+  three tiers — HADM extra limbs, rigidity-free 3D bone-length
+  invariance, biomechanical joint-ROM limits, SMPL-X
+  self-collision, velocity extremes, acceleration/jerk
+  smoothness — the first BODY-level motion finder in the bank
+  (every prior motion number is pixel/flow/point-track);
+  per-metric human-preference Spearman 0.94–0.99 and the
+  kinetic tier is near-orthogonal to VBench, i.e. it measures
+  the dimension the bank's benchmarks miss. Code is RELEASED
+  (MIT, github.com/tiangexiang/HumanScore; released code
+  uses GVHMR for the mesh metric where the paper text names
+  PromptHMR). F-47 (Wang et al., arXiv:2604.24762 + HF model
+  card read today): shot-query Transformer emitting shot
+  RANGES + intra-shot transition types + inter-shot
+  continuity labels + sudden-jump flags — the relational
+  outputs F-10/F-24/F-39 do not produce, and the identity
+  (not count) the F-12 lesson demands; v1.5 weights public,
+  CPU cost unmeasured. Updates, not new entries: F-01 gains
+  the AOLSS delivered-playback caveat (Ho & Li, Preprints.org
+  2026.11.0124 — LSE-D/LSE-C uncorrelated with physically
+  measured delivered offset; file gate stands, playback
+  verdicts need a chain check first); F-02 PVSync code
+  release re-checked — still unreleased. Avenues checked,
+  NOT banked: song side — Beat-U (ISMIR 2025 LBD, U-shaped
+  Transformer jointly doing beat/downbeat/chord/structure on
+  EnCodec tokens; the joint form is F-23's territory and the
+  chord head alone does not clear the bar), EDMFormer
+  (arXiv:2603.08759 — energy/timbre-defined EDM sections,
+  buildup/drop taxonomy does not transfer to chant/brass
+  Suno tracks; the energy-section idea is already F-11/F-15),
+  MCH-BFNet (MERT-Conformer structure segmentation,
+  Research Square preprint — same family as F-32/F-35);
+  AV side — SyncLipMAE (arXiv:2510.10069) re-checked: its
+  factorised vocal-motion token is a pretraining scheme, its
+  sync head is the family F-19 already weighed and declined
+  to bank separately, and no public code was found — the
+  F-19 dedupe stands. Still owed (sprint-scale, not
+  daily-run work): the finder test queue from the 2026-11-16
+  sprint results; F-46/F-47 tests join it (F-47's v3
+  range/type check is local if CPU cost allows; F-46's 2D
+  bone-length partial replication is the local leg).
+  Rotate emphasis next run: creators/practitioners +
+  product tooling.

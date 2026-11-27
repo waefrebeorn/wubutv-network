@@ -1,0 +1,62 @@
+# EAR TEST TRANSCRIPT - ON_AIR_E2_MASTER.mp4 (finished master, cold listen)
+# Master md5: 9f2790f480e4d6b32850ad0a028981d1 (verified before transcription)
+# Method: audio extracted 16kHz mono; two independent faster-whisper passes -
+#   pass 1 large-v3-turbo (mobiuslabsgmbh snapshot, int8/cpu, beam 5, no VAD), word timestamps below
+#   pass 2 distil-large-v3 (Systran snapshot) as cross-check; segment list in appendix
+# Note: Systran faster-whisper-large-v3 cache on this box is INCOMPLETE (model.bin missing);
+#   turbo/distil large-v3 variants used instead. Passes agree near word-for-word.
+
+
+[  1.42 ->   4.88] This sheet knew yesterday. I want his name off it.
+    words:  This[1.42-1.94]  sheet[1.94-2.24]  knew[2.24-2.54]  yesterday.[2.54-3.10]  I[3.46-3.94]  want[3.94-4.12]  his[4.12-4.26]  name[4.26-4.50]  off[4.50-4.72]  it.[4.72-4.88]
+[  5.50 ->   8.70] Then hear him live. I want the advertiser renewed.
+    words:  Then[5.50-6.02]  hear[6.02-6.20]  him[6.20-6.36]  live.[6.36-6.70]  I[7.08-7.60]  want[7.60-7.70]  the[7.70-7.82]  advertiser[7.82-8.34]  renewed.[8.34-8.70]
+[  9.76 ->  13.16] I want one quiet shift. My mouth stays shut, mine.
+    words:  I[9.76-10.28]  want[10.28-10.50]  one[10.50-10.82]  quiet[10.82-11.24]  shift.[11.24-11.64]  My[11.88-12.04]  mouth[12.04-12.26]  stays[12.26-12.50]  shut,[12.50-12.84]  mine.[12.96-13.16]
+[ 13.36 ->  17.00] Your mouth shut pays nobody. Red means live, UN4.
+    words:  Your[13.36-13.58]  mouth[13.58-13.86]  shut[13.86-14.18]  pays[14.18-14.50]  nobody.[14.50-14.92]  Red[15.28-15.80]  means[15.80-16.06]  live,[16.06-16.44]  UN4.[16.56-17.00]
+[ 17.14 ->  19.44] The singer's place is mine. I want billable truth.
+    words:  The[17.14-17.24]  singer's[17.24-17.56]  place[17.56-17.78]  is[17.78-17.92]  mine.[17.92-18.16]  I[18.34-18.38]  want[18.38-18.58]  billable[18.58-19.04]  truth.[19.04-19.44]
+[ 21.46 ->  24.70] You wrote this demo, Peter. The sheet never did.
+    words:  You[21.46-21.98]  wrote[21.98-22.24]  this[22.24-22.48]  demo,[22.48-22.88]  Peter.[22.98-23.24]  The[23.48-23.92]  sheet[23.92-24.16]  never[24.16-24.42]  did.[24.42-24.70]
+[ 26.04 ->  29.52] I don't know how. Show me how, Peter.
+    words:  I[26.04-26.56]  don't[26.56-26.74]  know[26.74-26.88]  how.[26.88-27.30]  Show[28.34-28.86]  me[28.86-29.00]  how,[29.00-29.20]  Peter.[29.32-29.52]
+[ 30.82 ->  33.86] Whoever sings here goes in the next video and sheet.
+    words:  Whoever[30.82-31.46]  sings[31.46-31.80]  here[31.80-32.10]  goes[32.10-32.42]  in[32.42-32.60]  the[32.60-32.68]  next[32.68-32.90]  video[32.90-33.24]  and[33.24-33.54]  sheet.[33.54-33.86]
+[ 35.78 ->  38.78] A singer is just a mouth with paperwork, Laura.
+    words:  A[35.78-36.42]  singer[36.42-36.72]  is[36.72-36.98]  just[36.98-37.18]  a[37.18-37.34]  mouth[37.34-37.66]  with[37.66-37.90]  paperwork,[37.90-38.40]  Laura.[38.56-38.78]
+[ 40.10 ->  43.26] Viewers, red means live. You heard his confession?
+    words:  Viewers,[40.10-40.74]  red[41.00-41.20]  means[41.20-41.60]  live.[41.60-42.02]  You[42.30-42.50]  heard[42.50-42.68]  his[42.68-42.84]  confession?[42.84-43.26]
+[ 45.10 ->  49.52] I want billable truth. Advertiser cancelled. Name comes off.
+    words:  I[45.10-45.74]  want[45.74-45.94]  billable[45.94-46.36]  truth.[46.36-46.74]  Advertiser[47.50-47.94]  cancelled.[47.94-48.46]  Name[48.72-49.00]  comes[49.00-49.28]  off.[49.28-49.52]
+[ 51.72 ->  55.70] A singer is just a mouth with paperwork.
+    words:  A[51.72-52.36]  singer[52.36-52.92]  is[52.92-53.50]  just[53.50-53.92]  a[53.92-54.16]  mouth[54.16-54.62]  with[54.62-55.00]  paperwork.[55.00-55.70]
+
+# APPENDIX - pass 2 (distil-large-v3) segments:
+[  1.40 ->   3.16] This sheet knew yesterday.
+[  3.96 ->   5.10] I want his name off it.
+[  5.80 ->   6.76] Then hear him live.
+[  7.58 ->   8.80] I want the advertiser renewed.
+[ 10.04 ->  11.68] I want one quiet shift.
+[ 12.00 ->  13.18] My mouth stays shut, mine.
+[ 13.46 ->  14.96] Your mouth shut pays nobody.
+[ 15.60 ->  17.04] Red means live, UN4.
+[ 17.20 ->  18.20] The singer's place is mine.
+[ 18.40 ->  19.60] I want billable truth.
+[ 21.42 ->  23.28] You wrote this demo, Peter.
+[ 23.86 ->  24.78] The sheet never did.
+[ 26.00 ->  27.36] I don't know how.
+[ 28.28 ->  29.52] Show me how, Peter.
+[ 30.68 ->  33.94] Whoever sings here goes in the next video and sheet.
+[ 35.68 ->  38.78] A singer is just a mouth with paperwork, Laura.
+[ 40.36 ->  42.08] Viewers, red means live.
+[ 42.48 ->  43.26] You heard his confession?
+[ 45.52 ->  46.84] I want billable truth.
+[ 47.54 ->  48.54] Advertisizer cancelled.
+[ 48.86 ->  49.58] Name comes off.
+[ 51.64 ->  55.76] A singer is just a mouth with paperwork.
+[ 59.52 ->  60.00] Thank you.
+
+# Cross-model notes: identical wording on all shared segments except 'Advertiser'
+# (pass2 renders 'Advertisizer' once - same word) and pass 2 alone detects a faint
+# 'Thank you.' at 59.52-60.00s, after the final scripted line position.

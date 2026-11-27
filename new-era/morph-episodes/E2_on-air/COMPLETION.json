@@ -1,0 +1,272 @@
+{
+ "job_id": "on-air-e2-u2-repair-r6",
+ "episode": "ON AIR E2 'Show Me How'",
+ "episode_dir": "~/workspace/wubutv-network/new-era/morph-episodes/E2_on-air",
+ "completed_utc": "2026-11-18T07:35Z",
+ "status": "BLOCKED_AT_SPAN_GATE_R6",
+ "final_round": true,
+ "assembly_performed": false,
+ "script_amendment": {
+  "authority": "User directive 2026-11-18 'never ask me you decide' \u2014 showrunner call, parent-decided, not re-litigated this round.",
+  "decision": "Peter's U2 line reduced to 'Red means live, UNC.' \u2014 his first sentence 'Your mouth shut pays nobody.' is CUT from U2. U2 drops 38 -> 33 words; episode 110 -> 105 words (F-5 band holds). Every ear-test finding element survives verbatim. The cut sentence was the F-4 twine payoff of UNC's line; F-4 is already suspect post-msg-579, and the ear outranks the twine.",
+  "recorded_in": [
+   "SCRIPT.md (header round-6 amendment note + U2 round-6 amendment note + Peter's printed line + word counts 33/105)",
+   "DECISION_LOG.md ('AMENDMENT + METHOD \u2014 U2 WORD TRIM + 2+2 COMPOSITE' entry, 2026-11-18)"
+  ]
+ },
+ "method": {
+  "decision": "2+2 SPLIT-TAKE COMPOSITE \u2014 TAKE A (the room): COLONEL intercom first + UNC, picture drifting toward the glass, silent tail. TAKE B (the glass): PETER at the glass, room side, then the CHAMPION's shout as ONE CONTINUOUS BREATH (explicit no-pause direction). One motivated internal cut at the glass beat; each span its own take's audio; composite exactly 240f.",
+  "gates": "Per half, ALL required: (i) completeness in TWO concurring ASR passes (distil-large-v3 + medium, work/qc/asr_run.py, no VAD), 'false' intelligible in A, 'place' intelligible and 'UNC' clean in B; (ii) SPAN GATE \u2014 usable spans from word timestamps must sum to <= 240f; B additionally gated on the Champion's last word ending inside B's allotted window.",
+  "recorded_in": [
+   "VEHICLES.md \u2014 section 'EAR-TEST REPAIR ROUND 6 (2026-11-18 \u2014 job on-air-e2-u2-repair-r6) \u2014 WORD TRIM + 2+2 COMPOSITE (FINAL ROUND)'",
+   "work/GATE_LOG.md \u2014 section 'EAR-TEST REPAIR ROUND 6 (2026-11-18) \u2014 BLOCKED AT SPAN GATE (R6) \u2014 FINAL ROUND'",
+   "DECISION_LOG.md \u2014 round-6 entry with Outcome + Standing lesson"
+  ]
+ },
+ "generation": {
+  "allowance_calls": 4,
+  "calls_attempted": 2,
+  "calls_landed": 2,
+  "calls_unspent": 2,
+  "unspent_reason": "Calls 3-4 (one refire per half) may only be spent on a span-feasible defect. Landed spans: A ~9.6-9.8s + B ~8.9-9.1s = ~18.7s vs the 240f/10.00s budget. Refiring A alone (all-rounds floor ~6.5s) + landed B = ~15.5s; landed A + refiring B alone (floor ~3.5s) = ~13.2s \u2014 neither sums. Even both floors at once (~10.0s) leave zero room for lead-in, cut tail or GAP and are contradicted by this round's landed rates (A's Colonel ran slower than round 4 despite identical direction; B's shout kept an internal pause despite the strongest no-pause direction yet). Spending the refires would be refiring into arithmetic that cannot sum, which the round's terms forbid.",
+  "take10A": {
+   "role": "TAKE A \u2014 the room (COLONEL + UNC)",
+   "file": "takes/U2_take10A.mp4",
+   "source_output": "takes/media-generation-u2-take10a-room-0-dc71828a-74fa-4717-a1de-0886139e6ef9.mp4",
+   "bytes": 3662983,
+   "probe": "10.000s, 1248x704, 240f",
+   "vehicle": "Round-6 TAKE A vehicle (VEHICLES.md round-6 section) \u2014 TEXT 1 unchanged; TEXT 2 = Colonel via intercom first, directed finished by ~3s; UNC fast/flat in one rush, directed finished by ~6s; Peter + Laura silent (Peter drops the badge in silence); silent drift toward the glass; anchors work/qc/u1_last.png + panels/PNL-PEAK-U2.png",
+   "asr": "work/qc/u2t10a/asr_distil.json + work/qc/u2t10a/asr_medium.json \u2014 two independent passes (Systran/faster-distil-whisper-large-v3, medium; faster-whisper int8/CPU, beam 5, no VAD, via work/qc/asr_run.py), concurring",
+   "asr_text_distil": "I want billable truth A false name and I cancel the advertiser I want one quiet shift My mouth stays shut mine",
+   "asr_text_medium": "I want billable truth, a false name and I cancel the advertiser. I want one quiet shift, my mouth stays shut, mine.",
+   "completeness_gate": "PASS \u2014 COLONEL complete in both passes, 'false' p=0.993 (distil) / 0.999 (medium); UNC complete in both passes including the trailing 'mine.'",
+   "span_gate": "FAIL (as a pair) \u2014 Colonel 0.86-5.68s (distil) / 1.04-5.96s (medium), slower than his round-4 4.06s despite the 'finished by about three seconds' direction; UNC runs to 9.58s (distil) / 9.68s (medium). A-span (0 -> UNC's last word) ~9.6-9.8s = ~231-235f."
+  },
+  "take10B": {
+   "role": "TAKE B \u2014 the glass (PETER + CHAMPION)",
+   "file": "takes/U2_take10B.mp4",
+   "source_output": "takes/media-generation-u2-take10b-glass-0-8d7989ff-34bc-40dc-9731-8b2871395065.mp4",
+   "bytes": 3783082,
+   "probe": "10.000s, 1248x704, 240f",
+   "vehicle": "Round-6 TAKE B vehicle (VEHICLES.md round-6 section) \u2014 TEXT 1 unchanged; TEXT 2 = tight angle on the glass; Peter at the frame edge turns and speaks within the first second, UNC's name slow and distinct; the Champion shouts in ONE single continuous breath, no pause/gap/breath between number and claim, PLACE hardest, directed finished by ~4.5s; anchors work/qc/u1_last.png + panels/PNL-PEAK-U2.png",
+   "asr": "work/qc/u2t10b/asr_distil.json + work/qc/u2t10b/asr_medium.json \u2014 two independent concurring passes",
+   "asr_text_distil": "Red means live, UNC. Number four, the singer's place is mine.",
+   "asr_text_medium": "Red means live, UNC. Number four! The singer's place is mine!",
+   "completeness_gate": "PASS \u2014 PETER's trimmed line complete with a CLEAN 'UNC' in both passes (p=0.821/0.697; Finding 3's 'UN4' garble gone); CHAMPION complete in both passes, 'place' p=0.999 in both.",
+   "span_gate": "FAIL (as a pair) \u2014 Peter 0.00-2.94s (distil) / 0.00-3.06s (medium); ~1.2-1.5s gap; Champion 4.10-8.86s (distil) / 4.60-9.10s (medium) with a residual ~0.6-1.0s internal pause after 'four' despite the no-pause direction. B-span (Peter's first word -> Champion's last word 'mine') ~8.9-9.1s = ~213-218f. Champion's last word ends at 8.86/9.10s \u2014 outside any B window that could pair with a landed A-span."
+  }
+ },
+ "blocking_analysis": "SPAN GATE: A-span ~9.7s + B-span ~9.0s = ~18.7s > 240f/10.00s. No cut point exists and no permitted refire can create one. Round 6 is the first round in which BOTH halves passed completeness \u2014 all four ear-test finding elements are now proven landed simultaneously across a pair (Colonel+'false', UNC whole, Peter trimmed line with clean 'UNC', Champion+'place') \u2014 and it isolates the repair's true terminal constraint: delivered speech RATE (0.3-0.45s/word with incompressible pauses), not speaker order, not split shape, not word choice. The delivered master and joined.mp4 are byte-identical to their pre-repair state (md5s re-verified at round end).",
+ "delivered_master": {
+  "path": "masters/ON_AIR_E2_MASTER.mp4",
+  "md5": "9f2790f480e4d6b32850ad0a028981d1",
+  "state": "untouched; md5 re-verified at round end"
+ },
+ "joined": {
+  "path": "work/joined.mp4",
+  "md5": "cff998f1d03d13a72f3234cd74d0f446",
+  "state": "untouched; md5 re-verified at round end"
+ },
+ "new_master": null,
+ "ear_test_v2": null,
+ "joint_eye_verification": "not reached \u2014 gated behind assemblable halves (completeness passed both halves; the span gate failed)",
+ "records_updated": [
+  "SCRIPT.md \u2014 header round-6 amendment note; U2 header 38 -> 33 words; episode word total 110 -> 105; U2 round-6 amendment note (trim + 2+2 composite + final-round term); Peter's printed line reduced with the cut annotated",
+  "DECISION_LOG.md \u2014 'AMENDMENT + METHOD \u2014 U2 WORD TRIM + 2+2 COMPOSITE (2026-11-18, showrunner decision; repair round 6, FINAL)' entry + Outcome + Standing lesson (confirmed)",
+  "VEHICLES.md \u2014 round-6 section (amendment, both vehicles as fired, ASR results, span arithmetic, eleven-attempt pattern)",
+  "work/GATE_LOG.md \u2014 round-6 section (per-half gate results, span-gate failure, unspent-call rationale, final status)"
+ ],
+ "verdict": "UNREPAIRED \u2014 FINAL. Round 6 solved completeness and lost on span: the trim + 2+2 split landed every scripted element of U2 in two concurring ASR passes per half (the first fully complete pair in eleven attempts), but the halves' delivered spans (~9.7s + ~9.0s = ~18.7s) cannot sum inside the unit's 240f. The ear-test FAIL on the delivered master (work/EAR_TEST_VERDICT.md) stands; the episode is NOT posted and, per the final-round term, there is NO ROUND 7. Standing lesson recorded in DECISION_LOG: a 10s unit's spoken load is capped at ~30 words / 2 speakers per generation at the observed non-compressible rate, and span \u2014 not just completeness \u2014 is a gate quantity from the start. Nothing was posted; no other unit or episode was touched.",
+ "resume": null,
+ "supersedes_completion_record": {
+  "job_id": "on-air-e2-u2-repair-r5",
+  "episode": "ON AIR E2 'Show Me How'",
+  "episode_dir": "~/workspace/wubutv-network/new-era/morph-episodes/E2_on-air",
+  "completed_utc": "2026-11-18T06:35Z",
+  "status": "BLOCKED_AT_ASR_GATE_R5",
+  "assembly_performed": false,
+  "method": {
+   "decision": "SPLIT-TAKE COMPOSITE \u2014 U2 built from two generation takes joined by one motivated internal picture cut (angle change to the control-room glass), each take at most 3 speakers, each span keeping its own take's audio, composite exactly 240f. TAKE A (the room): COLONEL intercom first + UNC + PETER. TAKE B (the glass): CHAMPION alone, room silent around him.",
+   "authority": "Showrunner decision under the user's 2026-11-18 directive 'never ask me you decide'. SCRIPT.md NOT amended this round \u2014 round 4's line order stands; all four lines remain U2 lines.",
+   "recorded_in": [
+    "VEHICLES.md \u2014 section 'EAR-TEST REPAIR ROUND 5 (2026-11-18 \u2014 job on-air-e2-u2-repair-r5) \u2014 SPLIT-TAKE COMPOSITE'",
+    "work/GATE_LOG.md \u2014 section 'EAR-TEST REPAIR ROUND 5 (2026-11-18) \u2014 BLOCKED AT ASR GATE (R5)'",
+    "DECISION_LOG.md \u2014 'METHOD \u2014 U2 SPLIT-TAKE COMPOSITE (2026-11-18, showrunner decision; repair round 5)' entry"
+   ]
+  },
+  "generation": {
+   "allowance_calls": 3,
+   "calls_attempted": 2,
+   "calls_landed": 2,
+   "calls_unspent": 1,
+   "unspent_reason": "The third call exists only to refire a gate-failed half. Take9A failed its gate and take9B passed its elements but landed with a ~6.5s minimum span; the composite arithmetic (A-span floor ~8.5s + B-span >=6.5s = ~15s > 240f/10.00s) proves no single refire can produce an assemblable pair: refiring A leaves B's span blocking (A window <=3.5s, below any possible three-line room dialogue); refiring B leaves A gate-failed, and a failing half is never assembled. The call was deliberately not spent.",
+   "take9A": {
+    "role": "TAKE A \u2014 the room (COLONEL + UNC + PETER)",
+    "file": "takes/U2_take9A.mp4",
+    "source_output": "takes/media-generation-u2-take9a-room-0-33a7369f-04b1-4092-abc3-7170aa45be54.mp4",
+    "bytes": 3979102,
+    "probe": "10.000s, 1248x704, 240f",
+    "vehicle": "Round-5 TAKE A vehicle (VEHICLES.md round-5 section) \u2014 TEXT 1 unchanged; TEXT 2 = round 4's proven Colonel-first room content minus the CHAMPION's spoken line, dialogue directed finished by ~6s, then silence while the camera drifts/pushes toward the glass; anchors work/qc/u1_last.png + panels/PNL-PEAK-U2.png",
+    "asr": "work/qc/u2t9a/asr_distil.json + work/qc/u2t9a/asr_medium.json \u2014 two independent passes (distil-large-v3, medium; faster-whisper int8/CPU, beam 5, no VAD, via work/qc/asr_run.py), concurring, plus per-second RMS audit",
+    "asr_text_distil": "I want billable truth. A false name and I cancel the advertiser. I want one quiet shift. My mouth stays shut. Red means live, UNC.",
+    "asr_text_medium": "I want billable truth, a false name and I cancel the advertiser. I want one quiet shift, my mouth stays shut, mine. Red means live, UNC.",
+    "gate": "FAIL \u2014 COLONEL COMPLETE (0.00-4.22/4.40s, 'false' p=0.999 in both passes) and clean 'UNC' (p=0.832/0.823); UNC's line present (medium verbatim incl. 'mine.', 4.68-7.74s). But PETER's first sentence 'Your mouth shut pays nobody.' is ABSENT in both passes \u2014 only 'Red means live, UNC.' heard (8.34-9.76s) \u2014 and the RMS audit accounts for the whole take (speech-level energy 0-7.5s; true room-tone gap 7.75-8.25s at RMS ~300-340; then the heard sentence), leaving no unaccounted window. Secondary failure: room dialogue ran to 9.76s, not the designed ~6s, leaving no silent drift tail for the glass cut."
+   },
+   "take9B": {
+    "role": "TAKE B \u2014 the glass (CHAMPION alone)",
+    "file": "takes/U2_take9B.mp4",
+    "source_output": "takes/media-generation-u2-take9b-glass-0-fa23fcfe-3a84-491d-95aa-d63025392905.mp4",
+    "bytes": 3314320,
+    "probe": "10.000s, 1248x704, 240f",
+    "vehicle": "Round-5 TAKE B vehicle (VEHICLES.md round-5 section) \u2014 TEXT 1 unchanged; TEXT 2 = tight push-in on the glass, showman filling the frame through it, room's people silent at the frame edges, shout directed to start ~1s and finish by ~4s (round 3's proven Champion delivery), then a silent held pose; anchors work/qc/u1_last.png + panels/PNL-PEAK-U2.png",
+    "asr": "work/qc/u2t9b/asr_distil.json + work/qc/u2t9b/asr_medium.json \u2014 two independent concurring passes",
+    "asr_text": "Number four. The singer's place is mine.",
+    "gate": "PASS on its elements \u2014 'Number Four.' AND 'The singer's place is mine.' both complete in both passes ('place' p=0.998/0.999). BUT the delivery spans 1.36-7.86s with a ~2.3s internal pause ('Number four.' 1.36-3.02s; 'The singer's place is mine.' 5.30-7.74/7.86s), so the minimum honest composite window for B is ~6.5s, not the designed ~4s. The span overrun is one of the round's two blocking defects."
+   }
+  },
+  "blocking_analysis": "Composite must total exactly 240f (10.00s). Take9A's gate failure (Peter's half-line absent) bars assembly outright. Independently, the spans cannot sum: an A span carrying all three room lines complete has a demonstrated floor of ~8.5s (best observed room completion 9.48s in take8; take9A 9.76s; compression direction failed to compress in rounds 3 and 4), and take9B's line needs a >= ~6.5s window. ~8.5 + ~6.5 = ~15s > 10s. A single refire cannot repair both defects, so the round stops at the gate per the standing rule (never assemble a failing half; no fourth call under any circumstances; the third call is not spent on an impossible pair).",
+  "delivered_master": {
+   "path": "masters/ON_AIR_E2_MASTER.mp4",
+   "md5": "9f2790f480e4d6b32850ad0a028981d1",
+   "state": "untouched; md5 re-verified at round end"
+  },
+  "joined": {
+   "path": "work/joined.mp4",
+   "md5": "cff998f1d03d13a72f3234cd74d0f446",
+   "state": "untouched; md5 re-verified at round end"
+  },
+  "new_master": null,
+  "ear_test_v2": null,
+  "joint_eye_verification": "not reached \u2014 gated behind assemblable halves (both ASR gates + span fit)",
+  "records_updated": [
+   "VEHICLES.md \u2014 round-5 section (method design, both vehicles as fired, ASR results, composite arithmetic, ten-attempt pattern)",
+   "work/GATE_LOG.md \u2014 round-5 section (gate results per half, blocking arithmetic, unspent-call rationale)",
+   "DECISION_LOG.md \u2014 'METHOD \u2014 U2 SPLIT-TAKE COMPOSITE (2026-11-18, showrunner decision; repair round 5)' entry with outcome and standing lesson"
+  ],
+  "verdict": "UNREPAIRED \u2014 the split-take composite proved each half's content landable (Colonel complete with 'false' intelligible in take9A; the Champion's line complete in take9B) but the pair is not assemblable: take9A fails its ASR gate (Peter's 'Your mouth shut pays nobody.' absent in two concurring passes, RMS-audited) and the halves' spans (~8.5s floor + ~6.5s) exceed the unit's 240f. The ear-test FAIL on the delivered master (work/EAR_TEST_VERDICT.md) stands. Nothing was posted; no other unit or episode was touched; the delivered master and joined.mp4 are byte-identical to their pre-repair state.",
+  "resume": "Needs a fresh generation allowance AND a rebalanced load split \u2014 the untried structural options: (a) re-split 2+2: TAKE A = COLONEL + UNC only; TAKE B = PETER (visible through/at the glass from the room side) + CHAMPION, so each half carries 2 speakers and ~20 words; (b) a script-level trim of U2's 38 words (showrunner call \u2014 e.g. Peter's line carried as one sentence), reducing both halves' span floors; (c) direct B's shout as one continuous breath with an explicit no-pause direction AND gate B on span (line complete AND last word ending by ~5.5s) as well as completeness \u2014 span is now a proven gate quantity for composite halves. Gate quantities for any future composite round: per half \u2014 all its scripted lines complete in two concurring passes, PLUS its usable span measured from word timestamps, PLUS the two spans summing to <= 240f with the cut on the motivated beat. Assembly path if a pair ever passes: eye-verify U1 last frame -> composite U2 first frame, the internal A->B cut as a motivated angle change, and composite U2 last frame -> existing U3 take2 (GAP-1 tray hold) per SR2; build seg_u2 composite (each span its own take's audio, scale 1280x720, CRF 15, exactly 240f, AAC priming format); ONE assembly pass (seg_u1 + seg_u2_composite + seg_u3..seg_u6) -> joined; ffprobe 1440f/60.000s BEFORE the master encode; master via work/qc/master_filter_e2.txt with loudnorm re-measured on the new joined and the +13 dB head lift (linear decay to 0 at 2.5s, ahead of loudnorm); CRF 18 / AAC 48k / faststart / corner bug; fresh filename masters/ON_AIR_E2_MASTER_v2.mp4; re-probe end to end; re-ear-test to work/EAR_TEST_VERDICT_v2.md noting U2 is a two-take composite.",
+  "supersedes_completion_record": {
+   "assembly_performed": false,
+   "completed_utc": "2026-11-18T06:15Z",
+   "delivered_master": {
+    "md5": "9f2790f480e4d6b32850ad0a028981d1",
+    "path": "masters/ON_AIR_E2_MASTER.mp4",
+    "state": "untouched; md5 re-verified at round end"
+   },
+   "ear_test_v2": null,
+   "episode": "ON AIR E2 'Show Me How'",
+   "episode_dir": "~/workspace/wubutv-network/new-era/morph-episodes/E2_on-air",
+   "generation": {
+    "allowance_calls": 2,
+    "calls_attempted": 2,
+    "calls_landed": 2,
+    "take7": {
+     "asr": "work/qc/u2t7/asr_distil.json + work/qc/u2t7/asr_medium.json \u2014 two independent passes (distil-large-v3, medium; faster-whisper int8/CPU, beam 5, no VAD, via work/qc/asr_run.py), concurring",
+     "asr_text": "I want billable truth, a false name and I cancel the advertiser. I want one quiet shift. My mouth stays shut, mouth shut pays nobody. Red means live, UNC.",
+     "bytes": 4419191,
+     "file": "takes/U2_take7.mp4",
+     "gate": "FAIL \u2014 Finding 2 SOLVED for the first time in any take (COLONEL complete 0.00-4.06s, 'false' p=0.999/0.998) and Finding 3 stands solved (clean 'UNC'). Finding 1 element ABSENT ENTIRE: the CHAMPION's 'Number Four. The singer's place is mine.' was dropped whole \u2014 the room's argument expanded to fill 4.30-9.94s and no window remains for the closing line in either pass.",
+     "probe": "10.000s, 1248x704, 240f",
+     "source_output": "takes/media-generation-landscape-16-9-exactly-10-seco-0-db2fd41a-bcc9-40d6-a370-d84141bb75f3.mp4",
+     "vehicle": "ROUND-4 amended-order vehicle (VEHICLES.md, EAR-TEST REPAIR ROUND 4 section) \u2014 COLONEL first via intercom, slow/enunciated, done by ~3.5s; room brisk; CHAMPION last through the glass, complete by ~9s; silent hold; anchors work/qc/u1_last.png + panels/PNL-PEAK-U2.png"
+    },
+    "take8": {
+     "asr": "work/qc/u2t8/asr_distil.json + work/qc/u2t8/asr_medium.json \u2014 two independent concurring passes, plus per-second RMS audit (RMS stays high throughout on a music/room bed, so absence rests on the concurring passes + temporal accounting: heard speech fills 0-9.50s, remaining ~0.5s cannot hold a 7-word shout)",
+     "asr_text": "I want billable truth, a false name and I cancel the advertiser. I want one quiet shift. My mouth stays shut, my mouth shut pays nobody. Red means live, UNC.",
+     "bytes": 4054996,
+     "file": "takes/U2_take8.mp4",
+     "gate": "FAIL \u2014 COLONEL complete again (0.00-4.00s, 'false' p=0.998/0.999), clean 'UNC'; CHAMPION ABSENT ENTIRE again. The compression direction did not take: the room ran 4.34-9.50s, near-identical timing to take7.",
+     "probe": "10.000s, 1248x704, 240f",
+     "source_output": "takes/media-generation-landscape-16-9-exactly-10-seco-0-fa1abbec-bf6a-426e-ba63-e6ba4769bc3f.mp4",
+     "vehicle": "take7 vehicle with ONE delivery adjustment: room directed 'VERY quick and tight, both men together done by five and a half seconds', a full beat of silence, then the CHAMPION at ~6s into the silent room, finished by ~9s; same anchors, same amended order"
+    }
+   },
+   "job_id": "on-air-e2-u2-repair-r4",
+   "joined": {
+    "md5": "cff998f1d03d13a72f3234cd74d0f446",
+    "path": "work/joined.mp4",
+    "state": "untouched; md5 re-verified at round end"
+   },
+   "joint_eye_verification": "not reached \u2014 gated behind the ASR pass in both attempts",
+   "new_master": null,
+   "records_updated": [
+    "SCRIPT.md \u2014 header amendment note + U2 [AMENDMENT 2026-11-18 \u2014 U2 LINE ORDER] note (new performance order, six-attempt evidence, directive citation)",
+    "DECISION_LOG.md \u2014 'AMENDMENT \u2014 U2 LINE ORDER (2026-11-18, showrunner decision)' entry",
+    "VEHICLES.md \u2014 section 'EAR-TEST REPAIR ROUND 4 (2026-11-18 \u2014 job on-air-e2-u2-repair-r4)' with the amendment, both vehicles as fired, ASR results, and the eight-attempt failure pattern",
+    "work/GATE_LOG.md \u2014 section 'EAR-TEST REPAIR ROUND 4 (2026-11-18) \u2014 BLOCKED AT ASR GATE (R4)'"
+   ],
+   "resume": "Needs a fresh generation allowance AND a structurally different idea \u2014 order changes and pacing/compression direction are both exhausted (8 attempts). What is now PROVEN: (a) COLONEL-first lands Finding 2 reliably (both round-4 takes); (b) round 3's vehicle lands Findings 1+3 when the CHAMPION is third of four; (c) whoever speaks LAST in this unit is dropped whole. Untried structural options for a future round: (a) split U2's dialogue load \u2014 e.g. move one line across the unit boundary (the CHAMPION's claim could open U3, where he already stands at the glass in staging, though that amends U3 and re-opens its joint/gap design \u2014 a showrunner call); (b) reduce U2 to three spoken lines and carry the fourth beat by picture/post (e.g. the CHAMPION's number announced by the Broadcast Strip / a held shout face with the claim line moved or cut \u2014 a script amendment, showrunner call); (c) accept that the unit needs two generation passes composited (dialogue split across two takes, audio-composited in assembly) \u2014 a production-method change, not a vehicle change. If a take ever passes the ASR gate (all four U2 lines complete \u2014 'Number Four.' AND 'A false name and I cancel the advertiser.' with 'false' intelligible AND 'The singer's place is mine.' AND a clean 'UNC'), the remaining path is unchanged: eye-verify both joints per SR2 (U1 last frame -> new U2; new U2 last frame -> existing U3 take2, GAP-1 tray hold); build seg_u2 (scale 1280x720, CRF 15, 240f, AAC priming format like the other segments); ONE assembly pass (seg_u1 + seg_u2_new + seg_u3..seg_u6) -> joined; master via work/qc/master_filter_e2.txt with loudnorm re-measured on the new joined and the +13 dB head lift (linear decay to 0 at 2.5s, ahead of loudnorm); CRF 18 / AAC 48k / faststart / corner bug; fresh filename masters/ON_AIR_E2_MASTER_v2.mp4; re-probe 1440f/60.000s; re-ear-test to work/EAR_TEST_VERDICT_v2.md.",
+   "script_amendment": {
+    "authority": "User directive 2026-11-18 'never ask me you decide' \u2014 showrunner call, not re-litigated in this round.",
+    "decision": "U2 line order amended: COLONEL first, then UNC, then PETER (current relative order), CHAMPION's line closes the unit. Every scripted line verbatim; order only.",
+    "recorded_in": [
+     "SCRIPT.md (header note + U2 amendment note)",
+     "DECISION_LOG.md (2026-11-18 amendment entry)",
+     "VEHICLES.md (round-4 section)",
+     "work/GATE_LOG.md (round-4 section)"
+    ]
+   },
+   "status": "BLOCKED_AT_ASR_GATE_R4",
+   "supersedes_completion_record": {
+    "assembly_performed": false,
+    "completed_utc": "2026-11-18T05:15Z",
+    "delivered_master": {
+     "md5": "9f2790f480e4d6b32850ad0a028981d1",
+     "path": "masters/ON_AIR_E2_MASTER.mp4",
+     "state": "untouched; md5 re-verified after both round-3 attempts"
+    },
+    "ear_test_v2": null,
+    "episode": "ON AIR E2 'Show Me How'",
+    "episode_dir": "~/workspace/wubutv-network/new-era/morph-episodes/E2_on-air",
+    "generation": {
+     "allowance_calls": 2,
+     "calls_attempted": 2,
+     "calls_landed": 2,
+     "take5": {
+      "asr": "work/qc/u2t5/asr_distil.json + work/qc/u2t5/asr_medium.json \u2014 two independent passes (distil-large-v3, medium; faster-whisper int8/CPU, beam 5, no VAD, via work/qc/asr_run.py), concurring on every gate element",
+      "asr_text": "I want one quiet shift. My mouth stays shut, mine. Your mouth shut pays nobody. Red means live, UNC. Number four, the singer's place is mine. Bill's name and I cancel the advertiser.",
+      "bytes": 4312308,
+      "file": "takes/U2_take5.mp4",
+      "gate": "FAIL \u2014 Findings 1+3 FULLY satisfied for the first time in any take (CHAMPION complete: 'Number four, the singer's place is mine.', 'place' p=0.999, 5.84\u20137.72s; PETER clean 'UNC'). Finding 2 element NOT intelligibly complete: front speakers did not compress as directed (done 7.72s, not ~4.5s) and the COLONEL (7.94\u20139.88s) compressed his head into ~0.6s \u2014 both passes hear 'Bill's name and I cancel the advertiser.'; 'I want billable truth. A false name' collapsed and the word 'false' is absent in both passes",
+      "source_output": "takes/media-generation-landscape-16-9-exactly-10-seco-0-ae50a460-3591-46ba-9f01-d59121212d21.mp4",
+      "vehicle": "ROUND-3 REDESIGNED vehicle (VEHICLES.md, EAR-TEST REPAIR ROUND 3 section) \u2014 new delivery direction: front three brisk, done by ~4.5s; full beat of silence; COLONEL last and alone, slow/enunciated, done by ~8.5s; silent hold to the end; anchors work/qc/u1_last.png + panels/PNL-PEAK-U2.png"
+     },
+     "take6": {
+      "asr": "work/qc/u2t6/asr_distil.json + work/qc/u2t6/asr_medium.json \u2014 two independent passes concurring, plus a per-second RMS audit of the take audio",
+      "asr_text": "I want one quiet shift. My mouth stays shut, mine. Your mouth shut pays nobody. Red means live, UNC. Number four, the singer's place is mine.",
+      "bytes": 5305765,
+      "file": "takes/U2_take6.mp4",
+      "gate": "FAIL \u2014 Findings 1+3 satisfied again (CHAMPION complete with 'place', 6.98\u20138.92s; clean 'UNC'). Finding 2 element ABSENT ENTIRE: the COLONEL's line was dropped whole \u2014 no speech after 8.92s in either pass; RMS audit: 9\u201310s window RMS 641 (room tone) vs 2,000\u20133,400 across speech windows",
+      "source_output": "takes/media-generation-landscape-16-9-exactly-10-seco-0-bf90e03c-402d-4ffe-87e2-862506051d0d.mp4",
+      "vehicle": "take5 vehicle with ONE delivery adjustment: the COLONEL's delivery rebuilt \u2014 front three 'very quick and tight... completely finished by four seconds'; Colonel starts ~4.5s via a phone speaker directed LOUD, CLOSE and perfectly clear with no distortion and no crackle; his line delivered in two slow beats separated by a full second of silence ('I want billable truth.' alone, then 'A FALSE NAME \u2014 and I cancel the advertiser.' with the heaviest stress on the first three words, each landing separately like a stamp), finished by ~9.5s; same anchors"
+     }
+    },
+    "job_id": "on-air-e2-u2-repair-r3",
+    "joined": {
+     "md5": "cff998f1d03d13a72f3234cd74d0f446",
+     "path": "work/joined.mp4",
+     "state": "untouched; md5 re-verified"
+    },
+    "joint_eye_verification": "not reached \u2014 gated behind the ASR pass in both attempts",
+    "new_master": null,
+    "records_updated": [
+     "VEHICLES.md \u2014 section 'EAR-TEST REPAIR ROUND 3 (2026-11-18 ~00:05 EST \u2014 job on-air-e2-u2-repair-r3)' with both landed takes, both vehicles as fired verbatim, ASR results, and the six-attempt failure pattern",
+     "work/GATE_LOG.md \u2014 section 'EAR-TEST REPAIR ROUND 3 (2026-11-18 ~00:05 EST) \u2014 BLOCKED AT ASR GATE (R3)'"
+    ],
+    "resume": "Needs a fresh generation allowance AND a structurally different idea \u2014 six attempts (take1\u2013take6) have exhausted pacing variations on the same speaker order. What is now PROVEN: the redesigned front-of-unit direction reliably lands Findings 1+3 ('Number Four.' + 'The singer's place is mine.' complete + clean 'UNC' in both round-3 takes). The sole blocker is the COLONEL's two-sentence intercom line in the LAST slot: tail-dropped (t1), whole-dropped (t2, t6), tail-clipped (t3), head-garbled (t4, t5). Untried structural options for a future round: (a) a vehicle that gives the COLONEL the FIRST dialogue slot and the room's argument after him (script line ORDER within the unit would change \u2014 a showrunner call, since SCRIPT.md is law); (b) a vehicle that stages the Colonel's line over the tray push-in with NO other speaker after the CHAMPION and the intercom click audible at ~4s; (c) accepting take5 as the U2 picture/dialogue base is NOT an option \u2014 its Finding 2 element is unintelligible and the standing rule is never to assemble a failing take. If a take ever passes the ASR gate (all four U2 lines complete \u2014 'Number Four.' AND 'A false name and I cancel the advertiser.' with 'false' intelligible AND 'The singer's place is mine.' AND a clean 'UNC'), the remaining path is unchanged: eye-verify both joints per SR2 (U1 last frame -> new U2; new U2 last frame -> existing U3 take2, GAP-1 tray hold); build seg_u2 (scale 1280x720, CRF 15, 240f, AAC priming format like the other segments); ONE assembly pass (seg_u1 + seg_u2_new + seg_u3..seg_u6) -> joined; master via work/qc/master_filter_e2.txt with loudnorm re-measured on the new joined and the +13 dB head lift (linear decay to 0 at 2.5s, ahead of loudnorm); CRF 18 / AAC 48k / faststart / corner bug; fresh filename masters/ON_AIR_E2_MASTER_v2.mp4; re-probe 1440f/60.000s; re-ear-test to work/EAR_TEST_VERDICT_v2.md.",
+    "status": "BLOCKED_AT_ASR_GATE_R3",
+    "supersedes_completion_record": {
+     "job_id": "on-air-e2-u2-repair-resume",
+     "note": "The round-2 (resume) session's record (completed 2026-11-18T04:45Z, status BLOCKED_AT_ASR_GATE): fresh 2-call allowance; take3 landed and failed the gate on Finding 2 tail-clipped (COLONEL starts 8.12s, audio ends mid-word at 10.00s, 'cancel the advertiser' never spoken); take4 landed and failed on Finding 2 head-garbled ('false' absent in two concurring passes) plus CHAMPION 'place' garbled/absent. That record in turn superseded the first repair attempt (job on-air-e2-u2-repair, fired 2026-11-18T04:00Z, BLOCKED_AT_GENERATION: its single attempted call returned a media.generate_video internal error, downstream 500, receipt takes/media-generation-u2-take3-repair-1794974441.json; no take landed; contingency call unspent), which superseded the ear-test job's record (job ear-test-on-air-e2, completed 2026-11-18T03:42:00Z, verdict FAIL, master md5 9f2790f480e4d6b32850ad0a028981d1; deliverables at work/EAR_TEST_TRANSCRIPT.txt and work/EAR_TEST_VERDICT.md). All earlier records are preserved in full substance in work/GATE_LOG.md and VEHICLES.md.",
+     "status": "BLOCKED_AT_ASR_GATE"
+    },
+    "take_asr_gate": "FAILED on both round-3 takes \u2014 assembly not performed, per instructions (do not assemble a failing take)",
+    "verdict": "UNREPAIRED \u2014 round 3's redesigned vehicle SOLVED Findings 1+3 (both takes carry 'Number Four.' + 'The singer's place is mine.' complete and a clean 'UNC'), but the COLONEL's condition line failed both times: take5 head-garbled ('false' absent, two concurring passes), take6 dropped whole (two passes + RMS audit). The ear-test FAIL on the delivered master (work/EAR_TEST_VERDICT.md) stands. Nothing was posted; no other unit or episode was touched; the delivered master and joined.mp4 are byte-identical to their pre-repair state.",
+    "work_order": "work/EAR_TEST_VERDICT.md \u2014 delivered master FAILED the cold ear-test; 3 findings, all in U2: (1) CHAMPION 'Number Four.' absent, (2) COLONEL 'A false name and I cancel the advertiser.' absent, (3) PETER 'Red means live, UNC.' unintelligible ('UN4')"
+   },
+   "take_asr_gate": "FAILED on both round-4 takes \u2014 assembly not performed, per instructions (do not assemble a failing take)",
+   "verdict": "UNREPAIRED \u2014 but the amendment SOLVED its target: with the COLONEL in the FIRST slot, his two-sentence line landed COMPLETE with 'false' intelligible in BOTH round-4 takes (Findings 2+3 now pass together), after failing all six prior attempts. The failure moved with the slot: the CHAMPION, now last, was dropped whole in both takes (Finding 1 element absent). Eight attempts total now prove the binding constraint is U2's four-speaker dialogue load in 10s \u2014 the generator fits ~3 speakers and starves the last, and compression direction has failed to compress in two rounds (the room's argument expands to fill the unit). The ear-test FAIL on the delivered master stands. Nothing was posted; no other unit or episode was touched; the delivered master and joined.mp4 are byte-identical to their pre-repair state.",
+   "work_order": "work/EAR_TEST_VERDICT.md \u2014 delivered master FAILED the cold ear-test; 3 findings, all in U2: (1) CHAMPION 'Number Four.' absent, (2) COLONEL 'A false name and I cancel the advertiser.' absent, (3) PETER 'Red means live, UNC.' unintelligible ('UN4')"
+  }
+ }
+}

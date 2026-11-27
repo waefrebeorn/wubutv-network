@@ -458,4 +458,165 @@ Series research run (coordinator 2c8953b1) to shape the 5 new TV shows. Hop chai
 
 ## Queued lilypads (banked 2026-11-24 from the Katrin Ann Orbeta Kevin Bacon hop — NOT yet studied)
 
-107. **Adrien Bodson — "Battery Boy" (Flick Residency, Summer 2026)** — https://flick.art/blog/animation-styles-for-ai — hop 2 from Katrin Ann Orbeta (CATEGORY CROSS: flat pastel 2D cartoon → stylised Pixar-calibre 3D). Evidenced in today's primary source (style 5 of the animation-styles guide): rounded forms, tactile materials, restrained squash-and-stretch, film-camera depth of field and motion blur; the film "opens almost every video prompt with the same first line" — "Cinematic Pixar-caliber animated short, no music, native SFX only" (Seedance 2.5) — and its working style words are motion-physics and face-legibility claims ("physically convincing toy motion", "exceptionally readable faces"). Use: what a 3D toy world does to prompt architecture against Orbeta's flat pole — a first-line sound contract, physics words as the style, and whether the look is carried by prompt, sheet, or both. Chain: Katrin Ann Orbeta (forced jump, hop 1) → Adrien Bodson (hop 2); hop 3 next, then forced jump.
+107. **Adrien Bodson — "Battery Boy" → see #144** (merged 2026-11-27, DA4 F6 — this queued entry is superseded by the studied entry #144; the original queued text follows for provenance) — https://flick.art/blog/animation-styles-for-ai — hop 2 from Katrin Ann Orbeta (CATEGORY CROSS: flat pastel 2D cartoon → stylised Pixar-calibre 3D). Evidenced in today's primary source (style 5 of the animation-styles guide): rounded forms, tactile materials, restrained squash-and-stretch, film-camera depth of field and motion blur; the film "opens almost every video prompt with the same first line" — "Cinematic Pixar-caliber animated short, no music, native SFX only" (Seedance 2.5) — and its working style words are motion-physics and face-legibility claims ("physically convincing toy motion", "exceptionally readable faces"). Use: what a 3D toy world does to prompt architecture against Orbeta's flat pole — a first-line sound contract, physics words as the style, and whether the look is carried by prompt, sheet, or both. Chain: Katrin Ann Orbeta (forced jump, hop 1) → Adrien Bodson (hop 2); hop 3 next, then forced jump.
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+108. **Adi_8xx — "Brainrot.TV reposts — long-form feud serials"** — https://x.com/adi_8xx/status/2124900535442518282 + https://x.com/adi_8xx/status/2125358762123014643 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/adi_8xx-20261125/`. Wave A legibility study 2026-11-25: user's 'learn from this' headline post + second Adi post; prior study adi8xx-tungsahur-20261124 covered a different post
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+109. **bueze006 — "Tung tung and patapim plan"** — https://x.com/bueze006/status/2125183734282400199 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/bueze006-20261125/`. Wave A legibility study 2026-11-25: new creator, user-sent
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+110. **Seb_254_Clark (Clara Belle) — "Apple & Papaya / Crazy Kitchen Showdown"** — https://x.com/seb_254_clark/status/2125268036366250480 + https://x.com/seb_254_clark/status/2124915443274318138 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/seb_254_clarkclarabelle-20261125/`. Wave C legibility study — user-sent 2026-11-25; fruit melodrama; user flagged Kitchen Showdown opening hit (Emeril BAM)
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+111. **iJeonguu (mEizAa) — "Spicy chicken noodles queen"** — https://x.com/ijeonguu/status/2125223154041901337 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/ijeonguumeizaa-20261125/`. Wave C legibility study — user-sent 2026-11-25; food-character AI melodrama part 2
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+112. **ADERONKE (realharderonke) — "Bread melodrama serial (Croissant & Rye) / Xiao Kaeson"** — https://x.com/realharderonke/status/2125325806557638836 + https://x.com/realharderonke/status/2125067223324611044 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/aderonkerealharderonke-20261125/`. Wave C legibility study — user-sent 2026-11-25; fruit/bread AI melodrama serial, Parts 5+7
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+113. **catyfavorite (American Hero) — "Untitled vertical melodramas (fan account)"** — https://x.com/catyfavorite/status/2125234631297646615 + https://x.com/catyfavorite/status/2125234577149157750 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/catyfavoriteamericanhero-20261125/`. Wave C legibility study — user-sent 2026-11-25; fan account, no captions; one post at 1.1M views
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+114. **aesthetic_misss** — https://x.com/aesthetic_misss/status/2125096227607904408 + https://x.com/aesthetic_misss/status/2125337278423941418 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/aesthetic_misss-20261125/`. Lilypad wave B 2026-11-25: legibility study — user verdict that our shows are incomprehensible; study what makes these episodes instantly followable. Prior node study aestheticmisss-20261118 (roach network node 4).
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+115. **thecontentlab01 — "Tung Tung & Udin / fruit melodrama"** — https://x.com/thecontentlab01/status/2125277459201622241 + https://x.com/thecontentlab01/status/2125177651929162176 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/thecontentlab01-20261125/`. Lilypad wave B 2026-11-25: legibility study, NEW posts only; prior studies 20261119 + 20261122 not redone.
+
+## Queued lilypads (banked 2026-11-25 via LILYPAD_INTAKE — NOT yet studied)
+
+116. **eatsimple_x — "Eat Simple food melodrama"** — https://x.com/eatsimple_x/status/2125422023795261787 + https://x.com/eatsimple_x/status/2124795016069661114 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/eatsimple_x-20261125/`. Lilypad wave B 2026-11-25: legibility study — Indonesian serialized food-people melodrama.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+117. **clipcraft7** — https://x.com/clipcraft7/status/2125915094894645525 + https://x.com/clipcraft7/status/2126013069574975795 + https://x.com/clipcraft7/status/2125903899945050484 + https://x.com/clipcraft7/status/2125833369996967941 + https://x.com/clipcraft7/status/2125896681019298124 + https://x.com/clipcraft7/status/2126010248905286043 + https://x.com/clipcraft7/status/2126060123512586682 + https://x.com/clipcraft7/status/2125983689066627100 + https://x.com/clipcraft7/status/2126105530750120254 + https://x.com/clipcraft7/status/2125846733917663256 + https://x.com/clipcraft7/status/2125915507870048641 + https://x.com/clipcraft7/status/2126105397010272349 + https://x.com/clipcraft7/status/2125972000019448305 + https://x.com/clipcraft7/status/2126147274682093720 + https://x.com/clipcraft7/status/2125971826438189088 + https://x.com/clipcraft7/status/2125914876484743443 + https://x.com/clipcraft7/status/2125874193262649703 + https://x.com/clipcraft7/status/2125875261665063193 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/clipcraft7-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+118. **shahzaibazhar08** — https://x.com/shahzaibazhar08/status/2125796938151043122 + https://x.com/shahzaibazhar08/status/2125843203328819298 + https://x.com/shahzaibazhar08/status/2125796901941616710 + https://x.com/shahzaibazhar08/status/2125944341919371354 + https://x.com/shahzaibazhar08/status/2125945072604815494 + https://x.com/shahzaibazhar08/status/2125840825129242884 + https://x.com/shahzaibazhar08/status/2125951104274043095 + https://x.com/shahzaibazhar08/status/2125945916456927276 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/shahzaibazhar08-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+119. **hebertysales** — https://x.com/hebertysales/status/2125916138538504680 + https://x.com/hebertysales/status/2125941867850158413 + https://x.com/hebertysales/status/2125916296529223995 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/hebertysales-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+120. **mohsiny59535791** — https://x.com/mohsiny59535791/status/2125793154175844373 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/mohsiny59535791-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+121. **xaiworlds** — https://x.com/xaiworlds/status/2126013765007094169 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/xaiworlds-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+122. **g55628830** — https://x.com/g55628830/status/2125992684024431036 + https://x.com/g55628830/status/2125761307953762740 + https://x.com/g55628830/status/2126065817406288204 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/g55628830-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+123. **nadeemjuttkojh** — https://x.com/nadeemjuttkojh/status/2125696526014198251 + https://x.com/nadeemjuttkojh/status/2125867953661112760 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/nadeemjuttkojh-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+124. **khalidoykq** — https://x.com/khalidoykq/status/2125956200747733309 + https://x.com/khalidoykq/status/2125827052062581098 + https://x.com/khalidoykq/status/2126003234707997139 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/khalidoykq-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+125. **miee711** — https://x.com/miee711/status/2125972763236266239 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/miee711-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+126. **yuisansuk456** — https://x.com/yuisansuk456/status/2125883383184241091 + https://x.com/yuisansuk456/status/2125929474835493275 + https://x.com/yuisansuk456/status/2125905050732220736 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/yuisansuk456-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+127. **fightmovie41** — https://x.com/fightmovie41/status/2125711488673546528 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/fightmovie41-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+128. **ericdushim94276** — https://x.com/ericdushim94276/status/2125801656788865110 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/ericdushim94276-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+129. **munnaqpj** — https://x.com/munnaqpj/status/2125729723171156305 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/munnaqpj-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+130. **bajablstdeeznut** — https://x.com/bajablstdeeznut/status/2125715439762223244 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/bajablstdeeznut-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+131. **robbercat_sol** — https://x.com/robbercat_sol/status/2125776505397711336 + https://x.com/robbercat_sol/status/2126158028890427733 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/robbercat_sol-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+132. **morepets2026** — https://x.com/morepets2026/status/2125724728765944302 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/morepets2026-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+133. **diesel_lord** — https://x.com/diesel_lord/status/2125579069139906955 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/diesel_lord-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+134. **boss_bee_** — https://x.com/boss_bee_/status/2126024117597991034 + https://x.com/boss_bee_/status/2126083928452915237 + https://x.com/boss_bee_/status/2125870602926109035 + https://x.com/boss_bee_/status/2125926850006491209 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/boss_bee_-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+135. **mviews3** — https://x.com/mviews3/status/2125907891643384311 + https://x.com/mviews3/status/2126062232555630621 + https://x.com/mviews3/status/2126123246995357847 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/mviews3-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+136. **pur_chos** — https://x.com/pur_chos/status/2125899817985733078 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/pur_chos-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+137. **thatchaosgirl9** — https://x.com/thatchaosgirl9/status/2126072809961242792 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/thatchaosgirl9-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+138. **gavi6ista** — https://x.com/gavi6ista/status/2125548531973013577 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/gavi6ista-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+139. **fatosgngr35** — https://x.com/fatosgngr35/status/2126071827478753360 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/fatosgngr35-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+140. **stellan628605** — https://x.com/stellan628605/status/2125588279651357009 + https://x.com/stellan628605/status/2126022560299303320 + https://x.com/stellan628605/status/2125997924228501542 + https://x.com/stellan628605/status/2125971124442079445 + https://x.com/stellan628605/status/2125591122441617460 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/stellan628605-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+141. **piper_mendoza5** — https://x.com/piper_mendoza5/status/2125589983029584191 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/piper_mendoza5-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+142. **zombieonearth_** — https://x.com/zombieonearth_/status/2125876661660889148 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/zombieonearth_-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Queued lilypads (banked 2026-11-27 via LILYPAD_INTAKE — NOT yet studied)
+
+143. **zartashw3** — https://x.com/zartashw3/status/2126055909654962618 — intaked via LILYPAD_INTAKE; study folder scaffold: `~/workspace/research_notes/lilypads/zartashw3-20261127/`. User-sent via Telegram during the 2026-11-25 to 27 polling outage; registered from the 2026-11-27 backlog. Feeds the NEW SHOWS remake.
+
+## Lilypad rotation study (2026-11-27)
+
+144. **Adrien Bodson — "Battery Boy" (Flick Residency, Summer 2026)** — https://flick.art/blog/animation-styles-for-ai + https://flick.art/blog/guides/how-to-make-an-ai-drama-short-film + https://flick.art/blog/title-sequence + https://onshow.com/film/battery-boy-f2e725dd + https://ai-arts.org/galleries/ai-arts/battery-boy — studied 2026-11-27 via all three Flick pages read in full (two verbatim prompt blocks from the public canvas) + the OnShow and AI-ARTS pages. Full report: `~/workspace/research_notes/lilypads/adrienbodson-20261127/report.md`.
+    - **Who/what:** Adrien Bodson, Montréal-based director/writer/producer (20+ years independent cinema; founder AI Studios / AiStudios.ca, co-founder Orange Films Studios). Battery Boy: a discarded toy robot down to 1% battery crawls across a bedroom floor, past the house cat, to reach the charger; the boy's world moves on and the robot fears being forgotten. Runtime as published differs: 3:11 (Flick) vs 3 min 14 sec (OnShow). Models credited: Seedance 2.5 + Eleven Music.
+    - **Canvas economics (the anomaly):** **23 generations in Flick, plus 403 uploads** — the drama guide states Battery Boy and The Miracle were "built mostly from uploaded footage, so left out of the median". The canvas is the assembly/selection layer, not where the film was generated; what the uploads are is not stated on any page read.
+    - **The prompt architecture:** (1) **the first line is a sound contract**, repeated in almost every video prompt — "Cinematic Pixar-caliber animated short, no music, native SFX only." (Seedance 2.5); (2) **the style block is a physics-and-legibility spec** — "Use premium theatrical stylized 3D animation: appealing rounded forms, sophisticated lighting, detailed skin and hair, tactile fabrics, weathered metal, physically convincing toy motion, natural cloth and hair dynamics, restrained squash-and-stretch, cinematic depth of field, smooth motion blur, elegant composition, and exceptionally readable faces." The guide names the load-bearing phrases: "physically convincing toy motion" sets how things move, "exceptionally readable faces" keeps emotion clear. No character sheet or reference citation for this film appears in any page read — none claimed.
+    - **Titles:** opening title sits inside the bedroom "in gold letters that share the warm light of the room"; the end title "shows how the story turned out, with the `tiny brass robot` riding across the floor beneath the name" — a before/after pair (world's light → outcome re-pictured).
+    - **Sound:** generation layer SFX-only by first-line contract; film layer credited to Eleven Music — music authored at film level, never inside a clip prompt (the separation transfers; the source does not).
+    - **Took (mechanics only):** (1) **the first line is the sound contract** — the law that must survive every prompt goes first, in its shortest form; (2) **style words name what the medium is worst at** — 3D gets motion-physics + face-legibility claims, flat 2D (Orbeta) got palette/outline claims; (3) **restraint is a physics word** — "restrained squash-and-stretch": exaggeration level as a stated per-character state variable; (4) **upload-heavy canvas = generation count is not production count** — assembly/post layers must be logged as their own layer or a build looks cheaper than it was; (5) **one locomotion line, speed as the stakes meter** — crawl to the charger at 1%, any frame shows how much is left (the body is the ledger); (6) **title pairing** — opening takes the world's light, ending re-pictures the outcome (post-executable); (7) **lens words belong to the medium that has a lens** — DoF/motion blur are style in 3D, contamination in painted 2D (Mauro's ban).
+    - **Adjudicated OUT / not adopted:** Flick / Seedance 2.5 as tools; Eleven Music / generated score (standing law — Suno track is sole master; the sound separation is banked, the source is not); generated in-scene title lettering (titles set in post); "Pixar-caliber" as a style token (the toy-motion + readable-faces phrases underneath it are the portable part).
+    - **Honest scope:** social.search found no attributable Bodson posts — none claimed; film not watched; two verbatim prompt blocks only, the rest Flick's counts/summaries + festival synopsis + two excerpt-level promo summaries; runtime (3:11 vs 3:14) and robot description (rusty/weathered orange vs "tiny brass robot") differ by source, recorded as published.
+    - **Banked form idea (today's theme: mascot physics — toy motion + a draining meter):** THE TOP — one spinning top, same toy and colours, launched at the start of every 10s beat's world; its wobble is the beat's stakes meter (fresh spin true and fast, dying spin wobbling wide — energy read off the body, no caption); the seam is the relaunch, a hand flicking it back to speed in the next world at the frame its wobble peaks, the cut hiding in the new spin's fastest blur; chorus = spun on a charger-like disc, perfectly true for the only time; outro = it falls and rolls on its rim to the goal object. Blind draw "top" (Python SystemRandom, filtered against BAN_LIST + prior draws) — not previously banked. Test as a still-chain pair before volley use.
+
+## Queued lilypads (banked 2026-11-27 from the Adrien Bodson Kevin Bacon hop — NOT yet studied)
+
+145. **M.E. Owens — "One More Day" (Flick Residency, Summer 2026)** — https://flick.art/blog/guides/how-to-make-an-ai-drama-short-film — hop 3 from Adrien Bodson (CATEGORY CROSS: stylised 3D toy world + upload-heavy assembly → photoreal drama built in-canvas around a coma, Death, and one face's turn). Evidenced in today's primary source: **183 generations** in Flick (Seedance 2.0, Seedance 2.0 Mini, GPT Image 2, Nano Banana 2, Eleven v3); an expression sheet for Vivi called by name in shot prompts ("@Vivi Lovell Character Sheet"); the turn as an extreme close-up — one face, one emotional change ("Hope floods Vivi's face"), one line ("Yes. Please.") in a voice taken from a reference clip (@Maya's Warning Label); a 15-second single-take family car scene, dialogue as screenplay lines, last line pure intention ("everything is perfect, for a moment"). Premise: after a car crash leaves her in a coma, Vivi meets Death, who offers her one more day. Use: the close-up turn as a shot discipline, expression-sheet citation at 183-generation scale, and the one-take dialogue scene against Bodson's one-locomotion-line film. Chain: Katrin Ann Orbeta (forced jump, hop 1) → Adrien Bodson (hop 2) → M.E. Owens (hop 3) — **CHAIN CAP REACHED; the run after Owens must FORCE-JUMP to a new branch.**

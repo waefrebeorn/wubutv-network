@@ -1,0 +1,25 @@
+2026-11-12 04:04:00.843 - INFO - cli - Separator version 0.48.0 beginning with input path(s): mv14_44k.wav
+2026-11-12 04:04:06.070 - INFO - separator - Separator version 0.48.0 instantiating with output_dir: separation_mv14, output_format: WAV
+2026-11-12 04:04:06.071 - INFO - separator - Using model directory from model_file_dir parameter: /home/hatch/workspace/tools/audio-separator-models
+2026-11-12 04:04:06.071 - INFO - separator - Operating System: Linux #1 SMP PREEMPT_DYNAMIC Fri Nov  6 01:23:31 UTC 2026
+2026-11-12 04:04:06.071 - INFO - separator - System: Linux Node: htch-runtime Release: 7.0.0-44-generic Machine: x86_64 Proc: x86_64
+2026-11-12 04:04:06.071 - INFO - separator - Python Version: 3.12.3
+2026-11-12 04:04:06.071 - INFO - separator - PyTorch Version: 2.15.0+cpu
+2026-11-12 04:04:06.178 - INFO - separator - FFmpeg installed: ffmpeg version 8.1.2 Copyright (c) 2000-2026 the FFmpeg developers
+2026-11-12 04:04:06.183 - INFO - separator - ONNX Runtime CPU package installed with version: 1.31.1
+2026-11-12 04:04:06.183 - INFO - separator - No hardware acceleration could be configured, running in CPU mode
+2026-11-12 04:04:06.183 - INFO - separator - Loading model htdemucs.yaml...
+2026-11-12 04:04:06.764 - INFO - demucs_separator - Demucs Separator initialisation complete
+2026-11-12 04:04:06.764 - INFO - separator - Load model duration: 00:00:00
+2026-11-12 04:04:06.764 - INFO - separator - Processing file: mv14_44k.wav
+2026-11-12 04:04:06.764 - INFO - separator - Starting separation process for audio_file_path: mv14_44k.wav
+2026-11-12 04:04:06.782 - INFO - common_separator - Input audio subtype: PCM_16
+2026-11-12 04:04:06.782 - INFO - common_separator - Detected input bit depth: 16-bit
+  0%|          | 0/28 [00:00<?, ?it/s]  4%|▎         | 1/28 [00:15<07:09, 15.92s/it]  7%|▋         | 2/28 [00:32<06:57, 16.06s/it] 11%|█         | 3/28 [00:42<05:41, 13.65s/it] 14%|█▍        | 4/28 [00:57<05:32, 13.87s/it] 18%|█▊        | 5/28 [01:11<05:25, 14.17s/it] 21%|██▏       | 6/28 [01:27<05:20, 14.59s/it] 25%|██▌       | 7/28 [01:38<04:40, 13.36s/it] 29%|██▊       | 8/28 [01:49<04:17, 12.87s/it] 32%|███▏      | 9/28 [02:02<04:06, 12.96s/it] 36%|███▌      | 10/28 [02:22<04:28, 14.94s/it] 39%|███▉      | 11/28 [02:38<04:20, 15.32s/it] 43%|████▎     | 12/28 [02:52<03:59, 14.99s/it] 46%|████▋     | 13/28 [03:12<04:08, 16.54s/it] 50%|█████     | 14/28 [03:34<04:11, 17.96s/it] 54%|█████▎    | 15/28 [03:49<03:42, 17.09s/it] 57%|█████▋    | 16/28 [04:09<03:35, 17.99s/it] 61%|██████    | 17/28 [04:31<03:30, 19.17s/it] 64%|██████▍   | 18/28 [05:05<03:57, 23.76s/it] 68%|██████▊   | 19/28 [05:22<03:15, 21.77s/it] 71%|███████▏  | 20/28 [05:33<02:28, 18.57s/it] 75%|███████▌  | 21/28 [05:46<01:57, 16.77s/it] 79%|███████▊  | 22/28 [06:13<01:58, 19.78s/it] 82%|████████▏ | 23/28 [06:23<01:24, 17.00s/it] 86%|████████▌ | 24/28 [06:43<01:11, 17.91s/it] 89%|████████▉ | 25/28 [06:55<00:48, 16.18s/it] 93%|█████████▎| 26/28 [07:03<00:27, 13.72s/it] 96%|█████████▋| 27/28 [07:17<00:13, 13.57s/it]100%|██████████| 28/28 [07:28<00:00, 12.84s/it]100%|██████████| 28/28 [07:28<00:00, 16.01s/it]
+  0%|          | 0/28 [00:00<?, ?it/s]  4%|▎         | 1/28 [00:16<07:12, 16.01s/it]  7%|▋         | 2/28 [00:29<06:15, 14.44s/it] 11%|█         | 3/28 [00:39<05:12, 12.52s/it] 14%|█▍        | 4/28 [00:52<05:06, 12.76s/it] 18%|█▊        | 5/28 [01:06<05:02, 13.17s/it] 21%|██▏       | 6/28 [01:23<05:18, 14.50s/it] 25%|██▌       | 7/28 [01:33<04:29, 12.83s/it] 29%|██▊       | 8/28 [01:48<04:30, 13.53s/it] 32%|███▏      | 9/28 [02:07<04:51, 15.34s/it] 36%|███▌      | 10/28 [02:21<04:29, 14.95s/it] 39%|███▉      | 11/28 [02:34<04:05, 14.43s/it] 43%|████▎     | 12/28 [02:51<04:00, 15.03s/it] 46%|████▋     | 13/28 [03:10<04:03, 16.26s/it] 50%|█████     | 14/28 [03:36<04:31, 19.41s/it] 54%|█████▎    | 15/28 [03:50<03:49, 17.65s/it] 57%|█████▋    | 16/28 [04:03<03:15, 16.28s/it] 61%|██████    | 17/28 [04:16<02:49, 15.37s/it] 64%|██████▍   | 18/28 [04:30<02:28, 14.88s/it] 68%|██████▊   | 19/28 [04:42<02:06, 14.05s/it] 71%|███████▏  | 20/28 [04:56<01:50, 13.87s/it] 75%|███████▌  | 21/28 [05:11<01:40, 14.31s/it] 79%|███████▊  | 22/28 [05:32<01:37, 16.24s/it] 82%|████████▏ | 23/28 [05:51<01:26, 17.25s/it] 86%|████████▌ | 24/28 [06:09<01:10, 17.51s/it] 89%|████████▉ | 25/28 [06:26<00:51, 17.19s/it] 93%|█████████▎| 26/28 [06:43<00:34, 17.10s/it] 96%|█████████▋| 27/28 [06:56<00:15, 15.91s/it]100%|██████████| 28/28 [07:09<00:00, 14.95s/it]100%|██████████| 28/28 [07:09<00:00, 15.33s/it]
+2026-11-12 04:19:00.016 - INFO - common_separator - Audio duration is 0.04 hours (161.60 seconds).
+2026-11-12 04:19:00.017 - INFO - common_separator - Using pydub for writing.
+2026-11-12 04:19:00.027 - INFO - common_separator - Writing output with 16-bit depth
+2026-11-12 04:19:01.323 - INFO - common_separator - Clearing input audio file paths, sources and stems...
+2026-11-12 04:19:01.323 - INFO - separator - Separation duration: 00:14:54
+2026-11-12 04:19:01.323 - INFO - cli - Separation complete! Output file(s): mv14_44k_(Vocals)_htdemucs.wav

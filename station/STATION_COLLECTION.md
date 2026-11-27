@@ -15,7 +15,7 @@ Total episodes: 69 (ST-001 … ST-069). TikTok posts in series order (ST-001 fir
 | ST-007 | The Keeper'S Hearing / The First Standing | station/episodes/station_ep007_1m_16x9.mp4 | d7198c5089177b5dc74689ea4eed6bf5 | 60.12s | posted 2026-11-22 | posted 2026-11-19 | posted 2026-11-04 |
 | ST-008 | The Heard Guest'S First Telling / The First Holding | station/episodes/station_ep008_1m_16x9.mp4 | 1a32cb600eb152cdcac0e5275c3be8a3 | 59.96s | posted 2026-11-23 | posted 2026-11-19 | posted 2026-11-04 |
 | ST-009 | The First Seating In The Gallery / The First Filing | station/episodes/station_ep009_1m_16x9.mp4 | 534b91c1c8e75ed997ad3cbec630d4e4 | 60.12s | posted 2026-11-24 | posted 2026-11-20 | posted 2026-11-04 |
-| ST-010 | The Returned Hearing / The Sealed Question | station/episodes/station_ep010_1m_16x9.mp4 | 93468004c4a933c7ab80eda84f13a7ac | 60.09s | — | posted 2026-11-20 | posted 2026-11-04 |
+| ST-010 | The Returned Hearing / The Sealed Question | station/episodes/station_ep010_1m_16x9.mp4 | 93468004c4a933c7ab80eda84f13a7ac | 60.09s | posted 2026-11-27 | posted 2026-11-20 | posted 2026-11-04 |
 | ST-011 | The Return Nobody Sent For / The Coat Worn Inside Out | station/episodes/station_ep011_1m_16x9.mp4 | 79477409c0550d85b26786ee8f122359 | 59.93s | — | posted 2026-11-21 | posted 2026-11-04 |
 | ST-012 | The Slip The Pocket Kept / The Third Mark That Returned Its Maker | station/episodes/station_ep012_1m_16x9.mp4 | 3a5da880cc7df937232c7c9449fe46c5 | 59.96s | — | posted 2026-11-21 | posted 2026-11-04 |
 | ST-013 | The Fifth Mark That Kept Its Secret / The Seventh Mark That Returned Its Counter | station/episodes/station_ep013_1m_16x9.mp4 | e979e557fe436818b9b408ca2975a575 | 60.12s | — | posted 2026-11-22 | posted 2026-11-04 |
@@ -24,8 +24,8 @@ Total episodes: 69 (ST-001 … ST-069). TikTok posts in series order (ST-001 fir
 | ST-016 | The Shift That Kept Its Keeper / The Night With Two Keepers | station/episodes/station_ep016_1m_16x9.mp4 | 652081bcd24bebbdb770dc3ba0f2cfa5 | 60.20s | — | posted 2026-11-23 | posted 2026-11-04 |
 | ST-017 | The Keeper Who Returned Twice / The Name The Buyer Collected | station/episodes/station_ep017_1m_16x9.mp4 | 10d7cfefb38644853de8fad79d15f8fa | 70.02s | — | posted 2026-11-24 | posted 2026-11-04 |
 | ST-018 | The Buyer Who Came Back / The Answer That Arrived First | station/episodes/station_ep018_1m_16x9.mp4 | d60340ca546b26dffdb6be0596dff159 | 80.19s | posted 2026-11-08 | posted 2026-11-24 | posted 2026-11-04 |
-| ST-019 | The Fruit The Count Would Not Take / The Paycheck The Building Signed | station/episodes/station_ep019_1m_16x9.mp4 | c119863d2db8fe900bb3515d5cf1f43e | 80.05s | posted 2026-11-08 | — | posted 2026-11-04 |
-| ST-020 | The Tower That Answered Back / The Name The Building Kept | station/episodes/station_ep020_1m_16x9.mp4 | 01ce3a335c66b810d80861b3fd69130a | 80.04s | posted 2026-11-08 | — | posted 2026-11-04 |
+| ST-019 | The Fruit The Count Would Not Take / The Paycheck The Building Signed | station/episodes/station_ep019_1m_16x9.mp4 | c119863d2db8fe900bb3515d5cf1f43e | 80.05s | posted 2026-11-08 | posted 2026-11-27 | posted 2026-11-04 |
+| ST-020 | The Tower That Answered Back / The Name The Building Kept | station/episodes/station_ep020_1m_16x9.mp4 | 01ce3a335c66b810d80861b3fd69130a | 80.04s | posted 2026-11-08 | posted 2026-11-27 | posted 2026-11-04 |
 | ST-021 | The Hand Nobody Recognized / The Look That Followed | station/episodes/station_ep021_1m_16x9.mp4 | 29d0a67108dcb18335c91662c24693cc | 79.92s | posted 2026-11-08 | — | posted 2026-11-04 |
 | ST-022 | The Door That Kept Her Place / The Step The Dispatcher Took | station/episodes/station_ep022_1m_16x9.mp4 | 3120420249d2e56efb74d71d0f8052b8 | 79.90s | posted 2026-11-08 | — | posted 2026-11-04 |
 | ST-023 | The Seventh The Stranger Stamped / The Sixth Sum | station/episodes/station_ep023_1m_16x9.mp4 | 52a710f092fc0819d7bc97b89059c685 | 79.93s | posted 2026-11-08 | — | posted 2026-11-04 |

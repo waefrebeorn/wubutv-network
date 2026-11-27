@@ -1,0 +1,23 @@
+master: masters/mv13_movin_on_newton_v3_16x9.mp4
+size: 173328195
+md5: a816fa6f1af38e0c427100ddd54c44c8
+[PASS] video codec h264 h264
+[PASS] resolution 1280x720 1280x720
+[PASS] fps 24 24/1
+[PASS] frames exactly 4454 4454
+[PASS] duration 185.60s 185.600000
+[PASS] audio AAC aac
+[PASS] audio 48k stereo 48000 2ch
+[PASS] x264 SEI crf=18.0 x264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - option
+[PASS] faststart moov before mdat moov@36 mdat@128725
+audio agreement (master vs track.mp4, 16k mono, 7 windows):
+  lengths: master 185.60s track 185.60s
+  @5s corr=0.9984
+  @30s corr=0.9993
+  @60s corr=0.9993
+  @90s corr=0.9990
+  @120s corr=0.9992
+  @150s corr=0.9990
+  @180s corr=0.9993
+[PASS] audio agreement corr > 0.99 all windows min=0.9984
+ALL GATES PASS

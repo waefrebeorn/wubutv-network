@@ -1,0 +1,7 @@
+frames: 3878, diff samples: 3877
+overall mean diff: 10.85, min 0.00, max 95.67
+near-still runs >=12f (diff<0.5): 2
+   14f @   44.00s (44.00-44.54s) during-words=True
+   39f @  153.54s (153.54-155.12s) during-words=False
+FAIL-RANGE runs >=24f during words: none
+MOTION AUDIT DONE

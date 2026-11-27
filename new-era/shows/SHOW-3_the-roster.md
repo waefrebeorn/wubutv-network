@@ -1,3 +1,5 @@
+> **SUPERSEDED — DO NOT PRODUCE FROM THIS BIBLE.** Retired by the user's 2026-11-25 order "remake all of the shows, stop using the bad premises." The current slate is in ../NEW_SLATE_PACKET_2026-11-25.md (THE BIG JAR, SHE TOOK MY FACE, NO TALKING AT THE TABLE, ONE MILLION PETALS, MY LANDLORD IS A BABY).
+
 # SHOW 3 — THE ROSTER
 
 **Status:** founding treatment, new era. STATION is closed canon (585 pieces,

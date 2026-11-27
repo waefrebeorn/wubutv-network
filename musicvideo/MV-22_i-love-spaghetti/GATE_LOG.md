@@ -83,12 +83,3 @@
 - Standing honest limit (all MVs): mouth events may lag song onsets by a few
   tenths on some lines; no phoneme-accurate lipsync is claimed — directional
   mouth movement occupying the described window.
-
-## SUBTITLE FIX (2026-11-20)
-
-User flagged (msgs 793/794) that the delivered master showed no subtitles when watched: it carried only a soft mov_text track, which chat/Telegram/social players do not render. The timed data was never lost (work/swing/lyrics.srt + SONG_WORDS.json); what was missing was the house-standard burned-in karaoke layer (per MV-2 v7).
-
-- ASS built from the SRT line cues + SONG_WORDS.json word timings; displayed text is the sheet lyric line, \k sweep per word. ASS: work/subsfix_karaoke.ass. Cues: 63 total, 63 \k-covered, 0 plain fallbacks.
-- Subs master: masters/mv22_i_love_spaghetti_16x9_subs.mp4 — md5 efa53afb8e2569405ebfcedf920b1abf, 86,251,431 B, 4186f, 174.416667s. Encoded from the house master (subtitles filter, CRF 18, audio copied, mov_text kept, faststart). The delivered house master is untouched.
-- Chat copy: masters/mv22_i_love_spaghetti_chat_subs.mp4 — md5 3778752ef787eaa0f54c3585732cb9e9, 46,024,123 B.
-- Verification: ffprobe 1280x720 / 24fps / 4186f / AAC + mov_text (63 packets) present; freezedetect 0 events; frame grabs at 91.7s ("I love" yellow, "pasta" white) and 95.3s ("With the sauce" yellow, "and meatballs" white) confirm the bar and the word-by-word yellow sweep. Full record: SUBS_FIX.json.
