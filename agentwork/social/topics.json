@@ -2,7 +2,7 @@
  {
   "claim": "a 46.5 s film is 1,116 frames at 3.26 frames/s on four cores.",
   "detail": "342 seconds of raster for 48.5 seconds of picture. The rasteriser is about 330 lines of C; the a-trous denoiser runs 56 ms a frame. No GPU, no cloud spend.",
-  "where": "Piqua, Ohio",
+  "where": "Dayton, Ohio",
   "register": "maker"
  },
  {
@@ -32,13 +32,13 @@
  {
   "claim": "3,076 raw takes are kept beside 148 finished episodes.",
   "detail": "The failures are archived, not deleted. A pipeline that shows you only the take that worked can never tell you what its frames cost.",
-  "where": "Piqua, Ohio",
+  "where": "Dayton, Ohio",
   "register": "maker"
  },
  {
   "claim": "the denoiser is a-trous in C11 at 56 ms per frame, 854x480.",
   "detail": "Open Image Denoise would not fit in 3 GB of RAM with no GPU, so I wrote the pass instead. It was most of the frame budget and nobody tells you that.",
-  "where": "Piqua, Ohio",
+  "where": "Dayton, Ohio",
   "register": "green"
  },
  {
