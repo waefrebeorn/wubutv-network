@@ -150,6 +150,27 @@ read), and meme-literacy (network-native formats only, never licensed templates)
   every run.
 
 
+## 5A. Content exclusions — never on TikTok (user order 2026-11-27)
+
+- **Coal mine songs whose lyrics contain the n-word or "blow your head off"
+  lines can NEVER be posted to TikTok** — TikTok reports them (user,
+  2026-11-27: "none of the coal mine songs that have n word or talk about
+  blow your head off can go on tiktok, they report that").
+- Named items: **MV-30 "Coal Mine Songs"** ("Nigga it's over"; "Blow your
+  shit smoove off"), **MV-33 "Glue Your Shit Smooth On, It Is Not Over"**
+  (same song family, same flagged lines), and the MV-30 alternates
+  (MV-30-ALT-fix1, MV-30-ALT-original). These stay fine on Instagram and
+  Threads — the ban is TikTok-only.
+- **MV-34 "Jensen's Back" is NOT banned**: its lyrics are the boardroom
+  song — no n-word, no blow-off lines (grep-verified 2026-11-27 across
+  lyrics.txt / LYRIC_TIMELINE.md / SONG_WORDS.json). The mine is staging,
+  not song content.
+- Enforcement is mechanical, not memory: `release/platform_exclusions.json`
+  lists the items and the conductor holds them `held-guardrail` on TikTok
+  on every recompute. Do not remove an exclusion without a newer user
+  order. Any FUTURE coal-mine-song item must be lyric-checked against this
+  rule before it enters the TikTok queue.
+
 ## 6. Recursive learning loop
 
 1. **Post** (upload job) → record URL + timestamp + caption + tag set in ledger.

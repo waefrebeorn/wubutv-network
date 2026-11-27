@@ -657,6 +657,19 @@ STORYBOARD / CONTINUITY BLOCK (brainrot-prompting 2026-11-27
   high_stakes_lock: ____ (compositions whose failure costs a
                    unit are locked as a SINGLE STILL before any
                    video spend on them — panel ID or none)
+  coverage_plan (cine-styles 2026-11-27 — master-frame-first):
+                   ____ (for dialogue units: the master two-shot
+                   is generated FIRST and the over-the-shoulder
+                   reverses are derived from it — never fired as
+                   independent text-to-video shots; screen sides,
+                   eyelines and light direction lock to the
+                   master)
+  axis_line (cine-styles 2026-11-27 — the 180° line written
+                   in words, restated in every dialogue vehicle):
+                   camera stays on the ____ side of ____;
+                   ____ looks screen-____, ____ looks
+                   screen-____; cuts change angle by ≥30° and
+                   land on action
   SIGNED: ____
 ```
 
@@ -714,6 +727,13 @@ GLOBAL SETTINGS:
          no duplicate characters · no camera shake
   arc / world: ____ · palette (hex, where the world carries
          one): ____
+  grade_block (cine-styles 2026-11-27 — the world's ONE locked
+         grade sentence, written once here and carried VERBATIM
+         at the head of every vehicle for this world; composed
+         as temperature + palette (2 dominant + 1 accent) +
+         black/highlight behaviour + film stock/grain where the
+         world carries one — never the bare word "cinematic"):
+         ____
 ```
 
 ### 4.1 Spoken-load audit (Pass 2 replaces the F-25 cap — see §8)

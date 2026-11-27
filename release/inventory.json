@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-27T21:02:38Z",
+ "scanned_utc": "2026-11-27T22:02:15Z",
  "items": [
   {
    "id": "MV-2",
@@ -44805,6 +44805,66 @@
    "audio_fp": {
     "md5_60s": "a4aa9cfa8596d9d9511b40231ac10545",
     "rms_db": -38.88,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1499",
+   "title": "The Hermit Crab",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1499_the_hermit_crab_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 7283259,
+   "mtime": 1795814499,
+   "md5": "7ca5576aeae5d9c2b4fa1a28b7e29b1e",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "12d347b4403433d60fc6c60e07da065a1e1e0f1c4d1c0f470fcf071b807990fb",
+    "1a9147b4c03431d60fc6c60e0fda065a161e0f1c0f1c0fc71e8f171b847990fb",
+    "1bd14735c13433d607c6c60e0fda065a161e061c071c07470fcf171b847990fb"
+   ],
+   "audio_fp": {
+    "md5_60s": "348445cc5113c9712e20149a24adf831",
+    "rms_db": -31.76,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1500",
+   "title": "The Periwinkle Shell",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1500_the_periwinkle_shell_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 6685665,
+   "mtime": 1795816249,
+   "md5": "97a61e006c843b186ceca20e0479c682",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "7cfc3ae61fc79de795c61f261b2c13ec67eec77e81d883d8883cc039f839fe29",
+    "7cfc6ae60fc79de719c61f260f2c0fec2b6689fe89d88b989038c839f8397e29",
+    "7cfc7ae60ec79de719c61f260f2c8fec2b6e897e89d88b989038e839f8397e29"
+   ],
+   "audio_fp": {
+    "md5_60s": "f01588bb356d214b38e565916957ba8c",
+    "rms_db": -45.74,
     "seconds": 10.03
    }
   }

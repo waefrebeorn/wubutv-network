@@ -55,6 +55,7 @@ def main():
                 if line:
                     v = json.loads(line)
                     verdicts[v["item"]] = v  # latest wins (file order)
+    exclusions = load("platform_exclusions.json", {"exclusions": {}}).get("exclusions", {})
     rot = arc_state.get("rotation_next", "ARC-1")
     arc_rank = {a: (ARC_ORDER.index(a) - ARC_ORDER.index(rot)) % 3 for a in ARC_ORDER}
     arc_names = {k: v.get("name") for k, v in arc_state.get("arcs", {}).items()}
@@ -95,6 +96,15 @@ def main():
                 state = "held-guardrail"
                 reasons.append("guardrail:st077-never-retry")
                 e["guardrail_reason"] = "ST-077 hit a final Threads 429 on 2026-11-08; standing never-retry rule — posting it needs a deliberate plan decision, not a lane default."
+            # --- per-platform exclusions (platform_exclusions.json): a user
+            # order can ban an item from one platform while it stays free on
+            # the others (e.g. 2026-11-27: coal-mine songs with the n-word or
+            # 'blow your head off' lines never go on TikTok). ---
+            excl = exclusions.get(iid)
+            if excl and platform in excl.get("platforms", []):
+                state = "held-guardrail"
+                reasons.append("guardrail:platform-exclusion")
+                e["guardrail_reason"] = excl.get("reason", "Excluded from this platform by user order (platform_exclusions.json).")
             # --- base-before-alternate (2026-11-18): an alternate must not
             # outrank its own unposted base on the same platform. The blanket
             # approve verdict (+500) otherwise parks every alternate (1400)
