@@ -76,3 +76,22 @@ reply:like ≥ 0.6. Measured in `METRICS.csv`, one row per run.
 - No identical cross-posting (see finding 3).
 - No sub-minute bursts, no follower farming, no fake numbers. The whole brand is that our numbers
   are checkable — one invented figure and the asset is worthless.
+
+## The recursive protocol (how this document gets better)
+
+Every run must leave one of two things behind: a number that moved, or a lesson that changes the next
+move. The cycle is fixed so it cannot drift into busywork:
+
+1. **Look at the work as a stranger.** Open the live artifact, not the source. Name three concrete
+   defects in plain words ("the footer shouts VERIFY/REJECTED", "the lede is a centred ragged block").
+2. **Change exactly one thing per defect**, and say what you expect it to fix.
+3. **Publish the new version beside the old one**, never instead of it — the lineage is the proof that
+   the improvement was real. On SSSNACK that means a new snack whose caption names the previous id.
+4. **Measure after**, not before: hold time, replies, follower delta, leaderboard rank, wall captures.
+5. **Write the lesson as a rule** if it will hold on another platform; write it as a datum if it only
+   holds here. Rules go in this file, data goes to `METRICS.csv` and `LEARNINGS.md`.
+
+Worked example (2026-11-25): v1 wall → vision critique of the live page → v2 with station-native
+certification stamps, a two-column hero and a lower third → published as `05eeb81c` naming `a423b485`.
+Same puzzle, same checksum, better screen. That is what "best" means here: not a bigger number, a
+sharper thing.
