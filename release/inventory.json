@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-27T22:02:15Z",
+ "scanned_utc": "2026-11-27T23:02:00Z",
  "items": [
   {
    "id": "MV-2",
@@ -2883,6 +2883,35 @@
    "audio_fp": {
     "md5_60s": "9b6b3247735830c2ba31e326e9b74887",
     "rms_db": -20.47,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "THE-BIG-JAR-E1",
+   "title": "THE BIG JAR E1 \u2014 Who Touches the Line First?",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/the-big-jar-e1/masters/the_big_jar_e1_16x9.mp4",
+   "lore": {
+    "arc": "ARC-3",
+    "chain": null
+   },
+   "delivered": "2026-11-27",
+   "blam_class": null,
+   "exists": true,
+   "size": 28227187,
+   "mtime": 1795819943,
+   "md5": "3eaa34ce26d1672635e9439ccda3ca59",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "327512e51132f1d2b0d33b5969c961cff1cfc9cfe9cee999ea99ebc16b800581",
+    "c361c378c379c77ad7fa93ee83f28077927291e181c203e0cb58c99c49bd4735",
+    "b89e9a2e3c1ef0cec04ec20e92cd82cd8acd8bc8db9853986198079803d80351"
+   ],
+   "audio_fp": {
+    "md5_60s": "d76571f33dab584427fe202739761be4",
+    "rms_db": -22.23,
     "seconds": 60.0
    }
   },
@@ -44865,6 +44894,66 @@
    "audio_fp": {
     "md5_60s": "f01588bb356d214b38e565916957ba8c",
     "rms_db": -45.74,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1501",
+   "title": "The Limpet",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1501_the_limpet_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4399256,
+   "mtime": 1795818067,
+   "md5": "c8501837b72128709680b6d4f43f038a",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "1dbe17fc97e4dd869c56bd86f9a6f7a59f990fb707f701db847bd31dc439e498",
+    "3dbea7fcf7e4fd86f456de86fba6f7a59f990fb70df70ddb047bcb1dc439ec98",
+    "3dbeb5fcb7ecfd86f546dd86f9a6f7e59f9d0fb70df709dbc47bc31dc439e498"
+   ],
+   "audio_fp": {
+    "md5_60s": "bb123b100ab1a2267252d1092b98e74c",
+    "rms_db": -41.7,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1502",
+   "title": "The Whelk Shell",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1502_the_whelk_shell_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4033331,
+   "mtime": 1795819865,
+   "md5": "b38bd72e75675395998a72d4b7466291",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "7ff77a670d062f261b8633c613cc07d8247e0f7613de07da039487993a993c19",
+    "7ff7fa67cd07fb267b063bc61bcc05d8397e13760bde19da199487993b193c19",
+    "7ff7fa67cd06ff267b061b861bcc05d839fe1b360bde19da199483993a993c59"
+   ],
+   "audio_fp": {
+    "md5_60s": "554d1b2a9e2bc2083c540aa4c8122c41",
+    "rms_db": -42.53,
     "seconds": 10.03
    }
   }

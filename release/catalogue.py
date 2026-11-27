@@ -134,6 +134,7 @@ NEW_ERA = [
     ("CLAIM-WINDOW-E3",         "CLAIM WINDOW E3 — The True Bag", "new-era/claim-window-e3/masters/CLAIM_WINDOW_E3_16x9.mp4", "ARC-1", "2026-11-21"),
     ("MORPH-HOLD-ON-E3-PART2",  "HOLD ON E3 Part 2 — Write That I Paid", "new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_part2_16x9.mp4", "ARC-1", "2026-11-24"),
     ("MORPH-HOLD-ON-E3-PART3",  "HOLD ON E3 Part 3 — Write His Name", "new-era/morph-episodes/E3_hold-on/masters/E3_hold-on_part3_16x9.mp4", "ARC-1", "2026-11-24"),
+    ("THE-BIG-JAR-E1",          "THE BIG JAR E1 — Who Touches the Line First?", "new-era/the-big-jar-e1/masters/the_big_jar_e1_16x9.mp4", "ARC-3", "2026-11-27"),
 ]
 
 # --- New-era alternate-takes pieces (msg 664 salvage; msg 518 label rule) ---
