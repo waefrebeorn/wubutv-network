@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-27T20:32:03Z",
+ "scanned_utc": "2026-11-27T21:02:38Z",
  "items": [
   {
    "id": "MV-2",
@@ -44775,6 +44775,36 @@
    "audio_fp": {
     "md5_60s": "26e9bbeacc1182bd1f785d753535fa0e",
     "rms_db": -43.56,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1498",
+   "title": "The Sand Dollar",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1498_the_sand_dollar_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 8102405,
+   "mtime": 1795812698,
+   "md5": "1301dc513cb754c22be260b52527b5c8",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "d0cb73e77fcfff4fd64b7949cf8897b91ee96279993121b889ddc4b178791ef1",
+    "d0cb73e77fcffc4fd64be9c94fd89bf9de695279f1f149f809f9c56943e97479",
+    "d8cb73e77fcffa4fd24be1c9a7c875e9ce69fa7991f129f839d83db162696c79"
+   ],
+   "audio_fp": {
+    "md5_60s": "a4aa9cfa8596d9d9511b40231ac10545",
+    "rms_db": -38.88,
     "seconds": 10.03
    }
   }
