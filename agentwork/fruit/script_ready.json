@@ -1,0 +1,36 @@
+{
+  "title": "READY TO EAT",
+  "bg": [0.07, 0.05, 0.13],
+  "bg2": [0.32, 0.17, 0.36],
+  "shelf": [0.13, 0.09, 0.15],
+  "cast": {
+    "tomato": {
+      "voice": "en-US-GuyNeural", "rate": "-6%", "pitch": "-2Hz",
+      "body": [0.86, 0.18, 0.20], "shade": [0.48, 0.08, 0.10],
+      "accent": [0.34, 0.52, 0.20], "leaf": [0.24, 0.50, 0.22],
+      "lip": [0.30, 0.05, 0.07], "shape": "round", "hook": "crown",
+      "gaze": 1.0
+    },
+    "avocado": {
+      "voice": "en-GB-SoniaNeural", "rate": "-3%", "pitch": "+0Hz",
+      "body": [0.34, 0.44, 0.16], "shade": [0.16, 0.24, 0.08],
+      "accent": [0.42, 0.50, 0.24], "leaf": [0.22, 0.46, 0.20],
+      "lip": [0.28, 0.06, 0.08], "shape": "pear", "hook": "leafcap",
+      "gaze": -1.0
+    },
+    "lemon": {
+      "voice": "en-US-JennyNeural", "rate": "+2%", "pitch": "+4Hz",
+      "body": [0.94, 0.82, 0.22], "shade": [0.58, 0.48, 0.08],
+      "accent": [0.34, 0.52, 0.20], "leaf": [0.26, 0.50, 0.22],
+      "lip": [0.32, 0.06, 0.08], "shape": "lemon", "hook": "nubs",
+      "gaze": 0.6
+    }
+  },
+  "lines": [
+    {"name": "tomato", "text": "The sticker on my skin says squeeze gently."},
+    {"name": "avocado", "text": "Mine says ready to eat. It's said that since Monday.", "gap_after": 1.1},
+    {"name": "lemon", "text": "Mine just says lemon."},
+    {"name": "avocado", "text": "That's not a label. That's a deadline."},
+    {"name": "tomato", "text": "Then why are we still in the bin?"}
+  ]
+}
