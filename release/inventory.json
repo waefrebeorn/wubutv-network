@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-28T02:02:22Z",
+ "scanned_utc": "2026-11-28T03:02:17Z",
  "items": [
   {
    "id": "MV-2",
@@ -2970,6 +2970,35 @@
    "audio_fp": {
     "md5_60s": "6c871c8c7b1d3c4a210c394aef6156e6",
     "rms_db": -27.55,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "ONE-MILLION-PETALS-E1",
+   "title": "ONE MILLION PETALS E1 \u2014 How Many Petals Are Fake?",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/one-million-petals-e1/masters/one_million_petals_e1_16x9.mp4",
+   "lore": {
+    "arc": "ARC-3",
+    "chain": null
+   },
+   "delivered": "2026-11-27",
+   "blam_class": null,
+   "exists": true,
+   "size": 32390095,
+   "mtime": 1795833490,
+   "md5": "717f668f50f172c6361b953d9e840251",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "09bf88fe99d29b1692b3529b139e31cb71db6869e0d920d9687969646134f475",
+    "1865504d7418441a636c63766372646ae52ced2c610c652c407dc82fc8fbc99d",
+    "631a820982638336013e038b028d028c030c00cf00c760e734e314e312e010d1"
+   ],
+   "audio_fp": {
+    "md5_60s": "80dbe2c2aa679c360ef1a747e1f04482",
+    "rms_db": -22.07,
     "seconds": 60.0
    }
   },
@@ -45192,6 +45221,66 @@
    "audio_fp": {
     "md5_60s": "12c0a158674cea7551fdbf6e3d010f72",
     "rms_db": -38.63,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1509",
+   "title": "The Horseshoe Crab",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1509_the_horseshoe_crab_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 5702316,
+   "mtime": 1795832485,
+   "md5": "3267eca14cbe249389a739aad1a66f1f",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "607f60ecacd2737317c217cc39fa03da10d8074c03bcc3746545a10b901d941e",
+    "047f14ec0cd21f731ec21acc31da629a70d8384c19bcc6f465e5a009800d941a",
+    "047f1cec0cd21f731fe21aac39fa62da70d8384c19bcc3f46545a109901d841a"
+   ],
+   "audio_fp": {
+    "md5_60s": "9567e27dbd8a0b1e8605d26d24a76608",
+    "rms_db": -47.0,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1510",
+   "title": "The Jellyfish",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1510_the_jellyfish_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4950627,
+   "mtime": 1795834280,
+   "md5": "3b5e7b9c8dea1b5ed18bc01f30c87e5f",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "092d097c383418b61116be1c379e619a2f8e1f8df61c701e405c08fc88790919",
+    "092d497c083c98b6b5169e1c179e419a0f9a1e8de61c631c433c867c10f90999",
+    "082d093c183c18b691169e1c179e419a0f9a1f8df31c731c413c837c0af90519"
+   ],
+   "audio_fp": {
+    "md5_60s": "bc2d7205dd64da549bd64064241a421c",
+    "rms_db": -40.02,
     "seconds": 10.03
    }
   }

@@ -137,6 +137,7 @@ NEW_ERA = [
     ("THE-BIG-JAR-E1",          "THE BIG JAR E1 — Who Touches the Line First?", "new-era/the-big-jar-e1/masters/the_big_jar_e1_16x9.mp4", "ARC-3", "2026-11-27"),
     ("SHE-TOOK-MY-FACE-E1",     "SHE TOOK MY FACE E1 — Whose Smile Is She Wearing?", "new-era/she-took-my-face-e1/masters/she_took_my_face_e1_16x9.mp4", "ARC-2", "2026-11-27"),
     ("NO-TALKING-AT-THE-TABLE-E1", "NO TALKING AT THE TABLE E1 — Who Loses His Chair First?", "new-era/no-talking-at-the-table-e1/masters/no_talking_at_the_table_e1_16x9.mp4", "ARC-1", "2026-11-27"),
+    ("ONE-MILLION-PETALS-E1",   "ONE MILLION PETALS E1 — How Many Petals Are Fake?", "new-era/one-million-petals-e1/masters/one_million_petals_e1_16x9.mp4", "ARC-3", "2026-11-27"),
 ]
 
 # --- New-era alternate-takes pieces (msg 664 salvage; msg 518 label rule) ---

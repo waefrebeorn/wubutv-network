@@ -1,0 +1,191 @@
+{
+ "file": "takes/u3_t2.mp4",
+ "head_rms_0_1.7": 0.0750296488404274,
+ "ambient_rms_0_0.5": 0.00628211535513401,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.98,
+    "end": 3.0,
+    "text": "Your garden likes my flowers better.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 0.98,
+      "end": 1.46
+     },
+     {
+      "w": " garden",
+      "start": 1.46,
+      "end": 1.78
+     },
+     {
+      "w": " likes",
+      "start": 1.78,
+      "end": 2.04
+     },
+     {
+      "w": " my",
+      "start": 2.04,
+      "end": 2.26
+     },
+     {
+      "w": " flowers",
+      "start": 2.26,
+      "end": 2.66
+     },
+     {
+      "w": " better.",
+      "start": 2.66,
+      "end": 3.0
+     }
+    ],
+    "seg_rms": 0.1065
+   },
+   {
+    "start": 3.84,
+    "end": 4.94,
+    "text": "My guy garden.",
+    "words": [
+     {
+      "w": " My",
+      "start": 3.84,
+      "end": 4.36
+     },
+     {
+      "w": " guy",
+      "start": 4.36,
+      "end": 4.62
+     },
+     {
+      "w": " garden.",
+      "start": 4.62,
+      "end": 4.94
+     }
+    ],
+    "seg_rms": 0.0572
+   },
+   {
+    "start": 5.76,
+    "end": 7.18,
+    "text": "I am buying it back.",
+    "words": [
+     {
+      "w": " I",
+      "start": 5.76,
+      "end": 6.28
+     },
+     {
+      "w": " am",
+      "start": 6.28,
+      "end": 6.46
+     },
+     {
+      "w": " buying",
+      "start": 6.46,
+      "end": 6.72
+     },
+     {
+      "w": " it",
+      "start": 6.72,
+      "end": 6.98
+     },
+     {
+      "w": " back.",
+      "start": 6.98,
+      "end": 7.18
+     }
+    ],
+    "seg_rms": 0.0619
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.98,
+    "end": 3.1,
+    "text": "Your garden likes my flowers better.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 0.98,
+      "end": 1.52
+     },
+     {
+      "w": " garden",
+      "start": 1.52,
+      "end": 1.86
+     },
+     {
+      "w": " likes",
+      "start": 1.86,
+      "end": 2.16
+     },
+     {
+      "w": " my",
+      "start": 2.16,
+      "end": 2.36
+     },
+     {
+      "w": " flowers",
+      "start": 2.36,
+      "end": 2.76
+     },
+     {
+      "w": " better.",
+      "start": 2.76,
+      "end": 3.1
+     }
+    ],
+    "seg_rms": 0.1043
+   },
+   {
+    "start": 3.92,
+    "end": 7.36,
+    "text": "My Guy Garden. I am buying it back.",
+    "words": [
+     {
+      "w": " My",
+      "start": 3.92,
+      "end": 4.48
+     },
+     {
+      "w": " Guy",
+      "start": 4.48,
+      "end": 4.74
+     },
+     {
+      "w": " Garden.",
+      "start": 4.74,
+      "end": 5.14
+     },
+     {
+      "w": " I",
+      "start": 6.26,
+      "end": 6.4
+     },
+     {
+      "w": " am",
+      "start": 6.4,
+      "end": 6.54
+     },
+     {
+      "w": " buying",
+      "start": 6.54,
+      "end": 6.86
+     },
+     {
+      "w": " it",
+      "start": 6.86,
+      "end": 7.04
+     },
+     {
+      "w": " back.",
+      "start": 7.04,
+      "end": 7.36
+     }
+    ],
+    "seg_rms": 0.0532
+   }
+  ]
+ }
+}

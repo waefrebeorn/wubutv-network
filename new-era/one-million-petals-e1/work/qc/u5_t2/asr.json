@@ -1,0 +1,163 @@
+{
+ "file": "takes/u5_t2.mp4",
+ "head_rms_0_1.7": 0.06203579530119896,
+ "ambient_rms_0_0.5": 0.08619600534439087,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.0,
+    "end": 3.96,
+    "text": "Moss. Pia. Pio. Watch his best petal.",
+    "words": [
+     {
+      "w": " Moss.",
+      "start": 0.0,
+      "end": 0.34
+     },
+     {
+      "w": " Pia.",
+      "start": 0.72,
+      "end": 1.34
+     },
+     {
+      "w": " Pio.",
+      "start": 1.62,
+      "end": 2.24
+     },
+     {
+      "w": " Watch",
+      "start": 2.4,
+      "end": 3.0
+     },
+     {
+      "w": " his",
+      "start": 3.0,
+      "end": 3.18
+     },
+     {
+      "w": " best",
+      "start": 3.18,
+      "end": 3.46
+     },
+     {
+      "w": " petal.",
+      "start": 3.46,
+      "end": 3.96
+     }
+    ],
+    "seg_rms": 0.0577
+   },
+   {
+    "start": 6.34,
+    "end": 8.82,
+    "text": "The hat. And 200 real.",
+    "words": [
+     {
+      "w": " The",
+      "start": 6.34,
+      "end": 6.96
+     },
+     {
+      "w": " hat.",
+      "start": 6.96,
+      "end": 7.22
+     },
+     {
+      "w": " And",
+      "start": 7.42,
+      "end": 7.9
+     },
+     {
+      "w": " 200",
+      "start": 7.9,
+      "end": 8.26
+     },
+     {
+      "w": " real.",
+      "start": 8.26,
+      "end": 8.82
+     }
+    ],
+    "seg_rms": 0.0898
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.0,
+    "end": 4.06,
+    "text": "Moss, Pia, Pio, watch his best petal.",
+    "words": [
+     {
+      "w": " Moss,",
+      "start": 0.0,
+      "end": 0.44
+     },
+     {
+      "w": " Pia,",
+      "start": 1.22,
+      "end": 1.56
+     },
+     {
+      "w": " Pio,",
+      "start": 2.04,
+      "end": 2.4
+     },
+     {
+      "w": " watch",
+      "start": 2.92,
+      "end": 3.12
+     },
+     {
+      "w": " his",
+      "start": 3.12,
+      "end": 3.28
+     },
+     {
+      "w": " best",
+      "start": 3.28,
+      "end": 3.62
+     },
+     {
+      "w": " petal.",
+      "start": 3.62,
+      "end": 4.06
+     }
+    ],
+    "seg_rms": 0.057
+   },
+   {
+    "start": 6.64,
+    "end": 8.98,
+    "text": "The hat, and 200 real.",
+    "words": [
+     {
+      "w": " The",
+      "start": 6.64,
+      "end": 7.08
+     },
+     {
+      "w": " hat,",
+      "start": 7.08,
+      "end": 7.4
+     },
+     {
+      "w": " and",
+      "start": 8.0,
+      "end": 8.0
+     },
+     {
+      "w": " 200",
+      "start": 8.0,
+      "end": 8.62
+     },
+     {
+      "w": " real.",
+      "start": 8.62,
+      "end": 8.98
+     }
+    ],
+    "seg_rms": 0.0979
+   }
+  ]
+ }
+}

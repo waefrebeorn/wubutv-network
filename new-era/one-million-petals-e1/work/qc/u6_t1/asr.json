@@ -1,0 +1,153 @@
+{
+ "file": "takes/u6_t1.mp4",
+ "head_rms_0_1.7": 0.048897191882133484,
+ "ambient_rms_0_0.5": 0.009766023606061935,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.37,
+    "end": 3.79,
+    "text": "One black petal, Leela, for your garden.",
+    "words": [
+     {
+      "w": " One",
+      "start": 0.37,
+      "end": 0.79
+     },
+     {
+      "w": " black",
+      "start": 0.79,
+      "end": 1.21
+     },
+     {
+      "w": " petal,",
+      "start": 1.21,
+      "end": 1.73
+     },
+     {
+      "w": " Leela,",
+      "start": 1.77,
+      "end": 2.01
+     },
+     {
+      "w": " for",
+      "start": 2.05,
+      "end": 3.25
+     },
+     {
+      "w": " your",
+      "start": 3.25,
+      "end": 3.39
+     },
+     {
+      "w": " garden.",
+      "start": 3.39,
+      "end": 3.79
+     }
+    ],
+    "seg_rms": 0.0496
+   },
+   {
+    "start": 5.6,
+    "end": 6.86,
+    "text": "Tomorrow I buy more.",
+    "words": [
+     {
+      "w": " Tomorrow",
+      "start": 5.6,
+      "end": 6.08
+     },
+     {
+      "w": " I",
+      "start": 6.08,
+      "end": 6.42
+     },
+     {
+      "w": " buy",
+      "start": 6.42,
+      "end": 6.62
+     },
+     {
+      "w": " more.",
+      "start": 6.62,
+      "end": 6.86
+     }
+    ],
+    "seg_rms": 0.0699
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.37,
+    "end": 3.89,
+    "text": "One black petal, Leela, for your garden.",
+    "words": [
+     {
+      "w": " One",
+      "start": 0.37,
+      "end": 0.95
+     },
+     {
+      "w": " black",
+      "start": 0.95,
+      "end": 1.35
+     },
+     {
+      "w": " petal,",
+      "start": 1.35,
+      "end": 1.77
+     },
+     {
+      "w": " Leela,",
+      "start": 1.81,
+      "end": 2.09
+     },
+     {
+      "w": " for",
+      "start": 3.29,
+      "end": 3.33
+     },
+     {
+      "w": " your",
+      "start": 3.33,
+      "end": 3.47
+     },
+     {
+      "w": " garden.",
+      "start": 3.47,
+      "end": 3.89
+     }
+    ],
+    "seg_rms": 0.049
+   },
+   {
+    "start": 5.84,
+    "end": 6.96,
+    "text": "Tomorrow I buy more.",
+    "words": [
+     {
+      "w": " Tomorrow",
+      "start": 5.84,
+      "end": 6.22
+     },
+     {
+      "w": " I",
+      "start": 6.22,
+      "end": 6.48
+     },
+     {
+      "w": " buy",
+      "start": 6.48,
+      "end": 6.68
+     },
+     {
+      "w": " more.",
+      "start": 6.68,
+      "end": 6.96
+     }
+    ],
+    "seg_rms": 0.0747
+   }
+  ]
+ }
+}

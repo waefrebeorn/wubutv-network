@@ -1,0 +1,275 @@
+{
+ "file": "takes/u4_t2.mp4",
+ "head_rms_0_1.7": 0.058383699506521225,
+ "ambient_rms_0_0.5": 0.07207600772380829,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.0,
+    "end": 2.46,
+    "text": "Look. Your petals. Pink water.",
+    "words": [
+     {
+      "w": " Look.",
+      "start": 0.0,
+      "end": 0.22
+     },
+     {
+      "w": " Your",
+      "start": 0.58,
+      "end": 1.08
+     },
+     {
+      "w": " petals.",
+      "start": 1.08,
+      "end": 1.4
+     },
+     {
+      "w": " Pink",
+      "start": 1.66,
+      "end": 2.1
+     },
+     {
+      "w": " water.",
+      "start": 2.1,
+      "end": 2.46
+     }
+    ],
+    "seg_rms": 0.0641
+   },
+   {
+    "start": 2.68,
+    "end": 5.62,
+    "text": "Bad luck. Nineteen new petals. Free!",
+    "words": [
+     {
+      "w": " Bad",
+      "start": 2.68,
+      "end": 2.86
+     },
+     {
+      "w": " luck.",
+      "start": 2.86,
+      "end": 3.1
+     },
+     {
+      "w": " Nineteen",
+      "start": 3.92,
+      "end": 4.42
+     },
+     {
+      "w": " new",
+      "start": 4.42,
+      "end": 4.54
+     },
+     {
+      "w": " petals.",
+      "start": 4.54,
+      "end": 4.94
+     },
+     {
+      "w": " Free!",
+      "start": 5.18,
+      "end": 5.62
+     }
+    ],
+    "seg_rms": 0.0959
+   },
+   {
+    "start": 5.96,
+    "end": 8.42,
+    "text": "My hat back. And real petals. All nineteen.",
+    "words": [
+     {
+      "w": " My",
+      "start": 5.96,
+      "end": 6.36
+     },
+     {
+      "w": " hat",
+      "start": 6.36,
+      "end": 6.56
+     },
+     {
+      "w": " back.",
+      "start": 6.56,
+      "end": 6.74
+     },
+     {
+      "w": " And",
+      "start": 6.92,
+      "end": 7.08
+     },
+     {
+      "w": " real",
+      "start": 7.08,
+      "end": 7.26
+     },
+     {
+      "w": " petals.",
+      "start": 7.26,
+      "end": 7.66
+     },
+     {
+      "w": " All",
+      "start": 7.86,
+      "end": 8.04
+     },
+     {
+      "w": " nineteen.",
+      "start": 8.04,
+      "end": 8.42
+     }
+    ],
+    "seg_rms": 0.0957
+   },
+   {
+    "start": 8.86,
+    "end": 9.36,
+    "text": "No.",
+    "words": [
+     {
+      "w": " No.",
+      "start": 8.86,
+      "end": 9.36
+     }
+    ],
+    "seg_rms": 0.0128
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.0,
+    "end": 2.64,
+    "text": "Look, your petals, pink water.",
+    "words": [
+     {
+      "w": " Look,",
+      "start": 0.0,
+      "end": 0.28
+     },
+     {
+      "w": " your",
+      "start": 1.12,
+      "end": 1.16
+     },
+     {
+      "w": " petals,",
+      "start": 1.16,
+      "end": 1.6
+     },
+     {
+      "w": " pink",
+      "start": 2.04,
+      "end": 2.18
+     },
+     {
+      "w": " water.",
+      "start": 2.18,
+      "end": 2.64
+     }
+    ],
+    "seg_rms": 0.0628
+   },
+   {
+    "start": 2.76,
+    "end": 5.7,
+    "text": "Bad luck, 19 new petals. Free!",
+    "words": [
+     {
+      "w": " Bad",
+      "start": 2.76,
+      "end": 2.94
+     },
+     {
+      "w": " luck,",
+      "start": 2.94,
+      "end": 3.3
+     },
+     {
+      "w": " 19",
+      "start": 3.9,
+      "end": 4.34
+     },
+     {
+      "w": " new",
+      "start": 4.34,
+      "end": 4.68
+     },
+     {
+      "w": " petals.",
+      "start": 4.68,
+      "end": 5.14
+     },
+     {
+      "w": " Free!",
+      "start": 5.64,
+      "end": 5.7
+     }
+    ],
+    "seg_rms": 0.0997
+   },
+   {
+    "start": 6.12,
+    "end": 8.66,
+    "text": "My hat back and real petals, all 19.",
+    "words": [
+     {
+      "w": " My",
+      "start": 6.12,
+      "end": 6.4
+     },
+     {
+      "w": " hat",
+      "start": 6.4,
+      "end": 6.64
+     },
+     {
+      "w": " back",
+      "start": 6.64,
+      "end": 6.9
+     },
+     {
+      "w": " and",
+      "start": 6.9,
+      "end": 7.18
+     },
+     {
+      "w": " real",
+      "start": 7.18,
+      "end": 7.42
+     },
+     {
+      "w": " petals,",
+      "start": 7.42,
+      "end": 7.82
+     },
+     {
+      "w": " all",
+      "start": 8.0,
+      "end": 8.18
+     },
+     {
+      "w": " 19.",
+      "start": 8.18,
+      "end": 8.66
+     }
+    ],
+    "seg_rms": 0.0961
+   },
+   {
+    "start": 8.88,
+    "end": 9.46,
+    "text": "No.",
+    "words": [
+     {
+      "w": " No.",
+      "start": 8.88,
+      "end": 9.46
+     }
+    ],
+    "seg_rms": 0.0206
+   }
+  ]
+ }
+}

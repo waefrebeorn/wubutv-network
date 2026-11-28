@@ -1,0 +1,219 @@
+{
+ "file": "takes/u5_t1.mp4",
+ "head_rms_0_1.7": 0.07472633570432663,
+ "ambient_rms_0_0.5": 0.09212788194417953,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.0,
+    "end": 3.38,
+    "text": "Moss, Pia, Pio, watch his best petal.",
+    "words": [
+     {
+      "w": " Moss,",
+      "start": 0.0,
+      "end": 0.24
+     },
+     {
+      "w": " Pia,",
+      "start": 0.44,
+      "end": 0.98
+     },
+     {
+      "w": " Pio,",
+      "start": 1.14,
+      "end": 1.74
+     },
+     {
+      "w": " watch",
+      "start": 1.92,
+      "end": 2.46
+     },
+     {
+      "w": " his",
+      "start": 2.46,
+      "end": 2.66
+     },
+     {
+      "w": " best",
+      "start": 2.66,
+      "end": 2.9
+     },
+     {
+      "w": " petal.",
+      "start": 2.9,
+      "end": 3.38
+     }
+    ],
+    "seg_rms": 0.0833
+   },
+   {
+    "start": 4.72,
+    "end": 5.8,
+    "text": "Open the box, pet.",
+    "words": [
+     {
+      "w": " Open",
+      "start": 4.72,
+      "end": 5.2
+     },
+     {
+      "w": " the",
+      "start": 5.2,
+      "end": 5.38
+     },
+     {
+      "w": " box,",
+      "start": 5.38,
+      "end": 5.62
+     },
+     {
+      "w": " pet.",
+      "start": 5.64,
+      "end": 5.8
+     }
+    ],
+    "seg_rms": 0.1095
+   },
+   {
+    "start": 7.08,
+    "end": 9.38,
+    "text": "The hat and 200 real.",
+    "words": [
+     {
+      "w": " The",
+      "start": 7.08,
+      "end": 7.56
+     },
+     {
+      "w": " hat",
+      "start": 7.56,
+      "end": 7.74
+     },
+     {
+      "w": " and",
+      "start": 7.74,
+      "end": 8.56
+     },
+     {
+      "w": " 200",
+      "start": 8.56,
+      "end": 8.92
+     },
+     {
+      "w": " real.",
+      "start": 8.92,
+      "end": 9.38
+     }
+    ],
+    "seg_rms": 0.077
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.0,
+    "end": 3.44,
+    "text": "Moss, Pia, Pio, watch his best petal.",
+    "words": [
+     {
+      "w": " Moss,",
+      "start": 0.0,
+      "end": 0.38
+     },
+     {
+      "w": " Pia,",
+      "start": 0.84,
+      "end": 1.2
+     },
+     {
+      "w": " Pio,",
+      "start": 1.56,
+      "end": 1.94
+     },
+     {
+      "w": " watch",
+      "start": 2.38,
+      "end": 2.6
+     },
+     {
+      "w": " his",
+      "start": 2.6,
+      "end": 2.76
+     },
+     {
+      "w": " best",
+      "start": 2.76,
+      "end": 3.08
+     },
+     {
+      "w": " petal.",
+      "start": 3.08,
+      "end": 3.44
+     }
+    ],
+    "seg_rms": 0.0826
+   },
+   {
+    "start": 4.94,
+    "end": 5.94,
+    "text": "Open the box, pet.",
+    "words": [
+     {
+      "w": " Open",
+      "start": 4.94,
+      "end": 5.3
+     },
+     {
+      "w": " the",
+      "start": 5.3,
+      "end": 5.44
+     },
+     {
+      "w": " box,",
+      "start": 5.44,
+      "end": 5.64
+     },
+     {
+      "w": " pet.",
+      "start": 5.94,
+      "end": 5.94
+     }
+    ],
+    "seg_rms": 0.1301
+   },
+   {
+    "start": 7.32,
+    "end": 9.5,
+    "text": "The hat and 200 reel.",
+    "words": [
+     {
+      "w": " The",
+      "start": 7.32,
+      "end": 7.6
+     },
+     {
+      "w": " hat",
+      "start": 7.6,
+      "end": 7.94
+     },
+     {
+      "w": " and",
+      "start": 7.94,
+      "end": 8.66
+     },
+     {
+      "w": " 200",
+      "start": 8.66,
+      "end": 9.16
+     },
+     {
+      "w": " reel.",
+      "start": 9.16,
+      "end": 9.5
+     }
+    ],
+    "seg_rms": 0.0806
+   }
+  ]
+ }
+}

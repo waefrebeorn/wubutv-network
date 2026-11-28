@@ -1,0 +1,385 @@
+{
+ "file": "takes/u1_t1.mp4",
+ "head_rms_0_1.7": 0.12748628854751587,
+ "ambient_rms_0_0.5": 0.1493048071861267,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.21,
+    "end": 2.65,
+    "text": "Pink petals. A hundred petals for one good coat.",
+    "words": [
+     {
+      "w": " Pink",
+      "start": 0.21,
+      "end": 0.35
+     },
+     {
+      "w": " petals.",
+      "start": 0.35,
+      "end": 0.59
+     },
+     {
+      "w": " A",
+      "start": 0.85,
+      "end": 1.05
+     },
+     {
+      "w": " hundred",
+      "start": 1.05,
+      "end": 1.33
+     },
+     {
+      "w": " petals",
+      "start": 1.33,
+      "end": 1.73
+     },
+     {
+      "w": " for",
+      "start": 1.73,
+      "end": 1.97
+     },
+     {
+      "w": " one",
+      "start": 1.97,
+      "end": 2.11
+     },
+     {
+      "w": " good",
+      "start": 2.11,
+      "end": 2.39
+     },
+     {
+      "w": " coat.",
+      "start": 2.39,
+      "end": 2.65
+     }
+    ],
+    "seg_rms": 0.1292
+   },
+   {
+    "start": 2.91,
+    "end": 5.37,
+    "text": "I have twelve petals. I need one million.",
+    "words": [
+     {
+      "w": " I",
+      "start": 2.91,
+      "end": 3.07
+     },
+     {
+      "w": " have",
+      "start": 3.07,
+      "end": 3.25
+     },
+     {
+      "w": " twelve",
+      "start": 3.25,
+      "end": 3.51
+     },
+     {
+      "w": " petals.",
+      "start": 3.51,
+      "end": 3.91
+     },
+     {
+      "w": " I",
+      "start": 4.25,
+      "end": 4.59
+     },
+     {
+      "w": " need",
+      "start": 4.59,
+      "end": 4.81
+     },
+     {
+      "w": " one",
+      "start": 4.81,
+      "end": 4.99
+     },
+     {
+      "w": " million.",
+      "start": 4.99,
+      "end": 5.37
+     }
+    ],
+    "seg_rms": 0.1179
+   },
+   {
+    "start": 5.63,
+    "end": 7.39,
+    "text": "Then start with the coat, little buyer.",
+    "words": [
+     {
+      "w": " Then",
+      "start": 5.63,
+      "end": 6.09
+     },
+     {
+      "w": " start",
+      "start": 6.09,
+      "end": 6.31
+     },
+     {
+      "w": " with",
+      "start": 6.31,
+      "end": 6.53
+     },
+     {
+      "w": " the",
+      "start": 6.53,
+      "end": 6.65
+     },
+     {
+      "w": " coat,",
+      "start": 6.65,
+      "end": 6.85
+     },
+     {
+      "w": " little",
+      "start": 6.95,
+      "end": 7.09
+     },
+     {
+      "w": " buyer.",
+      "start": 7.09,
+      "end": 7.39
+     }
+    ],
+    "seg_rms": 0.0901
+   },
+   {
+    "start": 7.61,
+    "end": 9.61,
+    "text": "The coat stays. Name a smaller price.",
+    "words": [
+     {
+      "w": " The",
+      "start": 7.61,
+      "end": 7.93
+     },
+     {
+      "w": " coat",
+      "start": 7.93,
+      "end": 8.11
+     },
+     {
+      "w": " stays.",
+      "start": 8.11,
+      "end": 8.39
+     },
+     {
+      "w": " Name",
+      "start": 8.71,
+      "end": 9.03
+     },
+     {
+      "w": " a",
+      "start": 9.03,
+      "end": 9.13
+     },
+     {
+      "w": " smaller",
+      "start": 9.13,
+      "end": 9.35
+     },
+     {
+      "w": " price.",
+      "start": 9.35,
+      "end": 9.61
+     }
+    ],
+    "seg_rms": 0.0831
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.21,
+    "end": 2.85,
+    "text": "Pink petals, a hundred petals for one good coat.",
+    "words": [
+     {
+      "w": " Pink",
+      "start": 0.21,
+      "end": 0.35
+     },
+     {
+      "w": " petals,",
+      "start": 0.35,
+      "end": 0.83
+     },
+     {
+      "w": " a",
+      "start": 1.07,
+      "end": 1.17
+     },
+     {
+      "w": " hundred",
+      "start": 1.17,
+      "end": 1.47
+     },
+     {
+      "w": " petals",
+      "start": 1.47,
+      "end": 1.83
+     },
+     {
+      "w": " for",
+      "start": 1.83,
+      "end": 2.03
+     },
+     {
+      "w": " one",
+      "start": 2.03,
+      "end": 2.25
+     },
+     {
+      "w": " good",
+      "start": 2.25,
+      "end": 2.49
+     },
+     {
+      "w": " coat.",
+      "start": 2.49,
+      "end": 2.85
+     }
+    ],
+    "seg_rms": 0.1294
+   },
+   {
+    "start": 2.99,
+    "end": 5.49,
+    "text": "I have 12 petals. I need one million.",
+    "words": [
+     {
+      "w": " I",
+      "start": 2.99,
+      "end": 3.15
+     },
+     {
+      "w": " have",
+      "start": 3.15,
+      "end": 3.33
+     },
+     {
+      "w": " 12",
+      "start": 3.33,
+      "end": 3.73
+     },
+     {
+      "w": " petals.",
+      "start": 3.73,
+      "end": 4.13
+     },
+     {
+      "w": " I",
+      "start": 4.67,
+      "end": 4.67
+     },
+     {
+      "w": " need",
+      "start": 4.67,
+      "end": 4.87
+     },
+     {
+      "w": " one",
+      "start": 4.87,
+      "end": 5.09
+     },
+     {
+      "w": " million.",
+      "start": 5.09,
+      "end": 5.49
+     }
+    ],
+    "seg_rms": 0.1175
+   },
+   {
+    "start": 6.05,
+    "end": 7.53,
+    "text": "Then start with the coat, little buyer.",
+    "words": [
+     {
+      "w": " Then",
+      "start": 6.05,
+      "end": 6.15
+     },
+     {
+      "w": " start",
+      "start": 6.15,
+      "end": 6.45
+     },
+     {
+      "w": " with",
+      "start": 6.45,
+      "end": 6.59
+     },
+     {
+      "w": " the",
+      "start": 6.59,
+      "end": 6.73
+     },
+     {
+      "w": " coat,",
+      "start": 6.73,
+      "end": 6.95
+     },
+     {
+      "w": " little",
+      "start": 7.09,
+      "end": 7.15
+     },
+     {
+      "w": " buyer.",
+      "start": 7.15,
+      "end": 7.53
+     }
+    ],
+    "seg_rms": 0.104
+   },
+   {
+    "start": 7.95,
+    "end": 9.79,
+    "text": "The coat stays. Name a smaller price.",
+    "words": [
+     {
+      "w": " The",
+      "start": 7.95,
+      "end": 7.97
+     },
+     {
+      "w": " coat",
+      "start": 7.97,
+      "end": 8.21
+     },
+     {
+      "w": " stays.",
+      "start": 8.21,
+      "end": 8.65
+     },
+     {
+      "w": " Name",
+      "start": 8.97,
+      "end": 9.09
+     },
+     {
+      "w": " a",
+      "start": 9.09,
+      "end": 9.21
+     },
+     {
+      "w": " smaller",
+      "start": 9.21,
+      "end": 9.45
+     },
+     {
+      "w": " price.",
+      "start": 9.45,
+      "end": 9.79
+     }
+    ],
+    "seg_rms": 0.0871
+   }
+  ]
+ }
+}

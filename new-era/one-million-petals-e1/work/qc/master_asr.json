@@ -1,0 +1,1532 @@
+{
+ "file": "masters/one_million_petals_e1_16x9.mp4",
+ "head_rms_0_1.7": 0.12405765801668167,
+ "ambient_rms_0_0.5": 0.14099068939685822,
+ "checkpoints": {
+  "large-v3": [
+   {
+    "start": 0.21,
+    "end": 2.69,
+    "text": "Pink petals. A hundred petals for one good coat.",
+    "words": [
+     {
+      "w": " Pink",
+      "start": 0.21,
+      "end": 0.21
+     },
+     {
+      "w": " petals.",
+      "start": 0.21,
+      "end": 0.55
+     },
+     {
+      "w": " A",
+      "start": 0.87,
+      "end": 1.05
+     },
+     {
+      "w": " hundred",
+      "start": 1.05,
+      "end": 1.33
+     },
+     {
+      "w": " petals",
+      "start": 1.33,
+      "end": 1.75
+     },
+     {
+      "w": " for",
+      "start": 1.75,
+      "end": 1.97
+     },
+     {
+      "w": " one",
+      "start": 1.97,
+      "end": 2.11
+     },
+     {
+      "w": " good",
+      "start": 2.11,
+      "end": 2.39
+     },
+     {
+      "w": " coat.",
+      "start": 2.39,
+      "end": 2.69
+     }
+    ],
+    "seg_rms": 0.1296
+   },
+   {
+    "start": 2.93,
+    "end": 5.37,
+    "text": "I have twelve petals. I need one million.",
+    "words": [
+     {
+      "w": " I",
+      "start": 2.93,
+      "end": 3.09
+     },
+     {
+      "w": " have",
+      "start": 3.09,
+      "end": 3.25
+     },
+     {
+      "w": " twelve",
+      "start": 3.25,
+      "end": 3.53
+     },
+     {
+      "w": " petals.",
+      "start": 3.53,
+      "end": 3.89
+     },
+     {
+      "w": " I",
+      "start": 4.25,
+      "end": 4.59
+     },
+     {
+      "w": " need",
+      "start": 4.59,
+      "end": 4.79
+     },
+     {
+      "w": " one",
+      "start": 4.79,
+      "end": 4.99
+     },
+     {
+      "w": " million.",
+      "start": 4.99,
+      "end": 5.37
+     }
+    ],
+    "seg_rms": 0.1175
+   },
+   {
+    "start": 5.65,
+    "end": 7.37,
+    "text": "Then start with the coat, little buyer.",
+    "words": [
+     {
+      "w": " Then",
+      "start": 5.65,
+      "end": 6.07
+     },
+     {
+      "w": " start",
+      "start": 6.07,
+      "end": 6.31
+     },
+     {
+      "w": " with",
+      "start": 6.31,
+      "end": 6.53
+     },
+     {
+      "w": " the",
+      "start": 6.53,
+      "end": 6.65
+     },
+     {
+      "w": " coat,",
+      "start": 6.65,
+      "end": 6.85
+     },
+     {
+      "w": " little",
+      "start": 6.95,
+      "end": 7.09
+     },
+     {
+      "w": " buyer.",
+      "start": 7.09,
+      "end": 7.37
+     }
+    ],
+    "seg_rms": 0.0889
+   },
+   {
+    "start": 7.61,
+    "end": 9.65,
+    "text": "The coat stays. Name a smaller price.",
+    "words": [
+     {
+      "w": " The",
+      "start": 7.61,
+      "end": 7.93
+     },
+     {
+      "w": " coat",
+      "start": 7.93,
+      "end": 8.11
+     },
+     {
+      "w": " stays.",
+      "start": 8.11,
+      "end": 8.35
+     },
+     {
+      "w": " Name",
+      "start": 8.75,
+      "end": 9.03
+     },
+     {
+      "w": " a",
+      "start": 9.03,
+      "end": 9.13
+     },
+     {
+      "w": " smaller",
+      "start": 9.13,
+      "end": 9.35
+     },
+     {
+      "w": " price.",
+      "start": 9.35,
+      "end": 9.65
+     }
+    ],
+    "seg_rms": 0.0824
+   },
+   {
+    "start": 9.95,
+    "end": 12.59,
+    "text": "The coat. One hundred petals. Fair price.",
+    "words": [
+     {
+      "w": " The",
+      "start": 9.95,
+      "end": 10.07
+     },
+     {
+      "w": " coat.",
+      "start": 10.07,
+      "end": 10.33
+     },
+     {
+      "w": " One",
+      "start": 10.51,
+      "end": 10.95
+     },
+     {
+      "w": " hundred",
+      "start": 10.95,
+      "end": 11.31
+     },
+     {
+      "w": " petals.",
+      "start": 11.31,
+      "end": 11.59
+     },
+     {
+      "w": " Fair",
+      "start": 11.93,
+      "end": 12.29
+     },
+     {
+      "w": " price.",
+      "start": 12.29,
+      "end": 12.59
+     }
+    ],
+    "seg_rms": 0.1089
+   },
+   {
+    "start": 12.87,
+    "end": 15.19,
+    "text": "Not the coat. My hat. Fifty petals.",
+    "words": [
+     {
+      "w": " Not",
+      "start": 12.87,
+      "end": 13.07
+     },
+     {
+      "w": " the",
+      "start": 13.07,
+      "end": 13.19
+     },
+     {
+      "w": " coat.",
+      "start": 13.19,
+      "end": 13.37
+     },
+     {
+      "w": " My",
+      "start": 13.55,
+      "end": 13.93
+     },
+     {
+      "w": " hat.",
+      "start": 13.93,
+      "end": 14.17
+     },
+     {
+      "w": " Fifty",
+      "start": 14.51,
+      "end": 14.99
+     },
+     {
+      "w": " petals.",
+      "start": 14.99,
+      "end": 15.19
+     }
+    ],
+    "seg_rms": 0.0902
+   },
+   {
+    "start": 15.57,
+    "end": 15.77,
+    "text": "Done.",
+    "words": [
+     {
+      "w": " Done.",
+      "start": 15.57,
+      "end": 15.77
+     }
+    ],
+    "seg_rms": 0.1505
+   },
+   {
+    "start": 16.23,
+    "end": 19.63,
+    "text": "Every petal in my sack is real and set. Or the coat is yours. For nothing.",
+    "words": [
+     {
+      "w": " Every",
+      "start": 16.23,
+      "end": 16.71
+     },
+     {
+      "w": " petal",
+      "start": 16.71,
+      "end": 17.09
+     },
+     {
+      "w": " in",
+      "start": 17.09,
+      "end": 17.19
+     },
+     {
+      "w": " my",
+      "start": 17.19,
+      "end": 17.29
+     },
+     {
+      "w": " sack",
+      "start": 17.29,
+      "end": 17.57
+     },
+     {
+      "w": " is",
+      "start": 17.57,
+      "end": 17.77
+     },
+     {
+      "w": " real",
+      "start": 17.77,
+      "end": 17.95
+     },
+     {
+      "w": " and",
+      "start": 17.95,
+      "end": 18.07
+     },
+     {
+      "w": " set.",
+      "start": 18.07,
+      "end": 18.27
+     },
+     {
+      "w": " Or",
+      "start": 18.39,
+      "end": 18.59
+     },
+     {
+      "w": " the",
+      "start": 18.59,
+      "end": 18.69
+     },
+     {
+      "w": " coat",
+      "start": 18.69,
+      "end": 18.87
+     },
+     {
+      "w": " is",
+      "start": 18.87,
+      "end": 19.03
+     },
+     {
+      "w": " yours.",
+      "start": 19.03,
+      "end": 19.21
+     },
+     {
+      "w": " For",
+      "start": 19.31,
+      "end": 19.43
+     },
+     {
+      "w": " nothing.",
+      "start": 19.43,
+      "end": 19.63
+     }
+    ],
+    "seg_rms": 0.1041
+   },
+   {
+    "start": 21.03,
+    "end": 23.03,
+    "text": "Your garden likes my flowers better.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 21.03,
+      "end": 21.51
+     },
+     {
+      "w": " garden",
+      "start": 21.51,
+      "end": 21.81
+     },
+     {
+      "w": " likes",
+      "start": 21.81,
+      "end": 22.09
+     },
+     {
+      "w": " my",
+      "start": 22.09,
+      "end": 22.31
+     },
+     {
+      "w": " flowers",
+      "start": 22.31,
+      "end": 22.71
+     },
+     {
+      "w": " better.",
+      "start": 22.71,
+      "end": 23.03
+     }
+    ],
+    "seg_rms": 0.1064
+   },
+   {
+    "start": 23.95,
+    "end": 27.25,
+    "text": "My guy garden. I am buying it back.",
+    "words": [
+     {
+      "w": " My",
+      "start": 23.95,
+      "end": 24.43
+     },
+     {
+      "w": " guy",
+      "start": 24.43,
+      "end": 24.69
+     },
+     {
+      "w": " garden.",
+      "start": 24.69,
+      "end": 24.99
+     },
+     {
+      "w": " I",
+      "start": 25.85,
+      "end": 26.33
+     },
+     {
+      "w": " am",
+      "start": 26.33,
+      "end": 26.53
+     },
+     {
+      "w": " buying",
+      "start": 26.53,
+      "end": 26.79
+     },
+     {
+      "w": " it",
+      "start": 26.79,
+      "end": 27.03
+     },
+     {
+      "w": " back.",
+      "start": 27.03,
+      "end": 27.25
+     }
+    ],
+    "seg_rms": 0.0533
+   },
+   {
+    "start": 29.8,
+    "end": 33.2,
+    "text": "Look your petals pink water bad luck",
+    "words": [
+     {
+      "w": " Look",
+      "start": 29.8,
+      "end": 30.22
+     },
+     {
+      "w": " your",
+      "start": 30.22,
+      "end": 31.06
+     },
+     {
+      "w": " petals",
+      "start": 31.06,
+      "end": 31.5
+     },
+     {
+      "w": " pink",
+      "start": 31.5,
+      "end": 32.16
+     },
+     {
+      "w": " water",
+      "start": 32.16,
+      "end": 32.52
+     },
+     {
+      "w": " bad",
+      "start": 32.52,
+      "end": 32.86
+     },
+     {
+      "w": " luck",
+      "start": 32.86,
+      "end": 33.2
+     }
+    ],
+    "seg_rms": 0.0756
+   },
+   {
+    "start": 33.8,
+    "end": 38.56,
+    "text": "19 new petals free my hat back and real petals all 19",
+    "words": [
+     {
+      "w": " 19",
+      "start": 33.8,
+      "end": 34.2
+     },
+     {
+      "w": " new",
+      "start": 34.2,
+      "end": 34.64
+     },
+     {
+      "w": " petals",
+      "start": 34.64,
+      "end": 35.04
+     },
+     {
+      "w": " free",
+      "start": 35.04,
+      "end": 35.64
+     },
+     {
+      "w": " my",
+      "start": 35.64,
+      "end": 36.34
+     },
+     {
+      "w": " hat",
+      "start": 36.34,
+      "end": 36.62
+     },
+     {
+      "w": " back",
+      "start": 36.62,
+      "end": 36.82
+     },
+     {
+      "w": " and",
+      "start": 36.82,
+      "end": 37.16
+     },
+     {
+      "w": " real",
+      "start": 37.16,
+      "end": 37.34
+     },
+     {
+      "w": " petals",
+      "start": 37.34,
+      "end": 37.74
+     },
+     {
+      "w": " all",
+      "start": 37.74,
+      "end": 38.1
+     },
+     {
+      "w": " 19",
+      "start": 38.1,
+      "end": 38.56
+     }
+    ],
+    "seg_rms": 0.0971
+   },
+   {
+    "start": 38.56,
+    "end": 43.5,
+    "text": "Moss here Pio watch his best petal",
+    "words": [
+     {
+      "w": " Moss",
+      "start": 38.56,
+      "end": 39.62
+     },
+     {
+      "w": " here",
+      "start": 39.62,
+      "end": 41.02
+     },
+     {
+      "w": " Pio",
+      "start": 41.02,
+      "end": 41.84
+     },
+     {
+      "w": " watch",
+      "start": 41.84,
+      "end": 42.56
+     },
+     {
+      "w": " his",
+      "start": 42.56,
+      "end": 42.76
+     },
+     {
+      "w": " best",
+      "start": 42.76,
+      "end": 43.0
+     },
+     {
+      "w": " petal",
+      "start": 43.0,
+      "end": 43.5
+     }
+    ],
+    "seg_rms": 0.0708
+   },
+   {
+    "start": 44.52,
+    "end": 45.94,
+    "text": "Open the box pet",
+    "words": [
+     {
+      "w": " Open",
+      "start": 44.52,
+      "end": 45.32
+     },
+     {
+      "w": " the",
+      "start": 45.32,
+      "end": 45.5
+     },
+     {
+      "w": " box",
+      "start": 45.5,
+      "end": 45.66
+     },
+     {
+      "w": " pet",
+      "start": 45.66,
+      "end": 45.94
+     }
+    ],
+    "seg_rms": 0.0982
+   },
+   {
+    "start": 46.86,
+    "end": 48.66,
+    "text": "the Hat and",
+    "words": [
+     {
+      "w": " the",
+      "start": 46.86,
+      "end": 47.66
+     },
+     {
+      "w": " Hat",
+      "start": 47.66,
+      "end": 47.82
+     },
+     {
+      "w": " and",
+      "start": 47.82,
+      "end": 48.66
+     }
+    ],
+    "seg_rms": 0.048
+   },
+   {
+    "start": 48.66,
+    "end": 49.52,
+    "text": "200 real",
+    "words": [
+     {
+      "w": " 200",
+      "start": 48.66,
+      "end": 49.02
+     },
+     {
+      "w": " real",
+      "start": 49.02,
+      "end": 49.52
+     }
+    ],
+    "seg_rms": 0.1062
+   },
+   {
+    "start": 50.48,
+    "end": 52.14,
+    "text": "one black petal Leela",
+    "words": [
+     {
+      "w": " one",
+      "start": 50.48,
+      "end": 50.88
+     },
+     {
+      "w": " black",
+      "start": 50.88,
+      "end": 51.32
+     },
+     {
+      "w": " petal",
+      "start": 51.32,
+      "end": 51.84
+     },
+     {
+      "w": " Leela",
+      "start": 51.84,
+      "end": 52.14
+     }
+    ],
+    "seg_rms": 0.0539
+   },
+   {
+    "start": 52.96,
+    "end": 56.9,
+    "text": "For your garden tomorrow. I buy more",
+    "words": [
+     {
+      "w": " For",
+      "start": 52.96,
+      "end": 53.36
+     },
+     {
+      "w": " your",
+      "start": 53.36,
+      "end": 53.54
+     },
+     {
+      "w": " garden",
+      "start": 53.54,
+      "end": 53.86
+     },
+     {
+      "w": " tomorrow.",
+      "start": 53.86,
+      "end": 54.84
+     },
+     {
+      "w": " I",
+      "start": 56.4,
+      "end": 56.58
+     },
+     {
+      "w": " buy",
+      "start": 56.58,
+      "end": 56.7
+     },
+     {
+      "w": " more",
+      "start": 56.7,
+      "end": 56.9
+     }
+    ],
+    "seg_rms": 0.0492
+   }
+  ],
+  "distil-large-v3": [
+   {
+    "start": 0.21,
+    "end": 2.87,
+    "text": "Pink petals, a hundred petals for one good coat.",
+    "words": [
+     {
+      "w": " Pink",
+      "start": 0.21,
+      "end": 0.33
+     },
+     {
+      "w": " petals,",
+      "start": 0.33,
+      "end": 0.83
+     },
+     {
+      "w": " a",
+      "start": 1.13,
+      "end": 1.19
+     },
+     {
+      "w": " hundred",
+      "start": 1.19,
+      "end": 1.49
+     },
+     {
+      "w": " petals",
+      "start": 1.49,
+      "end": 1.81
+     },
+     {
+      "w": " for",
+      "start": 1.81,
+      "end": 2.03
+     },
+     {
+      "w": " one",
+      "start": 2.03,
+      "end": 2.25
+     },
+     {
+      "w": " good",
+      "start": 2.25,
+      "end": 2.49
+     },
+     {
+      "w": " coat.",
+      "start": 2.49,
+      "end": 2.87
+     }
+    ],
+    "seg_rms": 0.1271
+   },
+   {
+    "start": 3.07,
+    "end": 5.49,
+    "text": "I have 12 petals. I need one million.",
+    "words": [
+     {
+      "w": " I",
+      "start": 3.07,
+      "end": 3.15
+     },
+     {
+      "w": " have",
+      "start": 3.15,
+      "end": 3.33
+     },
+     {
+      "w": " 12",
+      "start": 3.33,
+      "end": 3.71
+     },
+     {
+      "w": " petals.",
+      "start": 3.71,
+      "end": 4.17
+     },
+     {
+      "w": " I",
+      "start": 4.67,
+      "end": 4.67
+     },
+     {
+      "w": " need",
+      "start": 4.67,
+      "end": 4.87
+     },
+     {
+      "w": " one",
+      "start": 4.87,
+      "end": 5.11
+     },
+     {
+      "w": " million.",
+      "start": 5.11,
+      "end": 5.49
+     }
+    ],
+    "seg_rms": 0.1186
+   },
+   {
+    "start": 6.03,
+    "end": 7.55,
+    "text": "Then start with the coat, little buyer.",
+    "words": [
+     {
+      "w": " Then",
+      "start": 6.03,
+      "end": 6.15
+     },
+     {
+      "w": " start",
+      "start": 6.15,
+      "end": 6.47
+     },
+     {
+      "w": " with",
+      "start": 6.47,
+      "end": 6.59
+     },
+     {
+      "w": " the",
+      "start": 6.59,
+      "end": 6.75
+     },
+     {
+      "w": " coat,",
+      "start": 6.75,
+      "end": 6.95
+     },
+     {
+      "w": " little",
+      "start": 7.05,
+      "end": 7.15
+     },
+     {
+      "w": " buyer.",
+      "start": 7.15,
+      "end": 7.55
+     }
+    ],
+    "seg_rms": 0.1014
+   },
+   {
+    "start": 7.95,
+    "end": 9.87,
+    "text": "The coat stays. Name a smaller price.",
+    "words": [
+     {
+      "w": " The",
+      "start": 7.95,
+      "end": 7.97
+     },
+     {
+      "w": " coat",
+      "start": 7.97,
+      "end": 8.19
+     },
+     {
+      "w": " stays.",
+      "start": 8.19,
+      "end": 8.65
+     },
+     {
+      "w": " Name",
+      "start": 8.97,
+      "end": 9.09
+     },
+     {
+      "w": " a",
+      "start": 9.09,
+      "end": 9.21
+     },
+     {
+      "w": " smaller",
+      "start": 9.21,
+      "end": 9.45
+     },
+     {
+      "w": " price.",
+      "start": 9.45,
+      "end": 9.87
+     }
+    ],
+    "seg_rms": 0.0847
+   },
+   {
+    "start": 10.07,
+    "end": 12.77,
+    "text": "The coat. One hundred petals. Fair price.",
+    "words": [
+     {
+      "w": " The",
+      "start": 10.07,
+      "end": 10.13
+     },
+     {
+      "w": " coat.",
+      "start": 10.13,
+      "end": 10.45
+     },
+     {
+      "w": " One",
+      "start": 10.97,
+      "end": 11.07
+     },
+     {
+      "w": " hundred",
+      "start": 11.07,
+      "end": 11.43
+     },
+     {
+      "w": " petals.",
+      "start": 11.43,
+      "end": 11.87
+     },
+     {
+      "w": " Fair",
+      "start": 12.29,
+      "end": 12.37
+     },
+     {
+      "w": " price.",
+      "start": 12.37,
+      "end": 12.77
+     }
+    ],
+    "seg_rms": 0.1095
+   },
+   {
+    "start": 12.99,
+    "end": 15.41,
+    "text": "Not the coat. My hat. 50 petals.",
+    "words": [
+     {
+      "w": " Not",
+      "start": 12.99,
+      "end": 13.13
+     },
+     {
+      "w": " the",
+      "start": 13.13,
+      "end": 13.25
+     },
+     {
+      "w": " coat.",
+      "start": 13.25,
+      "end": 13.51
+     },
+     {
+      "w": " My",
+      "start": 13.93,
+      "end": 14.03
+     },
+     {
+      "w": " hat.",
+      "start": 14.03,
+      "end": 14.33
+     },
+     {
+      "w": " 50",
+      "start": 14.85,
+      "end": 15.05
+     },
+     {
+      "w": " petals.",
+      "start": 15.05,
+      "end": 15.41
+     }
+    ],
+    "seg_rms": 0.0889
+   },
+   {
+    "start": 15.69,
+    "end": 15.85,
+    "text": "Done.",
+    "words": [
+     {
+      "w": " Done.",
+      "start": 15.69,
+      "end": 15.85
+     }
+    ],
+    "seg_rms": 0.1644
+   },
+   {
+    "start": 16.49,
+    "end": 19.77,
+    "text": "Every petal in my sack is real and set. Or the coat is yours. For nothing.",
+    "words": [
+     {
+      "w": " Every",
+      "start": 16.49,
+      "end": 16.79
+     },
+     {
+      "w": " petal",
+      "start": 16.79,
+      "end": 17.13
+     },
+     {
+      "w": " in",
+      "start": 17.13,
+      "end": 17.25
+     },
+     {
+      "w": " my",
+      "start": 17.25,
+      "end": 17.43
+     },
+     {
+      "w": " sack",
+      "start": 17.43,
+      "end": 17.67
+     },
+     {
+      "w": " is",
+      "start": 17.67,
+      "end": 17.83
+     },
+     {
+      "w": " real",
+      "start": 17.83,
+      "end": 18.05
+     },
+     {
+      "w": " and",
+      "start": 18.05,
+      "end": 18.15
+     },
+     {
+      "w": " set.",
+      "start": 18.15,
+      "end": 18.37
+     },
+     {
+      "w": " Or",
+      "start": 18.61,
+      "end": 18.65
+     },
+     {
+      "w": " the",
+      "start": 18.65,
+      "end": 18.77
+     },
+     {
+      "w": " coat",
+      "start": 18.77,
+      "end": 18.97
+     },
+     {
+      "w": " is",
+      "start": 18.97,
+      "end": 19.13
+     },
+     {
+      "w": " yours.",
+      "start": 19.13,
+      "end": 19.33
+     },
+     {
+      "w": " For",
+      "start": 19.47,
+      "end": 19.47
+     },
+     {
+      "w": " nothing.",
+      "start": 19.47,
+      "end": 19.77
+     }
+    ],
+    "seg_rms": 0.1064
+   },
+   {
+    "start": 21.09,
+    "end": 23.17,
+    "text": "Your garden likes my flowers better.",
+    "words": [
+     {
+      "w": " Your",
+      "start": 21.09,
+      "end": 21.57
+     },
+     {
+      "w": " garden",
+      "start": 21.57,
+      "end": 21.91
+     },
+     {
+      "w": " likes",
+      "start": 21.91,
+      "end": 22.19
+     },
+     {
+      "w": " my",
+      "start": 22.19,
+      "end": 22.41
+     },
+     {
+      "w": " flowers",
+      "start": 22.41,
+      "end": 22.81
+     },
+     {
+      "w": " better.",
+      "start": 22.81,
+      "end": 23.17
+     }
+    ],
+    "seg_rms": 0.1047
+   },
+   {
+    "start": 24.15,
+    "end": 27.49,
+    "text": "My guy garden. I am buying it back.",
+    "words": [
+     {
+      "w": " My",
+      "start": 24.15,
+      "end": 24.55
+     },
+     {
+      "w": " guy",
+      "start": 24.55,
+      "end": 24.79
+     },
+     {
+      "w": " garden.",
+      "start": 24.79,
+      "end": 25.13
+     },
+     {
+      "w": " I",
+      "start": 26.37,
+      "end": 26.45
+     },
+     {
+      "w": " am",
+      "start": 26.45,
+      "end": 26.59
+     },
+     {
+      "w": " buying",
+      "start": 26.59,
+      "end": 26.93
+     },
+     {
+      "w": " it",
+      "start": 26.93,
+      "end": 27.11
+     },
+     {
+      "w": " back.",
+      "start": 27.11,
+      "end": 27.49
+     }
+    ],
+    "seg_rms": 0.0536
+   },
+   {
+    "start": 29.94,
+    "end": 31.64,
+    "text": "Look. Your petals.",
+    "words": [
+     {
+      "w": " Look.",
+      "start": 29.94,
+      "end": 30.34
+     },
+     {
+      "w": " Your",
+      "start": 31.16,
+      "end": 31.24
+     },
+     {
+      "w": " petals.",
+      "start": 31.24,
+      "end": 31.64
+     }
+    ],
+    "seg_rms": 0.0581
+   },
+   {
+    "start": 32.16,
+    "end": 35.82,
+    "text": "Pink water. Bad luck. Nineteen new petals. Free!",
+    "words": [
+     {
+      "w": " Pink",
+      "start": 32.16,
+      "end": 32.32
+     },
+     {
+      "w": " water.",
+      "start": 32.32,
+      "end": 32.76
+     },
+     {
+      "w": " Bad",
+      "start": 32.86,
+      "end": 33.02
+     },
+     {
+      "w": " luck.",
+      "start": 33.02,
+      "end": 33.38
+     },
+     {
+      "w": " Nineteen",
+      "start": 34.02,
+      "end": 34.54
+     },
+     {
+      "w": " new",
+      "start": 34.54,
+      "end": 34.76
+     },
+     {
+      "w": " petals.",
+      "start": 34.76,
+      "end": 35.18
+     },
+     {
+      "w": " Free!",
+      "start": 35.76,
+      "end": 35.82
+     }
+    ],
+    "seg_rms": 0.098
+   },
+   {
+    "start": 36.24,
+    "end": 38.8,
+    "text": "My hat back and real petals, all 19.",
+    "words": [
+     {
+      "w": " My",
+      "start": 36.24,
+      "end": 36.46
+     },
+     {
+      "w": " hat",
+      "start": 36.46,
+      "end": 36.72
+     },
+     {
+      "w": " back",
+      "start": 36.72,
+      "end": 36.98
+     },
+     {
+      "w": " and",
+      "start": 36.98,
+      "end": 37.24
+     },
+     {
+      "w": " real",
+      "start": 37.24,
+      "end": 37.5
+     },
+     {
+      "w": " petals,",
+      "start": 37.5,
+      "end": 37.86
+     },
+     {
+      "w": " all",
+      "start": 38.14,
+      "end": 38.24
+     },
+     {
+      "w": " 19.",
+      "start": 38.24,
+      "end": 38.8
+     }
+    ],
+    "seg_rms": 0.095
+   },
+   {
+    "start": 39.14,
+    "end": 39.54,
+    "text": "No.",
+    "words": [
+     {
+      "w": " No.",
+      "start": 39.14,
+      "end": 39.54
+     }
+    ],
+    "seg_rms": 0.0241
+   },
+   {
+    "start": 40.12,
+    "end": 44.38,
+    "text": "Moss, Pia, Pio, watch his best petal.",
+    "words": [
+     {
+      "w": " Moss,",
+      "start": 40.12,
+      "end": 40.46
+     },
+     {
+      "w": " Pia,",
+      "start": 40.94,
+      "end": 41.24
+     },
+     {
+      "w": " Pio,",
+      "start": 41.66,
+      "end": 42.02
+     },
+     {
+      "w": " watch",
+      "start": 42.5,
+      "end": 42.68
+     },
+     {
+      "w": " his",
+      "start": 42.68,
+      "end": 42.86
+     },
+     {
+      "w": " best",
+      "start": 42.86,
+      "end": 43.18
+     },
+     {
+      "w": " petal.",
+      "start": 43.18,
+      "end": 44.38
+     }
+    ],
+    "seg_rms": 0.0744
+   },
+   {
+    "start": 44.74,
+    "end": 45.98,
+    "text": "Open the box, pet.",
+    "words": [
+     {
+      "w": " Open",
+      "start": 44.74,
+      "end": 45.42
+     },
+     {
+      "w": " the",
+      "start": 45.42,
+      "end": 45.54
+     },
+     {
+      "w": " box,",
+      "start": 45.54,
+      "end": 45.74
+     },
+     {
+      "w": " pet.",
+      "start": 45.9,
+      "end": 45.98
+     }
+    ],
+    "seg_rms": 0.1109
+   },
+   {
+    "start": 47.44,
+    "end": 49.62,
+    "text": "The hat and 200 real.",
+    "words": [
+     {
+      "w": " The",
+      "start": 47.44,
+      "end": 47.7
+     },
+     {
+      "w": " hat",
+      "start": 47.7,
+      "end": 48.04
+     },
+     {
+      "w": " and",
+      "start": 48.04,
+      "end": 48.76
+     },
+     {
+      "w": " 200",
+      "start": 48.76,
+      "end": 49.28
+     },
+     {
+      "w": " real.",
+      "start": 49.28,
+      "end": 49.62
+     }
+    ],
+    "seg_rms": 0.0802
+   },
+   {
+    "start": 50.42,
+    "end": 53.98,
+    "text": "One black petal, Lila, for your garden.",
+    "words": [
+     {
+      "w": " One",
+      "start": 50.42,
+      "end": 51.1
+     },
+     {
+      "w": " black",
+      "start": 51.1,
+      "end": 51.48
+     },
+     {
+      "w": " petal,",
+      "start": 51.48,
+      "end": 51.88
+     },
+     {
+      "w": " Lila,",
+      "start": 51.94,
+      "end": 52.2
+     },
+     {
+      "w": " for",
+      "start": 53.36,
+      "end": 53.46
+     },
+     {
+      "w": " your",
+      "start": 53.46,
+      "end": 53.62
+     },
+     {
+      "w": " garden.",
+      "start": 53.62,
+      "end": 53.98
+     }
+    ],
+    "seg_rms": 0.0482
+   },
+   {
+    "start": 56.06,
+    "end": 57.1,
+    "text": "Tomorrow I buy more.",
+    "words": [
+     {
+      "w": " Tomorrow",
+      "start": 56.06,
+      "end": 56.38
+     },
+     {
+      "w": " I",
+      "start": 56.38,
+      "end": 56.62
+     },
+     {
+      "w": " buy",
+      "start": 56.62,
+      "end": 56.82
+     },
+     {
+      "w": " more.",
+      "start": 56.82,
+      "end": 57.1
+     }
+    ],
+    "seg_rms": 0.077
+   }
+  ]
+ }
+}
