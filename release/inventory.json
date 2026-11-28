@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-28T04:05:59Z",
+ "scanned_utc": "2026-11-28T05:02:42Z",
  "items": [
   {
    "id": "MV-2",
@@ -45341,6 +45341,66 @@
    "audio_fp": {
     "md5_60s": "061664c91310bc429123ee061b8d9739",
     "rms_db": -38.65,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1513",
+   "title": "The Sea Cucumber",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1513_the_sea_cucumber_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4471457,
+   "mtime": 1795839750,
+   "md5": "32511d0233df38d6563c8c349cc27222",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "893cc0ec42ee44ee44fe12fc33ac59724c3a077c01f801d8c1d8c19807498e48",
+    "193cc0ec12ee0cee0cfe0efc1bac0e724b3a317c64f860d821d823981f498e48",
+    "197cc0ec12ee0cee0cfe0efc1bbc0e724f3a30786cb860d821d823981f498e48"
+   ],
+   "audio_fp": {
+    "md5_60s": "e11d006caf3dbea7be3e43660888dbec",
+    "rms_db": -41.66,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1514",
+   "title": "The Brittle Star",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1514_the_brittle_star_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 6694823,
+   "mtime": 1795841652,
+   "md5": "da0a6d8b7a320116fc8b633eeb5a7a0d",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "b3cd11f509d6199238e3386e703fd50e756e31f69cde563a11cb44e143e9431c",
+    "98eda0fb21eb21ed03bd43fd23fc819839d884f9033838d8386e1ce9c2c9c3d5",
+    "98eda0fb29eb21ed03bd43fd03fd819839d884f9033838b8387e18e9c6c9c3c5"
+   ],
+   "audio_fp": {
+    "md5_60s": "8c94c6eca2ee8b2e5e4572fac206466e",
+    "rms_db": -44.9,
     "seconds": 10.03
    }
   }

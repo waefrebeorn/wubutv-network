@@ -175,4 +175,122 @@ IDENTITY MACROS (frozen, expanded into every vehicle):
   cap-exempt line "One coin left. Tomorrow he comes for the
   bath." is UNFIRED. No rewording was attempted — the line is
   locked and cap-exempt; the route decision is the parent's.
+- U5 t1 (peak_u5 + elias_front; AMENDED lines per the
+  2026-11-27 script amendment — the parent replaced the two
+  plot-summary lines with spoken ones before U5 fired) →
+  LANDED, not shipped. Probe: 1280x720 native. ASR distil:
+  both amended lines essentially in — line 1 complete through
+  "What am I going to do?", line 2 closing complete ("So,
+  yeah, there goes my bed.") — but the seam garbles: "back"
+  (end of line 1) and "the book" (start of line 2) are lost
+  where the lines join (5.96–7.90s merged segment). No baby
+  speech; no wail segment (the 3s gap reads quiet on RMS).
+  Visual fails: the lantern night-light sits LIT on the
+  nightstand from frame 1 — the lost-light state never reads;
+  the drag wide grows a SECOND bed (duplicate prop); the
+  circled-date beat is unreadable.
+- U5 t2 (refire: lantern DARK and hidden at the open, ONE bed
+  stated twice, book beat staged, a quiet beat between the
+  lines) → LANDED → SHIPPED. Probe: 1280x720 native. ASR:
+  both amended lines IN FULL on the distil checkpoint —
+  line 1 complete incl. "I gave it back." (0.0–5.4s), line 2
+  complete incl. "Then he opens the book" (5.4–10.0s) — no
+  other speech, no wail. The dark lantern reads at the open,
+  the give-back lands, the baby leans over the open book's
+  circled page, and the bed is gone at the end with Elias
+  standing in its space. Flaws disclosed in §4.
+
+## §3 — Per-unit QC (shipped takes) + joint verification
+
+| unit | shipped take | md5 | probe | ASR (dual checkpoint) | ledgers |
+|---|---|---|---|---|---|
+| U1 | takes/u1_t2.mp4 | 7dff8bc83be6941d6afbbdcb357ade73 | 1280x720, 240f, 10.000s | CAP-EXEMPT LINE IN FULL both checkpoints ("My landlord took everything." 1.3–2.9s / "It started with one coin." 4.2–6.2s); no other speech | size HUGE ✓ · glass EMPTY ✓ · book page "ONE MONTH EARLIER" legible ✓ · exchange: the sleeping baby hugs the light tighter as the line lands ✓ |
+| U2 | takes/u2_t1.mp4 | dce7870cd6514355f6b5c313708999be | 1280x720, 240f, 10.000s | line IN FULL both checkpoints (1.9–5.9s); no other speech | size: opens knee-high, swell after payment (in a morph) — §4 · glass reads fuller than six — §4 · exchange: hand out → coin paid → growth → pictured wish ✓ (dream re-framed, §4) |
+| U3 | takes/u3_t2.mp4 | b92983cc650844bd8bc2457d329272d8 | 1152x768 (3:2), 240f, 10.000s | line IN FULL both checkpoints (0.7–6.7s); no other speech | size: late decrease to doll-small reads; no knee-high "before" — §4 · glass reads full — §4 · exchange: page tear ✓ → refusal (arms folded) ✓ → shrink → pillow at the door ✓ |
+| U4 | takes/u4_t2.mp4 | 0d346da841c964ca5c97051632cd2860 | 1152x768 (3:2), 240f, 10.000s | refusal line + THE ASIDE IN FULL both checkpoints (2.1–9.6s); no other speech | collector: grey hat on top ✓, no crown ✓ · drawing tell does NOT read as scripted — §4 · black slip not verified in sampled frames — §4 · glass not distinctly readable in the doorway framing (approximate) |
+| U5 | takes/u5_t2.mp4 | 47285319adb118807df927b27bcf459c | 1280x720, 240f, 10.000s | AMENDED lines IN FULL (distil 0.0–5.4s / 5.4–10.0s; large-v3 merged in work/qc/u5_t2/asr.json); no other speech, no wail | size: end state carries the step (bed gone, baby at the door) — §4 · glass on the windowsill, approximate · exchange: dark light found and given back ✓ → book's circled page ✓ → bed taken ✓ · crying silent on the audio (narration wall-to-wall, no wail segment) |
+| U6 | — NO TAKE — | — | — | cap-exempt line UNFIRED (refusal block, §2) | — |
+
+Identity across shipped takes: Elias is the anchored face in
+U1/U3/U4/U5 (conditioned on elias_front); U2's Elias is the
+same man at a closer framing. The baby's face varies slightly
+unit to unit (each unit conditioned on its own peak still);
+the tokens never vary: checked suit, black bowler,
+teething-ring crown (the collector: grey bowler, no crown).
+
+JOINTS (last frame → first frame, eye-verified):
+- U1→U2: DESIGNED REWIND — U1 ends on the emptied room; U2
+  opens on the full room one month earlier, motivated by the
+  book's ONE MONTH EARLIER page in U1's foreground. Room
+  geography identical (door frame-right, shelf frame-left,
+  bath in the corner). PASS as designed.
+- U2→U3: DESIGNED DREAM EXIT — U2 ends held on the pictured
+  wish (tenant asleep, baby in the cup); U3 opens on the
+  waking room. Geography consistent. PASS as designed.
+- U3→U4: U3 ends with the pillow at the door inside the room;
+  U4's room carries the pillow inside (visible behind the
+  tenant) though not leaning by the door as scripted — minor
+  placement drift, logged in §4. Geography consistent.
+- U4→U5: TIME-PASSAGE — U4 ends at the closed door by day;
+  U5 opens the same room at night, the tenant in bed.
+  Geography consistent. PASS as designed.
+- U5→U6: UNVERIFIABLE — no U6 take exists (refusal block).
+- U1↔U6 composition match (strong reference rule): UNVERI-
+  FIABLE — no U6 take exists. This joint is the casualty of
+  the refusal block; U6 was attempted on U1's shipped end
+  frame first (§2, attempt A).
+
+## §4 — DISCLOSED FLAWS (everything shipped, plainly)
+
+1. U6 IS MISSING. The finale unit was refused at the input
+   checkpoint across three input classes (video-frame
+   conditioning, still conditioning, description-only). The
+   episode goes to assembly with five units and no closing
+   destination; the cap-exempt line "One coin left. Tomorrow
+   he comes for the bath." is unrecorded, and the baby's
+   opening palm-up hand does not exist on film. Parent's
+   call: the line and staging are locked, so no rewording
+   was attempted from this chair.
+2. U2: the baby opens knee-high, not doll-small — the first
+   growth has no true "before". The climb and point beats
+   are absent. The growth lands inside a brief double-
+   exposure morph instead of a clean swell. The pictured
+   wish re-frames to a closer bedside composition instead of
+   holding the waking wide, and the dreamed baby is out of
+   his checked sleep suit in the cup (hat kept). The waking
+   shelf glass reads fuller than six coins.
+3. U3 (t2): 1152x768 (3:2) — centre-crop to 16:9 at
+   assembly. The baby never reads true knee-high at the
+   open, so the shrink reads as a late decrease rather than
+   a full knee-to-doll step. The pillow ends INSIDE the room
+   beside the door with the baby seated at it, not outside
+   in the hall on it. The shelf glass reads full, not five.
+4. U4 (t2): 1152x768 (3:2) — centre-crop at assembly. The
+   wrong-side hat in the rent book's drawing does not read
+   as scripted in either take: t2's page draws a lone hat on
+   the facing page while the drawn baby wears a small hat on
+   top — the impostor tell is carried by the narration line,
+   not the picture. The taps and door-open beats are
+   compressed (the take opens mid-encounter). The black
+   rent slip is not verified in the sampled frames. The
+   collector reads larger than doll-small. (Not shipped: t1
+   had the aside and line too, but its drawing showed two
+   babies with hats correctly on top plus invented page
+   text.)
+5. U5 (t2): the growth swell is not distinctly readable —
+   the end state (bed gone, tenant standing in its space,
+   baby at the door) carries the step. The baby reads
+   toddler-leaning rather than strictly doll-small at the
+   open. Coins lie scattered on the floorboards and the coin
+   glass sits on the windowsill (count approximate). Debris
+   on the floorboards (grade drift). The amended narration
+   (43 words) runs wall-to-wall at a fast pace with no
+   pauses. (Not shipped: t1 garbled the seam words "back"
+   and "the book", kept the lantern lit from frame 1, and
+   grew a second bed in the drag wide.)
+6. Episode-wide: the shelf carries a second smaller jar in
+   several units (a prop extra inherited from the anchors);
+   the night-light renders as a small glowing lantern (one
+   consistent prop, all units); coin counts at shelf
+   distance are approximate wherever the log says so.
 

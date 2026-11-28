@@ -701,4 +701,12 @@ NONE genre move. Ratified on single-tester-plus-guide evidence
 application distinction, not a cap change. *(Template: §4.1
 ceiling-vs-budget note.)*
 
+---
+
+## FOLD 2026-11-27 — HOW THEY TALK (user msgs 1294 + 1296)
+
+The user's verdict on the delivered new-slate E1s ("they speak like not human") was traced to two mechanisms: (1) the gates selected for proverbs and past-tense summaries, answered by THE MOUTH TEST at script lock; (2) the F-25 spoken-load cap (16–20 words per 10s unit) mechanically starved the human packaging — address terms, repetition, reaction fragments, confession — that measured factory scripts spend 30–50% of their words on (dialogue ~200 wpm, narration 268–280 wpm across five full transcripts; full evidence: `research/dialogue-from-their-scripts-20261127/HOW_THEY_TALK.md`).
+
+Rulings: the F-25 cap is superseded as a script-stage budget (dialogue ~30–45 words per 10s unit, narration up to ~45, packaging-only increase, plot ration unchanged; F-25 survives as a take-stage carriage note — split the beat across shots rather than re-compressing the script). The 12 desk habits from HOW_THEY_TALK §7 are folded into the episode_dialogue_production skill as the Mouth Test's listening criteria. Template amendment register row 58 records the change.
+
 *End of method.*
