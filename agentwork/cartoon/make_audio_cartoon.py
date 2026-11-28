@@ -321,6 +321,50 @@ if words and N > 0:
             print("BEAT word gap %.2fs at %.2f-%.2f (music bed) -> still %s drop %s" % (
                 _L2, _ga, _gb, _still, _drop), flush=True)
 
+# ---------- word-gap brow accents (2026-11-28, song fix) ----------
+# LIVING_HOLD's accent detector wants >=6 silent envelope frames before a word, and a
+# music bed never leaves six quiet frames: measured 0 brow onsets on the last two Suno
+# cuts, so the only face change in the whole clip was the button pop. A sung phrase
+# break IS silence in the vocal even when the band stays loud (this cut has 2.5 s with
+# no words before the button), so fire the accent on every word that starts after a
+# >= 0.35 s WORD gap. Envelope onsets and word-gap onsets are unioned in the renderer.
+_acc = []
+_sw = sorted(words, key=lambda w: w[1])
+for _k, _q in enumerate(_sw):
+    _f = int(round(_q[1] * FPS))
+    if _still[0] <= _f < _still[1]:
+        continue
+    if _k == 0:
+        if _q[1] >= 0.60:
+            _acc.append(_f)
+        continue
+    if _q[1] - _sw[_k - 1][2] >= 0.35:
+        _acc.append(_f)
+print("WORD-GAP accents %d at frames %s" % (len(_acc), _acc[:14]), flush=True)
+
+# ---------- character take on the button (School of Motion, 2026-11-28) ----------
+# A "take" is four poses: start -> ANTICIPATION (the opposite of the pose to come:
+# head down, eyes closing) -> a 1-frame POP to the accent (head up, eyes open, brow
+# pop) -> SETTLE (a smaller version of the accent, which is the pose the viewer
+# actually reads). Timing from the article's Warner Bros formula: ~90% ease into the
+# anticipation over 6 frames, a 1-frame pop, then a ~70% ease into the settle over 7
+# frames. Bound to the first loud frame after the authored still, so the freeze, the
+# dip and the pop all land on the button instead of scattering across the last line.
+TAKE = [0, 0, 0]
+if _drop[1] > _drop[0]:
+    _btn = int(round(_drop[0]))
+    # The anticipation is the movement OUT of the authored stillness, so it must be
+    # allowed to eat into the freeze: a take whose anticipation starts ON the button
+    # frame has one frame of dip and no read. Keep >= 0.35 s of real hold, then hand
+    # the last 6 frames of the pause to the dip.
+    _a0 = max(_still[0] + int(round(0.35 * FPS)), _btn - 6)
+    if N - _a0 >= 14:
+        TAKE = [_a0, min(_btn + 1, N - 8), min(_btn + 8, N - 1)]
+        if _still[1] > _a0:
+            _still[1] = _a0
+        print("TAKE frames %s (anticipation %d-%d, pop %d, settle %d-%d) still %s" % (
+            TAKE, TAKE[0], TAKE[1] - 1, TAKE[1], TAKE[1] + 1, TAKE[2], _still), flush=True)
+
 # ---------- rest clamp inside the authored still window (2026-11-28) ----------
 # On a song the band-limited envelope stays loud through an instrumental fill (measured
 # env 0.52-0.81 inside a 1.5 s word gap on this cut), so the jaw keeps flapping through
@@ -332,13 +376,24 @@ if words and N > 0:
 if _still[1] - _still[0] >= 6 and float(os.environ.get("STILL_REST", "0") or 0) > 0:
     _sa, _sb = _still
     _rest = float(os.environ.get("STILL_REST", "0"))
-    _ramp = 3.0
-    for _j in range(_sa, _sb):
-        _ww = min(1.0, (_j - _sa) / _ramp, (_sb - 1 - _j) / _ramp)
+    # The jaw settles BEFORE the hold and releases AFTER it: a ramp that runs inside
+    # the window makes the "still" measure as motion (face_hold_qc read 38.6% of
+    # speech, mostly the two 3-frame eases). Ramp in over 4 frames ahead of the hold
+    # and out over 2, so the authored window is flat.
+    _rin, _rout = 4, 2
+    _j0 = max(0, _sa - _rin + 1)
+    for _j in range(_j0, min(N, _sb + _rout)):
+        if _j < _sa:
+            _ww = min(1.0, (_j - _j0 + 1) / float(_rin))
+        elif _j < _sb:
+            _ww = 1.0
+        else:
+            _ww = max(0.0, 1.0 - (_j - _sb + 1) / float(_rout))
         mouth[_j] = mouth[_j] * (1 - _ww) + _rest * _ww
-        if _j >= (_sa + _sb) // 2:      # moving hold, never a frozen run
+        if _sa <= _j < _sb and _j >= (_sa + _sb) // 2:   # moving hold, never frozen-run
             mouth[_j] = min(1.0, mouth[_j] + 0.01)
-    print("STILL REST clamp %d-%d to %.2f" % (_sa, _sb, _rest), flush=True)
+    print("STILL REST clamp %d-%d (ramp in from %d, out to %d) to %.2f" % (
+        _sa, _sb, _j0, min(N, _sb + _rout), _rest), flush=True)
 
 def caption_at(t):
     gi = 0
@@ -394,7 +449,7 @@ bg, bg2 = BGS[brot % len(BGS)]
 bg = shift(bg, hue * 0.4); bg2 = shift(bg2, hue * 0.4)
 
 session = dict(w=W, h=H, fps=FPS, nframes=N, mouth=mouth, char=ch, bg=bg, bg2=bg2,
-               still=_still, brow_pop=_drop)
+               still=_still, brow_pop=_drop, accents=_acc, take=TAKE)
 sd = os.path.join(ROOT, "cache", "session_%s.json" % BASE)
 os.makedirs(os.path.dirname(sd), exist_ok=True)
 json.dump(session, open(sd, "w"))
