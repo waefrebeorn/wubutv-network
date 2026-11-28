@@ -99,6 +99,29 @@ track's 161 bpm):
   contacts on this cut, so there is nothing to rescue. Real vocal isolation (demucs or a
   Suno stem export) is the only route worth testing next; a median filter is not.
 
+## Residual: the hold is a head-hold, not a jaw-hold (measured, accepted)
+
+`beat_qc` on the shipped frames: still window 0.030 mean |diff| vs a same-length speech
+window 0.036 — 83 % of speech motion, FAIL. Cause: the band-limited envelope stays at
+0.52-0.81 through the lyric gap, so the jaw keeps singing (mouth 0.74-1.00 across the
+freeze). The freeze does suppress the bob, the blink and the brow accents; it cannot
+suppress the jaw without lying to the sync gate:
+
+| build | r(mouth,env) excl. contacts | still-hold |
+|---|---|---|
+| no rest clamp (shipped) | 0.972 PASS | 83 % of speech, FAIL |
+| `STILL_REST=0.18` (~9 px) | 0.916 FAIL | hold would read |
+
+So the clamp exists in `make_audio_cartoon.py` but defaults to 0. Do not flip it on until
+a vocal-only envelope exists (demucs or a Suno stem export) — closing the jaw on a loud
+instrumental fill is a sync-gate failure, and the user's own complaint class is a mouth
+that stops while audio plays. Report the hold as a caveat, never as a pass.
+
+Also measured this build: `LIVING_HOLD` brow onsets = 0 on a song (the detector needs six
+silent frames before a word; a music bed has none), so the only face change is the button
+pop — verified at +6 to +9 px by comparing frames 101 apart (one bob period), not by an
+absolute row delta, which the bob cancels to 3 px.
+
 ## Duration and framing notes
 
 - 28.9 s / 694 frames is the right size for one static speaker at ~0.4 fps render
