@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-28T01:31:59Z",
+ "scanned_utc": "2026-11-28T02:02:22Z",
  "items": [
   {
    "id": "MV-2",
@@ -45162,6 +45162,36 @@
    "audio_fp": {
     "md5_60s": "cb4f9bc34cdb21cbcf4a9c96f1e2d985",
     "rms_db": -49.47,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1508",
+   "title": "The Moon Snail",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1508_the_moon_snail_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3976847,
+   "mtime": 1795830645,
+   "md5": "bab829da16bd47163f393131cea8a4b7",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "8cfe4cf349c329a7b7d68786c7cc266e3f3649be0e9a839a23182d98dd98e61a",
+    "3cf67cf379c379a737d69f86c7cc0e6e273633be339a879a3b183d98fd98e71a",
+    "3cfe7cf379c379a73bd69f86c7cc0e6e277633be339a879a3f183d98fd98e71a"
+   ],
+   "audio_fp": {
+    "md5_60s": "12c0a158674cea7551fdbf6e3d010f72",
+    "rms_db": -38.63,
     "seconds": 10.03
    }
   }
