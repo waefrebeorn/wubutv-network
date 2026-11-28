@@ -212,6 +212,19 @@ DROP0, DROP1 = int(_BD[0]), int(_BD[1])
 # the button's expression change is a BROW POP: the same lift at 2.4x, which reads
 # as one clear change instead of a 3 px slide nobody sees.
 BROW_POP = float(os.environ.get("BROW_POP_MULT", "2.4"))
+# ---------- character take on the button (School of Motion, 2026-11-28) ----------
+# Four poses: start -> ANTICIPATION (the opposite of the accent: head DOWN, eyes
+# closing) -> 1-frame POP to the accent (head up, eyes open, brow pop) -> SETTLE (a
+# smaller accent held to the end, the pose the viewer reads). The article's Warner
+# Bros timing: 6 frames easing into the anticipation, a 1-frame pop, 7 frames easing
+# out into the settle. Bound to the button frame by the driver, never to a word count.
+_TK = S.get("take") or [0, 0, 0]
+TAKE0, TAKE1, TAKE2 = int(_TK[0]), int(_TK[1]), int(_TK[2])
+TK_ANT, TK_ACC, TK_SET = -0.024, 0.042, 0.026     # world units (4.0 / 7.1 / 4.4 px)
+# ---------- word-gap accents (song fix) ----------
+# The envelope detector below needs six quiet frames before a word; a music bed has
+# none (measured 0 onsets on two Suno cuts). The driver also sends word-gap onsets.
+ACC = [int(f) for f in (S.get("accents") or [])]
 if STILL1 > STILL0:
     print("STILL window %d-%d (%.2fs)" % (STILL0, STILL1, (STILL1 - STILL0) / FPS))
 if DROP1 > DROP0:
@@ -232,7 +245,16 @@ if LIVING:
             _j = _o + _k
             if 0 <= _j < N:
                 brow_lift[_j] = max(brow_lift[_j], _v)
-    print("LIVING_HOLD on, brow onsets %d" % len(_onsets))
+    print("LIVING_HOLD on, brow onsets %d (envelope) + %d (word gaps)" % (
+        len(_onsets), len(ACC)))
+    for _o in ACC:
+        if _o in _onsets or _o < 8 or _o >= N-8:
+            continue
+        for _k, _v in ((-4, 0.30), (-3, 0.55), (-2, 0.80), (-1, 0.95), (0, 1.0),
+                       (1, 1.0), (2, 0.85), (3, 0.55), (4, 0.30)):
+            _j = _o + _k
+            if 0 <= _j < N and not (STILL0 <= _j < STILL1):
+                brow_lift[_j] = max(brow_lift[_j], _v)
 
 # ---------- render loop ----------
 import os as _os
@@ -245,9 +267,10 @@ if _os.environ.get("DUMP_OBJS"):
                   [round(v, 3) for v in _o.scale])
 
 _FROM = int(os.environ.get("FRAME_FROM", "0") or 0)
+_TO = int(os.environ.get("FRAME_TO", "0") or 0) or N
 if _FROM:
     print("PARTIAL RENDER from frame %d of %d" % (_FROM, N))
-for i in range(_FROM, N):
+for i in range(_FROM, _TO):
     op = float(MOUTH[i]) if i < len(MOUTH) else 0.0
     op = max(0.0, min(1.0, op))
     _in_still = STILL1 > STILL0 and STILL0 <= i < STILL1
@@ -258,11 +281,32 @@ for i in range(_FROM, N):
     _ph = 2 * math.pi * i / (FPS * 4.2)
     _bob = 0.0 if _in_still else (
         HEAD_BOB * (0.55 * math.sin(_ph) + 0.45 * math.sin(2 * _ph + 1.2)) if LIVING else 0.0)
+    # ---- take on the button: anticipation -> pop -> settle ----
+    _tkv, _tkeye, _tkrel = 0.0, None, None
+    if TAKE1 > TAKE0 and i >= TAKE0:
+        _bob *= 0.25                 # a pop needs a still base to pop off
+        if i < TAKE1:                # anticipation: 90% ease IN to the opposite pose
+            _u = (i - TAKE0 + 1) / float(max(1, TAKE1 - TAKE0))
+            _p = _u * _u
+            _tkv = TK_ANT * _p
+            _tkeye = 0.12 * (1 - _p) + 0.006 * _p
+            _tkrel = 0.0
+        elif i <= TAKE2:             # linear out of the accent, 70% ease into settle
+            _v = (i - TAKE1) / float(max(1, TAKE2 - TAKE1))
+            _q = _v ** 0.55
+            _tkv = TK_ACC * (1 - _q) + TK_SET * _q
+            _tkeye = 0.12
+            _tkrel = 1.0 * (1 - _q) + 0.60 * _q
+        else:                        # settle holds to the end of the clip
+            _tkv = TK_SET
+            _tkeye = 0.12
+            _tkrel = 0.60
+    _hp = _bob + _tkv               # one head offset for every face part + the jaw
     # keep the opening clearly WIDER than tall: 0.52 x <=0.22. A 0.36-tall
     # opening on a 0.38-wide mouth renders as a square block (reads as a nose).
     h = 0.016 + 0.20 * op
     mouth.scale.z = h / 2.0
-    mouth.location.z = MOUTH_TOP - h / 2.0 + _bob
+    mouth.location.z = MOUTH_TOP - h / 2.0 + _hp
     # Blink (one action at a time: eyes act in the gaps, never under a loud
     # vowel). Scheduled after frame 48 so the face-QC frames are always open.
     # Close over 1 frame, hold 2, open over 2. Width stays constant: a blink is
@@ -277,6 +321,9 @@ for i in range(_FROM, N):
         ez, pz = 0.006, 0.0008
     else:
         ez, pz = 0.12, 0.060
+    if _tkeye is not None:          # the take owns the eyes: closed on the dip, open on the pop
+        ez = _tkeye
+        pz = 0.0008 if ez <= 0.02 else 0.060
     for e in EYES:
         e.scale.z = ez
     for p in PUPS:
@@ -286,17 +333,20 @@ for i in range(_FROM, N):
     cam.ortho_scale = CAM_O - 0.08 * (i / max(1, N - 1))
     if LIVING:
         for _o, _z0 in HEAD_PARTS:
-            _o.location.z = _z0 + _bob
+            _o.location.z = _z0 + _hp
         # Brow: the ordinary accent leads each sentence; inside the pop window the
         # SAME lift runs at BROW_POP so the button's face change is bigger than every
-        # other accent without inventing a second brow control.
+        # other accent without inventing a second brow control. The take supersedes
+        # both while it is running (its settle is a smaller accent, not a floor).
         _in_drop = DROP1 > DROP0 and DROP0 <= i < DROP1
         _lift = 0.0 if _in_still else BROW_LIFT * brow_lift[i]
-        if _in_drop:
+        if _tkrel is not None:
+            _lift = BROW_LIFT * BROW_POP * _tkrel
+        elif _in_drop:
             _lift *= BROW_POP
             _lift = max(_lift, BROW_LIFT * BROW_POP * 0.85)
         for _b in BROWS:
-            _b.location.z = BROW_Z + _lift + _bob
+            _b.location.z = BROW_Z + _lift + _hp
     bpy.context.view_layer.update()
     scene.frame_set(i)
     scene.render.filepath = os.path.join(OUT, "frame_%05d.jpg" % i)
@@ -304,7 +354,7 @@ for i in range(_FROM, N):
     if i < 8:
         print("MOUTHDBG", i, round(op, 3), round(h, 3))
 
-if _FROM:
-    print("CLEAN_RENDER_PARTIAL_OK", N - _FROM)
+if _FROM or _TO < N:
+    print("CLEAN_RENDER_PARTIAL_OK", _TO - _FROM)
 else:
     print("CLEAN_RENDER_OK", N)
