@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-27T23:02:00Z",
+ "scanned_utc": "2026-11-28T00:02:25Z",
  "items": [
   {
    "id": "MV-2",
@@ -44954,6 +44954,66 @@
    "audio_fp": {
     "md5_60s": "554d1b2a9e2bc2083c540aa4c8122c41",
     "rms_db": -42.53,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1503",
+   "title": "The Cockle Shell",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1503_the_cockle_shell_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 3202789,
+   "mtime": 1795821659,
+   "md5": "c861f24066d0150bd464a60ba372600f",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "1d673eee3e46fa867f27762566ed47b709f60b7f1b9f0cdd07996b115c91e59a",
+    "7f47eeeef646f286f7273625b6e507b70ff6073f1b9f18dd03997b115c91e59b",
+    "7d47feeef646f286f7273625b6ad0fb704e6077f1b9f18dd039b7b115c91e59a"
+   ],
+   "audio_fp": {
+    "md5_60s": "24e511d6f636006d5941f2a2236442ea",
+    "rms_db": -40.54,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1504",
+   "title": "The Scallop Shell",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1504_the_scallop_shell_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4981102,
+   "mtime": 1795823471,
+   "md5": "83386731c3b28a6fddb08c1f78470d39",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "3ffe1fe78fe78f644be659e618ee98eca8ff1e771bf70dfe26f11ee1cb612f33",
+    "17fc0fe70fe70f641be6d1e668e670eca0ff147715f719fe19f118e1db612f3b",
+    "1ffc1fe70fe70f641be6d1e668e670ec20fe147715f719fe19f138e35b612f3b"
+   ],
+   "audio_fp": {
+    "md5_60s": "af537977d6552c72879e4491920f2ec4",
+    "rms_db": -42.64,
     "seconds": 10.03
    }
   }
