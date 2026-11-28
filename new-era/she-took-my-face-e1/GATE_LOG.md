@@ -392,7 +392,131 @@ the two-grin mechanic is the episode's identity risk.)
   no smile on her face to crack, and no crack; the episode's
   final frame does not exist in this take. The print ORA holds
   shows a one-grin portrait, not the two-grin face.
-  ASR: (running at log time — the refire plan is set either
-  way: drop the U5 last frame from the ref set, add nino_front
-  .png, hold the proof tableau, and stage the mirror beat with
-  her face locked to the anchor wearing both grins)
+  ASR (dual, work/qc/u6_t1/asr.json): BOTH lines FULL on BOTH
+  checkpoints — the revocation (cap-exempt) 0.72–5.62s and
+  NINO's line 5.72–7.60s. Lines: 2/2, cap-exempt LANDED. The
+  take fails on picture alone. → REFIRE.
+- t2 (fired 2026-11-27): refs = peak_u6.png + vella_front.png +
+  nino_front.png (U5 last frame dropped); vehicle
+  work/vehicles/u6_t2.txt (proof tableau held; NINO's face
+  locked with the never-grows-a-mouth sentence; mirror beat
+  staged in the same wide frame). Probe: 1280×720, 24fps, 240f,
+  10.000s. md5 9e560af939a2e949adb36a1dece72ca0.
+  VISUAL: THE PROOF READS — frame 1: NINO (profile, smooth
+  lower face ✓) holds the bottle beside VELLA's two grins while
+  ORA holds the fresh print showing the same two-grin portrait;
+  the print passes to NINO, who studies it (frames 3–4). THE
+  CRACK LANDED: in the final frame her finger touches the
+  corner of the grin and a dark jagged crack splits it there
+  (verified at crop, work/qc/u6_t2/f239_grin.png). FLAWS:
+  (1) in the final mirror frame she wears ONE grin (eyes shut)
+  — the two-grin stack normalises at the very end again;
+  (2) ORA's certificate-down beat is not clearly verifiable in
+  the sampled frames; (3) NINO's hair/face still drift slightly
+  from the anchor across the episode (he reads as the same man
+  as U4 t2 rather than U1 t2 — the parent should know the
+  episode carries two NINO reads: U1/U3 straighter-haired,
+  U4/U6 curlier).
+  ASR (dual, work/qc/u6_t2/asr.json): BOTH lines FULL on BOTH
+  checkpoints — the revocation (cap-exempt) 1.20–6.04s and
+  NINO's line 6.20–7.86s. Lines: 2/2, cap-exempt LANDED.
+  SHIP DECISION: t2 SHIPS. It keeps t1's perfect lines and
+  fixes the picture: the proof reads, NINO is the right man
+  with a smooth face, and the crack — the episode's final
+  image — exists. Its disclosed flaws stand as listed above.
+
+## §4b JOINTS (shipped takes, in order)
+
+- U1→U2: studio day → shop evening; a conditioned reset, not a
+  literal last-frame chain (new location, new light). World,
+  cast and palette continuous.
+- U2→U3: evening shop → day street; reset. The bottle wall
+  carries the joint.
+- U3→U4: LITERAL — U3 ships ending on the two entering the
+  shop door; U4 t1 opened on that door, and the shipped U4 t2
+  was conditioned on the same frame. The strongest joint in
+  the episode.
+- U4→U5: shop → studio wedding shoot; reset. VELLA's red dress
+  and the bottle props carry it.
+- U5→U6: same studio, continuous event; U6 was conditioned on
+  the PEAK + anchors rather than U5's last frame (the clamp
+  close-up carried the normalised face — the U5 lesson), so
+  the joint is a framing reset inside one continuous scene.
+- NINO reads as two neighbouring actors across the episode
+  (U1/U3 straighter-haired; U4/U6 curlier) — disclosed above
+  and in the flaw list; the red scarf, suit and blank lower
+  face hold in every shipped take.
+
+## §4c CONSOLIDATED DISCLOSED-FLAW LIST (shipped takes)
+
+1. U1: NINO's line lands but is very quiet (segment rms 0.024
+   vs ~0.17 for the other lines; the distil checkpoint does
+   not register it). Master ear-read is the judge.
+2. U1: a faint mouth seam survives on NINO at crop
+   magnification in frontal frames; his hand covers the mouth
+   area in the end beat, so the final frames cannot be
+   verified blank.
+3. U1: VELLA's stacked grins merge visually in her final
+   profile turn (profile geometry).
+4. U2: mid-take, while she holds the peeled mask, her mirror
+   reflection normalises to one grin with eyes shut.
+5. U2: the final profile frame does not separately prove the
+   two grins; the crooked-two end state is staged through the
+   re-application action. The slip-by-itself beat is carried
+   by a quick palm-push and is easy to miss.
+6. U3: the shop sign text is Italian-flavoured (in-world text
+   class); a faint shadow on NINO's lower face in the closest
+   profile reads as shading at full-frame size.
+7. U4: in the aside turn NINO's face is frontal WITH a mouth,
+   and his face drifts from the anchor (the curlier read).
+8. U4: VELLA's two grins are never frontally proven in the
+   take (she plays small or turned — unproven, not
+   contradicted).
+9. U4: the law line's closing "I sell it" is not separately
+   ASR-verifiable (the rest of the line is full on both
+   checkpoints).
+10. U4: the sale is paid with a banknote, not coins.
+11. U5: the laugh event is not ASR-verified in the shipped
+    take (visually staged — her face in a laughing rictus,
+    the room staring; t1's laugh registered on the distil
+    checkpoint at 6.58–7.30s). Master ear-read owed.
+12. U5: in the laugh's middle frames her face reads as
+    laughing herself before the clamp restores the fight.
+13. U5: the bride's tears read ambiguous happy/sad.
+14. U6: in the final mirror frame VELLA wears one grin (eyes
+    shut); the crack at its corner is present and verified.
+15. U6: ORA's certificate-down beat is not clearly verifiable
+    in the sampled frames.
+16. EPISODE: in-world text garbles throughout (certificate
+    wordings, shop signs, labels) — designed-object class,
+    never a refire reason, disclosed per the brief.
+17. EPISODE: VELLA's canonical design carries NO eyes (two
+    stacked grins only — GATE_LOG §1); several shipped frames
+    give her closed eyes above the grins (U2 mid-take, U5
+    laugh frames, U6 final frame). The two-grin identity —
+    the brief's test — holds wherever the script needs it
+    proven: U1 tableau, U2 open, U5 open, U6 proof.
+
+## §4d FIRE TALLY
+
+11 video fires: U1×2, U2×2, U3×1, U4×2, U5×2, U6×2. Every
+shipped take probes 1280×720 / 24fps / 240f / 10.000s with
+native audio. No 429/budget signal was hit; no fire was
+retried for outage. Refires spent: U1 (identity + missing
+line), U2 (end-state identity), U4 (cap-exempt aside missing
++ identity), U5 (identity + missing line), U6 (picture:
+proof unreadable + final frame missing). U3 shipped t1.
+All three cap-exempt lines landed full in the shipped takes.
+
+## PARENT ASSEMBLY + DELIVERY (2026-11-27, parent)
+
+- Joined: filter-concat of the six shipped takes (U1 u1_t2, U2 u2_t2, U3 u3_t1, U4 u4_t2, U5 u5_t2, U6 u6_t2 — md5s verified against COMPLETION.json before assembly). Joined probe: 1440 frames exactly; video stream duration 60.125s (the known first-segment offset artifact) — corrected at the master encode, per the BIG JAR recipe.
+- Master: `masters/she_took_my_face_e1_16x9.mp4`, md5 `c3dd2adc783812d8d083f9ff6b59b2d0`, 23,673,107 B. Probe: 1280×720, 24fps, 1440 frames, video 60.000s, audio 60.000s (AAC 48k), start_time 0.000 both streams, faststart. Recipe: drawtext bug "~ WuBu ~" gold bottom-right → video setpts=N/(24*TB); audio atrim=end=60, asetpts=N/SR/TB, re-encoded.
+- CRF-18 proof: size differential vs same-chain CRF-23 control (`work/master_crf23_control.mp4`, 14,082,167 B) = 1.68× (SEI string invalid on this ffmpeg build — see the 2026-11-15 finding).
+- Bug eye-verified on the 55s master frame (`work/qc_master_55s.png`): "~ WuBu ~" gold, bottom-right, legible; frame also shows the studio proof tableau (NINO with the print, VELLA in profile, certificate on the wall, smile-label bottles).
+- Master ear-read (dual ASR on the finished master, `work/qc/master_asr.json`): story reads cold from the transcript alone. 15/16 scripted lines verified full on the master; ALL THREE cap-exempt lines landed full (ORA's law U1 "One smile, one face. Stamped. Sold. Legal."; NINO's aside U4 "Then watch me peel it back." 38.55–39.67s; ORA's revocation U6 "Two smiles, one face." + "My stamp is wrong."). NINO's quiet U1 line "One of those is mine." (rms 0.023) registers on BOTH checkpoints on the master. U2 ships speech-free (score only) as scripted.
+- The one unverified tail: VELLA's U4 law line lands as "A face is just a sticker. I peel it." on both checkpoints — the closing "I sell it" is not separately ASR-verifiable in the take or the master (disclosed, shipped under fail-once-then-ship).
+- Quote-back test: "A face is just a sticker. I peel it." ✓ verbatim in master; "Then watch me peel it back." ✓ verbatim both checkpoints; "Two smiles. One face. My stamp is wrong." ✓ verbatim both checkpoints.
+- U5 laugh: visually staged; no laugh registers on either ASR checkpoint on the master either — disclosed.
+- Full disclosed-flaw list: COMPLETION.json `disclosed_flaws` (18 items) stands as the delivery disclosure.
+- Catalogued `SHE-TOOK-MY-FACE-E1` (ARC-2) in release/catalogue.py. Delivered in main chat 2026-11-27 with the master attached; awaiting the user's playback verdict.

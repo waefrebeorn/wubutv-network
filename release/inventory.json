@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-28T00:02:25Z",
+ "scanned_utc": "2026-11-28T01:31:59Z",
  "items": [
   {
    "id": "MV-2",
@@ -2912,6 +2912,64 @@
    "audio_fp": {
     "md5_60s": "d76571f33dab584427fe202739761be4",
     "rms_db": -22.23,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "SHE-TOOK-MY-FACE-E1",
+   "title": "SHE TOOK MY FACE E1 \u2014 Whose Smile Is She Wearing?",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/she-took-my-face-e1/masters/she_took_my_face_e1_16x9.mp4",
+   "lore": {
+    "arc": "ARC-2",
+    "chain": null
+   },
+   "delivered": "2026-11-27",
+   "blam_class": null,
+   "exists": true,
+   "size": 23673107,
+   "mtime": 1795825163,
+   "md5": "c3dd2adc783812d8d083f9ff6b59b2d0",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "281e481e49c60d86480c8c8e0d9a2c3c443e459a41ba4283cab7831302630653",
+    "e927ab476b476b676b65ef476da56dcd6d896d99ed896d912d916d91ed917d91",
+    "99351dbd1bb510a530c431c531c631e625c425d021c625861b8f078e0705070c"
+   ],
+   "audio_fp": {
+    "md5_60s": "538e850471f1f65a8a607fa5d3394e73",
+    "rms_db": -20.88,
+    "seconds": 60.0
+   }
+  },
+  {
+   "id": "NO-TALKING-AT-THE-TABLE-E1",
+   "title": "NO TALKING AT THE TABLE E1 \u2014 Who Loses His Chair First?",
+   "kind": "show-episode",
+   "tier": "current",
+   "path": "/home/hatch/workspace/wubutv-network/new-era/no-talking-at-the-table-e1/masters/no_talking_at_the_table_e1_16x9.mp4",
+   "lore": {
+    "arc": "ARC-1",
+    "chain": null
+   },
+   "delivered": "2026-11-27",
+   "blam_class": null,
+   "exists": true,
+   "size": 25765966,
+   "mtime": 1795828078,
+   "md5": "71d6e9885eab83985e74ca6a772ec8a0",
+   "duration_s": 60.0,
+   "frames": 1440,
+   "phash": [
+    "833c871ca7dc235824dc24d824d424d72ccb29e92b631ae30c8e02ae08e80221",
+    "400a504e124e1254105e12cb188ddab7d2b3947b855a03971a6f1a8f2d9d11b1",
+    "40625d185e58524e625a6ae26c8824c866c022c229c01dc24dc60c07a04480a8"
+   ],
+   "audio_fp": {
+    "md5_60s": "6c871c8c7b1d3c4a210c394aef6156e6",
+    "rms_db": -27.55,
     "seconds": 60.0
    }
   },
@@ -45014,6 +45072,96 @@
    "audio_fp": {
     "md5_60s": "af537977d6552c72879e4491920f2ec4",
     "rms_db": -42.64,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1505",
+   "title": "The Conch Shell",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1505_the_conch_shell_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4587708,
+   "mtime": 1795825290,
+   "md5": "062459c23ccc430f993222080bebdbbb",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "0563b1e1b1a3dc23cc26cc064e272e3d263d063d021c33dae1d923898e69dccd",
+    "25380578016c11cc31cc214c5c4ed85a845ecc7c0e75167511a513b94e917d98",
+    "33b31531017900f91199318d714c5858c472c47c0cee067a13ea13b98f393db8"
+   ],
+   "audio_fp": {
+    "md5_60s": "9ec8609f795251fdfa54a2f79c4fdceb",
+    "rms_db": -42.39,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1506",
+   "title": "The Abalone Shell",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1506_the_abalone_shell_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4137063,
+   "mtime": 1795827065,
+   "md5": "11d0b42ff8175d5372036f9fb802862b",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "477f62de23c223332b32276204ec047a711a03cc06ec1c7e03f321e301c3810b",
+    "1f7f26de2fc24f330f320762076c0d7a679a47cc0cec1cfe14f304e343c3c31b",
+    "1fff66de2fc24f332f720762076c0d72679a07cc0cec1cfe14f304e341c3c30b"
+   ],
+   "audio_fp": {
+    "md5_60s": "53a243793e63b641a5460558170d7750",
+    "rms_db": -51.84,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1507",
+   "title": "The Sea Urchin",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1507_the_sea_urchin_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 5909243,
+   "mtime": 1795828884,
+   "md5": "2ef18add217e483de3566561cd408d5e",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "c26b26e32ce918eb18cf2cc3e67be437362f1b3b1b1f0c1f11339005471d130d",
+    "cf223dea4ddc4ddc6d58a4f8ee347cb47db04d343f347eb4ce7cc6f0c839d270",
+    "9777cf733df26d992dd82d31e4b16e2c7f2d6db4cd7076b96cf8e6f160b1e271"
+   ],
+   "audio_fp": {
+    "md5_60s": "cb4f9bc34cdb21cbcf4a9c96f1e2d985",
+    "rms_db": -49.47,
     "seconds": 10.03
    }
   }

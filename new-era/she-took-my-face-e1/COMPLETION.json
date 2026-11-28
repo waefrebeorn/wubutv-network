@@ -1,0 +1,96 @@
+{
+  "project": "SHE TOOK MY FACE — E1",
+  "title_question": "Whose Smile Is She Wearing?",
+  "status": "COMPLETE — all six units shipped under fail-once-then-ship; parent assembles",
+  "script": "SCRIPT_E1.md LOCKED v1 (commit 34c72085)",
+  "shipped_takes": {
+    "U1": {
+      "file": "takes/u1_t2.mp4",
+      "md5": "06145897ea785d36bf0c8043c67494a9",
+      "probe": "1280x720 24fps 240f 10.000s native audio",
+      "lines": "3/3 on Checkpoint A (large-v3); ORA law full both checkpoints; VELLA full both; NINO present on A only and very quiet (rms 0.024)",
+      "cap_exempt": "ORA law LANDED FULL"
+    },
+    "U2": {
+      "file": "takes/u2_t2.mp4",
+      "md5": "a26ad94651fc9ba30d35a51bd0db295f",
+      "probe": "1280x720 24fps 240f 10.000s native audio",
+      "lines": "SCORE ONLY — both ASR checkpoints empty, no speech ships",
+      "cap_exempt": "n/a"
+    },
+    "U3": {
+      "file": "takes/u3_t1.mp4",
+      "md5": "92201220166ba2cabf6ad1a58a4ffc0a",
+      "probe": "1280x720 24fps 240f 10.000s native audio",
+      "lines": "2/2 full on both checkpoints",
+      "cap_exempt": "n/a"
+    },
+    "U4": {
+      "file": "takes/u4_t2.mp4",
+      "md5": "a6004ecec9fa5c1a29c3fc3babdd5fe4",
+      "probe": "1280x720 24fps 240f 10.000s native audio",
+      "lines": "4 lines staged; demand full both, refusal full both, aside full both; law line near-full (closing 'I sell it' not separately ASR-verifiable)",
+      "cap_exempt": "NINO aside LANDED FULL (8.70-9.74s, both checkpoints)"
+    },
+    "U5": {
+      "file": "takes/u5_t2.mp4",
+      "md5": "48966f7335830c815f0ecddb1ba21bc7",
+      "probe": "1280x720 24fps 240f 10.000s native audio",
+      "lines": "3/3 full on both checkpoints; the laugh event is visually staged but NOT ASR-verified in this take (t1's laugh registered on the distil checkpoint at 6.58-7.30s) — master ear-read owed",
+      "cap_exempt": "n/a"
+    },
+    "U6": {
+      "file": "takes/u6_t2.mp4",
+      "md5": "9e560af939a2e949adb36a1dece72ca0",
+      "probe": "1280x720 24fps 240f 10.000s native audio",
+      "lines": "2/2 full on both checkpoints",
+      "cap_exempt": "ORA revocation LANDED FULL (1.20-6.04s, both checkpoints)"
+    }
+  },
+  "cap_exempt_summary": "ALL THREE cap-exempt lines landed full in the shipped takes (U1 ORA law, U4 NINO aside, U6 ORA revocation).",
+  "non_shipped_takes": {
+    "takes/u1_t1.mp4": {
+      "md5": "3c45811233435ae6bcfd67f203d16e1f",
+      "why": "identity break — NINO grows an open mouth in profile close-ups in the back half; ORA exits frame; NINO's line absent on both checkpoints (2/3 lines)"
+    },
+    "takes/u2_t1.mp4": {
+      "md5": "9a6a25511bb679b08ee116b41bab1dab",
+      "why": "end-state identity break — final held reflection has eyes and ONE grin; audio was clean score-only"
+    },
+    "takes/u4_t1.mp4": {
+      "md5": "5796841d0e023edb5e02c1b3ba753336",
+      "why": "cap-exempt aside ABSENT on both checkpoints (3/4 lines); VELLA normalised to eyes + one grin in the back half"
+    },
+    "takes/u5_t1.mp4": {
+      "md5": "aaccbf7caaac16fd44eed94170fca61b",
+      "why": "VELLA normalised (eyes, one grin) in every speaking frame; closing line absent (2/3 lines); its laugh did register on the distil checkpoint"
+    },
+    "takes/u6_t1.mp4": {
+      "md5": "eaf66279047eb661ddeccfebed294bf6",
+      "why": "lines perfect (2/2, cap-exempt landed) but picture failed: NINO a different actor with a mouth; the proof never reads; the final mirror beat has no grins and no crack"
+    }
+  },
+  "disclosed_flaws": [
+    "U1: NINO's line is very quiet (rms 0.024 vs ~0.17; distil checkpoint does not register it) — master ear-read is the judge",
+    "U1: faint mouth seam on NINO at crop magnification in frontal frames; his hand covers the mouth area in the end beat so the final frames cannot be verified blank",
+    "U1: VELLA's stacked grins merge visually in her final profile turn (profile geometry)",
+    "U2: mid-take mirror reflection normalises to one grin with eyes shut while she holds the peeled mask",
+    "U2: the final profile frame does not separately prove two grins; the crooked-two end state is staged via the re-application action; the slip-by-itself beat is a quick palm-push and easy to miss",
+    "U3: shop sign text is Italian-flavoured (in-world text class); faint shadow on NINO's lower face in the closest profile reads as shading at full-frame size",
+    "U4: in the aside turn NINO's face is frontal WITH a mouth, and his face drifts from the anchor (curlier read)",
+    "U4: VELLA's two grins are never frontally proven in the take (small or turned — unproven, not contradicted)",
+    "U4: the law line's closing 'I sell it' is not separately ASR-verifiable",
+    "U4: the sale is paid with a banknote, not coins",
+    "U5: the laugh event is not ASR-verified in the shipped take (visually staged; master ear-read owed)",
+    "U5: in the laugh's middle frames her face reads as laughing herself before the clamp restores the fight",
+    "U5: the bride's tears read ambiguous happy/sad",
+    "U6: in the final mirror frame VELLA wears one grin (eyes shut); the crack at its corner is present and crop-verified (work/qc/u6_t2/f239_grin.png)",
+    "U6: ORA's certificate-down beat is not clearly verifiable in the sampled frames",
+    "EPISODE: NINO reads as two neighbouring actors (U1/U3 straighter-haired; U4/U6 curlier); red scarf, suit and blank lower face hold throughout",
+    "EPISODE: VELLA's canonical design has NO eyes (two stacked grins, GATE_LOG section 1); several shipped frames give her closed eyes above the grins (U2 mid-take, U5 laugh frames, U6 final frame). The two-grin identity holds wherever the script needs it proven: U1 tableau, U2 open, U5 open, U6 proof",
+    "EPISODE: in-world text garbles throughout (certificates, signs, labels) — designed-object class per the brief, never a refire reason"
+  ],
+  "assembly_recipe_for_parent": "Parent assembles: conform the six shipped takes (all already 1280x720/24fps/240f/10.000s) in order U1..U6, concat to joined (expect 1440f/60.000s), apply the ~ WuBu ~ corner bug, CRF-18 master encode with the BIG JAR recipe (video setpts=N/(24*TB) after the bug filter; audio atrim=end=60,asetpts=N/SR/TB, audio re-encoded), plus a CRF-23 control of the same joined file for the size-differential CRF-18 proof. Master-stage gates owed: master ear-read (especially U1 NINO line level and U5 laugh audibility) and the quote-back test ('A face is just a sticker. I peel it. I sell it.' / 'Then watch me peel it back.' / 'Two smiles. One face. My stamp is wrong.'). U2 ships with its native score audio intact (speech-free on both checkpoints).",
+  "fire_tally": "11 video fires (U1x2, U2x2, U3x1, U4x2, U5x2, U6x2); no 429/budget signal hit; no outage retries",
+  "gate_log": "GATE_LOG.md sections 1-4d in this folder; per-take QC under work/qc/<take>/ (strips, crops, asr.json)"
+}
