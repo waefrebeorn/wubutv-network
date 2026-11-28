@@ -98,4 +98,45 @@ IDENTITY MACROS (frozen, expanded into every vehicle):
   ASR both checkpoints: CAP-EXEMPT line IN FULL ("My landlord
   took everything." 1.3–2.9s / "It started with one coin."
   4.2–6.2s), no other speech, the baby silent throughout.
+- U2 t1 (peak_u2b + elias_front; push-in vehicle) → LANDED →
+  SHIPPED (flaws disclosed in §4). ASR both checkpoints: the
+  line landed IN FULL
+  ("My landlord is a baby. Today he came to collect the rent
+  himself." 1.9–5.9s), no other speech. Visual fails: the baby
+  reads knee-high from his first frame (no doll-small
+  "before"); the climb + point beats are absent; the growth
+  lands inside a chaotic double-exposure morph; the pictured
+  wish re-frames to a closer bedside composition and the
+  dreamed baby is out of his sleep suit in the cup.
+- U2 t2 (refire: locked wide, doll-small staged against the
+  door, no-dissolve growth, same-frame dream) → LANDED, NOT
+  SHIPPED. Probe: 1152x768 (3:2) — a format defect. The
+  doll-small read, the door climb and the glass all improved,
+  and the dream is clean with the suit kept — but the take
+  dissolves from "the tenant reaching for the coin jar, the
+  baby climbing" straight into the dream: THE PAYMENT AND THE
+  GROWTH NEVER HAPPEN ON CAMERA. The unit's core event is
+  absent, which is worse than t1's messy version of it.
+  → U2 SHIPS t1 (see §3): t1 shows the coin changing hands and
+  a visible size swell after it; t2 omits both. t1's flaws are
+  disclosed in §4.
+- U3 t1 (peak_u2b + elias_front; locked wide) → LANDED, not
+  shipped. Probe: 1152x768 (3:2). ASR both checkpoints: the
+  line landed IN FULL ("He only grows when I pay him." 2.5–4.1s
+  / "So I tried not paying." 5.6–7.1s), no other speech. The
+  calendar page tear lands (page fluttering mid-air at 1.5s)
+  and the refusal lands (arms folded), but the baby reads
+  small from his first frame — no knee-high "before" — so NO
+  SHRINK reads at all, and he ends seated on the pillow INSIDE
+  the room by the door. The shrink is the unit's ledger event:
+  refire.
+- U3 t2 (refire: empty hands stated against the peak's coin,
+  hinge-anchored sizes, pillow OUTSIDE) → LANDED → SHIPPED.
+  Probe: 1152x768 (3:2), same format defect. ASR both
+  checkpoints: the line landed IN FULL (0.7–6.7s, both
+  sentences in order), no other speech. A readable size
+  decrease lands late: the baby ends doll-small at the pillow
+  where he stood taller at the door. Flaws disclosed in §4
+  (no true knee-high at the open; pillow inside, not outside;
+  glass reads full; 3:2 crop at assembly).
 

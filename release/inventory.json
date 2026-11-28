@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-28T03:02:17Z",
+ "scanned_utc": "2026-11-28T03:33:12Z",
  "items": [
   {
    "id": "MV-2",
@@ -45281,6 +45281,36 @@
    "audio_fp": {
     "md5_60s": "bc2d7205dd64da549bd64064241a421c",
     "rms_db": -40.02,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1511",
+   "title": "The Sea Anemone",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1511_the_sea_anemone_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 6278492,
+   "mtime": 1795836059,
+   "md5": "a0150b99d17d7c3a9098ba22d9ad0f7f",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "001c8034b03638b67ed63a269a269b06330c58cbc0ea84f8067213d983992728",
+    "001c4034403678b6785638263826c7063b0ec8cbcceb34f830f230d987990669",
+    "001c4034403678b6785638263826c7063b8ecccbc4eb94f830fa31d987b90729"
+   ],
+   "audio_fp": {
+    "md5_60s": "baf7b34fd57c3cc897ab7c22b7f8ed10",
+    "rms_db": -41.46,
     "seconds": 10.03
    }
   }
