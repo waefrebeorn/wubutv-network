@@ -139,4 +139,40 @@ IDENTITY MACROS (frozen, expanded into every vehicle):
   where he stood taller at the door. Flaws disclosed in §4
   (no true knee-high at the open; pillow inside, not outside;
   glass reads full; 3:2 crop at assembly).
+- U4 t1 (peak_u4 + elias_front; push-in on the book) → LANDED,
+  not shipped. Probe: 1152x768 (3:2). ASR BOTH checkpoints:
+  the refusal line IN FULL ("His hat was on the wrong side. I
+  shut the door." 1.9–4.8s) and THE ASIDE IN FULL ("I keep one
+  coin under the bath. He does not know." 6.1–9.4s), no other
+  speech. But the book's drawing fails the tell outright: it
+  shows TWO drawn babies, both with hats correctly ON TOP, and
+  adds invented page text ("RENT: 1 GOLD • DAILY") the script
+  does not carry; the push-in also overshoots into daylight
+  close-ups for the lines. Crop evidence: work/qc/u4_t1/
+  crop_book.png.
+- U4 t2 (refire: one drawn baby, hat floating at his ear, no
+  page text, push-in held at the doorway frame) → LANDED →
+  SHIPPED. Probe: 1152x768 (3:2). ASR distil checkpoint: the
+  refusal line AND THE ASIDE both IN FULL in one pass
+  (2.1–9.6s), no other speech (large-v3 confirmation merged
+  into work/qc/u4_t2/asr.json). The drawing improved — ONE
+  drawn baby, no page text — but the wrong-side hat still does
+  not read as scripted: the drawn baby wears a small hat on
+  top and a lone hat is drawn on the facing page. The tell is
+  carried by the narration line, not the picture; disclosed
+  in §4. t2 ships over t1: no invented text, one drawn figure,
+  lamp-lit doorway framing held.
+- U6 t1 attempt A (conditioned on U1 t2's shipped end frame +
+  elias_front) → REFUSED at the input checkpoint (integrity
+  check, no frames). Not a take failure; consumes no refire.
+- U6 t1 attempt B (peak_u1b + elias_front — the exact stack
+  that landed U1 t2) → REFUSED at the input checkpoint.
+- U6 t1 attempt C (description-only, the route that landed
+  U1 t1) → REFUSED at the input checkpoint. Three input
+  classes refused instantly; the common element is this
+  unit's text. Firing stops here: U6 is reported to the
+  parent as a refusal-class block, no take exists, and the
+  cap-exempt line "One coin left. Tomorrow he comes for the
+  bath." is UNFIRED. No rewording was attempted — the line is
+  locked and cap-exempt; the route decision is the parent's.
 

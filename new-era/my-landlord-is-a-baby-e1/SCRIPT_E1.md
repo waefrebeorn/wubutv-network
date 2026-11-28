@@ -223,10 +223,16 @@ he opens the rent book to the circled date: the whole month,
 due at once. ELIAS looks at the book. He looks at his bed.
 He nods once. The baby, fed on the payment, GROWS one size
 dragging the bed out through the door.
-NARRATION:
-- ELIAS: "His light was gone. I gave it back."
-- ELIAS (as the bed moves): "He wanted the whole month. I
-  paid with the bed."
+NARRATION (AMENDED 2026-11-27 ~22:57 EST — user verdict msg
+1294: the scripts "speak like not human." The original lines
+were plot summaries, not speech. Rewritten under the MOUTH
+TEST: lines a real person would actually say, in the moment,
+with feeling — same moves, human wording):
+- ELIAS: "He lost his little light. Just sat there crying
+  in the dark. What am I gonna do? I gave it back."
+- ELIAS (as the bed moves): "Then he opens the book — the
+  whole month, all of it, now. So... yeah. There goes my
+  bed."
 THE BABY'S ANSWERS: the silent crying answers the first
 sentence before it ends; the book opened to the circled
 date answers the gift; the growth answers the payment.

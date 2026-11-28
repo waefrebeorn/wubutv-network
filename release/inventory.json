@@ -1,6 +1,6 @@
 {
  "version": 1,
- "scanned_utc": "2026-11-28T03:33:12Z",
+ "scanned_utc": "2026-11-28T04:05:59Z",
  "items": [
   {
    "id": "MV-2",
@@ -45311,6 +45311,36 @@
    "audio_fp": {
     "md5_60s": "baf7b34fd57c3cc897ab7c22b7f8ed10",
     "rms_db": -41.46,
+    "seconds": 10.03
+   }
+  },
+  {
+   "id": "B-1512",
+   "title": "The Sea Sponge",
+   "kind": "bumper",
+   "tier": "bumper",
+   "path": "/home/hatch/workspace/wubutv-network/bumpers/b1512_the_sea_sponge_16x9.mp4",
+   "lore": {
+    "arc": null,
+    "chain": null
+   },
+   "delivered": null,
+   "hook_line": null,
+   "blam_class": null,
+   "exists": true,
+   "size": 4320988,
+   "mtime": 1795837904,
+   "md5": "a24a0b55b4f3ac3d402b15da809ade39",
+   "duration_s": 10.0,
+   "frames": 240,
+   "phash": [
+    "808f92594c5c269c260c260c160c0f8c039802de01360078017c11f161d971d8",
+    "c08f425900d9209c640c230c078c318c329830de307e107808fc91f1f3d96c58",
+    "c08f42590059209c640c230c878c318c309830de34761078087c91f1e3f968d8"
+   ],
+   "audio_fp": {
+    "md5_60s": "061664c91310bc429123ee061b8d9739",
+    "rms_db": -38.65,
     "seconds": 10.03
    }
   }
